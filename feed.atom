@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>urn:2022-09-17T04:39:35.860Z</id>
+    <title>osmos::feed</title>
+    <updated>2022-09-17T04:39:35.860Z</updated>
+    <generator>osmosfeed 1.15.1</generator>
+    <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Deriving the Wave Equation]]></title>
+        <id>https://www.youtube.com/watch?v=UXqUXYaRyGU</id>
+        <link href="https://www.youtube.com/watch?v=UXqUXYaRyGU"/>
+        <updated>2022-09-16T10:00:16.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solving a maze with interacting Lennard-Jones particles]]></title>
+        <id>https://www.youtube.com/watch?v=FfnMaQF_2m8</id>
+        <link href="https://www.youtube.com/watch?v=FfnMaQF_2m8"/>
+        <updated>2022-09-16T09:00:16.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bernoulli percolation on a cubic lattice]]></title>
+        <id>https://www.youtube.com/watch?v=bHdGeR77jPg</id>
+        <link href="https://www.youtube.com/watch?v=bHdGeR77jPg"/>
+        <updated>2022-09-15T09:00:16.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phase space representation of billiards in a stadium and in a lemon]]></title>
+        <id>https://www.youtube.com/watch?v=6OPnbmLed2Y</id>
+        <link href="https://www.youtube.com/watch?v=6OPnbmLed2Y"/>
+        <updated>2022-09-14T09:00:06.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Man's Mission to Unveil Math's Beauty]]></title>
+        <id>https://www.youtube.com/watch?v=TL7XhfrLF4k</id>
+        <link href="https://www.youtube.com/watch?v=TL7XhfrLF4k"/>
+        <updated>2022-09-13T15:00:38.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A wave guide]]></title>
+        <id>https://www.youtube.com/watch?v=1NVTdzSUL6Y</id>
+        <link href="https://www.youtube.com/watch?v=1NVTdzSUL6Y"/>
+        <updated>2022-09-13T09:00:02.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solving the Heat Equation with Convection | Partial Differential Equations]]></title>
+        <id>https://www.youtube.com/watch?v=mPkZ_VVNFfo</id>
+        <link href="https://www.youtube.com/watch?v=mPkZ_VVNFfo"/>
+        <updated>2022-09-12T12:00:27.000Z</updated>
+        <author>
+            <name>Faculty of Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Rayleigh-Taylor instability under horizontal gravity with a 4:1 mass ratio]]></title>
+        <id>https://www.youtube.com/watch?v=RrP4lOEpNwE</id>
+        <link href="https://www.youtube.com/watch?v=RrP4lOEpNwE"/>
+        <updated>2022-09-12T09:00:13.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A circular wave escaping a hexagon-bestagon (long version)]]></title>
+        <id>https://www.youtube.com/watch?v=B7GsV9HvYBw</id>
+        <link href="https://www.youtube.com/watch?v=B7GsV9HvYBw"/>
+        <updated>2022-09-11T09:00:05.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phase space representation of the billiard in an ellipse]]></title>
+        <id>https://www.youtube.com/watch?v=jKARG3cqZU8</id>
+        <link href="https://www.youtube.com/watch?v=jKARG3cqZU8"/>
+        <updated>2022-09-10T09:00:32.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A circular wave escaping a hexagon-bestagon (short version)]]></title>
+        <id>https://www.youtube.com/watch?v=h4SPn2TqoJk</id>
+        <link href="https://www.youtube.com/watch?v=h4SPn2TqoJk"/>
+        <updated>2022-09-09T09:00:33.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Psychedelics: Chemicals, Consciousness, and Creativity]]></title>
+        <id>https://www.youtube.com/watch?v=kxFTWk9lLDU</id>
+        <link href="https://www.youtube.com/watch?v=kxFTWk9lLDU"/>
+        <updated>2022-09-08T19:00:09.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rocket comparison 7: Round chamber vs rectangular chamber]]></title>
+        <id>https://www.youtube.com/watch?v=mwjHeJp5XMI</id>
+        <link href="https://www.youtube.com/watch?v=mwjHeJp5XMI"/>
+        <updated>2022-09-08T09:00:21.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Aharonov-Bohm effect with a stronger magnetic field]]></title>
+        <id>https://www.youtube.com/watch?v=rjOtPdZMsqM</id>
+        <link href="https://www.youtube.com/watch?v=rjOtPdZMsqM"/>
+        <updated>2022-09-07T09:00:34.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fourier Transforms in Partial Differential Equations]]></title>
+        <id>https://www.youtube.com/watch?v=Lxq7AgGhabk</id>
+        <link href="https://www.youtube.com/watch?v=Lxq7AgGhabk"/>
+        <updated>2022-09-07T01:00:05.000Z</updated>
+        <author>
+            <name>Faculty of Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Are Lonely and How to Make Friends]]></title>
+        <id>https://www.youtube.com/watch?v=I9hJ_Rux9y0</id>
+        <link href="https://www.youtube.com/watch?v=I9hJ_Rux9y0"/>
+        <updated>2022-09-06T13:59:36.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A circular wave escaping a pentagon]]></title>
+        <id>https://www.youtube.com/watch?v=vOM-O2gXoWM</id>
+        <link href="https://www.youtube.com/watch?v=vOM-O2gXoWM"/>
+        <updated>2022-09-06T09:00:32.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zooming out of Bernoulli site percolation configurations on a lattice of triangles]]></title>
+        <id>https://www.youtube.com/watch?v=lVbop_jBm7I</id>
+        <link href="https://www.youtube.com/watch?v=lVbop_jBm7I"/>
+        <updated>2022-09-05T09:00:31.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An attempt at illustrating the Aharonov-Bohm effect]]></title>
+        <id>https://www.youtube.com/watch?v=eLlV3lgruMQ</id>
+        <link href="https://www.youtube.com/watch?v=eLlV3lgruMQ"/>
+        <updated>2022-09-04T09:00:25.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Opening a release valve in a dam, with a more regular initial state]]></title>
+        <id>https://www.youtube.com/watch?v=JSpM6F5mm7M</id>
+        <link href="https://www.youtube.com/watch?v=JSpM6F5mm7M"/>
+        <updated>2022-09-03T09:00:09.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PDE 101: Separation of Variables! ...or how I learned to stop worrying and solve Laplace's equation]]></title>
+        <id>https://www.youtube.com/watch?v=VjWtMl6vQ3Q</id>
+        <link href="https://www.youtube.com/watch?v=VjWtMl6vQ3Q"/>
+        <updated>2022-09-02T10:00:15.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All you feel: A circular wave escaping a  prism]]></title>
+        <id>https://www.youtube.com/watch?v=cW8B4Ci2zNc</id>
+        <link href="https://www.youtube.com/watch?v=cW8B4Ci2zNc"/>
+        <updated>2022-09-02T09:00:32.000Z</updated>
+        <author>
+            <name>Nils Berglund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The weirdest paradox in statistics (and machine learning)]]></title>
+        <id>https://www.youtube.com/watch?v=cUqoHQDinCM</id>
+        <link href="https://www.youtube.com/watch?v=cUqoHQDinCM"/>
+        <updated>2022-08-30T14:00:18.000Z</updated>
+        <author>
+            <name>Mathemaniac</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Physics-Informed Dynamic Mode Decomposition (PI-DMD)]]></title>
+        <id>https://www.youtube.com/watch?v=lx-msllg1kU</id>
+        <link href="https://www.youtube.com/watch?v=lx-msllg1kU"/>
+        <updated>2022-08-26T16:00:28.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Circle billiard with 10 000 balls]]></title>
+        <id>https://www.youtube.com/watch?v=mcmHLtVkvRo</id>
+        <link href="https://www.youtube.com/watch?v=mcmHLtVkvRo"/>
+        <updated>2022-08-24T18:39:02.000Z</updated>
+        <author>
+            <name>Alexander Gustafsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhancing Computational Fluid Dynamics with Machine Learning]]></title>
+        <id>https://www.youtube.com/watch?v=i-_1RY6EBI0</id>
+        <link href="https://www.youtube.com/watch?v=i-_1RY6EBI0"/>
+        <updated>2022-08-19T10:00:24.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientific Controversies: James Webb Space Telescope]]></title>
+        <id>https://www.youtube.com/watch?v=pCRwJdwFvmI</id>
+        <link href="https://www.youtube.com/watch?v=pCRwJdwFvmI"/>
+        <updated>2022-08-18T15:00:35.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Medicine Singers Live at Greenwood Cemetery - Sunrise (Rumble) ft. Yonatan Gat]]></title>
+        <id>https://www.youtube.com/watch?v=M6Nz9dasR3k</id>
+        <link href="https://www.youtube.com/watch?v=M6Nz9dasR3k"/>
+        <updated>2022-08-18T13:00:07.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How many people might ever exist, calculated]]></title>
+        <id>https://www.youtube.com/watch?v=r6sa_fWQB_4</id>
+        <link href="https://www.youtube.com/watch?v=r6sa_fWQB_4"/>
+        <updated>2022-08-16T15:50:00.000Z</updated>
+        <author>
+            <name>Primer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Two Physicists Unlocked the Secrets of Two Dimensions]]></title>
+        <id>https://www.youtube.com/watch?v=kpsu9_ql0-M</id>
+        <link href="https://www.youtube.com/watch?v=kpsu9_ql0-M"/>
+        <updated>2022-08-16T15:45:19.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Civilization on the Brink of Collapse?]]></title>
+        <id>https://www.youtube.com/watch?v=W93XyXHI8Nw</id>
+        <link href="https://www.youtube.com/watch?v=W93XyXHI8Nw"/>
+        <updated>2022-08-16T13:59:34.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black hole passing in front of the Andromeda galaxy]]></title>
+        <id>https://www.youtube.com/watch?v=M70sUauxrdc</id>
+        <link href="https://www.youtube.com/watch?v=M70sUauxrdc"/>
+        <updated>2022-08-14T10:14:18.000Z</updated>
+        <author>
+            <name>Alexander Gustafsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Annoying maze billiard]]></title>
+        <id>https://www.youtube.com/watch?v=HbwCrVyqS4I</id>
+        <link href="https://www.youtube.com/watch?v=HbwCrVyqS4I"/>
+        <updated>2022-08-12T21:16:17.000Z</updated>
+        <author>
+            <name>Alexander Gustafsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Experimental Double Pendulum on a Cart: A Benchmark System for Chaos, Learning, and Control]]></title>
+        <id>https://www.youtube.com/watch?v=OkEsTLeIP98</id>
+        <link href="https://www.youtube.com/watch?v=OkEsTLeIP98"/>
+        <updated>2022-08-12T10:00:15.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mill Creek Marsh, Atlantic White Cedar Remnants]]></title>
+        <id>https://www.youtube.com/watch?v=gacdGogOnVM</id>
+        <link href="https://www.youtube.com/watch?v=gacdGogOnVM"/>
+        <updated>2022-08-11T13:55:54.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phragmites 3D Render]]></title>
+        <id>https://www.youtube.com/watch?v=zjIOSSiJXcQ</id>
+        <link href="https://www.youtube.com/watch?v=zjIOSSiJXcQ"/>
+        <updated>2022-08-11T13:55:38.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MillCreekMarsh VR]]></title>
+        <id>https://www.youtube.com/watch?v=suEVPAcq1b0</id>
+        <link href="https://www.youtube.com/watch?v=suEVPAcq1b0"/>
+        <updated>2022-08-11T13:55:31.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring the Deep Mystery of Life's Origins]]></title>
+        <id>https://www.youtube.com/watch?v=ATubwpnVLAY</id>
+        <link href="https://www.youtube.com/watch?v=ATubwpnVLAY"/>
+        <updated>2022-08-08T15:31:36.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Use Group Theory to Speed Up Algorithms — Introduction to Groups]]></title>
+        <id>https://www.youtube.com/watch?v=KufsL2VgELo</id>
+        <link href="https://www.youtube.com/watch?v=KufsL2VgELo"/>
+        <updated>2022-08-06T20:00:03.000Z</updated>
+        <author>
+            <name>Nemean</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discrepancy Modeling with Physics Informed Machine Learning]]></title>
+        <id>https://www.youtube.com/watch?v=7n7xaviepKM</id>
+        <link href="https://www.youtube.com/watch?v=7n7xaviepKM"/>
+        <updated>2022-08-05T10:00:05.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black hole passing by]]></title>
+        <id>https://www.youtube.com/watch?v=kpakKNfkwoM</id>
+        <link href="https://www.youtube.com/watch?v=kpakKNfkwoM"/>
+        <updated>2022-08-03T17:39:26.000Z</updated>
+        <author>
+            <name>Alexander Gustafsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Highly schematic figure skating pirouette]]></title>
+        <id>https://www.youtube.com/watch?v=TZHrOXLLf7Q</id>
+        <link href="https://www.youtube.com/watch?v=TZHrOXLLf7Q"/>
+        <updated>2022-07-29T21:25:44.000Z</updated>
+        <author>
+            <name>Alexander Gustafsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deriving the Heat Equation in 2D & 3D (& in N Dimensions!) with Control Volumes and Vector Calculus]]></title>
+        <id>https://www.youtube.com/watch?v=lBZIxv1bZDo</id>
+        <link href="https://www.youtube.com/watch?v=lBZIxv1bZDo"/>
+        <updated>2022-07-29T10:00:37.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Traveling Salesman Problem: When Good Enough Beats Perfect]]></title>
+        <id>https://www.youtube.com/watch?v=GiDsjIBOVoA</id>
+        <link href="https://www.youtube.com/watch?v=GiDsjIBOVoA"/>
+        <updated>2022-07-26T16:57:05.000Z</updated>
+        <author>
+            <name>Reducible</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Deadliest Virus on Earth]]></title>
+        <id>https://www.youtube.com/watch?v=4u5I8GYB79Y</id>
+        <link href="https://www.youtube.com/watch?v=4u5I8GYB79Y"/>
+        <updated>2022-07-26T13:58:55.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good Scientific Code Workshop]]></title>
+        <id>https://www.youtube.com/watch?v=x3swaMSCcYk</id>
+        <link href="https://www.youtube.com/watch?v=x3swaMSCcYk"/>
+        <updated>2022-07-24T07:45:35.000Z</updated>
+        <author>
+            <name>JuliaDynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Heat Equation and the Steady State Heat Distribution via Laplace's Equation]]></title>
+        <id>https://www.youtube.com/watch?v=OoRwXVIXpL0</id>
+        <link href="https://www.youtube.com/watch?v=OoRwXVIXpL0"/>
+        <updated>2022-07-22T10:00:24.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Science vs. Fiction: Jennifer Egan on "The Candy House"]]></title>
+        <id>https://www.youtube.com/watch?v=T_jzGbeYkCw</id>
+        <link href="https://www.youtube.com/watch?v=T_jzGbeYkCw"/>
+        <updated>2022-07-20T14:12:16.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deriving the Heat Equation: A Parabolic Partial Differential Equation for Heat Energy Conservation]]></title>
+        <id>https://www.youtube.com/watch?v=9d8PwnKVA-U</id>
+        <link href="https://www.youtube.com/watch?v=9d8PwnKVA-U"/>
+        <updated>2022-07-15T10:00:06.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Images: James Webb Space Telescope’s New View of the Cosmos]]></title>
+        <id>https://www.youtube.com/watch?v=5sMZw_DM5eA</id>
+        <link href="https://www.youtube.com/watch?v=5sMZw_DM5eA"/>
+        <updated>2022-07-12T20:33:56.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laplace's Equation and Poisson's Equation]]></title>
+        <id>https://www.youtube.com/watch?v=nmvs0vrBT18</id>
+        <link href="https://www.youtube.com/watch?v=nmvs0vrBT18"/>
+        <updated>2022-07-08T10:00:36.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BREYER P-ORRIDGE | We Are But One]]></title>
+        <id>https://www.youtube.com/watch?v=Wx0I4Zv4Y8s</id>
+        <link href="https://www.youtube.com/watch?v=Wx0I4Zv4Y8s"/>
+        <updated>2022-07-08T00:30:02.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extra Credit: Introduction to Motion Capture and Web VR with LaJuné McMillian]]></title>
+        <id>https://www.youtube.com/watch?v=-Ztp2w_vi3o</id>
+        <link href="https://www.youtube.com/watch?v=-Ztp2w_vi3o"/>
+        <updated>2022-07-06T12:40:04.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to lie using visual proofs]]></title>
+        <id>https://www.youtube.com/watch?v=VYQVlVoWoPY</id>
+        <link href="https://www.youtube.com/watch?v=VYQVlVoWoPY"/>
+        <updated>2022-07-03T15:03:56.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why you can't solve quintic equations (Galois theory approach) #SoME2]]></title>
+        <id>https://www.youtube.com/watch?v=zCU9tZ2VkWc</id>
+        <link href="https://www.youtube.com/watch?v=zCU9tZ2VkWc"/>
+        <updated>2022-07-03T14:00:23.000Z</updated>
+        <author>
+            <name>Mathemaniac</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Partial Differential Equations Overview]]></title>
+        <id>https://www.youtube.com/watch?v=pvrIagjEk4c</id>
+        <link href="https://www.youtube.com/watch?v=pvrIagjEk4c"/>
+        <updated>2022-07-01T10:00:37.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[School’s Out, but Science Never Stops: Live Discussion with Brian Greene]]></title>
+        <id>https://www.youtube.com/watch?v=bHKbIhSWpl4</id>
+        <link href="https://www.youtube.com/watch?v=bHKbIhSWpl4"/>
+        <updated>2022-06-30T20:21:02.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientific Controversies: Genetic Manipulation]]></title>
+        <id>https://www.youtube.com/watch?v=re7LrVtTPQ4</id>
+        <link href="https://www.youtube.com/watch?v=re7LrVtTPQ4"/>
+        <updated>2022-06-28T14:29:57.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Last Human – A Glimpse Into The Far Future]]></title>
+        <id>https://www.youtube.com/watch?v=LEENEFaVUzU</id>
+        <link href="https://www.youtube.com/watch?v=LEENEFaVUzU"/>
+        <updated>2022-06-28T14:00:23.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Catch A Cheater With Math]]></title>
+        <id>https://www.youtube.com/watch?v=XTcP4oo4JI4</id>
+        <link href="https://www.youtube.com/watch?v=XTcP4oo4JI4"/>
+        <updated>2022-06-25T16:45:31.000Z</updated>
+        <author>
+            <name>Primer</name>
+        </author>
+    </entry>
+</feed>
