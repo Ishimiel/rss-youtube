@@ -126,243 +126,6 @@
       ]
     },
     {
-      "title": "JuliaDynamics",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR4GZ9B3uhyLbYRdZEr7oKg",
-      "siteUrl": "https://www.youtube.com/channel/UCR4GZ9B3uhyLbYRdZEr7oKg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=x3swaMSCcYk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=x3swaMSCcYk",
-          "publishedOn": "2022-07-24T07:45:35.000Z",
-          "wordCount": null,
-          "title": "Good Scientific Code Workshop",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Alexander Gustafsson",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFNlhrf_TKA78zKc0gKgKpg",
-      "siteUrl": "https://www.youtube.com/channel/UCFNlhrf_TKA78zKc0gKgKpg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=mcmHLtVkvRo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mcmHLtVkvRo",
-          "publishedOn": "2022-08-24T18:39:02.000Z",
-          "wordCount": null,
-          "title": "Circle billiard with 10 000 balls",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=M70sUauxrdc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=M70sUauxrdc",
-          "publishedOn": "2022-08-14T10:14:18.000Z",
-          "wordCount": null,
-          "title": "Black hole passing in front of the Andromeda galaxy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HbwCrVyqS4I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HbwCrVyqS4I",
-          "publishedOn": "2022-08-12T21:16:17.000Z",
-          "wordCount": null,
-          "title": "Annoying maze billiard",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kpakKNfkwoM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kpakKNfkwoM",
-          "publishedOn": "2022-08-03T17:39:26.000Z",
-          "wordCount": null,
-          "title": "Black hole passing by",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TZHrOXLLf7Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TZHrOXLLf7Q",
-          "publishedOn": "2022-07-29T21:25:44.000Z",
-          "wordCount": null,
-          "title": "Highly schematic figure skating pirouette",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Nils Berglund",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqO9j1kihaQzlTpxJriVWMQ",
-      "siteUrl": "https://www.youtube.com/channel/UCqO9j1kihaQzlTpxJriVWMQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=ivwXJHqC8NM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ivwXJHqC8NM",
-          "publishedOn": "2022-09-18T09:00:31.000Z",
-          "wordCount": null,
-          "title": "Phase space representation of the billiard in an annulus",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Yl2RJCub0Iw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Yl2RJCub0Iw",
-          "publishedOn": "2022-09-17T09:00:20.000Z",
-          "wordCount": null,
-          "title": "3D rendering of a wave guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FfnMaQF_2m8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FfnMaQF_2m8",
-          "publishedOn": "2022-09-16T09:00:16.000Z",
-          "wordCount": null,
-          "title": "Solving a maze with interacting Lennard-Jones particles",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bHdGeR77jPg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bHdGeR77jPg",
-          "publishedOn": "2022-09-15T09:00:16.000Z",
-          "wordCount": null,
-          "title": "Bernoulli percolation on a cubic lattice",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6OPnbmLed2Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6OPnbmLed2Y",
-          "publishedOn": "2022-09-14T09:00:06.000Z",
-          "wordCount": null,
-          "title": "Phase space representation of billiards in a stadium and in a lemon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1NVTdzSUL6Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1NVTdzSUL6Y",
-          "publishedOn": "2022-09-13T09:00:02.000Z",
-          "wordCount": null,
-          "title": "A wave guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RrP4lOEpNwE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RrP4lOEpNwE",
-          "publishedOn": "2022-09-12T09:00:13.000Z",
-          "wordCount": null,
-          "title": "A Rayleigh-Taylor instability under horizontal gravity with a 4:1 mass ratio",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=B7GsV9HvYBw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=B7GsV9HvYBw",
-          "publishedOn": "2022-09-11T09:00:05.000Z",
-          "wordCount": null,
-          "title": "A circular wave escaping a hexagon-bestagon (long version)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jKARG3cqZU8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jKARG3cqZU8",
-          "publishedOn": "2022-09-10T09:00:32.000Z",
-          "wordCount": null,
-          "title": "Phase space representation of the billiard in an ellipse",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=h4SPn2TqoJk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=h4SPn2TqoJk",
-          "publishedOn": "2022-09-09T09:00:33.000Z",
-          "wordCount": null,
-          "title": "A circular wave escaping a hexagon-bestagon (short version)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mwjHeJp5XMI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mwjHeJp5XMI",
-          "publishedOn": "2022-09-08T09:00:21.000Z",
-          "wordCount": null,
-          "title": "Rocket comparison 7: Round chamber vs rectangular chamber",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rjOtPdZMsqM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rjOtPdZMsqM",
-          "publishedOn": "2022-09-07T09:00:34.000Z",
-          "wordCount": null,
-          "title": "The Aharonov-Bohm effect with a stronger magnetic field",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vOM-O2gXoWM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vOM-O2gXoWM",
-          "publishedOn": "2022-09-06T09:00:32.000Z",
-          "wordCount": null,
-          "title": "A circular wave escaping a pentagon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lVbop_jBm7I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lVbop_jBm7I",
-          "publishedOn": "2022-09-05T09:00:31.000Z",
-          "wordCount": null,
-          "title": "Zooming out of Bernoulli site percolation configurations on a lattice of triangles",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eLlV3lgruMQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eLlV3lgruMQ",
-          "publishedOn": "2022-09-04T09:00:25.000Z",
-          "wordCount": null,
-          "title": "An attempt at illustrating the Aharonov-Bohm effect",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Association for Mathematical Research",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIiM9JGiU01JTi1jCQBPaUw",
-      "siteUrl": "https://www.youtube.com/channel/UCIiM9JGiU01JTi1jCQBPaUw",
-      "articles": []
-    },
-    {
       "title": "Kurzgesagt – In a Nutshell",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
@@ -730,6 +493,2165 @@
           "publishedOn": "2022-06-30T20:21:02.000Z",
           "wordCount": null,
           "title": "School’s Out, but Science Never Stops: Live Discussion with Brian Greene",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "3D Printing Nerd",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_7aK9PpYTqt08ERh1MewlQ",
+      "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=_yx3AbrLqio",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_yx3AbrLqio",
+          "publishedOn": "2022-09-17T13:00:17.000Z",
+          "wordCount": null,
+          "title": "VORON and More at Maker Faire OC!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TRzrnQgAmBE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TRzrnQgAmBE",
+          "publishedOn": "2022-09-16T19:48:24.000Z",
+          "wordCount": null,
+          "title": "SUNLU Terminator-3 (T3) FIRST PRINT LIVE!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=SX3O7-lmmU0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SX3O7-lmmU0",
+          "publishedOn": "2022-09-14T19:00:10.000Z",
+          "wordCount": null,
+          "title": "PRINTING BIG on the Flashforge Artemis 3D Printer!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0diCG6LIv-A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0diCG6LIv-A",
+          "publishedOn": "2022-09-10T13:00:01.000Z",
+          "wordCount": null,
+          "title": "You've NEVER Seen a 3D Printer Like THIS!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=hnXw3_8v0Ko",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hnXw3_8v0Ko",
+          "publishedOn": "2022-09-07T13:00:21.000Z",
+          "wordCount": null,
+          "title": "Fusion 360 IS EASY?! Tutorial from Punished Props!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=c5JuLsUwUX8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=c5JuLsUwUX8",
+          "publishedOn": "2022-09-03T13:00:19.000Z",
+          "wordCount": null,
+          "title": "Practical Printing and ... LICORICE?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lnDA1A9eeJ4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lnDA1A9eeJ4",
+          "publishedOn": "2022-08-27T13:00:35.000Z",
+          "wordCount": null,
+          "title": "Is RESIN Printing PRACTICAL?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=o6XFLEcHb1E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=o6XFLEcHb1E",
+          "publishedOn": "2022-08-20T13:00:26.000Z",
+          "wordCount": null,
+          "title": "MASSIVE 3D Printing with Neil Patrick Harris and MassivIT 3D",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=HESsT2h4WFI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HESsT2h4WFI",
+          "publishedOn": "2022-08-13T13:00:08.000Z",
+          "wordCount": null,
+          "title": "ONE BELT to RULE THEM ALL? Sainsmart INFI-20 Review!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ilReLKl48GQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ilReLKl48GQ",
+          "publishedOn": "2022-08-11T04:12:16.000Z",
+          "wordCount": null,
+          "title": "Mingda Magician Pro FIRST PRINT LIVE!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fBBSL15ifOY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fBBSL15ifOY",
+          "publishedOn": "2022-08-06T13:00:31.000Z",
+          "wordCount": null,
+          "title": "3D PRINTING Passive Grippers with UW Transformative Robotics Lab!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6v0bPZzsJDI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6v0bPZzsJDI",
+          "publishedOn": "2022-07-30T13:00:07.000Z",
+          "wordCount": null,
+          "title": "3D Printed LIGHTSABERS in Formlabs Resin!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=G4PaYTGMJco",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=G4PaYTGMJco",
+          "publishedOn": "2022-07-29T13:00:18.000Z",
+          "wordCount": null,
+          "title": "Transforming TARDIS? // Fan Mail Friday",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=oACXj4vzlOs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oACXj4vzlOs",
+          "publishedOn": "2022-07-23T13:00:33.000Z",
+          "wordCount": null,
+          "title": "Did Flashforge Miss the Mark?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=3kiOg7SYduE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3kiOg7SYduE",
+          "publishedOn": "2022-07-16T13:00:02.000Z",
+          "wordCount": null,
+          "title": "CF Nylon is MUCH Stronger!",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Adam Neely",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnkp4xDOwqqJD7sSM3xdUiQ",
+      "siteUrl": "https://www.youtube.com/channel/UCnkp4xDOwqqJD7sSM3xdUiQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=EdgGwDsN0xI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EdgGwDsN0xI",
+          "publishedOn": "2022-09-09T17:49:21.000Z",
+          "wordCount": null,
+          "title": "Will AI replace human musicians? | Q+A",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-y3RGeaxksY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-y3RGeaxksY",
+          "publishedOn": "2022-08-31T16:44:32.000Z",
+          "wordCount": null,
+          "title": "This Janet Jackson BASSLINE breaks laptops",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=hVFwlB5d1Io",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hVFwlB5d1Io",
+          "publishedOn": "2022-08-26T19:48:58.000Z",
+          "wordCount": null,
+          "title": "How my band toured Europe in 2022 (Sungazer Tour Vlog)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=aUavM-6UV30",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aUavM-6UV30",
+          "publishedOn": "2022-08-15T14:56:50.000Z",
+          "wordCount": null,
+          "title": "The Hidden Benefits of Stage Fright",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=dEnMexUZbnQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dEnMexUZbnQ",
+          "publishedOn": "2022-07-26T15:40:47.000Z",
+          "wordCount": null,
+          "title": "This should be IMPOSSIBLE...and yet...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=k3iDKsjSiIQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=k3iDKsjSiIQ",
+          "publishedOn": "2022-06-27T17:47:24.000Z",
+          "wordCount": null,
+          "title": "Wait, why do these basic chords sound SO GOOD? | Q+A",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "AlphaPhoenix",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCWeRTgd79JL0ilH0ZywSJA",
+      "siteUrl": "https://www.youtube.com/channel/UCCWeRTgd79JL0ilH0ZywSJA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=kaztRLkn2jM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kaztRLkn2jM",
+          "publishedOn": "2022-09-14T10:00:35.000Z",
+          "wordCount": null,
+          "title": "Sweeerve (5727 OmegaBytes)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=e8zG7CYcj5E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=e8zG7CYcj5E",
+          "publishedOn": "2022-09-13T10:00:27.000Z",
+          "wordCount": null,
+          "title": "An Interview with the CHAMPS! (587 The Hedgehogs)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=P5bmCEuGGuo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=P5bmCEuGGuo",
+          "publishedOn": "2022-09-12T10:00:13.000Z",
+          "wordCount": null,
+          "title": "This robot swings like Tarzan (3737 Roto Raptors)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gMdevp_JtsA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gMdevp_JtsA",
+          "publishedOn": "2022-09-11T10:00:19.000Z",
+          "wordCount": null,
+          "title": "Playing defense with literal thin air? (8634 Bootstraps!)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=2LdMZF8N440",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2LdMZF8N440",
+          "publishedOn": "2022-09-10T10:00:02.000Z",
+          "wordCount": null,
+          "title": "The most enthusiastic programmers I've ever met (6502 Darc Side)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=mCoV-bKzee4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mCoV-bKzee4",
+          "publishedOn": "2022-09-09T10:00:38.000Z",
+          "wordCount": null,
+          "title": "Rack and Pinion (2642 Pitt Pirates)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=swcsh8gyyIQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=swcsh8gyyIQ",
+          "publishedOn": "2022-09-08T10:00:28.000Z",
+          "wordCount": null,
+          "title": "Psyche out your opponent with LEDs (8727 Glitch 2.0)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=rQIg5XeIgQ0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rQIg5XeIgQ0",
+          "publishedOn": "2022-09-06T10:00:25.000Z",
+          "wordCount": null,
+          "title": "Why does WATER change the speed of electricity?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=BycqWYE3Ais",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BycqWYE3Ais",
+          "publishedOn": "2022-09-03T11:13:07.000Z",
+          "wordCount": null,
+          "title": "The annual engineering puzzle with 3,225 correct answers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qiMR6yAFfyA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qiMR6yAFfyA",
+          "publishedOn": "2022-07-07T10:00:26.000Z",
+          "wordCount": null,
+          "title": "Five years in 49 minutes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=eYVNZgnQ8gE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eYVNZgnQ8gE",
+          "publishedOn": "2022-06-27T10:00:32.000Z",
+          "wordCount": null,
+          "title": "50,000,000x Magnification",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Artem Kirsanov",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR2uRTQ53V_egXKFflMMaaw",
+      "siteUrl": "https://www.youtube.com/channel/UCR2uRTQ53V_egXKFflMMaaw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=jnxqHcObNK4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jnxqHcObNK4",
+          "publishedOn": "2022-08-15T19:50:42.000Z",
+          "wordCount": null,
+          "title": "Wavelets: a mathematical microscope",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "CNC Kitchen",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiczXOhGpvoQGhOL16EZiTg",
+      "siteUrl": "https://www.youtube.com/channel/UCiczXOhGpvoQGhOL16EZiTg",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=9qb25Gi4Jv0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9qb25Gi4Jv0",
+          "publishedOn": "2022-09-10T15:32:55.000Z",
+          "wordCount": null,
+          "title": "Transparent FDM 3D Prints are Clearly Stronger!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YzZqJtEOWjE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YzZqJtEOWjE",
+          "publishedOn": "2022-08-20T15:58:39.000Z",
+          "wordCount": null,
+          "title": "Perfect Layer Adhesion if you Brush Solvent onto every Layer of your Print?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=_Soz8z-vAIw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_Soz8z-vAIw",
+          "publishedOn": "2022-08-06T15:29:03.000Z",
+          "wordCount": null,
+          "title": "Volcano is Obsolete: Just use Nuts!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=eN3LsQfmXSo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eN3LsQfmXSo",
+          "publishedOn": "2022-07-16T15:30:17.000Z",
+          "wordCount": null,
+          "title": "Minimalistic CNC Router makes incredible parts! #MRRF2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xXM4liUgNNU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xXM4liUgNNU",
+          "publishedOn": "2022-07-13T15:30:09.000Z",
+          "wordCount": null,
+          "title": "The Toolchanger that ROTATES! #MRRF2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ULK1XiMbelU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ULK1XiMbelU",
+          "publishedOn": "2022-07-09T15:32:38.000Z",
+          "wordCount": null,
+          "title": "3D Printed Color Images! #MRRF2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=T5mJus0-5e0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=T5mJus0-5e0",
+          "publishedOn": "2022-07-06T15:31:39.000Z",
+          "wordCount": null,
+          "title": "The Mostly Printed 3D Printer! #MRRF2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wKGIdjCsy-E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wKGIdjCsy-E",
+          "publishedOn": "2022-06-24T15:30:12.000Z",
+          "wordCount": null,
+          "title": "Seriously NEXT LEVEL - Bambulab X1 Carbon (3D printer)",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Domain of Science",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxqAWLTk1CmBvZFPzeZMd9A",
+      "siteUrl": "https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A",
+      "articles": []
+    },
+    {
+      "title": "Everyday Astronaut",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6uKrU_WqJ1R2HMTY3LIx5Q",
+      "siteUrl": "https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=nzplxkfPdEA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nzplxkfPdEA",
+          "publishedOn": "2022-09-17T17:00:01.000Z",
+          "wordCount": null,
+          "title": "Up close and personal with Firefly's Alpha rocket!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Pics_iuBv9s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Pics_iuBv9s",
+          "publishedOn": "2022-09-12T21:53:29.000Z",
+          "wordCount": null,
+          "title": "[SCRUBBED][4K] Watch Firefly's Second Orbital Launch Attempt Of Their Alpha Rocket!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=hEbhlxF29BM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hEbhlxF29BM",
+          "publishedOn": "2022-09-12T01:14:16.000Z",
+          "wordCount": null,
+          "title": "[SCRUBBED][4K] Watch Firefly's Second Orbital Launch Attempt Of Their Alpha Rocket!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Rv4FXgN8A1g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Rv4FXgN8A1g",
+          "publishedOn": "2022-09-03T17:33:42.000Z",
+          "wordCount": null,
+          "title": "[SCRUBBED][4K] LIVE 3.5 miles from NASA's most powerful rocket ever going to the moon!!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Y9x-QkWCzrc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Y9x-QkWCzrc",
+          "publishedOn": "2022-08-29T15:11:53.000Z",
+          "wordCount": null,
+          "title": "[SCRUBBED] [4K] LIVE 3.5 miles from NASA's most powerful rocket ever, to the moon!!! #Artemis1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0apFmbo_a1Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0apFmbo_a1Y",
+          "publishedOn": "2022-08-29T00:10:45.000Z",
+          "wordCount": null,
+          "title": "Artemis 1 Q&A and Prelaunch Party!!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=loGD3nM7awk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=loGD3nM7awk",
+          "publishedOn": "2022-08-28T19:59:57.000Z",
+          "wordCount": null,
+          "title": "I Built The Ultimate 4K Rocket Chasing Van! Retired News Van Makeover Build And Tour!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ALiNmzoo1_E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ALiNmzoo1_E",
+          "publishedOn": "2022-07-14T13:59:58.000Z",
+          "wordCount": null,
+          "title": "Raptor 1 VS Raptor 2: What's New // What's Different",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=E7MQb9Y4FAE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=E7MQb9Y4FAE",
+          "publishedOn": "2022-07-09T14:59:58.000Z",
+          "wordCount": null,
+          "title": "Elon Musk Explains SpaceX's Raptor Engine!",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Freya Holmér",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7M-Wz4zK8oikt6ATcoTwBA",
+      "siteUrl": "https://www.youtube.com/channel/UC7M-Wz4zK8oikt6ATcoTwBA",
+      "articles": []
+    },
+    {
+      "title": "Interesting Engineering",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEuiOszNd6msGgqsD0f9YAQ",
+      "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=-jz3gUtcH5s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-jz3gUtcH5s",
+          "publishedOn": "2022-09-19T12:34:04.000Z",
+          "wordCount": null,
+          "title": "Marconi: The Father of Radio",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=RpPa8pJ3MmU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RpPa8pJ3MmU",
+          "publishedOn": "2022-09-17T15:00:27.000Z",
+          "wordCount": null,
+          "title": "How To Make Wood Fire Resistant?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kevWjledaX0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kevWjledaX0",
+          "publishedOn": "2022-09-17T09:27:24.000Z",
+          "wordCount": null,
+          "title": "3D printing is taking over the world",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vFtO0cb1Xo8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vFtO0cb1Xo8",
+          "publishedOn": "2022-09-16T23:03:56.000Z",
+          "wordCount": null,
+          "title": "Will ''The Line'' Be a Place to Live in the Future?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=LBxq42w03dw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LBxq42w03dw",
+          "publishedOn": "2022-09-16T13:00:10.000Z",
+          "wordCount": null,
+          "title": "Audi Charging Hub Offers Speedy and Comfy Experience",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=97e2sHInvS8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=97e2sHInvS8",
+          "publishedOn": "2022-09-16T08:56:53.000Z",
+          "wordCount": null,
+          "title": "New Level on the Fight Against Global Warming: We Need to Freeze the Arctic",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=sBK9p7CHVl0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sBK9p7CHVl0",
+          "publishedOn": "2022-09-14T14:31:07.000Z",
+          "wordCount": null,
+          "title": "How Will War in Space Look Like?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9Z6G2loFY9k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9Z6G2loFY9k",
+          "publishedOn": "2022-09-14T09:00:05.000Z",
+          "wordCount": null,
+          "title": "Protecting The Seas With A.I",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=K-HOHoJbOy4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=K-HOHoJbOy4",
+          "publishedOn": "2022-09-12T13:00:09.000Z",
+          "wordCount": null,
+          "title": "The First Computer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=63hupzNAv8U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=63hupzNAv8U",
+          "publishedOn": "2022-09-11T14:33:56.000Z",
+          "wordCount": null,
+          "title": "Accurately test mobile devices",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gU12GetuUxU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gU12GetuUxU",
+          "publishedOn": "2022-09-10T15:00:28.000Z",
+          "wordCount": null,
+          "title": "3D Printing Is Becoming Unstoppable",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=PNc2uN9TncQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PNc2uN9TncQ",
+          "publishedOn": "2022-09-10T13:00:26.000Z",
+          "wordCount": null,
+          "title": "Maybe it’s time we eat less junk for our mental health.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jvLK7V3PYOU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jvLK7V3PYOU",
+          "publishedOn": "2022-09-09T15:00:36.000Z",
+          "wordCount": null,
+          "title": "New Level on the Fight Against Global Warming: We Need to Freeze the Arctic",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Internet Pitstop",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2SVUGk_kWw62xkFxOGI7Ig",
+      "siteUrl": "https://www.youtube.com/channel/UC2SVUGk_kWw62xkFxOGI7Ig",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=m0zfeHjVB20",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=m0zfeHjVB20",
+          "publishedOn": "2022-09-07T22:50:56.000Z",
+          "wordCount": null,
+          "title": "Which Berserk Opening Is The Best? | Analyzing The Berserk Openings",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=KR5ucS-MLGo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KR5ucS-MLGo",
+          "publishedOn": "2022-08-11T00:11:44.000Z",
+          "wordCount": null,
+          "title": "The Beauty Of Handheld Consoles",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=JovIgd9B9RQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JovIgd9B9RQ",
+          "publishedOn": "2022-07-29T01:37:49.000Z",
+          "wordCount": null,
+          "title": "The Berserk Soundtrack Is Also A Masterpiece | The Sound Of Berserk",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "PJ Explained",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWkHlUiYLeRSIMP8yM7rxxg",
+      "siteUrl": "https://www.youtube.com/channel/UCWkHlUiYLeRSIMP8yM7rxxg",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=8dUB_wsCmY4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8dUB_wsCmY4",
+          "publishedOn": "2022-09-19T12:30:13.000Z",
+          "wordCount": null,
+          "title": "Yaar... Galti Kardi Aapne (& Why It's Good?) ⋮ KABZAA & KGF Connection",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=cBAmtRvRVzU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cBAmtRvRVzU",
+          "publishedOn": "2022-09-19T07:51:08.000Z",
+          "wordCount": null,
+          "title": "SABBAC! Ye To Darpok Nikla ⋮ Black Adam #Shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=oOUliX_4FvI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oOUliX_4FvI",
+          "publishedOn": "2022-09-17T12:31:48.000Z",
+          "wordCount": null,
+          "title": "Guru... Iska Future Bohot Khatarnak Hai ☠️ ⋮ BRAHMĀSTRA Part One: Shiva",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gR06q3YKMhU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gR06q3YKMhU",
+          "publishedOn": "2022-09-17T06:28:24.000Z",
+          "wordCount": null,
+          "title": "Odin Can Litreally Save Hulk's Ass, But He Didn't ⋮ Hulk #Shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bMAMYgbh0S8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bMAMYgbh0S8",
+          "publishedOn": "2022-09-16T12:00:34.000Z",
+          "wordCount": null,
+          "title": "Spider-Man Apna Chehra Kyo Chhupata Hai?! ⋮ Spider-Man #Shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=KFVgCNWScJ8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KFVgCNWScJ8",
+          "publishedOn": "2022-09-15T10:43:48.000Z",
+          "wordCount": null,
+          "title": "Kat-Gaya... Daredevil Ke Naam Pe Dhoka Hua Hamare Sath 💀 ⋮ SHE-HULK ATTORNEY AT LAW Episode 5",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=78ITm7ufWNo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=78ITm7ufWNo",
+          "publishedOn": "2022-09-15T07:00:02.000Z",
+          "wordCount": null,
+          "title": "TMKOC Should End Now!? ⋮ Taarak Mehta Ka Ooltah Chashmah",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=UTALa1xxy50",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UTALa1xxy50",
+          "publishedOn": "2022-09-14T12:00:31.000Z",
+          "wordCount": null,
+          "title": "Theory: Alia Is The Villain ⋮ BRAHMĀSTRA Part One: Shiva",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Id6G5BdbErI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Id6G5BdbErI",
+          "publishedOn": "2022-09-13T12:31:42.000Z",
+          "wordCount": null,
+          "title": "Finally... MCU Bakchodi Nahi Kar Raha 🔥 ⋮ Werewolf By Night & Secret Invasion",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lKDi5yi9eiI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lKDi5yi9eiI",
+          "publishedOn": "2022-09-12T12:50:27.000Z",
+          "wordCount": null,
+          "title": "Asli-Sach... Public Kyo Isse Dekh Rahe Hai? ⋮ BRAHMĀSTRA Part One: Shiva",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=WkpwBVf3vW4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WkpwBVf3vW4",
+          "publishedOn": "2022-09-11T13:33:10.000Z",
+          "wordCount": null,
+          "title": "Marvel Is Serious Now, YES! ⋮ Secret Invasion #Shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=GuM1BqrG09c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GuM1BqrG09c",
+          "publishedOn": "2022-09-11T12:00:07.000Z",
+          "wordCount": null,
+          "title": "MCU Ki Almost Adult-Horror Movie ⋮ Werewolf By Night #Shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=B16eCuRtlVA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=B16eCuRtlVA",
+          "publishedOn": "2022-09-11T09:57:12.000Z",
+          "wordCount": null,
+          "title": "Kat-Gaya... Marvel Ne Mast Chut*ya Banaya ⋮ Marvel D23 All Announcements",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=y8fLd3_HeaI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=y8fLd3_HeaI",
+          "publishedOn": "2022-09-10T12:00:42.000Z",
+          "wordCount": null,
+          "title": "Brahmāstra Part 2 DEV Explained ⋮ BRAHMĀSTRA Part One: Shiva",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=nAKBJeg4FZg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nAKBJeg4FZg",
+          "publishedOn": "2022-09-10T04:45:01.000Z",
+          "wordCount": null,
+          "title": "Jio-Raja! G@and Fad Diye Tum  ⋮ Black Adam Trailer #2",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Martin Donald",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8bYucAICXmYet8pZ5Ja9Dw",
+      "siteUrl": "https://www.youtube.com/channel/UC8bYucAICXmYet8pZ5Ja9Dw",
+      "articles": []
+    },
+    {
+      "title": "minutephysics",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUHW94eEFW7hkUMVaZz4eDg",
+      "siteUrl": "https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=6tu0mIpX8nU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6tu0mIpX8nU",
+          "publishedOn": "2022-09-08T18:34:09.000Z",
+          "wordCount": null,
+          "title": "You're Technically HOTTER Than The Sun (with XKCD!)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jSMZoLjB9JE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jSMZoLjB9JE",
+          "publishedOn": "2022-09-01T16:43:59.000Z",
+          "wordCount": null,
+          "title": "Passing A Portal Through Itself",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=SD9yVca6hHI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SD9yVca6hHI",
+          "publishedOn": "2022-08-18T15:08:27.000Z",
+          "wordCount": null,
+          "title": "How Many Fossils to Go an Inch? (ft. Robert Krulwich)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zDAE9A_1NA4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zDAE9A_1NA4",
+          "publishedOn": "2022-08-04T12:00:39.000Z",
+          "wordCount": null,
+          "title": "Another Portal Paradox",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TWBEi4ZcLu4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TWBEi4ZcLu4",
+          "publishedOn": "2022-06-29T11:52:29.000Z",
+          "wordCount": null,
+          "title": "The Trinity of Quality",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "NileRed",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFhXFikryT4aFcLkLw2LBLA",
+      "siteUrl": "https://www.youtube.com/channel/UCFhXFikryT4aFcLkLw2LBLA",
+      "articles": []
+    },
+    {
+      "title": "Numberphile",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoxcjq-8xIDTYp3uz647V5A",
+      "siteUrl": "https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=BvwgdrC8vlE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BvwgdrC8vlE",
+          "publishedOn": "2022-09-11T12:23:52.000Z",
+          "wordCount": null,
+          "title": "The Dumbest Way To Solve A Maze - Numberphile",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=UDQjn_-pDSs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UDQjn_-pDSs",
+          "publishedOn": "2022-08-22T14:33:15.000Z",
+          "wordCount": null,
+          "title": "Why 7 is Weird - Numberphile",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=3V84Bi-mzQM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3V84Bi-mzQM",
+          "publishedOn": "2022-08-13T15:19:29.000Z",
+          "wordCount": null,
+          "title": "The Nescafé Equation (43 coffee beans) - Numberphile",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=NcaYEaVTA4g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NcaYEaVTA4g",
+          "publishedOn": "2022-08-05T10:00:02.000Z",
+          "wordCount": null,
+          "title": "The Notorious Question Six (cracked by Induction) - Numberphile",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bylFzBxzQ9M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bylFzBxzQ9M",
+          "publishedOn": "2022-08-03T14:51:08.000Z",
+          "wordCount": null,
+          "title": "Epic Induction - Numberphile",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=k_TEoUF12Yk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=k_TEoUF12Yk",
+          "publishedOn": "2022-06-28T15:46:52.000Z",
+          "wordCount": null,
+          "title": "Are there 10^272,000 Universes? - Numberphile",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Physics Girl",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7DdEm33SyaTDtWYGO2CwdA",
+      "siteUrl": "https://www.youtube.com/channel/UC7DdEm33SyaTDtWYGO2CwdA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ap7-Wci2-8k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ap7-Wci2-8k",
+          "publishedOn": "2022-07-01T03:59:25.000Z",
+          "wordCount": null,
+          "title": "I survived 48 hours in the most isolated camp on earth",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Real Engineering",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg",
+      "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=73mXXJpEjRI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=73mXXJpEjRI",
+          "publishedOn": "2022-09-17T15:00:05.000Z",
+          "wordCount": null,
+          "title": "The Truth about Deep Sea Mining",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0waPJXaZgEg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0waPJXaZgEg",
+          "publishedOn": "2022-08-28T15:30:47.000Z",
+          "wordCount": null,
+          "title": "The SLS is Outdated. Why Does it Exist?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=yrc632oilWo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yrc632oilWo",
+          "publishedOn": "2022-08-06T13:30:13.000Z",
+          "wordCount": null,
+          "title": "Can We Throw Satellites to Space? - SpinLaunch",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DCo2PgWSB_U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DCo2PgWSB_U",
+          "publishedOn": "2022-08-04T14:28:26.000Z",
+          "wordCount": null,
+          "title": "Testing a Space Catapult Airlock - SpinLaunch #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0k9wIsKKgqo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0k9wIsKKgqo",
+          "publishedOn": "2022-07-10T14:00:00.000Z",
+          "wordCount": null,
+          "title": "The Problem with the Next Moon Mission",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "SV Seeker",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj_XaV1ss-qdD-lPUtTEcXw",
+      "siteUrl": "https://www.youtube.com/channel/UCj_XaV1ss-qdD-lPUtTEcXw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=WWcN9W9e3_Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WWcN9W9e3_Y",
+          "publishedOn": "2022-09-15T19:25:58.000Z",
+          "wordCount": null,
+          "title": "DIY Coolant Tank and Crew Invite",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=n8OqKoQQ53Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=n8OqKoQQ53Q",
+          "publishedOn": "2022-09-15T19:23:33.000Z",
+          "wordCount": null,
+          "title": "Russellville Saturday Invite to Sailing Vessel Seeker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5ezlV_KCNwU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5ezlV_KCNwU",
+          "publishedOn": "2022-08-29T18:54:35.000Z",
+          "wordCount": null,
+          "title": "Down the Arkansas - Kerr to Dardanelle",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=b87ADdMBDQw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=b87ADdMBDQw",
+          "publishedOn": "2022-08-29T04:40:27.000Z",
+          "wordCount": null,
+          "title": "Welcome Aboard Russellville",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=XK9u5nj79w0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XK9u5nj79w0",
+          "publishedOn": "2022-08-25T13:15:36.000Z",
+          "wordCount": null,
+          "title": "Govee Water Leak Detectors for your Boat",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=J8trqLJ90bY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=J8trqLJ90bY",
+          "publishedOn": "2022-08-21T03:05:29.000Z",
+          "wordCount": null,
+          "title": "Raising Sails - Part 6 - Welding in the Mast",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=pIxygKtV6qk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pIxygKtV6qk",
+          "publishedOn": "2022-08-17T23:23:03.000Z",
+          "wordCount": null,
+          "title": "Water Fuel Separator for your Outboard",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=SVqfbhcyc-I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SVqfbhcyc-I",
+          "publishedOn": "2022-08-14T14:43:59.000Z",
+          "wordCount": null,
+          "title": "Blowing the Crap out of the Head",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=iiqCKg0sZ6c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iiqCKg0sZ6c",
+          "publishedOn": "2022-08-11T15:57:19.000Z",
+          "wordCount": null,
+          "title": "Propellers - Stainless, Aluminum, Composite - Diameter and Pitch",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0vH7IvOWH2I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0vH7IvOWH2I",
+          "publishedOn": "2022-08-08T15:51:20.000Z",
+          "wordCount": null,
+          "title": "Check Your Turbo System for Leaks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=FFaujS6fYsw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FFaujS6fYsw",
+          "publishedOn": "2022-08-05T12:00:50.000Z",
+          "wordCount": null,
+          "title": "Anchor Drag Alarm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Aydc-sya4B0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Aydc-sya4B0",
+          "publishedOn": "2022-08-02T13:28:31.000Z",
+          "wordCount": null,
+          "title": "Gangway Repairs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=3kohDDh7ZZo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3kohDDh7ZZo",
+          "publishedOn": "2022-07-31T03:40:45.000Z",
+          "wordCount": null,
+          "title": "Anchoring Setup and Real World Test",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=dufzALAWKlk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dufzALAWKlk",
+          "publishedOn": "2022-07-29T22:37:45.000Z",
+          "wordCount": null,
+          "title": "Keeping Water Out of the Boat's Fuel - REVISED",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zN8ECQrot8g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zN8ECQrot8g",
+          "publishedOn": "2022-07-28T11:57:14.000Z",
+          "wordCount": null,
+          "title": "Starlink vs T-Mobile Hotspot on a Boat",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "SmarterEveryDay",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6107grRI4m0o2-emgoDnAA",
+      "siteUrl": "https://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=VZ6_8WJ3mh8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VZ6_8WJ3mh8",
+          "publishedOn": "2022-08-27T05:54:36.000Z",
+          "wordCount": null,
+          "title": "TRACTOR PULLS: It's Not What You Think  - Smarter Every Day 276",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=cAAJUHwh9F4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cAAJUHwh9F4",
+          "publishedOn": "2022-07-21T15:14:49.000Z",
+          "wordCount": null,
+          "title": "How Does Kodak Coat Film?  Part 2 of 3 - Smarter Every Day 275",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Stuff Made Here",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj1VqrHhDte54oLgPG4xpuQ",
+      "siteUrl": "https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Gu_1S77XkiM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Gu_1S77XkiM",
+          "publishedOn": "2022-08-01T06:22:20.000Z",
+          "wordCount": null,
+          "title": "A simple human task that's insanely hard for a robot",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "The Engineering Mindset",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCk0fGHsCEzGig-rSzkfCjMw",
+      "siteUrl": "https://www.youtube.com/channel/UCk0fGHsCEzGig-rSzkfCjMw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=gXKqhFENnQc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gXKqhFENnQc",
+          "publishedOn": "2022-09-19T12:00:34.000Z",
+          "wordCount": null,
+          "title": "How Starter Motors Work",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=r0YbIQobDRg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=r0YbIQobDRg",
+          "publishedOn": "2022-09-12T12:00:30.000Z",
+          "wordCount": null,
+          "title": "Why do transformers make a humming noise?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=EnUG9og6ZO8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EnUG9og6ZO8",
+          "publishedOn": "2022-09-07T13:45:53.000Z",
+          "wordCount": null,
+          "title": "Why Cars Have a Starter Motor",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=CQtSS6g00h0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CQtSS6g00h0",
+          "publishedOn": "2022-08-25T12:00:07.000Z",
+          "wordCount": null,
+          "title": "How Transistors Work",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gtxryoHbBrM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gtxryoHbBrM",
+          "publishedOn": "2022-07-27T15:23:36.000Z",
+          "wordCount": null,
+          "title": "Double Pipe Heat Exchanger Basics Explained - industrial engineering",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qOzE5F5vFGs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qOzE5F5vFGs",
+          "publishedOn": "2022-07-21T10:18:45.000Z",
+          "wordCount": null,
+          "title": "How to control a BLDC with an Arduino",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YG81w0HFXNc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YG81w0HFXNc",
+          "publishedOn": "2022-07-16T13:48:49.000Z",
+          "wordCount": null,
+          "title": "Electronic Pressure Switches - How They Work",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=QbgTl6VSA9Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QbgTl6VSA9Y",
+          "publishedOn": "2022-06-22T16:21:15.000Z",
+          "wordCount": null,
+          "title": "How to Control a Servo With an Arduino",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Veritasium",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
+      "siteUrl": "https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=daaDuC1kbds",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=daaDuC1kbds",
+          "publishedOn": "2022-08-31T13:00:16.000Z",
+          "wordCount": null,
+          "title": "World's Highest Jumping Robot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5eW6Eagr9XA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5eW6Eagr9XA",
+          "publishedOn": "2022-08-02T16:51:13.000Z",
+          "wordCount": null,
+          "title": "The 4 things it takes to be an expert",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=EvknN89JoWo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EvknN89JoWo",
+          "publishedOn": "2022-07-22T17:03:09.000Z",
+          "wordCount": null,
+          "title": "The Man Who Killed Millions and Saved Billions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=iSNsgj1OCLA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iSNsgj1OCLA",
+          "publishedOn": "2022-06-30T12:20:58.000Z",
+          "wordCount": null,
+          "title": "The Riddle That Seems Impossible Even If You Know The Answer",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Vsauce",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6nSFpj9HTCZ5t-N3Rm3-HA",
+      "siteUrl": "https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=47H7RssfC9Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=47H7RssfC9Q",
+          "publishedOn": "2022-08-23T16:04:11.000Z",
+          "wordCount": null,
+          "title": "BIG GNUS #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vjqt8T3tJIE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vjqt8T3tJIE",
+          "publishedOn": "2022-07-11T15:09:07.000Z",
+          "wordCount": null,
+          "title": "Did People Used To Look Older?",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Zack Freedman",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUW49KGPezggFi0PGyDvcvg",
+      "siteUrl": "https://www.youtube.com/channel/UCUW49KGPezggFi0PGyDvcvg",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=GoEquOdUlGY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GoEquOdUlGY",
+          "publishedOn": "2022-08-29T13:00:08.000Z",
+          "wordCount": null,
+          "title": "Four Million Tiny Mirrors: The Insane Engineering of DLP and the Future of 3D Printing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=BCNxHGKFiQ0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BCNxHGKFiQ0",
+          "publishedOn": "2022-08-05T22:05:11.000Z",
+          "wordCount": null,
+          "title": "Meet Christopher, the EIGHT-GPU Robot Quagsire",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ZfpNbW_dHbU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZfpNbW_dHbU",
+          "publishedOn": "2022-07-20T17:55:07.000Z",
+          "wordCount": null,
+          "title": "RGB Ruined My Life: MiRage Mechanical Keyboard Mk2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Bd4NnHvTRAY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Bd4NnHvTRAY",
+          "publishedOn": "2022-07-03T16:50:33.000Z",
+          "wordCount": null,
+          "title": "3D Print a Modular Toolbox, Soldering Station, and More!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ufQmmEx1rbs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ufQmmEx1rbs",
+          "publishedOn": "2022-06-24T14:00:24.000Z",
+          "wordCount": null,
+          "title": "My Robot Intern: Brilliant AI Used Stupidly",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "You Suck At Cooking",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCekQr9znsk2vWxBo3YiLq2w",
+      "siteUrl": "https://www.youtube.com/channel/UCekQr9znsk2vWxBo3YiLq2w",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=nq9WnmCGoFQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nq9WnmCGoFQ",
+          "publishedOn": "2022-09-16T13:00:28.000Z",
+          "wordCount": null,
+          "title": "Smash Burgers - You Suck at Cooking (episode 147)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=dkquwdYY2wU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dkquwdYY2wU",
+          "publishedOn": "2022-09-03T13:00:17.000Z",
+          "wordCount": null,
+          "title": "Corn Ribs - You Suck at Cooking (episode 146)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=T3d0zQRPk4U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=T3d0zQRPk4U",
+          "publishedOn": "2022-08-04T13:00:23.000Z",
+          "wordCount": null,
+          "title": "Chocolate Ice Cream Bars - You Suck at Cooking (episode 145)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=i6udNoszSu0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=i6udNoszSu0",
+          "publishedOn": "2022-07-28T19:44:59.000Z",
+          "wordCount": null,
+          "title": "10 More Ways to Chop on Onion",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bRoyNTuOZzg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bRoyNTuOZzg",
+          "publishedOn": "2022-07-08T15:22:39.000Z",
+          "wordCount": null,
+          "title": "Home Made Crispy Chicken Nuggets (episode 144)",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "TITANS of CNC MACHINING",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc2lUKVOTXKlQR7Fm7h1JfQ",
+      "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=F4oTwwBexRk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=F4oTwwBexRk",
+          "publishedOn": "2022-09-19T11:00:16.000Z",
+          "wordCount": null,
+          "title": "Can ONE TOOL Rule Them ALL? #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=RPKkO6WZlqw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RPKkO6WZlqw",
+          "publishedOn": "2022-09-18T11:00:12.000Z",
+          "wordCount": null,
+          "title": "STUNNING 5 Axis Machining on DN Solutions DVF 6500 #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=e7dfTQvnP68",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=e7dfTQvnP68",
+          "publishedOn": "2022-09-17T11:00:31.000Z",
+          "wordCount": null,
+          "title": "Most People Have No Clue or Simply Don’t Understand How Important This Is",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=z997cFfIbjI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=z997cFfIbjI",
+          "publishedOn": "2022-09-16T11:00:40.000Z",
+          "wordCount": null,
+          "title": "This has GREAT Accuracy and Good Concentricity with Very Little Run Out #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ODexUrmvqkY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ODexUrmvqkY",
+          "publishedOn": "2022-09-15T11:00:15.000Z",
+          "wordCount": null,
+          "title": "Dual Diamond Form Grind on the Studer S41 | FORM GRINDING",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=18Hny4J4k7A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=18Hny4J4k7A",
+          "publishedOn": "2022-09-14T11:00:02.000Z",
+          "wordCount": null,
+          "title": "CNC Machining a PITBULL #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DVdW3wz7uZw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DVdW3wz7uZw",
+          "publishedOn": "2022-09-13T11:00:09.000Z",
+          "wordCount": null,
+          "title": "Manufacturing on the Highest Level | Studer Grinding | Switzerland",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=JG3W9rSFE4I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JG3W9rSFE4I",
+          "publishedOn": "2022-09-12T11:00:10.000Z",
+          "wordCount": null,
+          "title": "Precision Measurements on an ADVANCED 5-Axis CMM #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=k8M7ULDsvXg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=k8M7ULDsvXg",
+          "publishedOn": "2022-09-11T11:00:22.000Z",
+          "wordCount": null,
+          "title": "Using Multiple Metals to 3D Print the Perfect Gear Cube on the Markforged Metal X #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Uegn09kyvC4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Uegn09kyvC4",
+          "publishedOn": "2022-09-10T11:00:17.000Z",
+          "wordCount": null,
+          "title": "Grinding Custom Tool for Complex Aerospace Bulkhead Fitting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ZwRr8yOoiYE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZwRr8yOoiYE",
+          "publishedOn": "2022-09-09T11:00:19.000Z",
+          "wordCount": null,
+          "title": "My HSS End Mill Will Machine Circles Around Your Carbide Tools",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Io4riL3BM2I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Io4riL3BM2I",
+          "publishedOn": "2022-09-08T11:00:15.000Z",
+          "wordCount": null,
+          "title": "Machining The PitBull out of Raw Material",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1LbOCW93U40",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1LbOCW93U40",
+          "publishedOn": "2022-09-07T11:00:02.000Z",
+          "wordCount": null,
+          "title": "Why Do We Push Our Tools to the Limit? #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=rdVVvjMFlP0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rdVVvjMFlP0",
+          "publishedOn": "2022-09-06T11:00:23.000Z",
+          "wordCount": null,
+          "title": "Why We Keep LOSING Money?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=SYXUqRFUTUY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SYXUqRFUTUY",
+          "publishedOn": "2022-09-04T11:00:11.000Z",
+          "wordCount": null,
+          "title": "Machinist Installs Tyrolit Wheel to Grind 16-Sided POLYGON🔧 #shorts",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Business Insider",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
+      "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=VsyvKC2TwrM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VsyvKC2TwrM",
+          "publishedOn": "2022-09-18T15:00:20.000Z",
+          "wordCount": null,
+          "title": "Limes Cost 350% More As Cartels Terrorize Mexican Farmers | Big Business | Business Insider",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=HSMT5eZv7lA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HSMT5eZv7lA",
+          "publishedOn": "2022-09-17T15:00:11.000Z",
+          "wordCount": null,
+          "title": "Why Honma Golf Clubs Are So Expensive | So Expensive | Business Insider",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=SS66xA5d05c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SS66xA5d05c",
+          "publishedOn": "2022-09-16T16:00:17.000Z",
+          "wordCount": null,
+          "title": "Thai Artist Carves Snail Shells Into Ancient Art That Costs Thousands | Still Standing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=evpZy0ZsnFQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=evpZy0ZsnFQ",
+          "publishedOn": "2022-09-15T18:51:38.000Z",
+          "wordCount": null,
+          "title": "How Construction Automation Can Keep Projects On Time And Under Budget | United States Of Automation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=oyVFgOnoynk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oyVFgOnoynk",
+          "publishedOn": "2022-09-15T17:30:06.000Z",
+          "wordCount": null,
+          "title": "Climate Heroes 2022: Working Towards Solutions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=LndU1nlPQ80",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LndU1nlPQ80",
+          "publishedOn": "2022-09-15T15:00:21.000Z",
+          "wordCount": null,
+          "title": "What Army Cadets Go Through During West Point Basic Training | Boot Camp | Business Insider",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=_Qo2Nrd4Vrs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_Qo2Nrd4Vrs",
+          "publishedOn": "2022-09-14T23:00:23.000Z",
+          "wordCount": null,
+          "title": "How Roof Waste Became A Massive Issue, And How Can We Solve It | World Wide Waste | Business Insider",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fs-dd_yEH_w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fs-dd_yEH_w",
+          "publishedOn": "2022-09-14T15:00:26.000Z",
+          "wordCount": null,
+          "title": "Reach a Short-Term Savings Goal With Inspired Investing | Bright Ideas",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=odRyvM0ia-4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=odRyvM0ia-4",
+          "publishedOn": "2022-09-13T18:00:29.000Z",
+          "wordCount": null,
+          "title": "This is how limestone is mined. #limestone #mining #bigbusiness #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=hh9t3pEUCes",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hh9t3pEUCes",
+          "publishedOn": "2022-09-11T15:00:25.000Z",
+          "wordCount": null,
+          "title": "5 Of The Most Dangerous Jobs In The World | Big Business | Business Insider",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0POvRAZey5U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0POvRAZey5U",
+          "publishedOn": "2022-09-09T18:00:00.000Z",
+          "wordCount": null,
+          "title": "This is the dark truth about rubber, part two. #rubbertree #Cambodia #indigenous #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DwuEKulvZ10",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DwuEKulvZ10",
+          "publishedOn": "2022-09-08T18:00:05.000Z",
+          "wordCount": null,
+          "title": "This is the dark truth about rubber. #rubbertree #Cambodia #indigenous #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=e5qaT7btWeU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=e5qaT7btWeU",
+          "publishedOn": "2022-09-07T22:00:12.000Z",
+          "wordCount": null,
+          "title": "The True Cost Of The Green Crab Invasion, And How Whiskey Can Help | True Cost | Business Insider",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9QvE6hlLowA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9QvE6hlLowA",
+          "publishedOn": "2022-09-04T15:00:12.000Z",
+          "wordCount": null,
+          "title": "How This Florida Town Became The Sea Sponge Capital Of The World | Big Business | Business Insider",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=A-DEq8E-2nQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=A-DEq8E-2nQ",
+          "publishedOn": "2022-09-03T15:00:09.000Z",
+          "wordCount": null,
+          "title": "Why South Sea Pearls Are So Expensive | So Expensive | Business Insider",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "NinjaCakeAssassin",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUJexeVabymyw7G-rxdjUDw",
+      "siteUrl": "https://www.youtube.com/channel/UCUJexeVabymyw7G-rxdjUDw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=h5ELJAt12K8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=h5ELJAt12K8",
+          "publishedOn": "2022-09-02T21:22:24.000Z",
+          "wordCount": null,
+          "title": "Στρουμφάκια - Λωρ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kIzMdholdXA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kIzMdholdXA",
+          "publishedOn": "2022-07-29T21:32:16.000Z",
+          "wordCount": null,
+          "title": "Γάτα - Το Βίντεο Γκεμ",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "North of the Border",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCM15YNy8g-CaJ15YZCbq0Iw",
+      "siteUrl": "https://www.youtube.com/channel/UCM15YNy8g-CaJ15YZCbq0Iw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=KlB9KyBqUwc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KlB9KyBqUwc",
+          "publishedOn": "2022-09-16T15:00:12.000Z",
+          "wordCount": null,
+          "title": "This is the greatest thing I've ever made.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=cUx7kTdi8Wc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cUx7kTdi8Wc",
+          "publishedOn": "2022-09-09T15:00:21.000Z",
+          "wordCount": null,
+          "title": "I made a Realistic Kirby",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=F3YX1AdxJYs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=F3YX1AdxJYs",
+          "publishedOn": "2022-09-02T15:00:17.000Z",
+          "wordCount": null,
+          "title": "I made a Possessed Sheep / Cult of the Lamb",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=nOszrPoxDcI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nOszrPoxDcI",
+          "publishedOn": "2022-08-26T15:00:29.000Z",
+          "wordCount": null,
+          "title": "I made a bunch of REALISTIC Mario Monsters",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=XWD84PlGw3s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XWD84PlGw3s",
+          "publishedOn": "2022-08-19T15:00:32.000Z",
+          "wordCount": null,
+          "title": "I used mirrors to make infinite Mario and Luigis",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7Kzoc4pOvZU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7Kzoc4pOvZU",
+          "publishedOn": "2022-08-12T15:00:04.000Z",
+          "wordCount": null,
+          "title": "I made Mario and Luigi into Clones",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=h1tOX_TOuUc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=h1tOX_TOuUc",
+          "publishedOn": "2022-08-05T15:00:34.000Z",
+          "wordCount": null,
+          "title": "I made Cookie Monster terrorizing Gingerbread Men",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=p5L_s_5zpsQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=p5L_s_5zpsQ",
+          "publishedOn": "2022-07-29T15:00:40.000Z",
+          "wordCount": null,
+          "title": "I made Sulley and Mike but they're actually scary",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=IiSGDYVRX3w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IiSGDYVRX3w",
+          "publishedOn": "2022-07-22T15:00:21.000Z",
+          "wordCount": null,
+          "title": "I made the most cursed bowl of fruit ever",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lXdcEpn8f8U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lXdcEpn8f8U",
+          "publishedOn": "2022-07-15T15:00:29.000Z",
+          "wordCount": null,
+          "title": "I made a T-Rex and gave it flamethrowers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=hjBmEDsCHWQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hjBmEDsCHWQ",
+          "publishedOn": "2022-07-08T15:00:26.000Z",
+          "wordCount": null,
+          "title": "I made the Minions and I'm sorry",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=eYZbisIyoYg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eYZbisIyoYg",
+          "publishedOn": "2022-07-01T15:00:23.000Z",
+          "wordCount": null,
+          "title": "I made a miniature floating Minecraft Island",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=I6QYuWUksmE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=I6QYuWUksmE",
+          "publishedOn": "2022-06-24T15:00:12.000Z",
+          "wordCount": null,
+          "title": "I made Steve from Minecraft but he's Realistic",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "ContraPoints",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvsIonJdJ5E4EXMa65VYpA",
+      "siteUrl": "https://www.youtube.com/channel/UCNvsIonJdJ5E4EXMa65VYpA",
+      "articles": []
+    },
+    {
+      "title": "Studson Studio",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6u6uY4VbvuNtU0BU7F9olw",
+      "siteUrl": "https://www.youtube.com/channel/UC6u6uY4VbvuNtU0BU7F9olw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=DLTM_iMM_c0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DLTM_iMM_c0",
+          "publishedOn": "2022-08-20T14:15:08.000Z",
+          "wordCount": null,
+          "title": "I made Catbus but it's Garfield",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=3Ajb3Uva42w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3Ajb3Uva42w",
+          "publishedOn": "2022-07-30T14:05:57.000Z",
+          "wordCount": null,
+          "title": "HORSE CENTIPEDE: The Lord of Long Long Ranch",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=q1HhqE5x0MM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=q1HhqE5x0MM",
+          "publishedOn": "2022-07-14T14:18:51.000Z",
+          "wordCount": null,
+          "title": "I made this Mario Odyssey miniature out of Garbage",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "ElectroBOOM",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ0-OtVpF0wOKEqT2Z1HEtA",
+      "siteUrl": "https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=LAzWPNu1Nm8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LAzWPNu1Nm8",
+          "publishedOn": "2022-09-15T23:05:56.000Z",
+          "wordCount": null,
+          "title": "If LED in Water Turns On = DANGER! #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wZpIR4pzTPs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wZpIR4pzTPs",
+          "publishedOn": "2022-09-01T16:02:28.000Z",
+          "wordCount": null,
+          "title": "Making Super Fast Electrons #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zGsQbOjXeEs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zGsQbOjXeEs",
+          "publishedOn": "2022-08-26T16:00:11.000Z",
+          "wordCount": null,
+          "title": "How to Turn an LED On",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=A3Dblph1fig",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=A3Dblph1fig",
+          "publishedOn": "2022-08-05T16:00:10.000Z",
+          "wordCount": null,
+          "title": "Tripping Every Breaker in Italy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=O1dpxn7MhLU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=O1dpxn7MhLU",
+          "publishedOn": "2022-07-12T14:03:14.000Z",
+          "wordCount": null,
+          "title": "Making 5 Things from a Broken Hair Dryer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9hhcUT947FI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9hhcUT947FI",
+          "publishedOn": "2022-07-01T16:00:37.000Z",
+          "wordCount": null,
+          "title": "Testing the LONGEST LOOP OF WIRE!!! to Turn a Lamp On",
           "imageUrl": null
         }
       ]
