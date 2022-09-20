@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-19T22:08:47.574Z</id>
+    <id>urn:2022-09-20T05:11:29.548Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-19T22:08:47.574Z</updated>
+    <updated>2022-09-20T05:11:29.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Extra Credit: Making Your Own Chatbot With Carrie Sijia Wang]]></title>
+        <id>https://www.youtube.com/watch?v=C9_6ww-ODjA</id>
+        <link href="https://www.youtube.com/watch?v=C9_6ww-ODjA"/>
+        <updated>2022-09-19T23:11:19.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marconi: The Father of Radio]]></title>
         <id>https://www.youtube.com/watch?v=-jz3gUtcH5s</id>
@@ -183,15 +192,6 @@
         <updated>2022-09-16T23:03:56.000Z</updated>
         <author>
             <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SUNLU Terminator-3 (T3) FIRST PRINT LIVE!]]></title>
-        <id>https://www.youtube.com/watch?v=TRzrnQgAmBE</id>
-        <link href="https://www.youtube.com/watch?v=TRzrnQgAmBE"/>
-        <updated>2022-09-16T19:48:24.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
         </author>
     </entry>
     <entry>
@@ -1887,6 +1887,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Does the FLSUN SUPER RACER Cross the FINISH LINE?]]></title>
+        <id>https://www.youtube.com/watch?v=FLrjOEt3kw8</id>
+        <link href="https://www.youtube.com/watch?v=FLrjOEt3kw8"/>
+        <updated>2022-07-09T13:00:14.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Home Made Crispy Chicken Nuggets (episode 144)]]></title>
         <id>https://www.youtube.com/watch?v=bRoyNTuOZzg</id>
         <link href="https://www.youtube.com/watch?v=bRoyNTuOZzg"/>
@@ -2118,15 +2127,6 @@
         <updated>2022-06-24T14:00:24.000Z</updated>
         <author>
             <name>Zack Freedman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Control a Servo With an Arduino]]></title>
-        <id>https://www.youtube.com/watch?v=QbgTl6VSA9Y</id>
-        <link href="https://www.youtube.com/watch?v=QbgTl6VSA9Y"/>
-        <updated>2022-06-22T16:21:15.000Z</updated>
-        <author>
-            <name>The Engineering Mindset</name>
         </author>
     </entry>
 </feed>
