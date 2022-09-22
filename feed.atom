@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-21T09:22:58.126Z</id>
+    <id>urn:2022-09-22T05:08:16.445Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-21T09:22:58.126Z</updated>
+    <updated>2022-09-22T05:08:16.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dark Souls 1 Changed My Life]]></title>
+        <id>https://www.youtube.com/watch?v=8bEBo_CktqA</id>
+        <link href="https://www.youtube.com/watch?v=8bEBo_CktqA"/>
+        <updated>2022-09-21T23:45:58.000Z</updated>
+        <author>
+            <name>Internet Pitstop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My STRONGEST 3D Print! #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=qYa9DOLMpY4</id>
+        <link href="https://www.youtube.com/watch?v=qYa9DOLMpY4"/>
+        <updated>2022-09-21T21:45:24.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How One Company Is Making Self-Driving Trucks A Reality]]></title>
+        <id>https://www.youtube.com/watch?v=zHpenVvUEyc</id>
+        <link href="https://www.youtube.com/watch?v=zHpenVvUEyc"/>
+        <updated>2022-09-21T21:13:24.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Pitaya (Mexican Dragon Fruit) Is So Expensive | So Expensive Food | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=g1s1RhnrIfM</id>
+        <link href="https://www.youtube.com/watch?v=g1s1RhnrIfM"/>
+        <updated>2022-09-21T17:00:22.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Problems with Powers of Two - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=IPoh5C9CcI8</id>
+        <link href="https://www.youtube.com/watch?v=IPoh5C9CcI8"/>
+        <updated>2022-09-21T16:29:41.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[S400 vs Patriot: Best Air Defense Choice?]]></title>
+        <id>https://www.youtube.com/watch?v=x1n6J8ZuaJo</id>
+        <link href="https://www.youtube.com/watch?v=x1n6J8ZuaJo"/>
+        <updated>2022-09-21T13:59:24.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Trap Failure]]></title>
+        <id>https://www.youtube.com/watch?v=YADkNK0O1UA</id>
+        <link href="https://www.youtube.com/watch?v=YADkNK0O1UA"/>
+        <updated>2022-09-21T12:00:18.000Z</updated>
+        <author>
+            <name>The Engineering Mindset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dumb Inspector Rejects My Part Without Explanation]]></title>
+        <id>https://www.youtube.com/watch?v=ZC3HOTq04Pg</id>
+        <link href="https://www.youtube.com/watch?v=ZC3HOTq04Pg"/>
+        <updated>2022-09-21T11:00:23.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The secret battle for the space.]]></title>
+        <id>https://www.youtube.com/watch?v=2cZQDQqESsw</id>
+        <link href="https://www.youtube.com/watch?v=2cZQDQqESsw"/>
+        <updated>2022-09-21T09:39:20.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Talent Acquisition Is Your Small Business’ Secret Super Power]]></title>
         <id>https://www.youtube.com/watch?v=QkNERxUeYtU</id>
@@ -24,7 +105,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This company turns #bananas into fibers to resolve the massive amounts of  #waste worldwide.#shorts]]></title>
+        <title type="html"><![CDATA[This company turns #bananas into fibers to resolve the massive amounts of #waste worldwide.#shorts]]></title>
         <id>https://www.youtube.com/watch?v=RV8-BBVA7GI</id>
         <link href="https://www.youtube.com/watch?v=RV8-BBVA7GI"/>
         <updated>2022-09-20T18:03:02.000Z</updated>
@@ -555,24 +636,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D Printing Is Becoming Unstoppable]]></title>
-        <id>https://www.youtube.com/watch?v=gU12GetuUxU</id>
-        <link href="https://www.youtube.com/watch?v=gU12GetuUxU"/>
-        <updated>2022-09-10T15:00:28.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maybe it’s time we eat less junk for our mental health.]]></title>
-        <id>https://www.youtube.com/watch?v=PNc2uN9TncQ</id>
-        <link href="https://www.youtube.com/watch?v=PNc2uN9TncQ"/>
-        <updated>2022-09-10T13:00:26.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[You've NEVER Seen a 3D Printer Like THIS!]]></title>
         <id>https://www.youtube.com/watch?v=0diCG6LIv-A</id>
         <link href="https://www.youtube.com/watch?v=0diCG6LIv-A"/>
@@ -597,15 +660,6 @@
         <updated>2022-09-10T10:00:02.000Z</updated>
         <author>
             <name>AlphaPhoenix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is the dark truth about rubber, part two. #rubbertree #Cambodia #indigenous #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=0POvRAZey5U</id>
-        <link href="https://www.youtube.com/watch?v=0POvRAZey5U"/>
-        <updated>2022-09-09T18:00:00.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -660,15 +714,6 @@
         <updated>2022-09-08T18:34:09.000Z</updated>
         <author>
             <name>minutephysics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is the dark truth about rubber. #rubbertree #Cambodia #indigenous #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=DwuEKulvZ10</id>
-        <link href="https://www.youtube.com/watch?v=DwuEKulvZ10"/>
-        <updated>2022-09-08T18:00:05.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -741,15 +786,6 @@
         <updated>2022-09-06T13:59:36.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why We Keep LOSING Money?]]></title>
-        <id>https://www.youtube.com/watch?v=rdVVvjMFlP0</id>
-        <link href="https://www.youtube.com/watch?v=rdVVvjMFlP0"/>
-        <updated>2022-09-06T11:00:23.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1653,15 +1689,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CF Nylon is MUCH Stronger!]]></title>
-        <id>https://www.youtube.com/watch?v=3kiOg7SYduE</id>
-        <link href="https://www.youtube.com/watch?v=3kiOg7SYduE"/>
-        <updated>2022-07-16T13:00:02.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I made a T-Rex and gave it flamethrowers]]></title>
         <id>https://www.youtube.com/watch?v=lXdcEpn8f8U</id>
         <link href="https://www.youtube.com/watch?v=lXdcEpn8f8U"/>
@@ -1965,33 +1992,6 @@
         <updated>2022-06-25T16:45:31.000Z</updated>
         <author>
             <name>Primer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seriously NEXT LEVEL - Bambulab X1 Carbon (3D printer)]]></title>
-        <id>https://www.youtube.com/watch?v=wKGIdjCsy-E</id>
-        <link href="https://www.youtube.com/watch?v=wKGIdjCsy-E"/>
-        <updated>2022-06-24T15:30:12.000Z</updated>
-        <author>
-            <name>CNC Kitchen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I made Steve from Minecraft but he's Realistic]]></title>
-        <id>https://www.youtube.com/watch?v=I6QYuWUksmE</id>
-        <link href="https://www.youtube.com/watch?v=I6QYuWUksmE"/>
-        <updated>2022-06-24T15:00:12.000Z</updated>
-        <author>
-            <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Robot Intern: Brilliant AI Used Stupidly]]></title>
-        <id>https://www.youtube.com/watch?v=ufQmmEx1rbs</id>
-        <link href="https://www.youtube.com/watch?v=ufQmmEx1rbs"/>
-        <updated>2022-06-24T14:00:24.000Z</updated>
-        <author>
-            <name>Zack Freedman</name>
         </author>
     </entry>
 </feed>
