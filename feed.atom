@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-22T05:08:16.445Z</id>
+    <id>urn:2022-09-23T05:11:46.304Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-22T05:08:16.445Z</updated>
+    <updated>2022-09-23T05:11:46.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Climate Heroes 2022: Working Towards Solutions]]></title>
+        <id>https://www.youtube.com/watch?v=oyVFgOnoynk</id>
+        <link href="https://www.youtube.com/watch?v=oyVFgOnoynk"/>
+        <updated>2022-09-22T17:41:06.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starter Guide to BJT Transistors (ElectroBOOM101 - 011)]]></title>
+        <id>https://www.youtube.com/watch?v=2uowMENwiHQ</id>
+        <link href="https://www.youtube.com/watch?v=2uowMENwiHQ"/>
+        <updated>2022-09-22T16:01:41.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is an algorithm?]]></title>
+        <id>https://www.youtube.com/watch?v=vOhwiWyiZ0o</id>
+        <link href="https://www.youtube.com/watch?v=vOhwiWyiZ0o"/>
+        <updated>2022-09-22T15:03:56.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Army Cooks Are Trained To Feed 800 Soldiers In The Field | Boot Camp | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=yLGRkxbMh9o</id>
+        <link href="https://www.youtube.com/watch?v=yLGRkxbMh9o"/>
+        <updated>2022-09-22T15:00:39.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Axis Machining! Can you guess what this part is??? #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=kLOC2Mjyl8s</id>
+        <link href="https://www.youtube.com/watch?v=kLOC2Mjyl8s"/>
+        <updated>2022-09-22T11:00:22.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dark Souls 1 Changed My Life]]></title>
         <id>https://www.youtube.com/watch?v=8bEBo_CktqA</id>
@@ -393,15 +438,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Climate Heroes 2022: Working Towards Solutions]]></title>
-        <id>https://www.youtube.com/watch?v=oyVFgOnoynk</id>
-        <link href="https://www.youtube.com/watch?v=oyVFgOnoynk"/>
-        <updated>2022-09-15T17:30:06.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What Army Cadets Go Through During West Point Basic Training | Boot Camp | Business Insider]]></title>
         <id>https://www.youtube.com/watch?v=LndU1nlPQ80</id>
         <link href="https://www.youtube.com/watch?v=LndU1nlPQ80"/>
@@ -528,15 +564,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The First Computer]]></title>
-        <id>https://www.youtube.com/watch?v=K-HOHoJbOy4</id>
-        <link href="https://www.youtube.com/watch?v=K-HOHoJbOy4"/>
-        <updated>2022-09-12T13:00:09.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why do transformers make a humming noise?]]></title>
         <id>https://www.youtube.com/watch?v=r0YbIQobDRg</id>
         <link href="https://www.youtube.com/watch?v=r0YbIQobDRg"/>
@@ -579,24 +606,6 @@
         <updated>2022-09-12T01:14:16.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Of The Most Dangerous Jobs In The World | Big Business | Business Insider]]></title>
-        <id>https://www.youtube.com/watch?v=hh9t3pEUCes</id>
-        <link href="https://www.youtube.com/watch?v=hh9t3pEUCes"/>
-        <updated>2022-09-11T15:00:25.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accurately test mobile devices]]></title>
-        <id>https://www.youtube.com/watch?v=63hupzNAv8U</id>
-        <link href="https://www.youtube.com/watch?v=63hupzNAv8U"/>
-        <updated>2022-09-11T14:33:56.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -759,15 +768,6 @@
         <updated>2022-09-07T13:00:21.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Do We Push Our Tools to the Limit? #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=1LbOCW93U40</id>
-        <link href="https://www.youtube.com/watch?v=1LbOCW93U40"/>
-        <updated>2022-09-07T11:00:02.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1983,15 +1983,6 @@
         <updated>2022-06-27T10:00:32.000Z</updated>
         <author>
             <name>AlphaPhoenix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Catch A Cheater With Math]]></title>
-        <id>https://www.youtube.com/watch?v=XTcP4oo4JI4</id>
-        <link href="https://www.youtube.com/watch?v=XTcP4oo4JI4"/>
-        <updated>2022-06-25T16:45:31.000Z</updated>
-        <author>
-            <name>Primer</name>
         </author>
     </entry>
 </feed>
