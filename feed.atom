@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-26T05:19:33.605Z</id>
+    <id>urn:2022-09-27T05:06:36.265Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-26T05:19:33.605Z</updated>
+    <updated>2022-09-27T05:06:36.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How One Young Entrepreneur Discovered A Way to Improve Supply Chain Logistics With Augmented Reality]]></title>
+        <id>https://www.youtube.com/watch?v=VT9AuMNQUMU</id>
+        <link href="https://www.youtube.com/watch?v=VT9AuMNQUMU"/>
+        <updated>2022-09-27T00:25:42.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calculus Review: The Derivative (and the Power Law and Chain Rule)]]></title>
+        <id>https://www.youtube.com/watch?v=-NhgElcA3K8</id>
+        <link href="https://www.youtube.com/watch?v=-NhgElcA3K8"/>
+        <updated>2022-09-26T22:00:00.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dragging Anchor]]></title>
+        <id>https://www.youtube.com/watch?v=hFklAwm4ZEE</id>
+        <link href="https://www.youtube.com/watch?v=hFklAwm4ZEE"/>
+        <updated>2022-09-26T21:57:15.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printing + PRUSA PRINT FARM!]]></title>
+        <id>https://www.youtube.com/watch?v=1mMDFiaYVyQ</id>
+        <link href="https://www.youtube.com/watch?v=1mMDFiaYVyQ"/>
+        <updated>2022-09-26T18:51:28.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Psychedelics for the Frontlines: A Police Officer on the Healing Potential of MDMA for PTSD]]></title>
+        <id>https://www.youtube.com/watch?v=ugZemizXHB0</id>
+        <link href="https://www.youtube.com/watch?v=ugZemizXHB0"/>
+        <updated>2022-09-26T12:58:30.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Step Up Transformer Calculation Basics]]></title>
+        <id>https://www.youtube.com/watch?v=mrMis-ekPxs</id>
+        <link href="https://www.youtube.com/watch?v=mrMis-ekPxs"/>
+        <updated>2022-09-26T12:00:24.000Z</updated>
+        <author>
+            <name>The Engineering Mindset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cutting Brittle Graphite on our Wire EDM #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=uRfKjM1Dfq8</id>
+        <link href="https://www.youtube.com/watch?v=uRfKjM1Dfq8"/>
+        <updated>2022-09-26T11:00:35.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3D Printed Octopus HOLDS WHAT? #shorts]]></title>
         <id>https://www.youtube.com/watch?v=Fg7cURCUWO4</id>
@@ -618,15 +681,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Roof Waste Became A Massive Issue, And How Can We Solve It | World Wide Waste | Business Insider]]></title>
-        <id>https://www.youtube.com/watch?v=_Qo2Nrd4Vrs</id>
-        <link href="https://www.youtube.com/watch?v=_Qo2Nrd4Vrs"/>
-        <updated>2022-09-14T23:00:23.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PRINTING BIG on the Flashforge Artemis 3D Printer!]]></title>
         <id>https://www.youtube.com/watch?v=SX3O7-lmmU0</id>
         <link href="https://www.youtube.com/watch?v=SX3O7-lmmU0"/>
@@ -741,15 +795,6 @@
         <updated>2022-09-11T12:23:52.000Z</updated>
         <author>
             <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Multiple Metals to 3D Print the Perfect Gear Cube on the Markforged Metal X #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=k8M7ULDsvXg</id>
-        <link href="https://www.youtube.com/watch?v=k8M7ULDsvXg"/>
-        <updated>2022-09-11T11:00:22.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1437,15 +1482,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D PRINTING Passive Grippers with UW Transformative Robotics Lab!]]></title>
-        <id>https://www.youtube.com/watch?v=fBBSL15ifOY</id>
-        <link href="https://www.youtube.com/watch?v=fBBSL15ifOY"/>
-        <updated>2022-08-06T13:00:31.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Meet Christopher, the EIGHT-GPU Robot Quagsire]]></title>
         <id>https://www.youtube.com/watch?v=BCNxHGKFiQ0</id>
         <link href="https://www.youtube.com/watch?v=BCNxHGKFiQ0"/>
@@ -1578,15 +1614,6 @@
         <updated>2022-07-30T14:05:57.000Z</updated>
         <author>
             <name>Studson Studio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keeping Water Out of the Boat's Fuel - REVISED]]></title>
-        <id>https://www.youtube.com/watch?v=dufzALAWKlk</id>
-        <link href="https://www.youtube.com/watch?v=dufzALAWKlk"/>
-        <updated>2022-07-29T22:37:45.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
         </author>
     </entry>
     <entry>
@@ -1959,15 +1986,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Partial Differential Equations Overview]]></title>
-        <id>https://www.youtube.com/watch?v=pvrIagjEk4c</id>
-        <link href="https://www.youtube.com/watch?v=pvrIagjEk4c"/>
-        <updated>2022-07-01T10:00:37.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I survived 48 hours in the most isolated camp on earth]]></title>
         <id>https://www.youtube.com/watch?v=ap7-Wci2-8k</id>
         <link href="https://www.youtube.com/watch?v=ap7-Wci2-8k"/>
@@ -1992,15 +2010,6 @@
         <updated>2022-06-30T12:20:58.000Z</updated>
         <author>
             <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Trinity of Quality]]></title>
-        <id>https://www.youtube.com/watch?v=TWBEi4ZcLu4</id>
-        <link href="https://www.youtube.com/watch?v=TWBEi4ZcLu4"/>
-        <updated>2022-06-29T11:52:29.000Z</updated>
-        <author>
-            <name>minutephysics</name>
         </author>
     </entry>
 </feed>
