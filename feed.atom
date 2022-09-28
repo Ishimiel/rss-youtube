@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-27T05:06:36.265Z</id>
+    <id>urn:2022-09-28T05:15:50.435Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-27T05:06:36.265Z</updated>
+    <updated>2022-09-28T05:15:50.435Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[3D Printing a Flipper Zero Case]]></title>
+        <id>https://www.youtube.com/watch?v=NuC3nN8_rX4</id>
+        <link href="https://www.youtube.com/watch?v=NuC3nN8_rX4"/>
+        <updated>2022-09-27T23:12:16.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is how pencils are made from newspapers. #recycling #pencils #sustainability #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=DEw-YmpG5iQ</id>
+        <link href="https://www.youtube.com/watch?v=DEw-YmpG5iQ"/>
+        <updated>2022-09-27T18:00:05.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Talent Acquisition Is Your Small Business’ Secret Super Power]]></title>
+        <id>https://www.youtube.com/watch?v=QkNERxUeYtU</id>
+        <link href="https://www.youtube.com/watch?v=QkNERxUeYtU"/>
+        <updated>2022-09-27T16:57:03.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In-home Monitoring]]></title>
+        <id>https://www.youtube.com/watch?v=GQHSFUrkyWs</id>
+        <link href="https://www.youtube.com/watch?v=GQHSFUrkyWs"/>
+        <updated>2022-09-27T14:59:39.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Having a Diamond Disk Dresser Allows for more Versatility]]></title>
+        <id>https://www.youtube.com/watch?v=hs3pqZeXjd8</id>
+        <link href="https://www.youtube.com/watch?v=hs3pqZeXjd8"/>
+        <updated>2022-09-27T11:00:23.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gentle Introduction to Modeling with Matrices and Vectors: A Probabilistic Weather Model]]></title>
+        <id>https://www.youtube.com/watch?v=K-8F_zDMDUI</id>
+        <link href="https://www.youtube.com/watch?v=K-8F_zDMDUI"/>
+        <updated>2022-09-27T10:00:20.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How One Young Entrepreneur Discovered A Way to Improve Supply Chain Logistics With Augmented Reality]]></title>
         <id>https://www.youtube.com/watch?v=VT9AuMNQUMU</id>
@@ -393,15 +447,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Talent Acquisition Is Your Small Business’ Secret Super Power]]></title>
-        <id>https://www.youtube.com/watch?v=QkNERxUeYtU</id>
-        <link href="https://www.youtube.com/watch?v=QkNERxUeYtU"/>
-        <updated>2022-09-20T20:15:45.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MASSIVE Bearded Pumpkin Skull #shorts]]></title>
         <id>https://www.youtube.com/watch?v=rzBz9VnHrQY</id>
         <link href="https://www.youtube.com/watch?v=rzBz9VnHrQY"/>
@@ -573,16 +618,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D printing is taking over the world]]></title>
-        <id>https://www.youtube.com/watch?v=kevWjledaX0</id>
-        <link href="https://www.youtube.com/watch?v=kevWjledaX0"/>
-        <updated>2022-09-17T09:27:24.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thai Artist Carves Snail Shells Into Ancient Art That Costs Thousands | Still Standing]]></title>
+        <title type="html"><![CDATA[How An Ancient Art of Turning Seashells Into Ornaments Survived For Centuries | Still Standing]]></title>
         <id>https://www.youtube.com/watch?v=SS66xA5d05c</id>
         <link href="https://www.youtube.com/watch?v=SS66xA5d05c"/>
         <updated>2022-09-16T16:00:17.000Z</updated>
@@ -658,15 +694,6 @@
         <id>https://www.youtube.com/watch?v=evpZy0ZsnFQ</id>
         <link href="https://www.youtube.com/watch?v=evpZy0ZsnFQ"/>
         <updated>2022-09-15T18:51:38.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Army Cadets Go Through During West Point Basic Training | Boot Camp | Business Insider]]></title>
-        <id>https://www.youtube.com/watch?v=LndU1nlPQ80</id>
-        <link href="https://www.youtube.com/watch?v=LndU1nlPQ80"/>
-        <updated>2022-09-15T15:00:21.000Z</updated>
         <author>
             <name>Business Insider</name>
         </author>
@@ -759,15 +786,6 @@
         <updated>2022-09-12T12:00:27.000Z</updated>
         <author>
             <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Precision Measurements on an ADVANCED 5-Axis CMM #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=JG3W9rSFE4I</id>
-        <link href="https://www.youtube.com/watch?v=JG3W9rSFE4I"/>
-        <updated>2022-09-12T11:00:10.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1419,15 +1437,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mingda Magician Pro FIRST PRINT LIVE!]]></title>
-        <id>https://www.youtube.com/watch?v=ilReLKl48GQ</id>
-        <link href="https://www.youtube.com/watch?v=ilReLKl48GQ"/>
-        <updated>2022-08-11T04:12:16.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Beauty Of Handheld Consoles]]></title>
         <id>https://www.youtube.com/watch?v=KR5ucS-MLGo</id>
         <link href="https://www.youtube.com/watch?v=KR5ucS-MLGo"/>
@@ -1896,15 +1905,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Laplace's Equation and Poisson's Equation]]></title>
-        <id>https://www.youtube.com/watch?v=nmvs0vrBT18</id>
-        <link href="https://www.youtube.com/watch?v=nmvs0vrBT18"/>
-        <updated>2022-07-08T10:00:36.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[BREYER P-ORRIDGE | We Are But One]]></title>
         <id>https://www.youtube.com/watch?v=Wx0I4Zv4Y8s</id>
         <link href="https://www.youtube.com/watch?v=Wx0I4Zv4Y8s"/>
@@ -2001,15 +2001,6 @@
         <updated>2022-06-30T20:21:02.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Riddle That Seems Impossible Even If You Know The Answer]]></title>
-        <id>https://www.youtube.com/watch?v=iSNsgj1OCLA</id>
-        <link href="https://www.youtube.com/watch?v=iSNsgj1OCLA"/>
-        <updated>2022-06-30T12:20:58.000Z</updated>
-        <author>
-            <name>Veritasium</name>
         </author>
     </entry>
 </feed>
