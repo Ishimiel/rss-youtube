@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-28T05:15:50.435Z</id>
+    <id>urn:2022-09-29T05:16:06.706Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-28T05:15:50.435Z</updated>
+    <updated>2022-09-29T05:16:06.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How "Poop Paper" Protects Elephants and Saves Trees | World Wide Waste | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=eLxi7uGfZ84</id>
+        <link href="https://www.youtube.com/watch?v=eLxi7uGfZ84"/>
+        <updated>2022-09-29T01:10:29.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch Firefly's Second Orbital Launch Attempt Of Their Alpha Rocket!]]></title>
+        <id>https://www.youtube.com/watch?v=Xp1yUI09XjE</id>
+        <link href="https://www.youtube.com/watch?v=Xp1yUI09XjE"/>
+        <updated>2022-09-28T21:41:11.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Music Theory of CBAT (the reddit guy song)]]></title>
+        <id>https://www.youtube.com/watch?v=Xl4HDoKMmvQ</id>
+        <link href="https://www.youtube.com/watch?v=Xl4HDoKMmvQ"/>
+        <updated>2022-09-28T16:31:17.000Z</updated>
+        <author>
+            <name>Adam Neely</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M2 Browning. A Legend from The Greatest Generation]]></title>
+        <id>https://www.youtube.com/watch?v=mV1VYVnyJq8</id>
+        <link href="https://www.youtube.com/watch?v=mV1VYVnyJq8"/>
+        <updated>2022-09-28T14:39:07.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heating System Optimizer Basics]]></title>
+        <id>https://www.youtube.com/watch?v=GHGKL-f5F9k</id>
+        <link href="https://www.youtube.com/watch?v=GHGKL-f5F9k"/>
+        <updated>2022-09-28T12:00:16.000Z</updated>
+        <author>
+            <name>The Engineering Mindset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diamond Tool Machines NASTY Complex Material #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=FpCPuLSynlM</id>
+        <link href="https://www.youtube.com/watch?v=FpCPuLSynlM"/>
+        <updated>2022-09-28T11:00:18.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Simplest Ordinary Differential Equation (ODE) and Its Exponential Solution]]></title>
+        <id>https://www.youtube.com/watch?v=BjvkBLfvkqY</id>
+        <link href="https://www.youtube.com/watch?v=BjvkBLfvkqY"/>
+        <updated>2022-09-28T10:00:05.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comparing the Patriot against S400 missile systems]]></title>
+        <id>https://www.youtube.com/watch?v=gV3vrrmVtqs</id>
+        <link href="https://www.youtube.com/watch?v=gV3vrrmVtqs"/>
+        <updated>2022-09-28T09:00:21.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3D Printing a Flipper Zero Case]]></title>
         <id>https://www.youtube.com/watch?v=NuC3nN8_rX4</id>
@@ -501,15 +573,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Marconi: The Father of Radio]]></title>
-        <id>https://www.youtube.com/watch?v=-jz3gUtcH5s</id>
-        <link href="https://www.youtube.com/watch?v=-jz3gUtcH5s"/>
-        <updated>2022-09-19T12:34:04.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Starter Motors Work]]></title>
         <id>https://www.youtube.com/watch?v=gXKqhFENnQc</id>
         <link href="https://www.youtube.com/watch?v=gXKqhFENnQc"/>
@@ -543,15 +606,6 @@
         <updated>2022-09-17T17:00:01.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Make Wood Fire Resistant?]]></title>
-        <id>https://www.youtube.com/watch?v=RpPa8pJ3MmU</id>
-        <link href="https://www.youtube.com/watch?v=RpPa8pJ3MmU"/>
-        <updated>2022-09-17T15:00:27.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -690,15 +744,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Construction Automation Can Keep Projects On Time And Under Budget | United States Of Automation]]></title>
-        <id>https://www.youtube.com/watch?v=evpZy0ZsnFQ</id>
-        <link href="https://www.youtube.com/watch?v=evpZy0ZsnFQ"/>
-        <updated>2022-09-15T18:51:38.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dual Diamond Form Grind on the Studer S41 | FORM GRINDING]]></title>
         <id>https://www.youtube.com/watch?v=ODexUrmvqkY</id>
         <link href="https://www.youtube.com/watch?v=ODexUrmvqkY"/>
@@ -741,15 +786,6 @@
         <updated>2022-09-13T15:00:38.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manufacturing on the Highest Level | Studer Grinding | Switzerland]]></title>
-        <id>https://www.youtube.com/watch?v=DVdW3wz7uZw</id>
-        <link href="https://www.youtube.com/watch?v=DVdW3wz7uZw"/>
-        <updated>2022-09-13T11:00:09.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1797,15 +1833,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deriving the Heat Equation: A Parabolic Partial Differential Equation for Heat Energy Conservation]]></title>
-        <id>https://www.youtube.com/watch?v=9d8PwnKVA-U</id>
-        <link href="https://www.youtube.com/watch?v=9d8PwnKVA-U"/>
-        <updated>2022-07-15T10:00:06.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I made this Mario Odyssey miniature out of Garbage]]></title>
         <id>https://www.youtube.com/watch?v=q1HhqE5x0MM</id>
         <link href="https://www.youtube.com/watch?v=q1HhqE5x0MM"/>
@@ -1965,42 +1992,6 @@
         <updated>2022-07-03T14:00:23.000Z</updated>
         <author>
             <name>Mathemaniac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Testing the LONGEST LOOP OF WIRE!!! to Turn a Lamp On]]></title>
-        <id>https://www.youtube.com/watch?v=9hhcUT947FI</id>
-        <link href="https://www.youtube.com/watch?v=9hhcUT947FI"/>
-        <updated>2022-07-01T16:00:37.000Z</updated>
-        <author>
-            <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I made a miniature floating Minecraft Island]]></title>
-        <id>https://www.youtube.com/watch?v=eYZbisIyoYg</id>
-        <link href="https://www.youtube.com/watch?v=eYZbisIyoYg"/>
-        <updated>2022-07-01T15:00:23.000Z</updated>
-        <author>
-            <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I survived 48 hours in the most isolated camp on earth]]></title>
-        <id>https://www.youtube.com/watch?v=ap7-Wci2-8k</id>
-        <link href="https://www.youtube.com/watch?v=ap7-Wci2-8k"/>
-        <updated>2022-07-01T03:59:25.000Z</updated>
-        <author>
-            <name>Physics Girl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[School’s Out, but Science Never Stops: Live Discussion with Brian Greene]]></title>
-        <id>https://www.youtube.com/watch?v=bHKbIhSWpl4</id>
-        <link href="https://www.youtube.com/watch?v=bHKbIhSWpl4"/>
-        <updated>2022-06-30T20:21:02.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
         </author>
     </entry>
 </feed>
