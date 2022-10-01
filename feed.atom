@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-30T05:11:53.229Z</id>
+    <id>urn:2022-10-01T05:05:54.609Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-30T05:11:53.229Z</updated>
+    <updated>2022-10-01T05:05:54.609Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Watch Firefly's Second Orbital Launch Attempt Of Their Alpha Rocket!]]></title>
+        <id>https://www.youtube.com/watch?v=BntCkCRc55c</id>
+        <link href="https://www.youtube.com/watch?v=BntCkCRc55c"/>
+        <updated>2022-10-01T00:18:30.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Equity Talk: Nuveen's CEO Weighs In On Economic Inequality Impacting Hispanic Americans]]></title>
+        <id>https://www.youtube.com/watch?v=hFt81xl4wDs</id>
+        <link href="https://www.youtube.com/watch?v=hFt81xl4wDs"/>
+        <updated>2022-09-30T21:00:32.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I made a Realistic Minecraft Wither]]></title>
+        <id>https://www.youtube.com/watch?v=Gh2nL4SIVSA</id>
+        <link href="https://www.youtube.com/watch?v=Gh2nL4SIVSA"/>
+        <updated>2022-09-30T15:00:10.000Z</updated>
+        <author>
+            <name>North of the Border</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mini Nuclear Reactors: Clean Energy or Ticking Time Bomb]]></title>
+        <id>https://www.youtube.com/watch?v=CTL6SjeMvcU</id>
+        <link href="https://www.youtube.com/watch?v=CTL6SjeMvcU"/>
+        <updated>2022-09-30T15:00:07.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solving Differential Equations with Power Series: A Simple Example]]></title>
+        <id>https://www.youtube.com/watch?v=3icbG3geC60</id>
+        <link href="https://www.youtube.com/watch?v=3icbG3geC60"/>
+        <updated>2022-09-30T14:05:00.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Largest decimal unit in the metric system]]></title>
+        <id>https://www.youtube.com/watch?v=6bp3PeGhSvM</id>
+        <link href="https://www.youtube.com/watch?v=6bp3PeGhSvM"/>
+        <updated>2022-09-30T13:00:04.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Most Innovative Products for CNC Machine Shops | HAIMER IMTS TOUR]]></title>
+        <id>https://www.youtube.com/watch?v=qb3Xgy6XbX0</id>
+        <link href="https://www.youtube.com/watch?v=qb3Xgy6XbX0"/>
+        <updated>2022-09-30T11:00:37.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is it possible to change DNA in the fight against cancer?]]></title>
+        <id>https://www.youtube.com/watch?v=gQu8kQkHjZM</id>
+        <link href="https://www.youtube.com/watch?v=gQu8kQkHjZM"/>
+        <updated>2022-09-30T09:00:24.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bearded Pumpkin Skull IN 4 COLORS?! #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=88Kuckc3Wl0</id>
+        <link href="https://www.youtube.com/watch?v=88Kuckc3Wl0"/>
+        <updated>2022-09-30T07:17:41.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Modules, Magnets, and Much More: The MiRage Mk3!]]></title>
         <id>https://www.youtube.com/watch?v=EWWJ1x2VMJs</id>
@@ -69,15 +150,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Watch Firefly's Second Orbital Launch Attempt Of Their Alpha Rocket!]]></title>
-        <id>https://www.youtube.com/watch?v=Xp1yUI09XjE</id>
-        <link href="https://www.youtube.com/watch?v=Xp1yUI09XjE"/>
-        <updated>2022-09-28T21:41:11.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Music Theory of CBAT (the reddit guy song)]]></title>
         <id>https://www.youtube.com/watch?v=Xl4HDoKMmvQ</id>
         <link href="https://www.youtube.com/watch?v=Xl4HDoKMmvQ"/>
@@ -132,7 +204,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D Printing a Flipper Zero Case]]></title>
+        <title type="html"><![CDATA[3D Printing a Flipper Zero Case #shorts]]></title>
         <id>https://www.youtube.com/watch?v=NuC3nN8_rX4</id>
         <link href="https://www.youtube.com/watch?v=NuC3nN8_rX4"/>
         <updated>2022-09-27T23:12:16.000Z</updated>
@@ -213,7 +285,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D Printing + PRUSA PRINT FARM!]]></title>
+        <title type="html"><![CDATA[3D Printing + PRUSA PRINT FARM! #shorts]]></title>
         <id>https://www.youtube.com/watch?v=1mMDFiaYVyQ</id>
         <link href="https://www.youtube.com/watch?v=1mMDFiaYVyQ"/>
         <updated>2022-09-26T18:51:28.000Z</updated>
@@ -375,7 +447,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D Printed COPPER?!?]]></title>
+        <title type="html"><![CDATA[3D Printed COPPER?!? #shorts]]></title>
         <id>https://www.youtube.com/watch?v=P5ha1RzOkWw</id>
         <link href="https://www.youtube.com/watch?v=P5ha1RzOkWw"/>
         <updated>2022-09-23T17:20:37.000Z</updated>
@@ -537,15 +609,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[S400 vs Patriot: Best Air Defense Choice?]]></title>
-        <id>https://www.youtube.com/watch?v=x1n6J8ZuaJo</id>
-        <link href="https://www.youtube.com/watch?v=x1n6J8ZuaJo"/>
-        <updated>2022-09-21T13:59:24.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Steam Trap Failure]]></title>
         <id>https://www.youtube.com/watch?v=YADkNK0O1UA</id>
         <link href="https://www.youtube.com/watch?v=YADkNK0O1UA"/>
@@ -561,15 +624,6 @@
         <updated>2022-09-21T11:00:23.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The secret battle for the space.]]></title>
-        <id>https://www.youtube.com/watch?v=2cZQDQqESsw</id>
-        <link href="https://www.youtube.com/watch?v=2cZQDQqESsw"/>
-        <updated>2022-09-21T09:39:20.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -717,15 +771,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How An Ancient Art of Turning Seashells Into Ornaments Survived For Centuries | Still Standing]]></title>
-        <id>https://www.youtube.com/watch?v=SS66xA5d05c</id>
-        <link href="https://www.youtube.com/watch?v=SS66xA5d05c"/>
-        <updated>2022-09-16T16:00:17.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This is the greatest thing I've ever made.]]></title>
         <id>https://www.youtube.com/watch?v=KlB9KyBqUwc</id>
         <link href="https://www.youtube.com/watch?v=KlB9KyBqUwc"/>
@@ -786,15 +831,6 @@
         <updated>2022-09-15T19:23:33.000Z</updated>
         <author>
             <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dual Diamond Form Grind on the Studer S41 | FORM GRINDING]]></title>
-        <id>https://www.youtube.com/watch?v=ODexUrmvqkY</id>
-        <link href="https://www.youtube.com/watch?v=ODexUrmvqkY"/>
-        <updated>2022-09-15T11:00:15.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1320,15 +1356,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MASSIVE 3D Printing with Neil Patrick Harris and MassivIT 3D]]></title>
-        <id>https://www.youtube.com/watch?v=o6XFLEcHb1E</id>
-        <link href="https://www.youtube.com/watch?v=o6XFLEcHb1E"/>
-        <updated>2022-08-20T13:00:26.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I used mirrors to make infinite Mario and Luigis]]></title>
         <id>https://www.youtube.com/watch?v=XWD84PlGw3s</id>
         <link href="https://www.youtube.com/watch?v=XWD84PlGw3s"/>
@@ -1698,15 +1725,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deriving the Heat Equation in 2D & 3D (& in N Dimensions!) with Control Volumes and Vector Calculus]]></title>
-        <id>https://www.youtube.com/watch?v=lBZIxv1bZDo</id>
-        <link href="https://www.youtube.com/watch?v=lBZIxv1bZDo"/>
-        <updated>2022-07-29T10:00:37.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Berserk Soundtrack Is Also A Masterpiece | The Sound Of Berserk]]></title>
         <id>https://www.youtube.com/watch?v=JovIgd9B9RQ</id>
         <link href="https://www.youtube.com/watch?v=JovIgd9B9RQ"/>
@@ -1974,33 +1992,6 @@
         <updated>2022-07-06T12:40:04.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Print a Modular Toolbox, Soldering Station, and More!]]></title>
-        <id>https://www.youtube.com/watch?v=Bd4NnHvTRAY</id>
-        <link href="https://www.youtube.com/watch?v=Bd4NnHvTRAY"/>
-        <updated>2022-07-03T16:50:33.000Z</updated>
-        <author>
-            <name>Zack Freedman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to lie using visual proofs]]></title>
-        <id>https://www.youtube.com/watch?v=VYQVlVoWoPY</id>
-        <link href="https://www.youtube.com/watch?v=VYQVlVoWoPY"/>
-        <updated>2022-07-03T15:03:56.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why you can't solve quintic equations (Galois theory approach) #SoME2]]></title>
-        <id>https://www.youtube.com/watch?v=zCU9tZ2VkWc</id>
-        <link href="https://www.youtube.com/watch?v=zCU9tZ2VkWc"/>
-        <updated>2022-07-03T14:00:23.000Z</updated>
-        <author>
-            <name>Mathemaniac</name>
         </author>
     </entry>
 </feed>

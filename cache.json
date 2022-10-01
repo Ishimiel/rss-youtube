@@ -75,18 +75,7 @@
       "title": "3Blue1Brown",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw",
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=VYQVlVoWoPY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VYQVlVoWoPY",
-          "publishedOn": "2022-07-03T15:03:56.000Z",
-          "wordCount": null,
-          "title": "How to lie using visual proofs",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Mathemaniac",
@@ -101,16 +90,6 @@
           "publishedOn": "2022-08-30T14:00:18.000Z",
           "wordCount": null,
           "title": "The weirdest paradox in statistics (and machine learning)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zCU9tZ2VkWc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zCU9tZ2VkWc",
-          "publishedOn": "2022-07-03T14:00:23.000Z",
-          "wordCount": null,
-          "title": "Why you can't solve quintic equations (Galois theory approach) #SoME2",
           "imageUrl": null
         }
       ]
@@ -157,6 +136,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=3icbG3geC60",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3icbG3geC60",
+          "publishedOn": "2022-09-30T14:05:00.000Z",
+          "wordCount": null,
+          "title": "Solving Differential Equations with Power Series: A Simple Example",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=fGGNlXZB2YI",
           "author": null,
@@ -295,16 +284,6 @@
           "publishedOn": "2022-08-05T10:00:05.000Z",
           "wordCount": null,
           "title": "Discrepancy Modeling with Physics Informed Machine Learning",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lBZIxv1bZDo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lBZIxv1bZDo",
-          "publishedOn": "2022-07-29T10:00:37.000Z",
-          "wordCount": null,
-          "title": "Deriving the Heat Equation in 2D & 3D (& in N Dimensions!) with Control Volumes and Vector Calculus",
           "imageUrl": null
         }
       ]
@@ -493,6 +472,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=88Kuckc3Wl0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=88Kuckc3Wl0",
+          "publishedOn": "2022-09-30T07:17:41.000Z",
+          "wordCount": null,
+          "title": "Bearded Pumpkin Skull IN 4 COLORS?! #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7q-r5rcDnqE",
           "author": null,
           "description": "",
@@ -509,7 +498,7 @@
           "link": "https://www.youtube.com/watch?v=NuC3nN8_rX4",
           "publishedOn": "2022-09-27T23:12:16.000Z",
           "wordCount": null,
-          "title": "3D Printing a Flipper Zero Case",
+          "title": "3D Printing a Flipper Zero Case #shorts",
           "imageUrl": null
         },
         {
@@ -519,7 +508,7 @@
           "link": "https://www.youtube.com/watch?v=1mMDFiaYVyQ",
           "publishedOn": "2022-09-26T18:51:28.000Z",
           "wordCount": null,
-          "title": "3D Printing + PRUSA PRINT FARM!",
+          "title": "3D Printing + PRUSA PRINT FARM! #shorts",
           "imageUrl": null
         },
         {
@@ -549,7 +538,7 @@
           "link": "https://www.youtube.com/watch?v=P5ha1RzOkWw",
           "publishedOn": "2022-09-23T17:20:37.000Z",
           "wordCount": null,
-          "title": "3D Printed COPPER?!?",
+          "title": "3D Printed COPPER?!? #shorts",
           "imageUrl": null
         },
         {
@@ -630,16 +619,6 @@
           "publishedOn": "2022-08-27T13:00:35.000Z",
           "wordCount": null,
           "title": "Is RESIN Printing PRACTICAL?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=o6XFLEcHb1E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=o6XFLEcHb1E",
-          "publishedOn": "2022-08-20T13:00:26.000Z",
-          "wordCount": null,
-          "title": "MASSIVE 3D Printing with Neil Patrick Harris and MassivIT 3D",
           "imageUrl": null
         }
       ]
@@ -934,11 +913,11 @@
       "siteUrl": "https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=Xp1yUI09XjE",
+          "id": "https://www.youtube.com/watch?v=BntCkCRc55c",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=Xp1yUI09XjE",
-          "publishedOn": "2022-09-28T21:41:11.000Z",
+          "link": "https://www.youtube.com/watch?v=BntCkCRc55c",
+          "publishedOn": "2022-10-01T00:18:30.000Z",
           "wordCount": null,
           "title": "Watch Firefly's Second Orbital Launch Attempt Of Their Alpha Rocket!",
           "imageUrl": null
@@ -1057,6 +1036,36 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=CTL6SjeMvcU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CTL6SjeMvcU",
+          "publishedOn": "2022-09-30T15:00:07.000Z",
+          "wordCount": null,
+          "title": "Mini Nuclear Reactors: Clean Energy or Ticking Time Bomb",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6bp3PeGhSvM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6bp3PeGhSvM",
+          "publishedOn": "2022-09-30T13:00:04.000Z",
+          "wordCount": null,
+          "title": "Largest decimal unit in the metric system",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gQu8kQkHjZM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gQu8kQkHjZM",
+          "publishedOn": "2022-09-30T09:00:24.000Z",
+          "wordCount": null,
+          "title": "Is it possible to change DNA in the fight against cancer?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=78fwuJuM-Pw",
           "author": null,
           "description": "",
@@ -1174,26 +1183,6 @@
           "publishedOn": "2022-09-22T15:03:56.000Z",
           "wordCount": null,
           "title": "What is an algorithm?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=x1n6J8ZuaJo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=x1n6J8ZuaJo",
-          "publishedOn": "2022-09-21T13:59:24.000Z",
-          "wordCount": null,
-          "title": "S400 vs Patriot: Best Air Defense Choice?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2cZQDQqESsw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2cZQDQqESsw",
-          "publishedOn": "2022-09-21T09:39:20.000Z",
-          "wordCount": null,
-          "title": "The secret battle for the space.",
           "imageUrl": null
         }
       ]
@@ -1860,16 +1849,6 @@
           "wordCount": null,
           "title": "RGB Ruined My Life: MiRage Mechanical Keyboard Mk2",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Bd4NnHvTRAY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Bd4NnHvTRAY",
-          "publishedOn": "2022-07-03T16:50:33.000Z",
-          "wordCount": null,
-          "title": "3D Print a Modular Toolbox, Soldering Station, and More!",
-          "imageUrl": null
         }
       ]
     },
@@ -1935,6 +1914,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=qb3Xgy6XbX0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qb3Xgy6XbX0",
+          "publishedOn": "2022-09-30T11:00:37.000Z",
+          "wordCount": null,
+          "title": "Most Innovative Products for CNC Machine Shops | HAIMER IMTS TOUR",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=CKbNqXzrvDQ",
           "author": null,
@@ -2074,16 +2063,6 @@
           "wordCount": null,
           "title": "This has GREAT Accuracy and Good Concentricity with Very Little Run Out #shorts",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ODexUrmvqkY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ODexUrmvqkY",
-          "publishedOn": "2022-09-15T11:00:15.000Z",
-          "wordCount": null,
-          "title": "Dual Diamond Form Grind on the Studer S41 | FORM GRINDING",
-          "imageUrl": null
         }
       ]
     },
@@ -2092,6 +2071,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=hFt81xl4wDs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hFt81xl4wDs",
+          "publishedOn": "2022-09-30T21:00:32.000Z",
+          "wordCount": null,
+          "title": "The Equity Talk: Nuveen's CEO Weighs In On Economic Inequality Impacting Hispanic Americans",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=eLxi7uGfZ84",
           "author": null,
@@ -2231,16 +2220,6 @@
           "wordCount": null,
           "title": "Why Honma Golf Clubs Are So Expensive | So Expensive | Business Insider",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SS66xA5d05c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SS66xA5d05c",
-          "publishedOn": "2022-09-16T16:00:17.000Z",
-          "wordCount": null,
-          "title": "How An Ancient Art of Turning Seashells Into Ornaments Survived For Centuries | Still Standing",
-          "imageUrl": null
         }
       ]
     },
@@ -2276,6 +2255,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCM15YNy8g-CaJ15YZCbq0Iw",
       "siteUrl": "https://www.youtube.com/channel/UCM15YNy8g-CaJ15YZCbq0Iw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Gh2nL4SIVSA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Gh2nL4SIVSA",
+          "publishedOn": "2022-09-30T15:00:10.000Z",
+          "wordCount": null,
+          "title": "I made a Realistic Minecraft Wither",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=vKEL_kXrBZc",
           "author": null,
