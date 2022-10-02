@@ -75,7 +75,18 @@
       "title": "3Blue1Brown",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw",
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=cDofhN-RJqg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cDofhN-RJqg",
+          "publishedOn": "2022-10-01T19:23:52.000Z",
+          "wordCount": null,
+          "title": "Have you seen more math videos in your feed recently?  (SoME2 results)",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Mathemaniac",
@@ -136,6 +147,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ebfOSDj4j3I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ebfOSDj4j3I",
+          "publishedOn": "2022-10-01T13:17:00.000Z",
+          "wordCount": null,
+          "title": "Taylor Series and Power Series Made Easy (with Pictures): Review of Calculus",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=3icbG3geC60",
           "author": null,
@@ -274,16 +295,6 @@
           "publishedOn": "2022-08-12T10:00:15.000Z",
           "wordCount": null,
           "title": "The Experimental Double Pendulum on a Cart: A Benchmark System for Chaos, Learning, and Control",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7n7xaviepKM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7n7xaviepKM",
-          "publishedOn": "2022-08-05T10:00:05.000Z",
-          "wordCount": null,
-          "title": "Discrepancy Modeling with Physics Informed Machine Learning",
           "imageUrl": null
         }
       ]
@@ -472,6 +483,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pCNlN0Gm0cg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pCNlN0Gm0cg",
+          "publishedOn": "2022-10-01T13:00:27.000Z",
+          "wordCount": null,
+          "title": "Where Did My Filament Go? A Practical Printing Adventure!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=88Kuckc3Wl0",
           "author": null,
           "description": "",
@@ -609,16 +630,6 @@
           "publishedOn": "2022-09-03T13:00:19.000Z",
           "wordCount": null,
           "title": "Practical Printing and ... LICORICE?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lnDA1A9eeJ4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lnDA1A9eeJ4",
-          "publishedOn": "2022-08-27T13:00:35.000Z",
-          "wordCount": null,
-          "title": "Is RESIN Printing PRACTICAL?",
           "imageUrl": null
         }
       ]
@@ -905,7 +916,18 @@
       "title": "Domain of Science",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxqAWLTk1CmBvZFPzeZMd9A",
       "siteUrl": "https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=pQgxiQAMTTo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pQgxiQAMTTo",
+          "publishedOn": "2022-10-01T13:00:05.000Z",
+          "wordCount": null,
+          "title": "The Map of Engineering",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Everyday Astronaut",
@@ -917,7 +939,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=BntCkCRc55c",
-          "publishedOn": "2022-10-01T00:18:30.000Z",
+          "publishedOn": "2022-10-01T09:07:44.000Z",
           "wordCount": null,
           "title": "Watch Firefly's Second Orbital Launch Attempt Of Their Alpha Rocket!",
           "imageUrl": null
@@ -1035,6 +1057,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEuiOszNd6msGgqsD0f9YAQ",
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=SAjSqX5dsNI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SAjSqX5dsNI",
+          "publishedOn": "2022-10-01T15:00:16.000Z",
+          "wordCount": null,
+          "title": "The Superglue Made Out Of Water",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xDAsBGWcsO0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xDAsBGWcsO0",
+          "publishedOn": "2022-10-01T10:23:01.000Z",
+          "wordCount": null,
+          "title": "007’s New Changing Color Tech",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=CTL6SjeMvcU",
           "author": null,
@@ -1163,26 +1205,6 @@
           "publishedOn": "2022-09-23T14:51:05.000Z",
           "wordCount": null,
           "title": "Is editing the DNA of an unborn child ethical or unethical?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Pd0FHZWxv50",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Pd0FHZWxv50",
-          "publishedOn": "2022-09-23T09:00:25.000Z",
-          "wordCount": null,
-          "title": "How Will This Marvelous City Shape Our Future?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vOhwiWyiZ0o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vOhwiWyiZ0o",
-          "publishedOn": "2022-09-22T15:03:56.000Z",
-          "wordCount": null,
-          "title": "What is an algorithm?",
           "imageUrl": null
         }
       ]
@@ -1747,6 +1769,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=16Ci_2bN_zc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=16Ci_2bN_zc",
+          "publishedOn": "2022-10-01T15:00:11.000Z",
+          "wordCount": null,
+          "title": "The Fatal Physics of Falling Objects",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=daaDuC1kbds",
           "author": null,
           "description": "",
@@ -1915,6 +1947,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=f2hOurZvjQg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=f2hOurZvjQg",
+          "publishedOn": "2022-10-01T11:00:23.000Z",
+          "wordCount": null,
+          "title": "Local TEXAS CNC Machine Shop Solves Huge Problems | Shop Tour",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qb3Xgy6XbX0",
           "author": null,
           "description": "",
@@ -2053,16 +2095,6 @@
           "wordCount": null,
           "title": "Most People Have No Clue or Simply Don’t Understand How Important This Is",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=z997cFfIbjI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=z997cFfIbjI",
-          "publishedOn": "2022-09-16T11:00:40.000Z",
-          "wordCount": null,
-          "title": "This has GREAT Accuracy and Good Concentricity with Very Little Run Out #shorts",
-          "imageUrl": null
         }
       ]
     },
@@ -2071,6 +2103,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=_xOj9bLkYVQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_xOj9bLkYVQ",
+          "publishedOn": "2022-10-01T15:00:20.000Z",
+          "wordCount": null,
+          "title": "Why Oboes Are So Expensive | So Expensive | Business Insider",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=hFt81xl4wDs",
           "author": null,
@@ -2209,16 +2251,6 @@
           "publishedOn": "2022-09-20T15:00:59.000Z",
           "wordCount": null,
           "title": "The True Cost Of Losing America's Wild Oysters | True Cost | Business Insider",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HSMT5eZv7lA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HSMT5eZv7lA",
-          "publishedOn": "2022-09-17T15:00:11.000Z",
-          "wordCount": null,
-          "title": "Why Honma Golf Clubs Are So Expensive | So Expensive | Business Insider",
           "imageUrl": null
         }
       ]
