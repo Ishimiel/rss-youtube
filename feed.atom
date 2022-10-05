@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-04T04:18:26.304Z</id>
+    <id>urn:2022-10-05T03:54:39.356Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-04T04:18:26.304Z</updated>
+    <updated>2022-10-05T03:54:39.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Taking the Lectric eBike on its first errand run.]]></title>
+        <id>https://www.youtube.com/watch?v=5n1MJfM0sco</id>
+        <link href="https://www.youtube.com/watch?v=5n1MJfM0sco"/>
+        <updated>2022-10-04T22:12:14.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern Warfare 2 - Αγνή Εμπειρία]]></title>
+        <id>https://www.youtube.com/watch?v=aAFljwusTeI</id>
+        <link href="https://www.youtube.com/watch?v=aAFljwusTeI"/>
+        <updated>2022-10-04T20:16:15.000Z</updated>
+        <author>
+            <name>NinjaCakeAssassin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARMY OF GHOSTS #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=KkqmTfleeQ4</id>
+        <link href="https://www.youtube.com/watch?v=KkqmTfleeQ4"/>
+        <updated>2022-10-04T16:25:34.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ringing ears driving you round the bend?]]></title>
+        <id>https://www.youtube.com/watch?v=rBfY30tet34</id>
+        <link href="https://www.youtube.com/watch?v=rBfY30tet34"/>
+        <updated>2022-10-04T15:14:03.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let’s Travel to The Most Extreme Place in The Universe]]></title>
+        <id>https://www.youtube.com/watch?v=FfWtIaDtfYk</id>
+        <link href="https://www.youtube.com/watch?v=FfWtIaDtfYk"/>
+        <updated>2022-10-04T14:00:33.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Random walks in 2D and 3D are fundamentally different (Markov chains approach)]]></title>
+        <id>https://www.youtube.com/watch?v=iH2kATv49rc</id>
+        <link href="https://www.youtube.com/watch?v=iH2kATv49rc"/>
+        <updated>2022-10-04T14:00:24.000Z</updated>
+        <author>
+            <name>Mathemaniac</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MASS Producing Titanium Bike Levers on our 3D Printer | TRUMPF TruPrint 2000]]></title>
+        <id>https://www.youtube.com/watch?v=NoAvYCY2AV8</id>
+        <link href="https://www.youtube.com/watch?v=NoAvYCY2AV8"/>
+        <updated>2022-10-04T11:00:13.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3D Printer Poop?! #shorts]]></title>
         <id>https://www.youtube.com/watch?v=iWRdXW4Cn70</id>
@@ -87,7 +150,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quinoa Farmers Can Grow 3,000 Varieties In Peru. The World May Need Them Soon. | Big Business]]></title>
+        <title type="html"><![CDATA[Global Quinoa Prices Crashed. Peruvian Farmers Still Harvest 100,000 Tons A Year | Big Business]]></title>
         <id>https://www.youtube.com/watch?v=XgsjaDe5Qd8</id>
         <link href="https://www.youtube.com/watch?v=XgsjaDe5Qd8"/>
         <updated>2022-10-02T15:00:30.000Z</updated>
@@ -186,7 +249,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Watch Firefly's Second Orbital Launch Attempt Of Their Alpha Rocket!]]></title>
+        <title type="html"><![CDATA[Watch Firefly Launch Their Alpha Rocket To Orbit For The First Time!]]></title>
         <id>https://www.youtube.com/watch?v=BntCkCRc55c</id>
         <link href="https://www.youtube.com/watch?v=BntCkCRc55c"/>
         <updated>2022-10-01T09:07:44.000Z</updated>
@@ -645,15 +708,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is lithobraking?]]></title>
-        <id>https://www.youtube.com/watch?v=7_Y1CIzNJ3c</id>
-        <link href="https://www.youtube.com/watch?v=7_Y1CIzNJ3c"/>
-        <updated>2022-09-23T15:03:07.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I turned the Tears of the Kingdom box art into a 3d Sculpture]]></title>
         <id>https://www.youtube.com/watch?v=vKEL_kXrBZc</id>
         <link href="https://www.youtube.com/watch?v=vKEL_kXrBZc"/>
@@ -816,15 +870,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can ONE TOOL Rule Them ALL? #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=F4oTwwBexRk</id>
-        <link href="https://www.youtube.com/watch?v=F4oTwwBexRk"/>
-        <updated>2022-09-19T11:00:16.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Up close and personal with Firefly's Alpha rocket!]]></title>
         <id>https://www.youtube.com/watch?v=nzplxkfPdEA</id>
         <link href="https://www.youtube.com/watch?v=nzplxkfPdEA"/>
@@ -930,15 +975,6 @@
         <updated>2022-09-15T19:23:33.000Z</updated>
         <author>
             <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PRINTING BIG on the Flashforge Artemis 3D Printer!]]></title>
-        <id>https://www.youtube.com/watch?v=SX3O7-lmmU0</id>
-        <link href="https://www.youtube.com/watch?v=SX3O7-lmmU0"/>
-        <updated>2022-09-14T19:00:10.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
         </author>
     </entry>
     <entry>
@@ -1662,15 +1698,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anchor Drag Alarm]]></title>
-        <id>https://www.youtube.com/watch?v=FFaujS6fYsw</id>
-        <link href="https://www.youtube.com/watch?v=FFaujS6fYsw"/>
-        <updated>2022-08-05T12:00:50.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Notorious Question Six (cracked by Induction) - Numberphile]]></title>
         <id>https://www.youtube.com/watch?v=NcaYEaVTA4g</id>
         <link href="https://www.youtube.com/watch?v=NcaYEaVTA4g"/>
@@ -2001,15 +2028,6 @@
         <updated>2022-07-08T00:30:02.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Five years in 49 minutes]]></title>
-        <id>https://www.youtube.com/watch?v=qiMR6yAFfyA</id>
-        <link href="https://www.youtube.com/watch?v=qiMR6yAFfyA"/>
-        <updated>2022-07-07T10:00:26.000Z</updated>
-        <author>
-            <name>AlphaPhoenix</name>
         </author>
     </entry>
 </feed>
