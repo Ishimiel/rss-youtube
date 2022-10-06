@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-05T03:54:39.356Z</id>
+    <id>urn:2022-10-06T03:52:27.985Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-05T03:54:39.356Z</updated>
+    <updated>2022-10-06T03:52:27.985Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why do we launch rockets from Florida?]]></title>
+        <id>https://www.youtube.com/watch?v=NdWFCygzr8k</id>
+        <link href="https://www.youtube.com/watch?v=NdWFCygzr8k"/>
+        <updated>2022-10-06T01:05:05.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Portable Gas Grill for the Boat]]></title>
+        <id>https://www.youtube.com/watch?v=erG9F-0uOwo</id>
+        <link href="https://www.youtube.com/watch?v=erG9F-0uOwo"/>
+        <updated>2022-10-05T21:56:10.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Win A Trip to Vsauce HQ! REGISTER TO VOTE! #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=Wry_BHa6pbY</id>
+        <link href="https://www.youtube.com/watch?v=Wry_BHa6pbY"/>
+        <updated>2022-10-05T21:14:08.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum Entanglement: 2022 Nobel Prize in Physics]]></title>
+        <id>https://www.youtube.com/watch?v=Sk_0QM_UA4I</id>
+        <link href="https://www.youtube.com/watch?v=Sk_0QM_UA4I"/>
+        <updated>2022-10-05T20:18:06.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Theta rhythm: A Memory Clock]]></title>
+        <id>https://www.youtube.com/watch?v=5CxSoFK5tOQ</id>
+        <link href="https://www.youtube.com/watch?v=5CxSoFK5tOQ"/>
+        <updated>2022-10-05T17:40:29.000Z</updated>
+        <author>
+            <name>Artem Kirsanov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Replace Plastic With Avocados, Algae, Mushrooms And Sugarcane | World Wide Waste]]></title>
+        <id>https://www.youtube.com/watch?v=6MhPY4UAm7w</id>
+        <link href="https://www.youtube.com/watch?v=6MhPY4UAm7w"/>
+        <updated>2022-10-05T16:36:13.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Undersea Predator is Silent, Aware...and Strikes Without Warning!]]></title>
+        <id>https://www.youtube.com/watch?v=gerFwDopKW0</id>
+        <link href="https://www.youtube.com/watch?v=gerFwDopKW0"/>
+        <updated>2022-10-05T15:00:35.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Second-Order Ordinary Differential Equations: Solving the Harmonic Oscillator Four Ways]]></title>
+        <id>https://www.youtube.com/watch?v=8ePqqZXSMQs</id>
+        <link href="https://www.youtube.com/watch?v=8ePqqZXSMQs"/>
+        <updated>2022-10-05T13:35:00.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plate Heat Exchanger Basics]]></title>
+        <id>https://www.youtube.com/watch?v=RbmhsyYsEuk</id>
+        <link href="https://www.youtube.com/watch?v=RbmhsyYsEuk"/>
+        <updated>2022-10-05T12:00:19.000Z</updated>
+        <author>
+            <name>The Engineering Mindset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Haimer Tool Crib to Build Tool for CNC Machine #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=Pqo_5Pl0B-w</id>
+        <link href="https://www.youtube.com/watch?v=Pqo_5Pl0B-w"/>
+        <updated>2022-10-05T11:00:27.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Taking the Lectric eBike on its first errand run.]]></title>
         <id>https://www.youtube.com/watch?v=5n1MJfM0sco</id>
@@ -672,15 +762,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Make Wood Fire Resistant]]></title>
-        <id>https://www.youtube.com/watch?v=RUBSEmetkOk</id>
-        <link href="https://www.youtube.com/watch?v=RUBSEmetkOk"/>
-        <updated>2022-09-24T10:04:02.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Upgrading a Cummins 5.9 from 12 to 24 volt and Charging Lithium Batteries]]></title>
         <id>https://www.youtube.com/watch?v=gGt9N01U600</id>
         <link href="https://www.youtube.com/watch?v=gGt9N01U600"/>
@@ -798,15 +879,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Pitaya (Mexican Dragon Fruit) Is So Expensive | So Expensive Food | Business Insider]]></title>
-        <id>https://www.youtube.com/watch?v=g1s1RhnrIfM</id>
-        <link href="https://www.youtube.com/watch?v=g1s1RhnrIfM"/>
-        <updated>2022-09-21T17:00:22.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Problems with Powers of Two - Numberphile]]></title>
         <id>https://www.youtube.com/watch?v=IPoh5C9CcI8</id>
         <link href="https://www.youtube.com/watch?v=IPoh5C9CcI8"/>
@@ -840,15 +912,6 @@
         <updated>2022-09-20T18:45:21.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Timed End Mill TORTURE Test #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=lfburdktbA0</id>
-        <link href="https://www.youtube.com/watch?v=lfburdktbA0"/>
-        <updated>2022-09-20T11:00:26.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1464,15 +1527,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Enhancing Computational Fluid Dynamics with Machine Learning]]></title>
-        <id>https://www.youtube.com/watch?v=i-_1RY6EBI0</id>
-        <link href="https://www.youtube.com/watch?v=i-_1RY6EBI0"/>
-        <updated>2022-08-19T10:00:24.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Many Fossils to Go an Inch? (ft. Robert Krulwich)]]></title>
         <id>https://www.youtube.com/watch?v=SD9yVca6hHI</id>
         <link href="https://www.youtube.com/watch?v=SD9yVca6hHI"/>
@@ -1623,15 +1677,6 @@
         <updated>2022-08-11T00:11:44.000Z</updated>
         <author>
             <name>Internet Pitstop</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Check Your Turbo System for Leaks]]></title>
-        <id>https://www.youtube.com/watch?v=0vH7IvOWH2I</id>
-        <link href="https://www.youtube.com/watch?v=0vH7IvOWH2I"/>
-        <updated>2022-08-08T15:51:20.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
         </author>
     </entry>
     <entry>
@@ -2001,33 +2046,6 @@
         <updated>2022-07-09T14:59:58.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Home Made Crispy Chicken Nuggets (episode 144)]]></title>
-        <id>https://www.youtube.com/watch?v=bRoyNTuOZzg</id>
-        <link href="https://www.youtube.com/watch?v=bRoyNTuOZzg"/>
-        <updated>2022-07-08T15:22:39.000Z</updated>
-        <author>
-            <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I made the Minions and I'm sorry]]></title>
-        <id>https://www.youtube.com/watch?v=hjBmEDsCHWQ</id>
-        <link href="https://www.youtube.com/watch?v=hjBmEDsCHWQ"/>
-        <updated>2022-07-08T15:00:26.000Z</updated>
-        <author>
-            <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BREYER P-ORRIDGE | We Are But One]]></title>
-        <id>https://www.youtube.com/watch?v=Wx0I4Zv4Y8s</id>
-        <link href="https://www.youtube.com/watch?v=Wx0I4Zv4Y8s"/>
-        <updated>2022-07-08T00:30:02.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
         </author>
     </entry>
 </feed>
