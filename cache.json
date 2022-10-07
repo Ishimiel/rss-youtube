@@ -168,6 +168,36 @@
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-CX9B_SB8ME",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-CX9B_SB8ME",
+          "publishedOn": "2022-10-06T21:31:00.000Z",
+          "wordCount": null,
+          "title": "Engineering Math Pre-Req: Quick and Dirty Introduction to Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=U9EL8-9MuYA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=U9EL8-9MuYA",
+          "publishedOn": "2022-10-06T21:30:04.000Z",
+          "wordCount": null,
+          "title": "Engineering Math Pre-Req: Quick and Dirty Introduction to Matlab",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=r1eWerqrcqo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=r1eWerqrcqo",
+          "publishedOn": "2022-10-06T13:45:02.000Z",
+          "wordCount": null,
+          "title": "Example Second-Order ODE: Spring-Mass-Damper",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8ePqqZXSMQs",
           "author": null,
           "description": "",
@@ -285,36 +315,6 @@
           "publishedOn": "2022-09-17T10:00:28.000Z",
           "wordCount": null,
           "title": "Solving the Wave Equation with Separation of Variables... and Guitar String Physics",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UXqUXYaRyGU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UXqUXYaRyGU",
-          "publishedOn": "2022-09-16T10:00:16.000Z",
-          "wordCount": null,
-          "title": "Deriving the Wave Equation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VjWtMl6vQ3Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VjWtMl6vQ3Q",
-          "publishedOn": "2022-09-02T10:00:15.000Z",
-          "wordCount": null,
-          "title": "PDE 101: Separation of Variables! ...or how I learned to stop worrying and solve Laplace's equation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lx-msllg1kU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lx-msllg1kU",
-          "publishedOn": "2022-08-26T16:00:28.000Z",
-          "wordCount": null,
-          "title": "Physics-Informed Dynamic Mode Decomposition (PI-DMD)",
           "imageUrl": null
         }
       ]
@@ -493,6 +493,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UzthvkP20zU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UzthvkP20zU",
+          "publishedOn": "2022-10-06T21:04:33.000Z",
+          "wordCount": null,
+          "title": "1000% SCALE GHOST #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=KkqmTfleeQ4",
           "author": null,
           "description": "",
@@ -630,16 +640,6 @@
           "publishedOn": "2022-09-20T18:45:21.000Z",
           "wordCount": null,
           "title": "MASSIVE Bearded Pumpkin Skull #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_yx3AbrLqio",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_yx3AbrLqio",
-          "publishedOn": "2022-09-17T13:00:17.000Z",
-          "wordCount": null,
-          "title": "VORON and More at Maker Faire OC!",
           "imageUrl": null
         }
       ]
@@ -899,16 +899,6 @@
           "wordCount": null,
           "title": "The Toolchanger that ROTATES! #MRRF2022",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ULK1XiMbelU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ULK1XiMbelU",
-          "publishedOn": "2022-07-09T15:32:38.000Z",
-          "wordCount": null,
-          "title": "3D Printed Color Images! #MRRF2022",
-          "imageUrl": null
         }
       ]
     },
@@ -1033,16 +1023,6 @@
           "wordCount": null,
           "title": "Raptor 1 VS Raptor 2: What's New // What's Different",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=E7MQb9Y4FAE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=E7MQb9Y4FAE",
-          "publishedOn": "2022-07-09T14:59:58.000Z",
-          "wordCount": null,
-          "title": "Elon Musk Explains SpaceX's Raptor Engine!",
-          "imageUrl": null
         }
       ]
     },
@@ -1057,6 +1037,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEuiOszNd6msGgqsD0f9YAQ",
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=WU4uOlT3gFk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WU4uOlT3gFk",
+          "publishedOn": "2022-10-06T13:00:19.000Z",
+          "wordCount": null,
+          "title": "What is Jettison?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=gerFwDopKW0",
           "author": null,
@@ -1195,16 +1185,6 @@
           "publishedOn": "2022-09-24T15:00:15.000Z",
           "wordCount": null,
           "title": "How Colour-changing camouflage tech work",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=50dd-JkWG-c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=50dd-JkWG-c",
-          "publishedOn": "2022-09-24T12:52:48.000Z",
-          "wordCount": null,
-          "title": "See More With MRI",
           "imageUrl": null
         }
       ]
@@ -1930,6 +1910,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCekQr9znsk2vWxBo3YiLq2w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=uC__J9M-l9s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uC__J9M-l9s",
+          "publishedOn": "2022-10-06T17:06:52.000Z",
+          "wordCount": null,
+          "title": "3 Ingredient Low Carb Bread",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nq9WnmCGoFQ",
           "author": null,
           "description": "",
@@ -1976,6 +1966,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=UeYSDyWeGIc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UeYSDyWeGIc",
+          "publishedOn": "2022-10-06T11:00:24.000Z",
+          "wordCount": null,
+          "title": "Monster End Mill Destroys Camera |  Building Protective Case",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Pqo_5Pl0B-w",
           "author": null,
@@ -2115,16 +2115,6 @@
           "wordCount": null,
           "title": "5 Axis Machining! Can you guess what this part is??? #shorts",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZC3HOTq04Pg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZC3HOTq04Pg",
-          "publishedOn": "2022-09-21T11:00:23.000Z",
-          "wordCount": null,
-          "title": "Dumb Inspector Rejects My Part Without Explanation",
-          "imageUrl": null
         }
       ]
     },
@@ -2133,6 +2123,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=aoeUOhFc_tg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aoeUOhFc_tg",
+          "publishedOn": "2022-10-06T18:00:01.000Z",
+          "wordCount": null,
+          "title": "Everything Inside An Army Scout’s Bag #army #scout #armybag #shorts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=6MhPY4UAm7w",
           "author": null,
@@ -2271,16 +2271,6 @@
           "publishedOn": "2022-09-22T15:00:39.000Z",
           "wordCount": null,
           "title": "How Army Cooks Are Trained To Feed 800 Soldiers In The Field | Boot Camp | Business Insider",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zHpenVvUEyc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zHpenVvUEyc",
-          "publishedOn": "2022-09-21T21:13:24.000Z",
-          "wordCount": null,
-          "title": "How One Company Is Making Self-Driving Trucks A Reality",
           "imageUrl": null
         }
       ]
