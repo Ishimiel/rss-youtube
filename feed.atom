@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-07T04:06:24.286Z</id>
+    <id>urn:2022-10-08T03:48:58.886Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-07T04:06:24.286Z</updated>
+    <updated>2022-10-08T03:48:58.886Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Feeling Alive Today]]></title>
+        <id>https://www.youtube.com/watch?v=3E2EloS4BL4</id>
+        <link href="https://www.youtube.com/watch?v=3E2EloS4BL4"/>
+        <updated>2022-10-07T21:39:06.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I made a real life Pikachu]]></title>
+        <id>https://www.youtube.com/watch?v=SaCOHP1paXQ</id>
+        <link href="https://www.youtube.com/watch?v=SaCOHP1paXQ"/>
+        <updated>2022-10-07T15:00:16.000Z</updated>
+        <author>
+            <name>North of the Border</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Author Talks: Hua Hsu and Lucy Sante]]></title>
+        <id>https://www.youtube.com/watch?v=rnZjLgmmzyE</id>
+        <link href="https://www.youtube.com/watch?v=rnZjLgmmzyE"/>
+        <updated>2022-10-07T14:00:27.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Pluviometer?]]></title>
+        <id>https://www.youtube.com/watch?v=U3vme0P14eU</id>
+        <link href="https://www.youtube.com/watch?v=U3vme0P14eU"/>
+        <updated>2022-10-07T13:00:15.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More Examples of Second Order Differential Equations]]></title>
+        <id>https://www.youtube.com/watch?v=fi54Hz5TiWI</id>
+        <link href="https://www.youtube.com/watch?v=fi54Hz5TiWI"/>
+        <updated>2022-10-07T12:18:00.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using a Diamond to Setup Monster Grind #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=Dpgs1RnD-Zc</id>
+        <link href="https://www.youtube.com/watch?v=Dpgs1RnD-Zc"/>
+        <updated>2022-10-07T11:00:09.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Engineering Math Pre-Req: Quick and Dirty Introduction to Python]]></title>
         <id>https://www.youtube.com/watch?v=-CX9B_SB8ME</id>
@@ -69,7 +123,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Monster End Mill Destroys Camera |  Building Protective Case]]></title>
+        <title type="html"><![CDATA[GoPro Made Us STOP Production | CUSTOM 3D Camera Housing]]></title>
         <id>https://www.youtube.com/watch?v=UeYSDyWeGIc</id>
         <link href="https://www.youtube.com/watch?v=UeYSDyWeGIc"/>
         <updated>2022-10-06T11:00:24.000Z</updated>
@@ -312,7 +366,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Global Quinoa Prices Crashed. Peruvian Farmers Still Harvest 100,000 Tons A Year | Big Business]]></title>
+        <title type="html"><![CDATA[Quinoa Prices Crashed. Farmers Still Harvest 100,000 Tons A Year | Big Business | Business Insider]]></title>
         <id>https://www.youtube.com/watch?v=XgsjaDe5Qd8</id>
         <link href="https://www.youtube.com/watch?v=XgsjaDe5Qd8"/>
         <updated>2022-10-02T15:00:30.000Z</updated>
@@ -798,15 +852,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Colour-changing camouflage tech work]]></title>
-        <id>https://www.youtube.com/watch?v=S1AAj0h-JbI</id>
-        <link href="https://www.youtube.com/watch?v=S1AAj0h-JbI"/>
-        <updated>2022-09-24T15:00:15.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lasering Brass with Neil Patrick Harris!]]></title>
         <id>https://www.youtube.com/watch?v=ks7f0o5rD_A</id>
         <link href="https://www.youtube.com/watch?v=ks7f0o5rD_A"/>
@@ -906,15 +951,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5 Axis Machining! Can you guess what this part is??? #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=kLOC2Mjyl8s</id>
-        <link href="https://www.youtube.com/watch?v=kLOC2Mjyl8s"/>
-        <updated>2022-09-22T11:00:22.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dark Souls 1 Changed My Life]]></title>
         <id>https://www.youtube.com/watch?v=8bEBo_CktqA</id>
         <link href="https://www.youtube.com/watch?v=8bEBo_CktqA"/>
@@ -1009,15 +1045,6 @@
         <id>https://www.youtube.com/watch?v=WR7z2bdY7Ko</id>
         <link href="https://www.youtube.com/watch?v=WR7z2bdY7Ko"/>
         <updated>2022-09-17T10:15:01.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving the Wave Equation with Separation of Variables... and Guitar String Physics]]></title>
-        <id>https://www.youtube.com/watch?v=ywrgWRSQ3PY</id>
-        <link href="https://www.youtube.com/watch?v=ywrgWRSQ3PY"/>
-        <updated>2022-09-17T10:00:28.000Z</updated>
         <author>
             <name>Steve Brunton</name>
         </author>
@@ -1644,15 +1671,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Propellers - Stainless, Aluminum, Composite - Diameter and Pitch]]></title>
-        <id>https://www.youtube.com/watch?v=iiqCKg0sZ6c</id>
-        <link href="https://www.youtube.com/watch?v=iiqCKg0sZ6c"/>
-        <updated>2022-08-11T15:57:19.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mill Creek Marsh, Atlantic White Cedar Remnants]]></title>
         <id>https://www.youtube.com/watch?v=gacdGogOnVM</id>
         <link href="https://www.youtube.com/watch?v=gacdGogOnVM"/>
@@ -2028,15 +2046,6 @@
         <updated>2022-07-11T15:09:07.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Problem with the Next Moon Mission]]></title>
-        <id>https://www.youtube.com/watch?v=0k9wIsKKgqo</id>
-        <link href="https://www.youtube.com/watch?v=0k9wIsKKgqo"/>
-        <updated>2022-07-10T14:00:00.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
         </author>
     </entry>
 </feed>
