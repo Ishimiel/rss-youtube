@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-08T03:48:58.886Z</id>
+    <id>urn:2022-10-09T04:43:47.667Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-08T03:48:58.886Z</updated>
+    <updated>2022-10-09T04:43:47.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hydrogel superglue was produced for the underwater and inspired by organisms that fix themselves.]]></title>
+        <id>https://www.youtube.com/watch?v=ooQA7KBFJto</id>
+        <link href="https://www.youtube.com/watch?v=ooQA7KBFJto"/>
+        <updated>2022-10-08T17:49:25.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Impressive 4-Axis Non-Planar 3D Printing]]></title>
+        <id>https://www.youtube.com/watch?v=7LRWuccMGjc</id>
+        <link href="https://www.youtube.com/watch?v=7LRWuccMGjc"/>
+        <updated>2022-10-08T15:27:32.000Z</updated>
+        <author>
+            <name>CNC Kitchen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gene Therapy Infused Directly To The Brain]]></title>
+        <id>https://www.youtube.com/watch?v=P8LIScYlEBo</id>
+        <link href="https://www.youtube.com/watch?v=P8LIScYlEBo"/>
+        <updated>2022-10-08T15:18:20.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Insane Engineering of the Spitfire]]></title>
+        <id>https://www.youtube.com/watch?v=_m6SEKNgxno</id>
+        <link href="https://www.youtube.com/watch?v=_m6SEKNgxno"/>
+        <updated>2022-10-08T14:00:27.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MASSIVE 3D Printed Pumpkin Skull WITH A BEARD!]]></title>
+        <id>https://www.youtube.com/watch?v=dYKKZaWH_Xg</id>
+        <link href="https://www.youtube.com/watch?v=dYKKZaWH_Xg"/>
+        <updated>2022-10-08T13:00:19.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Could this be the next best battery replacement?]]></title>
+        <id>https://www.youtube.com/watch?v=39F5ZgY54tQ</id>
+        <link href="https://www.youtube.com/watch?v=39F5ZgY54tQ"/>
+        <updated>2022-10-08T11:42:17.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Imperial vs Metric | Why America will NEVER switch]]></title>
+        <id>https://www.youtube.com/watch?v=JoDQOqB5cZg</id>
+        <link href="https://www.youtube.com/watch?v=JoDQOqB5cZg"/>
+        <updated>2022-10-08T11:00:11.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High-Order Ordinary Differential Equations with More Derivatives (from Physics)]]></title>
+        <id>https://www.youtube.com/watch?v=uIqJF1rgRJI</id>
+        <link href="https://www.youtube.com/watch?v=uIqJF1rgRJI"/>
+        <updated>2022-10-08T10:00:38.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Feeling Alive Today]]></title>
         <id>https://www.youtube.com/watch?v=3E2EloS4BL4</id>
@@ -123,7 +195,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GoPro Made Us STOP Production | CUSTOM 3D Camera Housing]]></title>
+        <title type="html"><![CDATA[This GoPro Issue STOPPED Our Production | CUSTOM 3D Camera Housing]]></title>
         <id>https://www.youtube.com/watch?v=UeYSDyWeGIc</id>
         <link href="https://www.youtube.com/watch?v=UeYSDyWeGIc"/>
         <updated>2022-10-06T11:00:24.000Z</updated>
@@ -654,15 +726,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Comparing the Patriot against S400 missile systems]]></title>
-        <id>https://www.youtube.com/watch?v=gV3vrrmVtqs</id>
-        <link href="https://www.youtube.com/watch?v=gV3vrrmVtqs"/>
-        <updated>2022-09-28T09:00:21.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[3D Printing a Flipper Zero Case #shorts]]></title>
         <id>https://www.youtube.com/watch?v=NuC3nN8_rX4</id>
         <link href="https://www.youtube.com/watch?v=NuC3nN8_rX4"/>
@@ -687,15 +750,6 @@
         <updated>2022-09-27T16:57:03.000Z</updated>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In-home Monitoring]]></title>
-        <id>https://www.youtube.com/watch?v=GQHSFUrkyWs</id>
-        <link href="https://www.youtube.com/watch?v=GQHSFUrkyWs"/>
-        <updated>2022-09-27T14:59:39.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -807,15 +861,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is percussive maintenance?]]></title>
-        <id>https://www.youtube.com/watch?v=d2KnsfyXvgg</id>
-        <link href="https://www.youtube.com/watch?v=d2KnsfyXvgg"/>
-        <updated>2022-09-25T13:00:21.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Calibrating the Fastest Micrometer You Will Ever Use #shorts]]></title>
         <id>https://www.youtube.com/watch?v=mzQGlrbfKKo</id>
         <link href="https://www.youtube.com/watch?v=mzQGlrbfKKo"/>
@@ -906,15 +951,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What's the Difference Between a Good Machinist and a GREAT Machinist? #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=XlWa_OjOBvM</id>
-        <link href="https://www.youtube.com/watch?v=XlWa_OjOBvM"/>
-        <updated>2022-09-23T11:00:32.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Differential Equations and Dynamical Systems: Overview]]></title>
         <id>https://www.youtube.com/watch?v=9fQkLQZe3u8</id>
         <link href="https://www.youtube.com/watch?v=9fQkLQZe3u8"/>
@@ -987,15 +1023,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MASSIVE Bearded Pumpkin Skull #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=rzBz9VnHrQY</id>
-        <link href="https://www.youtube.com/watch?v=rzBz9VnHrQY"/>
-        <updated>2022-09-20T18:45:21.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Extra Credit: Making Your Own Chatbot With Carrie Sijia Wang]]></title>
         <id>https://www.youtube.com/watch?v=C9_6ww-ODjA</id>
         <link href="https://www.youtube.com/watch?v=C9_6ww-ODjA"/>
@@ -1035,15 +1062,6 @@
         <title type="html"><![CDATA[The Method of Characteristics and the Wave Equation]]></title>
         <id>https://www.youtube.com/watch?v=eI2x99SxJgU</id>
         <link href="https://www.youtube.com/watch?v=eI2x99SxJgU"/>
-        <updated>2022-09-17T10:15:01.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Wave Equation and Slack Line Physics]]></title>
-        <id>https://www.youtube.com/watch?v=WR7z2bdY7Ko</id>
-        <link href="https://www.youtube.com/watch?v=WR7z2bdY7Ko"/>
         <updated>2022-09-17T10:15:01.000Z</updated>
         <author>
             <name>Steve Brunton</name>
@@ -2037,15 +2055,6 @@
         <updated>2022-07-12T14:03:14.000Z</updated>
         <author>
             <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did People Used To Look Older?]]></title>
-        <id>https://www.youtube.com/watch?v=vjqt8T3tJIE</id>
-        <link href="https://www.youtube.com/watch?v=vjqt8T3tJIE"/>
-        <updated>2022-07-11T15:09:07.000Z</updated>
-        <author>
-            <name>Vsauce</name>
         </author>
     </entry>
 </feed>
