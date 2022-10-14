@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-13T05:11:29.380Z</id>
+    <id>urn:2022-10-14T05:10:26.481Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-13T05:11:29.380Z</updated>
+    <updated>2022-10-14T05:10:26.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[1000% GHOST … HAT? #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=IkpHJcA9x-o</id>
+        <link href="https://www.youtube.com/watch?v=IkpHJcA9x-o"/>
+        <updated>2022-10-14T00:51:20.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The High Schooler Who Solved a Prime Number Theorem]]></title>
+        <id>https://www.youtube.com/watch?v=Kqi_6v2RGB0</id>
+        <link href="https://www.youtube.com/watch?v=Kqi_6v2RGB0"/>
+        <updated>2022-10-13T15:04:00.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Kingfisher Inspired Bullet Trains]]></title>
+        <id>https://www.youtube.com/watch?v=poNUiJ7x2CE</id>
+        <link href="https://www.youtube.com/watch?v=poNUiJ7x2CE"/>
+        <updated>2022-10-13T15:00:41.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Changing an Empty Coolant Barrel With a New Barrel of Blaser Synergy 735 #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=iAs64YTrCaY</id>
+        <link href="https://www.youtube.com/watch?v=iAs64YTrCaY"/>
+        <updated>2022-10-13T14:00:23.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PRUSA with a 5th Axis?]]></title>
+        <id>https://www.youtube.com/watch?v=vL0dR__BSmo</id>
+        <link href="https://www.youtube.com/watch?v=vL0dR__BSmo"/>
+        <updated>2022-10-13T13:00:40.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Torque?]]></title>
+        <id>https://www.youtube.com/watch?v=6dblZomcgRU</id>
+        <link href="https://www.youtube.com/watch?v=6dblZomcgRU"/>
+        <updated>2022-10-13T13:00:04.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNC Machining 30,000 LBS of Steel Per Day at Diamondback Industries]]></title>
+        <id>https://www.youtube.com/watch?v=U9HRX3-aGvs</id>
+        <link href="https://www.youtube.com/watch?v=U9HRX3-aGvs"/>
+        <updated>2022-10-13T11:00:28.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Engine Electronics - Starter Relays Diodes and Gauges]]></title>
         <id>https://www.youtube.com/watch?v=QAN8H6qNu4g</id>
@@ -159,7 +222,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Airlines Spend Their Billions | Big Business | Business Insider]]></title>
+        <title type="html"><![CDATA[How Emirates Makes 225,000 In-Flight Meals A Day, And 5 Other Airline Expenses | Big Business]]></title>
         <id>https://www.youtube.com/watch?v=MhhJuDap4CU</id>
         <link href="https://www.youtube.com/watch?v=MhhJuDap4CU"/>
         <updated>2022-10-10T20:00:05.000Z</updated>
@@ -699,15 +762,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Superglue Made Out Of Water]]></title>
-        <id>https://www.youtube.com/watch?v=SAjSqX5dsNI</id>
-        <link href="https://www.youtube.com/watch?v=SAjSqX5dsNI"/>
-        <updated>2022-10-01T15:00:16.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Dangerous is a Penny Dropped From a Skyscraper?]]></title>
         <id>https://www.youtube.com/watch?v=16Ci_2bN_zc</id>
         <link href="https://www.youtube.com/watch?v=16Ci_2bN_zc"/>
@@ -741,24 +795,6 @@
         <updated>2022-10-01T13:00:05.000Z</updated>
         <author>
             <name>Domain of Science</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Local TEXAS CNC Machine Shop Solves Huge Problems | Shop Tour]]></title>
-        <id>https://www.youtube.com/watch?v=f2hOurZvjQg</id>
-        <link href="https://www.youtube.com/watch?v=f2hOurZvjQg"/>
-        <updated>2022-10-01T11:00:23.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[007’s New Changing Color Tech]]></title>
-        <id>https://www.youtube.com/watch?v=xDAsBGWcsO0</id>
-        <link href="https://www.youtube.com/watch?v=xDAsBGWcsO0"/>
-        <updated>2022-10-01T10:23:01.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -798,15 +834,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Most Innovative Products for CNC Machine Shops | HAIMER IMTS TOUR]]></title>
-        <id>https://www.youtube.com/watch?v=qb3Xgy6XbX0</id>
-        <link href="https://www.youtube.com/watch?v=qb3Xgy6XbX0"/>
-        <updated>2022-09-30T11:00:37.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bearded Pumpkin Skull IN 4 COLORS?! #shorts]]></title>
         <id>https://www.youtube.com/watch?v=88Kuckc3Wl0</id>
         <link href="https://www.youtube.com/watch?v=88Kuckc3Wl0"/>
@@ -816,7 +843,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Modules, Magnets, and Much More: The MiRage Mk3!]]></title>
+        <title type="html"><![CDATA[Modules! Magnets! My MiRage Mk3 Mech Keyboard is Meant to Modify!]]></title>
         <id>https://www.youtube.com/watch?v=EWWJ1x2VMJs</id>
         <link href="https://www.youtube.com/watch?v=EWWJ1x2VMJs"/>
         <updated>2022-09-29T23:07:26.000Z</updated>
@@ -951,15 +978,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D Printing + PRUSA PRINT FARM! #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=1mMDFiaYVyQ</id>
-        <link href="https://www.youtube.com/watch?v=1mMDFiaYVyQ"/>
-        <updated>2022-09-26T18:51:28.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Psychedelics for the Frontlines: A Police Officer on the Healing Potential of MDMA for PTSD]]></title>
         <id>https://www.youtube.com/watch?v=ugZemizXHB0</id>
         <link href="https://www.youtube.com/watch?v=ugZemizXHB0"/>
@@ -975,15 +993,6 @@
         <updated>2022-09-26T12:00:24.000Z</updated>
         <author>
             <name>The Engineering Mindset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Printed Octopus HOLDS WHAT? #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=Fg7cURCUWO4</id>
-        <link href="https://www.youtube.com/watch?v=Fg7cURCUWO4"/>
-        <updated>2022-09-25T18:25:00.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
         </author>
     </entry>
     <entry>
@@ -2010,24 +2019,6 @@
         <updated>2022-07-20T14:12:16.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minimalistic CNC Router makes incredible parts! #MRRF2022]]></title>
-        <id>https://www.youtube.com/watch?v=eN3LsQfmXSo</id>
-        <link href="https://www.youtube.com/watch?v=eN3LsQfmXSo"/>
-        <updated>2022-07-16T15:30:17.000Z</updated>
-        <author>
-            <name>CNC Kitchen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electronic Pressure Switches - How They Work]]></title>
-        <id>https://www.youtube.com/watch?v=YG81w0HFXNc</id>
-        <link href="https://www.youtube.com/watch?v=YG81w0HFXNc"/>
-        <updated>2022-07-16T13:48:49.000Z</updated>
-        <author>
-            <name>The Engineering Mindset</name>
         </author>
     </entry>
 </feed>
