@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-17T05:17:09.647Z</id>
+    <id>urn:2022-10-18T00:52:39.949Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-17T05:17:09.647Z</updated>
+    <updated>2022-10-18T00:52:39.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Flour Is Produced in a Mill?]]></title>
+        <id>https://www.youtube.com/watch?v=LWtToZeyhNI</id>
+        <link href="https://www.youtube.com/watch?v=LWtToZeyhNI"/>
+        <updated>2022-10-17T16:11:10.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eigenvalues and Eigenvectors]]></title>
+        <id>https://www.youtube.com/watch?v=ZSGrJBS_qtc</id>
+        <link href="https://www.youtube.com/watch?v=ZSGrJBS_qtc"/>
+        <updated>2022-10-17T14:04:00.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good morning from Little Rock Arkansas]]></title>
+        <id>https://www.youtube.com/watch?v=rIsEXp0OhmE</id>
+        <link href="https://www.youtube.com/watch?v=rIsEXp0OhmE"/>
+        <updated>2022-10-17T12:51:03.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Transformers Work: The Basics]]></title>
+        <id>https://www.youtube.com/watch?v=Nfja9F8OdPM</id>
+        <link href="https://www.youtube.com/watch?v=Nfja9F8OdPM"/>
+        <updated>2022-10-17T12:00:12.000Z</updated>
+        <author>
+            <name>The Engineering Mindset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preparing Machine to Grind a Difficult Motorcycle Part #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=N1EW0rjlAbo</id>
+        <link href="https://www.youtube.com/watch?v=N1EW0rjlAbo"/>
+        <updated>2022-10-17T11:00:14.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is a Transom?]]></title>
         <id>https://www.youtube.com/watch?v=JHE9dZkzppg</id>
@@ -42,7 +87,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Training like a SpaceX Astronaut with the Polaris Dawn Crew!]]></title>
+        <title type="html"><![CDATA[Training Like a SpaceX Astronaut in a Fighter Jet with the Polaris Dawn Crew!]]></title>
         <id>https://www.youtube.com/watch?v=eR3PZSAK2Dc</id>
         <link href="https://www.youtube.com/watch?v=eR3PZSAK2Dc"/>
         <updated>2022-10-15T17:59:46.000Z</updated>
@@ -150,7 +195,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How A Rare Golden Silk Tradition Survived War In Cambodia | Still Standing | Business Insider]]></title>
+        <title type="html"><![CDATA[How A Rare Silk Tradition Survived War In Cambodia | Still Standing | Business Insider]]></title>
         <id>https://www.youtube.com/watch?v=grsJPM-W0ns</id>
         <link href="https://www.youtube.com/watch?v=grsJPM-W0ns"/>
         <updated>2022-10-14T15:11:15.000Z</updated>
@@ -510,30 +555,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hydrogel superglue was produced for the underwater and inspired by organisms that fix themselves.]]></title>
-        <id>https://www.youtube.com/watch?v=ooQA7KBFJto</id>
-        <link href="https://www.youtube.com/watch?v=ooQA7KBFJto"/>
-        <updated>2022-10-08T17:49:25.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Impressive 4-Axis Non-Planar 3D Printing]]></title>
         <id>https://www.youtube.com/watch?v=7LRWuccMGjc</id>
         <link href="https://www.youtube.com/watch?v=7LRWuccMGjc"/>
         <updated>2022-10-08T15:27:32.000Z</updated>
         <author>
             <name>CNC Kitchen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gene Therapy Infused Directly To The Brain]]></title>
-        <id>https://www.youtube.com/watch?v=P8LIScYlEBo</id>
-        <link href="https://www.youtube.com/watch?v=P8LIScYlEBo"/>
-        <updated>2022-10-08T15:18:20.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -669,15 +696,6 @@
         <updated>2022-10-06T13:45:02.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This GoPro Issue STOPPED Our Production | CUSTOM 3D Camera Housing]]></title>
-        <id>https://www.youtube.com/watch?v=UeYSDyWeGIc</id>
-        <link href="https://www.youtube.com/watch?v=UeYSDyWeGIc"/>
-        <updated>2022-10-06T11:00:24.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1050,15 +1068,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gentle Introduction to Modeling with Matrices and Vectors: A Probabilistic Weather Model]]></title>
-        <id>https://www.youtube.com/watch?v=K-8F_zDMDUI</id>
-        <link href="https://www.youtube.com/watch?v=K-8F_zDMDUI"/>
-        <updated>2022-09-27T10:00:20.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dragging Anchor]]></title>
         <id>https://www.youtube.com/watch?v=hFklAwm4ZEE</id>
         <link href="https://www.youtube.com/watch?v=hFklAwm4ZEE"/>
@@ -1234,15 +1243,6 @@
         <id>https://www.youtube.com/watch?v=WWcN9W9e3_Y</id>
         <link href="https://www.youtube.com/watch?v=WWcN9W9e3_Y"/>
         <updated>2022-09-15T19:25:58.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russellville Saturday Invite to Sailing Vessel Seeker]]></title>
-        <id>https://www.youtube.com/watch?v=n8OqKoQQ53Q</id>
-        <link href="https://www.youtube.com/watch?v=n8OqKoQQ53Q"/>
-        <updated>2022-09-15T19:23:33.000Z</updated>
         <author>
             <name>SV Seeker</name>
         </author>
