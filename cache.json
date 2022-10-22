@@ -198,6 +198,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=NaNdkCPLftc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NaNdkCPLftc",
+          "publishedOn": "2022-10-21T10:00:30.000Z",
+          "wordCount": null,
+          "title": "2x2 Systems of ODEs: Sources and Sinks",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Zwb5eiYcL8w",
           "author": null,
           "description": "",
@@ -335,16 +345,6 @@
           "publishedOn": "2022-09-30T14:05:00.000Z",
           "wordCount": null,
           "title": "Solving Differential Equations with Power Series: A Simple Example",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fGGNlXZB2YI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fGGNlXZB2YI",
-          "publishedOn": "2022-09-29T10:00:33.000Z",
-          "wordCount": null,
-          "title": "Interpretable Aeroelastic Models for Control at Insect Scale",
           "imageUrl": null
         }
       ]
@@ -1058,6 +1058,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=1nJCnnK6Ixc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1nJCnnK6Ixc",
+          "publishedOn": "2022-10-21T15:00:02.000Z",
+          "wordCount": null,
+          "title": "Is 5G Technology Really Dangerous For Our Health?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6oBwQsBbLtk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6oBwQsBbLtk",
+          "publishedOn": "2022-10-21T09:00:04.000Z",
+          "wordCount": null,
+          "title": "The Engineering Failures that Sent Titanic to the Bottom of the Atlantic",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=NrZ_7VHM9o4",
           "author": null,
           "description": "",
@@ -1175,26 +1195,6 @@
           "publishedOn": "2022-10-15T13:00:31.000Z",
           "wordCount": null,
           "title": "Real Time Tumors Tracking is Here",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=y0dsg3RmhOQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=y0dsg3RmhOQ",
-          "publishedOn": "2022-10-14T15:00:42.000Z",
-          "wordCount": null,
-          "title": "The Engineering Failures that Sent Titanic to the Bottom of the Atlantic",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wxmmgknhRsg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wxmmgknhRsg",
-          "publishedOn": "2022-10-14T13:00:44.000Z",
-          "wordCount": null,
-          "title": "What is saponification?",
           "imageUrl": null
         }
       ]
@@ -1471,6 +1471,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCj_XaV1ss-qdD-lPUtTEcXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=PgxjZmVa00o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PgxjZmVa00o",
+          "publishedOn": "2022-10-21T23:24:47.000Z",
+          "wordCount": null,
+          "title": "Off the Sandbar!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=LULZlccRKAo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LULZlccRKAo",
+          "publishedOn": "2022-10-21T17:59:43.000Z",
+          "wordCount": null,
+          "title": "Record shallow depths in Mississippi. We can verify that. And the trouble that comes with it.￼",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ePbby3FH4_I",
           "author": null,
           "description": "",
@@ -1599,26 +1619,6 @@
           "wordCount": null,
           "title": "Taking the Lectric eBike on its first errand run.",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=c7XxdvAhPIQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=c7XxdvAhPIQ",
-          "publishedOn": "2022-10-03T12:10:25.000Z",
-          "wordCount": null,
-          "title": "Water Tank Repair",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=V5BhJRlJZQM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=V5BhJRlJZQM",
-          "publishedOn": "2022-09-29T17:19:44.000Z",
-          "wordCount": null,
-          "title": "My Friends in Russellville",
-          "imageUrl": null
         }
       ]
     },
@@ -1671,6 +1671,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCk0fGHsCEzGig-rSzkfCjMw",
       "siteUrl": "https://www.youtube.com/channel/UCk0fGHsCEzGig-rSzkfCjMw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=QmFQAVxdeBc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QmFQAVxdeBc",
+          "publishedOn": "2022-10-21T12:00:18.000Z",
+          "wordCount": null,
+          "title": "Why Are Solenoid Valves Used?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=yF7ADcRt_uA",
           "author": null,
@@ -1810,16 +1820,6 @@
           "wordCount": null,
           "title": "Why Cars Have a Starter Motor",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CQtSS6g00h0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CQtSS6g00h0",
-          "publishedOn": "2022-08-25T12:00:07.000Z",
-          "wordCount": null,
-          "title": "How Transistors Work",
-          "imageUrl": null
         }
       ]
     },
@@ -1950,6 +1950,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCekQr9znsk2vWxBo3YiLq2w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KaFdIY3106Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KaFdIY3106Q",
+          "publishedOn": "2022-10-21T13:00:12.000Z",
+          "wordCount": null,
+          "title": "Crispy Smashed Potatoes - You Suck at Cooking (episode 148)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=uC__J9M-l9s",
           "author": null,
           "description": "",
@@ -2006,6 +2016,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=NNUmncvqKGY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NNUmncvqKGY",
+          "publishedOn": "2022-10-21T11:00:11.000Z",
+          "wordCount": null,
+          "title": "End Mill with 65 Inserts OBLITERATES Broken Knockoff Vise #shorts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=-E40feslOuk",
           "author": null,
@@ -2135,16 +2155,6 @@
           "wordCount": null,
           "title": "Installing The MOST Efficient Chuck in New Multitasking CNC Machine #shorts",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=__1mxHoGj7M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=__1mxHoGj7M",
-          "publishedOn": "2022-10-12T11:00:31.000Z",
-          "wordCount": null,
-          "title": "Why METRIC is SUPERIOR to IMPERIAL",
-          "imageUrl": null
         }
       ]
     },
@@ -2154,13 +2164,23 @@
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=R93nHEoe3MI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=R93nHEoe3MI",
+          "publishedOn": "2022-10-21T16:00:18.000Z",
+          "wordCount": null,
+          "title": "How A Thai Mask Maker Is Keeping A 600-year Old Khon Tradition Alive | Still Standing",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Km91LPDFjCs",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=Km91LPDFjCs",
           "publishedOn": "2022-10-20T15:30:03.000Z",
           "wordCount": null,
-          "title": "US Army Drill Sergeant Breaks Down Every Uniform Drill Sergeants Wear | Loadout | Business Insider",
+          "title": "Every Uniform In An Army Drill Sergeant's Bag | Loadout | Business Insider",
           "imageUrl": null
         },
         {
@@ -2292,16 +2312,6 @@
           "wordCount": null,
           "title": "The Equity Talk: Nuveen's CEO Weighs In On Economic Inequality Impacting Hispanic Americans",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eLxi7uGfZ84",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eLxi7uGfZ84",
-          "publishedOn": "2022-09-29T01:10:29.000Z",
-          "wordCount": null,
-          "title": "Paper Made From Elephant Dung Could Save Trees | World Wide Waste | Business Insider",
-          "imageUrl": null
         }
       ]
     },
@@ -2347,6 +2357,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCM15YNy8g-CaJ15YZCbq0Iw",
       "siteUrl": "https://www.youtube.com/channel/UCM15YNy8g-CaJ15YZCbq0Iw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=yRX5FFZ3f2w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yRX5FFZ3f2w",
+          "publishedOn": "2022-10-21T15:00:52.000Z",
+          "wordCount": null,
+          "title": "I made a realistic Shiny Gyarados",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Ecc2VXR5Rl4",
           "author": null,
