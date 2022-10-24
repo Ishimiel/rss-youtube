@@ -198,6 +198,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=b7389fIVey0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=b7389fIVey0",
+          "publishedOn": "2022-10-23T10:00:25.000Z",
+          "wordCount": null,
+          "title": "2x2 Systems of ODEs: Imaginary Eigenvalues and Center Fixed Points",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fA86UJcFM60",
           "author": null,
           "description": "",
@@ -335,16 +345,6 @@
           "publishedOn": "2022-10-03T14:22:00.000Z",
           "wordCount": null,
           "title": "Taylor Series of the Exponential Function and Euler's Formula!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ebfOSDj4j3I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ebfOSDj4j3I",
-          "publishedOn": "2022-10-01T13:17:00.000Z",
-          "wordCount": null,
-          "title": "Taylor Series and Power Series Made Easy (with Pictures): Review of Calculus",
           "imageUrl": null
         }
       ]
@@ -1079,6 +1079,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=74sVA5_X3zo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=74sVA5_X3zo",
+          "publishedOn": "2022-10-23T12:49:52.000Z",
+          "wordCount": null,
+          "title": "When you have goosebumps",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=T_wu7whxEuI",
           "author": null,
           "description": "",
@@ -1206,16 +1216,6 @@
           "publishedOn": "2022-10-16T13:00:10.000Z",
           "wordCount": null,
           "title": "What is a Transom?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6K8-oMdbLAk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6K8-oMdbLAk",
-          "publishedOn": "2022-10-15T17:00:03.000Z",
-          "wordCount": null,
-          "title": "Could this be the next best battery replacement?",
           "imageUrl": null
         }
       ]
@@ -1496,9 +1496,19 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=KS41Zny5Wtw",
-          "publishedOn": "2022-10-23T00:15:02.000Z",
+          "publishedOn": "2022-10-23T23:32:07.000Z",
           "wordCount": null,
           "title": "LIVE from Seeker on the Mississippi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9uRfXMw2Uqo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9uRfXMw2Uqo",
+          "publishedOn": "2022-10-23T21:44:04.000Z",
+          "wordCount": null,
+          "title": "A sonar on your phone - SonarPhone and it works with Navionics",
           "imageUrl": null
         },
         {
@@ -1630,16 +1640,6 @@
           "wordCount": null,
           "title": "Fueling a Boat on Anchor",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3E2EloS4BL4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3E2EloS4BL4",
-          "publishedOn": "2022-10-07T21:39:06.000Z",
-          "wordCount": null,
-          "title": "Feeling Alive Today",
-          "imageUrl": null
         }
       ]
     },
@@ -1692,6 +1692,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCk0fGHsCEzGig-rSzkfCjMw",
       "siteUrl": "https://www.youtube.com/channel/UCk0fGHsCEzGig-rSzkfCjMw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=PvIb2LtgmaU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PvIb2LtgmaU",
+          "publishedOn": "2022-10-23T12:00:26.000Z",
+          "wordCount": null,
+          "title": "How Inductors Work",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=NDam51g6dBA",
           "author": null,
@@ -1830,16 +1840,6 @@
           "publishedOn": "2022-09-19T12:00:34.000Z",
           "wordCount": null,
           "title": "How Starter Motors Work",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=r0YbIQobDRg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=r0YbIQobDRg",
-          "publishedOn": "2022-09-12T12:00:30.000Z",
-          "wordCount": null,
-          "title": "Why do transformers make a humming noise?",
           "imageUrl": null
         }
       ]
@@ -2038,6 +2038,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Fmf8iPuBe7M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Fmf8iPuBe7M",
+          "publishedOn": "2022-10-23T11:00:06.000Z",
+          "wordCount": null,
+          "title": "Grinding Custom Tool for Complex Aerospace Bulkhead Fitting #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rHzLB7PYWLg",
           "author": null,
           "description": "",
@@ -2176,16 +2186,6 @@
           "wordCount": null,
           "title": "Changing an Empty Coolant Barrel With a New Barrel of Blaser Synergy 735 #shorts",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=U9HRX3-aGvs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=U9HRX3-aGvs",
-          "publishedOn": "2022-10-13T11:00:28.000Z",
-          "wordCount": null,
-          "title": "CNC Machining 30,000 LBS of Steel Per Day at Diamondback Industries",
-          "imageUrl": null
         }
       ]
     },
@@ -2194,6 +2194,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=hktm2mvQKc0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hktm2mvQKc0",
+          "publishedOn": "2022-10-23T15:00:34.000Z",
+          "wordCount": null,
+          "title": "How Junior's Bakes 5 Million Cheesecakes During A Cream Cheese Shortage | Big Business",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=2ALeYFi_1hg",
           "author": null,
@@ -2332,16 +2342,6 @@
           "publishedOn": "2022-10-02T15:00:30.000Z",
           "wordCount": null,
           "title": "Quinoa Prices Crashed. Farmers Still Harvest 100,000 Tons A Year | Big Business | Business Insider",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_xOj9bLkYVQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_xOj9bLkYVQ",
-          "publishedOn": "2022-10-01T15:00:20.000Z",
-          "wordCount": null,
-          "title": "Why Oboes Are So Expensive | So Expensive | Business Insider",
           "imageUrl": null
         }
       ]
