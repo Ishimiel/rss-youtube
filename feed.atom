@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-24T00:57:57.035Z</id>
+    <id>urn:2022-10-25T00:55:25.837Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-24T00:57:57.035Z</updated>
+    <updated>2022-10-25T00:55:25.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[My 500ft Dive in a NUCLEAR SUBMARINE]]></title>
+        <id>https://www.youtube.com/watch?v=JRQSbK4Krg0</id>
+        <link href="https://www.youtube.com/watch?v=JRQSbK4Krg0"/>
+        <updated>2022-10-24T22:55:56.000Z</updated>
+        <author>
+            <name>Physics Girl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside The Anti-Abortion Centers Hidden In Plain Sight | True Cost | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=PYnGZNPPa8g</id>
+        <link href="https://www.youtube.com/watch?v=PYnGZNPPa8g"/>
+        <updated>2022-10-24T18:00:09.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Flour Is Produced in a Mill?]]></title>
+        <id>https://www.youtube.com/watch?v=LP_z_2u8UG0</id>
+        <link href="https://www.youtube.com/watch?v=LP_z_2u8UG0"/>
+        <updated>2022-10-24T14:22:56.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Stepper Motor?]]></title>
+        <id>https://www.youtube.com/watch?v=fQsdUhRwCU4</id>
+        <link href="https://www.youtube.com/watch?v=fQsdUhRwCU4"/>
+        <updated>2022-10-24T12:00:28.000Z</updated>
+        <author>
+            <name>The Engineering Mindset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BROKEN End Mill Full Slots Through STEEL #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=lo179i5wTSs</id>
+        <link href="https://www.youtube.com/watch?v=lo179i5wTSs"/>
+        <updated>2022-10-24T11:00:24.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stability and Eigenvalues: What does it mean to be a "stable" eigenvalue?]]></title>
+        <id>https://www.youtube.com/watch?v=XXjoh8L1HkE</id>
+        <link href="https://www.youtube.com/watch?v=XXjoh8L1HkE"/>
+        <updated>2022-10-24T10:00:30.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Metal Is Like Mercury But Safe]]></title>
+        <id>https://www.youtube.com/watch?v=9lb1ErgR6ig</id>
+        <link href="https://www.youtube.com/watch?v=9lb1ErgR6ig"/>
+        <updated>2022-10-24T09:00:09.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LIVE from Seeker on the Mississippi]]></title>
         <id>https://www.youtube.com/watch?v=KS41Zny5Wtw</id>
@@ -78,16 +141,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can you burn out a REVO nozzle? #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=fHHR1EuinpI</id>
-        <link href="https://www.youtube.com/watch?v=fHHR1EuinpI"/>
-        <updated>2022-10-22T15:49:06.000Z</updated>
-        <author>
-            <name>CNC Kitchen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Math for game devs [class of 2022, part 1]]]></title>
+        <title type="html"><![CDATA[Math for Game Devs [class of 2022, part 1]]]></title>
         <id>https://www.youtube.com/watch?v=fjOdtSu4Lm4</id>
         <link href="https://www.youtube.com/watch?v=fjOdtSu4Lm4"/>
         <updated>2022-10-22T15:40:52.000Z</updated>
@@ -555,15 +609,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is a Transom?]]></title>
-        <id>https://www.youtube.com/watch?v=JHE9dZkzppg</id>
-        <link href="https://www.youtube.com/watch?v=JHE9dZkzppg"/>
-        <updated>2022-10-16T13:00:10.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[October 16, 2022]]></title>
         <id>https://www.youtube.com/watch?v=sHJngd2G_t4</id>
         <link href="https://www.youtube.com/watch?v=sHJngd2G_t4"/>
@@ -741,15 +786,6 @@
         <updated>2022-10-13T15:04:00.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Changing an Empty Coolant Barrel With a New Barrel of Blaser Synergy 735 #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=iAs64YTrCaY</id>
-        <link href="https://www.youtube.com/watch?v=iAs64YTrCaY"/>
-        <updated>2022-10-13T14:00:23.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1122,30 +1158,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Taylor Series of the Exponential Function and Euler's Formula!]]></title>
-        <id>https://www.youtube.com/watch?v=H0Zbg_CqMCs</id>
-        <link href="https://www.youtube.com/watch?v=H0Zbg_CqMCs"/>
-        <updated>2022-10-03T14:22:00.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why Cars Need Differential Gears]]></title>
         <id>https://www.youtube.com/watch?v=aCk8BMNbmIs</id>
         <link href="https://www.youtube.com/watch?v=aCk8BMNbmIs"/>
         <updated>2022-10-03T12:00:01.000Z</updated>
         <author>
             <name>The Engineering Mindset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quinoa Prices Crashed. Farmers Still Harvest 100,000 Tons A Year | Big Business | Business Insider]]></title>
-        <id>https://www.youtube.com/watch?v=XgsjaDe5Qd8</id>
-        <link href="https://www.youtube.com/watch?v=XgsjaDe5Qd8"/>
-        <updated>2022-10-02T15:00:30.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -1317,15 +1335,6 @@
         <updated>2022-09-19T23:11:19.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Starter Motors Work]]></title>
-        <id>https://www.youtube.com/watch?v=gXKqhFENnQc</id>
-        <link href="https://www.youtube.com/watch?v=gXKqhFENnQc"/>
-        <updated>2022-09-19T12:00:34.000Z</updated>
-        <author>
-            <name>The Engineering Mindset</name>
         </author>
     </entry>
     <entry>
@@ -2073,33 +2082,6 @@
         <updated>2022-07-28T19:44:59.000Z</updated>
         <author>
             <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Traveling Salesman Problem: When Good Enough Beats Perfect]]></title>
-        <id>https://www.youtube.com/watch?v=GiDsjIBOVoA</id>
-        <link href="https://www.youtube.com/watch?v=GiDsjIBOVoA"/>
-        <updated>2022-07-26T16:57:05.000Z</updated>
-        <author>
-            <name>Reducible</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This should be IMPOSSIBLE...and yet...]]></title>
-        <id>https://www.youtube.com/watch?v=dEnMexUZbnQ</id>
-        <link href="https://www.youtube.com/watch?v=dEnMexUZbnQ"/>
-        <updated>2022-07-26T15:40:47.000Z</updated>
-        <author>
-            <name>Adam Neely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Deadliest Virus on Earth]]></title>
-        <id>https://www.youtube.com/watch?v=4u5I8GYB79Y</id>
-        <link href="https://www.youtube.com/watch?v=4u5I8GYB79Y"/>
-        <updated>2022-07-26T13:58:55.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>
