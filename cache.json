@@ -177,6 +177,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=78we91-gWy8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=78we91-gWy8",
+          "publishedOn": "2022-10-26T10:00:05.000Z",
+          "wordCount": null,
+          "title": "What is a \"Linear\" Differential Equation?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=XXjoh8L1HkE",
           "author": null,
           "description": "",
@@ -314,16 +324,6 @@
           "publishedOn": "2022-10-06T13:45:02.000Z",
           "wordCount": null,
           "title": "Example Second-Order ODE: Spring-Mass-Damper",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8ePqqZXSMQs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8ePqqZXSMQs",
-          "publishedOn": "2022-10-05T13:35:00.000Z",
-          "wordCount": null,
-          "title": "Second-Order Ordinary Differential Equations: Solving the Harmonic Oscillator Four Ways",
           "imageUrl": null
         }
       ]
@@ -502,6 +502,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nU6sTe5MCNo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nU6sTe5MCNo",
+          "publishedOn": "2022-10-26T01:20:34.000Z",
+          "wordCount": null,
+          "title": "FAST RESIN #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4jsLowMvZ9E",
           "author": null,
           "description": "",
@@ -639,16 +649,6 @@
           "publishedOn": "2022-10-06T21:04:33.000Z",
           "wordCount": null,
           "title": "1000% GHOST #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KkqmTfleeQ4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KkqmTfleeQ4",
-          "publishedOn": "2022-10-04T16:25:34.000Z",
-          "wordCount": null,
-          "title": "ARMY OF GHOSTS #shorts",
           "imageUrl": null
         }
       ]
@@ -1021,13 +1021,23 @@
       "siteUrl": "https://www.youtube.com/channel/UC7M-Wz4zK8oikt6ATcoTwBA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gVgN5SU6BrA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gVgN5SU6BrA",
+          "publishedOn": "2022-10-26T14:17:24.000Z",
+          "wordCount": null,
+          "title": "Math for Game Devs [2022, part 3] • Matrix4x4 & Cross Product",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0bUJyuwXV0Y",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=0bUJyuwXV0Y",
-          "publishedOn": "2022-10-25T20:06:59.000Z",
+          "publishedOn": "2022-10-26T10:12:00.000Z",
           "wordCount": null,
-          "title": "Math for Game Devs [class of 2022, part 2]",
+          "title": "Math for Game Devs [2022, part 2] solutions for assignments 1-3",
           "imageUrl": null
         },
         {
@@ -1037,7 +1047,7 @@
           "link": "https://www.youtube.com/watch?v=fjOdtSu4Lm4",
           "publishedOn": "2022-10-25T11:16:35.000Z",
           "wordCount": null,
-          "title": "Math for Game Devs [class of 2022, part 1]",
+          "title": "Math for Game Devs [2022, part 1] • Numbers, Vectors & Dot Product",
           "imageUrl": null
         }
       ]
@@ -1047,6 +1057,66 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEuiOszNd6msGgqsD0f9YAQ",
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=uCBuS6cd7u8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uCBuS6cd7u8",
+          "publishedOn": "2022-10-26T22:00:25.000Z",
+          "wordCount": null,
+          "title": "Robotic Arm With Human-like Functions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=PJ98ThBKgzk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PJ98ThBKgzk",
+          "publishedOn": "2022-10-26T19:00:08.000Z",
+          "wordCount": null,
+          "title": "Hover Above The Terrain With A Jet Suit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ygvkkahg6E0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ygvkkahg6E0",
+          "publishedOn": "2022-10-26T17:00:39.000Z",
+          "wordCount": null,
+          "title": "Let This Robot Gardener Do The Hard Work",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=4LmjyNvSoKo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4LmjyNvSoKo",
+          "publishedOn": "2022-10-26T15:00:02.000Z",
+          "wordCount": null,
+          "title": "MK19 Can Throw 60 Grenades in a Minute",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=nyP3AeG_9-U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nyP3AeG_9-U",
+          "publishedOn": "2022-10-26T12:57:45.000Z",
+          "wordCount": null,
+          "title": "Does teleportation mean creating a copy of a human being?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=2aHcv0hWW4I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2aHcv0hWW4I",
+          "publishedOn": "2022-10-26T09:00:02.000Z",
+          "wordCount": null,
+          "title": "The USS Gerald R. Ford (CVN 78) is the most technologically advanced warship ever built.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=rzAZb_FiJYI",
           "author": null,
@@ -1136,66 +1206,6 @@
           "wordCount": null,
           "title": "Remove Kidney Stones Without Anesthetics",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1nJCnnK6Ixc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1nJCnnK6Ixc",
-          "publishedOn": "2022-10-21T15:00:02.000Z",
-          "wordCount": null,
-          "title": "Is 5G Technology Really Dangerous For Our Health?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6oBwQsBbLtk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6oBwQsBbLtk",
-          "publishedOn": "2022-10-21T09:00:04.000Z",
-          "wordCount": null,
-          "title": "The Engineering Failures that Sent Titanic to the Bottom of the Atlantic",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NrZ_7VHM9o4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NrZ_7VHM9o4",
-          "publishedOn": "2022-10-20T15:00:13.000Z",
-          "wordCount": null,
-          "title": "How Does Nature Aid In Creating New Camouflage?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pc56E8jggUg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pc56E8jggUg",
-          "publishedOn": "2022-10-20T13:00:29.000Z",
-          "wordCount": null,
-          "title": "The most watery term in the world",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lNnVQWdAENc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lNnVQWdAENc",
-          "publishedOn": "2022-10-20T09:00:33.000Z",
-          "wordCount": null,
-          "title": "Kingfisher Helped Inspire Bullet Trains",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qymDL3T2nkc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qymDL3T2nkc",
-          "publishedOn": "2022-10-19T15:00:39.000Z",
-          "wordCount": null,
-          "title": "The USS Gerald R. Ford (CVN 78) is The Most Technologically Advanced Warship Ever Built",
-          "imageUrl": null
         }
       ]
     },
@@ -1242,16 +1252,6 @@
           "publishedOn": "2022-08-11T00:11:44.000Z",
           "wordCount": null,
           "title": "The Beauty Of Handheld Consoles",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JovIgd9B9RQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JovIgd9B9RQ",
-          "publishedOn": "2022-07-29T01:37:49.000Z",
-          "wordCount": null,
-          "title": "The Berserk Soundtrack Is Also A Masterpiece | The Sound Of Berserk",
           "imageUrl": null
         }
       ]
@@ -1330,6 +1330,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoxcjq-8xIDTYp3uz647V5A",
       "siteUrl": "https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=nQR1NY03zIA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nQR1NY03zIA",
+          "publishedOn": "2022-10-26T12:22:48.000Z",
+          "wordCount": null,
+          "title": "The Truth About Fibs - Numberphile",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=-JR9-dgU7tU",
           "author": null,
@@ -1482,6 +1492,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCj_XaV1ss-qdD-lPUtTEcXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=O7eemEY4kZ8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=O7eemEY4kZ8",
+          "publishedOn": "2022-10-26T14:46:09.000Z",
+          "wordCount": null,
+          "title": "Find Your Happy",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=iDUECMuOpgI",
           "author": null,
           "description": "",
@@ -1620,16 +1640,6 @@
           "wordCount": null,
           "title": "Engine Electronics - Starter Relays Diodes and Gauges",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qUUUuEpSyQU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qUUUuEpSyQU",
-          "publishedOn": "2022-10-11T18:47:46.000Z",
-          "wordCount": null,
-          "title": "One last thing to do.",
-          "imageUrl": null
         }
       ]
     },
@@ -1682,6 +1692,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCk0fGHsCEzGig-rSzkfCjMw",
       "siteUrl": "https://www.youtube.com/channel/UCk0fGHsCEzGig-rSzkfCjMw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=_f-zNQKFMAA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_f-zNQKFMAA",
+          "publishedOn": "2022-10-26T12:00:21.000Z",
+          "wordCount": null,
+          "title": "HVAC On Off Control Basics",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=OUcKJuMSSW4",
           "author": null,
@@ -1820,16 +1840,6 @@
           "publishedOn": "2022-09-28T12:00:16.000Z",
           "wordCount": null,
           "title": "Heating System Optimizer Basics",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mrMis-ekPxs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mrMis-ekPxs",
-          "publishedOn": "2022-09-26T12:00:24.000Z",
-          "wordCount": null,
-          "title": "Step Up Transformer Calculation Basics",
           "imageUrl": null
         }
       ]
@@ -2009,16 +2019,6 @@
           "wordCount": null,
           "title": "Chocolate Ice Cream Bars - You Suck at Cooking (episode 145)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=i6udNoszSu0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=i6udNoszSu0",
-          "publishedOn": "2022-07-28T19:44:59.000Z",
-          "wordCount": null,
-          "title": "10 More Ways to Chop on Onion",
-          "imageUrl": null
         }
       ]
     },
@@ -2027,6 +2027,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=DUCVbosjBNw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DUCVbosjBNw",
+          "publishedOn": "2022-10-26T11:00:13.000Z",
+          "wordCount": null,
+          "title": "CNC Machining’s Most DESTRUCTIVE Cuts #shorts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=HvfKAUkeBp0",
           "author": null,
@@ -2166,16 +2176,6 @@
           "wordCount": null,
           "title": "We Stalled a MONSTER Drill! #shorts",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Wr_dcRYmZEE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Wr_dcRYmZEE",
-          "publishedOn": "2022-10-15T13:00:18.000Z",
-          "wordCount": null,
-          "title": "Using 3D Printing to help Inspect a Difficult Part #shorts",
-          "imageUrl": null
         }
       ]
     },
@@ -2185,6 +2185,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=s-7DZ8CKBTs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=s-7DZ8CKBTs",
+          "publishedOn": "2022-10-26T18:31:27.000Z",
+          "wordCount": null,
+          "title": "6 Ways People Are Fighting Fashion Industry Waste | World Wide Waste | Business Insider",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xqrdfuViDaI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xqrdfuViDaI",
+          "publishedOn": "2022-10-26T18:15:01.000Z",
+          "wordCount": null,
+          "title": "Is Himalayan Pink Salt Healthier Than Regular Salt? #Himalayan #salt #healthy #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=MLVIn0-xueo",
           "author": null,
           "description": "",
@@ -2192,6 +2212,16 @@
           "publishedOn": "2022-10-25T20:21:39.000Z",
           "wordCount": null,
           "title": "How Medicare Advantage Plans Can Help You Live Your Best And Healthiest Life",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=CVW-CX6vg3o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CVW-CX6vg3o",
+          "publishedOn": "2022-10-25T20:14:38.000Z",
+          "wordCount": null,
+          "title": "How Indeed Is Helping This Mission-Driven Business Find The Right Talent",
           "imageUrl": null
         },
         {
@@ -2211,7 +2241,7 @@
           "link": "https://www.youtube.com/watch?v=PYnGZNPPa8g",
           "publishedOn": "2022-10-24T18:00:09.000Z",
           "wordCount": null,
-          "title": "Inside The Anti-Abortion Centers Hidden In Plain Sight | True Cost | Business Insider",
+          "title": "What Really Happens Inside Anti-Abortion Pregnancy Centers | True Cost | Business Insider",
           "imageUrl": null
         },
         {
@@ -2291,7 +2321,7 @@
           "link": "https://www.youtube.com/watch?v=grsJPM-W0ns",
           "publishedOn": "2022-10-14T15:11:15.000Z",
           "wordCount": null,
-          "title": "How A Rare Silk Tradition Survived War In Cambodia | Still Standing | Business Insider",
+          "title": "How Silk Artisans Saved An Ancient Tradition From War In Cambodia | Still Standing",
           "imageUrl": null
         },
         {
@@ -2302,36 +2332,6 @@
           "publishedOn": "2022-10-11T17:12:10.000Z",
           "wordCount": null,
           "title": "How The Next Big, Disruptive Idea Could Become an Investing Opportunity | Bright Ideas",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GAuCQe2qqro",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GAuCQe2qqro",
-          "publishedOn": "2022-10-11T17:00:14.000Z",
-          "wordCount": null,
-          "title": "Why Fox Nuts (Water Lily Seeds) Are So Expensive | So Expensive Food | Business Insider",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MhhJuDap4CU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MhhJuDap4CU",
-          "publishedOn": "2022-10-10T20:00:05.000Z",
-          "wordCount": null,
-          "title": "Airlines Spend Billions, So Why Are Travelers More Miserable Than Ever? | Big Business",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aoeUOhFc_tg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aoeUOhFc_tg",
-          "publishedOn": "2022-10-06T18:00:01.000Z",
-          "wordCount": null,
-          "title": "Everything Inside An Army Scout’s Bag #army #scout #armybag #shorts",
           "imageUrl": null
         }
       ]
