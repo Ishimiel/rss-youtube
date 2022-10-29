@@ -177,6 +177,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=RCWkzzLgwf0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RCWkzzLgwf0",
+          "publishedOn": "2022-10-28T10:00:31.000Z",
+          "wordCount": null,
+          "title": "Linearizing Nonlinear Differential Equations Near a Fixed Point",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=78we91-gWy8",
           "author": null,
           "description": "",
@@ -315,16 +325,6 @@
           "wordCount": null,
           "title": "Engineering Math Pre-Req: Quick and Dirty Introduction to Matlab",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=r1eWerqrcqo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=r1eWerqrcqo",
-          "publishedOn": "2022-10-06T13:45:02.000Z",
-          "wordCount": null,
-          "title": "Example Second-Order ODE: Spring-Mass-Damper",
-          "imageUrl": null
         }
       ]
     },
@@ -377,6 +377,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=8VFNQ_l7L5c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8VFNQ_l7L5c",
+          "publishedOn": "2022-10-28T13:59:46.000Z",
+          "wordCount": null,
+          "title": "Circuit des Yeux Live at Greenwood Cemetery",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=n4IZVHvvrTk",
           "author": null,
@@ -501,6 +511,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_7aK9PpYTqt08ERh1MewlQ",
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=MvcIEIf3kdo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MvcIEIf3kdo",
+          "publishedOn": "2022-10-28T17:59:42.000Z",
+          "wordCount": null,
+          "title": "@E3D ObXidian and CF PLA 😲",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=CcWjnRyWptA",
           "author": null,
@@ -639,16 +659,6 @@
           "publishedOn": "2022-10-11T13:00:29.000Z",
           "wordCount": null,
           "title": "CoreXY Makerbot? Project ReAniMaker!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dYKKZaWH_Xg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dYKKZaWH_Xg",
-          "publishedOn": "2022-10-08T13:00:19.000Z",
-          "wordCount": null,
-          "title": "MASSIVE 3D Printed Pumpkin Skull WITH A BEARD!",
           "imageUrl": null
         }
       ]
@@ -1021,11 +1031,21 @@
       "siteUrl": "https://www.youtube.com/channel/UC7M-Wz4zK8oikt6ATcoTwBA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=86MsWRvPjMw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=86MsWRvPjMw",
+          "publishedOn": "2022-10-28T14:52:46.000Z",
+          "wordCount": null,
+          "title": "Math for Game Devs [2022, part 5] • Trigonometry & Rotations",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=KGgkycDmv4I",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=KGgkycDmv4I",
-          "publishedOn": "2022-10-27T14:47:07.000Z",
+          "publishedOn": "2022-10-28T10:22:51.000Z",
           "wordCount": null,
           "title": "Math for Game Devs [2022, part 4] • solutions for assignments 4-6",
           "imageUrl": null
@@ -1067,6 +1087,66 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEuiOszNd6msGgqsD0f9YAQ",
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=YW1Jre3Fj0s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YW1Jre3Fj0s",
+          "publishedOn": "2022-10-28T23:00:25.000Z",
+          "wordCount": null,
+          "title": "Autonomous Coffee-Making Robot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DGCvnsYDiVk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DGCvnsYDiVk",
+          "publishedOn": "2022-10-28T21:01:00.000Z",
+          "wordCount": null,
+          "title": "Mobile hydrants put out the most extensive fires",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zPSjTn2tJw4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zPSjTn2tJw4",
+          "publishedOn": "2022-10-28T15:00:44.000Z",
+          "wordCount": null,
+          "title": "Keep an eye on the seas at anytime",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=x_Vw42pAFSY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=x_Vw42pAFSY",
+          "publishedOn": "2022-10-28T13:00:48.000Z",
+          "wordCount": null,
+          "title": "Flying Taxis Tested In Dubai",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=rmNMEzkvsBo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rmNMEzkvsBo",
+          "publishedOn": "2022-10-28T09:43:49.000Z",
+          "wordCount": null,
+          "title": "Is 5G technology really dangerous for our health?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=AW-HdqkW8p0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AW-HdqkW8p0",
+          "publishedOn": "2022-10-28T01:00:04.000Z",
+          "wordCount": null,
+          "title": "Flock Of Robots Take To The Skies",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=EKjEfXlRBpk",
           "author": null,
@@ -1155,66 +1235,6 @@
           "publishedOn": "2022-10-26T22:00:25.000Z",
           "wordCount": null,
           "title": "Robotic Arm With Human-like Functions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PJ98ThBKgzk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PJ98ThBKgzk",
-          "publishedOn": "2022-10-26T19:00:08.000Z",
-          "wordCount": null,
-          "title": "Hover Above The Terrain With A Jet Suit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ygvkkahg6E0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ygvkkahg6E0",
-          "publishedOn": "2022-10-26T17:00:39.000Z",
-          "wordCount": null,
-          "title": "Let This Robot Gardener Do The Hard Work",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4LmjyNvSoKo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4LmjyNvSoKo",
-          "publishedOn": "2022-10-26T15:00:02.000Z",
-          "wordCount": null,
-          "title": "MK19 Can Throw 60 Grenades in a Minute",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nyP3AeG_9-U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nyP3AeG_9-U",
-          "publishedOn": "2022-10-26T12:57:45.000Z",
-          "wordCount": null,
-          "title": "Does teleportation mean creating a copy of a human being?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2aHcv0hWW4I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2aHcv0hWW4I",
-          "publishedOn": "2022-10-26T09:00:02.000Z",
-          "wordCount": null,
-          "title": "The USS Gerald R. Ford (CVN 78) is the most technologically advanced warship ever built.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rzAZb_FiJYI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rzAZb_FiJYI",
-          "publishedOn": "2022-10-25T19:03:34.000Z",
-          "wordCount": null,
-          "title": "Is it Possible to Become Immortal with AI Technology",
           "imageUrl": null
         }
       ]
@@ -1502,6 +1522,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCj_XaV1ss-qdD-lPUtTEcXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=o-IbcG9ksEo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=o-IbcG9ksEo",
+          "publishedOn": "2022-10-28T19:37:44.000Z",
+          "wordCount": null,
+          "title": "Boat Race to New Orleans",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Zgyn_iLqQEk",
           "author": null,
           "description": "",
@@ -1640,16 +1670,6 @@
           "wordCount": null,
           "title": "Ask Me Anything - Tonight 6p cst",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MLsk7Bd-Aag",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MLsk7Bd-Aag",
-          "publishedOn": "2022-10-15T00:32:51.000Z",
-          "wordCount": null,
-          "title": "Pilothouse Window and Door Seals",
-          "imageUrl": null
         }
       ]
     },
@@ -1702,6 +1722,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCk0fGHsCEzGig-rSzkfCjMw",
       "siteUrl": "https://www.youtube.com/channel/UCk0fGHsCEzGig-rSzkfCjMw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=r-NQEoPidX8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=r-NQEoPidX8",
+          "publishedOn": "2022-10-28T12:00:41.000Z",
+          "wordCount": null,
+          "title": "Heat Recovery VRF System - How it Works",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=-5NxKWOe0_g",
           "author": null,
@@ -1840,16 +1870,6 @@
           "publishedOn": "2022-10-05T12:00:19.000Z",
           "wordCount": null,
           "title": "Plate Heat Exchanger Basics",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aCk8BMNbmIs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aCk8BMNbmIs",
-          "publishedOn": "2022-10-03T12:00:01.000Z",
-          "wordCount": null,
-          "title": "Why Cars Need Differential Gears",
           "imageUrl": null
         }
       ]
@@ -2038,6 +2058,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=h4jL4w_vusM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=h4jL4w_vusM",
+          "publishedOn": "2022-10-28T11:00:34.000Z",
+          "wordCount": null,
+          "title": "INSANE Fixturing Techniques #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=VC6GWLmGm-U",
           "author": null,
           "description": "",
@@ -2176,16 +2206,6 @@
           "wordCount": null,
           "title": "This Chuck is Specifically Designed for a MultiAxis CNC Machine #shorts",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-BFOLywGqKI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-BFOLywGqKI",
-          "publishedOn": "2022-10-18T11:00:00.000Z",
-          "wordCount": null,
-          "title": "140 Year Old Swiss Builder Delivers 1st CNC Machine",
-          "imageUrl": null
         }
       ]
     },
@@ -2194,6 +2214,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ajwxJrhBzx8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ajwxJrhBzx8",
+          "publishedOn": "2022-10-28T18:45:34.000Z",
+          "wordCount": null,
+          "title": "How One Chef Is Fighting To Preserve A Cooking Tool As Old As Civilization Itself | Still Standing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=eYPmtWr2S64",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eYPmtWr2S64",
+          "publishedOn": "2022-10-28T18:20:56.000Z",
+          "wordCount": null,
+          "title": "Inside India’s risky #coal #mine business. #shorts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=4pmvS7afJg0",
           "author": null,
@@ -2323,26 +2363,6 @@
           "wordCount": null,
           "title": "Why Olympic Curling Stones Are So Expensive | So Expensive | Business Insider",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=__ji5AP6HWI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=__ji5AP6HWI",
-          "publishedOn": "2022-10-14T18:15:36.000Z",
-          "wordCount": null,
-          "title": "How Automation Helps Get Ford’s Electric F-150 Lightning Road-Ready | United States of Automation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=grsJPM-W0ns",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=grsJPM-W0ns",
-          "publishedOn": "2022-10-14T15:11:15.000Z",
-          "wordCount": null,
-          "title": "How Silk Artisans Saved An Ancient Tradition From War In Cambodia | Still Standing",
-          "imageUrl": null
         }
       ]
     },
@@ -2378,6 +2398,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCM15YNy8g-CaJ15YZCbq0Iw",
       "siteUrl": "https://www.youtube.com/channel/UCM15YNy8g-CaJ15YZCbq0Iw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=mTZG0Vxr648",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mTZG0Vxr648",
+          "publishedOn": "2022-10-28T15:00:36.000Z",
+          "wordCount": null,
+          "title": "I made a realistic Feraligatr",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=yRX5FFZ3f2w",
           "author": null,
@@ -2520,16 +2550,6 @@
           "wordCount": null,
           "title": "I made Catbus but it's Garfield",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3Ajb3Uva42w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3Ajb3Uva42w",
-          "publishedOn": "2022-07-30T14:05:57.000Z",
-          "wordCount": null,
-          "title": "HORSE CENTIPEDE: The Lord of Long Long Ranch",
-          "imageUrl": null
         }
       ]
     },
@@ -2538,6 +2558,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ0-OtVpF0wOKEqT2Z1HEtA",
       "siteUrl": "https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=20kDMYVFwv0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=20kDMYVFwv0",
+          "publishedOn": "2022-10-28T16:09:08.000Z",
+          "wordCount": null,
+          "title": "Beware of Reversed Videos #shorts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=-8qp4UjLANY",
           "author": null,
