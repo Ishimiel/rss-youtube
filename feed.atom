@@ -1,17 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-01T00:51:24.244Z</id>
+    <id>urn:2022-11-02T00:46:01.364Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-01T00:51:24.244Z</updated>
+    <updated>2022-11-02T00:46:01.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Math for Game Devs [2022, part 8] • Trajectories & Derivatives]]></title>
+        <id>https://www.youtube.com/watch?v=XkAuksIABHI</id>
+        <link href="https://www.youtube.com/watch?v=XkAuksIABHI"/>
+        <updated>2022-11-01T22:21:23.000Z</updated>
+        <author>
+            <name>Freya Holmér</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bomb Disposal Robots Replace Risk]]></title>
+        <id>https://www.youtube.com/watch?v=5qOtro1kZms</id>
+        <link href="https://www.youtube.com/watch?v=5qOtro1kZms"/>
+        <updated>2022-11-01T21:00:03.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scoot Around From 0-30 mph In Less Than Four Seconds]]></title>
+        <id>https://www.youtube.com/watch?v=q9YgebPF-CE</id>
+        <link href="https://www.youtube.com/watch?v=q9YgebPF-CE"/>
+        <updated>2022-11-01T17:00:27.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNC EXPERT is Now LIVE #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=ZvVlky2JDxA</id>
+        <link href="https://www.youtube.com/watch?v=ZvVlky2JDxA"/>
+        <updated>2022-11-01T17:00:18.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Math for Game Devs [2022, part 7] • Interpolation & Point Physics]]></title>
+        <id>https://www.youtube.com/watch?v=tjTRXzwdU6A</id>
+        <link href="https://www.youtube.com/watch?v=tjTRXzwdU6A"/>
+        <updated>2022-11-01T16:12:15.000Z</updated>
+        <author>
+            <name>Freya Holmér</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Do We Kill the Earth with Us, and How Can We Stop That?]]></title>
+        <id>https://www.youtube.com/watch?v=YsgbWE4x6Js</id>
+        <link href="https://www.youtube.com/watch?v=YsgbWE4x6Js"/>
+        <updated>2022-11-01T15:00:20.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[4K] Watch Falcon Heavy Launch & Land From Just 4 Miles Away!]]></title>
+        <id>https://www.youtube.com/watch?v=zBjVDC8tMeo</id>
+        <link href="https://www.youtube.com/watch?v=zBjVDC8tMeo"/>
+        <updated>2022-11-01T14:35:18.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Circuit Breaker Basics - How do they work?]]></title>
+        <id>https://www.youtube.com/watch?v=VGj32euYZ2c</id>
+        <link href="https://www.youtube.com/watch?v=VGj32euYZ2c"/>
+        <updated>2022-11-01T13:00:30.000Z</updated>
+        <author>
+            <name>The Engineering Mindset</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Math for Game Devs [2022, part 6] • Solutions for Assignments 7-11]]></title>
         <id>https://www.youtube.com/watch?v=o6HBZ5XkVg4</id>
         <link href="https://www.youtube.com/watch?v=o6HBZ5XkVg4"/>
-        <updated>2022-10-31T22:20:19.000Z</updated>
+        <updated>2022-11-01T11:31:46.000Z</updated>
         <author>
             <name>Freya Holmér</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNC EXPERT is Now LIVE | Make $$$ and Change Your LIFE]]></title>
+        <id>https://www.youtube.com/watch?v=q1ILJ3-JSOc</id>
+        <link href="https://www.youtube.com/watch?v=q1ILJ3-JSOc"/>
+        <updated>2022-11-01T11:00:41.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI technology can make immortality a possibility]]></title>
+        <id>https://www.youtube.com/watch?v=HaED9mJLR9A</id>
+        <link href="https://www.youtube.com/watch?v=HaED9mJLR9A"/>
+        <updated>2022-11-01T09:00:12.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -84,15 +174,6 @@
         <updated>2022-10-31T16:00:27.000Z</updated>
         <author>
             <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4K] Watch Falcon Heavy Launch & Land From Just 4 Miles Away!]]></title>
-        <id>https://www.youtube.com/watch?v=zBjVDC8tMeo</id>
-        <link href="https://www.youtube.com/watch?v=zBjVDC8tMeo"/>
-        <updated>2022-10-31T15:23:39.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
         </author>
     </entry>
     <entry>
@@ -249,7 +330,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Meerschaum Pipes Are So Expensive | So Expensive | Business Insider]]></title>
+        <title type="html"><![CDATA[Why Turkish Meerschaum Pipes Are So Expensive | So Expensive | Business Insider]]></title>
         <id>https://www.youtube.com/watch?v=KnMSOHCjJuc</id>
         <link href="https://www.youtube.com/watch?v=KnMSOHCjJuc"/>
         <updated>2022-10-29T15:00:27.000Z</updated>
@@ -303,33 +384,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Could a UFO bring these materials?]]></title>
-        <id>https://www.youtube.com/watch?v=yfFhugmRhRg</id>
-        <link href="https://www.youtube.com/watch?v=yfFhugmRhRg"/>
-        <updated>2022-10-29T09:13:45.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Autonomous Coffee-Making Robot]]></title>
-        <id>https://www.youtube.com/watch?v=YW1Jre3Fj0s</id>
-        <link href="https://www.youtube.com/watch?v=YW1Jre3Fj0s"/>
-        <updated>2022-10-28T23:00:25.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mobile hydrants put out the most extensive fires]]></title>
-        <id>https://www.youtube.com/watch?v=DGCvnsYDiVk</id>
-        <link href="https://www.youtube.com/watch?v=DGCvnsYDiVk"/>
-        <updated>2022-10-28T21:01:00.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Boat Race to New Orleans]]></title>
         <id>https://www.youtube.com/watch?v=o-IbcG9ksEo</id>
         <link href="https://www.youtube.com/watch?v=o-IbcG9ksEo"/>
@@ -372,15 +426,6 @@
         <updated>2022-10-28T16:09:08.000Z</updated>
         <author>
             <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keep an eye on the seas at anytime]]></title>
-        <id>https://www.youtube.com/watch?v=zPSjTn2tJw4</id>
-        <link href="https://www.youtube.com/watch?v=zPSjTn2tJw4"/>
-        <updated>2022-10-28T15:00:44.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -501,7 +546,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Cutting Clothing Waste Can Make Money | World Wide Waste | Business Insider]]></title>
+        <title type="html"><![CDATA[6 Companies Turning Clothing Waste Into Businesses | World Wide Waste | Business Insider]]></title>
         <id>https://www.youtube.com/watch?v=s-7DZ8CKBTs</id>
         <link href="https://www.youtube.com/watch?v=s-7DZ8CKBTs"/>
         <updated>2022-10-26T18:31:27.000Z</updated>
@@ -825,15 +870,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CNC Machining’s Most DESTRUCTIVE Cuts Compilation]]></title>
-        <id>https://www.youtube.com/watch?v=BpLHlAsflq0</id>
-        <link href="https://www.youtube.com/watch?v=BpLHlAsflq0"/>
-        <updated>2022-10-22T11:00:06.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2x2 Systems of ODEs: Saddle Points and Instability]]></title>
         <id>https://www.youtube.com/watch?v=fA86UJcFM60</id>
         <link href="https://www.youtube.com/watch?v=fA86UJcFM60"/>
@@ -885,15 +921,6 @@
         <updated>2022-10-21T12:00:18.000Z</updated>
         <author>
             <name>The Engineering Mindset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[End Mill with 65 Inserts OBLITERATES Broken Knockoff Vise #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=NNUmncvqKGY</id>
-        <link href="https://www.youtube.com/watch?v=NNUmncvqKGY"/>
-        <updated>2022-10-21T11:00:11.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1173,15 +1200,6 @@
         <updated>2022-10-12T22:43:38.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computer Room Air Conditioning - How do CRAC units work?]]></title>
-        <id>https://www.youtube.com/watch?v=WNOyBdWZNwE</id>
-        <link href="https://www.youtube.com/watch?v=WNOyBdWZNwE"/>
-        <updated>2022-10-12T12:00:19.000Z</updated>
-        <author>
-            <name>The Engineering Mindset</name>
         </author>
     </entry>
     <entry>
@@ -2145,24 +2163,6 @@
         <updated>2022-08-04T13:00:23.000Z</updated>
         <author>
             <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Another Portal Paradox]]></title>
-        <id>https://www.youtube.com/watch?v=zDAE9A_1NA4</id>
-        <link href="https://www.youtube.com/watch?v=zDAE9A_1NA4"/>
-        <updated>2022-08-04T12:00:39.000Z</updated>
-        <author>
-            <name>minutephysics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic Induction - Numberphile]]></title>
-        <id>https://www.youtube.com/watch?v=bylFzBxzQ9M</id>
-        <link href="https://www.youtube.com/watch?v=bylFzBxzQ9M"/>
-        <updated>2022-08-03T14:51:08.000Z</updated>
-        <author>
-            <name>Numberphile</name>
         </author>
     </entry>
 </feed>
