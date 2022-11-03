@@ -1,17 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-02T00:46:01.364Z</id>
+    <id>urn:2022-11-03T00:41:59.285Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-02T00:46:01.364Z</updated>
+    <updated>2022-11-03T00:41:59.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Cat Island in the Gulf of Mexico]]></title>
+        <id>https://www.youtube.com/watch?v=f3W62VDwgI8</id>
+        <link href="https://www.youtube.com/watch?v=f3W62VDwgI8"/>
+        <updated>2022-11-02T22:47:01.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prusa 10th Anniversary UNBOXING + CHILL]]></title>
+        <id>https://www.youtube.com/watch?v=hQ9ex9Jh6d0</id>
+        <link href="https://www.youtube.com/watch?v=hQ9ex9Jh6d0"/>
+        <updated>2022-11-02T21:36:16.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fully 3D Printed House]]></title>
+        <id>https://www.youtube.com/watch?v=IMFtQmsYlNI</id>
+        <link href="https://www.youtube.com/watch?v=IMFtQmsYlNI"/>
+        <updated>2022-11-02T17:00:21.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M777 is Dead On!]]></title>
+        <id>https://www.youtube.com/watch?v=hbD99JUNI4Y</id>
+        <link href="https://www.youtube.com/watch?v=hbD99JUNI4Y"/>
+        <updated>2022-11-02T15:00:35.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Server Room HVACR Efficiency]]></title>
+        <id>https://www.youtube.com/watch?v=6qIzGckiJ4c</id>
+        <link href="https://www.youtube.com/watch?v=6qIzGckiJ4c"/>
+        <updated>2022-11-02T13:00:03.000Z</updated>
+        <author>
+            <name>The Engineering Mindset</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Math for Game Devs [2022, part 8] • Trajectories & Derivatives]]></title>
         <id>https://www.youtube.com/watch?v=XkAuksIABHI</id>
         <link href="https://www.youtube.com/watch?v=XkAuksIABHI"/>
-        <updated>2022-11-01T22:21:23.000Z</updated>
+        <updated>2022-11-02T11:28:47.000Z</updated>
         <author>
             <name>Freya Holmér</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preparing Tools to Efficiently Machine Our Own Cast Iron Brake Rotor #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=xU7CuCEWCco</id>
+        <link href="https://www.youtube.com/watch?v=xU7CuCEWCco"/>
+        <updated>2022-11-02T11:00:43.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Residual Dynamic Mode Decomposition: A very easy way to get error bounds for your DMD computations]]></title>
+        <id>https://www.youtube.com/watch?v=Dc2OYDVp43I</id>
+        <link href="https://www.youtube.com/watch?v=Dc2OYDVp43I"/>
+        <updated>2022-11-02T10:00:07.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MK19 can throw 60 grenades in a minute.]]></title>
+        <id>https://www.youtube.com/watch?v=3G0YmqzMZHQ</id>
+        <link href="https://www.youtube.com/watch?v=3G0YmqzMZHQ"/>
+        <updated>2022-11-02T09:00:03.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -303,15 +375,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Super Agile And Self-Balancing Robot]]></title>
-        <id>https://www.youtube.com/watch?v=o6g3HZnjcmM</id>
-        <link href="https://www.youtube.com/watch?v=o6g3HZnjcmM"/>
-        <updated>2022-10-29T20:59:00.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Strong are Heat-Set Inserts in Resin 3D Prints?]]></title>
         <id>https://www.youtube.com/watch?v=4nbvU2kGzxc</id>
         <link href="https://www.youtube.com/watch?v=4nbvU2kGzxc"/>
@@ -339,15 +402,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unique Kangaroo-Inspired Robot]]></title>
-        <id>https://www.youtube.com/watch?v=8IwQHYJobTM</id>
-        <link href="https://www.youtube.com/watch?v=8IwQHYJobTM"/>
-        <updated>2022-10-29T15:00:08.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Using a Shrink Fit Tool Holder for PRECISION Machining #shorts]]></title>
         <id>https://www.youtube.com/watch?v=yq2VqhVULkk</id>
         <link href="https://www.youtube.com/watch?v=yq2VqhVULkk"/>
@@ -363,15 +417,6 @@
         <updated>2022-10-29T13:00:40.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Human Stem Cells Grown In Rats]]></title>
-        <id>https://www.youtube.com/watch?v=xpw5s4yAXoo</id>
-        <link href="https://www.youtube.com/watch?v=xpw5s4yAXoo"/>
-        <updated>2022-10-29T13:00:40.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -834,15 +879,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Most AGGRESSIVE Cuts Ever ATTEMPTED in 4140 STEEL #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=rHzLB7PYWLg</id>
-        <link href="https://www.youtube.com/watch?v=rHzLB7PYWLg"/>
-        <updated>2022-10-22T13:00:39.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Practical Printing Outside! FIX THAT FENCE YO!]]></title>
         <id>https://www.youtube.com/watch?v=4jsLowMvZ9E</id>
         <link href="https://www.youtube.com/watch?v=4jsLowMvZ9E"/>
@@ -1068,28 +1104,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Transformers Work: The Basics]]></title>
-        <id>https://www.youtube.com/watch?v=Nfja9F8OdPM</id>
-        <link href="https://www.youtube.com/watch?v=Nfja9F8OdPM"/>
-        <updated>2022-10-17T12:00:12.000Z</updated>
-        <author>
-            <name>The Engineering Mindset</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[October 16, 2022]]></title>
         <id>https://www.youtube.com/watch?v=sHJngd2G_t4</id>
         <link href="https://www.youtube.com/watch?v=sHJngd2G_t4"/>
         <updated>2022-10-16T12:46:11.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask Me Anything - Tonight 6p cst]]></title>
-        <id>https://www.youtube.com/watch?v=I98imPPVtkU</id>
-        <link href="https://www.youtube.com/watch?v=I98imPPVtkU"/>
-        <updated>2022-10-15T22:42:06.000Z</updated>
         <author>
             <name>SV Seeker</name>
         </author>
@@ -1194,15 +1212,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SOVOL SV06 - FIRST PRINT LIVE!]]></title>
-        <id>https://www.youtube.com/watch?v=m1MVFTBT86c</id>
-        <link href="https://www.youtube.com/watch?v=m1MVFTBT86c"/>
-        <updated>2022-10-12T22:43:38.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Matrix Systems of Differential Equations]]></title>
         <id>https://www.youtube.com/watch?v=Vtijyyo5fKI</id>
         <link href="https://www.youtube.com/watch?v=Vtijyyo5fKI"/>
@@ -1254,15 +1263,6 @@
         <updated>2022-10-08T14:00:27.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High-Order Ordinary Differential Equations with More Derivatives (from Physics)]]></title>
-        <id>https://www.youtube.com/watch?v=uIqJF1rgRJI</id>
-        <link href="https://www.youtube.com/watch?v=uIqJF1rgRJI"/>
-        <updated>2022-10-08T10:00:38.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
@@ -2136,33 +2136,6 @@
         <updated>2022-08-05T15:00:34.000Z</updated>
         <author>
             <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Notorious Question Six (cracked by Induction) - Numberphile]]></title>
-        <id>https://www.youtube.com/watch?v=NcaYEaVTA4g</id>
-        <link href="https://www.youtube.com/watch?v=NcaYEaVTA4g"/>
-        <updated>2022-08-05T10:00:02.000Z</updated>
-        <author>
-            <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Testing a Space Catapult Airlock - SpinLaunch #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=DCo2PgWSB_U</id>
-        <link href="https://www.youtube.com/watch?v=DCo2PgWSB_U"/>
-        <updated>2022-08-04T14:28:26.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chocolate Ice Cream Bars - You Suck at Cooking (episode 145)]]></title>
-        <id>https://www.youtube.com/watch?v=T3d0zQRPk4U</id>
-        <link href="https://www.youtube.com/watch?v=T3d0zQRPk4U"/>
-        <updated>2022-08-04T13:00:23.000Z</updated>
-        <author>
-            <name>You Suck At Cooking</name>
         </author>
     </entry>
 </feed>

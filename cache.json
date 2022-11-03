@@ -177,6 +177,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Dc2OYDVp43I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Dc2OYDVp43I",
+          "publishedOn": "2022-11-02T10:00:07.000Z",
+          "wordCount": null,
+          "title": "Residual Dynamic Mode Decomposition: A very easy way to get error bounds for your DMD computations",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vuZmaSyJpUY",
           "author": null,
           "description": "",
@@ -314,16 +324,6 @@
           "publishedOn": "2022-10-10T10:00:37.000Z",
           "wordCount": null,
           "title": "Solving General High-Order, Linear Ordinary Differential Equations (ODEs)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uIqJF1rgRJI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uIqJF1rgRJI",
-          "publishedOn": "2022-10-08T10:00:38.000Z",
-          "wordCount": null,
-          "title": "High-Order Ordinary Differential Equations with More Derivatives (from Physics)",
           "imageUrl": null
         }
       ]
@@ -512,6 +512,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=hQ9ex9Jh6d0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hQ9ex9Jh6d0",
+          "publishedOn": "2022-11-02T21:36:16.000Z",
+          "wordCount": null,
+          "title": "Prusa 10th Anniversary UNBOXING + CHILL",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2mPiLRA4sLE",
           "author": null,
           "description": "",
@@ -649,16 +659,6 @@
           "publishedOn": "2022-10-13T13:00:40.000Z",
           "wordCount": null,
           "title": "PRUSA with a 5th Axis?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=m1MVFTBT86c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=m1MVFTBT86c",
-          "publishedOn": "2022-10-12T22:43:38.000Z",
-          "wordCount": null,
-          "title": "SOVOL SV06 - FIRST PRINT LIVE!",
           "imageUrl": null
         }
       ]
@@ -1065,7 +1065,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=XkAuksIABHI",
-          "publishedOn": "2022-11-01T22:21:23.000Z",
+          "publishedOn": "2022-11-02T11:28:47.000Z",
           "wordCount": null,
           "title": "Math for Game Devs [2022, part 8] • Trajectories & Derivatives",
           "imageUrl": null
@@ -1147,6 +1147,36 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEuiOszNd6msGgqsD0f9YAQ",
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=IMFtQmsYlNI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IMFtQmsYlNI",
+          "publishedOn": "2022-11-02T17:00:21.000Z",
+          "wordCount": null,
+          "title": "Fully 3D Printed House",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=hbD99JUNI4Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hbD99JUNI4Y",
+          "publishedOn": "2022-11-02T15:00:35.000Z",
+          "wordCount": null,
+          "title": "M777 is Dead On!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=3G0YmqzMZHQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3G0YmqzMZHQ",
+          "publishedOn": "2022-11-02T09:00:03.000Z",
+          "wordCount": null,
+          "title": "MK19 can throw 60 grenades in a minute.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=5qOtro1kZms",
           "author": null,
@@ -1265,36 +1295,6 @@
           "publishedOn": "2022-10-30T09:00:32.000Z",
           "wordCount": null,
           "title": "Somersaulting Spider-Inspired Robot",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=o6g3HZnjcmM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=o6g3HZnjcmM",
-          "publishedOn": "2022-10-29T20:59:00.000Z",
-          "wordCount": null,
-          "title": "Super Agile And Self-Balancing Robot",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8IwQHYJobTM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8IwQHYJobTM",
-          "publishedOn": "2022-10-29T15:00:08.000Z",
-          "wordCount": null,
-          "title": "Unique Kangaroo-Inspired Robot",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xpw5s4yAXoo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xpw5s4yAXoo",
-          "publishedOn": "2022-10-29T13:00:40.000Z",
-          "wordCount": null,
-          "title": "Human Stem Cells Grown In Rats",
           "imageUrl": null
         }
       ]
@@ -1469,16 +1469,6 @@
           "wordCount": null,
           "title": "The Nescafé Equation (43 coffee beans) - Numberphile",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NcaYEaVTA4g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NcaYEaVTA4g",
-          "publishedOn": "2022-08-05T10:00:02.000Z",
-          "wordCount": null,
-          "title": "The Notorious Question Six (cracked by Induction) - Numberphile",
-          "imageUrl": null
         }
       ]
     },
@@ -1553,16 +1543,6 @@
           "wordCount": null,
           "title": "Can We Throw Satellites to Space? - SpinLaunch",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DCo2PgWSB_U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DCo2PgWSB_U",
-          "publishedOn": "2022-08-04T14:28:26.000Z",
-          "wordCount": null,
-          "title": "Testing a Space Catapult Airlock - SpinLaunch #shorts",
-          "imageUrl": null
         }
       ]
     },
@@ -1571,6 +1551,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj_XaV1ss-qdD-lPUtTEcXw",
       "siteUrl": "https://www.youtube.com/channel/UCj_XaV1ss-qdD-lPUtTEcXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=f3W62VDwgI8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=f3W62VDwgI8",
+          "publishedOn": "2022-11-02T22:47:01.000Z",
+          "wordCount": null,
+          "title": "Cat Island in the Gulf of Mexico",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=o-IbcG9ksEo",
           "author": null,
@@ -1710,16 +1700,6 @@
           "wordCount": null,
           "title": "October 16, 2022",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=I98imPPVtkU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=I98imPPVtkU",
-          "publishedOn": "2022-10-15T22:42:06.000Z",
-          "wordCount": null,
-          "title": "Ask Me Anything - Tonight 6p cst",
-          "imageUrl": null
         }
       ]
     },
@@ -1771,6 +1751,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCk0fGHsCEzGig-rSzkfCjMw",
       "siteUrl": "https://www.youtube.com/channel/UCk0fGHsCEzGig-rSzkfCjMw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=6qIzGckiJ4c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6qIzGckiJ4c",
+          "publishedOn": "2022-11-02T13:00:03.000Z",
+          "wordCount": null,
+          "title": "Server Room HVACR Efficiency",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=VGj32euYZ2c",
           "author": null,
@@ -1909,16 +1899,6 @@
           "publishedOn": "2022-10-18T12:00:18.000Z",
           "wordCount": null,
           "title": "How Do Power Outlets Work?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Nfja9F8OdPM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Nfja9F8OdPM",
-          "publishedOn": "2022-10-17T12:00:12.000Z",
-          "wordCount": null,
-          "title": "How Transformers Work: The Basics",
           "imageUrl": null
         }
       ]
@@ -2078,16 +2058,6 @@
           "wordCount": null,
           "title": "Corn Ribs - You Suck at Cooking (episode 146)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=T3d0zQRPk4U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=T3d0zQRPk4U",
-          "publishedOn": "2022-08-04T13:00:23.000Z",
-          "wordCount": null,
-          "title": "Chocolate Ice Cream Bars - You Suck at Cooking (episode 145)",
-          "imageUrl": null
         }
       ]
     },
@@ -2096,6 +2066,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=xU7CuCEWCco",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xU7CuCEWCco",
+          "publishedOn": "2022-11-02T11:00:43.000Z",
+          "wordCount": null,
+          "title": "Preparing Tools to Efficiently Machine Our Own Cast Iron Brake Rotor #shorts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ZvVlky2JDxA",
           "author": null,
@@ -2234,16 +2214,6 @@
           "publishedOn": "2022-10-23T11:00:06.000Z",
           "wordCount": null,
           "title": "Grinding Custom Tool for Complex Aerospace Bulkhead Fitting #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rHzLB7PYWLg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rHzLB7PYWLg",
-          "publishedOn": "2022-10-22T13:00:39.000Z",
-          "wordCount": null,
-          "title": "Most AGGRESSIVE Cuts Ever ATTEMPTED in 4140 STEEL #shorts",
           "imageUrl": null
         }
       ]
