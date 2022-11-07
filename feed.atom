@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-06T00:40:06.384Z</id>
+    <id>urn:2022-11-07T00:37:47.215Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-06T00:40:06.384Z</updated>
+    <updated>2022-11-07T00:37:47.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Always Have This Multi-tool At Hand]]></title>
+        <id>https://www.youtube.com/watch?v=BIs4RyltiMI</id>
+        <link href="https://www.youtube.com/watch?v=BIs4RyltiMI"/>
+        <updated>2022-11-06T17:00:06.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Phase Inverter Basics - Working Principle]]></title>
+        <id>https://www.youtube.com/watch?v=OPaXVa6r62w</id>
+        <link href="https://www.youtube.com/watch?v=OPaXVa6r62w"/>
+        <updated>2022-11-06T13:00:12.000Z</updated>
+        <author>
+            <name>The Engineering Mindset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robot Lawnmowers Are Mowing The Garden As Lawn Wolves]]></title>
+        <id>https://www.youtube.com/watch?v=4-FqhIY7BFs</id>
+        <link href="https://www.youtube.com/watch?v=4-FqhIY7BFs"/>
+        <updated>2022-11-06T13:00:05.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Installing HUGE Air Hose for NEW Monster HELLER Machine Setup #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=x9MK3F7zzk4</id>
+        <link href="https://www.youtube.com/watch?v=x9MK3F7zzk4"/>
+        <updated>2022-11-06T12:00:29.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prime Pyramid (with 3Blue1Brown) - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=NsjsLwYRW8o</id>
+        <link href="https://www.youtube.com/watch?v=NsjsLwYRW8o"/>
+        <updated>2022-11-06T10:42:34.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Harvesting The Most Sustainable Fibers]]></title>
         <id>https://www.youtube.com/watch?v=ZLL1mOtK_sE</id>
@@ -87,7 +132,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Monstrous Power & Speed | Heller Machine Tools Delivers First CNC]]></title>
+        <title type="html"><![CDATA[127 yr old German Machine Tool Builder Delivers First CNC]]></title>
         <id>https://www.youtube.com/watch?v=OkbXB-QJXSQ</id>
         <link href="https://www.youtube.com/watch?v=OkbXB-QJXSQ"/>
         <updated>2022-11-05T11:00:17.000Z</updated>
@@ -447,15 +492,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scoot Around From 0-30 mph In Less Than Four Seconds]]></title>
-        <id>https://www.youtube.com/watch?v=q9YgebPF-CE</id>
-        <link href="https://www.youtube.com/watch?v=q9YgebPF-CE"/>
-        <updated>2022-11-01T17:00:27.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CNC EXPERT is Now LIVE #shorts]]></title>
         <id>https://www.youtube.com/watch?v=ZvVlky2JDxA</id>
         <link href="https://www.youtube.com/watch?v=ZvVlky2JDxA"/>
@@ -471,15 +507,6 @@
         <updated>2022-11-01T16:12:15.000Z</updated>
         <author>
             <name>Freya Holmér</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Do We Kill the Earth with Us, and How Can We Stop That?]]></title>
-        <id>https://www.youtube.com/watch?v=YsgbWE4x6Js</id>
-        <link href="https://www.youtube.com/watch?v=YsgbWE4x6Js"/>
-        <updated>2022-11-01T15:00:20.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -852,15 +879,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We Just Made the World's MOST COMPLICATED Medical Device]]></title>
-        <id>https://www.youtube.com/watch?v=hh-CgpO4nB4</id>
-        <link href="https://www.youtube.com/watch?v=hh-CgpO4nB4"/>
-        <updated>2022-10-27T11:00:34.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[6 Companies Turning Clothing Waste Into Businesses | World Wide Waste | Business Insider]]></title>
         <id>https://www.youtube.com/watch?v=s-7DZ8CKBTs</id>
         <link href="https://www.youtube.com/watch?v=s-7DZ8CKBTs"/>
@@ -1119,15 +1137,6 @@
         <updated>2022-10-21T13:00:12.000Z</updated>
         <author>
             <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Are Solenoid Valves Used?]]></title>
-        <id>https://www.youtube.com/watch?v=QmFQAVxdeBc</id>
-        <link href="https://www.youtube.com/watch?v=QmFQAVxdeBc"/>
-        <updated>2022-10-21T12:00:18.000Z</updated>
-        <author>
-            <name>The Engineering Mindset</name>
         </author>
     </entry>
     <entry>
@@ -2154,15 +2163,6 @@
         <updated>2022-08-11T00:11:44.000Z</updated>
         <author>
             <name>Internet Pitstop</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring the Deep Mystery of Life's Origins]]></title>
-        <id>https://www.youtube.com/watch?v=ATubwpnVLAY</id>
-        <link href="https://www.youtube.com/watch?v=ATubwpnVLAY"/>
-        <updated>2022-08-08T15:31:36.000Z</updated>
-        <author>
-            <name>Quanta Magazine</name>
         </author>
     </entry>
 </feed>
