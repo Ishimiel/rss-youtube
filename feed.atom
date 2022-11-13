@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-12T00:41:21.344Z</id>
+    <id>urn:2022-11-13T00:36:58.653Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-12T00:41:21.344Z</updated>
+    <updated>2022-11-13T00:36:58.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The first man-made object in space]]></title>
+        <id>https://www.youtube.com/watch?v=7MiqNW1oL0E</id>
+        <link href="https://www.youtube.com/watch?v=7MiqNW1oL0E"/>
+        <updated>2022-11-12T18:41:36.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World’s First Modular Quantum Computing System]]></title>
+        <id>https://www.youtube.com/watch?v=Tmt5goZqAWQ</id>
+        <link href="https://www.youtube.com/watch?v=Tmt5goZqAWQ"/>
+        <updated>2022-11-12T17:00:21.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conical Slicing: A different angle of 3D printing]]></title>
+        <id>https://www.youtube.com/watch?v=1i-1TEdByZY</id>
+        <link href="https://www.youtube.com/watch?v=1i-1TEdByZY"/>
+        <updated>2022-11-12T16:31:06.000Z</updated>
+        <author>
+            <name>CNC Kitchen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Underground Farms Grow Mushrooms In Coffee Grounds | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=EIuT1LfeONE</id>
+        <link href="https://www.youtube.com/watch?v=EIuT1LfeONE"/>
+        <updated>2022-11-12T16:00:10.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inflatable Heat Shield Is One Step Closer To Humans On Mars]]></title>
+        <id>https://www.youtube.com/watch?v=sLrMNx-cRf0</id>
+        <link href="https://www.youtube.com/watch?v=sLrMNx-cRf0"/>
+        <updated>2022-11-12T15:00:40.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INCREDIBLE E3D Tool Changer!]]></title>
+        <id>https://www.youtube.com/watch?v=pBztvEJJGwA</id>
+        <link href="https://www.youtube.com/watch?v=pBztvEJJGwA"/>
+        <updated>2022-11-12T14:00:35.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Satisfying Fixturing for CNC Machine Shop #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=avqiGQ7r5zA</id>
+        <link href="https://www.youtube.com/watch?v=avqiGQ7r5zA"/>
+        <updated>2022-11-12T14:00:03.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How do centrifugal pumps work?]]></title>
+        <id>https://www.youtube.com/watch?v=5ZyhTNB3vYU</id>
+        <link href="https://www.youtube.com/watch?v=5ZyhTNB3vYU"/>
+        <updated>2022-11-12T13:00:04.000Z</updated>
+        <author>
+            <name>The Engineering Mindset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MOST of the BEST MACHINISTS FAIL to Feed the BEAST | Here is the Secret]]></title>
+        <id>https://www.youtube.com/watch?v=nSzncE7fUgI</id>
+        <link href="https://www.youtube.com/watch?v=nSzncE7fUgI"/>
+        <updated>2022-11-12T12:00:26.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Differential Equations with Forcing: Method of Undetermined Coefficients]]></title>
+        <id>https://www.youtube.com/watch?v=Jvmb2jeRaGE</id>
+        <link href="https://www.youtube.com/watch?v=Jvmb2jeRaGE"/>
+        <updated>2022-11-12T11:00:20.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Making Eyeglasses From Coffee Grounds In Ukraine | World Wide Waste | Business Insider]]></title>
         <id>https://www.youtube.com/watch?v=e-iL2hzVePM</id>
@@ -366,30 +456,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Will the world in 2050 be terrifying?]]></title>
-        <id>https://www.youtube.com/watch?v=NGVskOvefwI</id>
-        <link href="https://www.youtube.com/watch?v=NGVskOvefwI"/>
-        <updated>2022-11-08T15:00:21.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why Don't We Shoot Nuclear Waste Into Space?]]></title>
         <id>https://www.youtube.com/watch?v=Us2Z-WC9rao</id>
         <link href="https://www.youtube.com/watch?v=Us2Z-WC9rao"/>
         <updated>2022-11-08T14:59:18.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Destroy Brain Tumors With a Wireless Implant]]></title>
-        <id>https://www.youtube.com/watch?v=G8O1CNsN80U</id>
-        <link href="https://www.youtube.com/watch?v=G8O1CNsN80U"/>
-        <updated>2022-11-08T13:58:48.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -417,15 +489,6 @@
         <updated>2022-11-08T12:00:16.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Green burials are a perfect way to say goodbye to our loved ones]]></title>
-        <id>https://www.youtube.com/watch?v=XJiEaZDvn8Q</id>
-        <link href="https://www.youtube.com/watch?v=XJiEaZDvn8Q"/>
-        <updated>2022-11-08T09:00:20.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -708,15 +771,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Taking MONSTER Cuts in CNC Machines #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=GCdTSC2eeNY</id>
-        <link href="https://www.youtube.com/watch?v=GCdTSC2eeNY"/>
-        <updated>2022-11-04T11:00:17.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Measure-preserving EDMD: A 4-line structure-preserving & convergent DMD algorithm!]]></title>
         <id>https://www.youtube.com/watch?v=Xt3vS_hhBm8</id>
         <link href="https://www.youtube.com/watch?v=Xt3vS_hhBm8"/>
@@ -750,15 +804,6 @@
         <updated>2022-11-03T13:20:31.000Z</updated>
         <author>
             <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machinist Makes an IMPOSSIBLE Part #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=QaanhG7A2qo</id>
-        <link href="https://www.youtube.com/watch?v=QaanhG7A2qo"/>
-        <updated>2022-11-03T13:00:30.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -858,15 +903,6 @@
         <updated>2022-11-01T11:31:46.000Z</updated>
         <author>
             <name>Freya Holmér</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How America's Largest Natural Sponge Processor Cleans 1 Million Sponges A Year | Business Insider]]></title>
-        <id>https://www.youtube.com/watch?v=IEPN81AfN1A</id>
-        <link href="https://www.youtube.com/watch?v=IEPN81AfN1A"/>
-        <updated>2022-10-31T21:39:09.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -1077,15 +1113,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use SMD LEDs in Your Electronics Projects]]></title>
-        <id>https://www.youtube.com/watch?v=-5NxKWOe0_g</id>
-        <link href="https://www.youtube.com/watch?v=-5NxKWOe0_g"/>
-        <updated>2022-10-27T12:00:00.000Z</updated>
-        <author>
-            <name>The Engineering Mindset</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Find Your Happy]]></title>
         <id>https://www.youtube.com/watch?v=O7eemEY4kZ8</id>
         <link href="https://www.youtube.com/watch?v=O7eemEY4kZ8"/>
@@ -1281,24 +1308,6 @@
         <updated>2022-10-21T13:00:12.000Z</updated>
         <author>
             <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2x2 Systems of ODEs: Sources and Sinks]]></title>
-        <id>https://www.youtube.com/watch?v=NaNdkCPLftc</id>
-        <link href="https://www.youtube.com/watch?v=NaNdkCPLftc"/>
-        <updated>2022-10-21T10:00:30.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Printing Malta! #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=HxkvxWQSl18</id>
-        <link href="https://www.youtube.com/watch?v=HxkvxWQSl18"/>
-        <updated>2022-10-20T08:58:47.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
         </author>
     </entry>
     <entry>
