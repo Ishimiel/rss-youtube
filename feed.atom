@@ -1,10 +1,127 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-15T00:38:02.806Z</id>
+    <id>urn:2022-11-16T00:37:54.200Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-15T00:38:02.806Z</updated>
+    <updated>2022-11-16T00:37:54.200Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Farm Machines Are Awesome]]></title>
+        <id>https://www.youtube.com/watch?v=86GGBWN7GBg</id>
+        <link href="https://www.youtube.com/watch?v=86GGBWN7GBg"/>
+        <updated>2022-11-15T23:00:08.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sleep In These Tear-Shaped Sculptures]]></title>
+        <id>https://www.youtube.com/watch?v=5wQd3PsBzQw</id>
+        <link href="https://www.youtube.com/watch?v=5wQd3PsBzQw"/>
+        <updated>2022-11-15T21:00:02.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why 4 Of The World’s Priciest Drinks Are So Expensive | So Expensive Food | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=jILB6cngXgg</id>
+        <link href="https://www.youtube.com/watch?v=jILB6cngXgg"/>
+        <updated>2022-11-15T20:25:25.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Exciting Story of the Creation of the Internet]]></title>
+        <id>https://www.youtube.com/watch?v=gl3cT9JUIl8</id>
+        <link href="https://www.youtube.com/watch?v=gl3cT9JUIl8"/>
+        <updated>2022-11-15T19:00:19.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indonesians Are Risking Their Lives Mining Tin Underwater (Pt.2) #mining #metals #riskybusiness]]></title>
+        <id>https://www.youtube.com/watch?v=KWdLmrRevTQ</id>
+        <link href="https://www.youtube.com/watch?v=KWdLmrRevTQ"/>
+        <updated>2022-11-15T19:00:10.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1,750,000 Frames/s to Capture an Arc]]></title>
+        <id>https://www.youtube.com/watch?v=r04e45E-wSc</id>
+        <link href="https://www.youtube.com/watch?v=r04e45E-wSc"/>
+        <updated>2022-11-15T16:59:36.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is how #whale #bones get cleaned behind the scenes at the #Smithsonian #museum. #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=Bx_08HQuyJg</id>
+        <link href="https://www.youtube.com/watch?v=Bx_08HQuyJg"/>
+        <updated>2022-11-15T15:38:00.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BRILLIANT G-Code For Swiss Machining #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=jiYD3XDDe14</id>
+        <link href="https://www.youtube.com/watch?v=jiYD3XDDe14"/>
+        <updated>2022-11-15T14:00:34.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happens If A Star Explodes Near The Earth?]]></title>
+        <id>https://www.youtube.com/watch?v=evUfG3lrk5U</id>
+        <link href="https://www.youtube.com/watch?v=evUfG3lrk5U"/>
+        <updated>2022-11-15T14:00:19.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GFCI breaker basics - Ground fault circuit interrupter how it works]]></title>
+        <id>https://www.youtube.com/watch?v=XTPQe6GtqlM</id>
+        <link href="https://www.youtube.com/watch?v=XTPQe6GtqlM"/>
+        <updated>2022-11-15T13:00:18.000Z</updated>
+        <author>
+            <name>The Engineering Mindset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brilliant MasterMind Fixturing Techniques Compilation]]></title>
+        <id>https://www.youtube.com/watch?v=BrMXqKABI08</id>
+        <link href="https://www.youtube.com/watch?v=BrMXqKABI08"/>
+        <updated>2022-11-15T12:00:09.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bicycle of the Future?]]></title>
+        <id>https://www.youtube.com/watch?v=1hnRbLEnjJg</id>
+        <link href="https://www.youtube.com/watch?v=1hnRbLEnjJg"/>
+        <updated>2022-11-15T10:30:00.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will the world in 2050 be terrifying?]]></title>
+        <id>https://www.youtube.com/watch?v=Dba2-g_WczE</id>
+        <link href="https://www.youtube.com/watch?v=Dba2-g_WczE"/>
+        <updated>2022-11-15T09:00:16.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[See how this small business made the perfect hire using Indeed | The Hiring Journey]]></title>
         <id>https://www.youtube.com/watch?v=sRk4UsXZPR4</id>
@@ -375,15 +492,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cruise Along The Coast]]></title>
-        <id>https://www.youtube.com/watch?v=-dScMhqOG8A</id>
-        <link href="https://www.youtube.com/watch?v=-dScMhqOG8A"/>
-        <updated>2022-11-10T17:00:00.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Grotesque Legacy of Music as Property]]></title>
         <id>https://www.youtube.com/watch?v=MAFUdIZnI5o</id>
         <link href="https://www.youtube.com/watch?v=MAFUdIZnI5o"/>
@@ -399,33 +507,6 @@
         <updated>2022-11-10T16:00:13.000Z</updated>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dreamcrusher | Pioneer Live | Warning - Photosensitivity/Seizures]]></title>
-        <id>https://www.youtube.com/watch?v=6MD5pVWOK3g</id>
-        <link href="https://www.youtube.com/watch?v=6MD5pVWOK3g"/>
-        <updated>2022-11-10T15:13:30.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Do Whales and Wind Turbines Have In Common?]]></title>
-        <id>https://www.youtube.com/watch?v=4Hh1YZRK3yw</id>
-        <link href="https://www.youtube.com/watch?v=4Hh1YZRK3yw"/>
-        <updated>2022-11-10T15:00:06.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MIT Engineers Designed Ultrasound Stickers]]></title>
-        <id>https://www.youtube.com/watch?v=UtmfB3k_dbc</id>
-        <link href="https://www.youtube.com/watch?v=UtmfB3k_dbc"/>
-        <updated>2022-11-10T13:00:31.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -462,15 +543,6 @@
         <updated>2022-11-10T10:59:05.000Z</updated>
         <author>
             <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Reptiles Helped Solve Problems]]></title>
-        <id>https://www.youtube.com/watch?v=u6ysfXo1x9Y</id>
-        <link href="https://www.youtube.com/watch?v=u6ysfXo1x9Y"/>
-        <updated>2022-11-10T09:00:34.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -555,15 +627,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One Of The World’s Largest Indoor Farms Is Using Advanced Tech To Build A More Resilient Food System]]></title>
-        <id>https://www.youtube.com/watch?v=mYdt6CAwKAY</id>
-        <link href="https://www.youtube.com/watch?v=mYdt6CAwKAY"/>
-        <updated>2022-11-08T22:09:38.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why Don't We Shoot Nuclear Waste Into Space?]]></title>
         <id>https://www.youtube.com/watch?v=Us2Z-WC9rao</id>
         <link href="https://www.youtube.com/watch?v=Us2Z-WC9rao"/>
@@ -618,15 +681,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Inside The Modular Factory Set To Disrupt Cell Therapy | United States Of Automation]]></title>
-        <id>https://www.youtube.com/watch?v=nqwlxLTkiV0</id>
-        <link href="https://www.youtube.com/watch?v=nqwlxLTkiV0"/>
-        <updated>2022-11-07T17:56:24.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Extra Credit: Activated Archives with Umber Majeed]]></title>
         <id>https://www.youtube.com/watch?v=B5xiNWfo2i0</id>
         <link href="https://www.youtube.com/watch?v=B5xiNWfo2i0"/>
@@ -645,15 +699,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Greatest CNC Machine We Have Ever Had #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=plzD1WXUCvM</id>
-        <link href="https://www.youtube.com/watch?v=plzD1WXUCvM"/>
-        <updated>2022-11-07T12:00:35.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Non-Normal Linear Systems and Transient Energy Growth: Bypass Transition to Turbulence]]></title>
         <id>https://www.youtube.com/watch?v=5tjDDNp5v6I</id>
         <link href="https://www.youtube.com/watch?v=5tjDDNp5v6I"/>
@@ -669,15 +714,6 @@
         <updated>2022-11-06T13:00:12.000Z</updated>
         <author>
             <name>The Engineering Mindset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Installing HUGE Air Hose for NEW Monster HELLER Machine Setup #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=x9MK3F7zzk4</id>
-        <link href="https://www.youtube.com/watch?v=x9MK3F7zzk4"/>
-        <updated>2022-11-06T12:00:29.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -705,15 +741,6 @@
         <updated>2022-11-05T15:23:45.000Z</updated>
         <author>
             <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[So Expensive Season 9 Marathon | So Expensive | Business Insider]]></title>
-        <id>https://www.youtube.com/watch?v=oxoTzt2TnaM</id>
-        <link href="https://www.youtube.com/watch?v=oxoTzt2TnaM"/>
-        <updated>2022-11-05T15:00:40.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -861,7 +888,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Most Important Algorithm Of All Time]]></title>
+        <title type="html"><![CDATA[The Algorithm That Transformed The World]]></title>
         <id>https://www.youtube.com/watch?v=nmgFG7PUHfo</id>
         <link href="https://www.youtube.com/watch?v=nmgFG7PUHfo"/>
         <updated>2022-11-03T12:52:34.000Z</updated>
@@ -1020,15 +1047,6 @@
         <updated>2022-10-30T21:39:23.000Z</updated>
         <author>
             <name>SmarterEveryDay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Induction Motor Basics]]></title>
-        <id>https://www.youtube.com/watch?v=AOC7uTnxmTI</id>
-        <link href="https://www.youtube.com/watch?v=AOC7uTnxmTI"/>
-        <updated>2022-10-30T14:59:43.000Z</updated>
-        <author>
-            <name>The Engineering Mindset</name>
         </author>
     </entry>
     <entry>
@@ -1288,15 +1306,6 @@
         <id>https://www.youtube.com/watch?v=4jsLowMvZ9E</id>
         <link href="https://www.youtube.com/watch?v=4jsLowMvZ9E"/>
         <updated>2022-10-22T13:00:03.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fun in Gozo! #shorts @Breaks'n'Makes]]></title>
-        <id>https://www.youtube.com/watch?v=KK9pik8kPIc</id>
-        <link href="https://www.youtube.com/watch?v=KK9pik8kPIc"/>
-        <updated>2022-10-22T11:44:24.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
         </author>
