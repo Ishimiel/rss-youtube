@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-17T00:36:50.381Z</id>
+    <id>urn:2022-11-18T00:41:41.489Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-17T00:36:50.381Z</updated>
+    <updated>2022-11-18T00:41:41.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Labeling Machine for Cosmetic Products]]></title>
+        <id>https://www.youtube.com/watch?v=6b4GXYsotn4</id>
+        <link href="https://www.youtube.com/watch?v=6b4GXYsotn4"/>
+        <updated>2022-11-17T21:00:03.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Dreaming Mind: Waking the Mysteries of Sleep]]></title>
+        <id>https://www.youtube.com/watch?v=wvvovktKKa4</id>
+        <link href="https://www.youtube.com/watch?v=wvvovktKKa4"/>
+        <updated>2022-11-17T20:00:08.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Sharkskin Is Keeping Us Healthy and Speedy]]></title>
+        <id>https://www.youtube.com/watch?v=YjeVRoDmXFs</id>
+        <link href="https://www.youtube.com/watch?v=YjeVRoDmXFs"/>
+        <updated>2022-11-17T19:00:14.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chuck Change For a New Grinding Operation on The Studer S41 #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=oBw1OYGfcnI</id>
+        <link href="https://www.youtube.com/watch?v=oBw1OYGfcnI"/>
+        <updated>2022-11-17T15:15:02.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who Took The First Selfie ... REALLY?]]></title>
+        <id>https://www.youtube.com/watch?v=mMaBVfIedFw</id>
+        <link href="https://www.youtube.com/watch?v=mMaBVfIedFw"/>
+        <updated>2022-11-17T15:01:24.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Autonomous Combat Vehicles Are Approaching]]></title>
+        <id>https://www.youtube.com/watch?v=n29fTq9SITA</id>
+        <link href="https://www.youtube.com/watch?v=n29fTq9SITA"/>
+        <updated>2022-11-17T13:00:35.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Car Battery - What's Inside?]]></title>
+        <id>https://www.youtube.com/watch?v=aZt61aQodks</id>
+        <link href="https://www.youtube.com/watch?v=aZt61aQodks"/>
+        <updated>2022-11-17T13:00:01.000Z</updated>
+        <author>
+            <name>The Engineering Mindset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Do Whales and Wind Turbines Have In Common?]]></title>
+        <id>https://www.youtube.com/watch?v=qA6FZ4-Qhrg</id>
+        <link href="https://www.youtube.com/watch?v=qA6FZ4-Qhrg"/>
+        <updated>2022-11-17T09:00:35.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Collect Rare Plants With This Drone And Arm]]></title>
         <id>https://www.youtube.com/watch?v=NJDpbEhZVSk</id>
@@ -258,7 +330,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why 18,000 Bones Are Hidden In This Smithsonian Warehouse | Colossal Collections | Business Insider]]></title>
+        <title type="html"><![CDATA[The Smithsonian Has 18,000 Marine Bones Hidden In A Warehouse. But What Do They Do With Them?]]></title>
         <id>https://www.youtube.com/watch?v=H8IwPq77ebk</id>
         <link href="https://www.youtube.com/watch?v=H8IwPq77ebk"/>
         <updated>2022-11-14T16:00:08.000Z</updated>
@@ -330,24 +402,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Seismic Expansion Joints Are Installed To A Stadium]]></title>
-        <id>https://www.youtube.com/watch?v=QzZeDLzSQrE</id>
-        <link href="https://www.youtube.com/watch?v=QzZeDLzSQrE"/>
-        <updated>2022-11-13T21:00:10.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Robots Are Coming]]></title>
-        <id>https://www.youtube.com/watch?v=1RVyEh9eTwk</id>
-        <link href="https://www.youtube.com/watch?v=1RVyEh9eTwk"/>
-        <updated>2022-11-13T17:00:02.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why Food Commercials Cost Hundreds Of Thousands Of Dollars | Big Business | Business Insider]]></title>
         <id>https://www.youtube.com/watch?v=FBP-DxfZCgo</id>
         <link href="https://www.youtube.com/watch?v=FBP-DxfZCgo"/>
@@ -357,30 +411,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Two vintage aircraft collided at an airshow]]></title>
-        <id>https://www.youtube.com/watch?v=9bcRap6EpW8</id>
-        <link href="https://www.youtube.com/watch?v=9bcRap6EpW8"/>
-        <updated>2022-11-13T15:24:10.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Swiss Machining a PERFECT Thread with a Macro  #shorts]]></title>
         <id>https://www.youtube.com/watch?v=IBg76jZ0_eQ</id>
         <link href="https://www.youtube.com/watch?v=IBg76jZ0_eQ"/>
         <updated>2022-11-13T12:00:09.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The First Man-Made Object in Space]]></title>
-        <id>https://www.youtube.com/watch?v=7MiqNW1oL0E</id>
-        <link href="https://www.youtube.com/watch?v=7MiqNW1oL0E"/>
-        <updated>2022-11-12T18:41:36.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -658,15 +694,6 @@
         <id>https://www.youtube.com/watch?v=xPRP3UgpIPg</id>
         <link href="https://www.youtube.com/watch?v=xPRP3UgpIPg"/>
         <updated>2022-11-09T12:00:47.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Print the MOST Versatile Screw (MIND BLOWN) #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=hZBbgAcxsl0</id>
-        <link href="https://www.youtube.com/watch?v=hZBbgAcxsl0"/>
-        <updated>2022-11-09T12:00:34.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
         </author>
@@ -993,15 +1020,6 @@
         <updated>2022-11-01T14:35:18.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circuit Breaker Basics - How do they work?]]></title>
-        <id>https://www.youtube.com/watch?v=VGj32euYZ2c</id>
-        <link href="https://www.youtube.com/watch?v=VGj32euYZ2c"/>
-        <updated>2022-11-01T13:00:30.000Z</updated>
-        <author>
-            <name>The Engineering Mindset</name>
         </author>
     </entry>
     <entry>
@@ -1482,7 +1500,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Author Talks: Hua Hsu and Lucy Sante]]></title>
+        <title type="html"><![CDATA[Hua Hsu and Lucy Sante Discuss "Stay True: A Memoir"]]></title>
         <id>https://www.youtube.com/watch?v=rnZjLgmmzyE</id>
         <link href="https://www.youtube.com/watch?v=rnZjLgmmzyE"/>
         <updated>2022-10-07T14:00:27.000Z</updated>
@@ -1635,7 +1653,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On Patrol With the US Coast Guard in Destin, FL - Smarter Every Day 277]]></title>
+        <title type="html"><![CDATA[Capsized Boat in Destin, FL - Smarter Every Day 277]]></title>
         <id>https://www.youtube.com/watch?v=gl3bY6vME4w</id>
         <link href="https://www.youtube.com/watch?v=gl3bY6vME4w"/>
         <updated>2022-09-25T14:01:28.000Z</updated>
@@ -2145,15 +2163,6 @@
         <updated>2022-08-20T14:15:08.000Z</updated>
         <author>
             <name>Studson Studio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I used mirrors to make infinite Mario and Luigis]]></title>
-        <id>https://www.youtube.com/watch?v=XWD84PlGw3s</id>
-        <link href="https://www.youtube.com/watch?v=XWD84PlGw3s"/>
-        <updated>2022-08-19T15:00:32.000Z</updated>
-        <author>
-            <name>North of the Border</name>
         </author>
     </entry>
 </feed>
