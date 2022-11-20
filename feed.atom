@@ -1,10 +1,109 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-19T00:39:11.806Z</id>
+    <id>urn:2022-11-20T00:40:10.718Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-19T00:39:11.806Z</updated>
+    <updated>2022-11-20T00:40:10.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Watch How Beer Is Bottled]]></title>
+        <id>https://www.youtube.com/watch?v=foECUr7ePW0</id>
+        <link href="https://www.youtube.com/watch?v=foECUr7ePW0"/>
+        <updated>2022-11-19T21:00:30.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Animals Went To Space Before, But Why?]]></title>
+        <id>https://www.youtube.com/watch?v=5FaqZaP_8u4</id>
+        <link href="https://www.youtube.com/watch?v=5FaqZaP_8u4"/>
+        <updated>2022-11-19T19:00:04.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Artemis1 Incredible Audio & Slow Motion 4K Compilation]]></title>
+        <id>https://www.youtube.com/watch?v=nUozQWAg0wE</id>
+        <link href="https://www.youtube.com/watch?v=nUozQWAg0wE"/>
+        <updated>2022-11-19T18:02:03.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Do Seatbelts Work?]]></title>
+        <id>https://www.youtube.com/watch?v=n3ncfcGMo50</id>
+        <link href="https://www.youtube.com/watch?v=n3ncfcGMo50"/>
+        <updated>2022-11-19T17:01:28.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Korean Bronzeware Is So Expensive | So Expensive | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=iztEcBMFcjA</id>
+        <link href="https://www.youtube.com/watch?v=iztEcBMFcjA"/>
+        <updated>2022-11-19T16:00:17.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The US Government Sells Human Poop]]></title>
+        <id>https://www.youtube.com/watch?v=esQyYGezS7c</id>
+        <link href="https://www.youtube.com/watch?v=esQyYGezS7c"/>
+        <updated>2022-11-19T14:00:24.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSANE Tapered Cut on Wire EDM #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=7mdwwDaRz_A</id>
+        <link href="https://www.youtube.com/watch?v=7mdwwDaRz_A"/>
+        <updated>2022-11-19T14:00:04.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The first man-made object in space]]></title>
+        <id>https://www.youtube.com/watch?v=VBqa8kNFIik</id>
+        <link href="https://www.youtube.com/watch?v=VBqa8kNFIik"/>
+        <updated>2022-11-19T13:00:18.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The TERMINATOR of CNC MACHINES Eats Metal | HELLER CP 6000]]></title>
+        <id>https://www.youtube.com/watch?v=tBKI26TKv_0</id>
+        <link href="https://www.youtube.com/watch?v=tBKI26TKv_0"/>
+        <updated>2022-11-19T11:00:27.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forced Systems of Differential Equations in Matlab and Python]]></title>
+        <id>https://www.youtube.com/watch?v=0zxHJd8OgE0</id>
+        <link href="https://www.youtube.com/watch?v=0zxHJd8OgE0"/>
+        <updated>2022-11-19T11:00:02.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Up Your Gardening Game]]></title>
+        <id>https://www.youtube.com/watch?v=jhBanzFEd2o</id>
+        <link href="https://www.youtube.com/watch?v=jhBanzFEd2o"/>
+        <updated>2022-11-19T09:00:34.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Extreme Breeding Is Leaving Pugs And Bulldogs Breathless | True Cost | Business Insider]]></title>
         <id>https://www.youtube.com/watch?v=R5Vt-xhso0Y</id>
@@ -168,7 +267,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Who Took The First Selfie ... REALLY?]]></title>
+        <title type="html"><![CDATA[Who Took The First Selfie?]]></title>
         <id>https://www.youtube.com/watch?v=mMaBVfIedFw</id>
         <link href="https://www.youtube.com/watch?v=mMaBVfIedFw"/>
         <updated>2022-11-17T15:01:24.000Z</updated>
@@ -294,48 +393,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The not-so-mini, M134 Mini Gun]]></title>
-        <id>https://www.youtube.com/watch?v=m8IurMnpvrY</id>
-        <link href="https://www.youtube.com/watch?v=m8IurMnpvrY"/>
-        <updated>2022-11-16T09:00:32.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Farm Machines Are Awesome]]></title>
-        <id>https://www.youtube.com/watch?v=86GGBWN7GBg</id>
-        <link href="https://www.youtube.com/watch?v=86GGBWN7GBg"/>
-        <updated>2022-11-15T23:00:08.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sleep In These Tear-Shaped Sculptures]]></title>
-        <id>https://www.youtube.com/watch?v=5wQd3PsBzQw</id>
-        <link href="https://www.youtube.com/watch?v=5wQd3PsBzQw"/>
-        <updated>2022-11-15T21:00:02.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why 4 Of The World’s Priciest Drinks Are So Expensive | So Expensive Food | Business Insider]]></title>
         <id>https://www.youtube.com/watch?v=jILB6cngXgg</id>
         <link href="https://www.youtube.com/watch?v=jILB6cngXgg"/>
         <updated>2022-11-15T20:25:25.000Z</updated>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Exciting Story of the Creation of the Internet]]></title>
-        <id>https://www.youtube.com/watch?v=gl3cT9JUIl8</id>
-        <link href="https://www.youtube.com/watch?v=gl3cT9JUIl8"/>
-        <updated>2022-11-15T19:00:19.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -654,15 +717,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Five Of The Oldest Cooking Traditions Survived Centuries | Still Standing]]></title>
-        <id>https://www.youtube.com/watch?v=jsz6vXW77yc</id>
-        <link href="https://www.youtube.com/watch?v=jsz6vXW77yc"/>
-        <updated>2022-11-10T20:00:25.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sacred Nature with Karen Armstrong]]></title>
         <id>https://www.youtube.com/watch?v=ovfqJFkuRrg</id>
         <link href="https://www.youtube.com/watch?v=ovfqJFkuRrg"/>
@@ -696,24 +750,6 @@
         <updated>2022-11-10T13:00:17.000Z</updated>
         <author>
             <name>The Engineering Mindset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Macro Programming is the Most Powerful Tool in Swiss Machining]]></title>
-        <id>https://www.youtube.com/watch?v=jIzasqXInv8</id>
-        <link href="https://www.youtube.com/watch?v=jIzasqXInv8"/>
-        <updated>2022-11-10T12:00:25.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CNC Machining CUSTOM Marine Corps Plaque]]></title>
-        <id>https://www.youtube.com/watch?v=8weVmjUfW8Q</id>
-        <link href="https://www.youtube.com/watch?v=8weVmjUfW8Q"/>
-        <updated>2022-11-10T12:00:04.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1311,15 +1347,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is a "Linear" Differential Equation?]]></title>
-        <id>https://www.youtube.com/watch?v=78we91-gWy8</id>
-        <link href="https://www.youtube.com/watch?v=78we91-gWy8"/>
-        <updated>2022-10-26T10:00:05.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FAST RESIN #shorts]]></title>
         <id>https://www.youtube.com/watch?v=nU6sTe5MCNo</id>
         <link href="https://www.youtube.com/watch?v=nU6sTe5MCNo"/>
@@ -1437,7 +1464,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Do Astronauts Do Fighter Jet Training? Pulling Gs With SpaceX Astronauts!]]></title>
+        <title type="html"><![CDATA[Why Do Astronauts Fighter Jet Train? Pulling Gs With SpaceX Astronauts!]]></title>
         <id>https://www.youtube.com/watch?v=eR3PZSAK2Dc</id>
         <link href="https://www.youtube.com/watch?v=eR3PZSAK2Dc"/>
         <updated>2022-10-15T17:59:46.000Z</updated>
