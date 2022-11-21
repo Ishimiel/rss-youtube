@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-20T00:40:10.718Z</id>
+    <id>urn:2022-11-21T00:38:34.804Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-20T00:40:10.718Z</updated>
+    <updated>2022-11-21T00:38:34.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MASSIVE YETI #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=NipiUqWeyU0</id>
+        <link href="https://www.youtube.com/watch?v=NipiUqWeyU0"/>
+        <updated>2022-11-20T21:56:25.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Move Bales Autonomously]]></title>
+        <id>https://www.youtube.com/watch?v=yyEZxdYPy2w</id>
+        <link href="https://www.youtube.com/watch?v=yyEZxdYPy2w"/>
+        <updated>2022-11-20T21:00:28.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hellcat vs. Zero]]></title>
+        <id>https://www.youtube.com/watch?v=G3gxBeEVgz4</id>
+        <link href="https://www.youtube.com/watch?v=G3gxBeEVgz4"/>
+        <updated>2022-11-20T19:00:06.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running Aground in the Mississippi with Record Low Water Levels]]></title>
+        <id>https://www.youtube.com/watch?v=Bc4jLYtp6gI</id>
+        <link href="https://www.youtube.com/watch?v=Bc4jLYtp6gI"/>
+        <updated>2022-11-20T13:34:22.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Maradona Bust]]></title>
+        <id>https://www.youtube.com/watch?v=alk0UsFcxIw</id>
+        <link href="https://www.youtube.com/watch?v=alk0UsFcxIw"/>
+        <updated>2022-11-20T13:00:02.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Hairy Problem (and a Feathery Solution) - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=NdnByi_tK6Q</id>
+        <link href="https://www.youtube.com/watch?v=NdnByi_tK6Q"/>
+        <updated>2022-11-20T12:00:33.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Segmented Threading With a Guide Bushing #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=gT2SkElGOUY</id>
+        <link href="https://www.youtube.com/watch?v=gT2SkElGOUY"/>
+        <updated>2022-11-20T11:00:33.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Watch How Beer Is Bottled]]></title>
         <id>https://www.youtube.com/watch?v=foECUr7ePW0</id>
@@ -312,39 +375,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nasa’s Artemis 1 Launch to the Moon in Florida]]></title>
-        <id>https://www.youtube.com/watch?v=0eWvkHnujCc</id>
-        <link href="https://www.youtube.com/watch?v=0eWvkHnujCc"/>
-        <updated>2022-11-16T21:00:00.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How HIMARS is Helping Ukraine’s War Effort?]]></title>
-        <id>https://www.youtube.com/watch?v=OF0Y1cQ3Ec0</id>
-        <link href="https://www.youtube.com/watch?v=OF0Y1cQ3Ec0"/>
-        <updated>2022-11-16T19:00:14.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[T100 Livestream]]></title>
         <id>https://www.youtube.com/watch?v=n89hk4EYgw4</id>
         <link href="https://www.youtube.com/watch?v=n89hk4EYgw4"/>
         <updated>2022-11-16T17:57:36.000Z</updated>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smoothing Concrete Has Never Been Easier]]></title>
-        <id>https://www.youtube.com/watch?v=erZWqRTr_Jk</id>
-        <link href="https://www.youtube.com/watch?v=erZWqRTr_Jk"/>
-        <updated>2022-11-16T17:00:22.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -696,15 +732,6 @@
         <updated>2022-11-11T13:00:42.000Z</updated>
         <author>
             <name>The Engineering Mindset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master CNC Programmer | TOP 5 things They WON'T Tell You]]></title>
-        <id>https://www.youtube.com/watch?v=RPxSVm5ZTnw</id>
-        <link href="https://www.youtube.com/watch?v=RPxSVm5ZTnw"/>
-        <updated>2022-11-11T12:00:16.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1347,15 +1374,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FAST RESIN #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=nU6sTe5MCNo</id>
-        <link href="https://www.youtube.com/watch?v=nU6sTe5MCNo"/>
-        <updated>2022-10-26T01:20:34.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cajun Condo Point]]></title>
         <id>https://www.youtube.com/watch?v=iDUECMuOpgI</id>
         <link href="https://www.youtube.com/watch?v=iDUECMuOpgI"/>
@@ -1405,15 +1423,6 @@
         <id>https://www.youtube.com/watch?v=9uRfXMw2Uqo</id>
         <link href="https://www.youtube.com/watch?v=9uRfXMw2Uqo"/>
         <updated>2022-10-23T21:44:04.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We have come ashore in Vicksburg]]></title>
-        <id>https://www.youtube.com/watch?v=1_XHPpReU5Q</id>
-        <link href="https://www.youtube.com/watch?v=1_XHPpReU5Q"/>
-        <updated>2022-10-22T21:22:02.000Z</updated>
         <author>
             <name>SV Seeker</name>
         </author>
@@ -2199,15 +2208,6 @@
         <updated>2022-08-23T16:04:11.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why 7 is Weird - Numberphile]]></title>
-        <id>https://www.youtube.com/watch?v=UDQjn_-pDSs</id>
-        <link href="https://www.youtube.com/watch?v=UDQjn_-pDSs"/>
-        <updated>2022-08-22T14:33:15.000Z</updated>
-        <author>
-            <name>Numberphile</name>
         </author>
     </entry>
 </feed>
