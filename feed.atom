@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-21T00:38:34.804Z</id>
+    <id>urn:2022-11-22T00:38:36.322Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-21T00:38:34.804Z</updated>
+    <updated>2022-11-22T00:38:36.322Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[This Airbag will Protect Drivers of e-scooters]]></title>
+        <id>https://www.youtube.com/watch?v=Mc82e7wQisE</id>
+        <link href="https://www.youtube.com/watch?v=Mc82e7wQisE"/>
+        <updated>2022-11-21T20:59:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COP27 Reporter's Notebook]]></title>
+        <id>https://www.youtube.com/watch?v=NdOrnkvKVbE</id>
+        <link href="https://www.youtube.com/watch?v=NdOrnkvKVbE"/>
+        <updated>2022-11-21T19:39:21.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Print Concrete With Precision]]></title>
+        <id>https://www.youtube.com/watch?v=zOzw2Fs-6pc</id>
+        <link href="https://www.youtube.com/watch?v=zOzw2Fs-6pc"/>
+        <updated>2022-11-21T19:00:25.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dreamcrusher Live (Full Set)]]></title>
+        <id>https://www.youtube.com/watch?v=LD4nFpGtW-Q</id>
+        <link href="https://www.youtube.com/watch?v=LD4nFpGtW-Q"/>
+        <updated>2022-11-21T17:54:15.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Numerical Differentiation with Finite Difference Derivatives]]></title>
+        <id>https://www.youtube.com/watch?v=9fGaTU1-f-0</id>
+        <link href="https://www.youtube.com/watch?v=9fGaTU1-f-0"/>
+        <updated>2022-11-21T14:30:04.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printing Metal WITH NO SUPPORTS]]></title>
+        <id>https://www.youtube.com/watch?v=bXyym8kk_fQ</id>
+        <link href="https://www.youtube.com/watch?v=bXyym8kk_fQ"/>
+        <updated>2022-11-21T14:00:32.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Open Differential works]]></title>
+        <id>https://www.youtube.com/watch?v=JQzLhujx32Y</id>
+        <link href="https://www.youtube.com/watch?v=JQzLhujx32Y"/>
+        <updated>2022-11-21T13:00:18.000Z</updated>
+        <author>
+            <name>The Engineering Mindset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setting up Our Heller CP 6000 to Cut MONSTER Chips! #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=PFMzoDFbad0</id>
+        <link href="https://www.youtube.com/watch?v=PFMzoDFbad0"/>
+        <updated>2022-11-21T11:00:26.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MASSIVE YETI #shorts]]></title>
         <id>https://www.youtube.com/watch?v=NipiUqWeyU0</id>
@@ -24,7 +96,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hellcat vs. Zero]]></title>
+        <title type="html"><![CDATA[Hellcat vs. Zero: Which ONE is More Lethal?]]></title>
         <id>https://www.youtube.com/watch?v=G3gxBeEVgz4</id>
         <link href="https://www.youtube.com/watch?v=G3gxBeEVgz4"/>
         <updated>2022-11-20T19:00:06.000Z</updated>
@@ -78,7 +150,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Animals Went To Space Before, But Why?]]></title>
+        <title type="html"><![CDATA[Surprising Facts About Animals That Went to Space]]></title>
         <id>https://www.youtube.com/watch?v=5FaqZaP_8u4</id>
         <link href="https://www.youtube.com/watch?v=5FaqZaP_8u4"/>
         <updated>2022-11-19T19:00:04.000Z</updated>
@@ -114,7 +186,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The US Government Sells Human Poop]]></title>
+        <title type="html"><![CDATA[The world depends on a collection of strange items. They're not cheap]]></title>
         <id>https://www.youtube.com/watch?v=esQyYGezS7c</id>
         <link href="https://www.youtube.com/watch?v=esQyYGezS7c"/>
         <updated>2022-11-19T14:00:24.000Z</updated>
@@ -357,24 +429,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Do Whales and Wind Turbines Have In Common?]]></title>
-        <id>https://www.youtube.com/watch?v=qA6FZ4-Qhrg</id>
-        <link href="https://www.youtube.com/watch?v=qA6FZ4-Qhrg"/>
-        <updated>2022-11-17T09:00:35.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collect Rare Plants With This Drone And Arm]]></title>
-        <id>https://www.youtube.com/watch?v=NJDpbEhZVSk</id>
-        <link href="https://www.youtube.com/watch?v=NJDpbEhZVSk"/>
-        <updated>2022-11-16T23:00:19.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[T100 Livestream]]></title>
         <id>https://www.youtube.com/watch?v=n89hk4EYgw4</id>
         <link href="https://www.youtube.com/watch?v=n89hk4EYgw4"/>
@@ -528,16 +582,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[COP27 Reporter's Notebook]]></title>
-        <id>https://www.youtube.com/watch?v=NdOrnkvKVbE</id>
-        <link href="https://www.youtube.com/watch?v=NdOrnkvKVbE"/>
-        <updated>2022-11-14T17:47:38.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Smithsonian Has 18,000 Marine Bones Hidden In A Warehouse. But What Do They Do With Them?]]></title>
+        <title type="html"><![CDATA[The Smithsonian Has 18,000 Marine Mammal Bones Hidden In A Warehouse. But What Does It Do With Them?]]></title>
         <id>https://www.youtube.com/watch?v=H8IwPq77ebk</id>
         <link href="https://www.youtube.com/watch?v=H8IwPq77ebk"/>
         <updated>2022-11-14T16:00:08.000Z</updated>
@@ -1077,15 +1122,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is an Inverter and What Does It Do?]]></title>
-        <id>https://www.youtube.com/watch?v=8XI6GVLjPng</id>
-        <link href="https://www.youtube.com/watch?v=8XI6GVLjPng"/>
-        <updated>2022-11-03T13:00:05.000Z</updated>
-        <author>
-            <name>The Engineering Mindset</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Algorithm That Transformed The World]]></title>
         <id>https://www.youtube.com/watch?v=nmgFG7PUHfo</id>
         <link href="https://www.youtube.com/watch?v=nmgFG7PUHfo"/>
@@ -1311,30 +1347,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linearizing Nonlinear Differential Equations Near a Fixed Point]]></title>
-        <id>https://www.youtube.com/watch?v=RCWkzzLgwf0</id>
-        <link href="https://www.youtube.com/watch?v=RCWkzzLgwf0"/>
-        <updated>2022-10-28T10:00:31.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sunshine Bridge]]></title>
         <id>https://www.youtube.com/watch?v=Zgyn_iLqQEk</id>
         <link href="https://www.youtube.com/watch?v=Zgyn_iLqQEk"/>
         <updated>2022-10-27T23:58:24.000Z</updated>
         <author>
             <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1000% GHOST PART 4 #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=CcWjnRyWptA</id>
-        <link href="https://www.youtube.com/watch?v=CcWjnRyWptA"/>
-        <updated>2022-10-27T23:17:48.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
         </author>
     </entry>
     <entry>
@@ -2199,15 +2217,6 @@
         <updated>2022-08-26T15:00:29.000Z</updated>
         <author>
             <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIG GNUS #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=47H7RssfC9Q</id>
-        <link href="https://www.youtube.com/watch?v=47H7RssfC9Q"/>
-        <updated>2022-08-23T16:04:11.000Z</updated>
-        <author>
-            <name>Vsauce</name>
         </author>
     </entry>
 </feed>
