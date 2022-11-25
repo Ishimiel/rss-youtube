@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-24T00:38:47.124Z</id>
+    <id>urn:2022-11-25T00:35:20.540Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-24T00:38:47.124Z</updated>
+    <updated>2022-11-25T00:35:20.540Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Naval Gun: A Guard Against the Threads on the Seas]]></title>
+        <id>https://www.youtube.com/watch?v=mYBDYcjNOoM</id>
+        <link href="https://www.youtube.com/watch?v=mYBDYcjNOoM"/>
+        <updated>2022-11-24T21:00:21.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Birds Have Taught Us In Aviation]]></title>
+        <id>https://www.youtube.com/watch?v=Wi6MLZFcv4w</id>
+        <link href="https://www.youtube.com/watch?v=Wi6MLZFcv4w"/>
+        <updated>2022-11-24T19:00:22.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making a Glass Klein Bottle - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=cdLXvJ8wFY4</id>
+        <link href="https://www.youtube.com/watch?v=cdLXvJ8wFY4"/>
+        <updated>2022-11-24T17:14:53.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Millions Of Americans Hit The Road For Thanksgiving]]></title>
+        <id>https://www.youtube.com/watch?v=LSOcF-LHwDk</id>
+        <link href="https://www.youtube.com/watch?v=LSOcF-LHwDk"/>
+        <updated>2022-11-24T15:50:58.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Down the Mississippi - Baton Rouge to Sunshine Bridge]]></title>
+        <id>https://www.youtube.com/watch?v=7wIXyTjvdio</id>
+        <link href="https://www.youtube.com/watch?v=7wIXyTjvdio"/>
+        <updated>2022-11-24T15:37:38.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn the Basics of a 3 Phase Rectifier]]></title>
+        <id>https://www.youtube.com/watch?v=mMLoH4iUGCQ</id>
+        <link href="https://www.youtube.com/watch?v=mMLoH4iUGCQ"/>
+        <updated>2022-11-24T13:00:26.000Z</updated>
+        <author>
+            <name>The Engineering Mindset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Impressive Grinding of a CAM SHAFT #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=S9dM3LOQbus</id>
+        <link href="https://www.youtube.com/watch?v=S9dM3LOQbus"/>
+        <updated>2022-11-24T11:00:17.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sharkskin Stops Bacteria And Helps Swimmers Break Records]]></title>
+        <id>https://www.youtube.com/watch?v=GiZ0OZxpUhw</id>
+        <link href="https://www.youtube.com/watch?v=GiZ0OZxpUhw"/>
+        <updated>2022-11-24T09:00:14.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Storytelling In Video Games]]></title>
         <id>https://www.youtube.com/watch?v=6PbKkmxhoCI</id>
@@ -69,7 +141,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What If a Supernova Hits Earth?]]></title>
+        <title type="html"><![CDATA[The Most Extreme Explosion in the Universe]]></title>
         <id>https://www.youtube.com/watch?v=q4DF3j4saCE</id>
         <link href="https://www.youtube.com/watch?v=q4DF3j4saCE"/>
         <updated>2022-11-23T15:00:13.000Z</updated>
@@ -87,7 +159,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Secret Skills of RESCUE SWIMMERS - U.S. Coast Guard - Smarter Every Day 279]]></title>
+        <title type="html"><![CDATA[How Rescue Swimmers Prepare for Missions - U.S. Coast Guard - Smarter Every Day 279]]></title>
         <id>https://www.youtube.com/watch?v=G3Dl9Ir6Dhw</id>
         <link href="https://www.youtube.com/watch?v=G3Dl9Ir6Dhw"/>
         <updated>2022-11-23T13:43:29.000Z</updated>
@@ -303,30 +375,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hellcat vs. Zero: Which ONE is More Lethal?]]></title>
-        <id>https://www.youtube.com/watch?v=G3gxBeEVgz4</id>
-        <link href="https://www.youtube.com/watch?v=G3gxBeEVgz4"/>
-        <updated>2022-11-20T19:00:06.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Running Aground in the Mississippi with Record Low Water Levels]]></title>
         <id>https://www.youtube.com/watch?v=Bc4jLYtp6gI</id>
         <link href="https://www.youtube.com/watch?v=Bc4jLYtp6gI"/>
         <updated>2022-11-20T13:34:22.000Z</updated>
         <author>
             <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Maradona Bust]]></title>
-        <id>https://www.youtube.com/watch?v=alk0UsFcxIw</id>
-        <link href="https://www.youtube.com/watch?v=alk0UsFcxIw"/>
-        <updated>2022-11-20T13:00:02.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -345,24 +399,6 @@
         <updated>2022-11-20T11:00:33.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch How Beer Is Bottled]]></title>
-        <id>https://www.youtube.com/watch?v=foECUr7ePW0</id>
-        <link href="https://www.youtube.com/watch?v=foECUr7ePW0"/>
-        <updated>2022-11-19T21:00:30.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surprising Facts About Animals That Went to Space]]></title>
-        <id>https://www.youtube.com/watch?v=5FaqZaP_8u4</id>
-        <link href="https://www.youtube.com/watch?v=5FaqZaP_8u4"/>
-        <updated>2022-11-19T19:00:04.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -408,15 +444,6 @@
         <updated>2022-11-19T14:00:04.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The first man-made object in space]]></title>
-        <id>https://www.youtube.com/watch?v=VBqa8kNFIik</id>
-        <link href="https://www.youtube.com/watch?v=VBqa8kNFIik"/>
-        <updated>2022-11-19T13:00:18.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -798,15 +825,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Swiss Machining a PERFECT Thread with a Macro  #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=IBg76jZ0_eQ</id>
-        <link href="https://www.youtube.com/watch?v=IBg76jZ0_eQ"/>
-        <updated>2022-11-13T12:00:09.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Conical Slicing: A different angle of 3D printing]]></title>
         <id>https://www.youtube.com/watch?v=1i-1TEdByZY</id>
         <link href="https://www.youtube.com/watch?v=1i-1TEdByZY"/>
@@ -1059,15 +1077,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3 Phase Inverter Basics - Working Principle]]></title>
-        <id>https://www.youtube.com/watch?v=OPaXVa6r62w</id>
-        <link href="https://www.youtube.com/watch?v=OPaXVa6r62w"/>
-        <updated>2022-11-06T13:00:12.000Z</updated>
-        <author>
-            <name>The Engineering Mindset</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Prime Pyramid (with 3Blue1Brown) - Numberphile]]></title>
         <id>https://www.youtube.com/watch?v=NsjsLwYRW8o</id>
         <link href="https://www.youtube.com/watch?v=NsjsLwYRW8o"/>
@@ -1212,7 +1221,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How one elegant math trick enables most modern technology]]></title>
+        <title type="html"><![CDATA[The Algorithm That Transformed The World]]></title>
         <id>https://www.youtube.com/watch?v=nmgFG7PUHfo</id>
         <link href="https://www.youtube.com/watch?v=nmgFG7PUHfo"/>
         <updated>2022-11-03T12:52:34.000Z</updated>
@@ -1479,15 +1488,6 @@
         <updated>2022-10-24T22:55:56.000Z</updated>
         <author>
             <name>Physics Girl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIVE from Seeker on the Mississippi]]></title>
-        <id>https://www.youtube.com/watch?v=KS41Zny5Wtw</id>
-        <link href="https://www.youtube.com/watch?v=KS41Zny5Wtw"/>
-        <updated>2022-10-23T23:32:07.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
         </author>
     </entry>
     <entry>
@@ -2226,42 +2226,6 @@
         <updated>2022-08-28T15:30:47.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRACTOR PULLS: It's Not What You Think  - Smarter Every Day 276]]></title>
-        <id>https://www.youtube.com/watch?v=VZ6_8WJ3mh8</id>
-        <link href="https://www.youtube.com/watch?v=VZ6_8WJ3mh8"/>
-        <updated>2022-08-27T05:54:36.000Z</updated>
-        <author>
-            <name>SmarterEveryDay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How my band toured Europe in 2022 (Sungazer Tour Vlog)]]></title>
-        <id>https://www.youtube.com/watch?v=hVFwlB5d1Io</id>
-        <link href="https://www.youtube.com/watch?v=hVFwlB5d1Io"/>
-        <updated>2022-08-26T19:48:58.000Z</updated>
-        <author>
-            <name>Adam Neely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Turn an LED On]]></title>
-        <id>https://www.youtube.com/watch?v=zGsQbOjXeEs</id>
-        <link href="https://www.youtube.com/watch?v=zGsQbOjXeEs"/>
-        <updated>2022-08-26T16:00:11.000Z</updated>
-        <author>
-            <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I made a bunch of REALISTIC Mario Monsters]]></title>
-        <id>https://www.youtube.com/watch?v=nOszrPoxDcI</id>
-        <link href="https://www.youtube.com/watch?v=nOszrPoxDcI"/>
-        <updated>2022-08-26T15:00:29.000Z</updated>
-        <author>
-            <name>North of the Border</name>
         </author>
     </entry>
 </feed>
