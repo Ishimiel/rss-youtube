@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-25T00:35:20.540Z</id>
+    <id>urn:2022-11-26T00:31:32.627Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-25T00:35:20.540Z</updated>
+    <updated>2022-11-26T00:31:32.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CopenHill: The Story of Iconic Clean Energy Plant With Its Own Ski Slope]]></title>
+        <id>https://www.youtube.com/watch?v=JSkbuN2CfPo</id>
+        <link href="https://www.youtube.com/watch?v=JSkbuN2CfPo"/>
+        <updated>2022-11-25T19:00:11.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making a Photo-BOOM Electro-Pranker 3000]]></title>
+        <id>https://www.youtube.com/watch?v=_qB-JsmQBto</id>
+        <link href="https://www.youtube.com/watch?v=_qB-JsmQBto"/>
+        <updated>2022-11-25T17:23:03.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How One Of The Oldest Forms Of Theater Survived 2000 Years | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=foL-99_iT44</id>
+        <link href="https://www.youtube.com/watch?v=foL-99_iT44"/>
+        <updated>2022-11-25T16:00:34.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I made Stitch but he's realistic]]></title>
+        <id>https://www.youtube.com/watch?v=atcDGFuDZC4</id>
+        <link href="https://www.youtube.com/watch?v=atcDGFuDZC4"/>
+        <updated>2022-11-25T16:00:03.000Z</updated>
+        <author>
+            <name>North of the Border</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swiss Machine Systematic Setup for Aerospace Parts #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=B22exwIacxQ</id>
+        <link href="https://www.youtube.com/watch?v=B22exwIacxQ"/>
+        <updated>2022-11-25T14:00:07.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printing 10,000,000 COLORS?]]></title>
+        <id>https://www.youtube.com/watch?v=4IkvzMJihuY</id>
+        <link href="https://www.youtube.com/watch?v=4IkvzMJihuY"/>
+        <updated>2022-11-25T14:00:01.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pump head pressure basics]]></title>
+        <id>https://www.youtube.com/watch?v=iN0-rN9X7Yo</id>
+        <link href="https://www.youtube.com/watch?v=iN0-rN9X7Yo"/>
+        <updated>2022-11-25T13:00:25.000Z</updated>
+        <author>
+            <name>The Engineering Mindset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TIME to UNLEASH MADNESS with our NEW HELLER HF 5500]]></title>
+        <id>https://www.youtube.com/watch?v=zToKZtqQMIo</id>
+        <link href="https://www.youtube.com/watch?v=zToKZtqQMIo"/>
+        <updated>2022-11-25T11:00:43.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Naval Gun: A Guard Against the Threads on the Seas]]></title>
         <id>https://www.youtube.com/watch?v=mYBDYcjNOoM</id>
@@ -366,15 +438,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Move Bales Autonomously]]></title>
-        <id>https://www.youtube.com/watch?v=yyEZxdYPy2w</id>
-        <link href="https://www.youtube.com/watch?v=yyEZxdYPy2w"/>
-        <updated>2022-11-20T21:00:28.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Running Aground in the Mississippi with Record Low Water Levels]]></title>
         <id>https://www.youtube.com/watch?v=Bc4jLYtp6gI</id>
         <link href="https://www.youtube.com/watch?v=Bc4jLYtp6gI"/>
@@ -717,15 +780,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Brilliant MasterMind Fixturing Techniques Compilation]]></title>
-        <id>https://www.youtube.com/watch?v=BrMXqKABI08</id>
-        <link href="https://www.youtube.com/watch?v=BrMXqKABI08"/>
-        <updated>2022-11-15T12:00:09.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bicycle of the Future?]]></title>
         <id>https://www.youtube.com/watch?v=1hnRbLEnjJg</id>
         <link href="https://www.youtube.com/watch?v=1hnRbLEnjJg"/>
@@ -786,15 +840,6 @@
         <updated>2022-11-14T12:19:43.000Z</updated>
         <author>
             <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unboxing NEW Tyrolit Wheel #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=5XykxTBjwdk</id>
-        <link href="https://www.youtube.com/watch?v=5XykxTBjwdk"/>
-        <updated>2022-11-14T12:00:09.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -867,15 +912,6 @@
         <updated>2022-11-12T11:00:20.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making Eyeglasses From Coffee Grounds In Ukraine | World Wide Waste | Business Insider]]></title>
-        <id>https://www.youtube.com/watch?v=e-iL2hzVePM</id>
-        <link href="https://www.youtube.com/watch?v=e-iL2hzVePM"/>
-        <updated>2022-11-12T00:07:51.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -1059,15 +1095,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Limited Slip Differential Explained]]></title>
-        <id>https://www.youtube.com/watch?v=93TT8ewtAew</id>
-        <link href="https://www.youtube.com/watch?v=93TT8ewtAew"/>
-        <updated>2022-11-07T13:00:04.000Z</updated>
-        <author>
-            <name>The Engineering Mindset</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Non-Normal Linear Systems and Transient Energy Growth: Bypass Transition to Turbulence]]></title>
         <id>https://www.youtube.com/watch?v=5tjDDNp5v6I</id>
         <link href="https://www.youtube.com/watch?v=5tjDDNp5v6I"/>
@@ -1236,15 +1263,6 @@
         <updated>2022-11-02T22:47:01.000Z</updated>
         <author>
             <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prusa 10th Anniversary UNBOXING + CHILL]]></title>
-        <id>https://www.youtube.com/watch?v=hQ9ex9Jh6d0</id>
-        <link href="https://www.youtube.com/watch?v=hQ9ex9Jh6d0"/>
-        <updated>2022-11-02T21:36:16.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
         </author>
     </entry>
     <entry>
