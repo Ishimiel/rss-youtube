@@ -1,10 +1,109 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-05T00:32:00.883Z</id>
+    <id>urn:2022-12-06T00:31:05.825Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-05T00:32:00.883Z</updated>
+    <updated>2022-12-06T00:31:05.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Soldiers Train On The Patriot System]]></title>
+        <id>https://www.youtube.com/watch?v=2GDSIn3e7EM</id>
+        <link href="https://www.youtube.com/watch?v=2GDSIn3e7EM"/>
+        <updated>2022-12-05T21:00:01.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Don't We Have Lightsabers in Our Lives Yet?]]></title>
+        <id>https://www.youtube.com/watch?v=KmLjpjs3vog</id>
+        <link href="https://www.youtube.com/watch?v=KmLjpjs3vog"/>
+        <updated>2022-12-05T19:00:06.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Don't We Have The Lightsaber from Star Wars]]></title>
+        <id>https://www.youtube.com/watch?v=6jShapB44XQ</id>
+        <link href="https://www.youtube.com/watch?v=6jShapB44XQ"/>
+        <updated>2022-12-05T19:00:03.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can ENGINE Run on WATER?! They Copied my Toy (LATITY-011)]]></title>
+        <id>https://www.youtube.com/watch?v=CR0pdDdUOm0</id>
+        <link href="https://www.youtube.com/watch?v=CR0pdDdUOm0"/>
+        <updated>2022-12-05T17:00:00.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Smooth 3D Printed Polypropylene!]]></title>
+        <id>https://www.youtube.com/watch?v=JRtlPN8mIm4</id>
+        <link href="https://www.youtube.com/watch?v=JRtlPN8mIm4"/>
+        <updated>2022-12-05T14:00:06.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Store Anything Anywhere with Gridfinity! 20+ Weird Printable Organizers by Makers Like You!]]></title>
+        <id>https://www.youtube.com/watch?v=7FCwMq-rVsY</id>
+        <link href="https://www.youtube.com/watch?v=7FCwMq-rVsY"/>
+        <updated>2022-12-05T14:00:02.000Z</updated>
+        <author>
+            <name>Zack Freedman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Transformers Use kVA Not kW]]></title>
+        <id>https://www.youtube.com/watch?v=XTuYJ1Nd_vk</id>
+        <link href="https://www.youtube.com/watch?v=XTuYJ1Nd_vk"/>
+        <updated>2022-12-05T13:00:15.000Z</updated>
+        <author>
+            <name>The Engineering Mindset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Bumper Boat Will Make You Happy On Waters]]></title>
+        <id>https://www.youtube.com/watch?v=7VSH1xo7ssQ</id>
+        <link href="https://www.youtube.com/watch?v=7VSH1xo7ssQ"/>
+        <updated>2022-12-05T13:00:06.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MOST Insane Drill Test Ever Performed #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=XsIHptD-R1M</id>
+        <link href="https://www.youtube.com/watch?v=XsIHptD-R1M"/>
+        <updated>2022-12-05T11:00:18.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Numerical Simulation of Ordinary Differential Equations: Integrating ODEs]]></title>
+        <id>https://www.youtube.com/watch?v=QBeNXHrAYns</id>
+        <link href="https://www.youtube.com/watch?v=QBeNXHrAYns"/>
+        <updated>2022-12-05T11:00:14.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[That's Why We Don't Have Hoverboards From Back To The Future]]></title>
+        <id>https://www.youtube.com/watch?v=NWt_Fp1ZOb8</id>
+        <link href="https://www.youtube.com/watch?v=NWt_Fp1ZOb8"/>
+        <updated>2022-12-05T09:00:10.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What I'm Reading #shorts]]></title>
         <id>https://www.youtube.com/watch?v=TXl4q-ZEjvA</id>
@@ -159,15 +258,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Burj Khalifa: The World's Tallest Building]]></title>
-        <id>https://www.youtube.com/watch?v=9gzcBvkTHrk</id>
-        <link href="https://www.youtube.com/watch?v=9gzcBvkTHrk"/>
-        <updated>2022-12-02T19:00:03.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How One Of The Rarest Salt In The World Goes From Ocean To Table | Still Standing | Business Insider]]></title>
         <id>https://www.youtube.com/watch?v=h5nduA2NP-4</id>
         <link href="https://www.youtube.com/watch?v=h5nduA2NP-4"/>
@@ -222,15 +312,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ski Down An Energy Plant]]></title>
-        <id>https://www.youtube.com/watch?v=PeeS-l3_p3k</id>
-        <link href="https://www.youtube.com/watch?v=PeeS-l3_p3k"/>
-        <updated>2022-12-02T09:00:19.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Print Farm Visit #shorts]]></title>
         <id>https://www.youtube.com/watch?v=PmPkGzd4nts</id>
         <link href="https://www.youtube.com/watch?v=PmPkGzd4nts"/>
@@ -246,24 +327,6 @@
         <updated>2022-12-01T22:07:28.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Mesmerizing Process of Making Gouda]]></title>
-        <id>https://www.youtube.com/watch?v=x4owHC1GQcA</id>
-        <link href="https://www.youtube.com/watch?v=x4owHC1GQcA"/>
-        <updated>2022-12-01T21:00:31.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How The Lotus Effect Was Discovered]]></title>
-        <id>https://www.youtube.com/watch?v=Xp0SAdDUQ-o</id>
-        <link href="https://www.youtube.com/watch?v=Xp0SAdDUQ-o"/>
-        <updated>2022-12-01T19:00:12.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -318,15 +381,6 @@
         <updated>2022-12-01T13:00:22.000Z</updated>
         <author>
             <name>The Engineering Mindset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soldiers Training With Heavy Rockets]]></title>
-        <id>https://www.youtube.com/watch?v=C57LPxzpvdE</id>
-        <link href="https://www.youtube.com/watch?v=C57LPxzpvdE"/>
-        <updated>2022-12-01T13:00:05.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -660,15 +714,6 @@
         <updated>2022-11-25T13:00:25.000Z</updated>
         <author>
             <name>The Engineering Mindset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TIME to UNLEASH MADNESS with our NEW HELLER HF 5500]]></title>
-        <id>https://www.youtube.com/watch?v=zToKZtqQMIo</id>
-        <link href="https://www.youtube.com/watch?v=zToKZtqQMIo"/>
-        <updated>2022-11-25T11:00:43.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1131,15 +1176,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Basic Transformer Calculations]]></title>
-        <id>https://www.youtube.com/watch?v=qRiMFmILd8k</id>
-        <link href="https://www.youtube.com/watch?v=qRiMFmILd8k"/>
-        <updated>2022-11-14T13:00:38.000Z</updated>
-        <author>
-            <name>The Engineering Mindset</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Solving the Infinite Square Well Problem | Quantum Mechanics]]></title>
         <id>https://www.youtube.com/watch?v=yX-xeexgDGA</id>
         <link href="https://www.youtube.com/watch?v=yX-xeexgDGA"/>
@@ -1173,15 +1209,6 @@
         <updated>2022-11-12T16:31:06.000Z</updated>
         <author>
             <name>CNC Kitchen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INCREDIBLE E3D Tool Changer!]]></title>
-        <id>https://www.youtube.com/watch?v=pBztvEJJGwA</id>
-        <link href="https://www.youtube.com/watch?v=pBztvEJJGwA"/>
-        <updated>2022-11-12T14:00:35.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
         </author>
     </entry>
     <entry>
@@ -1443,15 +1470,6 @@
         <updated>2022-11-02T11:28:47.000Z</updated>
         <author>
             <name>Freya Holmér</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Residual Dynamic Mode Decomposition: A very easy way to get error bounds for your DMD computations]]></title>
-        <id>https://www.youtube.com/watch?v=Dc2OYDVp43I</id>
-        <link href="https://www.youtube.com/watch?v=Dc2OYDVp43I"/>
-        <updated>2022-11-02T10:00:07.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
@@ -2199,24 +2217,6 @@
         <updated>2022-09-07T22:50:56.000Z</updated>
         <author>
             <name>Internet Pitstop</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fourier Transforms in Partial Differential Equations]]></title>
-        <id>https://www.youtube.com/watch?v=Lxq7AgGhabk</id>
-        <link href="https://www.youtube.com/watch?v=Lxq7AgGhabk"/>
-        <updated>2022-09-07T01:00:05.000Z</updated>
-        <author>
-            <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Are Lonely and How to Make Friends]]></title>
-        <id>https://www.youtube.com/watch?v=I9hJ_Rux9y0</id>
-        <link href="https://www.youtube.com/watch?v=I9hJ_Rux9y0"/>
-        <updated>2022-09-06T13:59:36.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>
