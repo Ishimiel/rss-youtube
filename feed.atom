@@ -1,10 +1,118 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-07T00:33:28.438Z</id>
+    <id>urn:2022-12-08T00:31:27.665Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-07T00:33:28.438Z</updated>
+    <updated>2022-12-08T00:31:27.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[THE LAST ONE]]></title>
+        <id>https://www.youtube.com/watch?v=8V6lYh72rBw</id>
+        <link href="https://www.youtube.com/watch?v=8V6lYh72rBw"/>
+        <updated>2022-12-07T23:39:03.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Seaweed Could Replace Plastic Packaging | World Wide Waste | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=337OhJZ-_cc</id>
+        <link href="https://www.youtube.com/watch?v=337OhJZ-_cc"/>
+        <updated>2022-12-07T22:00:03.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hold Whatever You Want With This Artificial Hand]]></title>
+        <id>https://www.youtube.com/watch?v=x3wqTJmoLt8</id>
+        <link href="https://www.youtube.com/watch?v=x3wqTJmoLt8"/>
+        <updated>2022-12-07T21:00:15.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Eyes in the Skies]]></title>
+        <id>https://www.youtube.com/watch?v=Y3mz6B1yMMs</id>
+        <link href="https://www.youtube.com/watch?v=Y3mz6B1yMMs"/>
+        <updated>2022-12-07T19:00:18.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Continuity of Splines]]></title>
+        <id>https://www.youtube.com/watch?v=jvPPXbo87ds</id>
+        <link href="https://www.youtube.com/watch?v=jvPPXbo87ds"/>
+        <updated>2022-12-07T19:00:08.000Z</updated>
+        <author>
+            <name>Freya Holmér</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the AWACS Keeps Us Safe]]></title>
+        <id>https://www.youtube.com/watch?v=2hMBFpsi86Q</id>
+        <link href="https://www.youtube.com/watch?v=2hMBFpsi86Q"/>
+        <updated>2022-12-07T19:00:01.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Back to Work on the Boat]]></title>
+        <id>https://www.youtube.com/watch?v=IW4CBGVh400</id>
+        <link href="https://www.youtube.com/watch?v=IW4CBGVh400"/>
+        <updated>2022-12-07T17:11:25.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spiral Heat Exchangers Explained]]></title>
+        <id>https://www.youtube.com/watch?v=kVuoa9ntPgA</id>
+        <link href="https://www.youtube.com/watch?v=kVuoa9ntPgA"/>
+        <updated>2022-12-07T13:00:32.000Z</updated>
+        <author>
+            <name>The Engineering Mindset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It Is The Way Of Splattering Colors On Vinyl]]></title>
+        <id>https://www.youtube.com/watch?v=EbIowXf_XUs</id>
+        <link href="https://www.youtube.com/watch?v=EbIowXf_XUs"/>
+        <updated>2022-12-07T13:00:07.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MASTERFUL 9 - AXIS CNC TOOL SETUP #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=h-_aMBlYk-w</id>
+        <link href="https://www.youtube.com/watch?v=h-_aMBlYk-w"/>
+        <updated>2022-12-07T11:00:37.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deriving Forward Euler and Backward/Implicit Euler Integration Schemes for Differential Equations]]></title>
+        <id>https://www.youtube.com/watch?v=MstPeOTCVzQ</id>
+        <link href="https://www.youtube.com/watch?v=MstPeOTCVzQ"/>
+        <updated>2022-12-07T11:00:21.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B-1B is bad to the bone]]></title>
+        <id>https://www.youtube.com/watch?v=JALBIlcJAd8</id>
+        <link href="https://www.youtube.com/watch?v=JALBIlcJAd8"/>
+        <updated>2022-12-07T09:00:12.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Or Is It? #shorts]]></title>
         <id>https://www.youtube.com/watch?v=3cMJE3lMRL4</id>
@@ -42,7 +150,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Most Brutal Ant: The Slaver Ant Polyergus]]></title>
+        <title type="html"><![CDATA[The Horror of the Slaver Ant]]></title>
         <id>https://www.youtube.com/watch?v=Qsbe1pD8ocE</id>
         <link href="https://www.youtube.com/watch?v=Qsbe1pD8ocE"/>
         <updated>2022-12-06T15:52:00.000Z</updated>
@@ -51,7 +159,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Matrix transpose isn’t just swapping rows and columns]]></title>
+        <title type="html"><![CDATA[Matrix transpose isn't just swapping rows and columns]]></title>
         <id>https://www.youtube.com/watch?v=g4ecBFmvAYU</id>
         <link href="https://www.youtube.com/watch?v=g4ecBFmvAYU"/>
         <updated>2022-12-06T15:00:31.000Z</updated>
@@ -231,15 +339,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Did Shermans Defeat the Superior Tiger I?]]></title>
-        <id>https://www.youtube.com/watch?v=ky_XneE3I-Y</id>
-        <link href="https://www.youtube.com/watch?v=ky_XneE3I-Y"/>
-        <updated>2022-12-04T19:00:14.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Mexico Grows Limes On Orange Trees To Supply The US | Big Business | Business Insider]]></title>
         <id>https://www.youtube.com/watch?v=4wGVWQyLE94</id>
         <link href="https://www.youtube.com/watch?v=4wGVWQyLE94"/>
@@ -249,48 +348,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Raining Death On The Enemy]]></title>
-        <id>https://www.youtube.com/watch?v=y58d1q6HSNU</id>
-        <link href="https://www.youtube.com/watch?v=y58d1q6HSNU"/>
-        <updated>2022-12-04T13:00:25.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Processing a Part at an IMPOSSIBLE Angle #shorts]]></title>
         <id>https://www.youtube.com/watch?v=ggRdXoKtu84</id>
         <link href="https://www.youtube.com/watch?v=ggRdXoKtu84"/>
         <updated>2022-12-04T11:00:30.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F-86 vs. MiG 15]]></title>
-        <id>https://www.youtube.com/watch?v=QNEpZKGKk7g</id>
-        <link href="https://www.youtube.com/watch?v=QNEpZKGKk7g"/>
-        <updated>2022-12-04T09:02:51.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Artificial Islands will let the sea animals to live freely in lakes]]></title>
-        <id>https://www.youtube.com/watch?v=kLk9AbmgmvI</id>
-        <link href="https://www.youtube.com/watch?v=kLk9AbmgmvI"/>
-        <updated>2022-12-03T21:00:11.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Carpool On The Moon]]></title>
-        <id>https://www.youtube.com/watch?v=j2Rgo8PcW_A</id>
-        <link href="https://www.youtube.com/watch?v=j2Rgo8PcW_A"/>
-        <updated>2022-12-03T19:00:13.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -339,7 +402,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How One Of The Rarest Salt In The World Goes From Ocean To Table | Still Standing | Business Insider]]></title>
+        <title type="html"><![CDATA[How One Of The Rarest Salts In The World Goes From Ocean To Table | Still Standing]]></title>
         <id>https://www.youtube.com/watch?v=h5nduA2NP-4</id>
         <link href="https://www.youtube.com/watch?v=h5nduA2NP-4"/>
         <updated>2022-12-02T16:58:59.000Z</updated>
@@ -564,7 +627,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why 5 Of The World's Priciest Textiles Are So Expensive | So Expensive | Business Insider]]></title>
+        <title type="html"><![CDATA[Why 5 of The World's Priciest Fabrics Are So Expensive| So Expensive | Business Insider]]></title>
         <id>https://www.youtube.com/watch?v=RnVt7CaR3tU</id>
         <link href="https://www.youtube.com/watch?v=RnVt7CaR3tU"/>
         <updated>2022-11-29T16:00:10.000Z</updated>
@@ -714,15 +777,6 @@
         <updated>2022-11-26T15:11:11.000Z</updated>
         <author>
             <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This MACRO Machines a HEX on a Swiss Lathe #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=yEZZT80VbtY</id>
-        <link href="https://www.youtube.com/watch?v=yEZZT80VbtY"/>
-        <updated>2022-11-26T14:00:28.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1041,15 +1095,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Family Has Made Pumpkin Instruments For About 200 Years. Now Electric Ones Threaten Their Craft]]></title>
-        <id>https://www.youtube.com/watch?v=F4nltNJyePQ</id>
-        <link href="https://www.youtube.com/watch?v=F4nltNJyePQ"/>
-        <updated>2022-11-18T17:00:15.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I Threw it Out and Started Over?! Optigon 2: Part 3: From Fear Through the Eyepiece of Madness]]></title>
         <id>https://www.youtube.com/watch?v=EVWbEGH7E_c</id>
         <link href="https://www.youtube.com/watch?v=EVWbEGH7E_c"/>
@@ -1083,15 +1128,6 @@
         <updated>2022-11-18T16:00:14.000Z</updated>
         <author>
             <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PRUSA SOLID?]]></title>
-        <id>https://www.youtube.com/watch?v=_LRFAWtuFxw</id>
-        <link href="https://www.youtube.com/watch?v=_LRFAWtuFxw"/>
-        <updated>2022-11-18T14:00:23.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
         </author>
     </entry>
     <entry>
@@ -1144,15 +1180,6 @@
         <id>https://www.youtube.com/watch?v=aZt61aQodks</id>
         <link href="https://www.youtube.com/watch?v=aZt61aQodks"/>
         <updated>2022-11-17T13:00:01.000Z</updated>
-        <author>
-            <name>The Engineering Mindset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HVACR Deadband Basics]]></title>
-        <id>https://www.youtube.com/watch?v=ukjXJp0Joyg</id>
-        <link href="https://www.youtube.com/watch?v=ukjXJp0Joyg"/>
-        <updated>2022-11-16T13:00:41.000Z</updated>
         <author>
             <name>The Engineering Mindset</name>
         </author>
@@ -1410,15 +1437,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Feel the Fear and Do It Anyway]]></title>
-        <id>https://www.youtube.com/watch?v=Ij2BNdCrCfo</id>
-        <link href="https://www.youtube.com/watch?v=Ij2BNdCrCfo"/>
-        <updated>2022-11-04T17:39:59.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Math for Game Devs [2022, part 10] • Abstract Algebra, Procedural Animation & Splines]]></title>
         <id>https://www.youtube.com/watch?v=Pku6WAs1fF8</id>
         <link href="https://www.youtube.com/watch?v=Pku6WAs1fF8"/>
@@ -1470,15 +1488,6 @@
         <updated>2022-11-04T11:35:33.000Z</updated>
         <author>
             <name>Freya Holmér</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measure-preserving EDMD: A 4-line structure-preserving & convergent DMD algorithm!]]></title>
-        <id>https://www.youtube.com/watch?v=Xt3vS_hhBm8</id>
-        <link href="https://www.youtube.com/watch?v=Xt3vS_hhBm8"/>
-        <updated>2022-11-04T10:00:17.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
@@ -2199,33 +2208,6 @@
         <updated>2022-09-09T15:00:21.000Z</updated>
         <author>
             <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rack and Pinion (2642 Pitt Pirates)]]></title>
-        <id>https://www.youtube.com/watch?v=mCoV-bKzee4</id>
-        <link href="https://www.youtube.com/watch?v=mCoV-bKzee4"/>
-        <updated>2022-09-09T10:00:38.000Z</updated>
-        <author>
-            <name>AlphaPhoenix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Psychedelics: Chemicals, Consciousness, and Creativity]]></title>
-        <id>https://www.youtube.com/watch?v=kxFTWk9lLDU</id>
-        <link href="https://www.youtube.com/watch?v=kxFTWk9lLDU"/>
-        <updated>2022-09-08T19:00:09.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You're Technically HOTTER Than The Sun (with XKCD!)]]></title>
-        <id>https://www.youtube.com/watch?v=6tu0mIpX8nU</id>
-        <link href="https://www.youtube.com/watch?v=6tu0mIpX8nU"/>
-        <updated>2022-09-08T18:34:09.000Z</updated>
-        <author>
-            <name>minutephysics</name>
         </author>
     </entry>
 </feed>

@@ -98,7 +98,7 @@
           "link": "https://www.youtube.com/watch?v=g4ecBFmvAYU",
           "publishedOn": "2022-12-06T15:00:31.000Z",
           "wordCount": null,
-          "title": "Matrix transpose isn’t just swapping rows and columns",
+          "title": "Matrix transpose isn't just swapping rows and columns",
           "imageUrl": null
         },
         {
@@ -135,7 +135,7 @@
           "link": "https://www.youtube.com/watch?v=Qsbe1pD8ocE",
           "publishedOn": "2022-12-06T15:52:00.000Z",
           "wordCount": null,
-          "title": "The Most Brutal Ant: The Slaver Ant Polyergus",
+          "title": "The Horror of the Slaver Ant",
           "imageUrl": null
         },
         {
@@ -195,6 +195,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=MstPeOTCVzQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MstPeOTCVzQ",
+          "publishedOn": "2022-12-07T11:00:21.000Z",
+          "wordCount": null,
+          "title": "Deriving Forward Euler and Backward/Implicit Euler Integration Schemes for Differential Equations",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=QBeNXHrAYns",
           "author": null,
@@ -333,16 +343,6 @@
           "publishedOn": "2022-11-05T17:00:37.000Z",
           "wordCount": null,
           "title": "The Hartman-Grobman Theorem, Structural Stability of Linearization, and Stable/Unstable Manifolds",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Xt3vS_hhBm8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Xt3vS_hhBm8",
-          "publishedOn": "2022-11-04T10:00:17.000Z",
-          "wordCount": null,
-          "title": "Measure-preserving EDMD: A 4-line structure-preserving & convergent DMD algorithm!",
           "imageUrl": null
         }
       ]
@@ -531,16 +531,6 @@
           "wordCount": null,
           "title": "Psychedelics for the Frontlines: A Police Officer on the Healing Potential of MDMA for PTSD",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kxFTWk9lLDU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kxFTWk9lLDU",
-          "publishedOn": "2022-09-08T19:00:09.000Z",
-          "wordCount": null,
-          "title": "Psychedelics: Chemicals, Consciousness, and Creativity",
-          "imageUrl": null
         }
       ]
     },
@@ -549,6 +539,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_7aK9PpYTqt08ERh1MewlQ",
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=8V6lYh72rBw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8V6lYh72rBw",
+          "publishedOn": "2022-12-07T23:39:03.000Z",
+          "wordCount": null,
+          "title": "THE LAST ONE",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=xTnWrKvla7g",
           "author": null,
@@ -678,16 +678,6 @@
           "wordCount": null,
           "title": "MASSIVE YETI #shorts",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_LRFAWtuFxw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_LRFAWtuFxw",
-          "publishedOn": "2022-11-18T14:00:23.000Z",
-          "wordCount": null,
-          "title": "PRUSA SOLID?",
-          "imageUrl": null
         }
       ]
     },
@@ -781,16 +771,6 @@
           "publishedOn": "2022-09-10T10:00:02.000Z",
           "wordCount": null,
           "title": "The most enthusiastic programmers I've ever met (6502 Darc Side)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mCoV-bKzee4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mCoV-bKzee4",
-          "publishedOn": "2022-09-09T10:00:38.000Z",
-          "wordCount": null,
-          "title": "Rack and Pinion (2642 Pitt Pirates)",
           "imageUrl": null
         }
       ]
@@ -1019,6 +999,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC7M-Wz4zK8oikt6ATcoTwBA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=jvPPXbo87ds",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jvPPXbo87ds",
+          "publishedOn": "2022-12-07T19:00:08.000Z",
+          "wordCount": null,
+          "title": "The Continuity of Splines",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Pku6WAs1fF8",
           "author": null,
           "description": "",
@@ -1126,6 +1116,56 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=x3wqTJmoLt8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=x3wqTJmoLt8",
+          "publishedOn": "2022-12-07T21:00:15.000Z",
+          "wordCount": null,
+          "title": "Hold Whatever You Want With This Artificial Hand",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Y3mz6B1yMMs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Y3mz6B1yMMs",
+          "publishedOn": "2022-12-07T19:00:18.000Z",
+          "wordCount": null,
+          "title": "The Eyes in the Skies",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=2hMBFpsi86Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2hMBFpsi86Q",
+          "publishedOn": "2022-12-07T19:00:01.000Z",
+          "wordCount": null,
+          "title": "How the AWACS Keeps Us Safe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=EbIowXf_XUs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EbIowXf_XUs",
+          "publishedOn": "2022-12-07T13:00:07.000Z",
+          "wordCount": null,
+          "title": "It Is The Way Of Splattering Colors On Vinyl",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=JALBIlcJAd8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JALBIlcJAd8",
+          "publishedOn": "2022-12-07T09:00:12.000Z",
+          "wordCount": null,
+          "title": "B-1B is bad to the bone",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=uxb5ZZjNBfo",
           "author": null,
           "description": "",
@@ -1224,56 +1264,6 @@
           "wordCount": null,
           "title": "Trading Cards Are Manufactured And Prepared For Selling",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ky_XneE3I-Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ky_XneE3I-Y",
-          "publishedOn": "2022-12-04T19:00:14.000Z",
-          "wordCount": null,
-          "title": "How Did Shermans Defeat the Superior Tiger I?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=y58d1q6HSNU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=y58d1q6HSNU",
-          "publishedOn": "2022-12-04T13:00:25.000Z",
-          "wordCount": null,
-          "title": "Raining Death On The Enemy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QNEpZKGKk7g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QNEpZKGKk7g",
-          "publishedOn": "2022-12-04T09:02:51.000Z",
-          "wordCount": null,
-          "title": "F-86 vs. MiG 15",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kLk9AbmgmvI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kLk9AbmgmvI",
-          "publishedOn": "2022-12-03T21:00:11.000Z",
-          "wordCount": null,
-          "title": "Artificial Islands will let the sea animals to live freely in lakes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=j2Rgo8PcW_A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=j2Rgo8PcW_A",
-          "publishedOn": "2022-12-03T19:00:13.000Z",
-          "wordCount": null,
-          "title": "First Carpool On The Moon",
-          "imageUrl": null
         }
       ]
     },
@@ -1353,16 +1343,6 @@
           "publishedOn": "2022-10-14T14:41:12.000Z",
           "wordCount": null,
           "title": "Freezing water expands. What if you don't let it?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6tu0mIpX8nU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6tu0mIpX8nU",
-          "publishedOn": "2022-09-08T18:34:09.000Z",
-          "wordCount": null,
-          "title": "You're Technically HOTTER Than The Sun (with XKCD!)",
           "imageUrl": null
         }
       ]
@@ -1560,6 +1540,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCj_XaV1ss-qdD-lPUtTEcXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=IW4CBGVh400",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IW4CBGVh400",
+          "publishedOn": "2022-12-07T17:11:25.000Z",
+          "wordCount": null,
+          "title": "Back to Work on the Boat",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qKWFe4JrhHk",
           "author": null,
           "description": "",
@@ -1698,16 +1688,6 @@
           "wordCount": null,
           "title": "Dardanelle to Toad Suck on the Arkansas River",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ij2BNdCrCfo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ij2BNdCrCfo",
-          "publishedOn": "2022-11-04T17:39:59.000Z",
-          "wordCount": null,
-          "title": "Feel the Fear and Do It Anyway",
-          "imageUrl": null
         }
       ]
     },
@@ -1770,6 +1750,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCk0fGHsCEzGig-rSzkfCjMw",
       "siteUrl": "https://www.youtube.com/channel/UCk0fGHsCEzGig-rSzkfCjMw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=kVuoa9ntPgA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kVuoa9ntPgA",
+          "publishedOn": "2022-12-07T13:00:32.000Z",
+          "wordCount": null,
+          "title": "Spiral Heat Exchangers Explained",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ehzT_rQEmTM",
           "author": null,
@@ -1908,16 +1898,6 @@
           "publishedOn": "2022-11-17T13:00:01.000Z",
           "wordCount": null,
           "title": "Car Battery - What's Inside?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ukjXJp0Joyg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ukjXJp0Joyg",
-          "publishedOn": "2022-11-16T13:00:41.000Z",
-          "wordCount": null,
-          "title": "HVACR Deadband Basics",
           "imageUrl": null
         }
       ]
@@ -2176,6 +2156,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=h-_aMBlYk-w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=h-_aMBlYk-w",
+          "publishedOn": "2022-12-07T11:00:37.000Z",
+          "wordCount": null,
+          "title": "MASTERFUL 9 - AXIS CNC TOOL SETUP #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=OmDEMYaJ-xM",
           "author": null,
           "description": "",
@@ -2314,16 +2304,6 @@
           "wordCount": null,
           "title": "Satisfying Machining on 316L STAINLESS STEEL #shorts",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yEZZT80VbtY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yEZZT80VbtY",
-          "publishedOn": "2022-11-26T14:00:28.000Z",
-          "wordCount": null,
-          "title": "This MACRO Machines a HEX on a Swiss Lathe #shorts",
-          "imageUrl": null
         }
       ]
     },
@@ -2332,6 +2312,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=337OhJZ-_cc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=337OhJZ-_cc",
+          "publishedOn": "2022-12-07T22:00:03.000Z",
+          "wordCount": null,
+          "title": "How Seaweed Could Replace Plastic Packaging | World Wide Waste | Business Insider",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=kNjTsmfImeY",
           "author": null,
@@ -2369,7 +2359,7 @@
           "link": "https://www.youtube.com/watch?v=h5nduA2NP-4",
           "publishedOn": "2022-12-02T16:58:59.000Z",
           "wordCount": null,
-          "title": "How One Of The Rarest Salt In The World Goes From Ocean To Table | Still Standing | Business Insider",
+          "title": "How One Of The Rarest Salts In The World Goes From Ocean To Table | Still Standing",
           "imageUrl": null
         },
         {
@@ -2399,7 +2389,7 @@
           "link": "https://www.youtube.com/watch?v=RnVt7CaR3tU",
           "publishedOn": "2022-11-29T16:00:10.000Z",
           "wordCount": null,
-          "title": "Why 5 Of The World's Priciest Textiles Are So Expensive | So Expensive | Business Insider",
+          "title": "Why 5 of The World's Priciest Fabrics Are So Expensive| So Expensive | Business Insider",
           "imageUrl": null
         },
         {
@@ -2470,16 +2460,6 @@
           "publishedOn": "2022-11-18T22:51:52.000Z",
           "wordCount": null,
           "title": "How Extreme Breeding Is Leaving Pugs And Bulldogs Breathless | True Cost | Business Insider",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=F4nltNJyePQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=F4nltNJyePQ",
-          "publishedOn": "2022-11-18T17:00:15.000Z",
-          "wordCount": null,
-          "title": "This Family Has Made Pumpkin Instruments For About 200 Years. Now Electric Ones Threaten Their Craft",
           "imageUrl": null
         }
       ]
