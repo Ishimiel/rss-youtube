@@ -1,15 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-08T00:31:27.665Z</id>
+    <id>urn:2022-12-09T00:33:24.300Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-08T00:31:27.665Z</updated>
+    <updated>2022-12-09T00:33:24.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[THE LAST ONE]]></title>
+        <title type="html"><![CDATA[I'm going to the moon!!!... Literally! #dearMoon]]></title>
+        <id>https://www.youtube.com/watch?v=QFIuzormhYU</id>
+        <link href="https://www.youtube.com/watch?v=QFIuzormhYU"/>
+        <updated>2022-12-08T22:36:44.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robotic Swarms Warn The Army]]></title>
+        <id>https://www.youtube.com/watch?v=gnWBUgyfF9c</id>
+        <link href="https://www.youtube.com/watch?v=gnWBUgyfF9c"/>
+        <updated>2022-12-08T21:00:27.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unboxing A Universal 3D Sensor]]></title>
+        <id>https://www.youtube.com/watch?v=ZHs1FGl6b0o</id>
+        <link href="https://www.youtube.com/watch?v=ZHs1FGl6b0o"/>
+        <updated>2022-12-08T19:13:52.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How did humanity own the sky]]></title>
+        <id>https://www.youtube.com/watch?v=lhakGsA1Eo0</id>
+        <link href="https://www.youtube.com/watch?v=lhakGsA1Eo0"/>
+        <updated>2022-12-08T19:00:25.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Did We Take the Leap and Fly Like a Bird]]></title>
+        <id>https://www.youtube.com/watch?v=WYAdLr5JS8c</id>
+        <link href="https://www.youtube.com/watch?v=WYAdLr5JS8c"/>
+        <updated>2022-12-08T19:00:09.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printing WIRE with Fraunhofer]]></title>
+        <id>https://www.youtube.com/watch?v=3SiCQqvDT8M</id>
+        <link href="https://www.youtube.com/watch?v=3SiCQqvDT8M"/>
+        <updated>2022-12-08T14:00:02.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[People Try To Remove The Ice On The Submarine]]></title>
+        <id>https://www.youtube.com/watch?v=1K6ZuuTgrWk</id>
+        <link href="https://www.youtube.com/watch?v=1K6ZuuTgrWk"/>
+        <updated>2022-12-08T13:00:02.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a diode?]]></title>
+        <id>https://www.youtube.com/watch?v=a4ttjOEdlc8</id>
+        <link href="https://www.youtube.com/watch?v=a4ttjOEdlc8"/>
+        <updated>2022-12-08T13:00:00.000Z</updated>
+        <author>
+            <name>The Engineering Mindset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SECRET Process Of MACHINING FLAWLESS Parts]]></title>
+        <id>https://www.youtube.com/watch?v=Zd1W_8ZuI4Y</id>
+        <link href="https://www.youtube.com/watch?v=Zd1W_8ZuI4Y"/>
+        <updated>2022-12-08T11:00:17.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE LAST ONE of 2022]]></title>
         <id>https://www.youtube.com/watch?v=8V6lYh72rBw</id>
         <link href="https://www.youtube.com/watch?v=8V6lYh72rBw"/>
-        <updated>2022-12-07T23:39:03.000Z</updated>
+        <updated>2022-12-08T03:25:26.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
         </author>
@@ -240,15 +321,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Don't We Have The Lightsaber from Star Wars]]></title>
-        <id>https://www.youtube.com/watch?v=6jShapB44XQ</id>
-        <link href="https://www.youtube.com/watch?v=6jShapB44XQ"/>
-        <updated>2022-12-05T19:00:03.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Can ENGINE Run on WATER?! They Copied my Toy (LATITY-011)]]></title>
         <id>https://www.youtube.com/watch?v=CR0pdDdUOm0</id>
         <link href="https://www.youtube.com/watch?v=CR0pdDdUOm0"/>
@@ -285,15 +357,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Bumper Boat Will Make You Happy On Waters]]></title>
-        <id>https://www.youtube.com/watch?v=7VSH1xo7ssQ</id>
-        <link href="https://www.youtube.com/watch?v=7VSH1xo7ssQ"/>
-        <updated>2022-12-05T13:00:06.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MOST Insane Drill Test Ever Performed #shorts]]></title>
         <id>https://www.youtube.com/watch?v=XsIHptD-R1M</id>
         <link href="https://www.youtube.com/watch?v=XsIHptD-R1M"/>
@@ -312,30 +375,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[That's Why We Don't Have Hoverboards From Back To The Future]]></title>
-        <id>https://www.youtube.com/watch?v=NWt_Fp1ZOb8</id>
-        <link href="https://www.youtube.com/watch?v=NWt_Fp1ZOb8"/>
-        <updated>2022-12-05T09:00:10.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What I'm Reading #shorts]]></title>
         <id>https://www.youtube.com/watch?v=TXl4q-ZEjvA</id>
         <link href="https://www.youtube.com/watch?v=TXl4q-ZEjvA"/>
         <updated>2022-12-04T22:52:38.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trading Cards Are Manufactured And Prepared For Selling]]></title>
-        <id>https://www.youtube.com/watch?v=jP8Na0roHIY</id>
-        <link href="https://www.youtube.com/watch?v=jP8Na0roHIY"/>
-        <updated>2022-12-04T21:00:10.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -654,15 +699,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Attempting The MOST Insane Drill Test Ever Performed]]></title>
-        <id>https://www.youtube.com/watch?v=RC78pTp4ZCQ</id>
-        <link href="https://www.youtube.com/watch?v=RC78pTp4ZCQ"/>
-        <updated>2022-11-29T11:00:11.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Turning Tofu Waste Into Cooking Gas Helps Clean Rivers In Indonesia | World Wide Waste]]></title>
         <id>https://www.youtube.com/watch?v=7bP2kWOGl4Q</id>
         <link href="https://www.youtube.com/watch?v=7bP2kWOGl4Q"/>
@@ -708,15 +744,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1700 LBS Held by a Tiny Dovetail #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=BssgHs_SJ7o</id>
-        <link href="https://www.youtube.com/watch?v=BssgHs_SJ7o"/>
-        <updated>2022-11-28T11:00:07.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Christmas Tree WITH LEGS! #shorts]]></title>
         <id>https://www.youtube.com/watch?v=k5yv1WQTqIw</id>
         <link href="https://www.youtube.com/watch?v=k5yv1WQTqIw"/>
@@ -741,15 +768,6 @@
         <updated>2022-11-27T13:55:59.000Z</updated>
         <author>
             <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Satisfying Machining on 316L STAINLESS STEEL #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=Gi00VCDV1v0</id>
-        <link href="https://www.youtube.com/watch?v=Gi00VCDV1v0"/>
-        <updated>2022-11-27T11:00:11.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1173,15 +1191,6 @@
         <updated>2022-11-17T15:01:24.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Car Battery - What's Inside?]]></title>
-        <id>https://www.youtube.com/watch?v=aZt61aQodks</id>
-        <link href="https://www.youtube.com/watch?v=aZt61aQodks"/>
-        <updated>2022-11-17T13:00:01.000Z</updated>
-        <author>
-            <name>The Engineering Mindset</name>
         </author>
     </entry>
     <entry>
@@ -2181,33 +2190,6 @@
         <updated>2022-09-10T15:32:55.000Z</updated>
         <author>
             <name>CNC Kitchen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The most enthusiastic programmers I've ever met (6502 Darc Side)]]></title>
-        <id>https://www.youtube.com/watch?v=2LdMZF8N440</id>
-        <link href="https://www.youtube.com/watch?v=2LdMZF8N440"/>
-        <updated>2022-09-10T10:00:02.000Z</updated>
-        <author>
-            <name>AlphaPhoenix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will AI replace human musicians? | Q+A]]></title>
-        <id>https://www.youtube.com/watch?v=EdgGwDsN0xI</id>
-        <link href="https://www.youtube.com/watch?v=EdgGwDsN0xI"/>
-        <updated>2022-09-09T17:49:21.000Z</updated>
-        <author>
-            <name>Adam Neely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I made a Realistic Kirby]]></title>
-        <id>https://www.youtube.com/watch?v=cUx7kTdi8Wc</id>
-        <link href="https://www.youtube.com/watch?v=cUx7kTdi8Wc"/>
-        <updated>2022-09-09T15:00:21.000Z</updated>
-        <author>
-            <name>North of the Border</name>
         </author>
     </entry>
 </feed>
