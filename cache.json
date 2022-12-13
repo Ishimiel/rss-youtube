@@ -24,16 +24,6 @@
           "wordCount": null,
           "title": "The High Schooler Who Solved a Prime Number Theorem",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TL7XhfrLF4k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TL7XhfrLF4k",
-          "publishedOn": "2022-09-13T15:00:38.000Z",
-          "wordCount": null,
-          "title": "One Man's Mission to Unveil Math's Beauty",
-          "imageUrl": null
         }
       ]
     },
@@ -206,6 +196,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=RdXCGnTT6UY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RdXCGnTT6UY",
+          "publishedOn": "2022-12-12T11:00:12.000Z",
+          "wordCount": null,
+          "title": "Stability of Forward Euler and Backward Euler Integration Schemes for Differential Equations",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=h2i550iaEv0",
           "author": null,
           "description": "",
@@ -343,16 +343,6 @@
           "publishedOn": "2022-11-09T11:00:06.000Z",
           "wordCount": null,
           "title": "Repeated Eigenvalues and Secular Terms: Transient Growth in Non-Normal Systems",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5tjDDNp5v6I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5tjDDNp5v6I",
-          "publishedOn": "2022-11-07T11:00:08.000Z",
-          "wordCount": null,
-          "title": "Non-Normal Linear Systems and Transient Energy Growth: Bypass Transition to Turbulence",
           "imageUrl": null
         }
       ]
@@ -550,6 +540,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=B12ihAMqME8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=B12ihAMqME8",
+          "publishedOn": "2022-12-12T14:00:08.000Z",
+          "wordCount": null,
+          "title": "3D Printing 100% Recycled Metal with 6K Additive",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Y5Mjmm9g22I",
           "author": null,
           "description": "",
@@ -688,16 +688,6 @@
           "wordCount": null,
           "title": "BAMBULAB P1P UNBOX & FIRST PRINT LIVE!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bXyym8kk_fQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bXyym8kk_fQ",
-          "publishedOn": "2022-11-21T14:00:32.000Z",
-          "wordCount": null,
-          "title": "3D Printing Metal WITH NO SUPPORTS",
-          "imageUrl": null
         }
       ]
     },
@@ -742,18 +732,7 @@
       "title": "AlphaPhoenix",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCWeRTgd79JL0ilH0ZywSJA",
       "siteUrl": "https://www.youtube.com/channel/UCCWeRTgd79JL0ilH0ZywSJA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=kaztRLkn2jM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kaztRLkn2jM",
-          "publishedOn": "2022-09-14T10:00:35.000Z",
-          "wordCount": null,
-          "title": "Sweeerve (5727 OmegaBytes)",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Artem Kirsanov",
@@ -1096,6 +1075,36 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FxbOrSX8Fjg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FxbOrSX8Fjg",
+          "publishedOn": "2022-12-12T21:00:04.000Z",
+          "wordCount": null,
+          "title": "Fire Fighting Pumps Is On Testing Facility",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=l8kHmg0v24c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=l8kHmg0v24c",
+          "publishedOn": "2022-12-12T19:00:14.000Z",
+          "wordCount": null,
+          "title": "Why Don't We Have Invisibility Cloaks?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=prPzAH7x7QQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=prPzAH7x7QQ",
+          "publishedOn": "2022-12-12T13:00:23.000Z",
+          "wordCount": null,
+          "title": "This Huge And Speedy Helicopter Carries The Heaviest Loads",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=3A2xi6Jb8Iw",
           "author": null,
           "description": "",
@@ -1213,36 +1222,6 @@
           "publishedOn": "2022-12-09T19:00:12.000Z",
           "wordCount": null,
           "title": "The Soldier On The Huge Tank Fires The Main Gun",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=q5u22xbVADI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=q5u22xbVADI",
-          "publishedOn": "2022-12-09T13:00:24.000Z",
-          "wordCount": null,
-          "title": "Work Safely And Comfortably With This Chair",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gnWBUgyfF9c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gnWBUgyfF9c",
-          "publishedOn": "2022-12-08T21:00:27.000Z",
-          "wordCount": null,
-          "title": "Robotic Swarms Warn The Army",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lhakGsA1Eo0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lhakGsA1Eo0",
-          "publishedOn": "2022-12-08T19:00:25.000Z",
-          "wordCount": null,
-          "title": "How did humanity own the sky",
           "imageUrl": null
         }
       ]
@@ -1731,6 +1710,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCk0fGHsCEzGig-rSzkfCjMw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tHOH-bYjR4k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tHOH-bYjR4k",
+          "publishedOn": "2022-12-12T13:00:26.000Z",
+          "wordCount": null,
+          "title": "What is a Servo Motor and What Does It Do?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pl_dt83Srlc",
           "author": null,
           "description": "",
@@ -1869,16 +1858,6 @@
           "wordCount": null,
           "title": "AC and DC Electricity basics",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JQzLhujx32Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JQzLhujx32Y",
-          "publishedOn": "2022-11-21T13:00:18.000Z",
-          "wordCount": null,
-          "title": "How Open Differential works",
-          "imageUrl": null
         }
       ]
     },
@@ -1887,6 +1866,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
       "siteUrl": "https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=pXoZQsZP2PY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pXoZQsZP2PY",
+          "publishedOn": "2022-12-12T15:53:57.000Z",
+          "wordCount": null,
+          "title": "How To Measure The Tiniest Forces In The Universe",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=pir_muTzYM8",
           "author": null,
@@ -2166,6 +2155,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=cVODUXl_QW8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cVODUXl_QW8",
+          "publishedOn": "2022-12-12T11:00:31.000Z",
+          "wordCount": null,
+          "title": "Machining 70 MILLION Calipers in JAPAN #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=k7nlMwFrx98",
           "author": null,
           "description": "",
@@ -2202,7 +2201,7 @@
           "link": "https://www.youtube.com/watch?v=6rDyxMgdJPM",
           "publishedOn": "2022-12-09T14:00:06.000Z",
           "wordCount": null,
-          "title": "HOMELESS MAN Machines MILLION DOLLAR Custom OCTOPUS. WOW! #shorts",
+          "title": "EX-HOMELESS MAN Machines MILLION DOLLAR Custom OCTOPUS. WOW! #shorts",
           "imageUrl": null
         },
         {
@@ -2293,16 +2292,6 @@
           "publishedOn": "2022-12-03T14:00:06.000Z",
           "wordCount": null,
           "title": "700 IPM, What does it Take? #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WcWddFMvFBs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WcWddFMvFBs",
-          "publishedOn": "2022-12-03T11:00:18.000Z",
-          "wordCount": null,
-          "title": "Is European Manufacturing Superior to American?",
           "imageUrl": null
         }
       ]
