@@ -540,6 +540,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5NNTlfhph3U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5NNTlfhph3U",
+          "publishedOn": "2022-12-13T14:00:03.000Z",
+          "wordCount": null,
+          "title": "Will This 3D Printed Hammer Survive?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=B12ihAMqME8",
           "author": null,
           "description": "",
@@ -677,16 +687,6 @@
           "publishedOn": "2022-11-23T20:00:09.000Z",
           "wordCount": null,
           "title": "The ONLY 3D Printing Store in Malta!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uAYZ9W55Epc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uAYZ9W55Epc",
-          "publishedOn": "2022-11-22T23:09:05.000Z",
-          "wordCount": null,
-          "title": "BAMBULAB P1P UNBOX & FIRST PRINT LIVE!",
           "imageUrl": null
         }
       ]
@@ -1075,6 +1075,56 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=eKLOj0S8Hgs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eKLOj0S8Hgs",
+          "publishedOn": "2022-12-13T21:00:24.000Z",
+          "wordCount": null,
+          "title": "This Chute Will Aid You To Escape From Fire",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=WkuQO-UTtF4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WkuQO-UTtF4",
+          "publishedOn": "2022-12-13T19:00:09.000Z",
+          "wordCount": null,
+          "title": "This is How Giant Machines Evolved into Pocket Boxes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=EPkzhx7-PFI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EPkzhx7-PFI",
+          "publishedOn": "2022-12-13T19:00:04.000Z",
+          "wordCount": null,
+          "title": "How Did We Try to Count Numbers and It Turned Into Images?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=oUKN1irxP-U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oUKN1irxP-U",
+          "publishedOn": "2022-12-13T13:00:33.000Z",
+          "wordCount": null,
+          "title": "This Robot Identifies Weeds And Pulls Them Out",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=pNp1SDsMqjw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pNp1SDsMqjw",
+          "publishedOn": "2022-12-13T10:00:23.000Z",
+          "wordCount": null,
+          "title": "Why Don't We Have Invisibility Cloaks?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=FxbOrSX8Fjg",
           "author": null,
           "description": "",
@@ -1172,56 +1222,6 @@
           "publishedOn": "2022-12-10T19:00:32.000Z",
           "wordCount": null,
           "title": "First Satellites To Reach Outer Planets",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uVrEVo9JD0A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uVrEVo9JD0A",
-          "publishedOn": "2022-12-10T19:00:30.000Z",
-          "wordCount": null,
-          "title": "First Satellites To Reach Outer Planets",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4f9UG0N8TF0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4f9UG0N8TF0",
-          "publishedOn": "2022-12-10T13:00:03.000Z",
-          "wordCount": null,
-          "title": "The Workers Use The New Method To Transport The Fishes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8UE3wgwtjqs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8UE3wgwtjqs",
-          "publishedOn": "2022-12-10T09:00:06.000Z",
-          "wordCount": null,
-          "title": "First Carpool On The Moon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5Rz8XFBQPFU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5Rz8XFBQPFU",
-          "publishedOn": "2022-12-09T21:00:03.000Z",
-          "wordCount": null,
-          "title": "These Boots Will Protect You From Falling Objects",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bglEtXdrhtc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bglEtXdrhtc",
-          "publishedOn": "2022-12-09T19:00:12.000Z",
-          "wordCount": null,
-          "title": "The Soldier On The Huge Tank Fires The Main Gun",
           "imageUrl": null
         }
       ]
@@ -1710,6 +1710,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCk0fGHsCEzGig-rSzkfCjMw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gSz4Y8RV164",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gSz4Y8RV164",
+          "publishedOn": "2022-12-13T13:00:20.000Z",
+          "wordCount": null,
+          "title": "Starter Motors, what's inside?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=tHOH-bYjR4k",
           "author": null,
           "description": "",
@@ -1847,16 +1857,6 @@
           "publishedOn": "2022-11-23T13:00:18.000Z",
           "wordCount": null,
           "title": "Have you ever wondered how multispeed pumps work?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2jqJZxxX6gQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2jqJZxxX6gQ",
-          "publishedOn": "2022-11-22T13:00:02.000Z",
-          "wordCount": null,
-          "title": "AC and DC Electricity basics",
           "imageUrl": null
         }
       ]
@@ -2155,6 +2155,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=RahCOtqf3D4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RahCOtqf3D4",
+          "publishedOn": "2022-12-13T14:00:10.000Z",
+          "wordCount": null,
+          "title": "HUGE Lathe Uses Multiple Cutting Tools AT ONCE! #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=FxX2QOks_3w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FxX2QOks_3w",
+          "publishedOn": "2022-12-13T12:00:18.000Z",
+          "wordCount": null,
+          "title": "SCRAPPING Parts Due To Thermal Expansion",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cVODUXl_QW8",
           "author": null,
           "description": "",
@@ -2273,26 +2293,6 @@
           "wordCount": null,
           "title": "MOST Insane Drill Test Ever Performed #shorts",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ggRdXoKtu84",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ggRdXoKtu84",
-          "publishedOn": "2022-12-04T11:00:30.000Z",
-          "wordCount": null,
-          "title": "Processing a Part at an IMPOSSIBLE Angle #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8l09n2G0LCI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8l09n2G0LCI",
-          "publishedOn": "2022-12-03T14:00:06.000Z",
-          "wordCount": null,
-          "title": "700 IPM, What does it Take? #shorts",
-          "imageUrl": null
         }
       ]
     },
@@ -2301,6 +2301,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=_iwW5PQcdGw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_iwW5PQcdGw",
+          "publishedOn": "2022-12-13T19:00:19.000Z",
+          "wordCount": null,
+          "title": "The True Cost Of America's War Machines | True Cost | Insider Business",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=_VQ-ckQPD2I",
           "author": null,
@@ -2439,16 +2449,6 @@
           "publishedOn": "2022-11-21T19:39:21.000Z",
           "wordCount": null,
           "title": "COP27 Reporter's Notebook",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iztEcBMFcjA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iztEcBMFcjA",
-          "publishedOn": "2022-11-19T16:00:17.000Z",
-          "wordCount": null,
-          "title": "Why Hand-Forged Korean Bronze Tableware Is So Expensive | So Expensive | Business Insider",
           "imageUrl": null
         }
       ]
