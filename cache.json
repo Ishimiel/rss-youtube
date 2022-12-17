@@ -206,6 +206,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HOWJp8NV5xU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HOWJp8NV5xU",
+          "publishedOn": "2022-12-16T11:00:18.000Z",
+          "wordCount": null,
+          "title": "Runge-Kutta Integrator Overview:  All Purpose Numerical Integration of Differential Equations",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ITFolyl_66U",
           "author": null,
           "description": "",
@@ -344,16 +354,6 @@
           "wordCount": null,
           "title": "Differential Equations with Forcing: Method of Undetermined Coefficients",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SsCiQym5yQU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SsCiQym5yQU",
-          "publishedOn": "2022-11-11T11:00:18.000Z",
-          "wordCount": null,
-          "title": "Systems of Differential Equations: Diagonalization and Jordan Canonical Form",
-          "imageUrl": null
         }
       ]
     },
@@ -385,6 +385,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=CH39SDlxon4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CH39SDlxon4",
+          "publishedOn": "2022-12-16T15:05:08.000Z",
+          "wordCount": null,
+          "title": "Physicist Sean Carroll on \"The Biggest Ideas in the Universe\"",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=kCKD0tMgS8M",
           "author": null,
@@ -550,11 +560,21 @@
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gpz5wx-gP34",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gpz5wx-gP34",
+          "publishedOn": "2022-12-16T14:00:30.000Z",
+          "wordCount": null,
+          "title": "Defect Detection in 3D Printing with Ai Build",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=odYRZzHN1NM",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=odYRZzHN1NM",
-          "publishedOn": "2022-12-14T21:13:53.000Z",
+          "publishedOn": "2022-12-16T04:24:11.000Z",
           "wordCount": null,
           "title": "MASSIVE HOLIDAY GIVEAWAY 2022!",
           "imageUrl": null
@@ -687,16 +707,6 @@
           "publishedOn": "2022-11-28T14:00:23.000Z",
           "wordCount": null,
           "title": "3D Printing AUTOMATION?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=k5yv1WQTqIw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=k5yv1WQTqIw",
-          "publishedOn": "2022-11-27T23:11:20.000Z",
-          "wordCount": null,
-          "title": "Christmas Tree WITH LEGS! #shorts",
           "imageUrl": null
         }
       ]
@@ -959,16 +969,6 @@
           "wordCount": null,
           "title": "Watch the LAST Vandenberg launch of the Delta IV Heavy! #NROL-91",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nzplxkfPdEA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nzplxkfPdEA",
-          "publishedOn": "2022-09-17T17:00:01.000Z",
-          "wordCount": null,
-          "title": "Up close and personal with Firefly's Alpha rocket!",
-          "imageUrl": null
         }
       ]
     },
@@ -1095,6 +1095,66 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=MhuOVkRx75U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MhuOVkRx75U",
+          "publishedOn": "2022-12-16T23:00:11.000Z",
+          "wordCount": null,
+          "title": "Invisible Hand in Wood Engraving",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=b4jj7qN7WBE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=b4jj7qN7WBE",
+          "publishedOn": "2022-12-16T21:00:13.000Z",
+          "wordCount": null,
+          "title": "An Effortless Solution for Pipe Welding",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=CQHUrYNFt1Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CQHUrYNFt1Q",
+          "publishedOn": "2022-12-16T19:00:10.000Z",
+          "wordCount": null,
+          "title": "Come Explore The House Of Cards",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=OJUKeceoUWg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OJUKeceoUWg",
+          "publishedOn": "2022-12-16T19:00:07.000Z",
+          "wordCount": null,
+          "title": "Marina Bay Sands: An Engineering Marvel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=uxT1nP8_bSc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uxT1nP8_bSc",
+          "publishedOn": "2022-12-16T13:11:33.000Z",
+          "wordCount": null,
+          "title": "SpaceX Fires Up Starship Prototype",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=sFFEhMMr8yg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sFFEhMMr8yg",
+          "publishedOn": "2022-12-16T09:00:25.000Z",
+          "wordCount": null,
+          "title": "Plumbing is Entrusted to This Machine",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=j6EekuZwoqI",
           "author": null,
           "description": "",
@@ -1182,66 +1242,6 @@
           "publishedOn": "2022-12-14T09:00:02.000Z",
           "wordCount": null,
           "title": "NASA’s Orion Splashdowns Into the Pacific Ocean",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eKLOj0S8Hgs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eKLOj0S8Hgs",
-          "publishedOn": "2022-12-13T21:00:24.000Z",
-          "wordCount": null,
-          "title": "This Chute Will Aid You To Escape From Fire",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WkuQO-UTtF4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WkuQO-UTtF4",
-          "publishedOn": "2022-12-13T19:00:09.000Z",
-          "wordCount": null,
-          "title": "This is How Giant Machines Evolved into Pocket Boxes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EPkzhx7-PFI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EPkzhx7-PFI",
-          "publishedOn": "2022-12-13T19:00:04.000Z",
-          "wordCount": null,
-          "title": "How Did We Try to Count Numbers and It Turned Into Images?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oUKN1irxP-U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oUKN1irxP-U",
-          "publishedOn": "2022-12-13T13:00:33.000Z",
-          "wordCount": null,
-          "title": "This Robot Identifies Weeds And Pulls Them Out",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pNp1SDsMqjw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pNp1SDsMqjw",
-          "publishedOn": "2022-12-13T10:00:23.000Z",
-          "wordCount": null,
-          "title": "Why Don't We Have Invisibility Cloaks?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FxbOrSX8Fjg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FxbOrSX8Fjg",
-          "publishedOn": "2022-12-12T21:00:04.000Z",
-          "wordCount": null,
-          "title": "Fire Fighting Pumps Is On Testing Facility",
           "imageUrl": null
         }
       ]
@@ -1510,16 +1510,6 @@
           "wordCount": null,
           "title": "The Insane Engineering of the Spitfire",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=73mXXJpEjRI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=73mXXJpEjRI",
-          "publishedOn": "2022-09-17T15:00:05.000Z",
-          "wordCount": null,
-          "title": "The Truth about Deep Sea Mining",
-          "imageUrl": null
         }
       ]
     },
@@ -1528,6 +1518,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj_XaV1ss-qdD-lPUtTEcXw",
       "siteUrl": "https://www.youtube.com/channel/UCj_XaV1ss-qdD-lPUtTEcXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=m4KKsxrShRo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=m4KKsxrShRo",
+          "publishedOn": "2022-12-16T15:01:04.000Z",
+          "wordCount": null,
+          "title": "Adding Hydraulics to the Sail Winch and Other Boat Stuff",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=OfYj0VNTqME",
           "author": null,
@@ -1667,16 +1667,6 @@
           "wordCount": null,
           "title": "Hit My First Barge Entering the Mississippi",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZVnzNee9uI4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZVnzNee9uI4",
-          "publishedOn": "2022-11-08T01:41:39.000Z",
-          "wordCount": null,
-          "title": "Little Rock to Pine Bluff on the Arkansas River",
-          "imageUrl": null
         }
       ]
     },
@@ -1739,6 +1729,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCk0fGHsCEzGig-rSzkfCjMw",
       "siteUrl": "https://www.youtube.com/channel/UCk0fGHsCEzGig-rSzkfCjMw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=4aFlSEf8C0A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4aFlSEf8C0A",
+          "publishedOn": "2022-12-16T13:00:04.000Z",
+          "wordCount": null,
+          "title": "Pump NPSH Basics",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=hObLxlXJPPM",
           "author": null,
@@ -1878,16 +1878,6 @@
           "wordCount": null,
           "title": "Transformers: How They Increase Voltage",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iN0-rN9X7Yo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iN0-rN9X7Yo",
-          "publishedOn": "2022-11-25T13:00:25.000Z",
-          "wordCount": null,
-          "title": "Pump head pressure basics",
-          "imageUrl": null
         }
       ]
     },
@@ -1983,6 +1973,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "siteUrl": "https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=WkgZd5wvXno",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WkgZd5wvXno",
+          "publishedOn": "2022-12-16T21:06:52.000Z",
+          "wordCount": null,
+          "title": "PSR B1919+21",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=4s95ejalx7M",
           "author": null,
@@ -2185,6 +2185,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-3XlQ0AaNo8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-3XlQ0AaNo8",
+          "publishedOn": "2022-12-16T12:00:00.000Z",
+          "wordCount": null,
+          "title": "SECRET Process of ZERO TOLERANCE Machining #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xK_eAuXQjQk",
           "author": null,
           "description": "",
@@ -2321,6 +2331,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ZHFmWhrJipA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZHFmWhrJipA",
+          "publishedOn": "2022-12-16T16:00:16.000Z",
+          "wordCount": null,
+          "title": "How Women In India Are Fighting To Save A Tribal Weaving Tradition | Still Standing",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Adi5F2BwasM",
           "author": null,
@@ -2460,16 +2480,6 @@
           "wordCount": null,
           "title": "How 5,000 Villages Keep Rare Crafts Alive In Vietnam | Big Business | Business Insider",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=foL-99_iT44",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=foL-99_iT44",
-          "publishedOn": "2022-11-25T16:00:34.000Z",
-          "wordCount": null,
-          "title": "How One Of The Oldest Forms Of Theater Survived 2000 Years | Business Insider",
-          "imageUrl": null
         }
       ]
     },
@@ -2495,6 +2505,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCM15YNy8g-CaJ15YZCbq0Iw",
       "siteUrl": "https://www.youtube.com/channel/UCM15YNy8g-CaJ15YZCbq0Iw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=KZXQRApO75E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KZXQRApO75E",
+          "publishedOn": "2022-12-16T16:00:15.000Z",
+          "wordCount": null,
+          "title": "I made Santa but he's a Zombie",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=MKUxCfijyVs",
           "author": null,
