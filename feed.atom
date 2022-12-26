@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-25T00:34:32.280Z</id>
+    <id>urn:2022-12-26T00:32:23.967Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-25T00:34:32.280Z</updated>
+    <updated>2022-12-26T00:32:23.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[LEDs Will Save You Money]]></title>
+        <id>https://www.youtube.com/watch?v=qiAqsnWVfS8</id>
+        <link href="https://www.youtube.com/watch?v=qiAqsnWVfS8"/>
+        <updated>2022-12-25T23:00:15.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LEDs Will Save You Money]]></title>
+        <id>https://www.youtube.com/watch?v=BaaOxXVhKzI</id>
+        <link href="https://www.youtube.com/watch?v=BaaOxXVhKzI"/>
+        <updated>2022-12-25T23:00:04.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stamp Mooncakes Into Various Designs]]></title>
+        <id>https://www.youtube.com/watch?v=CB8Zi6oINC4</id>
+        <link href="https://www.youtube.com/watch?v=CB8Zi6oINC4"/>
+        <updated>2022-12-25T21:00:03.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Map of Social Space in Your Brain]]></title>
+        <id>https://www.youtube.com/watch?v=C00IR4IVRkg</id>
+        <link href="https://www.youtube.com/watch?v=C00IR4IVRkg"/>
+        <updated>2022-12-25T19:47:13.000Z</updated>
+        <author>
+            <name>Artem Kirsanov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M16 vs AK-47: Which One Would You Pick?]]></title>
+        <id>https://www.youtube.com/watch?v=wP_8uS71v_Y</id>
+        <link href="https://www.youtube.com/watch?v=wP_8uS71v_Y"/>
+        <updated>2022-12-25T19:00:30.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M16 vs Ak 47: Which One Would You Pick?]]></title>
+        <id>https://www.youtube.com/watch?v=7wFD-4j_VXw</id>
+        <link href="https://www.youtube.com/watch?v=7wFD-4j_VXw"/>
+        <updated>2022-12-25T19:00:03.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ready to Decorate Your Tree with Pad Print Multi-Color Christmas Ornament?]]></title>
+        <id>https://www.youtube.com/watch?v=0h9nBhJq2SE</id>
+        <link href="https://www.youtube.com/watch?v=0h9nBhJq2SE"/>
+        <updated>2022-12-25T13:00:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UNBOXING New CNC Swiss Machines! #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=7OrxNfOf_cY</id>
+        <link href="https://www.youtube.com/watch?v=7OrxNfOf_cY"/>
+        <updated>2022-12-25T12:00:05.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Journey of a Christmas Tree: From Forest to Home]]></title>
+        <id>https://www.youtube.com/watch?v=VMbydeKJw5w</id>
+        <link href="https://www.youtube.com/watch?v=VMbydeKJw5w"/>
+        <updated>2022-12-25T09:00:12.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MASSIVE TREE STAR! #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=7gVanvijiYc</id>
+        <link href="https://www.youtube.com/watch?v=7gVanvijiYc"/>
+        <updated>2022-12-25T03:09:56.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This fake dog nose made chemical sensors 18x better]]></title>
         <id>https://www.youtube.com/watch?v=TILjzuBGkRc</id>
@@ -204,39 +294,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Being an Extraordinary Artist with CNC Engraving Machine]]></title>
-        <id>https://www.youtube.com/watch?v=mcAv2acoQoI</id>
-        <link href="https://www.youtube.com/watch?v=mcAv2acoQoI"/>
-        <updated>2022-12-23T13:00:26.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Numerical Integration of Chaotic Dynamics: Uncertainty Propagation & Vectorized Integration]]></title>
         <id>https://www.youtube.com/watch?v=LRF4dGP4xeo</id>
         <link href="https://www.youtube.com/watch?v=LRF4dGP4xeo"/>
         <updated>2022-12-23T11:00:22.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Concrete Solution For Erosion]]></title>
-        <id>https://www.youtube.com/watch?v=qbscP1oQMXE</id>
-        <link href="https://www.youtube.com/watch?v=qbscP1oQMXE"/>
-        <updated>2022-12-23T09:00:33.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live Like Natural Grass With Your Artificial Turf With Less Hassle]]></title>
-        <id>https://www.youtube.com/watch?v=Iut6QKC_oYc</id>
-        <link href="https://www.youtube.com/watch?v=Iut6QKC_oYc"/>
-        <updated>2022-12-22T21:00:10.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -255,24 +318,6 @@
         <updated>2022-12-22T20:00:07.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 5 Giant Excavators]]></title>
-        <id>https://www.youtube.com/watch?v=N9DLvAJ1oK0</id>
-        <link href="https://www.youtube.com/watch?v=N9DLvAJ1oK0"/>
-        <updated>2022-12-22T19:00:12.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 5 Giant Excavators]]></title>
-        <id>https://www.youtube.com/watch?v=IpXsMFf8AH8</id>
-        <link href="https://www.youtube.com/watch?v=IpXsMFf8AH8"/>
-        <updated>2022-12-22T19:00:11.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -312,30 +357,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Our Robot Overlords Will Still Celebrate Christmas]]></title>
-        <id>https://www.youtube.com/watch?v=-9KRPk1IZ7o</id>
-        <link href="https://www.youtube.com/watch?v=-9KRPk1IZ7o"/>
-        <updated>2022-12-22T13:00:00.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Buying 30 CNC Machines in an Economic Crisis]]></title>
         <id>https://www.youtube.com/watch?v=PxllcBaghsY</id>
         <link href="https://www.youtube.com/watch?v=PxllcBaghsY"/>
         <updated>2022-12-22T12:00:13.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Being on The Roof is Safer Now]]></title>
-        <id>https://www.youtube.com/watch?v=UUdwUy8aezs</id>
-        <link href="https://www.youtube.com/watch?v=UUdwUy8aezs"/>
-        <updated>2022-12-22T09:00:15.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -546,7 +573,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[$2 Aliexpress Knock-Off better than Original?]]></title>
+        <title type="html"><![CDATA[Can the Knock-Off beat the Original? CHT High-Flow Nozzle!]]></title>
         <id>https://www.youtube.com/watch?v=20K4d8jLTq8</id>
         <link href="https://www.youtube.com/watch?v=20K4d8jLTq8"/>
         <updated>2022-12-17T17:01:41.000Z</updated>
@@ -1164,15 +1191,6 @@
         <updated>2022-12-02T13:00:01.000Z</updated>
         <author>
             <name>The Engineering Mindset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Print Farm Visit #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=PmPkGzd4nts</id>
-        <link href="https://www.youtube.com/watch?v=PmPkGzd4nts"/>
-        <updated>2022-12-02T07:47:34.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
         </author>
     </entry>
     <entry>
@@ -2271,15 +2289,6 @@
         <updated>2022-09-28T16:31:17.000Z</updated>
         <author>
             <name>Adam Neely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Psychedelics for the Frontlines: A Police Officer on the Healing Potential of MDMA for PTSD]]></title>
-        <id>https://www.youtube.com/watch?v=ugZemizXHB0</id>
-        <link href="https://www.youtube.com/watch?v=ugZemizXHB0"/>
-        <updated>2022-09-26T12:58:30.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
         </author>
     </entry>
 </feed>
