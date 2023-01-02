@@ -1,15 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-01T00:36:42.839Z</id>
+    <id>urn:2023-01-02T00:32:50.159Z</id>
     <title>osmos::feed</title>
-    <updated>2023-01-01T00:36:42.839Z</updated>
+    <updated>2023-01-02T00:32:50.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Top 5 Kitchen Gadgets Will Make You A Pro]]></title>
-        <id>https://www.youtube.com/watch?v=ofjbmyH8pB8</id>
-        <link href="https://www.youtube.com/watch?v=ofjbmyH8pB8"/>
-        <updated>2022-12-31T23:00:21.000Z</updated>
+        <title type="html"><![CDATA[Τσούτσου Καρλομάγνος]]></title>
+        <id>https://www.youtube.com/watch?v=a_UeveCyiNI</id>
+        <link href="https://www.youtube.com/watch?v=a_UeveCyiNI"/>
+        <updated>2023-01-01T23:10:55.000Z</updated>
+        <author>
+            <name>NinjaCakeAssassin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experience Flight Without A Plane]]></title>
+        <id>https://www.youtube.com/watch?v=q-yzgr7NIPQ</id>
+        <link href="https://www.youtube.com/watch?v=q-yzgr7NIPQ"/>
+        <updated>2023-01-01T23:00:21.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart Curtains In Seconds]]></title>
+        <id>https://www.youtube.com/watch?v=Ws5fBq5kZXA</id>
+        <link href="https://www.youtube.com/watch?v=Ws5fBq5kZXA"/>
+        <updated>2023-01-01T21:00:10.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Fireworks to Artillery: The Evolution of Giant Guns]]></title>
+        <id>https://www.youtube.com/watch?v=eMQPFmpyImg</id>
+        <link href="https://www.youtube.com/watch?v=eMQPFmpyImg"/>
+        <updated>2023-01-01T19:00:12.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Fireworks to Artillery: The Evolution of Giant Guns]]></title>
+        <id>https://www.youtube.com/watch?v=4aPITrObYMA</id>
+        <link href="https://www.youtube.com/watch?v=4aPITrObYMA"/>
+        <updated>2023-01-01T19:00:02.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Car Jobs You Never Knew Existed | Big Business | Insider Business]]></title>
+        <id>https://www.youtube.com/watch?v=DmP4pcMGL1w</id>
+        <link href="https://www.youtube.com/watch?v=DmP4pcMGL1w"/>
+        <updated>2023-01-01T16:00:06.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I asked you to predict 2022's spaceflight milestones...]]></title>
+        <id>https://www.youtube.com/watch?v=zaWytSAw8Kc</id>
+        <link href="https://www.youtube.com/watch?v=zaWytSAw8Kc"/>
+        <updated>2023-01-01T14:30:44.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Touchscreen Android Mirror]]></title>
+        <id>https://www.youtube.com/watch?v=LGT_F6dN754</id>
+        <link href="https://www.youtube.com/watch?v=LGT_F6dN754"/>
+        <updated>2023-01-01T13:00:08.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[End Mill with 65 Inserts DESTROYS a Knockoff Vise #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=86TbFhj_Mxw</id>
+        <link href="https://www.youtube.com/watch?v=86TbFhj_Mxw"/>
+        <updated>2023-01-01T12:00:02.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bayraktar Kızılelma Maiden Flight]]></title>
+        <id>https://www.youtube.com/watch?v=3o0b3gAyV8A</id>
+        <link href="https://www.youtube.com/watch?v=3o0b3gAyV8A"/>
+        <updated>2023-01-01T09:00:02.000Z</updated>
         <author>
             <name>Interesting Engineering</name>
         </author>
@@ -177,30 +258,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nasa’s Orion Spacecraft Captures The Earth Images Behind Rising The Moon]]></title>
-        <id>https://www.youtube.com/watch?v=rbAHE7GPIaM</id>
-        <link href="https://www.youtube.com/watch?v=rbAHE7GPIaM"/>
-        <updated>2022-12-30T13:00:34.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Should Engineers Be Arguing with Machinists Over Run Time?]]></title>
         <id>https://www.youtube.com/watch?v=91CqbI79Mps</id>
         <link href="https://www.youtube.com/watch?v=91CqbI79Mps"/>
         <updated>2022-12-30T12:00:04.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Robots Are Coming]]></title>
-        <id>https://www.youtube.com/watch?v=-CdHVDYcQ_I</id>
-        <link href="https://www.youtube.com/watch?v=-CdHVDYcQ_I"/>
-        <updated>2022-12-30T11:42:17.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -213,48 +276,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Innovation That Will Make Ironing History]]></title>
-        <id>https://www.youtube.com/watch?v=U17JiOEQBWQ</id>
-        <link href="https://www.youtube.com/watch?v=U17JiOEQBWQ"/>
-        <updated>2022-12-30T09:00:25.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Boat Brackets Braces and Supports]]></title>
         <id>https://www.youtube.com/watch?v=pyFAGYQ5c2U</id>
         <link href="https://www.youtube.com/watch?v=pyFAGYQ5c2U"/>
         <updated>2022-12-30T01:06:09.000Z</updated>
         <author>
             <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 5 Biggest Ships in the World]]></title>
-        <id>https://www.youtube.com/watch?v=Nomvhl-zDbc</id>
-        <link href="https://www.youtube.com/watch?v=Nomvhl-zDbc"/>
-        <updated>2022-12-29T21:05:20.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Static Test of a Rocket Engine]]></title>
-        <id>https://www.youtube.com/watch?v=L12KuMisy3k</id>
-        <link href="https://www.youtube.com/watch?v=L12KuMisy3k"/>
-        <updated>2022-12-29T21:00:06.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 5 Biggest Ships in the World]]></title>
-        <id>https://www.youtube.com/watch?v=ZOVZlxtPIuQ</id>
-        <link href="https://www.youtube.com/watch?v=ZOVZlxtPIuQ"/>
-        <updated>2022-12-29T20:00:09.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -609,15 +636,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Buying 30 CNC Machines in an Economic Crisis]]></title>
-        <id>https://www.youtube.com/watch?v=PxllcBaghsY</id>
-        <link href="https://www.youtube.com/watch?v=PxllcBaghsY"/>
-        <updated>2022-12-22T12:00:13.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The DISAPPOINTMENT Of Pokémon's New Region Designs]]></title>
         <id>https://www.youtube.com/watch?v=ttLJ9EqA8Ts</id>
         <link href="https://www.youtube.com/watch?v=ttLJ9EqA8Ts"/>
@@ -723,15 +741,6 @@
         <updated>2022-12-19T21:10:19.000Z</updated>
         <author>
             <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How mezcal is produced in Mexico. #mezcal #Mexico #agave #agriculture #insiderbusiness]]></title>
-        <id>https://www.youtube.com/watch?v=E7y8gFu8VXg</id>
-        <link href="https://www.youtube.com/watch?v=E7y8gFu8VXg"/>
-        <updated>2022-12-19T19:00:04.000Z</updated>
-        <author>
-            <name>Insider Business</name>
         </author>
     </entry>
     <entry>
