@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-04T00:31:50.768Z</id>
+    <id>urn:2023-01-05T00:34:53.138Z</id>
     <title>osmos::feed</title>
-    <updated>2023-01-04T00:31:50.768Z</updated>
+    <updated>2023-01-05T00:34:53.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Birthday Stars]]></title>
+        <id>https://www.youtube.com/watch?v=AY3zIymVhQQ</id>
+        <link href="https://www.youtube.com/watch?v=AY3zIymVhQQ"/>
+        <updated>2023-01-04T22:04:54.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SLICER HACK PT 2 - Shape Gallery #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=UHBLttwh-CM</id>
+        <link href="https://www.youtube.com/watch?v=UHBLttwh-CM"/>
+        <updated>2023-01-04T21:29:58.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jumping And Rolling Robot]]></title>
+        <id>https://www.youtube.com/watch?v=r_XvlfY7QeE</id>
+        <link href="https://www.youtube.com/watch?v=r_XvlfY7QeE"/>
+        <updated>2023-01-04T21:00:15.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why China is Against THAAD?]]></title>
+        <id>https://www.youtube.com/watch?v=gbRbkKLG-cA</id>
+        <link href="https://www.youtube.com/watch?v=gbRbkKLG-cA"/>
+        <updated>2023-01-04T19:00:13.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why China is Against THAAD?]]></title>
+        <id>https://www.youtube.com/watch?v=_h6uPDmTak8</id>
+        <link href="https://www.youtube.com/watch?v=_h6uPDmTak8"/>
+        <updated>2023-01-04T19:00:10.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How coconuts are turned into fuel #deforestation #coconutwaste #cooking #zerowaste #recycling]]></title>
+        <id>https://www.youtube.com/watch?v=5ovgi3D7XOQ</id>
+        <link href="https://www.youtube.com/watch?v=5ovgi3D7XOQ"/>
+        <updated>2023-01-04T19:00:02.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UFO Rocking Chair With Full Carbon Fiber Chassis]]></title>
+        <id>https://www.youtube.com/watch?v=2HHAgk_uyJ4</id>
+        <link href="https://www.youtube.com/watch?v=2HHAgk_uyJ4"/>
+        <updated>2023-01-04T13:00:02.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesmerizing Machining Toolpath #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=1pcvIH_Ei5U</id>
+        <link href="https://www.youtube.com/watch?v=1pcvIH_Ei5U"/>
+        <updated>2023-01-04T12:00:01.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moore's Law, exponential growth, and extrapolation!]]></title>
+        <id>https://www.youtube.com/watch?v=iu-DgigiyeA</id>
+        <link href="https://www.youtube.com/watch?v=iu-DgigiyeA"/>
+        <updated>2023-01-04T11:00:22.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Functional Harverter For Small Scale Farming]]></title>
+        <id>https://www.youtube.com/watch?v=w5JOOIXWpgk</id>
+        <link href="https://www.youtube.com/watch?v=w5JOOIXWpgk"/>
+        <updated>2023-01-04T09:00:34.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Better Adhesion with a Cool Slicer Trick! #shorts]]></title>
         <id>https://www.youtube.com/watch?v=EQQE0BCBv5U</id>
@@ -150,57 +240,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Wire Bender For All Specific Needs]]></title>
-        <id>https://www.youtube.com/watch?v=Ukiz6asFoTs</id>
-        <link href="https://www.youtube.com/watch?v=Ukiz6asFoTs"/>
-        <updated>2023-01-02T09:00:20.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Τσούτσου Καρλομάγνος]]></title>
         <id>https://www.youtube.com/watch?v=a_UeveCyiNI</id>
         <link href="https://www.youtube.com/watch?v=a_UeveCyiNI"/>
         <updated>2023-01-01T23:10:55.000Z</updated>
         <author>
             <name>NinjaCakeAssassin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experience Flight Without A Plane]]></title>
-        <id>https://www.youtube.com/watch?v=q-yzgr7NIPQ</id>
-        <link href="https://www.youtube.com/watch?v=q-yzgr7NIPQ"/>
-        <updated>2023-01-01T23:00:21.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Curtains In Seconds]]></title>
-        <id>https://www.youtube.com/watch?v=Ws5fBq5kZXA</id>
-        <link href="https://www.youtube.com/watch?v=Ws5fBq5kZXA"/>
-        <updated>2023-01-01T21:00:10.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Fireworks to Artillery: The Evolution of Giant Guns]]></title>
-        <id>https://www.youtube.com/watch?v=eMQPFmpyImg</id>
-        <link href="https://www.youtube.com/watch?v=eMQPFmpyImg"/>
-        <updated>2023-01-01T19:00:12.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Fireworks to Artillery: The Evolution of Giant Guns]]></title>
-        <id>https://www.youtube.com/watch?v=4aPITrObYMA</id>
-        <link href="https://www.youtube.com/watch?v=4aPITrObYMA"/>
-        <updated>2023-01-01T19:00:02.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -546,15 +591,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EXTREME Cuts! Top 5 #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=2OQwGeCmQHI</id>
-        <link href="https://www.youtube.com/watch?v=2OQwGeCmQHI"/>
-        <updated>2022-12-24T14:00:02.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Goat Problem - Numberphile]]></title>
         <id>https://www.youtube.com/watch?v=ZdQFN2XKeKI</id>
         <link href="https://www.youtube.com/watch?v=ZdQFN2XKeKI"/>
@@ -582,7 +618,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Bonsai Scissors Are Forged Using Sword-Making Techniques In Japan | Still Standing]]></title>
+        <title type="html"><![CDATA[Why Bonsai Scissors Can Cost $26,000 | Still Standing | Insider Business]]></title>
         <id>https://www.youtube.com/watch?v=KUK5AlinXEY</id>
         <link href="https://www.youtube.com/watch?v=KUK5AlinXEY"/>
         <updated>2022-12-23T16:00:19.000Z</updated>
@@ -750,15 +786,6 @@
         <updated>2022-12-20T13:00:21.000Z</updated>
         <author>
             <name>The Engineering Mindset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Bellerby Globes Are So Expensive | So Expensive | Insider Business]]></title>
-        <id>https://www.youtube.com/watch?v=ymjWeQhic0s</id>
-        <link href="https://www.youtube.com/watch?v=ymjWeQhic0s"/>
-        <updated>2022-12-19T22:00:29.000Z</updated>
-        <author>
-            <name>Insider Business</name>
         </author>
     </entry>
     <entry>
@@ -1239,15 +1266,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D Printing ISOTROPIC MOLDS, WOOD & STONE with Massivit 3D!]]></title>
-        <id>https://www.youtube.com/watch?v=xTnWrKvla7g</id>
-        <link href="https://www.youtube.com/watch?v=xTnWrKvla7g"/>
-        <updated>2022-12-06T14:00:33.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why is a ground wire used?]]></title>
         <id>https://www.youtube.com/watch?v=ehzT_rQEmTM</id>
         <link href="https://www.youtube.com/watch?v=ehzT_rQEmTM"/>
@@ -1680,30 +1698,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linear Systems of Differential Equations with Forcing: Convolution and the Dirac Delta Function]]></title>
-        <id>https://www.youtube.com/watch?v=q1phVuNCuf0</id>
-        <link href="https://www.youtube.com/watch?v=q1phVuNCuf0"/>
-        <updated>2022-11-18T11:00:40.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Dreaming Mind: Waking the Mysteries of Sleep]]></title>
         <id>https://www.youtube.com/watch?v=wvvovktKKa4</id>
         <link href="https://www.youtube.com/watch?v=wvvovktKKa4"/>
         <updated>2022-11-17T20:00:08.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Selfie Waves]]></title>
-        <id>https://www.youtube.com/watch?v=mMaBVfIedFw</id>
-        <link href="https://www.youtube.com/watch?v=mMaBVfIedFw"/>
-        <updated>2022-11-17T15:01:24.000Z</updated>
-        <author>
-            <name>Vsauce</name>
         </author>
     </entry>
     <entry>
@@ -2253,15 +2253,6 @@
         <updated>2022-10-07T14:00:27.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Ingredient Low Carb Bread]]></title>
-        <id>https://www.youtube.com/watch?v=uC__J9M-l9s</id>
-        <link href="https://www.youtube.com/watch?v=uC__J9M-l9s"/>
-        <updated>2022-10-06T17:06:52.000Z</updated>
-        <author>
-            <name>You Suck At Cooking</name>
         </author>
     </entry>
 </feed>
