@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-15T00:36:12.166Z</id>
+    <id>urn:2023-01-16T00:33:30.797Z</id>
     <title>osmos::feed</title>
-    <updated>2023-01-15T00:36:12.166Z</updated>
+    <updated>2023-01-16T00:33:30.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Lifesaving Chest Compression Device]]></title>
+        <id>https://www.youtube.com/watch?v=vbdXlgSCkKQ</id>
+        <link href="https://www.youtube.com/watch?v=vbdXlgSCkKQ"/>
+        <updated>2023-01-15T21:00:26.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Thompson Gun: From Gangland Weapon to Military Icon]]></title>
+        <id>https://www.youtube.com/watch?v=jXGeLVyvYGk</id>
+        <link href="https://www.youtube.com/watch?v=jXGeLVyvYGk"/>
+        <updated>2023-01-15T19:00:14.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Thompson Gun: From Gangland Weapon to Military Icon]]></title>
+        <id>https://www.youtube.com/watch?v=KBjya12-koQ</id>
+        <link href="https://www.youtube.com/watch?v=KBjya12-koQ"/>
+        <updated>2023-01-15T19:00:12.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raising Sails - Part 8 - First Sail]]></title>
+        <id>https://www.youtube.com/watch?v=K9VTZYFmc4Q</id>
+        <link href="https://www.youtube.com/watch?v=K9VTZYFmc4Q"/>
+        <updated>2023-01-15T14:00:44.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ramen Counter Inspired By Nissan e-4ORCE]]></title>
+        <id>https://www.youtube.com/watch?v=GwvMw1-SwDw</id>
+        <link href="https://www.youtube.com/watch?v=GwvMw1-SwDw"/>
+        <updated>2023-01-15T13:00:08.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EXPERT Surface Grinding Techniques #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=wdVCBsYSLAU</id>
+        <link href="https://www.youtube.com/watch?v=wdVCBsYSLAU"/>
+        <updated>2023-01-15T12:00:36.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wave Delineator Makes Riding a Bike Safer for Everybody]]></title>
+        <id>https://www.youtube.com/watch?v=RaToO6OXjZg</id>
+        <link href="https://www.youtube.com/watch?v=RaToO6OXjZg"/>
+        <updated>2023-01-15T09:18:20.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VORON - SORT OF 🤔 #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=Ct2RVp6Oyh4</id>
+        <link href="https://www.youtube.com/watch?v=Ct2RVp6Oyh4"/>
+        <updated>2023-01-15T07:20:59.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Environmental Monitoring To Endangered Species]]></title>
         <id>https://www.youtube.com/watch?v=J2IExgmxPDA</id>
@@ -93,15 +165,6 @@
         <updated>2023-01-13T21:00:03.000Z</updated>
         <author>
             <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch SpaceX's Falcon Heavy Launch a Top Secret Satellite! #USSF67]]></title>
-        <id>https://www.youtube.com/watch?v=qsAr_4MEmK4</id>
-        <link href="https://www.youtube.com/watch?v=qsAr_4MEmK4"/>
-        <updated>2023-01-13T20:49:45.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
         </author>
     </entry>
     <entry>
@@ -267,30 +330,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Process Of Wood Bending]]></title>
-        <id>https://www.youtube.com/watch?v=Ywe3ayzXPf8</id>
-        <link href="https://www.youtube.com/watch?v=Ywe3ayzXPf8"/>
-        <updated>2023-01-12T13:00:30.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MASTER The Art Of Machining TITANIUM]]></title>
         <id>https://www.youtube.com/watch?v=aUhHaIkQGX4</id>
         <link href="https://www.youtube.com/watch?v=aUhHaIkQGX4"/>
         <updated>2023-01-12T12:00:00.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safety First Solutions With Marine Evacuation Systems]]></title>
-        <id>https://www.youtube.com/watch?v=QG1DN3jvvmQ</id>
-        <link href="https://www.youtube.com/watch?v=QG1DN3jvvmQ"/>
-        <updated>2023-01-12T09:00:14.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -318,33 +363,6 @@
         <updated>2023-01-11T19:29:00.000Z</updated>
         <author>
             <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ghostriders in the Sky - How Powerful is the New AC-130J Ghostrider]]></title>
-        <id>https://www.youtube.com/watch?v=l-vgG61dTMU</id>
-        <link href="https://www.youtube.com/watch?v=l-vgG61dTMU"/>
-        <updated>2023-01-11T19:00:28.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Powerful is the New AC-130J Ghostrider]]></title>
-        <id>https://www.youtube.com/watch?v=EW2GKZ652WY</id>
-        <link href="https://www.youtube.com/watch?v=EW2GKZ652WY"/>
-        <updated>2023-01-11T18:41:46.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Powder Coating Dipping Within Seconds]]></title>
-        <id>https://www.youtube.com/watch?v=B_E4ZxxiQX8</id>
-        <link href="https://www.youtube.com/watch?v=B_E4ZxxiQX8"/>
-        <updated>2023-01-11T13:00:06.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -615,15 +633,6 @@
         <updated>2023-01-05T18:05:08.000Z</updated>
         <author>
             <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Save TIME & MONEY! Precise Tool Measuring #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=_m7zcv1Bi_U</id>
-        <link href="https://www.youtube.com/watch?v=_m7zcv1Bi_U"/>
-        <updated>2023-01-05T12:00:31.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1212,15 +1221,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Will This 3D Printed Hammer Survive?]]></title>
-        <id>https://www.youtube.com/watch?v=5NNTlfhph3U</id>
-        <link href="https://www.youtube.com/watch?v=5NNTlfhph3U"/>
-        <updated>2022-12-13T14:00:03.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Starter Motors, what's inside?]]></title>
         <id>https://www.youtube.com/watch?v=gSz4Y8RV164</id>
         <link href="https://www.youtube.com/watch?v=gSz4Y8RV164"/>
@@ -1632,15 +1632,6 @@
         <updated>2022-11-26T18:39:44.000Z</updated>
         <author>
             <name>CNC Kitchen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mississippi River into New Orleans on a Sailboat]]></title>
-        <id>https://www.youtube.com/watch?v=h7sKNMYPksc</id>
-        <link href="https://www.youtube.com/watch?v=h7sKNMYPksc"/>
-        <updated>2022-11-26T15:11:11.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
         </author>
     </entry>
     <entry>
