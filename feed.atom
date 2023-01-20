@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-19T00:34:32.039Z</id>
+    <id>urn:2023-01-20T00:34:19.513Z</id>
     <title>osmos::feed</title>
-    <updated>2023-01-19T00:34:32.039Z</updated>
+    <updated>2023-01-20T00:34:19.513Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing Fire Extinguishing Ball]]></title>
+        <id>https://www.youtube.com/watch?v=aCp7II-lQd8</id>
+        <link href="https://www.youtube.com/watch?v=aCp7II-lQd8"/>
+        <updated>2023-01-19T21:00:01.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nautilus Box! Print in place #3dprinting]]></title>
+        <id>https://www.youtube.com/watch?v=s3ML5H8dzJk</id>
+        <link href="https://www.youtube.com/watch?v=s3ML5H8dzJk"/>
+        <updated>2023-01-19T19:33:39.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World's Top 5 Biggest Land Based Cranes]]></title>
+        <id>https://www.youtube.com/watch?v=i8okW7QJDlQ</id>
+        <link href="https://www.youtube.com/watch?v=i8okW7QJDlQ"/>
+        <updated>2023-01-19T19:00:16.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World's Top 5 Biggest Land Based Cranes]]></title>
+        <id>https://www.youtube.com/watch?v=Gbcbh7qw-6A</id>
+        <link href="https://www.youtube.com/watch?v=Gbcbh7qw-6A"/>
+        <updated>2023-01-19T19:00:06.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manufacturing for Microscopic Viewing #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=EmtW0mG4iZ8</id>
+        <link href="https://www.youtube.com/watch?v=EmtW0mG4iZ8"/>
+        <updated>2023-01-19T15:32:36.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Expanding Circular Dining Tables]]></title>
+        <id>https://www.youtube.com/watch?v=JXNQglWwsJw</id>
+        <link href="https://www.youtube.com/watch?v=JXNQglWwsJw"/>
+        <updated>2023-01-19T13:00:16.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atlas Is Hands-On Training With His New Set Of Skill]]></title>
+        <id>https://www.youtube.com/watch?v=NjU09wF_khk</id>
+        <link href="https://www.youtube.com/watch?v=NjU09wF_khk"/>
+        <updated>2023-01-19T12:17:33.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machinist Pushes Tools to their BREAKING Point]]></title>
+        <id>https://www.youtube.com/watch?v=tte3teC5Xtg</id>
+        <link href="https://www.youtube.com/watch?v=tte3teC5Xtg"/>
+        <updated>2023-01-19T12:00:37.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Device Is A Lifesaver When You Are Stuck In A Traffic Jam With A Flat Tire]]></title>
+        <id>https://www.youtube.com/watch?v=K3Ve0VSs51Q</id>
+        <link href="https://www.youtube.com/watch?v=K3Ve0VSs51Q"/>
+        <updated>2023-01-19T09:00:16.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sundials don't mess around]]></title>
         <id>https://www.youtube.com/watch?v=YFT6Ym1oO28</id>
@@ -78,7 +159,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Extra Credit: Greenscreen Collaging with Caroline Garcia]]></title>
+        <title type="html"><![CDATA[Extra Credit: Green Screen Collaging with Caroline Garcia]]></title>
         <id>https://www.youtube.com/watch?v=SH1JQRusTp4</id>
         <link href="https://www.youtube.com/watch?v=SH1JQRusTp4"/>
         <updated>2023-01-18T15:00:15.000Z</updated>
@@ -231,33 +312,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Don't We Still Have PASIV Device From Inception?]]></title>
-        <id>https://www.youtube.com/watch?v=6hQ0bKygxGw</id>
-        <link href="https://www.youtube.com/watch?v=6hQ0bKygxGw"/>
-        <updated>2023-01-16T19:00:02.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Good Reason Why PASIV Device Shouldn't Be Real]]></title>
-        <id>https://www.youtube.com/watch?v=1qna9pFywys</id>
-        <link href="https://www.youtube.com/watch?v=1qna9pFywys"/>
-        <updated>2023-01-16T19:00:01.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swiss Army Knife Of Construction]]></title>
-        <id>https://www.youtube.com/watch?v=lDP2211Cqr4</id>
-        <link href="https://www.youtube.com/watch?v=lDP2211Cqr4"/>
-        <updated>2023-01-16T13:00:22.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Using Tool Crib to Assemble a MASSIVE Face Mill #shorts]]></title>
         <id>https://www.youtube.com/watch?v=0f0o3tLENW8</id>
         <link href="https://www.youtube.com/watch?v=0f0o3tLENW8"/>
@@ -276,15 +330,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Is Humanoid Robot Capable Of Working Heavy Materials]]></title>
-        <id>https://www.youtube.com/watch?v=C9b7M2uik6s</id>
-        <link href="https://www.youtube.com/watch?v=C9b7M2uik6s"/>
-        <updated>2023-01-16T09:00:04.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Watch SpaceX's Falcon Heavy Launch a Top Secret Satellite! #USSF67]]></title>
         <id>https://www.youtube.com/watch?v=qsAr_4MEmK4</id>
         <link href="https://www.youtube.com/watch?v=qsAr_4MEmK4"/>
@@ -294,39 +339,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Lifesaving Chest Compression Device]]></title>
-        <id>https://www.youtube.com/watch?v=vbdXlgSCkKQ</id>
-        <link href="https://www.youtube.com/watch?v=vbdXlgSCkKQ"/>
-        <updated>2023-01-15T21:00:26.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Thompson Gun: From Gangland Weapon to Military Icon]]></title>
-        <id>https://www.youtube.com/watch?v=jXGeLVyvYGk</id>
-        <link href="https://www.youtube.com/watch?v=jXGeLVyvYGk"/>
-        <updated>2023-01-15T19:00:14.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Raising Sails - Part 8 - First Sail]]></title>
         <id>https://www.youtube.com/watch?v=K9VTZYFmc4Q</id>
         <link href="https://www.youtube.com/watch?v=K9VTZYFmc4Q"/>
         <updated>2023-01-15T14:00:44.000Z</updated>
         <author>
             <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EXPERT Surface Grinding Techniques #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=wdVCBsYSLAU</id>
-        <link href="https://www.youtube.com/watch?v=wdVCBsYSLAU"/>
-        <updated>2023-01-15T12:00:36.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -627,15 +645,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Manufacturing 50 MILLION Micrometers! #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=nj7hAZpm9_U</id>
-        <link href="https://www.youtube.com/watch?v=nj7hAZpm9_U"/>
-        <updated>2023-01-09T12:00:24.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Solving PDEs with the Laplace Transform: The Heat Equation]]></title>
         <id>https://www.youtube.com/watch?v=xuBJFSh6Bu4</id>
         <link href="https://www.youtube.com/watch?v=xuBJFSh6Bu4"/>
@@ -651,15 +660,6 @@
         <updated>2023-01-08T12:11:52.000Z</updated>
         <author>
             <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Shell Mill has 60 CUTTING EDGES #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=iZIaIZ7rfpQ</id>
-        <link href="https://www.youtube.com/watch?v=iZIaIZ7rfpQ"/>
-        <updated>2023-01-08T12:00:24.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1119,15 +1119,6 @@
         <updated>2022-12-19T17:12:19.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Printing and Chess: A Match Made in Heaven with Nexa3D's Giant 3D Printed Chess Set]]></title>
-        <id>https://www.youtube.com/watch?v=6CzZVee_WzY</id>
-        <link href="https://www.youtube.com/watch?v=6CzZVee_WzY"/>
-        <updated>2022-12-19T14:00:04.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
         </author>
     </entry>
     <entry>
@@ -2244,24 +2235,6 @@
         <updated>2022-10-24T22:55:56.000Z</updated>
         <author>
             <name>Physics Girl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I made a realistic Shiny Gyarados]]></title>
-        <id>https://www.youtube.com/watch?v=yRX5FFZ3f2w</id>
-        <link href="https://www.youtube.com/watch?v=yRX5FFZ3f2w"/>
-        <updated>2022-10-21T15:00:52.000Z</updated>
-        <author>
-            <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crispy Smashed Potatoes - You Suck at Cooking (episode 148)]]></title>
-        <id>https://www.youtube.com/watch?v=KaFdIY3106Q</id>
-        <link href="https://www.youtube.com/watch?v=KaFdIY3106Q"/>
-        <updated>2022-10-21T13:00:12.000Z</updated>
-        <author>
-            <name>You Suck At Cooking</name>
         </author>
     </entry>
 </feed>
