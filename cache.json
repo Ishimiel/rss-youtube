@@ -37,7 +37,18 @@
       "title": "Reducible",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK8XIGR5kRidIw2fWqwyHRA",
       "siteUrl": "https://www.youtube.com/channel/UCK8XIGR5kRidIw2fWqwyHRA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=yYEMxqreA10",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yYEMxqreA10",
+          "publishedOn": "2023-01-23T04:13:38.000Z",
+          "wordCount": null,
+          "title": "The Discrete Fourier Transform: Most Important Algorithm Ever?",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "3Blue1Brown",
@@ -677,6 +688,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCnkp4xDOwqqJD7sSM3xdUiQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_J_nXEI72gM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_J_nXEI72gM",
+          "publishedOn": "2023-01-23T17:40:37.000Z",
+          "wordCount": null,
+          "title": "Is it cheating to write out your guitar solos?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=HieSFxyBy9Q",
           "author": null,
           "description": "",
@@ -1055,16 +1076,6 @@
           "wordCount": null,
           "title": "Math for Game Devs [2022, part 3] • Matrix4x4 & Cross Product",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0bUJyuwXV0Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0bUJyuwXV0Y",
-          "publishedOn": "2022-10-26T10:12:00.000Z",
-          "wordCount": null,
-          "title": "Math for Game Devs [2022, part 2] solutions for assignments 1-3",
-          "imageUrl": null
         }
       ]
     },
@@ -1073,6 +1084,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEuiOszNd6msGgqsD0f9YAQ",
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=VKxygJR8sj8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VKxygJR8sj8",
+          "publishedOn": "2023-01-23T21:00:25.000Z",
+          "wordCount": null,
+          "title": "The Future of Advertising: Holograms",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7206YHXA950",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7206YHXA950",
+          "publishedOn": "2023-01-23T09:00:04.000Z",
+          "wordCount": null,
+          "title": "No Task is Too Tough For This Slope Mower",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=OECuhH6L3rs",
           "author": null,
@@ -1201,26 +1232,6 @@
           "publishedOn": "2023-01-20T19:00:19.000Z",
           "wordCount": null,
           "title": "The Empire State Building: From Office Building to Pop Culture Icon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nRI3Bt4tPIA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nRI3Bt4tPIA",
-          "publishedOn": "2023-01-20T13:00:23.000Z",
-          "wordCount": null,
-          "title": "The Drone That Inspect Confined Spaces",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yeeen8rYX2c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yeeen8rYX2c",
-          "publishedOn": "2023-01-20T11:14:02.000Z",
-          "wordCount": null,
-          "title": "Largest Ever Hydrogen-Electric Aircraft",
           "imageUrl": null
         }
       ]
@@ -1435,16 +1446,6 @@
           "publishedOn": "2022-11-04T18:31:42.000Z",
           "wordCount": null,
           "title": "Paterson Primes (with 3Blue1Brown) - Numberphile",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nQR1NY03zIA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nQR1NY03zIA",
-          "publishedOn": "2022-10-26T12:22:48.000Z",
-          "wordCount": null,
-          "title": "The Truth About Fibs - Numberphile",
           "imageUrl": null
         }
       ]
@@ -1702,7 +1703,7 @@
           "link": "https://www.youtube.com/watch?v=UkeGQotnsDU",
           "publishedOn": "2023-01-22T14:59:32.000Z",
           "wordCount": null,
-          "title": "Why Fuel Injectors are AWESOME (28,000 fps Slow Mo) Part 1 - Smarter Every Day 281",
+          "title": "I Shot Exploding Fuel Injectors in Slow Motion (28,000 fps) - Smarter Every Day 281",
           "imageUrl": null
         },
         {
@@ -1917,6 +1918,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vS0TuIPoeBs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vS0TuIPoeBs",
+          "publishedOn": "2023-01-23T16:47:09.000Z",
+          "wordCount": null,
+          "title": "The Stickiest Non-Sticky Substance",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Tmy7VYhZEKQ",
           "author": null,
           "description": "",
@@ -2033,6 +2044,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "siteUrl": "https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=iZK3zEVGGWo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iZK3zEVGGWo",
+          "publishedOn": "2023-01-23T22:28:30.000Z",
+          "wordCount": null,
+          "title": "How Old Is The Water You Drink?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=0mb_0GL35co",
           "author": null,
@@ -2172,16 +2193,6 @@
           "wordCount": null,
           "title": "The most famous pulsar in music history",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4s95ejalx7M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4s95ejalx7M",
-          "publishedOn": "2022-12-15T21:23:01.000Z",
-          "wordCount": null,
-          "title": "EXPERIMENTING",
-          "imageUrl": null
         }
       ]
     },
@@ -2274,6 +2285,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=o2-Y-z1KZFk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=o2-Y-z1KZFk",
+          "publishedOn": "2023-01-23T12:00:35.000Z",
+          "wordCount": null,
+          "title": "Machinist Attempts High Speed Cuts with NO COOLANT #shorts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=0NBKuBeoFRI",
           "author": null,
@@ -2403,16 +2424,6 @@
           "wordCount": null,
           "title": "A.I. Designs Rocket Engine Part for Metal 3D Printer #shorts",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PnLs1gs2vbE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PnLs1gs2vbE",
-          "publishedOn": "2023-01-12T14:15:02.000Z",
-          "wordCount": null,
-          "title": "DIY Crucial Swiss Part Ejector #shorts",
-          "imageUrl": null
         }
       ]
     },
@@ -2421,6 +2432,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=IwVljSFtKxU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IwVljSFtKxU",
+          "publishedOn": "2023-01-23T19:15:00.000Z",
+          "wordCount": null,
+          "title": "There’s a reason why white truffles are so pricey. #truffles #trufflehunting #Italy",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=iBNySB2jpVg",
           "author": null,
@@ -2438,7 +2459,7 @@
           "link": "https://www.youtube.com/watch?v=IVXqisH6VeM",
           "publishedOn": "2023-01-21T16:00:16.000Z",
           "wordCount": null,
-          "title": "Why Tyrian Purple Is So Expensive | So Expensive | Insider Business",
+          "title": "Why Tyrian Purple Dye Is So Expensive | So Expensive | Insider Business",
           "imageUrl": null
         },
         {
@@ -2478,7 +2499,7 @@
           "link": "https://www.youtube.com/watch?v=8e0G51TYHy8",
           "publishedOn": "2023-01-18T17:30:02.000Z",
           "wordCount": null,
-          "title": "How Five Of Egypt’s Ancient Crafts Survived For Centuries | Still Standing | Insider Business",
+          "title": "Meet The Five Egyptian Artisans Keeping Their Country’s Ancient Crafts | Still Standing",
           "imageUrl": null
         },
         {
@@ -2559,16 +2580,6 @@
           "publishedOn": "2023-01-12T19:01:05.000Z",
           "wordCount": null,
           "title": "How Olive Oil Soap Is Made #OliveOil #Soap #HowItsMade",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_vEVGt8zUao",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_vEVGt8zUao",
-          "publishedOn": "2023-01-12T16:00:18.000Z",
-          "wordCount": null,
-          "title": "A Sniper, Sailor, And Army Cook Reveal The Essential Items They Use In Combat | Loadout",
           "imageUrl": null
         }
       ]
@@ -2823,16 +2834,6 @@
           "publishedOn": "2022-10-28T16:09:08.000Z",
           "wordCount": null,
           "title": "Beware of Reversed Videos #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-8qp4UjLANY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-8qp4UjLANY",
-          "publishedOn": "2022-10-25T16:00:14.000Z",
-          "wordCount": null,
-          "title": "Slow-Mo Experiment Disasters, ElectroBOOM VS The Slow Mo Guys",
           "imageUrl": null
         }
       ]
