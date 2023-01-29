@@ -1,15 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-28T00:33:55.376Z</id>
+    <id>urn:2023-01-29T00:37:56.409Z</id>
     <title>osmos::feed</title>
-    <updated>2023-01-28T00:33:55.376Z</updated>
+    <updated>2023-01-29T00:37:56.409Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Robotic Automation For Restaurants]]></title>
+        <id>https://www.youtube.com/watch?v=bGH5KRBZEVk</id>
+        <link href="https://www.youtube.com/watch?v=bGH5KRBZEVk"/>
+        <updated>2023-01-28T21:00:18.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Would a Nuclear Winter Play Out?]]></title>
+        <id>https://www.youtube.com/watch?v=c9Hd80JF8PE</id>
+        <link href="https://www.youtube.com/watch?v=c9Hd80JF8PE"/>
+        <updated>2023-01-28T19:00:25.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Could Humanity Survive a Nuclear Winter?]]></title>
+        <id>https://www.youtube.com/watch?v=haOgojZ1vq8</id>
+        <link href="https://www.youtube.com/watch?v=haOgojZ1vq8"/>
+        <updated>2023-01-28T19:00:16.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The stickiest *non-sticky* material]]></title>
+        <id>https://www.youtube.com/watch?v=rmxh8Nty_eo</id>
+        <link href="https://www.youtube.com/watch?v=rmxh8Nty_eo"/>
+        <updated>2023-01-28T16:22:59.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Insane Engineering of the F-35B]]></title>
+        <id>https://www.youtube.com/watch?v=1lCOgFPtaZ4</id>
+        <link href="https://www.youtube.com/watch?v=1lCOgFPtaZ4"/>
+        <updated>2023-01-28T15:00:02.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printing INSANE Custom Fixture to Hold Multiple Parts at ONCE! #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=3omc3aWZxkM</id>
+        <link href="https://www.youtube.com/watch?v=3omc3aWZxkM"/>
+        <updated>2023-01-28T14:00:02.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doctor Prescribes, Drone Brings To You]]></title>
+        <id>https://www.youtube.com/watch?v=KQ9gxVMtBp8</id>
+        <link href="https://www.youtube.com/watch?v=KQ9gxVMtBp8"/>
+        <updated>2023-01-28T13:00:13.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make HUGE MONEY in the Machining Industry During a RECESSION]]></title>
+        <id>https://www.youtube.com/watch?v=PhSLrzpxzZs</id>
+        <link href="https://www.youtube.com/watch?v=PhSLrzpxzZs"/>
+        <updated>2023-01-28T12:00:13.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet The Meat Of The Future]]></title>
+        <id>https://www.youtube.com/watch?v=lmv4cd9mwag</id>
+        <link href="https://www.youtube.com/watch?v=lmv4cd9mwag"/>
+        <updated>2023-01-28T09:00:33.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What's a WUXN? WXR Unboxing & First Use LIVE!]]></title>
         <id>https://www.youtube.com/watch?v=vdzRvYSe66A</id>
         <link href="https://www.youtube.com/watch?v=vdzRvYSe66A"/>
-        <updated>2023-01-27T22:10:40.000Z</updated>
+        <updated>2023-01-28T01:19:36.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
         </author>
@@ -258,24 +339,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AT-4 Is Really Effective Against The Russian Armour]]></title>
-        <id>https://www.youtube.com/watch?v=sjlwbvLGB8s</id>
-        <link href="https://www.youtube.com/watch?v=sjlwbvLGB8s"/>
-        <updated>2023-01-25T19:00:31.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AT-4 is Really Effective Against the Russian Armour]]></title>
-        <id>https://www.youtube.com/watch?v=zSOc4hRcXUE</id>
-        <link href="https://www.youtube.com/watch?v=zSOc4hRcXUE"/>
-        <updated>2023-01-25T19:00:24.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Raising Sails - Part 9 - Foresail Modifications]]></title>
         <id>https://www.youtube.com/watch?v=kWESPMMP5YM</id>
         <link href="https://www.youtube.com/watch?v=kWESPMMP5YM"/>
@@ -285,30 +348,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Autonomous Food Experience]]></title>
-        <id>https://www.youtube.com/watch?v=XAGBMp2dprA</id>
-        <link href="https://www.youtube.com/watch?v=XAGBMp2dprA"/>
-        <updated>2023-01-25T13:00:22.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Machinist uses Aluminum Oxide Wheel to Grind INCONEL #shorts]]></title>
         <id>https://www.youtube.com/watch?v=gGyDMfEu-bs</id>
         <link href="https://www.youtube.com/watch?v=gGyDMfEu-bs"/>
         <updated>2023-01-25T12:00:23.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boxes on Their Way!]]></title>
-        <id>https://www.youtube.com/watch?v=olToSx6DJXU</id>
-        <link href="https://www.youtube.com/watch?v=olToSx6DJXU"/>
-        <updated>2023-01-25T09:00:24.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -345,15 +390,6 @@
         <updated>2023-01-24T20:00:13.000Z</updated>
         <author>
             <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is It Possible To Experience AI Without VR Equipment?]]></title>
-        <id>https://www.youtube.com/watch?v=gU4rFcF49as</id>
-        <link href="https://www.youtube.com/watch?v=gU4rFcF49as"/>
-        <updated>2023-01-24T19:00:28.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -420,7 +456,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Stickiest Non-Sticky Substance]]></title>
+        <title type="html"><![CDATA[The Stickiest Non-Sticky Material]]></title>
         <id>https://www.youtube.com/watch?v=vS0TuIPoeBs</id>
         <link href="https://www.youtube.com/watch?v=vS0TuIPoeBs"/>
         <updated>2023-01-23T16:47:09.000Z</updated>
@@ -699,30 +735,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Swiss Machining is Making Life EASY #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=XM7_xL_KKMc</id>
-        <link href="https://www.youtube.com/watch?v=XM7_xL_KKMc"/>
-        <updated>2023-01-18T12:00:19.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DICE DRAGON!! 🤩]]></title>
         <id>https://www.youtube.com/watch?v=7cjE9PXYHUM</id>
         <link href="https://www.youtube.com/watch?v=7cjE9PXYHUM"/>
         <updated>2023-01-18T04:51:42.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metal 3D Printing CUSTOM Jaws for a Difficult Part #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=GRvFG3ltodM</id>
-        <link href="https://www.youtube.com/watch?v=GRvFG3ltodM"/>
-        <updated>2023-01-17T14:00:08.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -879,7 +897,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to make professional math visuals without coding?]]></title>
+        <title type="html"><![CDATA[I use PowerPoint to edit all* videos (and get 100k subs!)]]></title>
         <id>https://www.youtube.com/watch?v=hRTBVrEkb6A</id>
         <link href="https://www.youtube.com/watch?v=hRTBVrEkb6A"/>
         <updated>2023-01-10T15:00:22.000Z</updated>
@@ -1977,7 +1995,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The world depends on a strange collection of items. They're not cheap]]></title>
+        <title type="html"><![CDATA[The world depends on a collection of strange items. They're not cheap]]></title>
         <id>https://www.youtube.com/watch?v=esQyYGezS7c</id>
         <link href="https://www.youtube.com/watch?v=esQyYGezS7c"/>
         <updated>2022-11-19T14:00:24.000Z</updated>
@@ -2298,15 +2316,6 @@
         <updated>2022-10-31T14:31:21.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything About Irrigation Pivots (Farmers are Geniuses) - Smarter Every Day 278]]></title>
-        <id>https://www.youtube.com/watch?v=7j1lMs7fcIQ</id>
-        <link href="https://www.youtube.com/watch?v=7j1lMs7fcIQ"/>
-        <updated>2022-10-30T21:39:23.000Z</updated>
-        <author>
-            <name>SmarterEveryDay</name>
         </author>
     </entry>
 </feed>
