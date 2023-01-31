@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-30T00:30:04.173Z</id>
+    <id>urn:2023-01-31T00:36:09.232Z</id>
     <title>osmos::feed</title>
-    <updated>2023-01-30T00:30:04.173Z</updated>
+    <updated>2023-01-31T00:36:09.232Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Can a human survive this CANNON? Answer at the end!]]></title>
+        <id>https://www.youtube.com/watch?v=rhMSQ835hQg</id>
+        <link href="https://www.youtube.com/watch?v=rhMSQ835hQg"/>
+        <updated>2023-01-31T00:04:06.000Z</updated>
+        <author>
+            <name>Physics Girl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Spell Diarrhea]]></title>
+        <id>https://www.youtube.com/watch?v=VJruAcrkxug</id>
+        <link href="https://www.youtube.com/watch?v=VJruAcrkxug"/>
+        <updated>2023-01-30T23:32:15.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TIGHT FIT 😳 Mando Armorer Helmet!]]></title>
+        <id>https://www.youtube.com/watch?v=0-dL2MgoDWE</id>
+        <link href="https://www.youtube.com/watch?v=0-dL2MgoDWE"/>
+        <updated>2023-01-30T21:31:12.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don’t Be Panic If Your Car is Stuck in Sand]]></title>
+        <id>https://www.youtube.com/watch?v=bIqWtRAMQiQ</id>
+        <link href="https://www.youtube.com/watch?v=bIqWtRAMQiQ"/>
+        <updated>2023-01-30T21:00:30.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart Stroller Makes Your Parental Life Easier]]></title>
+        <id>https://www.youtube.com/watch?v=fI7KtzElqV8</id>
+        <link href="https://www.youtube.com/watch?v=fI7KtzElqV8"/>
+        <updated>2023-01-30T19:00:15.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How A Side Hustle Turned into A Million-Dollar Company In Just 3 Years]]></title>
+        <id>https://www.youtube.com/watch?v=6TEuteDtdqE</id>
+        <link href="https://www.youtube.com/watch?v=6TEuteDtdqE"/>
+        <updated>2023-01-30T15:00:09.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tearing Down a Tower Takes Longer Than You Think]]></title>
+        <id>https://www.youtube.com/watch?v=WJ_g6Xn4F8Q</id>
+        <link href="https://www.youtube.com/watch?v=WJ_g6Xn4F8Q"/>
+        <updated>2023-01-30T13:00:30.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taking a Beast TURNING Cut on HELLER MILL #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=VubqtzMPsyk</id>
+        <link href="https://www.youtube.com/watch?v=VubqtzMPsyk"/>
+        <updated>2023-01-30T12:00:19.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laser Engraving Is Now On Your Guitar]]></title>
+        <id>https://www.youtube.com/watch?v=COY7pLFuOmU</id>
+        <link href="https://www.youtube.com/watch?v=COY7pLFuOmU"/>
+        <updated>2023-01-30T09:00:11.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fastest Wire Bending Processes]]></title>
         <id>https://www.youtube.com/watch?v=UuJ0-DMKEFw</id>
@@ -195,24 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hagia Sophia - A Mythical Masterpiece from a Bygone Era]]></title>
-        <id>https://www.youtube.com/watch?v=wh-usPKNVg0</id>
-        <link href="https://www.youtube.com/watch?v=wh-usPKNVg0"/>
-        <updated>2023-01-27T19:00:21.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here’s What Makes Hagia Sophia Stand-Out]]></title>
-        <id>https://www.youtube.com/watch?v=I0Xpt9bAjww</id>
-        <link href="https://www.youtube.com/watch?v=I0Xpt9bAjww"/>
-        <updated>2023-01-27T19:00:06.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How 52,000 Pots Are Used To Age A Rare Japanese Black Vinegar | Still Standing | Insider Business]]></title>
         <id>https://www.youtube.com/watch?v=6MkRLqCWyFk</id>
         <link href="https://www.youtube.com/watch?v=6MkRLqCWyFk"/>
@@ -249,15 +312,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Mini Cheetah Robot Is Faster Than Ever Before]]></title>
-        <id>https://www.youtube.com/watch?v=_QUg885i7JA</id>
-        <link href="https://www.youtube.com/watch?v=_QUg885i7JA"/>
-        <updated>2023-01-27T13:00:18.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Calibrating Mitutoyo's FASTEST Micrometer #shorts]]></title>
         <id>https://www.youtube.com/watch?v=15B22835Dkk</id>
         <link href="https://www.youtube.com/watch?v=15B22835Dkk"/>
@@ -273,15 +327,6 @@
         <updated>2023-01-27T11:00:25.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Tallest  3D Construction Villas]]></title>
-        <id>https://www.youtube.com/watch?v=tb_MkQ3ddBA</id>
-        <link href="https://www.youtube.com/watch?v=tb_MkQ3ddBA"/>
-        <updated>2023-01-27T09:00:37.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -690,15 +735,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Manufacturing for Microscopic Viewing #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=EmtW0mG4iZ8</id>
-        <link href="https://www.youtube.com/watch?v=EmtW0mG4iZ8"/>
-        <updated>2023-01-19T15:32:36.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sundials don't mess around]]></title>
         <id>https://www.youtube.com/watch?v=YFT6Ym1oO28</id>
         <link href="https://www.youtube.com/watch?v=YFT6Ym1oO28"/>
@@ -730,15 +766,6 @@
         <id>https://www.youtube.com/watch?v=v2TT9Aq5CP8</id>
         <link href="https://www.youtube.com/watch?v=v2TT9Aq5CP8"/>
         <updated>2023-01-18T19:17:04.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Five Egyptian Artisans Keeping Their Country’s Ancient Crafts | Still Standing]]></title>
-        <id>https://www.youtube.com/watch?v=8e0G51TYHy8</id>
-        <link href="https://www.youtube.com/watch?v=8e0G51TYHy8"/>
-        <updated>2023-01-18T17:30:02.000Z</updated>
         <author>
             <name>Insider Business</name>
         </author>
@@ -1059,15 +1086,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Better Adhesion with a Cool Slicer Trick! #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=EQQE0BCBv5U</id>
-        <link href="https://www.youtube.com/watch?v=EQQE0BCBv5U"/>
-        <updated>2023-01-03T22:02:05.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What Did You See Before You Were Born?]]></title>
         <id>https://www.youtube.com/watch?v=6AjM4mtNCQM</id>
         <link href="https://www.youtube.com/watch?v=6AjM4mtNCQM"/>
@@ -1380,15 +1398,6 @@
         <updated>2022-12-19T21:10:19.000Z</updated>
         <author>
             <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Topsy Turvy Top]]></title>
-        <id>https://www.youtube.com/watch?v=KWmaIZrBE2w</id>
-        <link href="https://www.youtube.com/watch?v=KWmaIZrBE2w"/>
-        <updated>2022-12-19T17:12:19.000Z</updated>
-        <author>
-            <name>Vsauce</name>
         </author>
     </entry>
     <entry>
@@ -2280,33 +2289,6 @@
         <updated>2022-11-03T12:52:34.000Z</updated>
         <author>
             <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Math for Game Devs [2022, part 8] • Trajectories & Derivatives]]></title>
-        <id>https://www.youtube.com/watch?v=XkAuksIABHI</id>
-        <link href="https://www.youtube.com/watch?v=XkAuksIABHI"/>
-        <updated>2022-11-02T11:28:47.000Z</updated>
-        <author>
-            <name>Freya Holmér</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Math for Game Devs [2022, part 7] • Interpolation & Point Physics]]></title>
-        <id>https://www.youtube.com/watch?v=tjTRXzwdU6A</id>
-        <link href="https://www.youtube.com/watch?v=tjTRXzwdU6A"/>
-        <updated>2022-11-01T16:12:15.000Z</updated>
-        <author>
-            <name>Freya Holmér</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4K] Watch Falcon Heavy Launch & Land From Just 4 Miles Away!]]></title>
-        <id>https://www.youtube.com/watch?v=zBjVDC8tMeo</id>
-        <link href="https://www.youtube.com/watch?v=zBjVDC8tMeo"/>
-        <updated>2022-11-01T14:35:18.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
         </author>
     </entry>
 </feed>
