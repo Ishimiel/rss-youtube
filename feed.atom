@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-01T00:38:50.042Z</id>
+    <id>urn:2023-02-02T00:35:14.064Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-01T00:38:50.042Z</updated>
+    <updated>2023-02-02T00:35:14.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Baker Test]]></title>
+        <id>https://www.youtube.com/watch?v=4qvb902Dhkk</id>
+        <link href="https://www.youtube.com/watch?v=4qvb902Dhkk"/>
+        <updated>2023-02-01T23:25:24.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brushless Cutter Clamps Like A Crab]]></title>
+        <id>https://www.youtube.com/watch?v=LLPQZkcaiIY</id>
+        <link href="https://www.youtube.com/watch?v=LLPQZkcaiIY"/>
+        <updated>2023-02-01T21:00:07.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SECRET military tunnel. Now I know why...]]></title>
+        <id>https://www.youtube.com/watch?v=c_5duGCFCdk</id>
+        <link href="https://www.youtube.com/watch?v=c_5duGCFCdk"/>
+        <updated>2023-02-01T19:47:49.000Z</updated>
+        <author>
+            <name>Physics Girl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maine is setting the bar for sustainable lobstering. #lobster #Maine #fishing]]></title>
+        <id>https://www.youtube.com/watch?v=jaj-YXuz41Y</id>
+        <link href="https://www.youtube.com/watch?v=jaj-YXuz41Y"/>
+        <updated>2023-02-01T19:15:02.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arleigh Burke Class: The workhorse of the USN]]></title>
+        <id>https://www.youtube.com/watch?v=xhqed_k_hVc</id>
+        <link href="https://www.youtube.com/watch?v=xhqed_k_hVc"/>
+        <updated>2023-02-01T19:00:32.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arleigh Burke Class: The workhorse of the USN]]></title>
+        <id>https://www.youtube.com/watch?v=jHAYFyUDtBw</id>
+        <link href="https://www.youtube.com/watch?v=jHAYFyUDtBw"/>
+        <updated>2023-02-01T19:00:18.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here’s why traditional salt-making is on the decline. #salt #mexico #history #environment]]></title>
+        <id>https://www.youtube.com/watch?v=qKL2V1y3eco</id>
+        <link href="https://www.youtube.com/watch?v=qKL2V1y3eco"/>
+        <updated>2023-02-01T18:55:54.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flexible Manuel Log Splitter]]></title>
+        <id>https://www.youtube.com/watch?v=FBez5eXXTxs</id>
+        <link href="https://www.youtube.com/watch?v=FBez5eXXTxs"/>
+        <updated>2023-02-01T13:00:09.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can we BREAK This Tool? #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=RkvIaOEGvIs</id>
+        <link href="https://www.youtube.com/watch?v=RkvIaOEGvIs"/>
+        <updated>2023-02-01T12:00:26.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drywall Stilts That Allow Reaching Anywhere]]></title>
+        <id>https://www.youtube.com/watch?v=lDfFygW390Y</id>
+        <link href="https://www.youtube.com/watch?v=lDfFygW390Y"/>
+        <updated>2023-02-01T09:00:27.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Troubleshooting a Miller X-treme12VS Suitcase Welder]]></title>
         <id>https://www.youtube.com/watch?v=giGAm7yLI4g</id>
@@ -24,7 +114,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Inside The Battle Over Cambodia's Disappearing Lakes | True Cost | Insider Business]]></title>
+        <title type="html"><![CDATA[The True Cost Of Cambodia’s Sand Mining Boom | True Cost | Insider Business]]></title>
         <id>https://www.youtube.com/watch?v=rGL8VjAx-Vo</id>
         <link href="https://www.youtube.com/watch?v=rGL8VjAx-Vo"/>
         <updated>2023-01-31T19:44:38.000Z</updated>
@@ -60,7 +150,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Which color of PLA is the strongest?]]></title>
+        <title type="html"><![CDATA[Filament COLOR matters in 3D printing!]]></title>
         <id>https://www.youtube.com/watch?v=BMSp1WDqtpI</id>
         <link href="https://www.youtube.com/watch?v=BMSp1WDqtpI"/>
         <updated>2023-01-31T18:23:06.000Z</updated>
@@ -222,15 +312,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Happens If We Use 100% Of Our Brain?]]></title>
-        <id>https://www.youtube.com/watch?v=IbcaZopWdWk</id>
-        <link href="https://www.youtube.com/watch?v=IbcaZopWdWk"/>
-        <updated>2023-01-29T19:00:07.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Yellowstone Permutation - Numberphile]]></title>
         <id>https://www.youtube.com/watch?v=DUaqiM1bGX4</id>
         <link href="https://www.youtube.com/watch?v=DUaqiM1bGX4"/>
@@ -240,48 +321,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Battery Cutter For All Metal Profiles]]></title>
-        <id>https://www.youtube.com/watch?v=Z08u2mkpi44</id>
-        <link href="https://www.youtube.com/watch?v=Z08u2mkpi44"/>
-        <updated>2023-01-29T13:00:30.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The MOST Satisfying Lathe Cuts #shorts]]></title>
         <id>https://www.youtube.com/watch?v=osbYNyOCrsk</id>
         <link href="https://www.youtube.com/watch?v=osbYNyOCrsk"/>
         <updated>2023-01-29T12:00:28.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wire Mesh Welding Machine For Your Structures]]></title>
-        <id>https://www.youtube.com/watch?v=rlzQMXkdAi4</id>
-        <link href="https://www.youtube.com/watch?v=rlzQMXkdAi4"/>
-        <updated>2023-01-29T09:00:23.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robotic Automation For Restaurants]]></title>
-        <id>https://www.youtube.com/watch?v=bGH5KRBZEVk</id>
-        <link href="https://www.youtube.com/watch?v=bGH5KRBZEVk"/>
-        <updated>2023-01-28T21:00:18.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Would a Nuclear Winter Play Out?]]></title>
-        <id>https://www.youtube.com/watch?v=c9Hd80JF8PE</id>
-        <link href="https://www.youtube.com/watch?v=c9Hd80JF8PE"/>
-        <updated>2023-01-28T19:00:25.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -357,7 +402,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I made a Man-Shroom from The Last of Us]]></title>
+        <title type="html"><![CDATA[I made a Clicker from The Last of Us]]></title>
         <id>https://www.youtube.com/watch?v=PSXf0kfAvNc</id>
         <link href="https://www.youtube.com/watch?v=PSXf0kfAvNc"/>
         <updated>2023-01-27T16:00:23.000Z</updated>
@@ -681,15 +726,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Tyrian Purple Dye Is So Expensive | So Expensive | Insider Business]]></title>
-        <id>https://www.youtube.com/watch?v=IVXqisH6VeM</id>
-        <link href="https://www.youtube.com/watch?v=IVXqisH6VeM"/>
-        <updated>2023-01-21T16:00:16.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I made the Red M&M but it's horrifying]]></title>
         <id>https://www.youtube.com/watch?v=OOyzvhsBDTY</id>
         <link href="https://www.youtube.com/watch?v=OOyzvhsBDTY"/>
@@ -705,24 +741,6 @@
         <updated>2023-01-21T14:00:10.000Z</updated>
         <author>
             <name>Physics Girl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machinist Prepares to DESTROY 6AL-4V Titanium #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=3SvE45JQGe8</id>
-        <link href="https://www.youtube.com/watch?v=3SvE45JQGe8"/>
-        <updated>2023-01-21T14:00:02.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A New Mining Ship Sucks Metals Off The Seafloor. Is That a Good Idea? | Big Business]]></title>
-        <id>https://www.youtube.com/watch?v=9ZoTxvMsOnw</id>
-        <link href="https://www.youtube.com/watch?v=9ZoTxvMsOnw"/>
-        <updated>2023-01-21T03:08:47.000Z</updated>
-        <author>
-            <name>Insider Business</name>
         </author>
     </entry>
     <entry>
@@ -1398,15 +1416,6 @@
         <updated>2022-12-21T17:56:57.000Z</updated>
         <author>
             <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Wobblo]]></title>
-        <id>https://www.youtube.com/watch?v=nczo0wXgcUk</id>
-        <link href="https://www.youtube.com/watch?v=nczo0wXgcUk"/>
-        <updated>2022-12-21T17:24:10.000Z</updated>
-        <author>
-            <name>Vsauce</name>
         </author>
     </entry>
     <entry>
@@ -2298,24 +2307,6 @@
         <updated>2022-11-04T14:21:43.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Math for Game Devs [2022, part 9] • Solutions to the final assignments]]></title>
-        <id>https://www.youtube.com/watch?v=sZKfaio97bc</id>
-        <link href="https://www.youtube.com/watch?v=sZKfaio97bc"/>
-        <updated>2022-11-04T11:35:33.000Z</updated>
-        <author>
-            <name>Freya Holmér</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Remarkable Story Behind The Most Important Algorithm Of All Time]]></title>
-        <id>https://www.youtube.com/watch?v=nmgFG7PUHfo</id>
-        <link href="https://www.youtube.com/watch?v=nmgFG7PUHfo"/>
-        <updated>2022-11-03T12:52:34.000Z</updated>
-        <author>
-            <name>Veritasium</name>
         </author>
     </entry>
 </feed>
