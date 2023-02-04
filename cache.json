@@ -167,6 +167,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Rp-smPZLESc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Rp-smPZLESc",
+          "publishedOn": "2023-02-03T11:00:21.000Z",
+          "wordCount": null,
+          "title": "Complex Analysis L02: Euler's formula, one of the most important formulas in all of mathematics",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_mv0q7-WF4E",
           "author": null,
           "description": "",
@@ -305,16 +315,6 @@
           "wordCount": null,
           "title": "Numerical Simulation of Ordinary Differential Equations: Integrating ODEs",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=W-wxKgjBDnc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=W-wxKgjBDnc",
-          "publishedOn": "2022-11-30T11:00:14.000Z",
-          "wordCount": null,
-          "title": "Why we can't take \"dt\" to 0 in a computer: Sources of error in numerical differentiation",
-          "imageUrl": null
         }
       ]
     },
@@ -346,6 +346,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=F4w16VcRhMk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=F4w16VcRhMk",
+          "publishedOn": "2023-02-03T15:04:13.000Z",
+          "wordCount": null,
+          "title": "Dark Matter | Scientific Controversies",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=cp4GPitNqP4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cp4GPitNqP4",
+          "publishedOn": "2023-02-03T15:03:25.000Z",
+          "wordCount": null,
+          "title": "Dark Energy | Scientific Controversies",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=41461Yrotr4",
           "author": null,
@@ -521,6 +541,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nr-hhUW0VG0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nr-hhUW0VG0",
+          "publishedOn": "2023-02-03T14:00:57.000Z",
+          "wordCount": null,
+          "title": "3D Printing a SLINGSHOT that WORKS?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0-dL2MgoDWE",
           "author": null,
           "description": "",
@@ -659,16 +689,6 @@
           "wordCount": null,
           "title": "3D Printing in Action: Flinging Popcorn like Never Before!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UHBLttwh-CM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UHBLttwh-CM",
-          "publishedOn": "2023-01-04T21:29:58.000Z",
-          "wordCount": null,
-          "title": "SLICER HACK PT 2 - Shape Gallery #shorts",
-          "imageUrl": null
         }
       ]
     },
@@ -784,7 +804,7 @@
           "link": "https://www.youtube.com/watch?v=BMSp1WDqtpI",
           "publishedOn": "2023-01-31T18:23:06.000Z",
           "wordCount": null,
-          "title": "What's the STRONGEST filament COLOR?!",
+          "title": "Filament COLOR matters in 3D printing!",
           "imageUrl": null
         },
         {
@@ -975,6 +995,66 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=On85PYRVDKE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=On85PYRVDKE",
+          "publishedOn": "2023-02-03T21:00:09.000Z",
+          "wordCount": null,
+          "title": "Inflatable Vessel that Can Rescue 200 People in Ship Accidents",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xbLwZyIQ4Ls",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xbLwZyIQ4Ls",
+          "publishedOn": "2023-02-03T19:00:27.000Z",
+          "wordCount": null,
+          "title": "Notre Dame de Paris: A Long History of Lootings, Wars and Fires",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=MGA6V_Hln8o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MGA6V_Hln8o",
+          "publishedOn": "2023-02-03T19:00:10.000Z",
+          "wordCount": null,
+          "title": "Notre Dame de Paris' Never Ending Run of Bad Luck",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=iksx98FN5SY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iksx98FN5SY",
+          "publishedOn": "2023-02-03T14:30:08.000Z",
+          "wordCount": null,
+          "title": "A New Crisis Between U.S. and China: Spy Balloon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gI5H9YQVGSk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gI5H9YQVGSk",
+          "publishedOn": "2023-02-03T13:00:35.000Z",
+          "wordCount": null,
+          "title": "Non-Flyable Airframe Lifted By CH-53K Cargo Helicopter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Ksu49svyEr4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ksu49svyEr4",
+          "publishedOn": "2023-02-03T09:00:19.000Z",
+          "wordCount": null,
+          "title": "The Mesmerizing Process of Manufacturing Packaging Film",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=noB7YmLpfCc",
           "author": null,
           "description": "",
@@ -1052,66 +1132,6 @@
           "publishedOn": "2023-02-01T19:00:18.000Z",
           "wordCount": null,
           "title": "Arleigh Burke Class: The Workhorse of the USN",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FBez5eXXTxs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FBez5eXXTxs",
-          "publishedOn": "2023-02-01T13:00:09.000Z",
-          "wordCount": null,
-          "title": "Flexible Manuel Log Splitter",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lDfFygW390Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lDfFygW390Y",
-          "publishedOn": "2023-02-01T09:00:27.000Z",
-          "wordCount": null,
-          "title": "Drywall Stilts That Allow Reaching Anywhere",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NXcHF7qHYSo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NXcHF7qHYSo",
-          "publishedOn": "2023-01-31T21:00:10.000Z",
-          "wordCount": null,
-          "title": "Vacuum Lifter For Easy Installation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sIzpnKtEWBk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sIzpnKtEWBk",
-          "publishedOn": "2023-01-31T19:00:30.000Z",
-          "wordCount": null,
-          "title": "Pay Attention To This Little Card, It Might Save Your Life",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rh3ZFA20VTQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rh3ZFA20VTQ",
-          "publishedOn": "2023-01-31T13:00:37.000Z",
-          "wordCount": null,
-          "title": "Quick and Easy Way of Building a Stable Foundation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=njraFCELR3Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=njraFCELR3Y",
-          "publishedOn": "2023-01-31T09:00:25.000Z",
-          "wordCount": null,
-          "title": "Enjoy Your Meal On This Unique Design",
           "imageUrl": null
         }
       ]
@@ -1336,16 +1356,6 @@
           "publishedOn": "2022-11-10T10:59:05.000Z",
           "wordCount": null,
           "title": "A Number Sequence with Everything - Numberphile",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NsjsLwYRW8o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NsjsLwYRW8o",
-          "publishedOn": "2022-11-06T10:42:34.000Z",
-          "wordCount": null,
-          "title": "Prime Pyramid (with 3Blue1Brown) - Numberphile",
           "imageUrl": null
         }
       ]
@@ -1868,6 +1878,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Ko02mUWhItA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ko02mUWhItA",
+          "publishedOn": "2023-02-03T19:24:54.000Z",
+          "wordCount": null,
+          "title": "Raindrops don't look like raindrops",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rmxh8Nty_eo",
           "author": null,
           "description": "",
@@ -1994,6 +2014,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "siteUrl": "https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=9MEsfPuQdw4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9MEsfPuQdw4",
+          "publishedOn": "2023-02-03T21:11:02.000Z",
+          "wordCount": null,
+          "title": "The Truth About Paula Abdul's First Kiss",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=4qvb902Dhkk",
           "author": null,
@@ -2133,16 +2163,6 @@
           "wordCount": null,
           "title": "The First Staged Photograph",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HqNcgLskf3w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HqNcgLskf3w",
-          "publishedOn": "2022-12-23T19:27:48.000Z",
-          "wordCount": null,
-          "title": "Are People Getting Hotter?",
-          "imageUrl": null
         }
       ]
     },
@@ -2245,6 +2265,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=W7jyVLJXW30",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=W7jyVLJXW30",
+          "publishedOn": "2023-02-03T14:00:32.000Z",
+          "wordCount": null,
+          "title": "MURDERING Material on HELLER CP 6000 #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vn1-Bqb_VM8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vn1-Bqb_VM8",
+          "publishedOn": "2023-02-03T12:00:41.000Z",
+          "wordCount": null,
+          "title": "My Boss is an Expert at Screwing Us Out of Money",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=_Iwi2MaNLwI",
           "author": null,
@@ -2374,26 +2414,6 @@
           "wordCount": null,
           "title": "Machinist uses Aluminum Oxide Wheel to Grind INCONEL #shorts",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hlgxRDOxhjs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hlgxRDOxhjs",
-          "publishedOn": "2023-01-24T14:00:19.000Z",
-          "wordCount": null,
-          "title": "Taking The MOST UNBELIEVABLE Cuts in 4140 STEEL! #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ELrhiRWmvSk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ELrhiRWmvSk",
-          "publishedOn": "2023-01-24T12:00:14.000Z",
-          "wordCount": null,
-          "title": "MURDERING Material on Our NEW HELLER CP 6000",
-          "imageUrl": null
         }
       ]
     },
@@ -2402,6 +2422,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=6qJV34pcOaw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6qJV34pcOaw",
+          "publishedOn": "2023-02-03T16:00:07.000Z",
+          "wordCount": null,
+          "title": "How Used Hotel Soap Gets Recycled Into Brand New Bars | World Wide Waste | Insider Business",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=e_vWB5bdbeE",
           "author": null,
@@ -2541,16 +2571,6 @@
           "wordCount": null,
           "title": "This Food Stall Uses Hundreds Of #Eggs To Make #Mumbai’s Favorite Late Night Dish #India #StreetFood",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IwVljSFtKxU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IwVljSFtKxU",
-          "publishedOn": "2023-01-23T19:15:00.000Z",
-          "wordCount": null,
-          "title": "There’s a reason why white truffles are so pricey. #truffles #trufflehunting #Italy",
-          "imageUrl": null
         }
       ]
     },
@@ -2576,6 +2596,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCM15YNy8g-CaJ15YZCbq0Iw",
       "siteUrl": "https://www.youtube.com/channel/UCM15YNy8g-CaJ15YZCbq0Iw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=scwhMKKGuYA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=scwhMKKGuYA",
+          "publishedOn": "2023-02-03T16:00:36.000Z",
+          "wordCount": null,
+          "title": "I made Mario and Peach, but Luigi is a Zombie",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=PSXf0kfAvNc",
           "author": null,
