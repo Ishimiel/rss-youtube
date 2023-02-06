@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-05T00:37:25.849Z</id>
+    <id>urn:2023-02-06T00:32:08.231Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-05T00:37:25.849Z</updated>
+    <updated>2023-02-06T00:32:08.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Next Generation of Mars and Lunar Rovers]]></title>
+        <id>https://www.youtube.com/watch?v=pvZ7OIE-0TQ</id>
+        <link href="https://www.youtube.com/watch?v=pvZ7OIE-0TQ"/>
+        <updated>2023-02-05T21:00:30.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 ICBMs That Could End the World: A Look At the Most Deadly Missiles in Existence]]></title>
+        <id>https://www.youtube.com/watch?v=eILm8V-T2R8</id>
+        <link href="https://www.youtube.com/watch?v=eILm8V-T2R8"/>
+        <updated>2023-02-05T19:00:17.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 ICBMs That Could End the World: A Look At the Most Deadly Missiles in Existence]]></title>
+        <id>https://www.youtube.com/watch?v=-Vj7XJ2Wmdg</id>
+        <link href="https://www.youtube.com/watch?v=-Vj7XJ2Wmdg"/>
+        <updated>2023-02-05T19:00:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raising Sails - Part 10 - More Foresail Changes and TIG Weld Distortion]]></title>
+        <id>https://www.youtube.com/watch?v=mB_bCEWHsUI</id>
+        <link href="https://www.youtube.com/watch?v=mB_bCEWHsUI"/>
+        <updated>2023-02-05T13:54:24.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Vertical Flight of C-450 Designed By Snecma]]></title>
+        <id>https://www.youtube.com/watch?v=DJOgAlxY_yU</id>
+        <link href="https://www.youtube.com/watch?v=DJOgAlxY_yU"/>
+        <updated>2023-02-05T13:00:10.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MONSTER Vise Installation holds 1700 LBS of STEEL #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=k8DwvWUDX9Y</id>
+        <link href="https://www.youtube.com/watch?v=k8DwvWUDX9Y"/>
+        <updated>2023-02-05T12:00:32.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shoes Without Molds Are Faster]]></title>
+        <id>https://www.youtube.com/watch?v=xgfGUfrQgpI</id>
+        <link href="https://www.youtube.com/watch?v=xgfGUfrQgpI"/>
+        <updated>2023-02-05T09:02:45.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Farming Equipment Resembling a Bicycle]]></title>
         <id>https://www.youtube.com/watch?v=an2_3n_ot0I</id>
@@ -222,24 +285,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Mesmerizing Process of Manufacturing Packaging Film]]></title>
-        <id>https://www.youtube.com/watch?v=Ksu49svyEr4</id>
-        <link href="https://www.youtube.com/watch?v=Ksu49svyEr4"/>
-        <updated>2023-02-03T09:00:19.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Packaging Machinery for Nuts and other Delicious Snacks]]></title>
-        <id>https://www.youtube.com/watch?v=noB7YmLpfCc</id>
-        <link href="https://www.youtube.com/watch?v=noB7YmLpfCc"/>
-        <updated>2023-02-02T21:00:32.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fooling the Eye: Revealing the Truth]]></title>
         <id>https://www.youtube.com/watch?v=MD-O4Gpx74s</id>
         <link href="https://www.youtube.com/watch?v=MD-O4Gpx74s"/>
@@ -249,30 +294,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5 Giant Bulldozers and a Decepticon]]></title>
-        <id>https://www.youtube.com/watch?v=zkr7iLXfocI</id>
-        <link href="https://www.youtube.com/watch?v=zkr7iLXfocI"/>
-        <updated>2023-02-02T19:40:45.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why ‘Ethical’ Foie Gras Is So Expensive | So Expensive Food | Business Insider]]></title>
         <id>https://www.youtube.com/watch?v=e_vWB5bdbeE</id>
         <link href="https://www.youtube.com/watch?v=e_vWB5bdbeE"/>
         <updated>2023-02-02T19:00:24.000Z</updated>
         <author>
             <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Giant Bulldozers and a Decepticon]]></title>
-        <id>https://www.youtube.com/watch?v=RKBBy8vtj7k</id>
-        <link href="https://www.youtube.com/watch?v=RKBBy8vtj7k"/>
-        <updated>2023-02-02T19:00:17.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -375,7 +402,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Filament COLOR matters in 3D printing!]]></title>
+        <title type="html"><![CDATA[Which is the STRONGEST filament COLOR?]]></title>
         <id>https://www.youtube.com/watch?v=BMSp1WDqtpI</id>
         <link href="https://www.youtube.com/watch?v=BMSp1WDqtpI"/>
         <updated>2023-01-31T18:23:06.000Z</updated>
@@ -649,15 +676,6 @@
         <id>https://www.youtube.com/watch?v=Q_Qctm8VQbs</id>
         <link href="https://www.youtube.com/watch?v=Q_Qctm8VQbs"/>
         <updated>2023-01-26T14:00:12.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Workholding Fixtures To Increase Productivity by 671%]]></title>
-        <id>https://www.youtube.com/watch?v=3-ZBaBiXaLE</id>
-        <link href="https://www.youtube.com/watch?v=3-ZBaBiXaLE"/>
-        <updated>2023-01-26T12:00:01.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
         </author>
@@ -1968,15 +1986,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Orleans Industrial Canal - Mississippi To Lake Pontchartrain]]></title>
-        <id>https://www.youtube.com/watch?v=4siCWiEX4eY</id>
-        <link href="https://www.youtube.com/watch?v=4siCWiEX4eY"/>
-        <updated>2022-11-28T13:50:42.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Best 3D Printer of 2022 got Stripped Down to make it Cheaper!]]></title>
         <id>https://www.youtube.com/watch?v=SzDh8POv1kc</id>
         <link href="https://www.youtube.com/watch?v=SzDh8POv1kc"/>
@@ -2271,15 +2280,6 @@
         <updated>2022-11-08T14:59:18.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extra Credit: Activated Archives with Umber Majeed]]></title>
-        <id>https://www.youtube.com/watch?v=B5xiNWfo2i0</id>
-        <link href="https://www.youtube.com/watch?v=B5xiNWfo2i0"/>
-        <updated>2022-11-07T15:00:07.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
         </author>
     </entry>
 </feed>
