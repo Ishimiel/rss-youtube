@@ -1,12 +1,120 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-11T00:30:00.539Z</id>
+    <id>urn:2023-02-12T00:37:15.780Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-11T00:30:00.539Z</updated>
+    <updated>2023-02-12T00:37:15.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Pablo Picasso and the Moon Landing]]></title>
+        <title type="html"><![CDATA[SpaceX Super Heavy 31 Engine Static Fire [Slo Mo 4K]]]></title>
+        <id>https://www.youtube.com/watch?v=dLlLxzU1Mbo</id>
+        <link href="https://www.youtube.com/watch?v=dLlLxzU1Mbo"/>
+        <updated>2023-02-11T22:05:07.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The First-ever Enhanced Mobility Device]]></title>
+        <id>https://www.youtube.com/watch?v=_nR8slfkPNU</id>
+        <link href="https://www.youtube.com/watch?v=_nR8slfkPNU"/>
+        <updated>2023-02-11T21:00:14.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Would Happen If We Terraformed Our Deserts into Fertile Land?]]></title>
+        <id>https://www.youtube.com/watch?v=UFLPNIG9_Ks</id>
+        <link href="https://www.youtube.com/watch?v=UFLPNIG9_Ks"/>
+        <updated>2023-02-11T19:00:24.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Would We Benefit from Terraforming Deserts into Farms?]]></title>
+        <id>https://www.youtube.com/watch?v=U9nTxRHq2Rg</id>
+        <link href="https://www.youtube.com/watch?v=U9nTxRHq2Rg"/>
+        <updated>2023-02-11T19:00:10.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mainsail Yard Reinforcement]]></title>
+        <id>https://www.youtube.com/watch?v=KBmh4QgpLe0</id>
+        <link href="https://www.youtube.com/watch?v=KBmh4QgpLe0"/>
+        <updated>2023-02-11T18:48:09.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mast Conduit Problem for You to Solve]]></title>
+        <id>https://www.youtube.com/watch?v=cR5YNUcvl04</id>
+        <link href="https://www.youtube.com/watch?v=cR5YNUcvl04"/>
+        <updated>2023-02-11T18:02:41.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[36,967 People Agree With Me, 5,053 Disagree]]></title>
+        <id>https://www.youtube.com/watch?v=XeSu9fBJ2sI</id>
+        <link href="https://www.youtube.com/watch?v=XeSu9fBJ2sI"/>
+        <updated>2023-02-11T17:58:50.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How One Domino's Pizza Factory Makes 750,000 Dough Balls A Week For The Super Bowl | Big Business]]></title>
+        <id>https://www.youtube.com/watch?v=yEnDZcX3xc8</id>
+        <link href="https://www.youtube.com/watch?v=yEnDZcX3xc8"/>
+        <updated>2023-02-11T16:00:36.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MURDERING Material at 1650 IPM!]]></title>
+        <id>https://www.youtube.com/watch?v=GKUSrO3WMwo</id>
+        <link href="https://www.youtube.com/watch?v=GKUSrO3WMwo"/>
+        <updated>2023-02-11T14:03:38.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mobile Skimmer: A Better Life For Seas]]></title>
+        <id>https://www.youtube.com/watch?v=BQ_mPUvYocI</id>
+        <link href="https://www.youtube.com/watch?v=BQ_mPUvYocI"/>
+        <updated>2023-02-11T13:00:06.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEWEST and MOST INNOVATIVE Machines Get Delivered to us!]]></title>
+        <id>https://www.youtube.com/watch?v=KLHjJLYIphc</id>
+        <link href="https://www.youtube.com/watch?v=KLHjJLYIphc"/>
+        <updated>2023-02-11T12:00:11.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Smart Planter Communicates Now!]]></title>
+        <id>https://www.youtube.com/watch?v=m-C1cBW2Pkw</id>
+        <link href="https://www.youtube.com/watch?v=m-C1cBW2Pkw"/>
+        <updated>2023-02-11T09:00:33.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Day After The Moon Landing]]></title>
         <id>https://www.youtube.com/watch?v=So5uFadFegI</id>
         <link href="https://www.youtube.com/watch?v=So5uFadFegI"/>
         <updated>2023-02-11T00:14:55.000Z</updated>
@@ -60,7 +168,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tie-Dye Sustained Generations Of Artisans In Gambia. Now Chemical Dyes Are Threatening It]]></title>
+        <title type="html"><![CDATA[How Natural Dyes Are Made From Nuts, Leaves and Roots In Gambia | Still Standing]]></title>
         <id>https://www.youtube.com/watch?v=jTqBrbOG3wQ</id>
         <link href="https://www.youtube.com/watch?v=jTqBrbOG3wQ"/>
         <updated>2023-02-10T16:26:53.000Z</updated>
@@ -294,39 +402,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Laser Engraving Machine that Can Engrave and Cut in One Go]]></title>
-        <id>https://www.youtube.com/watch?v=STP8TmkLbBg</id>
-        <link href="https://www.youtube.com/watch?v=STP8TmkLbBg"/>
-        <updated>2023-02-08T21:00:22.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Cult Classic That Secretly Inspired The Game Industry]]></title>
         <id>https://www.youtube.com/watch?v=sRCCFN_MndU</id>
         <link href="https://www.youtube.com/watch?v=sRCCFN_MndU"/>
         <updated>2023-02-08T20:25:47.000Z</updated>
         <author>
             <name>Internet Pitstop</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet the Stryker: US Army’s Badass Armored Fighting Vehicles]]></title>
-        <id>https://www.youtube.com/watch?v=rTVN2lO7DQ4</id>
-        <link href="https://www.youtube.com/watch?v=rTVN2lO7DQ4"/>
-        <updated>2023-02-08T19:00:21.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet the Stryker: US Army’s Badass Armored Fighting Vehicles]]></title>
-        <id>https://www.youtube.com/watch?v=E1I1pldERVQ</id>
-        <link href="https://www.youtube.com/watch?v=E1I1pldERVQ"/>
-        <updated>2023-02-08T19:00:05.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -339,30 +420,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rolls-Royce Keeps Amazing with Their $28 Million Model Tail Boat]]></title>
-        <id>https://www.youtube.com/watch?v=L_5q7mgY8RM</id>
-        <link href="https://www.youtube.com/watch?v=L_5q7mgY8RM"/>
-        <updated>2023-02-08T13:00:11.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cutting 1018 STEEL at 1,000 IPM!]]></title>
         <id>https://www.youtube.com/watch?v=_rtOWaq4Yvk</id>
         <link href="https://www.youtube.com/watch?v=_rtOWaq4Yvk"/>
         <updated>2023-02-08T12:00:19.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Truck Carrying the Huge Factory]]></title>
-        <id>https://www.youtube.com/watch?v=5dw3UHm0u40</id>
-        <link href="https://www.youtube.com/watch?v=5dw3UHm0u40"/>
-        <updated>2023-02-08T09:00:02.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -726,24 +789,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Maine is setting the bar for sustainable lobstering. #lobster #Maine #fishing]]></title>
-        <id>https://www.youtube.com/watch?v=jaj-YXuz41Y</id>
-        <link href="https://www.youtube.com/watch?v=jaj-YXuz41Y"/>
-        <updated>2023-02-01T19:15:02.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can we BREAK This Tool? #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=RkvIaOEGvIs</id>
-        <link href="https://www.youtube.com/watch?v=RkvIaOEGvIs"/>
-        <updated>2023-02-01T12:00:26.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Troubleshooting a Miller X-treme12VS Suitcase Welder]]></title>
         <id>https://www.youtube.com/watch?v=giGAm7yLI4g</id>
         <link href="https://www.youtube.com/watch?v=giGAm7yLI4g"/>
@@ -762,7 +807,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Which is the STRONGEST filament COLOR?]]></title>
+        <title type="html"><![CDATA[Filament COLOR matters in 3D printing!]]></title>
         <id>https://www.youtube.com/watch?v=BMSp1WDqtpI</id>
         <link href="https://www.youtube.com/watch?v=BMSp1WDqtpI"/>
         <updated>2023-01-31T18:23:06.000Z</updated>
@@ -777,15 +822,6 @@
         <updated>2023-01-31T15:53:17.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B-AXIS Swiss Machining Medical Parts]]></title>
-        <id>https://www.youtube.com/watch?v=ruTIiTc0bH0</id>
-        <link href="https://www.youtube.com/watch?v=ruTIiTc0bH0"/>
-        <updated>2023-01-31T15:31:47.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1932,15 +1968,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Back to Work on the Boat]]></title>
-        <id>https://www.youtube.com/watch?v=IW4CBGVh400</id>
-        <link href="https://www.youtube.com/watch?v=IW4CBGVh400"/>
-        <updated>2022-12-07T17:11:25.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Spiral Heat Exchangers Explained]]></title>
         <id>https://www.youtube.com/watch?v=kVuoa9ntPgA</id>
         <link href="https://www.youtube.com/watch?v=kVuoa9ntPgA"/>
@@ -1968,7 +1995,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Matrix transpose isn't just swapping rows and columns]]></title>
+        <title type="html"><![CDATA[The deeper meaning of matrix transpose]]></title>
         <id>https://www.youtube.com/watch?v=g4ecBFmvAYU</id>
         <link href="https://www.youtube.com/watch?v=g4ecBFmvAYU"/>
         <updated>2022-12-06T15:00:31.000Z</updated>
@@ -2001,15 +2028,6 @@
         <updated>2022-12-03T16:00:03.000Z</updated>
         <author>
             <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beautiful Calm Morning for a Little Sail Work]]></title>
-        <id>https://www.youtube.com/watch?v=qKWFe4JrhHk</id>
-        <link href="https://www.youtube.com/watch?v=qKWFe4JrhHk"/>
-        <updated>2022-12-03T15:37:23.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
         </author>
     </entry>
     <entry>
@@ -2289,15 +2307,6 @@
         <updated>2022-11-14T13:43:20.000Z</updated>
         <author>
             <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving the Infinite Square Well Problem | Quantum Mechanics]]></title>
-        <id>https://www.youtube.com/watch?v=yX-xeexgDGA</id>
-        <link href="https://www.youtube.com/watch?v=yX-xeexgDGA"/>
-        <updated>2022-11-14T12:19:43.000Z</updated>
-        <author>
-            <name>Faculty of Khan</name>
         </author>
     </entry>
 </feed>
