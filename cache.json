@@ -146,6 +146,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bzCDvK3NNuk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bzCDvK3NNuk",
+          "publishedOn": "2023-02-24T11:00:34.000Z",
+          "wordCount": null,
+          "title": "Complex Analysis L05: Roots of Unity and Rational Powers of z",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=CpKD9aYEdms",
           "author": null,
           "description": "",
@@ -284,16 +294,6 @@
           "wordCount": null,
           "title": "Stability of Forward Euler and Backward Euler Integration Schemes for Differential Equations",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=h2i550iaEv0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=h2i550iaEv0",
-          "publishedOn": "2022-12-09T11:00:34.000Z",
-          "wordCount": null,
-          "title": "Error Analysis of Euler Integration Scheme for Differential Equations Using Taylor Series",
-          "imageUrl": null
         }
       ]
     },
@@ -325,6 +325,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Q80TlGeQrIU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Q80TlGeQrIU",
+          "publishedOn": "2023-02-24T14:56:01.000Z",
+          "wordCount": null,
+          "title": "Darren Aronofsky on Storytelling, Science, Math, and God",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=61TGlj0_QCI",
           "author": null,
@@ -480,6 +490,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=v9JLFzn9Wgo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=v9JLFzn9Wgo",
+          "publishedOn": "2023-02-24T14:00:39.000Z",
+          "wordCount": null,
+          "title": "Raise3D HyperFFF Cut My Print Times in Half!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7FzrcyBo5NI",
           "author": null,
           "description": "",
@@ -617,16 +637,6 @@
           "publishedOn": "2023-02-06T08:36:48.000Z",
           "wordCount": null,
           "title": "Tip of the Red Rocket is GREAT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ANMes9OKCrc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ANMes9OKCrc",
-          "publishedOn": "2023-02-06T08:36:14.000Z",
-          "wordCount": null,
-          "title": "BEEF JERKY FILAMENT",
           "imageUrl": null
         }
       ]
@@ -815,16 +825,6 @@
           "wordCount": null,
           "title": "Arc Overhangs make Supports Obsolete!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SzDh8POv1kc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SzDh8POv1kc",
-          "publishedOn": "2022-11-26T18:39:44.000Z",
-          "wordCount": null,
-          "title": "The Best 3D Printer of 2022 got Stripped Down to make it Cheaper!",
-          "imageUrl": null
         }
       ]
     },
@@ -944,6 +944,66 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mo6vtQ4fKoY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mo6vtQ4fKoY",
+          "publishedOn": "2023-02-24T21:00:30.000Z",
+          "wordCount": null,
+          "title": "Wonderfully Rhythmic Chain Bending Machine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=WFuvIzzw4S0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WFuvIzzw4S0",
+          "publishedOn": "2023-02-24T19:00:18.000Z",
+          "wordCount": null,
+          "title": "This Mussel-Inspired Glue Might Be the Best Underwater Adhesive",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=K-axiREKe6I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=K-axiREKe6I",
+          "publishedOn": "2023-02-24T19:00:12.000Z",
+          "wordCount": null,
+          "title": "How Mussels Helped Develop the Perfect Underwater Glue",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=hhgHZtvyNig",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hhgHZtvyNig",
+          "publishedOn": "2023-02-24T14:06:48.000Z",
+          "wordCount": null,
+          "title": "Two Destructive Earthquakes In Nine Hours",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=sL6AT0TqLUQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sL6AT0TqLUQ",
+          "publishedOn": "2023-02-24T13:00:40.000Z",
+          "wordCount": null,
+          "title": "An Autonomous Robot That Can Harvest Sweet Peppers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0l040swxhNA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0l040swxhNA",
+          "publishedOn": "2023-02-24T09:00:01.000Z",
+          "wordCount": null,
+          "title": "Greenhouse Robot for Harvesting Tomatoes",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=-40SGDyWWf4",
           "author": null,
           "description": "",
@@ -1031,66 +1091,6 @@
           "publishedOn": "2023-02-22T19:00:20.000Z",
           "wordCount": null,
           "title": "The M4 Carbine: Aged to Perfection",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Bj-K8CzUyQI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Bj-K8CzUyQI",
-          "publishedOn": "2023-02-22T13:00:06.000Z",
-          "wordCount": null,
-          "title": "The Hand-launched Missile Reaches the Targets",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RMZTpbIwXYU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RMZTpbIwXYU",
-          "publishedOn": "2023-02-22T09:00:16.000Z",
-          "wordCount": null,
-          "title": "Exploring Titanic’s Remains Through 1986 Footage",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XFALR6N7MhM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XFALR6N7MhM",
-          "publishedOn": "2023-02-22T06:00:16.000Z",
-          "wordCount": null,
-          "title": "Interactive Gaze Robot is Equally Creepy and Fascinating",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1lV53sBhoH8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1lV53sBhoH8",
-          "publishedOn": "2023-02-21T21:00:03.000Z",
-          "wordCount": null,
-          "title": "UGV Optimized For MUM-T Operations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=S6wJC2n_6RQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=S6wJC2n_6RQ",
-          "publishedOn": "2023-02-21T19:00:10.000Z",
-          "wordCount": null,
-          "title": "Packaging Machines That Collects 12000 Pancakes Per Hour",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=T2Bx-q-5o44",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=T2Bx-q-5o44",
-          "publishedOn": "2023-02-21T19:00:09.000Z",
-          "wordCount": null,
-          "title": "Packaging Machines For Unbelieveable Purposes",
           "imageUrl": null
         }
       ]
@@ -1315,13 +1315,23 @@
       "siteUrl": "https://www.youtube.com/channel/UC7DdEm33SyaTDtWYGO2CwdA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=sOhdQNjmK_U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sOhdQNjmK_U",
+          "publishedOn": "2023-02-24T00:42:41.000Z",
+          "wordCount": null,
+          "title": "The universe is SPEEDING UP",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=iijaF1d7pzI",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=iijaF1d7pzI",
           "publishedOn": "2023-02-21T22:15:48.000Z",
           "wordCount": null,
-          "title": "Dianna went to the E.R. last week",
+          "title": "Dianna went to the E.R.",
           "imageUrl": null
         },
         {
@@ -1331,7 +1341,7 @@
           "link": "https://www.youtube.com/watch?v=wSMuhEJRoWE",
           "publishedOn": "2023-02-20T21:25:27.000Z",
           "wordCount": null,
-          "title": "Bubble pop in high speed slo motion",
+          "title": "Bubble pop in high speed slow motion",
           "imageUrl": null
         },
         {
@@ -1452,16 +1462,6 @@
           "publishedOn": "2023-01-24T02:07:09.000Z",
           "wordCount": null,
           "title": "We tried to land a plane on ICE.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_g5EUBZQXL4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_g5EUBZQXL4",
-          "publishedOn": "2023-01-22T14:00:09.000Z",
-          "wordCount": null,
-          "title": "Invisible blue dot trickery!",
           "imageUrl": null
         }
       ]
@@ -2218,6 +2218,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCekQr9znsk2vWxBo3YiLq2w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=WlIzqSiXNyI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WlIzqSiXNyI",
+          "publishedOn": "2023-02-24T23:44:05.000Z",
+          "wordCount": null,
+          "title": "Unholy Croissants",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=iZT-3a_iDEc",
           "author": null,
           "description": "",
@@ -2274,6 +2284,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=dSZbNsMorf8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dSZbNsMorf8",
+          "publishedOn": "2023-02-24T12:00:33.000Z",
+          "wordCount": null,
+          "title": "Preparing Machine for the PERFECT Grind",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=60zNxZsHbLc",
           "author": null,
@@ -2413,16 +2433,6 @@
           "wordCount": null,
           "title": "The History of Machining",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=B_bgQuD5HqU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=B_bgQuD5HqU",
-          "publishedOn": "2023-02-13T12:00:15.000Z",
-          "wordCount": null,
-          "title": "FULL Part Process! Raw Material to Shipping",
-          "imageUrl": null
         }
       ]
     },
@@ -2431,6 +2441,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=_Xmeae_Q_CI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_Xmeae_Q_CI",
+          "publishedOn": "2023-02-24T19:00:25.000Z",
+          "wordCount": null,
+          "title": "Here’s why Balinese salt is like no other. #traditional #natural #saltfarm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kAsqOlHXzDg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kAsqOlHXzDg",
+          "publishedOn": "2023-02-24T18:03:23.000Z",
+          "wordCount": null,
+          "title": "How The Oldest Chocolate House In New York City Survived A Century | Still Standing",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=RUZAXlxIKyA",
           "author": null,
@@ -2560,26 +2590,6 @@
           "wordCount": null,
           "title": "2 Volcom Execs Attempt to Surf, Skate, Snowboard, and Work All In One Day",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hV_-yJ6NiP8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hV_-yJ6NiP8",
-          "publishedOn": "2023-02-17T22:00:15.000Z",
-          "wordCount": null,
-          "title": "How Millions Of Jeans Get Recycled Into New Pairs | World Wide Waste | Insider Business",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UjkrnSQBsnc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UjkrnSQBsnc",
-          "publishedOn": "2023-02-17T16:00:31.000Z",
-          "wordCount": null,
-          "title": "How Four Of The Rarest Salts Survived For Centuries | Still Standing | Insider Business",
-          "imageUrl": null
         }
       ]
     },
@@ -2605,6 +2615,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCM15YNy8g-CaJ15YZCbq0Iw",
       "siteUrl": "https://www.youtube.com/channel/UCM15YNy8g-CaJ15YZCbq0Iw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=-m08Vi-2Q7E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-m08Vi-2Q7E",
+          "publishedOn": "2023-02-24T16:00:00.000Z",
+          "wordCount": null,
+          "title": "I made a real life Lickitung... and Jessie",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=5ERfyo_3mM8",
           "author": null,
