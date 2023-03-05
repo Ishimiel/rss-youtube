@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-04T00:34:03.643Z</id>
+    <id>urn:2023-03-05T00:39:30.309Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-04T00:34:03.643Z</updated>
+    <updated>2023-03-05T00:39:30.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Slicer That Cuts Salami into Pieces Rapidly]]></title>
+        <id>https://www.youtube.com/watch?v=Z2E4WYuUAeo</id>
+        <link href="https://www.youtube.com/watch?v=Z2E4WYuUAeo"/>
+        <updated>2023-03-04T21:00:18.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Which Letter Is Never Silent?]]></title>
+        <id>https://www.youtube.com/watch?v=BMs5dcHvW4Q</id>
+        <link href="https://www.youtube.com/watch?v=BMs5dcHvW4Q"/>
+        <updated>2023-03-04T20:14:59.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Humanity Survive After Running Out of Fossil Fuels?]]></title>
+        <id>https://www.youtube.com/watch?v=GxESuP9Z-3c</id>
+        <link href="https://www.youtube.com/watch?v=GxESuP9Z-3c"/>
+        <updated>2023-03-04T19:00:06.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making a PERFECT Taper Grind]]></title>
+        <id>https://www.youtube.com/watch?v=Dw1mCBA8mGQ</id>
+        <link href="https://www.youtube.com/watch?v=Dw1mCBA8mGQ"/>
+        <updated>2023-03-04T14:00:06.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tentacle Robot Grasps Fragile Objects]]></title>
+        <id>https://www.youtube.com/watch?v=vI5vt5Q5IeI</id>
+        <link href="https://www.youtube.com/watch?v=vI5vt5Q5IeI"/>
+        <updated>2023-03-04T13:00:38.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Make a Multi-Functional MACHINIST HAMMER]]></title>
+        <id>https://www.youtube.com/watch?v=0AIVMj6HTpU</id>
+        <link href="https://www.youtube.com/watch?v=0AIVMj6HTpU"/>
+        <updated>2023-03-04T12:00:00.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Powerful Electric Cutter Used for Cutting Materials]]></title>
+        <id>https://www.youtube.com/watch?v=yZIgFFrMq6w</id>
+        <link href="https://www.youtube.com/watch?v=yZIgFFrMq6w"/>
+        <updated>2023-03-04T09:00:30.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Automatic Liquid Filling Machine]]></title>
         <id>https://www.youtube.com/watch?v=1evYGjDvd60</id>
@@ -33,7 +96,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is It an Iron Pile or a Masterpiece?]]></title>
+        <title type="html"><![CDATA[The Eiffel Tower: Is It an Iron Pile or a Masterpiece?]]></title>
         <id>https://www.youtube.com/watch?v=QEiVLOxxVWk</id>
         <link href="https://www.youtube.com/watch?v=QEiVLOxxVWk"/>
         <updated>2023-03-03T19:00:10.000Z</updated>
@@ -222,24 +285,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UH-60 Black Hawk: The U.S. Army's Primary Multi-Role Helicopter]]></title>
-        <id>https://www.youtube.com/watch?v=ovPwcGLki18</id>
-        <link href="https://www.youtube.com/watch?v=ovPwcGLki18"/>
-        <updated>2023-03-01T19:00:23.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UH-60 Black Hawk: The U.S. Army's Primary Multi-Role Helicopter]]></title>
-        <id>https://www.youtube.com/watch?v=3Y1Tc_03a70</id>
-        <link href="https://www.youtube.com/watch?v=3Y1Tc_03a70"/>
-        <updated>2023-03-01T19:00:02.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This is why people milk camels. #milk #camelmilk #nutrition]]></title>
         <id>https://www.youtube.com/watch?v=XxtFcG-ceCY</id>
         <link href="https://www.youtube.com/watch?v=XxtFcG-ceCY"/>
@@ -249,30 +294,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Waves of Sea Bench]]></title>
-        <id>https://www.youtube.com/watch?v=3Qj9dgdDBVE</id>
-        <link href="https://www.youtube.com/watch?v=3Qj9dgdDBVE"/>
-        <updated>2023-03-01T13:00:04.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Machinist Preps Swiss Machine to Run SMALLER Parts]]></title>
         <id>https://www.youtube.com/watch?v=ilgEiyo-60M</id>
         <link href="https://www.youtube.com/watch?v=ilgEiyo-60M"/>
         <updated>2023-03-01T12:00:26.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mowing Roadside Grass with a Tractor Attachment]]></title>
-        <id>https://www.youtube.com/watch?v=Yx4G3kQTA3I</id>
-        <link href="https://www.youtube.com/watch?v=Yx4G3kQTA3I"/>
-        <updated>2023-03-01T09:00:21.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -609,15 +636,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D Printing a WORKING COPPER ELECTRODE]]></title>
-        <id>https://www.youtube.com/watch?v=NvRdaLXYhto</id>
-        <link href="https://www.youtube.com/watch?v=NvRdaLXYhto"/>
-        <updated>2023-02-22T13:46:58.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dianna went to the E.R.]]></title>
         <id>https://www.youtube.com/watch?v=iijaF1d7pzI</id>
         <link href="https://www.youtube.com/watch?v=iijaF1d7pzI"/>
@@ -651,15 +669,6 @@
         <updated>2023-02-21T20:46:13.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MESMERIZING CNC Machining]]></title>
-        <id>https://www.youtube.com/watch?v=f4fPm_TFHMY</id>
-        <link href="https://www.youtube.com/watch?v=f4fPm_TFHMY"/>
-        <updated>2023-02-21T14:00:30.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1542,15 +1551,6 @@
         <updated>2023-01-16T21:16:18.000Z</updated>
         <author>
             <name>Internet Pitstop</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What if The Hokey Pokey *IS* what it's all about?]]></title>
-        <id>https://www.youtube.com/watch?v=QE3D7NyQPmI</id>
-        <link href="https://www.youtube.com/watch?v=QE3D7NyQPmI"/>
-        <updated>2023-01-16T20:33:20.000Z</updated>
-        <author>
-            <name>Vsauce</name>
         </author>
     </entry>
     <entry>
