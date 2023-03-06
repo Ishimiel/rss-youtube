@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-05T00:39:30.309Z</id>
+    <id>urn:2023-03-06T00:36:08.862Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-05T00:39:30.309Z</updated>
+    <updated>2023-03-06T00:36:08.862Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Brain Criticality - Optimizing Neural Computations]]></title>
+        <id>https://www.youtube.com/watch?v=vwLb3XlPCB4</id>
+        <link href="https://www.youtube.com/watch?v=vwLb3XlPCB4"/>
+        <updated>2023-03-05T22:02:39.000Z</updated>
+        <author>
+            <name>Artem Kirsanov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Outdoor Capsule Protects Your Vehicle]]></title>
+        <id>https://www.youtube.com/watch?v=gu8E-PQvc1w</id>
+        <link href="https://www.youtube.com/watch?v=gu8E-PQvc1w"/>
+        <updated>2023-03-05T21:00:13.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spiders Might Have Inspired the Most Energy-Efficient Method of Producing Fabric]]></title>
+        <id>https://www.youtube.com/watch?v=bAXbnQqtmzQ</id>
+        <link href="https://www.youtube.com/watch?v=bAXbnQqtmzQ"/>
+        <updated>2023-03-05T19:00:16.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will Spider’s Silk Reinvent the Fashion Industry?]]></title>
+        <id>https://www.youtube.com/watch?v=8yg5junWQa4</id>
+        <link href="https://www.youtube.com/watch?v=8yg5junWQa4"/>
+        <updated>2023-03-05T19:00:04.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I tested 10 Glow in the Dark filaments to find the Glowiest!]]></title>
+        <id>https://www.youtube.com/watch?v=ODQoQd-0ky8</id>
+        <link href="https://www.youtube.com/watch?v=ODQoQd-0ky8"/>
+        <updated>2023-03-05T17:03:35.000Z</updated>
+        <author>
+            <name>CNC Kitchen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comparing $23,000 First Class With Business & Premium Economy Class On Singapore Airlines]]></title>
+        <id>https://www.youtube.com/watch?v=NM5DLbtxE-4</id>
+        <link href="https://www.youtube.com/watch?v=NM5DLbtxE-4"/>
+        <updated>2023-03-05T16:00:23.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forming Machine for Delicious Hamburgers]]></title>
+        <id>https://www.youtube.com/watch?v=ezRm-y7AzRY</id>
+        <link href="https://www.youtube.com/watch?v=ezRm-y7AzRY"/>
+        <updated>2023-03-05T13:00:24.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Custom Workholding Holds Complex Part]]></title>
+        <id>https://www.youtube.com/watch?v=yF-KOKeGQUA</id>
+        <link href="https://www.youtube.com/watch?v=yF-KOKeGQUA"/>
+        <updated>2023-03-05T12:00:41.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is a Life without Fossil Fuels Possible?]]></title>
+        <id>https://www.youtube.com/watch?v=EOFkoSPi7eI</id>
+        <link href="https://www.youtube.com/watch?v=EOFkoSPi7eI"/>
+        <updated>2023-03-05T11:00:10.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rotary Feeder For Feeding of Drippers]]></title>
+        <id>https://www.youtube.com/watch?v=NnifJspPjWk</id>
+        <link href="https://www.youtube.com/watch?v=NnifJspPjWk"/>
+        <updated>2023-03-05T09:00:25.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Slicer That Cuts Salami into Pieces Rapidly]]></title>
         <id>https://www.youtube.com/watch?v=Z2E4WYuUAeo</id>
@@ -186,33 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5 Giant Submarines]]></title>
-        <id>https://www.youtube.com/watch?v=NzxJwz8nurE</id>
-        <link href="https://www.youtube.com/watch?v=NzxJwz8nurE"/>
-        <updated>2023-03-03T06:51:09.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Incredible Machine to Make Pineapple Juice]]></title>
-        <id>https://www.youtube.com/watch?v=8EUYDdIFbIE</id>
-        <link href="https://www.youtube.com/watch?v=8EUYDdIFbIE"/>
-        <updated>2023-03-02T21:00:05.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Top 5 Largest Submarines: The Ultimate Underwater Titans]]></title>
-        <id>https://www.youtube.com/watch?v=TkcKaZ4x9mA</id>
-        <link href="https://www.youtube.com/watch?v=TkcKaZ4x9mA"/>
-        <updated>2023-03-02T19:00:22.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[My Workshop Was Destroyed...]]></title>
         <id>https://www.youtube.com/watch?v=2R-KDji7tGE</id>
         <link href="https://www.youtube.com/watch?v=2R-KDji7tGE"/>
@@ -231,30 +294,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Power Coming From Sunlight]]></title>
-        <id>https://www.youtube.com/watch?v=VZmv1sczzog</id>
-        <link href="https://www.youtube.com/watch?v=VZmv1sczzog"/>
-        <updated>2023-03-02T13:00:16.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Secret Process to Machining DIFFICULT Hard to Hold Parts]]></title>
         <id>https://www.youtube.com/watch?v=dTBjuHESCA0</id>
         <link href="https://www.youtube.com/watch?v=dTBjuHESCA0"/>
         <updated>2023-03-02T12:00:25.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Building Process of Walter Süskindbrug in Amsterdam]]></title>
-        <id>https://www.youtube.com/watch?v=jtRPRFBqIQk</id>
-        <link href="https://www.youtube.com/watch?v=jtRPRFBqIQk"/>
-        <updated>2023-03-02T09:00:22.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -273,15 +318,6 @@
         <updated>2023-03-01T22:05:18.000Z</updated>
         <author>
             <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Non-Nanotube Super-Black Coating Looks Unreal]]></title>
-        <id>https://www.youtube.com/watch?v=YST1APLtqUY</id>
-        <link href="https://www.youtube.com/watch?v=YST1APLtqUY"/>
-        <updated>2023-03-01T21:00:13.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -591,28 +627,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This is how oysters are grown for South Sea pearls. #oysters #pearls #Indonesia]]></title>
-        <id>https://www.youtube.com/watch?v=mCj8U4NFaF4</id>
-        <link href="https://www.youtube.com/watch?v=mCj8U4NFaF4"/>
-        <updated>2023-02-23T16:00:26.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Inspecting Difficult Features with a Mitutoyo Profilometer]]></title>
         <id>https://www.youtube.com/watch?v=60zNxZsHbLc</id>
         <link href="https://www.youtube.com/watch?v=60zNxZsHbLc"/>
         <updated>2023-02-23T14:00:03.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Form Threads In Less Than 1 Second]]></title>
-        <id>https://www.youtube.com/watch?v=Q9DlNs01N_A</id>
-        <link href="https://www.youtube.com/watch?v=Q9DlNs01N_A"/>
-        <updated>2023-02-23T12:00:15.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
         </author>
@@ -2262,24 +2280,6 @@
         <updated>2022-12-06T15:00:31.000Z</updated>
         <author>
             <name>Mathemaniac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can ENGINE Run on WATER?! They Copied my Toy (LATITY-011)]]></title>
-        <id>https://www.youtube.com/watch?v=CR0pdDdUOm0</id>
-        <link href="https://www.youtube.com/watch?v=CR0pdDdUOm0"/>
-        <updated>2022-12-05T17:00:00.000Z</updated>
-        <author>
-            <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Store Anything Anywhere with Gridfinity! 20+ Weird Printable Organizers by Makers Like You!]]></title>
-        <id>https://www.youtube.com/watch?v=7FCwMq-rVsY</id>
-        <link href="https://www.youtube.com/watch?v=7FCwMq-rVsY"/>
-        <updated>2022-12-05T14:00:02.000Z</updated>
-        <author>
-            <name>Zack Freedman</name>
         </author>
     </entry>
 </feed>
