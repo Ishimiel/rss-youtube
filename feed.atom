@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-11T00:30:30.516Z</id>
+    <id>urn:2023-03-12T00:36:32.941Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-11T00:30:30.516Z</updated>
+    <updated>2023-03-12T00:36:32.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Design and Control Of The First Foldable Single-Actuator Rotary Wing]]></title>
+        <id>https://www.youtube.com/watch?v=TvXNl3rjQVI</id>
+        <link href="https://www.youtube.com/watch?v=TvXNl3rjQVI"/>
+        <updated>2023-03-11T21:00:09.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Would Our First Contact with the Aliens Play Out?]]></title>
+        <id>https://www.youtube.com/watch?v=C4z9Ias0W2Y</id>
+        <link href="https://www.youtube.com/watch?v=C4z9Ias0W2Y"/>
+        <updated>2023-03-11T19:00:08.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Would Aliens Invade Us After the First Contact?]]></title>
+        <id>https://www.youtube.com/watch?v=GKuUA2IqLro</id>
+        <link href="https://www.youtube.com/watch?v=GKuUA2IqLro"/>
+        <updated>2023-03-11T19:00:08.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don’t Drop your Tools in Space]]></title>
+        <id>https://www.youtube.com/watch?v=_FFNz2q7F88</id>
+        <link href="https://www.youtube.com/watch?v=_FFNz2q7F88"/>
+        <updated>2023-03-11T15:00:32.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk VS China: Battle Over the Orbit]]></title>
+        <id>https://www.youtube.com/watch?v=kLJm0HjfKZA</id>
+        <link href="https://www.youtube.com/watch?v=kLJm0HjfKZA"/>
+        <updated>2023-03-11T15:00:28.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using a Versatile Chuck to TURN on Heller MILL!]]></title>
+        <id>https://www.youtube.com/watch?v=iE7E4J1RIog</id>
+        <link href="https://www.youtube.com/watch?v=iE7E4J1RIog"/>
+        <updated>2023-03-11T14:00:26.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Symmetric Reaction Wheel Unicycle]]></title>
+        <id>https://www.youtube.com/watch?v=r_yXmopUrlo</id>
+        <link href="https://www.youtube.com/watch?v=r_yXmopUrlo"/>
+        <updated>2023-03-11T13:00:39.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GIANT 35 AXIS 8 SPINDLE MultiSwiss CNC Machine]]></title>
+        <id>https://www.youtube.com/watch?v=wQIxwg891LA</id>
+        <link href="https://www.youtube.com/watch?v=wQIxwg891LA"/>
+        <updated>2023-03-11T12:00:43.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nano Cure Tech Works]]></title>
+        <id>https://www.youtube.com/watch?v=maomwmLaxoI</id>
+        <link href="https://www.youtube.com/watch?v=maomwmLaxoI"/>
+        <updated>2023-03-11T09:00:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This Creative Moveable Bridge is a Great Example of Civil Engineering]]></title>
         <id>https://www.youtube.com/watch?v=cSQKoS0lAmg</id>
@@ -240,15 +321,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tough Glass VS Glass: Which One is the Toughest?]]></title>
-        <id>https://www.youtube.com/watch?v=VrGVFBniUeo</id>
-        <link href="https://www.youtube.com/watch?v=VrGVFBniUeo"/>
-        <updated>2023-03-09T09:00:18.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sail Crutch]]></title>
         <id>https://www.youtube.com/watch?v=9sXl0J1-M8k</id>
         <link href="https://www.youtube.com/watch?v=9sXl0J1-M8k"/>
@@ -267,39 +339,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rail-Bound Heavy-Load Robot That Can Carry 33,000 Pounds]]></title>
-        <id>https://www.youtube.com/watch?v=O9TGKit8IPA</id>
-        <link href="https://www.youtube.com/watch?v=O9TGKit8IPA"/>
-        <updated>2023-03-08T21:00:08.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Have you heard the military term "getting smoked" before? #military #bootcamp #InsiderBusiness]]></title>
         <id>https://www.youtube.com/watch?v=gEc5N9G1xeQ</id>
         <link href="https://www.youtube.com/watch?v=gEc5N9G1xeQ"/>
         <updated>2023-03-08T20:11:06.000Z</updated>
         <author>
             <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ohio Class Submarines: The Ultimate Nuclear Deterrent]]></title>
-        <id>https://www.youtube.com/watch?v=ZoJHJDO051k</id>
-        <link href="https://www.youtube.com/watch?v=ZoJHJDO051k"/>
-        <updated>2023-03-08T19:00:12.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ohio Class Submarines: A Symbol of US Nuclear Supremacy]]></title>
-        <id>https://www.youtube.com/watch?v=SKfYlWRMo0U</id>
-        <link href="https://www.youtube.com/watch?v=SKfYlWRMo0U"/>
-        <updated>2023-03-08T19:00:12.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -312,30 +357,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Automation Technology in Molecular Diagnosis Tests]]></title>
-        <id>https://www.youtube.com/watch?v=fqy1IFcQGVQ</id>
-        <link href="https://www.youtube.com/watch?v=fqy1IFcQGVQ"/>
-        <updated>2023-03-08T13:00:27.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[$Million Dollar Machine gets a Magnetic Chuck]]></title>
         <id>https://www.youtube.com/watch?v=4JiX1w146Vw</id>
         <link href="https://www.youtube.com/watch?v=4JiX1w146Vw"/>
         <updated>2023-03-08T12:00:06.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Expandable Caravan]]></title>
-        <id>https://www.youtube.com/watch?v=PO1rVn0osQs</id>
-        <link href="https://www.youtube.com/watch?v=PO1rVn0osQs"/>
-        <updated>2023-03-08T09:00:18.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -618,15 +645,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Machinist Preps Swiss Machine to Run SMALLER Parts]]></title>
-        <id>https://www.youtube.com/watch?v=ilgEiyo-60M</id>
-        <link href="https://www.youtube.com/watch?v=ilgEiyo-60M"/>
-        <updated>2023-03-01T12:00:26.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[WIN a Bambu P1P at Emerald City Comic-Con! 🎉]]></title>
         <id>https://www.youtube.com/watch?v=piydoQH1sqA</id>
         <link href="https://www.youtube.com/watch?v=piydoQH1sqA"/>
@@ -660,15 +678,6 @@
         <updated>2023-02-28T14:13:03.000Z</updated>
         <author>
             <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up a 5 Axis CNC Machine]]></title>
-        <id>https://www.youtube.com/watch?v=8XoNCRI5ois</id>
-        <link href="https://www.youtube.com/watch?v=8XoNCRI5ois"/>
-        <updated>2023-02-28T14:00:05.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2235,42 +2244,6 @@
         <updated>2022-12-12T13:00:26.000Z</updated>
         <author>
             <name>The Engineering Mindset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[wonky Ethiopian bass rhythms]]></title>
-        <id>https://www.youtube.com/watch?v=Pkt6bYev57I</id>
-        <link href="https://www.youtube.com/watch?v=Pkt6bYev57I"/>
-        <updated>2022-12-11T22:07:04.000Z</updated>
-        <author>
-            <name>Adam Neely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch Artemis-1 return from the moon! NASA's Orion is splashing down!!! #artemis1]]></title>
-        <id>https://www.youtube.com/watch?v=Bt-gq6oNie4</id>
-        <link href="https://www.youtube.com/watch?v=Bt-gq6oNie4"/>
-        <updated>2022-12-11T18:46:40.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Problem with Nuclear Fusion]]></title>
-        <id>https://www.youtube.com/watch?v=BzK0ydOF0oU</id>
-        <link href="https://www.youtube.com/watch?v=BzK0ydOF0oU"/>
-        <updated>2022-12-11T17:00:05.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Terraform Mars - WITH LASERS]]></title>
-        <id>https://www.youtube.com/watch?v=HpcTJW4ur54</id>
-        <link href="https://www.youtube.com/watch?v=HpcTJW4ur54"/>
-        <updated>2022-12-11T15:00:09.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>
