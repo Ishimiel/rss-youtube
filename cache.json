@@ -265,16 +265,6 @@
           "wordCount": null,
           "title": "Numerical Integration of Chaotic Dynamics: Uncertainty Propagation & Vectorized Integration",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vNoFdtcPFdk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vNoFdtcPFdk",
-          "publishedOn": "2022-12-19T11:00:26.000Z",
-          "wordCount": null,
-          "title": "Coding a Fourth-Order Runge-Kutta Integrator in Python and Matlab",
-          "imageUrl": null
         }
       ]
     },
@@ -517,7 +507,7 @@
           "link": "https://www.youtube.com/watch?v=eLYYsKK0js8",
           "publishedOn": "2023-03-17T13:00:25.000Z",
           "wordCount": null,
-          "title": "Organic Supports & Rubber Band Weapons?",
+          "title": "Prusa Organic Supports & Rubber Band Weapons?",
           "imageUrl": null
         },
         {
@@ -778,6 +768,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCiczXOhGpvoQGhOL16EZiTg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=TGa_KvKLDR8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TGa_KvKLDR8",
+          "publishedOn": "2023-03-18T17:07:00.000Z",
+          "wordCount": null,
+          "title": "Revolutionary Arc Overhangs are now in PrusaSlicer*",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ODQoQd-0ky8",
           "author": null,
           "description": "",
@@ -964,6 +964,56 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pEPqdQj_pEg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pEPqdQj_pEg",
+          "publishedOn": "2023-03-18T21:00:14.000Z",
+          "wordCount": null,
+          "title": "Multi-Tool UGVs Can Automate Various Jobs in Agriculture",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=r-qmFl0AAHY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=r-qmFl0AAHY",
+          "publishedOn": "2023-03-18T19:00:16.000Z",
+          "wordCount": null,
+          "title": "St. Basil's Cathedral: A Marvel of Russian Architecture",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7uPRpINXiEs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7uPRpINXiEs",
+          "publishedOn": "2023-03-18T19:00:02.000Z",
+          "wordCount": null,
+          "title": "A Symbol of Russia's Rich and Complex History",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5EVCxN83KIk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5EVCxN83KIk",
+          "publishedOn": "2023-03-18T13:00:03.000Z",
+          "wordCount": null,
+          "title": "3D Print a Soft and Flexible Replica Of a Patients Heart",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jPnVx9dGYXY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jPnVx9dGYXY",
+          "publishedOn": "2023-03-18T09:00:24.000Z",
+          "wordCount": null,
+          "title": "The Art of Precision Implosion",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Zifv-s0-9w4",
           "author": null,
           "description": "",
@@ -1061,56 +1111,6 @@
           "publishedOn": "2023-03-16T19:00:00.000Z",
           "wordCount": null,
           "title": "5 Largest Cruise Ships in the World",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8XC-YzrOBNw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8XC-YzrOBNw",
-          "publishedOn": "2023-03-16T13:00:06.000Z",
-          "wordCount": null,
-          "title": "Efficient Chain Production with Automatic Machines",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tyigVG7zgOE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tyigVG7zgOE",
-          "publishedOn": "2023-03-16T09:00:37.000Z",
-          "wordCount": null,
-          "title": "Examining the Effects of a Nuclear Blast",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0PQR81ZAhcc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0PQR81ZAhcc",
-          "publishedOn": "2023-03-15T21:00:00.000Z",
-          "wordCount": null,
-          "title": "Armored Vehicle Based on a True Story",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1jPVdehOSoQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1jPVdehOSoQ",
-          "publishedOn": "2023-03-15T19:00:01.000Z",
-          "wordCount": null,
-          "title": "The M109A6 Paladin 155mm Howitzer- Now in Ukraine",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WMm0WlRvFQ0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WMm0WlRvFQ0",
-          "publishedOn": "2023-03-15T17:47:24.000Z",
-          "wordCount": null,
-          "title": "M109A6 Paladin: U.S. Army's Heavy Hitter Joins the Fight in Ukraine",
           "imageUrl": null
         }
       ]
@@ -2166,7 +2166,7 @@
           "link": "https://www.youtube.com/watch?v=x3hKPOlG934",
           "publishedOn": "2023-02-09T16:00:35.000Z",
           "wordCount": null,
-          "title": "The Robots that Build Everything Electronic",
+          "title": "The Pick-and-Place: The Robots that Built the Modern World",
           "imageUrl": null
         },
         {
@@ -2186,6 +2186,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCekQr9znsk2vWxBo3YiLq2w",
       "siteUrl": "https://www.youtube.com/channel/UCekQr9znsk2vWxBo3YiLq2w",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=TwOL9yUfQPM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TwOL9yUfQPM",
+          "publishedOn": "2023-03-18T13:00:17.000Z",
+          "wordCount": null,
+          "title": "Balsamic and Bacon Roasted Brussels Sprouts - You Suck at Cooking (episode 154)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=WlIzqSiXNyI",
           "author": null,
@@ -2243,6 +2253,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Pl8iQHhgLSE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Pl8iQHhgLSE",
+          "publishedOn": "2023-03-18T13:00:29.000Z",
+          "wordCount": null,
+          "title": "Face Grinding with a MAGNETIC Chuck!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=HeWuW2YAKtc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HeWuW2YAKtc",
+          "publishedOn": "2023-03-18T11:00:12.000Z",
+          "wordCount": null,
+          "title": "CNC Machining AK-50 Cam Groove for Brandon Herrera",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=aMMD5Z45wJY",
           "author": null,
@@ -2362,26 +2392,6 @@
           "wordCount": null,
           "title": "Slotting CAST IRON at Full Depth",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4JiX1w146Vw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4JiX1w146Vw",
-          "publishedOn": "2023-03-08T12:00:06.000Z",
-          "wordCount": null,
-          "title": "$Million Dollar Machine gets a Magnetic Chuck",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3HEm5pUYcDQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3HEm5pUYcDQ",
-          "publishedOn": "2023-03-07T14:00:03.000Z",
-          "wordCount": null,
-          "title": "New Hardinge Collets for our Tornos Swiss Machines!",
-          "imageUrl": null
         }
       ]
     },
@@ -2390,6 +2400,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=QIwpNKfy4sg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QIwpNKfy4sg",
+          "publishedOn": "2023-03-18T14:00:26.000Z",
+          "wordCount": null,
+          "title": "Why Damascus Knives Are So Expensive | So Expensive | Insider Business",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Qhh_kSOcZQg",
           "author": null,
@@ -2529,16 +2549,6 @@
           "wordCount": null,
           "title": "This is what the first day at West Point is like. #WestPoint #MilitaryAcademy #USMilitary",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=v56zZiUGb2w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=v56zZiUGb2w",
-          "publishedOn": "2023-03-09T23:00:35.000Z",
-          "wordCount": null,
-          "title": "Here’s what it’s like inside the Coast Guard bootcamp. #militarytraining #bootcamp #training",
-          "imageUrl": null
         }
       ]
     },
@@ -2611,7 +2621,7 @@
           "link": "https://www.youtube.com/watch?v=5ERfyo_3mM8",
           "publishedOn": "2023-02-17T16:00:03.000Z",
           "wordCount": null,
-          "title": "I made a realistic Mr  Mime",
+          "title": "I made the Mr. Mime from Detective Pikachu",
           "imageUrl": null
         },
         {
