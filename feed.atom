@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-19T00:37:30.247Z</id>
+    <id>urn:2023-03-20T00:35:19.319Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-19T00:37:30.247Z</updated>
+    <updated>2023-03-20T00:35:19.319Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[This Robot Can Screed 860 Square Feet in Just One Hour]]></title>
+        <id>https://www.youtube.com/watch?v=sMdVmYKvrkw</id>
+        <link href="https://www.youtube.com/watch?v=sMdVmYKvrkw"/>
+        <updated>2023-03-19T21:00:30.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lobster Eye-Inspired Telescopes are Helping Us Have a Better Understanding of the Universe]]></title>
+        <id>https://www.youtube.com/watch?v=YksyJroizB4</id>
+        <link href="https://www.youtube.com/watch?v=YksyJroizB4"/>
+        <updated>2023-03-19T19:00:12.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Observing the Universe Through the Eyes of a Lobster]]></title>
+        <id>https://www.youtube.com/watch?v=MjeFgCW8oDc</id>
+        <link href="https://www.youtube.com/watch?v=MjeFgCW8oDc"/>
+        <updated>2023-03-19T19:00:05.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Which filament is the MOST CURSED? I tested them all! | Every Filament IV]]></title>
+        <id>https://www.youtube.com/watch?v=uVECS4rBAZc</id>
+        <link href="https://www.youtube.com/watch?v=uVECS4rBAZc"/>
+        <updated>2023-03-19T16:12:10.000Z</updated>
+        <author>
+            <name>Zack Freedman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trailer Beyond The Usual]]></title>
+        <id>https://www.youtube.com/watch?v=89jIOEPVUTg</id>
+        <link href="https://www.youtube.com/watch?v=89jIOEPVUTg"/>
+        <updated>2023-03-19T13:00:08.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Assembly of a 35 AXIS Tornos Machine!]]></title>
+        <id>https://www.youtube.com/watch?v=Yd2WGST9xMM</id>
+        <link href="https://www.youtube.com/watch?v=Yd2WGST9xMM"/>
+        <updated>2023-03-19T11:00:20.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rapid Evacuation System By Sliding]]></title>
+        <id>https://www.youtube.com/watch?v=42DWn_NF8vg</id>
+        <link href="https://www.youtube.com/watch?v=42DWn_NF8vg"/>
+        <updated>2023-03-19T09:00:02.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multi-Tool UGVs Can Automate Various Jobs in Agriculture]]></title>
         <id>https://www.youtube.com/watch?v=pEPqdQj_pEg</id>
@@ -240,57 +303,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is the Silicon Valley Bank Collapse the Start of Something Bigger?]]></title>
-        <id>https://www.youtube.com/watch?v=q6QHe32qpPg</id>
-        <link href="https://www.youtube.com/watch?v=q6QHe32qpPg"/>
-        <updated>2023-03-16T23:00:31.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SVB and Signature Bank Just Closed Their Doors. What’s Next?]]></title>
-        <id>https://www.youtube.com/watch?v=941QVXij4jc</id>
-        <link href="https://www.youtube.com/watch?v=941QVXij4jc"/>
-        <updated>2023-03-16T23:00:05.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mega Drone That Lifts 300 kg]]></title>
-        <id>https://www.youtube.com/watch?v=7YTd9FzcgWI</id>
-        <link href="https://www.youtube.com/watch?v=7YTd9FzcgWI"/>
-        <updated>2023-03-16T21:00:02.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Breath Of The Wild's Biggest Flaw]]></title>
         <id>https://www.youtube.com/watch?v=kihKNhUZ3MQ</id>
         <link href="https://www.youtube.com/watch?v=kihKNhUZ3MQ"/>
         <updated>2023-03-16T20:58:23.000Z</updated>
         <author>
             <name>Internet Pitstop</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Largest Cruise Ships in the World]]></title>
-        <id>https://www.youtube.com/watch?v=RD6Wc4OuaAo</id>
-        <link href="https://www.youtube.com/watch?v=RD6Wc4OuaAo"/>
-        <updated>2023-03-16T19:00:09.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Largest Cruise Ships in the World]]></title>
-        <id>https://www.youtube.com/watch?v=-0yajraxdoE</id>
-        <link href="https://www.youtube.com/watch?v=-0yajraxdoE"/>
-        <updated>2023-03-16T19:00:00.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -678,15 +696,6 @@
         <updated>2023-03-09T16:00:00.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slotting CAST IRON at Full Depth]]></title>
-        <id>https://www.youtube.com/watch?v=ehp_eo9jTX0</id>
-        <link href="https://www.youtube.com/watch?v=ehp_eo9jTX0"/>
-        <updated>2023-03-09T12:00:24.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2224,24 +2233,6 @@
         <id>https://www.youtube.com/watch?v=W770Z1yvXs8</id>
         <link href="https://www.youtube.com/watch?v=W770Z1yvXs8"/>
         <updated>2022-12-20T13:00:21.000Z</updated>
-        <author>
-            <name>The Engineering Mindset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Search for Siegel Zeros - Numberphile]]></title>
-        <id>https://www.youtube.com/watch?v=Bn946gIck3g</id>
-        <link href="https://www.youtube.com/watch?v=Bn946gIck3g"/>
-        <updated>2022-12-19T13:41:30.000Z</updated>
-        <author>
-            <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Step Down Transformer Calculations - A Quick and Easy Guide]]></title>
-        <id>https://www.youtube.com/watch?v=i8YcmhtLv-4</id>
-        <link href="https://www.youtube.com/watch?v=i8YcmhtLv-4"/>
-        <updated>2022-12-19T13:00:23.000Z</updated>
         <author>
             <name>The Engineering Mindset</name>
         </author>
