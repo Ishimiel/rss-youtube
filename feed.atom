@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-22T00:31:09.180Z</id>
+    <id>urn:2023-03-23T00:33:04.365Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-22T00:31:09.180Z</updated>
+    <updated>2023-03-23T00:33:04.365Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Happened to Lost Bicycles Revealed]]></title>
+        <id>https://www.youtube.com/watch?v=ilSWC6OQNiI</id>
+        <link href="https://www.youtube.com/watch?v=ilSWC6OQNiI"/>
+        <updated>2023-03-22T21:00:18.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is how sulfur is mined from an active volcano. #mining #volcano #minerals]]></title>
+        <id>https://www.youtube.com/watch?v=0a866gZa_hE</id>
+        <link href="https://www.youtube.com/watch?v=0a866gZa_hE"/>
+        <updated>2023-03-22T19:30:01.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Weapon Every Russian Tanker Fears in Ukraine: BGM-71 TOW]]></title>
+        <id>https://www.youtube.com/watch?v=kveWyU7ous0</id>
+        <link href="https://www.youtube.com/watch?v=kveWyU7ous0"/>
+        <updated>2023-03-22T19:00:19.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BGM-71 TOW Anti-Tank Missile: No Russian Tank is Safe in Ukraine]]></title>
+        <id>https://www.youtube.com/watch?v=uaYZPw8pd8c</id>
+        <link href="https://www.youtube.com/watch?v=uaYZPw8pd8c"/>
+        <updated>2023-03-22T16:57:15.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transforming the Norm]]></title>
+        <id>https://www.youtube.com/watch?v=7hWmZyuy8xA</id>
+        <link href="https://www.youtube.com/watch?v=7hWmZyuy8xA"/>
+        <updated>2023-03-22T14:47:23.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hurricane Balls]]></title>
+        <id>https://www.youtube.com/watch?v=ulpbFjbZuA0</id>
+        <link href="https://www.youtube.com/watch?v=ulpbFjbZuA0"/>
+        <updated>2023-03-22T14:20:56.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[16 Tons is Easy Work for this 4-Wheel Autonomous Hauler]]></title>
+        <id>https://www.youtube.com/watch?v=m4EBnqFWqfk</id>
+        <link href="https://www.youtube.com/watch?v=m4EBnqFWqfk"/>
+        <updated>2023-03-22T13:00:26.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[These Gauge Blocks Stick together like MAGIC!]]></title>
+        <id>https://www.youtube.com/watch?v=Vvfjwb3utSI</id>
+        <link href="https://www.youtube.com/watch?v=Vvfjwb3utSI"/>
+        <updated>2023-03-22T11:00:23.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[That’s Not a Stingray, That’s a Robot Traversing the Sea]]></title>
+        <id>https://www.youtube.com/watch?v=YUmH2m0vplI</id>
+        <link href="https://www.youtube.com/watch?v=YUmH2m0vplI"/>
+        <updated>2023-03-22T09:00:32.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multiple Thread Mill For Multiple Applications On Aluminium]]></title>
         <id>https://www.youtube.com/watch?v=KzIY76S66NE</id>
@@ -123,7 +204,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shocking Move From Tesla]]></title>
+        <title type="html"><![CDATA[Tesla's Autopilot and Full Self-Driving Modes: Are They Safe for the Road?]]></title>
         <id>https://www.youtube.com/watch?v=Khhor5ccy6w</id>
         <link href="https://www.youtube.com/watch?v=Khhor5ccy6w"/>
         <updated>2023-03-20T23:00:19.000Z</updated>
@@ -177,15 +258,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[First Direct-Drive Self-Balancing Wheeled-Leg Robot]]></title>
-        <id>https://www.youtube.com/watch?v=LhbTCROe2Io</id>
-        <link href="https://www.youtube.com/watch?v=LhbTCROe2Io"/>
-        <updated>2023-03-20T13:00:25.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[3D Printing an INDESTRUCTIBLE object!]]></title>
         <id>https://www.youtube.com/watch?v=RM4S_Jo7Wos</id>
         <link href="https://www.youtube.com/watch?v=RM4S_Jo7Wos"/>
@@ -195,48 +267,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Mobile Brick Making Machine Can Produce 12,000 Bricks in an Hour]]></title>
-        <id>https://www.youtube.com/watch?v=rp4QiUjy9dM</id>
-        <link href="https://www.youtube.com/watch?v=rp4QiUjy9dM"/>
-        <updated>2023-03-20T09:00:27.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pilothouse Diesel Heater Installation]]></title>
         <id>https://www.youtube.com/watch?v=mv0vqASZJk8</id>
         <link href="https://www.youtube.com/watch?v=mv0vqASZJk8"/>
         <updated>2023-03-20T04:12:36.000Z</updated>
         <author>
             <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Robot Can Screed 860 Square Feet in Just One Hour]]></title>
-        <id>https://www.youtube.com/watch?v=sMdVmYKvrkw</id>
-        <link href="https://www.youtube.com/watch?v=sMdVmYKvrkw"/>
-        <updated>2023-03-19T21:00:30.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lobster Eye-Inspired Telescopes are Helping Us Have a Better Understanding of the Universe]]></title>
-        <id>https://www.youtube.com/watch?v=YksyJroizB4</id>
-        <link href="https://www.youtube.com/watch?v=YksyJroizB4"/>
-        <updated>2023-03-19T19:00:12.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Lobsters See the World]]></title>
-        <id>https://www.youtube.com/watch?v=MjeFgCW8oDc</id>
-        <link href="https://www.youtube.com/watch?v=MjeFgCW8oDc"/>
-        <updated>2023-03-19T19:00:05.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -651,33 +687,6 @@
         <updated>2023-03-11T15:00:32.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using a Versatile Chuck to TURN on Heller MILL!]]></title>
-        <id>https://www.youtube.com/watch?v=iE7E4J1RIog</id>
-        <link href="https://www.youtube.com/watch?v=iE7E4J1RIog"/>
-        <updated>2023-03-11T14:00:26.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did you know the environmental impact of plastic utensils? #sustainability #plasticutensils #waste]]></title>
-        <id>https://www.youtube.com/watch?v=8jaU3Gg-OFQ</id>
-        <link href="https://www.youtube.com/watch?v=8jaU3Gg-OFQ"/>
-        <updated>2023-03-10T18:56:30.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This company makes tables out of chopsticks! #Chopsticks #Furniture #Upcycling]]></title>
-        <id>https://www.youtube.com/watch?v=g3sFeo4zARw</id>
-        <link href="https://www.youtube.com/watch?v=g3sFeo4zARw"/>
-        <updated>2023-03-10T18:52:31.000Z</updated>
-        <author>
-            <name>Insider Business</name>
         </author>
     </entry>
     <entry>
@@ -1743,15 +1752,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Most Valuable Thing I Own]]></title>
-        <id>https://www.youtube.com/watch?v=ES_9mqlKpRs</id>
-        <link href="https://www.youtube.com/watch?v=ES_9mqlKpRs"/>
-        <updated>2023-01-26T19:15:00.000Z</updated>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Raising Sails - Part 9 - Foresail Modifications]]></title>
         <id>https://www.youtube.com/watch?v=kWESPMMP5YM</id>
         <link href="https://www.youtube.com/watch?v=kWESPMMP5YM"/>
@@ -2181,51 +2181,6 @@
         <updated>2022-12-23T14:13:13.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Numerical Integration of Chaotic Dynamics: Uncertainty Propagation & Vectorized Integration]]></title>
-        <id>https://www.youtube.com/watch?v=LRF4dGP4xeo</id>
-        <link href="https://www.youtube.com/watch?v=LRF4dGP4xeo"/>
-        <updated>2022-12-23T11:00:22.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Deep: Exploring Earth’s Last Frontier]]></title>
-        <id>https://www.youtube.com/watch?v=FiyyndtlHdQ</id>
-        <link href="https://www.youtube.com/watch?v=FiyyndtlHdQ"/>
-        <updated>2022-12-22T20:00:07.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geosynchronous Orbits are WEIRD]]></title>
-        <id>https://www.youtube.com/watch?v=tI8OqpkOVzs</id>
-        <link href="https://www.youtube.com/watch?v=tI8OqpkOVzs"/>
-        <updated>2022-12-22T14:00:25.000Z</updated>
-        <author>
-            <name>minutephysics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No Bake Nougat - You Suck at Cooking (episode 151)]]></title>
-        <id>https://www.youtube.com/watch?v=udH6whc261E</id>
-        <link href="https://www.youtube.com/watch?v=udH6whc261E"/>
-        <updated>2022-12-22T14:00:21.000Z</updated>
-        <author>
-            <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a capacitor? Basics]]></title>
-        <id>https://www.youtube.com/watch?v=NPM3wSb7veU</id>
-        <link href="https://www.youtube.com/watch?v=NPM3wSb7veU"/>
-        <updated>2022-12-22T13:00:11.000Z</updated>
-        <author>
-            <name>The Engineering Mindset</name>
         </author>
     </entry>
 </feed>
