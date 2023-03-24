@@ -24,16 +24,6 @@
           "wordCount": null,
           "title": "Could One Physics Theory Unlock the Mysteries of the Brain?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Nmgl78a02ys",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Nmgl78a02ys",
-          "publishedOn": "2022-12-23T14:13:13.000Z",
-          "wordCount": null,
-          "title": "2022's Biggest Breakthroughs in Math",
-          "imageUrl": null
         }
       ]
     },
@@ -82,6 +72,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrlZs71h3mTR45FgQNINfrg",
       "siteUrl": "https://www.youtube.com/channel/UCrlZs71h3mTR45FgQNINfrg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=lPr5v7mwq34",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lPr5v7mwq34",
+          "publishedOn": "2023-03-23T15:00:27.000Z",
+          "wordCount": null,
+          "title": "The biggest misconception on spin 1/2 | Math of quantum mechanics",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=hRTBVrEkb6A",
           "author": null,
@@ -481,6 +481,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=n7oJuNNAGvQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=n7oJuNNAGvQ",
+          "publishedOn": "2023-03-23T13:00:29.000Z",
+          "wordCount": null,
+          "title": "MASSIVE Resin 3D Printer! // Emake3D Galaxy 1",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=eLYYsKK0js8",
           "author": null,
           "description": "",
@@ -618,16 +628,6 @@
           "publishedOn": "2023-02-14T19:09:30.000Z",
           "wordCount": null,
           "title": "Emake3D Galaxy 1 FINALLY OUT OF THE CRATE! 😳",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=c5YH9fK174o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=c5YH9fK174o",
-          "publishedOn": "2023-02-10T14:00:21.000Z",
-          "wordCount": null,
-          "title": "Ultrafast FLEXIBLE RESIN on the Nexa3D XiP!",
           "imageUrl": null
         }
       ]
@@ -845,7 +845,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=pg8v7XRcTXc",
-          "publishedOn": "2023-03-21T20:13:27.000Z",
+          "publishedOn": "2023-03-23T04:11:15.000Z",
           "wordCount": null,
           "title": "Watch The 1st 3D Printed Orbital Rocket Launch Attempt! #Relativity  // #GLHF",
           "imageUrl": null
@@ -954,6 +954,56 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=9FKFsLYEkFw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9FKFsLYEkFw",
+          "publishedOn": "2023-03-23T21:00:10.000Z",
+          "wordCount": null,
+          "title": "Efficient and Reliable Self-Propelled Harvester",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=pxTm4b-wj4g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pxTm4b-wj4g",
+          "publishedOn": "2023-03-23T19:00:20.000Z",
+          "wordCount": null,
+          "title": "These are the most gigantic work machines until we find bigger ones",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=sjuvhC8I7AY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sjuvhC8I7AY",
+          "publishedOn": "2023-03-23T13:00:40.000Z",
+          "wordCount": null,
+          "title": "Vortex Bladeless Tacoma Relies on Oscillation Instead of Rotation to Generate Electricity",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=M3MSxpLpkQk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=M3MSxpLpkQk",
+          "publishedOn": "2023-03-23T12:29:55.000Z",
+          "wordCount": null,
+          "title": "5 Extremely Powerful Machines that Take It to Another Level",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7i3MHndYZlY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7i3MHndYZlY",
+          "publishedOn": "2023-03-23T09:00:08.000Z",
+          "wordCount": null,
+          "title": "Boston Dynamics' Robot Dogs Steal the Show at Coperni's Fashion Runway",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ilSWC6OQNiI",
           "author": null,
           "description": "",
@@ -1052,56 +1102,6 @@
           "wordCount": null,
           "title": "Seismic Isolators Can Decrease the Effects of Earthquakes up to 80%",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kpQBU1V_aR8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kpQBU1V_aR8",
-          "publishedOn": "2023-03-20T23:00:32.000Z",
-          "wordCount": null,
-          "title": "Musk’s Fans and Foes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Khhor5ccy6w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Khhor5ccy6w",
-          "publishedOn": "2023-03-20T23:00:19.000Z",
-          "wordCount": null,
-          "title": "Tesla's Autopilot and Full Self-Driving Modes: Are They Safe for the Road?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=79RazpJKFRU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=79RazpJKFRU",
-          "publishedOn": "2023-03-20T21:00:05.000Z",
-          "wordCount": null,
-          "title": "Ultra-Fast Robot Arm Predicts a Flying Object's Path and Catches It",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=K73nzqsa4LM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=K73nzqsa4LM",
-          "publishedOn": "2023-03-20T19:00:06.000Z",
-          "wordCount": null,
-          "title": "The Drone Wars: DJI Mavic 3, R-18, the Switchblade and Warmate Defending Ukraine",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3PyHW-izgwM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3PyHW-izgwM",
-          "publishedOn": "2023-03-20T19:00:01.000Z",
-          "wordCount": null,
-          "title": "Small yet Deadly: DJI Mavic 3, R-18, the Switchblade and Warmate fighting for Ukraine",
-          "imageUrl": null
         }
       ]
     },
@@ -1188,18 +1188,7 @@
       "title": "NileRed",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFhXFikryT4aFcLkLw2LBLA",
       "siteUrl": "https://www.youtube.com/channel/UCFhXFikryT4aFcLkLw2LBLA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=LmAG8-V_WQY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LmAG8-V_WQY",
-          "publishedOn": "2022-12-24T00:46:40.000Z",
-          "wordCount": null,
-          "title": "Making the stinkiest chemical known to man",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Numberphile",
@@ -1284,16 +1273,6 @@
           "publishedOn": "2023-01-08T12:11:52.000Z",
           "wordCount": null,
           "title": "Card Memorisation (using numbers) - Numberphile",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZdQFN2XKeKI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZdQFN2XKeKI",
-          "publishedOn": "2022-12-24T08:21:19.000Z",
-          "wordCount": null,
-          "title": "The Goat Problem - Numberphile",
           "imageUrl": null
         }
       ]
@@ -1508,6 +1487,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCj_XaV1ss-qdD-lPUtTEcXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tKMU7lXTCBk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tKMU7lXTCBk",
+          "publishedOn": "2023-03-23T04:10:05.000Z",
+          "wordCount": null,
+          "title": "Block and Tackle and Rigging a Chinese Junk",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mv0vqASZJk8",
           "author": null,
           "description": "",
@@ -1646,16 +1635,6 @@
           "wordCount": null,
           "title": "Raising Sails - Part 9 - Foresail Modifications",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=K9VTZYFmc4Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=K9VTZYFmc4Q",
-          "publishedOn": "2023-01-15T14:00:44.000Z",
-          "wordCount": null,
-          "title": "Raising Sails - Part 8 - First Sail",
-          "imageUrl": null
         }
       ]
     },
@@ -1717,6 +1696,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCk0fGHsCEzGig-rSzkfCjMw",
       "siteUrl": "https://www.youtube.com/channel/UCk0fGHsCEzGig-rSzkfCjMw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=vpbhvxAM0io",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vpbhvxAM0io",
+          "publishedOn": "2023-03-23T16:47:49.000Z",
+          "wordCount": null,
+          "title": "How to build gear set for rear differential 3D print",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=DYcLFHgVCn0",
           "author": null,
@@ -2183,6 +2172,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QsvtdDNH3ME",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QsvtdDNH3ME",
+          "publishedOn": "2023-03-23T13:00:15.000Z",
+          "wordCount": null,
+          "title": "Machining a PERFECT AK-50 Cam Groove",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9fH1ELPwvbk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9fH1ELPwvbk",
+          "publishedOn": "2023-03-23T11:00:10.000Z",
+          "wordCount": null,
+          "title": "Tips on Drilling PERFECT Angled Holes with Flat Bottom Drills",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Vvfjwb3utSI",
           "author": null,
           "description": "",
@@ -2209,7 +2218,7 @@
           "link": "https://www.youtube.com/watch?v=XxC1xnqrGz4",
           "publishedOn": "2023-03-21T11:00:22.000Z",
           "wordCount": null,
-          "title": "The GOLIATH Machining Cell at DETROIT DIESEL",
+          "title": "The HELLER Machining Cell at DETROIT Manufacturing Plant",
           "imageUrl": null
         },
         {
@@ -2311,16 +2320,6 @@
           "wordCount": null,
           "title": "CNC Machinist makes a Pitbull!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3tkaafghRNE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3tkaafghRNE",
-          "publishedOn": "2023-03-12T13:00:32.000Z",
-          "wordCount": null,
-          "title": "The MOST Satisfying Cuts on a CNC Machine",
-          "imageUrl": null
         }
       ]
     },
@@ -2329,6 +2328,36 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=eCBm2GfP6U0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eCBm2GfP6U0",
+          "publishedOn": "2023-03-23T20:00:10.000Z",
+          "wordCount": null,
+          "title": "There is a terrible cost to those who work mining sulfur. #labor #mines #workcondition",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YlMFbsF-tPg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YlMFbsF-tPg",
+          "publishedOn": "2023-03-23T18:31:01.000Z",
+          "wordCount": null,
+          "title": "Finance Meets its Future",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wEPeoVS7J7k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wEPeoVS7J7k",
+          "publishedOn": "2023-03-23T15:00:41.000Z",
+          "wordCount": null,
+          "title": "How Air Force Pilots Fly The Controversial $19 Million A-10 Warthog | Boot Camp | Insider Business",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=0a866gZa_hE",
           "author": null,
@@ -2447,36 +2476,6 @@
           "publishedOn": "2023-03-15T14:44:05.000Z",
           "wordCount": null,
           "title": "Here's how an artisan in West Africa creates color dye with indigo leaves.  #Africa #Artisan #Indigo",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-6aMgTX1rxA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-6aMgTX1rxA",
-          "publishedOn": "2023-03-14T21:30:00.000Z",
-          "wordCount": null,
-          "title": "Why Indigenous Panela Sugar Is So Expensive | So Expensive Food | Insider Business",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=r2Hsz979WWI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=r2Hsz979WWI",
-          "publishedOn": "2023-03-14T18:00:30.000Z",
-          "wordCount": null,
-          "title": "Here’s how Gambian artists extract natural dyes and color their fabrics. #tiedye #howitsmade",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=043u42-ufzs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=043u42-ufzs",
-          "publishedOn": "2023-03-14T16:10:34.000Z",
-          "wordCount": null,
-          "title": "This is how Worcestershire sauce came to be. #Worcestershire #History #England",
           "imageUrl": null
         }
       ]
@@ -2611,16 +2610,6 @@
           "publishedOn": "2022-12-30T16:00:32.000Z",
           "wordCount": null,
           "title": "I made a Knife out of Clay",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7tq5Glf-H4s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7tq5Glf-H4s",
-          "publishedOn": "2022-12-23T16:00:05.000Z",
-          "wordCount": null,
-          "title": "I made a biblically accurate angel",
           "imageUrl": null
         }
       ]
