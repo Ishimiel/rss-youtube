@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-24T00:32:04.868Z</id>
+    <id>urn:2023-03-25T00:31:33.849Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-24T00:32:04.868Z</updated>
+    <updated>2023-03-25T00:31:33.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Watch the French Army Cross a River with Tanks in Style]]></title>
+        <id>https://www.youtube.com/watch?v=NzCBM0sQ-Kc</id>
+        <link href="https://www.youtube.com/watch?v=NzCBM0sQ-Kc"/>
+        <updated>2023-03-24T21:00:18.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I am an ACTION FIGURE?]]></title>
+        <id>https://www.youtube.com/watch?v=yby-nF3UgqE</id>
+        <link href="https://www.youtube.com/watch?v=yby-nF3UgqE"/>
+        <updated>2023-03-24T19:00:28.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cologne Cathedral, which survived the Second World War]]></title>
+        <id>https://www.youtube.com/watch?v=wAklDD2uy_s</id>
+        <link href="https://www.youtube.com/watch?v=wAklDD2uy_s"/>
+        <updated>2023-03-24T19:00:26.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Did It Take 632 Years to Complete Cologne Cathedral?]]></title>
+        <id>https://www.youtube.com/watch?v=yMYBgZOZIvs</id>
+        <link href="https://www.youtube.com/watch?v=yMYBgZOZIvs"/>
+        <updated>2023-03-24T18:18:08.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I made Donkey Kong vs King K Rool]]></title>
+        <id>https://www.youtube.com/watch?v=cq4yQis7CWU</id>
+        <link href="https://www.youtube.com/watch?v=cq4yQis7CWU"/>
+        <updated>2023-03-24T16:00:24.000Z</updated>
+        <author>
+            <name>North of the Border</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complex Analysis L09: Complex Residues]]></title>
+        <id>https://www.youtube.com/watch?v=ywAEVq9ULxs</id>
+        <link href="https://www.youtube.com/watch?v=ywAEVq9ULxs"/>
+        <updated>2023-03-24T14:45:04.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get the Perfect Blend Every Time with Paddle Mixers]]></title>
+        <id>https://www.youtube.com/watch?v=yqe1get1a9o</id>
+        <link href="https://www.youtube.com/watch?v=yqe1get1a9o"/>
+        <updated>2023-03-24T13:00:50.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dual Diamond Form Grind on the Studer S41]]></title>
+        <id>https://www.youtube.com/watch?v=419ocmZ-1HY</id>
+        <link href="https://www.youtube.com/watch?v=419ocmZ-1HY"/>
+        <updated>2023-03-24T11:00:05.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Removing Wall Covering Like Tiles, Plaster, and Renders Like a True Professional]]></title>
+        <id>https://www.youtube.com/watch?v=Z6gz2rxZ0VE</id>
+        <link href="https://www.youtube.com/watch?v=Z6gz2rxZ0VE"/>
+        <updated>2023-03-24T09:00:31.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Efficient and Reliable Self-Propelled Harvester]]></title>
         <id>https://www.youtube.com/watch?v=9FKFsLYEkFw</id>
@@ -60,7 +141,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The biggest misconception on spin 1/2 | Math of quantum mechanics]]></title>
+        <title type="html"><![CDATA[The biggest misconception about quantum spin 1/2]]></title>
         <id>https://www.youtube.com/watch?v=lPr5v7mwq34</id>
         <link href="https://www.youtube.com/watch?v=lPr5v7mwq34"/>
         <updated>2023-03-23T15:00:27.000Z</updated>
@@ -222,15 +303,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Multiple Thread Mill For Multiple Applications On Aluminium]]></title>
-        <id>https://www.youtube.com/watch?v=KzIY76S66NE</id>
-        <link href="https://www.youtube.com/watch?v=KzIY76S66NE"/>
-        <updated>2023-03-21T21:00:07.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This is how the world’s most commonly used chemical is made. #howitsmade #industrial #production]]></title>
         <id>https://www.youtube.com/watch?v=iP2kLfRrvJQ</id>
         <link href="https://www.youtube.com/watch?v=iP2kLfRrvJQ"/>
@@ -246,24 +318,6 @@
         <updated>2023-03-21T19:00:33.000Z</updated>
         <author>
             <name>Adam Neely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Examples of 3D Billboards]]></title>
-        <id>https://www.youtube.com/watch?v=_IAbR0Iad_Y</id>
-        <link href="https://www.youtube.com/watch?v=_IAbR0Iad_Y"/>
-        <updated>2023-03-21T19:00:14.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Billboards: A Way To Make Your Brand Stand]]></title>
-        <id>https://www.youtube.com/watch?v=BElYvKWeKEM</id>
-        <link href="https://www.youtube.com/watch?v=BElYvKWeKEM"/>
-        <updated>2023-03-21T19:00:07.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -294,30 +348,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Witness the Evolution of Falcon Wing Doors]]></title>
-        <id>https://www.youtube.com/watch?v=99JH7smwpXU</id>
-        <link href="https://www.youtube.com/watch?v=99JH7smwpXU"/>
-        <updated>2023-03-21T13:00:05.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The HELLER Machining Cell at DETROIT Manufacturing Plant]]></title>
         <id>https://www.youtube.com/watch?v=XxC1xnqrGz4</id>
         <link href="https://www.youtube.com/watch?v=XxC1xnqrGz4"/>
         <updated>2023-03-21T11:00:22.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seismic Isolators Can Decrease the Effects of Earthquakes up to 80%]]></title>
-        <id>https://www.youtube.com/watch?v=jYNN6bioeDw</id>
-        <link href="https://www.youtube.com/watch?v=jYNN6bioeDw"/>
-        <updated>2023-03-21T09:00:23.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -357,7 +393,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Which filament is the MOST CURSED? I tested them all! | Every Filament IV]]></title>
+        <title type="html"><![CDATA[CURSED FILAMENT! I tested them all! | Every Filament IV]]></title>
         <id>https://www.youtube.com/watch?v=uVECS4rBAZc</id>
         <link href="https://www.youtube.com/watch?v=uVECS4rBAZc"/>
         <updated>2023-03-19T16:12:10.000Z</updated>
@@ -696,15 +732,6 @@
         <updated>2023-03-13T14:09:40.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CNC Machinist makes a Pitbull!]]></title>
-        <id>https://www.youtube.com/watch?v=l8wJqPw2myI</id>
-        <link href="https://www.youtube.com/watch?v=l8wJqPw2myI"/>
-        <updated>2023-03-13T13:10:31.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1344,15 +1371,6 @@
         <updated>2023-02-14T19:28:22.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emake3D Galaxy 1 FINALLY OUT OF THE CRATE! 😳]]></title>
-        <id>https://www.youtube.com/watch?v=Hu_TkHz1DNM</id>
-        <link href="https://www.youtube.com/watch?v=Hu_TkHz1DNM"/>
-        <updated>2023-02-14T19:09:30.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
         </author>
     </entry>
     <entry>
@@ -2154,24 +2172,6 @@
         <updated>2022-12-25T19:47:13.000Z</updated>
         <author>
             <name>Artem Kirsanov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Ways Of Seeing Invisible Air Flow]]></title>
-        <id>https://www.youtube.com/watch?v=TILjzuBGkRc</id>
-        <link href="https://www.youtube.com/watch?v=TILjzuBGkRc"/>
-        <updated>2022-12-24T21:10:10.000Z</updated>
-        <author>
-            <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computer Tomography can look inside 3D Prints!]]></title>
-        <id>https://www.youtube.com/watch?v=BlMv7DIES70</id>
-        <link href="https://www.youtube.com/watch?v=BlMv7DIES70"/>
-        <updated>2022-12-24T16:23:08.000Z</updated>
-        <author>
-            <name>CNC Kitchen</name>
         </author>
     </entry>
 </feed>
