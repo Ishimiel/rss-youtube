@@ -713,7 +713,18 @@
       "title": "AlphaPhoenix",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCWeRTgd79JL0ilH0ZywSJA",
       "siteUrl": "https://www.youtube.com/channel/UCCWeRTgd79JL0ilH0ZywSJA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=3c6-BqT9AwM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3c6-BqT9AwM",
+          "publishedOn": "2023-03-25T00:33:15.000Z",
+          "wordCount": null,
+          "title": "How to convert kinetic energy directly into light (2^16 special)",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Artem Kirsanov",
@@ -738,16 +749,6 @@
           "publishedOn": "2023-01-29T20:23:03.000Z",
           "wordCount": null,
           "title": "Dendrites: Why Biological Neurons Are Deep Neural Networks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=C00IR4IVRkg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=C00IR4IVRkg",
-          "publishedOn": "2022-12-25T19:47:13.000Z",
-          "wordCount": null,
-          "title": "A Map of Social Space in Your Brain",
           "imageUrl": null
         }
       ]
@@ -954,6 +955,56 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_PTR3CoZMxk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_PTR3CoZMxk",
+          "publishedOn": "2023-03-25T21:00:23.000Z",
+          "wordCount": null,
+          "title": "4,000 Bicycles Find a Home Underwater in Amsterdam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=NQ_pIbwoV0c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NQ_pIbwoV0c",
+          "publishedOn": "2023-03-25T19:00:06.000Z",
+          "wordCount": null,
+          "title": "This is Why the ChatGPT Founder is Investing $180M in Life Extension",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DrQOzQi_vbE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DrQOzQi_vbE",
+          "publishedOn": "2023-03-25T19:00:04.000Z",
+          "wordCount": null,
+          "title": "ChatGPT Founder Wants to Add 10 More Years to Human Life",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=v0vmC7v_grQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=v0vmC7v_grQ",
+          "publishedOn": "2023-03-25T13:00:46.000Z",
+          "wordCount": null,
+          "title": "CMDS Can Portion, Seal, and Freeze a Whole Meal All By Itself",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zJaKWrtWMCA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zJaKWrtWMCA",
+          "publishedOn": "2023-03-25T09:00:42.000Z",
+          "wordCount": null,
+          "title": "The Tool Of Choice For Extrication",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=NzCBM0sQ-Kc",
           "author": null,
           "description": "",
@@ -1051,56 +1102,6 @@
           "publishedOn": "2023-03-23T09:00:08.000Z",
           "wordCount": null,
           "title": "Boston Dynamics' Robot Dogs Steal the Show at Coperni's Fashion Runway",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ilSWC6OQNiI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ilSWC6OQNiI",
-          "publishedOn": "2023-03-22T21:00:18.000Z",
-          "wordCount": null,
-          "title": "What Happened to Lost Bicycles Revealed",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kveWyU7ous0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kveWyU7ous0",
-          "publishedOn": "2023-03-22T19:00:19.000Z",
-          "wordCount": null,
-          "title": "The Weapon Every Russian Tanker Fears in Ukraine: BGM-71 TOW",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uaYZPw8pd8c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uaYZPw8pd8c",
-          "publishedOn": "2023-03-22T16:57:15.000Z",
-          "wordCount": null,
-          "title": "BGM-71 TOW Anti-Tank Missile: No Russian Tank is Safe in Ukraine",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=m4EBnqFWqfk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=m4EBnqFWqfk",
-          "publishedOn": "2023-03-22T13:00:26.000Z",
-          "wordCount": null,
-          "title": "16 Tons is Easy Work for this 4-Wheel Autonomous Hauler",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YUmH2m0vplI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YUmH2m0vplI",
-          "publishedOn": "2023-03-22T09:00:32.000Z",
-          "wordCount": null,
-          "title": "That’s Not a Stingray, That’s a Robot Traversing the Sea",
           "imageUrl": null
         }
       ]
@@ -2162,6 +2163,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FBn5_e-thDU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FBn5_e-thDU",
+          "publishedOn": "2023-03-25T13:00:17.000Z",
+          "wordCount": null,
+          "title": "Metal 3D Printer Solves Problem for Lathe Machinist",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=S-D2XZxYpbA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=S-D2XZxYpbA",
+          "publishedOn": "2023-03-25T11:00:30.000Z",
+          "wordCount": null,
+          "title": "Machining the World's First Aerospace Skateboard",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=419ocmZ-1HY",
           "author": null,
           "description": "",
@@ -2290,26 +2311,6 @@
           "wordCount": null,
           "title": "NEW GIANT 35 AXIS 8 SPINDLE MultiSwiss CNC Machine",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XaXER__lIU0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XaXER__lIU0",
-          "publishedOn": "2023-03-15T12:33:12.000Z",
-          "wordCount": null,
-          "title": "Master Machinists Produce 125,000 Machines",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=feebUI6c3x0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=feebUI6c3x0",
-          "publishedOn": "2023-03-14T11:00:27.000Z",
-          "wordCount": null,
-          "title": "AI Designed This Rocket Part!",
-          "imageUrl": null
         }
       ]
     },
@@ -2318,6 +2319,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=M2v7HFTXdak",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=M2v7HFTXdak",
+          "publishedOn": "2023-03-25T15:00:23.000Z",
+          "wordCount": null,
+          "title": "What Makes Art So Expensive | So Expensive | Insider Business",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=eCBm2GfP6U0",
           "author": null,
@@ -2456,16 +2467,6 @@
           "publishedOn": "2023-03-15T15:00:41.000Z",
           "wordCount": null,
           "title": "Why These 3 Iconic Airlines Disappeared From The Skies | Rise And Fall | Insider Business",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8Oodb_UjRLk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8Oodb_UjRLk",
-          "publishedOn": "2023-03-15T14:44:05.000Z",
-          "wordCount": null,
-          "title": "Here's how an artisan in West Africa creates color dye with indigo leaves.  #Africa #Artisan #Indigo",
           "imageUrl": null
         }
       ]

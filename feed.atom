@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-25T00:31:33.849Z</id>
+    <id>urn:2023-03-26T00:35:17.538Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-25T00:31:33.849Z</updated>
+    <updated>2023-03-26T00:35:17.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[4,000 Bicycles Find a Home Underwater in Amsterdam]]></title>
+        <id>https://www.youtube.com/watch?v=_PTR3CoZMxk</id>
+        <link href="https://www.youtube.com/watch?v=_PTR3CoZMxk"/>
+        <updated>2023-03-25T21:00:23.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is Why the ChatGPT Founder is Investing $180M in Life Extension]]></title>
+        <id>https://www.youtube.com/watch?v=NQ_pIbwoV0c</id>
+        <link href="https://www.youtube.com/watch?v=NQ_pIbwoV0c"/>
+        <updated>2023-03-25T19:00:06.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT Founder Wants to Add 10 More Years to Human Life]]></title>
+        <id>https://www.youtube.com/watch?v=DrQOzQi_vbE</id>
+        <link href="https://www.youtube.com/watch?v=DrQOzQi_vbE"/>
+        <updated>2023-03-25T19:00:04.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Makes Art So Expensive | So Expensive | Insider Business]]></title>
+        <id>https://www.youtube.com/watch?v=M2v7HFTXdak</id>
+        <link href="https://www.youtube.com/watch?v=M2v7HFTXdak"/>
+        <updated>2023-03-25T15:00:23.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CMDS Can Portion, Seal, and Freeze a Whole Meal All By Itself]]></title>
+        <id>https://www.youtube.com/watch?v=v0vmC7v_grQ</id>
+        <link href="https://www.youtube.com/watch?v=v0vmC7v_grQ"/>
+        <updated>2023-03-25T13:00:46.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metal 3D Printer Solves Problem for Lathe Machinist]]></title>
+        <id>https://www.youtube.com/watch?v=FBn5_e-thDU</id>
+        <link href="https://www.youtube.com/watch?v=FBn5_e-thDU"/>
+        <updated>2023-03-25T13:00:17.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machining the World's First Aerospace Skateboard]]></title>
+        <id>https://www.youtube.com/watch?v=S-D2XZxYpbA</id>
+        <link href="https://www.youtube.com/watch?v=S-D2XZxYpbA"/>
+        <updated>2023-03-25T11:00:30.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Tool Of Choice For Extrication]]></title>
+        <id>https://www.youtube.com/watch?v=zJaKWrtWMCA</id>
+        <link href="https://www.youtube.com/watch?v=zJaKWrtWMCA"/>
+        <updated>2023-03-25T09:00:42.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to convert kinetic energy directly into light (2^16 special)]]></title>
+        <id>https://www.youtube.com/watch?v=3c6-BqT9AwM</id>
+        <link href="https://www.youtube.com/watch?v=3c6-BqT9AwM"/>
+        <updated>2023-03-25T00:33:15.000Z</updated>
+        <author>
+            <name>AlphaPhoenix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Watch the French Army Cross a River with Tanks in Style]]></title>
         <id>https://www.youtube.com/watch?v=NzCBM0sQ-Kc</id>
@@ -222,39 +303,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Happened to Lost Bicycles Revealed]]></title>
-        <id>https://www.youtube.com/watch?v=ilSWC6OQNiI</id>
-        <link href="https://www.youtube.com/watch?v=ilSWC6OQNiI"/>
-        <updated>2023-03-22T21:00:18.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This is how sulfur is mined from an active volcano. #mining #volcano #minerals]]></title>
         <id>https://www.youtube.com/watch?v=0a866gZa_hE</id>
         <link href="https://www.youtube.com/watch?v=0a866gZa_hE"/>
         <updated>2023-03-22T19:30:01.000Z</updated>
         <author>
             <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Weapon Every Russian Tanker Fears in Ukraine: BGM-71 TOW]]></title>
-        <id>https://www.youtube.com/watch?v=kveWyU7ous0</id>
-        <link href="https://www.youtube.com/watch?v=kveWyU7ous0"/>
-        <updated>2023-03-22T19:00:19.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BGM-71 TOW Anti-Tank Missile: No Russian Tank is Safe in Ukraine]]></title>
-        <id>https://www.youtube.com/watch?v=uaYZPw8pd8c</id>
-        <link href="https://www.youtube.com/watch?v=uaYZPw8pd8c"/>
-        <updated>2023-03-22T16:57:15.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -276,30 +330,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[16 Tons is Easy Work for this 4-Wheel Autonomous Hauler]]></title>
-        <id>https://www.youtube.com/watch?v=m4EBnqFWqfk</id>
-        <link href="https://www.youtube.com/watch?v=m4EBnqFWqfk"/>
-        <updated>2023-03-22T13:00:26.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[These Gauge Blocks Stick together like MAGIC!]]></title>
         <id>https://www.youtube.com/watch?v=Vvfjwb3utSI</id>
         <link href="https://www.youtube.com/watch?v=Vvfjwb3utSI"/>
         <updated>2023-03-22T11:00:23.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[That’s Not a Stingray, That’s a Robot Traversing the Sea]]></title>
-        <id>https://www.youtube.com/watch?v=YUmH2m0vplI</id>
-        <link href="https://www.youtube.com/watch?v=YUmH2m0vplI"/>
-        <updated>2023-03-22T09:00:32.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -636,28 +672,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Here's how an artisan in West Africa creates color dye with indigo leaves.  #Africa #Artisan #Indigo]]></title>
-        <id>https://www.youtube.com/watch?v=8Oodb_UjRLk</id>
-        <link href="https://www.youtube.com/watch?v=8Oodb_UjRLk"/>
-        <updated>2023-03-15T14:44:05.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[NEW GIANT 35 AXIS 8 SPINDLE MultiSwiss CNC Machine]]></title>
         <id>https://www.youtube.com/watch?v=Y2LQ9-NgOME</id>
         <link href="https://www.youtube.com/watch?v=Y2LQ9-NgOME"/>
         <updated>2023-03-15T14:15:04.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master Machinists Produce 125,000 Machines]]></title>
-        <id>https://www.youtube.com/watch?v=XaXER__lIU0</id>
-        <link href="https://www.youtube.com/watch?v=XaXER__lIU0"/>
-        <updated>2023-03-15T12:33:12.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
         </author>
@@ -696,15 +714,6 @@
         <updated>2023-03-14T16:59:41.000Z</updated>
         <author>
             <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Designed This Rocket Part!]]></title>
-        <id>https://www.youtube.com/watch?v=feebUI6c3x0</id>
-        <link href="https://www.youtube.com/watch?v=feebUI6c3x0"/>
-        <updated>2023-03-14T11:00:27.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2163,15 +2172,6 @@
         <updated>2022-12-26T13:00:08.000Z</updated>
         <author>
             <name>The Engineering Mindset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Map of Social Space in Your Brain]]></title>
-        <id>https://www.youtube.com/watch?v=C00IR4IVRkg</id>
-        <link href="https://www.youtube.com/watch?v=C00IR4IVRkg"/>
-        <updated>2022-12-25T19:47:13.000Z</updated>
-        <author>
-            <name>Artem Kirsanov</name>
         </author>
     </entry>
 </feed>
