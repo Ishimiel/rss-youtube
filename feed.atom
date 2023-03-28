@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-27T00:32:14.853Z</id>
+    <id>urn:2023-03-28T00:33:22.913Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-27T00:32:14.853Z</updated>
+    <updated>2023-03-28T00:33:22.913Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[We Still Can't Explain This Illusion]]></title>
+        <id>https://www.youtube.com/watch?v=QEKQVV371EU</id>
+        <link href="https://www.youtube.com/watch?v=QEKQVV371EU"/>
+        <updated>2023-03-27T23:23:03.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This company turns avocado pits into plastic. #avocado #plastic #zerowaste]]></title>
+        <id>https://www.youtube.com/watch?v=nx6DIxDFH1Y</id>
+        <link href="https://www.youtube.com/watch?v=nx6DIxDFH1Y"/>
+        <updated>2023-03-27T22:32:39.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Non-Invasive Surgical Systems Like This Can Improve Quality of Life After Surgeries]]></title>
+        <id>https://www.youtube.com/watch?v=PiO3dTeJrVI</id>
+        <link href="https://www.youtube.com/watch?v=PiO3dTeJrVI"/>
+        <updated>2023-03-27T21:00:09.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drew McDowall Live at Pioneer Works (Full Set)]]></title>
+        <id>https://www.youtube.com/watch?v=F74YsmI911A</id>
+        <link href="https://www.youtube.com/watch?v=F74YsmI911A"/>
+        <updated>2023-03-27T16:33:13.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transforming the Norm]]></title>
+        <id>https://www.youtube.com/watch?v=7hWmZyuy8xA</id>
+        <link href="https://www.youtube.com/watch?v=7hWmZyuy8xA"/>
+        <updated>2023-03-27T14:42:53.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polish IFV Borsuk Will Likely Replace BWP-1 in the Future]]></title>
+        <id>https://www.youtube.com/watch?v=0gRc9Bi_jGg</id>
+        <link href="https://www.youtube.com/watch?v=0gRc9Bi_jGg"/>
+        <updated>2023-03-27T13:00:02.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNC Machinist Preps INSANE Dual Turret Lathe!]]></title>
+        <id>https://www.youtube.com/watch?v=L_mdZ1CXaQA</id>
+        <link href="https://www.youtube.com/watch?v=L_mdZ1CXaQA"/>
+        <updated>2023-03-27T11:00:20.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unprecedented Combination of Robotic “Hands and Eyes”]]></title>
+        <id>https://www.youtube.com/watch?v=klFIX-Nrv1M</id>
+        <link href="https://www.youtube.com/watch?v=klFIX-Nrv1M"/>
+        <updated>2023-03-27T09:00:26.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Home is where my anchor is]]></title>
         <id>https://www.youtube.com/watch?v=5lnhWoZIOfw</id>
@@ -24,7 +96,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Narco-submarines : These Vessels are Being Used for Smuggling Millions of Dollars Worth of Cocaine]]></title>
+        <title type="html"><![CDATA[Narco-Submarines: These Vessels are Being Used for Smuggling Millions of Dollars Worth of Cocaine]]></title>
         <id>https://www.youtube.com/watch?v=fyGCaE0PrPs</id>
         <link href="https://www.youtube.com/watch?v=fyGCaE0PrPs"/>
         <updated>2023-03-26T19:00:15.000Z</updated>
@@ -168,7 +240,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I am an ACTION FIGURE?]]></title>
+        <title type="html"><![CDATA[HASBRO made me an ACTION FIGURE with 3D PRINTING!]]></title>
         <id>https://www.youtube.com/watch?v=yby-nF3UgqE</id>
         <link href="https://www.youtube.com/watch?v=yby-nF3UgqE"/>
         <updated>2023-03-24T19:00:28.000Z</updated>
@@ -181,15 +253,6 @@
         <id>https://www.youtube.com/watch?v=wAklDD2uy_s</id>
         <link href="https://www.youtube.com/watch?v=wAklDD2uy_s"/>
         <updated>2023-03-24T19:00:26.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Did It Take 632 Years to Complete Cologne Cathedral?]]></title>
-        <id>https://www.youtube.com/watch?v=yMYBgZOZIvs</id>
-        <link href="https://www.youtube.com/watch?v=yMYBgZOZIvs"/>
-        <updated>2023-03-24T18:18:08.000Z</updated>
         <author>
             <name>Interesting Engineering</name>
         </author>
@@ -213,30 +276,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Get the Perfect Blend Every Time with Paddle Mixers]]></title>
-        <id>https://www.youtube.com/watch?v=yqe1get1a9o</id>
-        <link href="https://www.youtube.com/watch?v=yqe1get1a9o"/>
-        <updated>2023-03-24T13:00:50.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dual Diamond Form Grind on the Studer S41]]></title>
         <id>https://www.youtube.com/watch?v=419ocmZ-1HY</id>
         <link href="https://www.youtube.com/watch?v=419ocmZ-1HY"/>
         <updated>2023-03-24T11:00:05.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Removing Wall Covering Like Tiles, Plaster, and Renders Like a True Professional]]></title>
-        <id>https://www.youtube.com/watch?v=Z6gz2rxZ0VE</id>
-        <link href="https://www.youtube.com/watch?v=Z6gz2rxZ0VE"/>
-        <updated>2023-03-24T09:00:31.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -334,15 +379,6 @@
         <id>https://www.youtube.com/watch?v=0a866gZa_hE</id>
         <link href="https://www.youtube.com/watch?v=0a866gZa_hE"/>
         <updated>2023-03-22T19:30:01.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transforming the Norm]]></title>
-        <id>https://www.youtube.com/watch?v=7hWmZyuy8xA</id>
-        <link href="https://www.youtube.com/watch?v=7hWmZyuy8xA"/>
-        <updated>2023-03-22T14:47:23.000Z</updated>
         <author>
             <name>Insider Business</name>
         </author>
@@ -645,15 +681,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Machining Sharrow Marine Props Using Heller Machining Cell]]></title>
-        <id>https://www.youtube.com/watch?v=-m35LaIfhhk</id>
-        <link href="https://www.youtube.com/watch?v=-m35LaIfhhk"/>
-        <updated>2023-03-16T13:00:50.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Perfect Goal Kicking Angle - Numberphile]]></title>
         <id>https://www.youtube.com/watch?v=rHdYv62F5fs</id>
         <link href="https://www.youtube.com/watch?v=rHdYv62F5fs"/>
@@ -669,15 +696,6 @@
         <updated>2023-03-15T19:44:54.000Z</updated>
         <author>
             <name>Physics Girl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is how millions of jeans are recycled into new pairs. #denim #jeans #recyclingclothes]]></title>
-        <id>https://www.youtube.com/watch?v=m3pnFhjEK9A</id>
-        <link href="https://www.youtube.com/watch?v=m3pnFhjEK9A"/>
-        <updated>2023-03-15T19:00:31.000Z</updated>
-        <author>
-            <name>Insider Business</name>
         </author>
     </entry>
     <entry>
@@ -834,7 +852,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Starting A Rocket Engine Is Hard!]]></title>
+        <title type="html"><![CDATA[Why Starting A Rocket Engine Is So Hard!]]></title>
         <id>https://www.youtube.com/watch?v=bAUVCn_jw5I</id>
         <link href="https://www.youtube.com/watch?v=bAUVCn_jw5I"/>
         <updated>2023-03-09T16:00:00.000Z</updated>
@@ -1734,15 +1752,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Spell Diarrhea]]></title>
-        <id>https://www.youtube.com/watch?v=VJruAcrkxug</id>
-        <link href="https://www.youtube.com/watch?v=VJruAcrkxug"/>
-        <updated>2023-01-30T23:32:15.000Z</updated>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dendrites: Why Biological Neurons Are Deep Neural Networks]]></title>
         <id>https://www.youtube.com/watch?v=hmtQPrH-gC4</id>
         <link href="https://www.youtube.com/watch?v=hmtQPrH-gC4"/>
@@ -1977,15 +1986,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is Math Invented or Discovered? | Scientific Controversies]]></title>
-        <id>https://www.youtube.com/watch?v=6c0JGQ28OM0</id>
-        <link href="https://www.youtube.com/watch?v=6c0JGQ28OM0"/>
-        <updated>2023-01-13T15:27:13.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Solving PDEs with the Laplace Transform: The Wave Equation]]></title>
         <id>https://www.youtube.com/watch?v=lG9NOHMy3YU</id>
         <link href="https://www.youtube.com/watch?v=lG9NOHMy3YU"/>
@@ -2145,15 +2145,6 @@
         <updated>2022-12-28T14:00:32.000Z</updated>
         <author>
             <name>Zack Freedman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ultrasonic Flow Meter Basics]]></title>
-        <id>https://www.youtube.com/watch?v=avm9vN09C0k</id>
-        <link href="https://www.youtube.com/watch?v=avm9vN09C0k"/>
-        <updated>2022-12-27T13:00:03.000Z</updated>
-        <author>
-            <name>The Engineering Mindset</name>
         </author>
     </entry>
 </feed>
