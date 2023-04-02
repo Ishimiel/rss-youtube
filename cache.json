@@ -511,6 +511,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4xNUpCT8BZ4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4xNUpCT8BZ4",
+          "publishedOn": "2023-04-01T23:48:20.000Z",
+          "wordCount": null,
+          "title": "VORON PRINT! 😍",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=bbZqu5T0OxU",
           "author": null,
           "description": "",
@@ -639,16 +649,6 @@
           "wordCount": null,
           "title": "Bambu Carbon Fiber? #3dprinting",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_tTLgwTUNj4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_tTLgwTUNj4",
-          "publishedOn": "2023-02-17T14:00:32.000Z",
-          "wordCount": null,
-          "title": "CONTINUOUS CARBON FIBER vs PLA vs PETG",
-          "imageUrl": null
         }
       ]
     },
@@ -715,13 +715,23 @@
       "siteUrl": "https://www.youtube.com/channel/UCCWeRTgd79JL0ilH0ZywSJA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=1IVhtoFYMVo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1IVhtoFYMVo",
+          "publishedOn": "2023-04-01T10:00:01.000Z",
+          "wordCount": null,
+          "title": "IP over AC: Mmmmmm Ppppfffftttt SssshhhhhhhWOOOSH",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=3c6-BqT9AwM",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=3c6-BqT9AwM",
           "publishedOn": "2023-03-25T00:33:15.000Z",
           "wordCount": null,
-          "title": "How to convert kinetic energy directly into light (2^16 special)",
+          "title": "Lasers transform kinetic energy directly into light (2^16 special)",
           "imageUrl": null
         }
       ]
@@ -768,6 +778,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiczXOhGpvoQGhOL16EZiTg",
       "siteUrl": "https://www.youtube.com/channel/UCiczXOhGpvoQGhOL16EZiTg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=qBvTWFEd7rk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qBvTWFEd7rk",
+          "publishedOn": "2023-04-01T15:31:16.000Z",
+          "wordCount": null,
+          "title": "Bambu Lab 3D Printer: Great, but TOO FAST! (NO April Fools' Joke!)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=TGa_KvKLDR8",
           "author": null,
@@ -930,16 +950,6 @@
           "wordCount": null,
           "title": "Who won the best space moment of 2022?? #AstroAwards",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zaWytSAw8Kc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zaWytSAw8Kc",
-          "publishedOn": "2023-01-01T14:30:44.000Z",
-          "wordCount": null,
-          "title": "I asked you to predict 2022's spaceflight milestones...",
-          "imageUrl": null
         }
       ]
     },
@@ -954,6 +964,66 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEuiOszNd6msGgqsD0f9YAQ",
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=LTGx1CWcrpo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LTGx1CWcrpo",
+          "publishedOn": "2023-04-01T23:00:06.000Z",
+          "wordCount": null,
+          "title": "20 Amazing Things That You Can Do With GPT-4",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lkDAEMED5d8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lkDAEMED5d8",
+          "publishedOn": "2023-04-01T21:00:26.000Z",
+          "wordCount": null,
+          "title": "Transwing Has the Best of Both Worlds with Its Wings and Propellers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=uFIbHljKtmM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uFIbHljKtmM",
+          "publishedOn": "2023-04-01T19:00:31.000Z",
+          "wordCount": null,
+          "title": "Why Do You Have to Turn Off Electronic Devices on an Airplane?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=_Byf9V9h0gc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_Byf9V9h0gc",
+          "publishedOn": "2023-04-01T19:00:14.000Z",
+          "wordCount": null,
+          "title": "Why Do We Put Our Phones in Airplane Mode While Flying?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=LBD8HDwnlJI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LBD8HDwnlJI",
+          "publishedOn": "2023-04-01T13:00:28.000Z",
+          "wordCount": null,
+          "title": "Breastfeeding for Fathers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=LPAuViJqb4s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LPAuViJqb4s",
+          "publishedOn": "2023-04-01T09:00:16.000Z",
+          "wordCount": null,
+          "title": "High-Pressure Lifting Bag",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=eI5I2XTK1NE",
           "author": null,
@@ -1042,66 +1112,6 @@
           "publishedOn": "2023-03-30T13:00:18.000Z",
           "wordCount": null,
           "title": "The Secret to Getting Off To a Fast Start In Snowbiking",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TMSvv4nSKpw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TMSvv4nSKpw",
-          "publishedOn": "2023-03-30T09:00:27.000Z",
-          "wordCount": null,
-          "title": "Jet Boarding Might Be Your Thing If You are too Lazy to Surf",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rbt-QJb71dw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rbt-QJb71dw",
-          "publishedOn": "2023-03-29T21:00:23.000Z",
-          "wordCount": null,
-          "title": "The Nature is Your Cooler with This Device at Hand",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bRnXy5hz0dw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bRnXy5hz0dw",
-          "publishedOn": "2023-03-29T19:00:15.000Z",
-          "wordCount": null,
-          "title": "The U.S. Made AN/TWQ-1 Avenger Missile System is Keeping Ukraine’s Sky Safe from Russia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6veHKA7p-Hg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6veHKA7p-Hg",
-          "publishedOn": "2023-03-29T19:00:01.000Z",
-          "wordCount": null,
-          "title": "AN/TWQ-1 Avenger: This Missile System is Keeping Ukraine's Sky Safe from Russian Aircraft",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Rq1sWncO9AY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Rq1sWncO9AY",
-          "publishedOn": "2023-03-29T13:00:19.000Z",
-          "wordCount": null,
-          "title": "Next Generation Unmanned Flight",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=idWrqNl7C1Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=idWrqNl7C1Q",
-          "publishedOn": "2023-03-29T09:00:33.000Z",
-          "wordCount": null,
-          "title": "Wilcraft Can Breeze Through Water, Ice, and Land All in a Day's Work",
           "imageUrl": null
         }
       ]
@@ -1451,6 +1461,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=RVxgyz_avQM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RVxgyz_avQM",
+          "publishedOn": "2023-04-01T15:00:39.000Z",
+          "wordCount": null,
+          "title": "How NASA Reinvented the Rocket Engine",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=r5plP3N7xLY",
           "author": null,
           "description": "",
@@ -1671,7 +1691,7 @@
           "link": "https://www.youtube.com/watch?v=xLWUGumz1dI",
           "publishedOn": "2023-03-31T13:39:51.000Z",
           "wordCount": null,
-          "title": "The Secret Power of Your High School Yearbook - Smarter Every Day 284",
+          "title": "The Secret Power of Your High School Year Book- Smarter Every Day 284",
           "imageUrl": null
         },
         {
@@ -1831,7 +1851,7 @@
           "link": "https://www.youtube.com/watch?v=XeSu9fBJ2sI",
           "publishedOn": "2023-02-11T17:58:50.000Z",
           "wordCount": null,
-          "title": "171,574 People Agree With Me, 72,027 Disagree",
+          "title": "185,754 People Agree With Me, 72,027 Disagree",
           "imageUrl": null
         },
         {
@@ -2086,6 +2106,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCekQr9znsk2vWxBo3YiLq2w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ePORNrth5Uk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ePORNrth5Uk",
+          "publishedOn": "2023-04-01T13:48:42.000Z",
+          "wordCount": null,
+          "title": "Home Made Doritos with only 2 Ingredients",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=TwOL9yUfQPM",
           "author": null,
           "description": "",
@@ -2142,6 +2172,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=O57ZIW4nUNw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=O57ZIW4nUNw",
+          "publishedOn": "2023-04-01T13:00:16.000Z",
+          "wordCount": null,
+          "title": "Pushing Machine's Limits with NEW KCP25C Inserts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lGKeUF2PDt0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lGKeUF2PDt0",
+          "publishedOn": "2023-04-01T11:00:28.000Z",
+          "wordCount": null,
+          "title": "CNC Machining the AK-50 TRUNNION for Brandon Herrera",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=S5A0yJCDzTQ",
           "author": null,
@@ -2270,26 +2320,6 @@
           "publishedOn": "2023-03-23T11:00:10.000Z",
           "wordCount": null,
           "title": "Tips on Drilling PERFECT Angled Holes with Flat Bottom Drills",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Vvfjwb3utSI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Vvfjwb3utSI",
-          "publishedOn": "2023-03-22T11:00:23.000Z",
-          "wordCount": null,
-          "title": "These Gauge Blocks Stick together like MAGIC!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zfwjcMmKmt0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zfwjcMmKmt0",
-          "publishedOn": "2023-03-21T13:00:45.000Z",
-          "wordCount": null,
-          "title": "FAST Heller Machines Make Revolutionary Propellers",
           "imageUrl": null
         }
       ]
@@ -2455,18 +2485,7 @@
       "title": "NinjaCakeAssassin",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUJexeVabymyw7G-rxdjUDw",
       "siteUrl": "https://www.youtube.com/channel/UCUJexeVabymyw7G-rxdjUDw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=a_UeveCyiNI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=a_UeveCyiNI",
-          "publishedOn": "2023-01-01T23:10:55.000Z",
-          "wordCount": null,
-          "title": "Τσούτσου Καρλομάγνος",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "North of the Border",
@@ -2596,6 +2615,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6u6uY4VbvuNtU0BU7F9olw",
       "siteUrl": "https://www.youtube.com/channel/UC6u6uY4VbvuNtU0BU7F9olw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Tih9L-Ooy8c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Tih9L-Ooy8c",
+          "publishedOn": "2023-04-01T15:08:19.000Z",
+          "wordCount": null,
+          "title": "It's time to recycle Howl's Moving Castle.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=9mCj1_xhcsc",
           "author": null,
