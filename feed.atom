@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-08T00:29:14.406Z</id>
+    <id>urn:2023-04-09T00:32:19.978Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-08T00:29:14.407Z</updated>
+    <updated>2023-04-09T00:32:19.978Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Digit Clocking in and Doing Back Breaking Manual Work]]></title>
+        <id>https://www.youtube.com/watch?v=y5UuqY04Qdo</id>
+        <link href="https://www.youtube.com/watch?v=y5UuqY04Qdo"/>
+        <updated>2023-04-08T21:00:33.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cryogenic Sleep: Will We Finally Be Able to Cheat Death?]]></title>
+        <id>https://www.youtube.com/watch?v=ZgoWbfJLdBY</id>
+        <link href="https://www.youtube.com/watch?v=ZgoWbfJLdBY"/>
+        <updated>2023-04-08T19:00:22.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cryogenic Sleep: Will We Finally Be Able to Cheat Death?]]></title>
+        <id>https://www.youtube.com/watch?v=MNbwJRbNXZs</id>
+        <link href="https://www.youtube.com/watch?v=MNbwJRbNXZs"/>
+        <updated>2023-04-08T19:00:15.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Patan Patola Saris Are So Expensive | So Expensive | Insider Business]]></title>
+        <id>https://www.youtube.com/watch?v=SlSoZsbuD-Y</id>
+        <link href="https://www.youtube.com/watch?v=SlSoZsbuD-Y"/>
+        <updated>2023-04-08T15:00:21.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fusion of Directed Energy Deposition and 5-axis Milling]]></title>
+        <id>https://www.youtube.com/watch?v=oFv1i8k4dsg</id>
+        <link href="https://www.youtube.com/watch?v=oFv1i8k4dsg"/>
+        <updated>2023-04-08T13:00:40.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machining Custom Parts on a Twin Turret CNC Lathe]]></title>
+        <id>https://www.youtube.com/watch?v=BE7NbDg5Ak0</id>
+        <link href="https://www.youtube.com/watch?v=BE7NbDg5Ak0"/>
+        <updated>2023-04-08T13:00:06.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlocking Secret Features Inside the 35 AXIS MultiSwiss from TORNOS]]></title>
+        <id>https://www.youtube.com/watch?v=ELnB4kt7gqI</id>
+        <link href="https://www.youtube.com/watch?v=ELnB4kt7gqI"/>
+        <updated>2023-04-08T11:00:10.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a Tesla is Built to Protect the Passenger and the Battery]]></title>
+        <id>https://www.youtube.com/watch?v=vWSI-kiZBX4</id>
+        <link href="https://www.youtube.com/watch?v=vWSI-kiZBX4"/>
+        <updated>2023-04-08T09:00:28.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sail Practice on Pensacola Bay with American Magic]]></title>
+        <id>https://www.youtube.com/watch?v=waGoDcCc40Q</id>
+        <link href="https://www.youtube.com/watch?v=waGoDcCc40Q"/>
+        <updated>2023-04-08T03:08:40.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meet Anna: The Smart House Robot That Will Take Care of Your Chores]]></title>
         <id>https://www.youtube.com/watch?v=__msObL6K4g</id>
@@ -222,33 +303,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cleaning Months Worth of Moss Build-Up]]></title>
-        <id>https://www.youtube.com/watch?v=eP3jKNG3Ics</id>
-        <link href="https://www.youtube.com/watch?v=eP3jKNG3Ics"/>
-        <updated>2023-04-05T21:00:21.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NATO Missile Meets an USSR Launcher: RIM-7 SEASPARROW in Ukraine]]></title>
-        <id>https://www.youtube.com/watch?v=WMyOFL4YpoI</id>
-        <link href="https://www.youtube.com/watch?v=WMyOFL4YpoI"/>
-        <updated>2023-04-05T19:00:12.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RIM-7 SEASPARROW in Ukraine: NATO Missile Meets an USSR Launcher]]></title>
-        <id>https://www.youtube.com/watch?v=WSf24lSlQyY</id>
-        <link href="https://www.youtube.com/watch?v=WSf24lSlQyY"/>
-        <updated>2023-04-05T19:00:12.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PIRATE CHEST @Clockspring3D #Voron #3dprinting]]></title>
         <id>https://www.youtube.com/watch?v=wjthaQv9ukg</id>
         <link href="https://www.youtube.com/watch?v=wjthaQv9ukg"/>
@@ -285,30 +339,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Most Popular Aircraft]]></title>
-        <id>https://www.youtube.com/watch?v=PqOuZOx5dH0</id>
-        <link href="https://www.youtube.com/watch?v=PqOuZOx5dH0"/>
-        <updated>2023-04-05T13:00:31.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[These Inserts were Built to DESTROY Material!]]></title>
         <id>https://www.youtube.com/watch?v=o9JPa-Boszg</id>
         <link href="https://www.youtube.com/watch?v=o9JPa-Boszg"/>
         <updated>2023-04-05T11:00:39.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Are The Northern Lights and How Do They Form?]]></title>
-        <id>https://www.youtube.com/watch?v=zqUJHGKxyYM</id>
-        <link href="https://www.youtube.com/watch?v=zqUJHGKxyYM"/>
-        <updated>2023-04-05T09:00:39.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -591,15 +627,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Singapore Changi Airport Was Just Named Best In The World | Insider Business]]></title>
-        <id>https://www.youtube.com/watch?v=gYi5P16l6eo</id>
-        <link href="https://www.youtube.com/watch?v=gYi5P16l6eo"/>
-        <updated>2023-03-31T21:11:44.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Your Brain Organizes Information]]></title>
         <id>https://www.youtube.com/watch?v=9qOaII_PzGY</id>
         <link href="https://www.youtube.com/watch?v=9qOaII_PzGY"/>
@@ -708,15 +735,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Machining the FIRST Aerospace ISOGRID Skateboard]]></title>
-        <id>https://www.youtube.com/watch?v=qx4AYFQcuoY</id>
-        <link href="https://www.youtube.com/watch?v=qx4AYFQcuoY"/>
-        <updated>2023-03-29T13:19:11.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Anchor Winch Hydraulics Upgrade with Chain Shaft Coupler]]></title>
         <id>https://www.youtube.com/watch?v=CmTNwx3sHMQ</id>
         <link href="https://www.youtube.com/watch?v=CmTNwx3sHMQ"/>
@@ -741,15 +759,6 @@
         <updated>2023-03-28T14:00:05.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FASTEST I Have Ever Pushed a CNC MACHINE]]></title>
-        <id>https://www.youtube.com/watch?v=48OytizF_dw</id>
-        <link href="https://www.youtube.com/watch?v=48OytizF_dw"/>
-        <updated>2023-03-28T13:00:02.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1707,15 +1716,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mainsail Yard Reinforcement]]></title>
-        <id>https://www.youtube.com/watch?v=KBmh4QgpLe0</id>
-        <link href="https://www.youtube.com/watch?v=KBmh4QgpLe0"/>
-        <updated>2023-02-11T18:48:09.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[185,754 People Agree With Me, 72,027 Disagree]]></title>
         <id>https://www.youtube.com/watch?v=XeSu9fBJ2sI</id>
         <link href="https://www.youtube.com/watch?v=XeSu9fBJ2sI"/>
@@ -2208,15 +2208,6 @@
         <updated>2023-01-09T16:00:10.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving PDEs with the Laplace Transform: The Heat Equation]]></title>
-        <id>https://www.youtube.com/watch?v=xuBJFSh6Bu4</id>
-        <link href="https://www.youtube.com/watch?v=xuBJFSh6Bu4"/>
-        <updated>2023-01-09T11:00:37.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
 </feed>
