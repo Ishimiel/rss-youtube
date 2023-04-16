@@ -89,7 +89,7 @@
           "link": "https://www.youtube.com/watch?v=lPr5v7mwq34",
           "publishedOn": "2023-03-23T15:00:27.000Z",
           "wordCount": null,
-          "title": "The biggest misconception about quantum spin 1/2",
+          "title": "The math of quantum spin 1/2",
           "imageUrl": null
         }
       ]
@@ -274,16 +274,6 @@
           "publishedOn": "2023-01-27T11:00:25.000Z",
           "wordCount": null,
           "title": "Complex Analysis L01: Overview & Motivation, Complex Arithmetic, Euler's Formula & Polar Coordinates",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0H1gWTaWva4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0H1gWTaWva4",
-          "publishedOn": "2023-01-16T11:00:00.000Z",
-          "wordCount": null,
-          "title": "Topics in Dynamical Systems: Fixed Points, Linearization, Invariant Manifolds, Bifurcations & Chaos",
           "imageUrl": null
         }
       ]
@@ -669,6 +659,16 @@
           "wordCount": null,
           "title": "RESIN PROBLEM #3dprinting 😢",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=GA1Y1EbyGj0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GA1Y1EbyGj0",
+          "publishedOn": "2023-03-10T14:00:09.000Z",
+          "wordCount": null,
+          "title": "3D Printing a Mother’s Memory",
+          "imageUrl": null
         }
       ]
     },
@@ -798,6 +798,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiczXOhGpvoQGhOL16EZiTg",
       "siteUrl": "https://www.youtube.com/channel/UCiczXOhGpvoQGhOL16EZiTg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=XrqRXyVw8KI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XrqRXyVw8KI",
+          "publishedOn": "2023-04-15T16:02:07.000Z",
+          "wordCount": null,
+          "title": "Who would even buy a new Prusa MK4 in 2023?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=qBvTWFEd7rk",
           "author": null,
@@ -950,16 +960,6 @@
           "wordCount": null,
           "title": "How Stoke Space's Unique Rocket Works // Exclusive Tour & Interview",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qsAr_4MEmK4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qsAr_4MEmK4",
-          "publishedOn": "2023-01-16T00:36:48.000Z",
-          "wordCount": null,
-          "title": "Watch SpaceX's Falcon Heavy Launch a Top Secret Satellite! #USSF67",
-          "imageUrl": null
         }
       ]
     },
@@ -974,6 +974,56 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEuiOszNd6msGgqsD0f9YAQ",
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=3BdBe0L6Ht4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3BdBe0L6Ht4",
+          "publishedOn": "2023-04-15T21:00:01.000Z",
+          "wordCount": null,
+          "title": "The Keaton Music Typewriter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Xku-hZ9mWVo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Xku-hZ9mWVo",
+          "publishedOn": "2023-04-15T19:00:20.000Z",
+          "wordCount": null,
+          "title": "When Will the Global Chip Shortage End?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=PnsbzjddehU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PnsbzjddehU",
+          "publishedOn": "2023-04-15T19:00:09.000Z",
+          "wordCount": null,
+          "title": "Global Chip Shortage Timeline: From COVID-19 to the War in Ukraine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=dcZrwxABqvk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dcZrwxABqvk",
+          "publishedOn": "2023-04-15T13:00:22.000Z",
+          "wordCount": null,
+          "title": "Superior Power and Torque",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=iP6Ca1GTq1M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iP6Ca1GTq1M",
+          "publishedOn": "2023-04-15T09:00:22.000Z",
+          "wordCount": null,
+          "title": "World's First Submersible Reciprocating Saw",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=BjZZ8PDZZKw",
           "author": null,
@@ -1072,56 +1122,6 @@
           "publishedOn": "2023-04-13T19:00:21.000Z",
           "wordCount": null,
           "title": "The World's Largest Cargo Helicopter Capable of Carrying Aircraft: Mil Mi 26",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GHmnZKmZtS4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GHmnZKmZtS4",
-          "publishedOn": "2023-04-13T13:00:18.000Z",
-          "wordCount": null,
-          "title": "Unique Simulator Platform With Distinctive Spherical Design",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NC-eCI7HaLM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NC-eCI7HaLM",
-          "publishedOn": "2023-04-13T09:00:11.000Z",
-          "wordCount": null,
-          "title": "A Folding Caravan With A Wide Living Space",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JJFClFfyTXc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JJFClFfyTXc",
-          "publishedOn": "2023-04-12T23:00:08.000Z",
-          "wordCount": null,
-          "title": "Step-by-Step Instructional Overview of a Goodyear Factory",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qTmEzEL1jqw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qTmEzEL1jqw",
-          "publishedOn": "2023-04-12T21:00:21.000Z",
-          "wordCount": null,
-          "title": "Bassinet, Intelligent Crib, and Baby Monitor All In One",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OPMzU8V5Y2M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OPMzU8V5Y2M",
-          "publishedOn": "2023-04-12T19:00:11.000Z",
-          "wordCount": null,
-          "title": "The Most Expensive Single Weapon System that the U.S. Has Supplied to Ukraine: MIM-104 PATRIOT",
           "imageUrl": null
         }
       ]
@@ -1538,6 +1538,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCj_XaV1ss-qdD-lPUtTEcXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=C9YBOmGQod0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=C9YBOmGQod0",
+          "publishedOn": "2023-04-15T11:21:48.000Z",
+          "wordCount": null,
+          "title": "Seeker Anchors in the Twilight Zone",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=MyKdY3G3Yco",
           "author": null,
           "description": "",
@@ -1675,16 +1685,6 @@
           "publishedOn": "2023-03-09T03:24:53.000Z",
           "wordCount": null,
           "title": "Sail Crutch",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oElkCNcfSKw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oElkCNcfSKw",
-          "publishedOn": "2023-03-07T00:46:42.000Z",
-          "wordCount": null,
-          "title": "Divorced Transfer Case Wanted",
           "imageUrl": null
         }
       ]
@@ -2203,6 +2203,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tZki75i51c8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tZki75i51c8",
+          "publishedOn": "2023-04-15T13:01:17.000Z",
+          "wordCount": null,
+          "title": "the fastest Reaming you'll ever see...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=AMi54k6dYqs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AMi54k6dYqs",
+          "publishedOn": "2023-04-15T11:00:09.000Z",
+          "wordCount": null,
+          "title": "Our NEW 12 Pallet System Arrives | Heller RSP System",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=D_SFO-jcN0Y",
           "author": null,
           "description": "",
@@ -2330,26 +2350,6 @@
           "publishedOn": "2023-04-05T11:00:39.000Z",
           "wordCount": null,
           "title": "These Inserts were Built to DESTROY Material!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ln98f5pfhr0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ln98f5pfhr0",
-          "publishedOn": "2023-04-04T13:40:05.000Z",
-          "wordCount": null,
-          "title": "CNC Machining Brandon Herrera's AK-50 TRUNNION",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mFhngJUGMSo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mFhngJUGMSo",
-          "publishedOn": "2023-04-04T11:00:29.000Z",
-          "wordCount": null,
-          "title": "How CNC Machinists CONQUER the RISE of AI",
           "imageUrl": null
         }
       ]
@@ -2693,6 +2693,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ0-OtVpF0wOKEqT2Z1HEtA",
       "siteUrl": "https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=QJwYDiW9fiA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QJwYDiW9fiA",
+          "publishedOn": "2023-04-15T16:00:14.000Z",
+          "wordCount": null,
+          "title": "Airplane Question that Drove Me NUTS!!!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=UFrMcYX6IV4",
           "author": null,

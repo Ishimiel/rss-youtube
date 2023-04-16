@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-15T00:33:17.285Z</id>
+    <id>urn:2023-04-16T00:32:39.216Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-15T00:33:17.285Z</updated>
+    <updated>2023-04-16T00:32:39.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Keaton Music Typewriter]]></title>
+        <id>https://www.youtube.com/watch?v=3BdBe0L6Ht4</id>
+        <link href="https://www.youtube.com/watch?v=3BdBe0L6Ht4"/>
+        <updated>2023-04-15T21:00:01.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Will the Global Chip Shortage End?]]></title>
+        <id>https://www.youtube.com/watch?v=Xku-hZ9mWVo</id>
+        <link href="https://www.youtube.com/watch?v=Xku-hZ9mWVo"/>
+        <updated>2023-04-15T19:00:20.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global Chip Shortage Timeline: From COVID-19 to the War in Ukraine]]></title>
+        <id>https://www.youtube.com/watch?v=PnsbzjddehU</id>
+        <link href="https://www.youtube.com/watch?v=PnsbzjddehU"/>
+        <updated>2023-04-15T19:00:09.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who would even buy a new Prusa MK4 in 2023?]]></title>
+        <id>https://www.youtube.com/watch?v=XrqRXyVw8KI</id>
+        <link href="https://www.youtube.com/watch?v=XrqRXyVw8KI"/>
+        <updated>2023-04-15T16:02:07.000Z</updated>
+        <author>
+            <name>CNC Kitchen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Airplane Question that Drove Me NUTS!!!]]></title>
+        <id>https://www.youtube.com/watch?v=QJwYDiW9fiA</id>
+        <link href="https://www.youtube.com/watch?v=QJwYDiW9fiA"/>
+        <updated>2023-04-15T16:00:14.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[the fastest Reaming you'll ever see...]]></title>
+        <id>https://www.youtube.com/watch?v=tZki75i51c8</id>
+        <link href="https://www.youtube.com/watch?v=tZki75i51c8"/>
+        <updated>2023-04-15T13:01:17.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Superior Power and Torque]]></title>
+        <id>https://www.youtube.com/watch?v=dcZrwxABqvk</id>
+        <link href="https://www.youtube.com/watch?v=dcZrwxABqvk"/>
+        <updated>2023-04-15T13:00:22.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seeker Anchors in the Twilight Zone]]></title>
+        <id>https://www.youtube.com/watch?v=C9YBOmGQod0</id>
+        <link href="https://www.youtube.com/watch?v=C9YBOmGQod0"/>
+        <updated>2023-04-15T11:21:48.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our NEW 12 Pallet System Arrives | Heller RSP System]]></title>
+        <id>https://www.youtube.com/watch?v=AMi54k6dYqs</id>
+        <link href="https://www.youtube.com/watch?v=AMi54k6dYqs"/>
+        <updated>2023-04-15T11:00:09.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World's First Submersible Reciprocating Saw]]></title>
+        <id>https://www.youtube.com/watch?v=iP6Ca1GTq1M</id>
+        <link href="https://www.youtube.com/watch?v=iP6Ca1GTq1M"/>
+        <updated>2023-04-15T09:00:22.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Security Guard Robot!]]></title>
         <id>https://www.youtube.com/watch?v=BjZZ8PDZZKw</id>
@@ -231,15 +321,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unique Simulator Platform With Distinctive Spherical Design]]></title>
-        <id>https://www.youtube.com/watch?v=GHmnZKmZtS4</id>
-        <link href="https://www.youtube.com/watch?v=GHmnZKmZtS4"/>
-        <updated>2023-04-13T13:00:18.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Attacking Holes at Lightning Speeds to Save Time & Make $$$]]></title>
         <id>https://www.youtube.com/watch?v=egSuiqwXIOY</id>
         <link href="https://www.youtube.com/watch?v=egSuiqwXIOY"/>
@@ -249,48 +330,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Folding Caravan With A Wide Living Space]]></title>
-        <id>https://www.youtube.com/watch?v=NC-eCI7HaLM</id>
-        <link href="https://www.youtube.com/watch?v=NC-eCI7HaLM"/>
-        <updated>2023-04-13T09:00:11.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Step-by-Step Instructional Overview of a Goodyear Factory]]></title>
-        <id>https://www.youtube.com/watch?v=JJFClFfyTXc</id>
-        <link href="https://www.youtube.com/watch?v=JJFClFfyTXc"/>
-        <updated>2023-04-12T23:00:08.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I shattered a wine glass with my voice!]]></title>
         <id>https://www.youtube.com/watch?v=KuTJZQm9xV4</id>
         <link href="https://www.youtube.com/watch?v=KuTJZQm9xV4"/>
         <updated>2023-04-12T22:59:10.000Z</updated>
         <author>
             <name>Physics Girl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bassinet, Intelligent Crib, and Baby Monitor All In One]]></title>
-        <id>https://www.youtube.com/watch?v=qTmEzEL1jqw</id>
-        <link href="https://www.youtube.com/watch?v=qTmEzEL1jqw"/>
-        <updated>2023-04-12T21:00:21.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Most Expensive Single Weapon System that the U.S. Has Supplied to Ukraine: MIM-104 PATRIOT]]></title>
-        <id>https://www.youtube.com/watch?v=OPMzU8V5Y2M</id>
-        <link href="https://www.youtube.com/watch?v=OPMzU8V5Y2M"/>
-        <updated>2023-04-12T19:00:11.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -672,30 +717,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CNC Machining Brandon Herrera's AK-50 TRUNNION]]></title>
-        <id>https://www.youtube.com/watch?v=Ln98f5pfhr0</id>
-        <link href="https://www.youtube.com/watch?v=Ln98f5pfhr0"/>
-        <updated>2023-04-04T13:40:05.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Divorced Transfer Case - Part 2 - NP200]]></title>
         <id>https://www.youtube.com/watch?v=qzOStuqsWeY</id>
         <link href="https://www.youtube.com/watch?v=qzOStuqsWeY"/>
         <updated>2023-04-04T11:49:42.000Z</updated>
         <author>
             <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How CNC Machinists CONQUER the RISE of AI]]></title>
-        <id>https://www.youtube.com/watch?v=mFhngJUGMSo</id>
-        <link href="https://www.youtube.com/watch?v=mFhngJUGMSo"/>
-        <updated>2023-04-04T11:00:29.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1005,7 +1032,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The biggest misconception about quantum spin 1/2]]></title>
+        <title type="html"><![CDATA[The math of quantum spin 1/2]]></title>
         <id>https://www.youtube.com/watch?v=lPr5v7mwq34</id>
         <link href="https://www.youtube.com/watch?v=lPr5v7mwq34"/>
         <updated>2023-03-23T15:00:27.000Z</updated>
@@ -1338,6 +1365,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[3D Printing a Mother’s Memory]]></title>
+        <id>https://www.youtube.com/watch?v=GA1Y1EbyGj0</id>
+        <link href="https://www.youtube.com/watch?v=GA1Y1EbyGj0"/>
+        <updated>2023-03-10T14:00:09.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nordra - Transcendence 2 (Live at Pioneer Works)]]></title>
         <id>https://www.youtube.com/watch?v=p7v7XEpxmLk</id>
         <link href="https://www.youtube.com/watch?v=p7v7XEpxmLk"/>
@@ -1407,15 +1443,6 @@
         <updated>2023-03-07T11:05:23.000Z</updated>
         <author>
             <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Divorced Transfer Case Wanted]]></title>
-        <id>https://www.youtube.com/watch?v=oElkCNcfSKw</id>
-        <link href="https://www.youtube.com/watch?v=oElkCNcfSKw"/>
-        <updated>2023-03-07T00:46:42.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
         </author>
     </entry>
     <entry>
@@ -2190,24 +2217,6 @@
         <updated>2023-01-16T21:16:18.000Z</updated>
         <author>
             <name>Internet Pitstop</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Topics in Dynamical Systems: Fixed Points, Linearization, Invariant Manifolds, Bifurcations & Chaos]]></title>
-        <id>https://www.youtube.com/watch?v=0H1gWTaWva4</id>
-        <link href="https://www.youtube.com/watch?v=0H1gWTaWva4"/>
-        <updated>2023-01-16T11:00:00.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch SpaceX's Falcon Heavy Launch a Top Secret Satellite! #USSF67]]></title>
-        <id>https://www.youtube.com/watch?v=qsAr_4MEmK4</id>
-        <link href="https://www.youtube.com/watch?v=qsAr_4MEmK4"/>
-        <updated>2023-01-16T00:36:48.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
         </author>
     </entry>
 </feed>
