@@ -1,10 +1,109 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-18T00:29:58.454Z</id>
+    <id>urn:2023-04-19T00:32:52.087Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-18T00:29:58.454Z</updated>
+    <updated>2023-04-19T00:32:52.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[This is Why Vinyl Records Will Never Die]]></title>
+        <id>https://www.youtube.com/watch?v=4VpDSks7yjg</id>
+        <link href="https://www.youtube.com/watch?v=4VpDSks7yjg"/>
+        <updated>2023-04-18T23:00:02.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solar vs Lunar Eclipse]]></title>
+        <id>https://www.youtube.com/watch?v=k3hgVys6kc0</id>
+        <link href="https://www.youtube.com/watch?v=k3hgVys6kc0"/>
+        <updated>2023-04-18T22:15:46.000Z</updated>
+        <author>
+            <name>Physics Girl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Vinyl Records Are Making a Comeback]]></title>
+        <id>https://www.youtube.com/watch?v=lfTuK06YqVY</id>
+        <link href="https://www.youtube.com/watch?v=lfTuK06YqVY"/>
+        <updated>2023-04-18T19:20:45.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The CHAOS of flying with musical instruments]]></title>
+        <id>https://www.youtube.com/watch?v=lazSHKZ1xmI</id>
+        <link href="https://www.youtube.com/watch?v=lazSHKZ1xmI"/>
+        <updated>2023-04-18T19:12:32.000Z</updated>
+        <author>
+            <name>Adam Neely</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Mad honey" is the rarest kind of honey in the world. #MadHoney #Nepal #Himalayas]]></title>
+        <id>https://www.youtube.com/watch?v=sfC7gPXXU74</id>
+        <link href="https://www.youtube.com/watch?v=sfC7gPXXU74"/>
+        <updated>2023-04-18T18:01:01.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch SpaceX TEST Starship, the biggest rocket ever, LIVE]]></title>
+        <id>https://www.youtube.com/watch?v=eAl3gVvMNNM</id>
+        <link href="https://www.youtube.com/watch?v=eAl3gVvMNNM"/>
+        <updated>2023-04-18T15:54:56.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go First Dice - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=5q32heFz1bs</id>
+        <link href="https://www.youtube.com/watch?v=5q32heFz1bs"/>
+        <updated>2023-04-18T14:20:31.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Airplane Propeller Being Carved Using a Tracing Lathe Machine]]></title>
+        <id>https://www.youtube.com/watch?v=6h1-sZXRkzU</id>
+        <link href="https://www.youtube.com/watch?v=6h1-sZXRkzU"/>
+        <updated>2023-04-18T13:00:09.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Balancing the Propeller by Finding Center of Gravity]]></title>
+        <id>https://www.youtube.com/watch?v=JtNDZGVh__U</id>
+        <link href="https://www.youtube.com/watch?v=JtNDZGVh__U"/>
+        <updated>2023-04-18T12:22:56.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNC Machining the AK-50 Bolt Carrier for Brandon Herrera]]></title>
+        <id>https://www.youtube.com/watch?v=jJXBBdHOOqY</id>
+        <link href="https://www.youtube.com/watch?v=jJXBBdHOOqY"/>
+        <updated>2023-04-18T11:00:30.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s Amazing How Much Equipment They Could Fit in This 5-in-1 Camping Kit]]></title>
+        <id>https://www.youtube.com/watch?v=abcjlRkaXmY</id>
+        <link href="https://www.youtube.com/watch?v=abcjlRkaXmY"/>
+        <updated>2023-04-18T09:00:01.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Witch Trials of J.K. Rowling | ContraPoints]]></title>
         <id>https://www.youtube.com/watch?v=EmT0i0xG6zg</id>
@@ -24,7 +123,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Will Western Allies Boost Ukraine's Air Power?: F-16 Fighting Falcon and Jas 39 Gripen]]></title>
+        <title type="html"><![CDATA[F-16 Fighting Falcon Vs. Jas 39 Gripen]]></title>
         <id>https://www.youtube.com/watch?v=n_F7pHaBqak</id>
         <link href="https://www.youtube.com/watch?v=n_F7pHaBqak"/>
         <updated>2023-04-17T19:00:23.000Z</updated>
@@ -186,15 +285,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4x4 a Boat]]></title>
-        <id>https://www.youtube.com/watch?v=L9wOY973F1o</id>
-        <link href="https://www.youtube.com/watch?v=L9wOY973F1o"/>
-        <updated>2023-04-16T12:17:27.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Monte - Living the Boat Life]]></title>
         <id>https://www.youtube.com/watch?v=ZYF4AZGCxrk</id>
         <link href="https://www.youtube.com/watch?v=ZYF4AZGCxrk"/>
@@ -231,24 +321,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When Will the Global Chip Shortage End?]]></title>
-        <id>https://www.youtube.com/watch?v=Xku-hZ9mWVo</id>
-        <link href="https://www.youtube.com/watch?v=Xku-hZ9mWVo"/>
-        <updated>2023-04-15T19:00:20.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global Chip Shortage Timeline: From COVID-19 to the War in Ukraine]]></title>
-        <id>https://www.youtube.com/watch?v=PnsbzjddehU</id>
-        <link href="https://www.youtube.com/watch?v=PnsbzjddehU"/>
-        <updated>2023-04-15T19:00:09.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Should you buy a NEW Prusa MK4 in 2023 or rather a Bambu Lab X1/P1P?]]></title>
         <id>https://www.youtube.com/watch?v=XrqRXyVw8KI</id>
         <link href="https://www.youtube.com/watch?v=XrqRXyVw8KI"/>
@@ -276,15 +348,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Superior Power and Torque]]></title>
-        <id>https://www.youtube.com/watch?v=dcZrwxABqvk</id>
-        <link href="https://www.youtube.com/watch?v=dcZrwxABqvk"/>
-        <updated>2023-04-15T13:00:22.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Seeker Anchors in the Twilight Zone]]></title>
         <id>https://www.youtube.com/watch?v=C9YBOmGQod0</id>
         <link href="https://www.youtube.com/watch?v=C9YBOmGQod0"/>
@@ -300,15 +363,6 @@
         <updated>2023-04-15T11:00:09.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World's First Submersible Reciprocating Saw]]></title>
-        <id>https://www.youtube.com/watch?v=iP6Ca1GTq1M</id>
-        <link href="https://www.youtube.com/watch?v=iP6Ca1GTq1M"/>
-        <updated>2023-04-15T09:00:22.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -483,7 +537,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Korean Rice Syrup Is So Expensive | So Expensive Food | Insider Business]]></title>
+        <title type="html"><![CDATA[Why Korean Rice Syrup (Ssal-Jocheong) Is So Expensive | So Expensive Food | Insider Business]]></title>
         <id>https://www.youtube.com/watch?v=V0zT3N3MnY8</id>
         <link href="https://www.youtube.com/watch?v=V0zT3N3MnY8"/>
         <updated>2023-04-11T21:14:26.000Z</updated>
@@ -723,24 +777,6 @@
         <updated>2023-04-06T18:03:59.000Z</updated>
         <author>
             <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why ESG Is Becoming A Bigger Part of Investment Strategies]]></title>
-        <id>https://www.youtube.com/watch?v=ugHMhHAQcos</id>
-        <link href="https://www.youtube.com/watch?v=ugHMhHAQcos"/>
-        <updated>2023-04-06T15:24:21.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MASSIVE Machines are Changing the World]]></title>
-        <id>https://www.youtube.com/watch?v=TYgBFTFJOTo</id>
-        <link href="https://www.youtube.com/watch?v=TYgBFTFJOTo"/>
-        <updated>2023-04-06T13:00:24.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1329,15 +1365,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Good morning from Pensacola]]></title>
-        <id>https://www.youtube.com/watch?v=oGYvoPdfZQE</id>
-        <link href="https://www.youtube.com/watch?v=oGYvoPdfZQE"/>
-        <updated>2023-03-15T15:25:21.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Duhamel's Principle for Partial Differential Equations]]></title>
         <id>https://www.youtube.com/watch?v=86siB9vQ1Z0</id>
         <link href="https://www.youtube.com/watch?v=86siB9vQ1Z0"/>
@@ -1815,15 +1842,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Giant moving mud puddle tries to take out a TRAIN]]></title>
-        <id>https://www.youtube.com/watch?v=A9oVP085vMo</id>
-        <link href="https://www.youtube.com/watch?v=A9oVP085vMo"/>
-        <updated>2023-02-17T20:18:59.000Z</updated>
-        <author>
-            <name>Physics Girl</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I made the Mr. Mime from Detective Pikachu]]></title>
         <id>https://www.youtube.com/watch?v=5ERfyo_3mM8</id>
         <link href="https://www.youtube.com/watch?v=5ERfyo_3mM8"/>
@@ -2253,15 +2271,6 @@
         <updated>2023-01-20T16:01:08.000Z</updated>
         <author>
             <name>Studson Studio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The ring on a chain trick]]></title>
-        <id>https://www.youtube.com/watch?v=Tmy7VYhZEKQ</id>
-        <link href="https://www.youtube.com/watch?v=Tmy7VYhZEKQ"/>
-        <updated>2023-01-18T21:12:01.000Z</updated>
-        <author>
-            <name>Veritasium</name>
         </author>
     </entry>
 </feed>
