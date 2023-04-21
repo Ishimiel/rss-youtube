@@ -1,10 +1,109 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-20T00:30:16.853Z</id>
+    <id>urn:2023-04-21T00:30:47.579Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-20T00:30:16.853Z</updated>
+    <updated>2023-04-21T00:30:47.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Are you ready to see under the water in Full HD and wide angle?]]></title>
+        <id>https://www.youtube.com/watch?v=lLcPUaXSark</id>
+        <link href="https://www.youtube.com/watch?v=lLcPUaXSark"/>
+        <updated>2023-04-20T21:00:22.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolutionizing Framing Like Never Before!]]></title>
+        <id>https://www.youtube.com/watch?v=Lcue8ZFACrI</id>
+        <link href="https://www.youtube.com/watch?v=Lcue8ZFACrI"/>
+        <updated>2023-04-20T19:00:12.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Enormous Crawler Transporter From NASA! Come Closer!]]></title>
+        <id>https://www.youtube.com/watch?v=Oax9Byv_XHM</id>
+        <link href="https://www.youtube.com/watch?v=Oax9Byv_XHM"/>
+        <updated>2023-04-20T19:00:08.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DO I CONTINUE? 🤔 #3dprinting]]></title>
+        <id>https://www.youtube.com/watch?v=OUFfqgiwPzE</id>
+        <link href="https://www.youtube.com/watch?v=OUFfqgiwPzE"/>
+        <updated>2023-04-20T18:50:20.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch SpaceX TEST Starship, the biggest rocket ever, LIVE]]></title>
+        <id>https://www.youtube.com/watch?v=eAl3gVvMNNM</id>
+        <link href="https://www.youtube.com/watch?v=eAl3gVvMNNM"/>
+        <updated>2023-04-20T15:53:18.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Army Cooks, Drill Sergeants, Space Force Guardians, And More Are Trained | Boot Camp]]></title>
+        <id>https://www.youtube.com/watch?v=VvUykli9Oqk</id>
+        <link href="https://www.youtube.com/watch?v=VvUykli9Oqk"/>
+        <updated>2023-04-20T15:00:19.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Reviewed 14 Stupid Smart Devices From My Spam Folder]]></title>
+        <id>https://www.youtube.com/watch?v=KwI4XkB2uQg</id>
+        <link href="https://www.youtube.com/watch?v=KwI4XkB2uQg"/>
+        <updated>2023-04-20T14:40:00.000Z</updated>
+        <author>
+            <name>Zack Freedman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nasa’s Crawler Transporter is one of the largest land vehicle ever built]]></title>
+        <id>https://www.youtube.com/watch?v=RC2egbnfwJ8</id>
+        <link href="https://www.youtube.com/watch?v=RC2egbnfwJ8"/>
+        <updated>2023-04-20T14:34:06.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[how hard is 5-Axis CNC Machining❓]]></title>
+        <id>https://www.youtube.com/watch?v=23062bDeKWI</id>
+        <link href="https://www.youtube.com/watch?v=23062bDeKWI"/>
+        <updated>2023-04-20T14:14:16.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printing is an Affordable and Flexible Method of Producing Prosthetics for the Disabled]]></title>
+        <id>https://www.youtube.com/watch?v=d96ufvfYvKc</id>
+        <link href="https://www.youtube.com/watch?v=d96ufvfYvKc"/>
+        <updated>2023-04-20T13:00:33.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Difficult Process of Making a Custom GO / NO GO GAUGE]]></title>
+        <id>https://www.youtube.com/watch?v=0uIbgQrc47g</id>
+        <link href="https://www.youtube.com/watch?v=0uIbgQrc47g"/>
+        <updated>2023-04-20T11:00:01.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An Efficient Way of Creating Permanent Joints]]></title>
         <id>https://www.youtube.com/watch?v=Uk-F2KOLhF4</id>
@@ -168,15 +267,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Watch SpaceX TEST Starship, the biggest rocket ever, LIVE]]></title>
-        <id>https://www.youtube.com/watch?v=eAl3gVvMNNM</id>
-        <link href="https://www.youtube.com/watch?v=eAl3gVvMNNM"/>
-        <updated>2023-04-18T15:54:56.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Go First Dice - Numberphile]]></title>
         <id>https://www.youtube.com/watch?v=5q32heFz1bs</id>
         <link href="https://www.youtube.com/watch?v=5q32heFz1bs"/>
@@ -231,33 +321,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Next-Generation Greenhouses for Resource Efficiency]]></title>
-        <id>https://www.youtube.com/watch?v=WAYotn5tSeU</id>
-        <link href="https://www.youtube.com/watch?v=WAYotn5tSeU"/>
-        <updated>2023-04-17T21:00:25.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F-16 Fighting Falcon Vs. Jas 39 Gripen]]></title>
-        <id>https://www.youtube.com/watch?v=n_F7pHaBqak</id>
-        <link href="https://www.youtube.com/watch?v=n_F7pHaBqak"/>
-        <updated>2023-04-17T19:00:23.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F-16 Fighting Falcon and Jas 39 Gripen: Which one is better for Ukraine?]]></title>
-        <id>https://www.youtube.com/watch?v=euAJCsx1yV0</id>
-        <link href="https://www.youtube.com/watch?v=euAJCsx1yV0"/>
-        <updated>2023-04-17T19:00:19.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[SCRUBBED] Watch SpaceX TEST Starship, the biggest rocket ever, LIVE]]></title>
         <id>https://www.youtube.com/watch?v=6Vb9hFqF6i0</id>
         <link href="https://www.youtube.com/watch?v=6Vb9hFqF6i0"/>
@@ -294,30 +357,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Design Ahead of Its Time!]]></title>
-        <id>https://www.youtube.com/watch?v=198AkF2qaeY</id>
-        <link href="https://www.youtube.com/watch?v=198AkF2qaeY"/>
-        <updated>2023-04-17T13:00:02.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[a perfect square from a round stock]]></title>
         <id>https://www.youtube.com/watch?v=788sqBFFCo0</id>
         <link href="https://www.youtube.com/watch?v=788sqBFFCo0"/>
         <updated>2023-04-17T11:00:36.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spying on Marseille's Creeks: L'invisible's Ingenious Design]]></title>
-        <id>https://www.youtube.com/watch?v=pvavycyAuEc</id>
-        <link href="https://www.youtube.com/watch?v=pvavycyAuEc"/>
-        <updated>2023-04-17T09:00:25.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -330,7 +375,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How do electrons find the "Path of Least Resistance"?]]></title>
+        <title type="html"><![CDATA[How does electricity find the "Path of Least Resistance"?]]></title>
         <id>https://www.youtube.com/watch?v=C3gnNpYK3lo</id>
         <link href="https://www.youtube.com/watch?v=C3gnNpYK3lo"/>
         <updated>2023-04-17T01:12:51.000Z</updated>
@@ -705,33 +750,6 @@
         <updated>2023-04-09T17:52:56.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How 23 Foods Get To The Grocery Store | Big Business | Insider Business]]></title>
-        <id>https://www.youtube.com/watch?v=4ArVvrhhnyI</id>
-        <link href="https://www.youtube.com/watch?v=4ArVvrhhnyI"/>
-        <updated>2023-04-09T15:00:02.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use THIS for better Tool Efficiency]]></title>
-        <id>https://www.youtube.com/watch?v=4TyDiGt2JOY</id>
-        <link href="https://www.youtube.com/watch?v=4TyDiGt2JOY"/>
-        <updated>2023-04-09T11:00:04.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machining Custom Parts on a Twin Turret CNC Lathe]]></title>
-        <id>https://www.youtube.com/watch?v=BE7NbDg5Ak0</id>
-        <link href="https://www.youtube.com/watch?v=BE7NbDg5Ak0"/>
-        <updated>2023-04-08T13:00:06.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1380,15 +1398,6 @@
         <updated>2023-03-14T23:18:34.000Z</updated>
         <author>
             <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RESIN PROBLEM #3dprinting 😢]]></title>
-        <id>https://www.youtube.com/watch?v=78e8jlGkg-c</id>
-        <link href="https://www.youtube.com/watch?v=78e8jlGkg-c"/>
-        <updated>2023-03-14T19:54:05.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
         </author>
     </entry>
     <entry>
@@ -2262,15 +2271,6 @@
         <updated>2023-01-21T16:00:11.000Z</updated>
         <author>
             <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chainsaw Man! I made a custom Denji doll]]></title>
-        <id>https://www.youtube.com/watch?v=9mCj1_xhcsc</id>
-        <link href="https://www.youtube.com/watch?v=9mCj1_xhcsc"/>
-        <updated>2023-01-20T16:01:08.000Z</updated>
-        <author>
-            <name>Studson Studio</name>
         </author>
     </entry>
 </feed>
