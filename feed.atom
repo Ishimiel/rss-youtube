@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-25T00:31:59.038Z</id>
+    <id>urn:2023-04-26T00:32:03.558Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-25T00:31:59.038Z</updated>
+    <updated>2023-04-26T00:32:03.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Denary Dice]]></title>
+        <id>https://www.youtube.com/watch?v=erAuinBotBQ</id>
+        <link href="https://www.youtube.com/watch?v=erAuinBotBQ"/>
+        <updated>2023-04-25T23:06:58.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why can't you sing into a pipe?]]></title>
+        <id>https://www.youtube.com/watch?v=vWMwEqoOiJA</id>
+        <link href="https://www.youtube.com/watch?v=vWMwEqoOiJA"/>
+        <updated>2023-04-25T21:07:49.000Z</updated>
+        <author>
+            <name>Physics Girl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Water May Slow Panther H1 Down But It Can’t Stop It]]></title>
+        <id>https://www.youtube.com/watch?v=0rLhAC4ISwM</id>
+        <link href="https://www.youtube.com/watch?v=0rLhAC4ISwM"/>
+        <updated>2023-04-25T21:00:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is the biggest threat to Kenya's salt business. #Salt #Kenya #ClimateCrisis]]></title>
+        <id>https://www.youtube.com/watch?v=L-O5iF70nVg</id>
+        <link href="https://www.youtube.com/watch?v=L-O5iF70nVg"/>
+        <updated>2023-04-25T18:45:00.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marketing for Small Business]]></title>
+        <id>https://www.youtube.com/watch?v=LKfQcx7aFbY</id>
+        <link href="https://www.youtube.com/watch?v=LKfQcx7aFbY"/>
+        <updated>2023-04-25T16:56:33.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Stunning Visuals with Projection Mapping]]></title>
+        <id>https://www.youtube.com/watch?v=ZEmH2iR5wAM</id>
+        <link href="https://www.youtube.com/watch?v=ZEmH2iR5wAM"/>
+        <updated>2023-04-25T13:00:32.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Destroying Metal with our Favorite Tools!]]></title>
+        <id>https://www.youtube.com/watch?v=Li0f84fj5N0</id>
+        <link href="https://www.youtube.com/watch?v=Li0f84fj5N0"/>
+        <updated>2023-04-25T13:00:12.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mind Blowing New Tool]]></title>
+        <id>https://www.youtube.com/watch?v=bUh-4wl-AOk</id>
+        <link href="https://www.youtube.com/watch?v=bUh-4wl-AOk"/>
+        <updated>2023-04-25T11:00:24.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Huge Setup Can 3D Print Even at Extreme Angles]]></title>
+        <id>https://www.youtube.com/watch?v=WYPOK0bhOCQ</id>
+        <link href="https://www.youtube.com/watch?v=WYPOK0bhOCQ"/>
+        <updated>2023-04-25T09:14:38.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[High-Effective Mowing Algorithm]]></title>
         <id>https://www.youtube.com/watch?v=Rp99BXSU3-Q</id>
@@ -87,7 +168,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Humanoid Robots Are Getting To Close To Reality]]></title>
+        <title type="html"><![CDATA[Humanoid Robots Are Getting Too Close To Reality]]></title>
         <id>https://www.youtube.com/watch?v=DG57XwTtjiw</id>
         <link href="https://www.youtube.com/watch?v=DG57XwTtjiw"/>
         <updated>2023-04-23T23:00:09.000Z</updated>
@@ -183,33 +264,6 @@
         <updated>2023-04-22T23:50:50.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch How an Underwater Corrosion Damage Gets Repaired by Two-Half Can Flanges]]></title>
-        <id>https://www.youtube.com/watch?v=xWpfLBKMNxs</id>
-        <link href="https://www.youtube.com/watch?v=xWpfLBKMNxs"/>
-        <updated>2023-04-22T21:00:18.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring the Different Types of Drones: A Comprehensive Guide]]></title>
-        <id>https://www.youtube.com/watch?v=k3z3eyIEuO8</id>
-        <link href="https://www.youtube.com/watch?v=k3z3eyIEuO8"/>
-        <updated>2023-04-22T19:00:28.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10: Best Drones 2023]]></title>
-        <id>https://www.youtube.com/watch?v=_UdovREqdVE</id>
-        <link href="https://www.youtube.com/watch?v=_UdovREqdVE"/>
-        <updated>2023-04-22T19:00:10.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -321,7 +375,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Watch SpaceX TEST Starship, the biggest rocket ever, LIVE]]></title>
+        <title type="html"><![CDATA[Watch SpaceX launch Starship, the biggest rocket ever, LIVE]]></title>
         <id>https://www.youtube.com/watch?v=eAl3gVvMNNM</id>
         <link href="https://www.youtube.com/watch?v=eAl3gVvMNNM"/>
         <updated>2023-04-20T15:53:18.000Z</updated>
@@ -510,7 +564,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[She Tracks Wildlife eDNA on Everest and in the Andes]]></title>
+        <title type="html"><![CDATA[From Microscopic to Majestic: eDNA Exposes the Wonders of Life on Everest and Andes]]></title>
         <id>https://www.youtube.com/watch?v=VP0xD8zDUlU</id>
         <link href="https://www.youtube.com/watch?v=VP0xD8zDUlU"/>
         <updated>2023-04-17T14:59:33.000Z</updated>
@@ -546,7 +600,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How does electricity know where to go?]]></title>
+        <title type="html"><![CDATA[How does electricity find the "Path of Least Resistance"?]]></title>
         <id>https://www.youtube.com/watch?v=C3gnNpYK3lo</id>
         <link href="https://www.youtube.com/watch?v=C3gnNpYK3lo"/>
         <updated>2023-04-17T01:12:51.000Z</updated>
@@ -636,30 +690,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Our NEW 12 Pallet System Arrives | Heller RSP System]]></title>
-        <id>https://www.youtube.com/watch?v=AMi54k6dYqs</id>
-        <link href="https://www.youtube.com/watch?v=AMi54k6dYqs"/>
-        <updated>2023-04-15T11:00:09.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Explaining concrete while getting buried in it]]></title>
         <id>https://www.youtube.com/watch?v=rWVAzS5duAs</id>
         <link href="https://www.youtube.com/watch?v=rWVAzS5duAs"/>
         <updated>2023-04-14T17:24:46.000Z</updated>
         <author>
             <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marketing for Small Business]]></title>
-        <id>https://www.youtube.com/watch?v=LKfQcx7aFbY</id>
-        <link href="https://www.youtube.com/watch?v=LKfQcx7aFbY"/>
-        <updated>2023-04-14T16:41:49.000Z</updated>
-        <author>
-            <name>Insider Business</name>
         </author>
     </entry>
     <entry>
@@ -708,15 +744,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[is this the best way to hold round stock?👀]]></title>
-        <id>https://www.youtube.com/watch?v=D_SFO-jcN0Y</id>
-        <link href="https://www.youtube.com/watch?v=D_SFO-jcN0Y"/>
-        <updated>2023-04-14T11:00:07.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Complex Analysis L12: Examples of Complex Integrals]]></title>
         <id>https://www.youtube.com/watch?v=WMmqxcgvo4Y</id>
         <link href="https://www.youtube.com/watch?v=WMmqxcgvo4Y"/>
@@ -759,15 +786,6 @@
         <updated>2023-04-13T18:00:01.000Z</updated>
         <author>
             <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is how pulverizing banana stems can make fabrics. #bananas #fabrics #ecofriendly]]></title>
-        <id>https://www.youtube.com/watch?v=45M6x5nHK4w</id>
-        <link href="https://www.youtube.com/watch?v=45M6x5nHK4w"/>
-        <updated>2023-04-13T16:15:00.000Z</updated>
-        <author>
-            <name>Insider Business</name>
         </author>
     </entry>
     <entry>
@@ -1212,7 +1230,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The brilliant way lasers turn vibrations into light (2^16 special)]]></title>
+        <title type="html"><![CDATA[How do lasers turn vibrations into light? (2^16 special)]]></title>
         <id>https://www.youtube.com/watch?v=3c6-BqT9AwM</id>
         <link href="https://www.youtube.com/watch?v=3c6-BqT9AwM"/>
         <updated>2023-03-25T00:33:15.000Z</updated>
@@ -1527,7 +1545,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Taking on Big Tech: A Computer Scientist's Battle for Privacy, Truth, and AI]]></title>
+        <title type="html"><![CDATA[Will Artificial Intelligence Predict Your Future? One Computer Scientists Sorts Fact from Fiction]]></title>
         <id>https://www.youtube.com/watch?v=oKkzVII_wHQ</id>
         <link href="https://www.youtube.com/watch?v=oKkzVII_wHQ"/>
         <updated>2023-03-10T15:20:04.000Z</updated>
@@ -1815,15 +1833,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Missing Cookie Illusion]]></title>
-        <id>https://www.youtube.com/watch?v=ZlNdLvPYhlM</id>
-        <link href="https://www.youtube.com/watch?v=ZlNdLvPYhlM"/>
-        <updated>2023-02-21T21:25:42.000Z</updated>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Characters We Hate]]></title>
         <id>https://www.youtube.com/watch?v=hkFpD0S4v2U</id>
         <link href="https://www.youtube.com/watch?v=hkFpD0S4v2U"/>
@@ -1857,15 +1866,6 @@
         <updated>2023-02-19T20:44:41.000Z</updated>
         <author>
             <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You can make tea bags fly using fire!]]></title>
-        <id>https://www.youtube.com/watch?v=z8evo1jr5Nk</id>
-        <link href="https://www.youtube.com/watch?v=z8evo1jr5Nk"/>
-        <updated>2023-02-19T14:00:36.000Z</updated>
-        <author>
-            <name>Physics Girl</name>
         </author>
     </entry>
     <entry>
