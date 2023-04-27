@@ -82,13 +82,23 @@
       "siteUrl": "https://www.youtube.com/channel/UCrlZs71h3mTR45FgQNINfrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7Ju9f9odKX4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7Ju9f9odKX4",
+          "publishedOn": "2023-04-26T14:00:03.000Z",
+          "wordCount": null,
+          "title": "Why can't we have a perfect world map? | Theorema Egregium - a geometric proof",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lPr5v7mwq34",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=lPr5v7mwq34",
           "publishedOn": "2023-03-23T15:00:27.000Z",
           "wordCount": null,
-          "title": "The math of quantum spin 1/2",
+          "title": "The biggest misconception about quantum spin 1/2",
           "imageUrl": null
         }
       ]
@@ -283,16 +293,6 @@
           "publishedOn": "2023-02-03T11:00:21.000Z",
           "wordCount": null,
           "title": "Complex Analysis L02: Euler's formula, one of the most important formulas in all of mathematics",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_mv0q7-WF4E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_mv0q7-WF4E",
-          "publishedOn": "2023-01-27T11:00:25.000Z",
-          "wordCount": null,
-          "title": "Complex Analysis L01: Overview & Motivation, Complex Arithmetic, Euler's Formula & Polar Coordinates",
           "imageUrl": null
         }
       ]
@@ -703,7 +703,7 @@
           "link": "https://www.youtube.com/watch?v=lazSHKZ1xmI",
           "publishedOn": "2023-04-18T19:12:32.000Z",
           "wordCount": null,
-          "title": "The CHAOS of Flying with Musical Instruments",
+          "title": "The Terrible Gamble of Flying With Musical Instruments",
           "imageUrl": null
         },
         {
@@ -891,6 +891,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=dDcXytGd29k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dDcXytGd29k",
+          "publishedOn": "2023-04-26T17:30:15.000Z",
+          "wordCount": null,
+          "title": "Why did #SpaceX keep #Starship’s Grid Fins out on ascent?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0mX5H_Gaicg",
           "author": null,
           "description": "",
@@ -1014,6 +1024,56 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bwS6yu2_ZXg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bwS6yu2_ZXg",
+          "publishedOn": "2023-04-26T21:00:18.000Z",
+          "wordCount": null,
+          "title": "New Dimensions of Adaptive Manufacturing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=dgFn8ji7sjE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dgFn8ji7sjE",
+          "publishedOn": "2023-04-26T19:00:15.000Z",
+          "wordCount": null,
+          "title": "From Cold War to Modern Conflicts: The Enduring Legacy of the FIM-92 Stinger",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=M3f9nVbItG4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=M3f9nVbItG4",
+          "publishedOn": "2023-04-26T17:01:35.000Z",
+          "wordCount": null,
+          "title": "This Missile Destroyed Russian Su-25 | Stinger System FIM-92",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=eydNLFdt5aI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eydNLFdt5aI",
+          "publishedOn": "2023-04-26T13:00:34.000Z",
+          "wordCount": null,
+          "title": "Explosives Lowering of The 225’ Tall Unit Boiler House",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=S74d6zPCMAA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=S74d6zPCMAA",
+          "publishedOn": "2023-04-26T09:00:39.000Z",
+          "wordCount": null,
+          "title": "The Crop Will Be Out Competing for the Weed Pressure Closer Than 8mm",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0rLhAC4ISwM",
           "author": null,
           "description": "",
@@ -1112,56 +1172,6 @@
           "wordCount": null,
           "title": "Humanoid Robots Are Getting Too Close To Reality",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TscxEMeOK-Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TscxEMeOK-Q",
-          "publishedOn": "2023-04-23T21:00:13.000Z",
-          "wordCount": null,
-          "title": "Komatsu 845: The Forest King is Here!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qVwOSU7BTjI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qVwOSU7BTjI",
-          "publishedOn": "2023-04-23T19:00:14.000Z",
-          "wordCount": null,
-          "title": "The Technology at the Airlander 10's Core Significantly Increases Flight Efficiency",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9lBjSJmkG_c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9lBjSJmkG_c",
-          "publishedOn": "2023-04-23T16:27:29.000Z",
-          "wordCount": null,
-          "title": "The Largest and Most Luxurious Aircraft in the World: Airlander 10",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=l0BNE9GgEAo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=l0BNE9GgEAo",
-          "publishedOn": "2023-04-23T13:00:33.000Z",
-          "wordCount": null,
-          "title": "Toni the Robot Bartender",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oYAmfPJF_qw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oYAmfPJF_qw",
-          "publishedOn": "2023-04-23T09:00:34.000Z",
-          "wordCount": null,
-          "title": "ACU 5 is Ready for the Landing",
-          "imageUrl": null
         }
       ]
     },
@@ -1198,16 +1208,6 @@
           "publishedOn": "2023-02-08T20:25:47.000Z",
           "wordCount": null,
           "title": "The Cult Classic That Secretly Inspired The Game Industry",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Bl4dXInnm1w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Bl4dXInnm1w",
-          "publishedOn": "2023-01-26T20:32:16.000Z",
-          "wordCount": null,
-          "title": "Yu-Gi-Oh! Changed My Life (A Life Story)",
           "imageUrl": null
         }
       ]
@@ -2222,6 +2222,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=NhLfYBhUg88",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NhLfYBhUg88",
+          "publishedOn": "2023-04-26T13:26:43.000Z",
+          "wordCount": null,
+          "title": "High Precision Snap Gauge Set Up and Application",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Li0f84fj5N0",
           "author": null,
           "description": "",
@@ -2360,16 +2370,6 @@
           "wordCount": null,
           "title": "what even is polygonal turning?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tZki75i51c8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tZki75i51c8",
-          "publishedOn": "2023-04-15T13:01:17.000Z",
-          "wordCount": null,
-          "title": "the fastest Reaming you'll ever see...",
-          "imageUrl": null
         }
       ]
     },
@@ -2378,6 +2378,36 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=6m3u7zYZ7h4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6m3u7zYZ7h4",
+          "publishedOn": "2023-04-26T19:30:46.000Z",
+          "wordCount": null,
+          "title": "This is why Patan patola saris is so expensive. #PatanPatola #Textile #SoExpensive",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=JPR5tbVoPGA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JPR5tbVoPGA",
+          "publishedOn": "2023-04-26T17:48:53.000Z",
+          "wordCount": null,
+          "title": "Did you know Kenya produces one of the world's most expensive salts? #salt #luxuryfood #howitsmade",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0WKAJAwgxRk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0WKAJAwgxRk",
+          "publishedOn": "2023-04-26T16:01:09.000Z",
+          "wordCount": null,
+          "title": "The best bonsai scissors are forged like samurai swords. #howitsmade #bonsai #soexpensive",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=L-O5iF70nVg",
           "author": null,
@@ -2415,7 +2445,7 @@
           "link": "https://www.youtube.com/watch?v=BgdxjmGN7B4",
           "publishedOn": "2023-04-23T15:00:08.000Z",
           "wordCount": null,
-          "title": "How Rolexes Became More Valuable Than Stocks And Gold | Big Business | Insider Business",
+          "title": "How Rolex Dealers Negotiate On Rare Watches | Big Business | Insider Business",
           "imageUrl": null
         },
         {
@@ -2435,7 +2465,7 @@
           "link": "https://www.youtube.com/watch?v=TGZDt2z-v5s",
           "publishedOn": "2023-04-21T15:45:09.000Z",
           "wordCount": null,
-          "title": "Why Kashmir’s Famous Floating Market Is Now At Risk, After Thriving For More Than A Century",
+          "title": "Why Farmers In Kashmir’s Only Floating Market Are Fighting For Their Livelihoods | Insider Business",
           "imageUrl": null
         },
         {
@@ -2496,36 +2526,6 @@
           "publishedOn": "2023-04-19T05:53:27.000Z",
           "wordCount": null,
           "title": "For a Better Future: Bridging Culture, Business, and Climate",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sfC7gPXXU74",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sfC7gPXXU74",
-          "publishedOn": "2023-04-18T18:01:01.000Z",
-          "wordCount": null,
-          "title": "\"Mad honey\" is the rarest kind of honey in the world. #MadHoney #Nepal #Himalayas",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eokFRj2lpmY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eokFRj2lpmY",
-          "publishedOn": "2023-04-17T16:00:23.000Z",
-          "wordCount": null,
-          "title": "All Olympic-standard curling stones are made by only 10 people. #winterolympics #olympics #sports",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=chmyRFm6ABQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=chmyRFm6ABQ",
-          "publishedOn": "2023-04-17T14:00:24.000Z",
-          "wordCount": null,
-          "title": "This cheese is made with volcanic water. #cheese #cheesemaking #volcano",
           "imageUrl": null
         }
       ]
@@ -2713,6 +2713,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ0-OtVpF0wOKEqT2Z1HEtA",
       "siteUrl": "https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=DekAniRZerk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DekAniRZerk",
+          "publishedOn": "2023-04-26T19:08:56.000Z",
+          "wordCount": null,
+          "title": "3D Printers #shorts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=QJwYDiW9fiA",
           "author": null,
