@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-08T00:30:28.727Z</id>
+    <id>urn:2023-05-09T00:32:17.136Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-08T00:30:28.727Z</updated>
+    <updated>2023-05-09T00:32:17.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Strapless Climbing Stick That Gives Hunters the Higher Ground]]></title>
+        <id>https://www.youtube.com/watch?v=KJRVywWvGrM</id>
+        <link href="https://www.youtube.com/watch?v=KJRVywWvGrM"/>
+        <updated>2023-05-08T21:00:16.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Do Cruise Missiles Work? A Beginner's Guide]]></title>
+        <id>https://www.youtube.com/watch?v=WyhfVUysLd4</id>
+        <link href="https://www.youtube.com/watch?v=WyhfVUysLd4"/>
+        <updated>2023-05-08T19:00:23.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cruise Missiles Uncovered: What Are They and How Do They Work?]]></title>
+        <id>https://www.youtube.com/watch?v=rAMbiffIajA</id>
+        <link href="https://www.youtube.com/watch?v=rAMbiffIajA"/>
+        <updated>2023-05-08T19:00:20.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#kingcharlesiii inherited $9.5 billion in #royal #realestate — here's his #expensive #portfolio]]></title>
+        <id>https://www.youtube.com/watch?v=gnDNsMmlWFI</id>
+        <link href="https://www.youtube.com/watch?v=gnDNsMmlWFI"/>
+        <updated>2023-05-08T17:09:51.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is how a conservationist restores a centuries-old painting. #Painting #Restoration #Art]]></title>
+        <id>https://www.youtube.com/watch?v=a4SAjicVjNg</id>
+        <link href="https://www.youtube.com/watch?v=a4SAjicVjNg"/>
+        <updated>2023-05-08T14:37:47.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fly High with Innovative Home Security Solutions]]></title>
+        <id>https://www.youtube.com/watch?v=w27BIHfIc30</id>
+        <link href="https://www.youtube.com/watch?v=w27BIHfIc30"/>
+        <updated>2023-05-08T13:00:43.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNC Machining the AK-50 Bolt]]></title>
+        <id>https://www.youtube.com/watch?v=HreRe5rJXHs</id>
+        <link href="https://www.youtube.com/watch?v=HreRe5rJXHs"/>
+        <updated>2023-05-08T11:00:10.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Next-Gen Autopicker]]></title>
+        <id>https://www.youtube.com/watch?v=vQHSa2ui6Xc</id>
+        <link href="https://www.youtube.com/watch?v=vQHSa2ui6Xc"/>
+        <updated>2023-05-08T09:00:36.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Countries with the Highest Number of Skyscrapers]]></title>
         <id>https://www.youtube.com/watch?v=04N3Izbx6b8</id>
@@ -42,7 +114,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[John Deere's Innovative 9RX Series Tractors]]></title>
+        <title type="html"><![CDATA[The BIGGEST Tractors: John Deere's 9RX Series]]></title>
         <id>https://www.youtube.com/watch?v=mlv98asDMI8</id>
         <link href="https://www.youtube.com/watch?v=mlv98asDMI8"/>
         <updated>2023-05-07T19:00:24.000Z</updated>
@@ -141,15 +213,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Satisfying Process of Planting Potato]]></title>
-        <id>https://www.youtube.com/watch?v=57yqrBEME4Y</id>
-        <link href="https://www.youtube.com/watch?v=57yqrBEME4Y"/>
-        <updated>2023-05-06T13:00:05.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I Machined a 50 Million Dollar Part]]></title>
         <id>https://www.youtube.com/watch?v=uBEgUuijVcI</id>
         <link href="https://www.youtube.com/watch?v=uBEgUuijVcI"/>
@@ -159,48 +222,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Modeling Compounds Moldable Plastic]]></title>
-        <id>https://www.youtube.com/watch?v=WhMf2QMIDdw</id>
-        <link href="https://www.youtube.com/watch?v=WhMf2QMIDdw"/>
-        <updated>2023-05-06T09:00:16.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I made a Divine Beast from Breath of the Wild]]></title>
         <id>https://www.youtube.com/watch?v=KvACNN_c6ew</id>
         <link href="https://www.youtube.com/watch?v=KvACNN_c6ew"/>
         <updated>2023-05-05T22:35:14.000Z</updated>
         <author>
             <name>Studson Studio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cinematic Zoom Control: Filmmakers' Dream]]></title>
-        <id>https://www.youtube.com/watch?v=c4gx_-yvINk</id>
-        <link href="https://www.youtube.com/watch?v=c4gx_-yvINk"/>
-        <updated>2023-05-05T21:00:17.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Technology is Turning the Tide on Maritime Piracy]]></title>
-        <id>https://www.youtube.com/watch?v=hbpwjbD_GLA</id>
-        <link href="https://www.youtube.com/watch?v=hbpwjbD_GLA"/>
-        <updated>2023-05-05T19:00:15.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigating Pirate-Infested Waters: The Tech Making the Difference]]></title>
-        <id>https://www.youtube.com/watch?v=CtZBMUsL8Bo</id>
-        <link href="https://www.youtube.com/watch?v=CtZBMUsL8Bo"/>
-        <updated>2023-05-05T19:00:06.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -636,15 +663,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anodize Your Parts at Home]]></title>
-        <id>https://www.youtube.com/watch?v=md99YfUZyRc</id>
-        <link href="https://www.youtube.com/watch?v=md99YfUZyRc"/>
-        <updated>2023-04-27T13:00:26.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This is why Patan patola saris is so expensive. #PatanPatola #Textile #SoExpensive]]></title>
         <id>https://www.youtube.com/watch?v=6m3u7zYZ7h4</id>
         <link href="https://www.youtube.com/watch?v=6m3u7zYZ7h4"/>
@@ -681,15 +699,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The best bonsai scissors are forged like samurai swords. #howitsmade #bonsai #soexpensive]]></title>
-        <id>https://www.youtube.com/watch?v=0WKAJAwgxRk</id>
-        <link href="https://www.youtube.com/watch?v=0WKAJAwgxRk"/>
-        <updated>2023-04-26T16:01:09.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[No map is perfect, but can we PROVE it?]]></title>
         <id>https://www.youtube.com/watch?v=7Ju9f9odKX4</id>
         <link href="https://www.youtube.com/watch?v=7Ju9f9odKX4"/>
@@ -714,15 +723,6 @@
         <updated>2023-04-25T21:07:49.000Z</updated>
         <author>
             <name>Physics Girl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is the biggest threat to Kenya's salt business. #Salt #Kenya #ClimateCrisis]]></title>
-        <id>https://www.youtube.com/watch?v=L-O5iF70nVg</id>
-        <link href="https://www.youtube.com/watch?v=L-O5iF70nVg"/>
-        <updated>2023-04-25T18:45:00.000Z</updated>
-        <author>
-            <name>Insider Business</name>
         </author>
     </entry>
     <entry>
@@ -1473,7 +1473,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Make Money on YouTube with 20M Subs]]></title>
+        <title type="html"><![CDATA[How We Make Money on YouTube with 20M Subs]]></title>
         <id>https://www.youtube.com/watch?v=1x-i9z617z4</id>
         <link href="https://www.youtube.com/watch?v=1x-i9z617z4"/>
         <updated>2023-03-28T14:00:05.000Z</updated>
@@ -2262,15 +2262,6 @@
         <updated>2023-02-08T20:25:47.000Z</updated>
         <author>
             <name>Internet Pitstop</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Private Jet with a Parachute]]></title>
-        <id>https://www.youtube.com/watch?v=Qb_MWOjD57Y</id>
-        <link href="https://www.youtube.com/watch?v=Qb_MWOjD57Y"/>
-        <updated>2023-02-07T17:35:35.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
         </author>
     </entry>
 </feed>
