@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-09T00:32:17.136Z</id>
+    <id>urn:2023-05-10T00:30:23.149Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-09T00:32:17.136Z</updated>
+    <updated>2023-05-10T00:30:23.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The McGurk Effect]]></title>
+        <id>https://www.youtube.com/watch?v=wx4AC_QfdKE</id>
+        <link href="https://www.youtube.com/watch?v=wx4AC_QfdKE"/>
+        <updated>2023-05-09T21:36:48.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Royal Jelly is So Expensive | So Expensive Food | Insider Business]]></title>
+        <id>https://www.youtube.com/watch?v=L4cth57-66k</id>
+        <link href="https://www.youtube.com/watch?v=L4cth57-66k"/>
+        <updated>2023-05-09T21:00:09.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Electricity Be the Cure for Non-Healing Wounds?]]></title>
+        <id>https://www.youtube.com/watch?v=h2U2wCyCnp0</id>
+        <link href="https://www.youtube.com/watch?v=h2U2wCyCnp0"/>
+        <updated>2023-05-09T19:00:30.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electricity Can Heal the Worst Kind of Wounds Three Times Faster]]></title>
+        <id>https://www.youtube.com/watch?v=E5SkHpuoXRY</id>
+        <link href="https://www.youtube.com/watch?v=E5SkHpuoXRY"/>
+        <updated>2023-05-09T19:00:10.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Body Killed Cancer 5 Minutes Ago]]></title>
+        <id>https://www.youtube.com/watch?v=zFhYJRqz_xk</id>
+        <link href="https://www.youtube.com/watch?v=zFhYJRqz_xk"/>
+        <updated>2023-05-09T14:00:42.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Precision Inspection of ID on Titanium CNC Machined Part]]></title>
+        <id>https://www.youtube.com/watch?v=_XG44N0KeQI</id>
+        <link href="https://www.youtube.com/watch?v=_XG44N0KeQI"/>
+        <updated>2023-05-09T13:00:33.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[These New Military Jet Suits Look Straight Out of a Video Game]]></title>
+        <id>https://www.youtube.com/watch?v=GVFuExkcMKQ</id>
+        <link href="https://www.youtube.com/watch?v=GVFuExkcMKQ"/>
+        <updated>2023-05-09T13:00:10.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNC Machining Honeycomb in a SUPER ALLOY]]></title>
+        <id>https://www.youtube.com/watch?v=dr23brKzzlg</id>
+        <link href="https://www.youtube.com/watch?v=dr23brKzzlg"/>
+        <updated>2023-05-09T11:00:23.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nuclear Weapon Safety Validation Test]]></title>
+        <id>https://www.youtube.com/watch?v=Fi_oJEhy1yE</id>
+        <link href="https://www.youtube.com/watch?v=Fi_oJEhy1yE"/>
+        <updated>2023-05-09T09:00:11.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electronic Firefly Lantern]]></title>
+        <id>https://www.youtube.com/watch?v=Njayu96Jb5w</id>
+        <link href="https://www.youtube.com/watch?v=Njayu96Jb5w"/>
+        <updated>2023-05-09T03:47:19.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Strapless Climbing Stick That Gives Hunters the Higher Ground]]></title>
         <id>https://www.youtube.com/watch?v=KJRVywWvGrM</id>
@@ -165,42 +255,6 @@
         <updated>2023-05-07T11:00:35.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Streamline Post Installation with the Power of Post Driver]]></title>
-        <id>https://www.youtube.com/watch?v=d4Qpr_IA8tA</id>
-        <link href="https://www.youtube.com/watch?v=d4Qpr_IA8tA"/>
-        <updated>2023-05-07T09:00:33.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Newest Innovation in Our Line of Structural Steel Products]]></title>
-        <id>https://www.youtube.com/watch?v=-I97FvmqfcI</id>
-        <link href="https://www.youtube.com/watch?v=-I97FvmqfcI"/>
-        <updated>2023-05-06T21:00:00.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Earth Might Reach Its Population Limit Sooner Than We Expected]]></title>
-        <id>https://www.youtube.com/watch?v=6brE9i6eBeY</id>
-        <link href="https://www.youtube.com/watch?v=6brE9i6eBeY"/>
-        <updated>2023-05-06T19:00:05.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will the Earth Reach Its Population Limit Soon?]]></title>
-        <id>https://www.youtube.com/watch?v=BkDoAHLzTFA</id>
-        <link href="https://www.youtube.com/watch?v=BkDoAHLzTFA"/>
-        <updated>2023-05-06T17:07:13.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -582,15 +636,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fascinating World of Thread Whirling | Titanium Bone Screws]]></title>
-        <id>https://www.youtube.com/watch?v=yeWIXH3oqMw</id>
-        <link href="https://www.youtube.com/watch?v=yeWIXH3oqMw"/>
-        <updated>2023-04-29T11:00:42.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How 21 Of The World's Most Skilled Workers Do Their Jobs | Anthologies | Insider Business]]></title>
         <id>https://www.youtube.com/watch?v=Htkabezv99Q</id>
         <link href="https://www.youtube.com/watch?v=Htkabezv99Q"/>
@@ -624,15 +669,6 @@
         <updated>2023-04-28T13:00:21.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Indicating Tool is Revolutionary | Mowidec-TT]]></title>
-        <id>https://www.youtube.com/watch?v=U8P4mzT5Kwo</id>
-        <link href="https://www.youtube.com/watch?v=U8P4mzT5Kwo"/>
-        <updated>2023-04-28T11:00:18.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -678,15 +714,6 @@
         <updated>2023-04-26T19:08:56.000Z</updated>
         <author>
             <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did you know Kenya produces one of the world's most expensive salts? #salt #luxuryfood #howitsmade]]></title>
-        <id>https://www.youtube.com/watch?v=JPR5tbVoPGA</id>
-        <link href="https://www.youtube.com/watch?v=JPR5tbVoPGA"/>
-        <updated>2023-04-26T17:48:53.000Z</updated>
-        <author>
-            <name>Insider Business</name>
         </author>
     </entry>
     <entry>
@@ -1842,15 +1869,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vanadium Sulfur Gold Cerium]]></title>
-        <id>https://www.youtube.com/watch?v=N0eQk7hMdWg</id>
-        <link href="https://www.youtube.com/watch?v=N0eQk7hMdWg"/>
-        <updated>2023-03-07T19:53:09.000Z</updated>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Damaged Chernobyl Reactor]]></title>
         <id>https://www.youtube.com/watch?v=LCQu8EXiDAA</id>
         <link href="https://www.youtube.com/watch?v=LCQu8EXiDAA"/>
@@ -2244,24 +2262,6 @@
         <updated>2023-02-09T14:00:26.000Z</updated>
         <author>
             <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Triangle Subdivision - Numberphile]]></title>
-        <id>https://www.youtube.com/watch?v=Uc0T8IvtBvE</id>
-        <link href="https://www.youtube.com/watch?v=Uc0T8IvtBvE"/>
-        <updated>2023-02-09T12:03:53.000Z</updated>
-        <author>
-            <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Cult Classic That Secretly Inspired The Game Industry]]></title>
-        <id>https://www.youtube.com/watch?v=sRCCFN_MndU</id>
-        <link href="https://www.youtube.com/watch?v=sRCCFN_MndU"/>
-        <updated>2023-02-08T20:25:47.000Z</updated>
-        <author>
-            <name>Internet Pitstop</name>
         </author>
     </entry>
 </feed>
