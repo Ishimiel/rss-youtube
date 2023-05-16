@@ -167,16 +167,6 @@
           "wordCount": null,
           "title": "The Best Way to Boost Your Immune System (With Science!)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TYPFenJQciw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TYPFenJQciw",
-          "publishedOn": "2023-02-14T14:59:37.000Z",
-          "wordCount": null,
-          "title": "The Most Complex Language in the World",
-          "imageUrl": null
         }
       ]
     },
@@ -336,16 +326,6 @@
           "publishedOn": "2023-03-14T23:18:34.000Z",
           "wordCount": null,
           "title": "Duhamel's Principle for Partial Differential Equations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6AE5YjwlBfc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6AE5YjwlBfc",
-          "publishedOn": "2023-02-14T23:33:26.000Z",
-          "wordCount": null,
-          "title": "Solving the Schrodinger Equation for the Quantum Harmonic Oscillator | Part 1",
           "imageUrl": null
         }
       ]
@@ -540,6 +520,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bA4EuQGo0Vw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bA4EuQGo0Vw",
+          "publishedOn": "2023-05-15T20:57:35.000Z",
+          "wordCount": null,
+          "title": "LIVE REPLAY: Anycubic Kobra 2 LIVE! Unboxing & First Print!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qoD-9TXEWgM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qoD-9TXEWgM",
+          "publishedOn": "2023-05-15T16:40:02.000Z",
+          "wordCount": null,
+          "title": "LIVE! Sovol SV07 First Print!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=S8tkvm7y0jk",
           "author": null,
           "description": "",
@@ -668,26 +668,6 @@
           "wordCount": null,
           "title": "Prusa Rocket on VORON 🚀 #3dprinting",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wjthaQv9ukg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wjthaQv9ukg",
-          "publishedOn": "2023-04-05T18:44:54.000Z",
-          "wordCount": null,
-          "title": "PIRATE CHEST @Clockspring3D #Voron #3dprinting",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KGrW4ZYOb0g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KGrW4ZYOb0g",
-          "publishedOn": "2023-04-05T01:43:57.000Z",
-          "wordCount": null,
-          "title": "DOES IT FIT? 🤔 Voron Print from @Clockspring3D",
-          "imageUrl": null
         }
       ]
     },
@@ -754,16 +734,6 @@
           "publishedOn": "2023-03-13T18:25:47.000Z",
           "wordCount": null,
           "title": "The Mesmerizing Harmony of Wayne Shorter",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oKWgLe-jQjc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oKWgLe-jQjc",
-          "publishedOn": "2023-02-14T18:20:24.000Z",
-          "wordCount": null,
-          "title": "The Nintendo-fication of Jazz",
           "imageUrl": null
         }
       ]
@@ -1074,6 +1044,66 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=0LftKkeaRCA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0LftKkeaRCA",
+          "publishedOn": "2023-05-15T21:00:02.000Z",
+          "wordCount": null,
+          "title": "State-of-the-Art Fully Robotic Kitchen",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zvF1tx2EABc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zvF1tx2EABc",
+          "publishedOn": "2023-05-15T19:00:33.000Z",
+          "wordCount": null,
+          "title": "Fire power, Precision and Fury: How Phalanx CIWS destroys missiles?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=C3knYtdS8S8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=C3knYtdS8S8",
+          "publishedOn": "2023-05-15T16:27:40.000Z",
+          "wordCount": null,
+          "title": "Guardian of the Fleet: How the Phalanx CIWS Keeps Ships Safe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=LGHuI3icX8A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LGHuI3icX8A",
+          "publishedOn": "2023-05-15T13:00:23.000Z",
+          "wordCount": null,
+          "title": "3D Printed Hearts Revolutionize Drug Testing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Mw6ops_ULSw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Mw6ops_ULSw",
+          "publishedOn": "2023-05-15T09:14:10.000Z",
+          "wordCount": null,
+          "title": "The Last Unclaimed Territory on Earth",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=NPgp8IJXV_Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NPgp8IJXV_Y",
+          "publishedOn": "2023-05-15T09:00:24.000Z",
+          "wordCount": null,
+          "title": "Air Purifying and Noise-Canceling Headphones",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=m0DFz1Dqmx0",
           "author": null,
           "description": "",
@@ -1090,7 +1120,7 @@
           "link": "https://www.youtube.com/watch?v=VvijWIg0qvo",
           "publishedOn": "2023-05-14T21:00:19.000Z",
           "wordCount": null,
-          "title": "The World's Strongest Harvester : CR10.90",
+          "title": "The World's Strongest Harvester: CR10.90",
           "imageUrl": null
         },
         {
@@ -1161,66 +1191,6 @@
           "publishedOn": "2023-05-13T19:00:11.000Z",
           "wordCount": null,
           "title": "How China's Synthetic Drugs are Fueling US Overdose Epidemic",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0TQldjGhnUA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0TQldjGhnUA",
-          "publishedOn": "2023-05-13T13:00:00.000Z",
-          "wordCount": null,
-          "title": "Sharp and Durable Post Hole Digger",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cPCCVRxra40",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cPCCVRxra40",
-          "publishedOn": "2023-05-13T09:00:32.000Z",
-          "wordCount": null,
-          "title": "Reimagining the Future of Agriculture with a Rover",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bN5EuQE5aT4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bN5EuQE5aT4",
-          "publishedOn": "2023-05-12T21:00:30.000Z",
-          "wordCount": null,
-          "title": "The monitor that provides a pleasant and satisfying experience for you and your pet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rnkoyKUXGdY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rnkoyKUXGdY",
-          "publishedOn": "2023-05-12T17:24:14.000Z",
-          "wordCount": null,
-          "title": "Maersk Line - Triple-E: This HUGE Ship can Carry 18000 Containers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QssiPqVqhyE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QssiPqVqhyE",
-          "publishedOn": "2023-05-12T13:00:19.000Z",
-          "wordCount": null,
-          "title": "Turning Humans Into Cyborgs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3IFcJQkVVnA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3IFcJQkVVnA",
-          "publishedOn": "2023-05-11T21:00:02.000Z",
-          "wordCount": null,
-          "title": "E-Sports Meets Fitness: Level Up Your Indoor Bike Game!",
           "imageUrl": null
         }
       ]
@@ -1760,7 +1730,7 @@
           "link": "https://www.youtube.com/watch?v=mrJP82ZZiag",
           "publishedOn": "2023-05-14T14:07:20.000Z",
           "wordCount": null,
-          "title": "How Does Kodak Punch 384,000 HOLES A MINUTE in Film? (Factory Tour 3 of 3)- Smarter Every Day 286",
+          "title": "Inside the Kodak Film Factory (Factory Tour Part 3 of 3) - Smarter Every Day 286",
           "imageUrl": null
         },
         {
@@ -2232,6 +2202,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=DaLFylfq5do",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DaLFylfq5do",
+          "publishedOn": "2023-05-15T11:08:30.000Z",
+          "wordCount": null,
+          "title": "Next Level Automation - NEW Pallet System",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ZdDXrSXc2yc",
           "author": null,
           "description": "",
@@ -2370,16 +2350,6 @@
           "wordCount": null,
           "title": "CUSTOM CNC Machined Vise Stop",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lMskgk7vYN0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lMskgk7vYN0",
-          "publishedOn": "2023-05-04T13:00:42.000Z",
-          "wordCount": null,
-          "title": "65 INSERTS IN ONE TOOL! 🤯",
-          "imageUrl": null
         }
       ]
     },
@@ -2388,6 +2358,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=5P6kKqk6d38",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5P6kKqk6d38",
+          "publishedOn": "2023-05-15T17:00:03.000Z",
+          "wordCount": null,
+          "title": "Did you know rabbit fur hats can cost up to $2500? #howitsmade #soexpensive #fashion",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=k2EtmCbKb4o",
           "author": null,
@@ -2516,16 +2496,6 @@
           "publishedOn": "2023-05-02T19:41:27.000Z",
           "wordCount": null,
           "title": "This is how one company is turning algae into plastic. #Algae #Plastic #Sustainable",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=59w2G_L1OMo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=59w2G_L1OMo",
-          "publishedOn": "2023-05-02T19:00:04.000Z",
-          "wordCount": null,
-          "title": "Why Bilona Ghee (A2 Desi Ghee) Is So Expensive | So Expensive Food | Insider Business",
           "imageUrl": null
         }
       ]
