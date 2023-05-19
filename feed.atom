@@ -1,10 +1,109 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-18T00:31:14.416Z</id>
+    <id>urn:2023-05-19T00:31:51.899Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-18T00:31:14.416Z</updated>
+    <updated>2023-05-19T00:31:51.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[I hate this]]></title>
+        <id>https://www.youtube.com/watch?v=cOskHgQxxfI</id>
+        <link href="https://www.youtube.com/watch?v=cOskHgQxxfI"/>
+        <updated>2023-05-18T21:46:22.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recreating the Human Hand by Throwing a Bunch of Tentacles]]></title>
+        <id>https://www.youtube.com/watch?v=zi7p1--F88I</id>
+        <link href="https://www.youtube.com/watch?v=zi7p1--F88I"/>
+        <updated>2023-05-18T21:00:28.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Importance Of Goku's "I Am" Speech]]></title>
+        <id>https://www.youtube.com/watch?v=SRonj0xqOKI</id>
+        <link href="https://www.youtube.com/watch?v=SRonj0xqOKI"/>
+        <updated>2023-05-18T20:16:15.000Z</updated>
+        <author>
+            <name>Internet Pitstop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US Army's Most Powerful Helicopter Ever Built: CH-47 Chinook]]></title>
+        <id>https://www.youtube.com/watch?v=qy5cYtqQhh4</id>
+        <link href="https://www.youtube.com/watch?v=qy5cYtqQhh4"/>
+        <updated>2023-05-18T15:07:10.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Pilots Train To Fly The $165 Million AC-130J Ghostrider Gunship | Boot Camp | Insider Business]]></title>
+        <id>https://www.youtube.com/watch?v=l0CrdJCrZ8Q</id>
+        <link href="https://www.youtube.com/watch?v=l0CrdJCrZ8Q"/>
+        <updated>2023-05-18T15:00:06.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Practical Numbers - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=IlZOLwf87gM</id>
+        <link href="https://www.youtube.com/watch?v=IlZOLwf87gM"/>
+        <updated>2023-05-18T14:16:41.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magnetic Pole Shift - A Doomsday Scenario? #shorts #kurzgesagt]]></title>
+        <id>https://www.youtube.com/watch?v=IayvE_jFgrc</id>
+        <link href="https://www.youtube.com/watch?v=IayvE_jFgrc"/>
+        <updated>2023-05-18T14:00:20.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Versatile Mill Chuck Holds Raw ROUND Stock]]></title>
+        <id>https://www.youtube.com/watch?v=uIYnZCr-Pdg</id>
+        <link href="https://www.youtube.com/watch?v=uIYnZCr-Pdg"/>
+        <updated>2023-05-18T13:00:44.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taste the Future: Lab-Grown Fish Filets]]></title>
+        <id>https://www.youtube.com/watch?v=XZgTQThXZPU</id>
+        <link href="https://www.youtube.com/watch?v=XZgTQThXZPU"/>
+        <updated>2023-05-18T13:00:19.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avoid CRASHING Your Machine With This...]]></title>
+        <id>https://www.youtube.com/watch?v=TZgK1WNvkss</id>
+        <link href="https://www.youtube.com/watch?v=TZgK1WNvkss"/>
+        <updated>2023-05-18T11:00:30.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lightweight Multifunctional Rescue Tool for First Responders]]></title>
+        <id>https://www.youtube.com/watch?v=eebZhFOxXhs</id>
+        <link href="https://www.youtube.com/watch?v=eebZhFOxXhs"/>
+        <updated>2023-05-18T09:00:31.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Here's how one fedora company gained popularity overnight. #fedoras #hats #fashion]]></title>
         <id>https://www.youtube.com/watch?v=lKl4X1RwEfk</id>
@@ -258,57 +357,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Guardian of the Fleet: How the Phalanx CIWS Keeps Ships Safe]]></title>
-        <id>https://www.youtube.com/watch?v=C3knYtdS8S8</id>
-        <link href="https://www.youtube.com/watch?v=C3knYtdS8S8"/>
-        <updated>2023-05-15T16:27:40.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Printed Hearts Revolutionize Drug Testing]]></title>
-        <id>https://www.youtube.com/watch?v=LGHuI3icX8A</id>
-        <link href="https://www.youtube.com/watch?v=LGHuI3icX8A"/>
-        <updated>2023-05-15T13:00:23.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Next Level Automation - NEW Pallet System]]></title>
         <id>https://www.youtube.com/watch?v=DaLFylfq5do</id>
         <link href="https://www.youtube.com/watch?v=DaLFylfq5do"/>
         <updated>2023-05-15T11:08:30.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Last Unclaimed Territory on Earth]]></title>
-        <id>https://www.youtube.com/watch?v=Mw6ops_ULSw</id>
-        <link href="https://www.youtube.com/watch?v=Mw6ops_ULSw"/>
-        <updated>2023-05-15T09:14:10.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Air Purifying and Noise-Canceling Headphones]]></title>
-        <id>https://www.youtube.com/watch?v=NPgp8IJXV_Y</id>
-        <link href="https://www.youtube.com/watch?v=NPgp8IJXV_Y"/>
-        <updated>2023-05-15T09:00:24.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Innovative Smart City Concepts From Around the World]]></title>
-        <id>https://www.youtube.com/watch?v=m0DFz1Dqmx0</id>
-        <link href="https://www.youtube.com/watch?v=m0DFz1Dqmx0"/>
-        <updated>2023-05-14T21:00:30.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -600,24 +654,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#kingcharlesiii inherited $9.5 billion in #royal #realestate — here's his #expensive #portfolio]]></title>
-        <id>https://www.youtube.com/watch?v=gnDNsMmlWFI</id>
-        <link href="https://www.youtube.com/watch?v=gnDNsMmlWFI"/>
-        <updated>2023-05-08T17:09:51.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CNC Machining the AK-50 Bolt]]></title>
-        <id>https://www.youtube.com/watch?v=HreRe5rJXHs</id>
-        <link href="https://www.youtube.com/watch?v=HreRe5rJXHs"/>
-        <updated>2023-05-08T11:00:10.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Highest-Scoring Move in Scrabble]]></title>
         <id>https://www.youtube.com/watch?v=PWD1WdIvT6Y</id>
         <link href="https://www.youtube.com/watch?v=PWD1WdIvT6Y"/>
@@ -633,15 +669,6 @@
         <updated>2023-05-07T15:36:33.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Precision 3D Laser Marking!]]></title>
-        <id>https://www.youtube.com/watch?v=mCihwCXJAU0</id>
-        <link href="https://www.youtube.com/watch?v=mCihwCXJAU0"/>
-        <updated>2023-05-07T11:00:35.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1239,7 +1266,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Best Homemade Pancakes]]></title>
+        <title type="html"><![CDATA[Perfect Fluffy Pancakes]]></title>
         <id>https://www.youtube.com/watch?v=TTHJBKHpSZQ</id>
         <link href="https://www.youtube.com/watch?v=TTHJBKHpSZQ"/>
         <updated>2023-04-14T13:00:26.000Z</updated>
@@ -2226,15 +2253,6 @@
         <updated>2023-02-18T15:30:06.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I made the Mr. Mime from Detective Pikachu]]></title>
-        <id>https://www.youtube.com/watch?v=5ERfyo_3mM8</id>
-        <link href="https://www.youtube.com/watch?v=5ERfyo_3mM8"/>
-        <updated>2023-02-17T16:00:03.000Z</updated>
-        <author>
-            <name>North of the Border</name>
         </author>
     </entry>
 </feed>
