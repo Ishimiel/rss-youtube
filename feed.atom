@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-11T00:40:34.634Z</id>
+    <id>urn:2023-06-12T00:38:39.072Z</id>
     <title>osmos::feed</title>
-    <updated>2023-06-11T00:40:34.634Z</updated>
+    <updated>2023-06-12T00:38:39.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Turn Your Bland Lawn into a Grand Showpiece Overnight!]]></title>
+        <id>https://www.youtube.com/watch?v=qNExfhL7g6o</id>
+        <link href="https://www.youtube.com/watch?v=qNExfhL7g6o"/>
+        <updated>2023-06-11T21:00:31.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Autopilot is up and running!]]></title>
+        <id>https://www.youtube.com/watch?v=kKpgm5tpwag</id>
+        <link href="https://www.youtube.com/watch?v=kKpgm5tpwag"/>
+        <updated>2023-06-11T20:49:17.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dominate Large-Scale Farming with the Big M 500's Unmatched Performance]]></title>
+        <id>https://www.youtube.com/watch?v=gcPMjpHUek4</id>
+        <link href="https://www.youtube.com/watch?v=gcPMjpHUek4"/>
+        <updated>2023-06-11T19:00:30.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Big M 500 Redefines Farming Machinery]]></title>
+        <id>https://www.youtube.com/watch?v=NRHAM1-lyBk</id>
+        <link href="https://www.youtube.com/watch?v=NRHAM1-lyBk"/>
+        <updated>2023-06-11T19:00:09.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3200 Bar of Cleaning Fury - Grime Doesn't Stand a Chance!]]></title>
+        <id>https://www.youtube.com/watch?v=B_e7AXmgcIo</id>
+        <link href="https://www.youtube.com/watch?v=B_e7AXmgcIo"/>
+        <updated>2023-06-11T13:00:10.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Black Hole That Kills Galaxies]]></title>
+        <id>https://www.youtube.com/watch?v=V4Z8EdiJxgk</id>
+        <link href="https://www.youtube.com/watch?v=V4Z8EdiJxgk"/>
+        <updated>2023-06-11T12:59:39.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[16-Sided Polygon Grinding with a Tyrolit Wheel]]></title>
+        <id>https://www.youtube.com/watch?v=srjUmx3wwJw</id>
+        <link href="https://www.youtube.com/watch?v=srjUmx3wwJw"/>
+        <updated>2023-06-11T11:00:31.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Believe it or not, this Incredible Tool can Cut ANY Material!]]></title>
+        <id>https://www.youtube.com/watch?v=765CgrRveJY</id>
+        <link href="https://www.youtube.com/watch?v=765CgrRveJY"/>
+        <updated>2023-06-11T09:00:02.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This Device is Changing the Fire Safety Game!]]></title>
         <id>https://www.youtube.com/watch?v=saCOTMxXpbk</id>
@@ -159,7 +231,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FILTER YOUR AIR!]]></title>
+        <title type="html"><![CDATA[CLEAN YOUR AIR!]]></title>
         <id>https://www.youtube.com/watch?v=_rbpTDvrT2s</id>
         <link href="https://www.youtube.com/watch?v=_rbpTDvrT2s"/>
         <updated>2023-06-09T13:00:31.000Z</updated>
@@ -204,42 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your Sugar Dreams Just Became Reality!]]></title>
-        <id>https://www.youtube.com/watch?v=BVq8DcZW9m8</id>
-        <link href="https://www.youtube.com/watch?v=BVq8DcZW9m8"/>
-        <updated>2023-06-08T21:00:10.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Formidable M1 Abrams: Unmatched Mobility, Firepower, and Survival on the Battlefield]]></title>
-        <id>https://www.youtube.com/watch?v=XDx96Nz_oBI</id>
-        <link href="https://www.youtube.com/watch?v=XDx96Nz_oBI"/>
-        <updated>2023-06-08T19:00:23.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Mighty M1 Abrams: Unstoppable Power]]></title>
-        <id>https://www.youtube.com/watch?v=Gz7Spqq9hfg</id>
-        <link href="https://www.youtube.com/watch?v=Gz7Spqq9hfg"/>
-        <updated>2023-06-08T18:17:01.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canadian Wildfires Blanket New York City in an Eerie]]></title>
-        <id>https://www.youtube.com/watch?v=lvqAcF1JT_4</id>
-        <link href="https://www.youtube.com/watch?v=lvqAcF1JT_4"/>
-        <updated>2023-06-08T15:32:52.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Every Item In An Air Force Gunship Pilot's Go Bag | Loadout | Insider Business]]></title>
         <id>https://www.youtube.com/watch?v=MI-FqD7XLu4</id>
         <link href="https://www.youtube.com/watch?v=MI-FqD7XLu4"/>
@@ -273,15 +309,6 @@
         <updated>2023-06-08T13:00:33.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stepping into the Future with Tire-Changing Tech!]]></title>
-        <id>https://www.youtube.com/watch?v=I7DFBf7jGqU</id>
-        <link href="https://www.youtube.com/watch?v=I7DFBf7jGqU"/>
-        <updated>2023-06-08T13:00:14.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -604,15 +631,6 @@
         <id>https://www.youtube.com/watch?v=WBaz2jjOMx0</id>
         <link href="https://www.youtube.com/watch?v=WBaz2jjOMx0"/>
         <updated>2023-06-01T13:00:19.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machining MONSTER Complex Part on the HELLER CP 6000]]></title>
-        <id>https://www.youtube.com/watch?v=mTQonWqiU4w</id>
-        <link href="https://www.youtube.com/watch?v=mTQonWqiU4w"/>
-        <updated>2023-06-01T11:00:36.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
         </author>
@@ -1788,15 +1806,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rick Day - Boats and Friends]]></title>
-        <id>https://www.youtube.com/watch?v=Adx7CpOYkWk</id>
-        <link href="https://www.youtube.com/watch?v=Adx7CpOYkWk"/>
-        <updated>2023-04-11T17:45:56.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why Aliens Might Already Be On Their Way To Us]]></title>
         <id>https://www.youtube.com/watch?v=GDSf2h9_39I</id>
         <link href="https://www.youtube.com/watch?v=GDSf2h9_39I"/>
@@ -2262,24 +2271,6 @@
         <updated>2023-03-14T16:59:41.000Z</updated>
         <author>
             <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Mesmerizing Harmony of Wayne Shorter]]></title>
-        <id>https://www.youtube.com/watch?v=siHfCV6vuSc</id>
-        <link href="https://www.youtube.com/watch?v=siHfCV6vuSc"/>
-        <updated>2023-03-13T18:25:47.000Z</updated>
-        <author>
-            <name>Adam Neely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Capacitor-BOOMer Alarm Clock]]></title>
-        <id>https://www.youtube.com/watch?v=5dYt34JIDGw</id>
-        <link href="https://www.youtube.com/watch?v=5dYt34JIDGw"/>
-        <updated>2023-03-13T16:00:10.000Z</updated>
-        <author>
-            <name>ElectroBOOM</name>
         </author>
     </entry>
 </feed>
