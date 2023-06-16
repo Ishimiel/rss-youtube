@@ -109,13 +109,23 @@
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=BNvL_uZhTsY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BNvL_uZhTsY",
+          "publishedOn": "2023-06-15T14:06:52.000Z",
+          "wordCount": null,
+          "title": "Why Does Humanity Exist NOW? #shorts #kurzgesagt",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=V4Z8EdiJxgk",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=V4Z8EdiJxgk",
           "publishedOn": "2023-06-11T12:59:39.000Z",
           "wordCount": null,
-          "title": "The Black Hole That Kills Galaxies",
+          "title": "The Black Hole That Kills Galaxies - Quasars",
           "imageUrl": null
         },
         {
@@ -434,46 +444,6 @@
           "wordCount": null,
           "title": "Drew McDowall Live at Pioneer Works (Full Set)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=L9MzlY7MVW0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=L9MzlY7MVW0",
-          "publishedOn": "2023-03-17T14:41:57.000Z",
-          "wordCount": null,
-          "title": "James Webb Space Telescope Images of the Ring Nebula",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pNYrvua4JmM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pNYrvua4JmM",
-          "publishedOn": "2023-03-17T14:40:04.000Z",
-          "wordCount": null,
-          "title": "What the James Webb Space Telescope Tells Us About Black Holes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3eVTNIOROxQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3eVTNIOROxQ",
-          "publishedOn": "2023-03-17T14:35:58.000Z",
-          "wordCount": null,
-          "title": "John Mather on the Unfolding of the James Webb Space Telescope",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=P0sTqHmpkHo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=P0sTqHmpkHo",
-          "publishedOn": "2023-03-17T14:31:47.000Z",
-          "wordCount": null,
-          "title": "Hubble Deep Space vs. James Webb Field Image",
-          "imageUrl": null
         }
       ]
     },
@@ -546,7 +516,7 @@
           "link": "https://www.youtube.com/watch?v=T83P08VDTtg",
           "publishedOn": "2023-06-02T13:00:31.000Z",
           "wordCount": null,
-          "title": "MASSIVE REAL TRANSFORMER FROM RISE OF THE BEASTS!",
+          "title": "My first $100,000 print is a REAL TRANSFORMER!",
           "imageUrl": null
         },
         {
@@ -1075,6 +1045,56 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=23XjGXPSc1I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=23XjGXPSc1I",
+          "publishedOn": "2023-06-15T21:00:01.000Z",
+          "wordCount": null,
+          "title": "Who needs a superhero when you've got a SuperCleaner!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=sKhm6c4ioQ8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sKhm6c4ioQ8",
+          "publishedOn": "2023-06-15T19:00:30.000Z",
+          "wordCount": null,
+          "title": "Apple's Eye-Popping VR or Overpriced Tech Toy?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1pc22Am7ALY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1pc22Am7ALY",
+          "publishedOn": "2023-06-15T19:00:01.000Z",
+          "wordCount": null,
+          "title": "Apple Vision Pro: Eye-Popping VR or Overpriced Tech Toy?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=SMd-5ePUm2w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SMd-5ePUm2w",
+          "publishedOn": "2023-06-15T13:00:21.000Z",
+          "wordCount": null,
+          "title": "Stand Up to Challenges, Embrace Freedom",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gvrpI17EKQU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gvrpI17EKQU",
+          "publishedOn": "2023-06-15T09:00:19.000Z",
+          "wordCount": null,
+          "title": "The Fastest Way to Rule the Waves",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=q1YyqoMSPUU",
           "author": null,
           "description": "",
@@ -1173,56 +1193,6 @@
           "wordCount": null,
           "title": "This Beast of a Turbine is Turning the Tide on Climate Change!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=o2WpGn1TyJ8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=o2WpGn1TyJ8",
-          "publishedOn": "2023-06-13T09:00:35.000Z",
-          "wordCount": null,
-          "title": "This High-Speed Hydrogen Car Will Blow Your Mind!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IZ4UUZiHmjI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IZ4UUZiHmjI",
-          "publishedOn": "2023-06-12T21:00:08.000Z",
-          "wordCount": null,
-          "title": "Gravity? This Revolutionary Machine Defies it!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dLk-ansqWaU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dLk-ansqWaU",
-          "publishedOn": "2023-06-12T19:00:16.000Z",
-          "wordCount": null,
-          "title": "The XM7 Revolutionizes Warfare!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oquQWEYamTA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oquQWEYamTA",
-          "publishedOn": "2023-06-12T15:39:56.000Z",
-          "wordCount": null,
-          "title": "The XM7: A Game-Changer in Modern Warfare",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5PQ2za-mdc4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5PQ2za-mdc4",
-          "publishedOn": "2023-06-12T15:16:54.000Z",
-          "wordCount": null,
-          "title": "A Fresh Face at SpaceX: Meet Their 14-Year-Old Wunderkind.",
-          "imageUrl": null
         }
       ]
     },
@@ -1271,7 +1241,7 @@
           "link": "https://www.youtube.com/watch?v=x9MF60ZO8rI",
           "publishedOn": "2023-06-14T16:49:37.000Z",
           "wordCount": null,
-          "title": "Are Magnetic Guitar Picks a Scam?",
+          "title": "The Bizarre Physics of Electric Guitars",
           "imageUrl": null
         }
       ]
@@ -2226,6 +2196,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=84D6oQAN5wo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=84D6oQAN5wo",
+          "publishedOn": "2023-06-15T13:00:25.000Z",
+          "wordCount": null,
+          "title": "Machining DEEP CUTS in 4140 STEEL🤯",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=HxOrMoZJ2Yc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HxOrMoZJ2Yc",
+          "publishedOn": "2023-06-15T11:00:22.000Z",
+          "wordCount": null,
+          "title": "Billion Dollar CNC Machine Shop You've Never Heard Of",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=czfHoaPFngw",
           "author": null,
           "description": "",
@@ -2354,26 +2344,6 @@
           "wordCount": null,
           "title": "Machining Parts in 7 Seconds Using 8 Spindles",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GiWx-BUjKXQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GiWx-BUjKXQ",
-          "publishedOn": "2023-06-05T11:00:33.000Z",
-          "wordCount": null,
-          "title": "Save TIME & MONEY! Precise Tool Measuring",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1QYaHcCtmxw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1QYaHcCtmxw",
-          "publishedOn": "2023-06-04T11:00:34.000Z",
-          "wordCount": null,
-          "title": "Creative Ways to Automatically Clean Your Machine",
-          "imageUrl": null
         }
       ]
     },
@@ -2382,6 +2352,36 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=aMsriEaKWeg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aMsriEaKWeg",
+          "publishedOn": "2023-06-15T17:47:46.000Z",
+          "wordCount": null,
+          "title": "After The Flood: The True Cost Of Ukraine's Dam Disaster | True Cost | Insider Business",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=c1ZLDKZSEY8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=c1ZLDKZSEY8",
+          "publishedOn": "2023-06-15T15:46:21.000Z",
+          "wordCount": null,
+          "title": "Nearly half of the world’s cork wine stoppers come from Portugal. #Cork #Agriculture #Portugal",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kyRHCpdOlM0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kyRHCpdOlM0",
+          "publishedOn": "2023-06-15T15:00:30.000Z",
+          "wordCount": null,
+          "title": "Why 10 Luxury Clothes and Accessories Are So Expensive | So Expensive | Insider Business",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ZZYcTQei6gU",
           "author": null,
@@ -2500,36 +2500,6 @@
           "publishedOn": "2023-06-07T20:45:51.000Z",
           "wordCount": null,
           "title": "This is how cigarette butts can be turned into mosquito repellent. #Upcycling #India #Sustainability",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IXWJ9dsMuak",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IXWJ9dsMuak",
-          "publishedOn": "2023-06-07T04:00:10.000Z",
-          "wordCount": null,
-          "title": "While cigarette filters do block some toxins, they mostly make it easier to inhale. #health #smoking",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OFw3gH_AEME",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OFw3gH_AEME",
-          "publishedOn": "2023-06-05T17:27:15.000Z",
-          "wordCount": null,
-          "title": "Ghee is a hand-churned butter that can cost 3 times as much as regular butter. #expensive #food",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yNFXH70uZQs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yNFXH70uZQs",
-          "publishedOn": "2023-06-01T18:00:24.000Z",
-          "wordCount": null,
-          "title": "Here's how banana trees get turned into menstrual pads. #periods #menstruation #ecofriendly",
           "imageUrl": null
         }
       ]
@@ -2664,16 +2634,6 @@
           "publishedOn": "2023-03-24T16:00:24.000Z",
           "wordCount": null,
           "title": "I made Donkey Kong vs King K Rool",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=d4N-N0JvCdo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=d4N-N0JvCdo",
-          "publishedOn": "2023-03-17T16:00:32.000Z",
-          "wordCount": null,
-          "title": "I made a fire breathing Bowser [Movie Version]",
           "imageUrl": null
         }
       ]

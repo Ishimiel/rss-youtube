@@ -1,10 +1,109 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-15T00:36:19.287Z</id>
+    <id>urn:2023-06-16T00:37:32.733Z</id>
     <title>osmos::feed</title>
-    <updated>2023-06-15T00:36:19.287Z</updated>
+    <updated>2023-06-16T00:37:32.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Who needs a superhero when you've got a SuperCleaner!]]></title>
+        <id>https://www.youtube.com/watch?v=23XjGXPSc1I</id>
+        <link href="https://www.youtube.com/watch?v=23XjGXPSc1I"/>
+        <updated>2023-06-15T21:00:01.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple's Eye-Popping VR or Overpriced Tech Toy?]]></title>
+        <id>https://www.youtube.com/watch?v=sKhm6c4ioQ8</id>
+        <link href="https://www.youtube.com/watch?v=sKhm6c4ioQ8"/>
+        <updated>2023-06-15T19:00:30.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Vision Pro: Eye-Popping VR or Overpriced Tech Toy?]]></title>
+        <id>https://www.youtube.com/watch?v=1pc22Am7ALY</id>
+        <link href="https://www.youtube.com/watch?v=1pc22Am7ALY"/>
+        <updated>2023-06-15T19:00:01.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After The Flood: The True Cost Of Ukraine's Dam Disaster | True Cost | Insider Business]]></title>
+        <id>https://www.youtube.com/watch?v=aMsriEaKWeg</id>
+        <link href="https://www.youtube.com/watch?v=aMsriEaKWeg"/>
+        <updated>2023-06-15T17:47:46.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nearly half of the world’s cork wine stoppers come from Portugal. #Cork #Agriculture #Portugal]]></title>
+        <id>https://www.youtube.com/watch?v=c1ZLDKZSEY8</id>
+        <link href="https://www.youtube.com/watch?v=c1ZLDKZSEY8"/>
+        <updated>2023-06-15T15:46:21.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why 10 Luxury Clothes and Accessories Are So Expensive | So Expensive | Insider Business]]></title>
+        <id>https://www.youtube.com/watch?v=kyRHCpdOlM0</id>
+        <link href="https://www.youtube.com/watch?v=kyRHCpdOlM0"/>
+        <updated>2023-06-15T15:00:30.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Does Humanity Exist NOW? #shorts #kurzgesagt]]></title>
+        <id>https://www.youtube.com/watch?v=BNvL_uZhTsY</id>
+        <link href="https://www.youtube.com/watch?v=BNvL_uZhTsY"/>
+        <updated>2023-06-15T14:06:52.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machining DEEP CUTS in 4140 STEEL🤯]]></title>
+        <id>https://www.youtube.com/watch?v=84D6oQAN5wo</id>
+        <link href="https://www.youtube.com/watch?v=84D6oQAN5wo"/>
+        <updated>2023-06-15T13:00:25.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stand Up to Challenges, Embrace Freedom]]></title>
+        <id>https://www.youtube.com/watch?v=SMd-5ePUm2w</id>
+        <link href="https://www.youtube.com/watch?v=SMd-5ePUm2w"/>
+        <updated>2023-06-15T13:00:21.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Billion Dollar CNC Machine Shop You've Never Heard Of]]></title>
+        <id>https://www.youtube.com/watch?v=HxOrMoZJ2Yc</id>
+        <link href="https://www.youtube.com/watch?v=HxOrMoZJ2Yc"/>
+        <updated>2023-06-15T11:00:22.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fastest Way to Rule the Waves]]></title>
+        <id>https://www.youtube.com/watch?v=gvrpI17EKQU</id>
+        <link href="https://www.youtube.com/watch?v=gvrpI17EKQU"/>
+        <updated>2023-06-15T09:00:19.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This is why porcelain is so expensive. #porcelain #ceramics #porcelainart]]></title>
         <id>https://www.youtube.com/watch?v=ZZYcTQei6gU</id>
@@ -60,7 +159,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Are Magnetic Guitar Picks a Scam?]]></title>
+        <title type="html"><![CDATA[The Bizarre Physics of Electric Guitars]]></title>
         <id>https://www.youtube.com/watch?v=x9MF60ZO8rI</id>
         <link href="https://www.youtube.com/watch?v=x9MF60ZO8rI"/>
         <updated>2023-06-14T16:49:37.000Z</updated>
@@ -213,15 +312,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This High-Speed Hydrogen Car Will Blow Your Mind!]]></title>
-        <id>https://www.youtube.com/watch?v=o2WpGn1TyJ8</id>
-        <link href="https://www.youtube.com/watch?v=o2WpGn1TyJ8"/>
-        <updated>2023-06-13T09:00:35.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to rock in 7/8]]></title>
         <id>https://www.youtube.com/watch?v=rUnmVzFdbUY</id>
         <link href="https://www.youtube.com/watch?v=rUnmVzFdbUY"/>
@@ -231,48 +321,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gravity? This Revolutionary Machine Defies it!]]></title>
-        <id>https://www.youtube.com/watch?v=IZ4UUZiHmjI</id>
-        <link href="https://www.youtube.com/watch?v=IZ4UUZiHmjI"/>
-        <updated>2023-06-12T21:00:08.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The XM7 Revolutionizes Warfare!]]></title>
-        <id>https://www.youtube.com/watch?v=dLk-ansqWaU</id>
-        <link href="https://www.youtube.com/watch?v=dLk-ansqWaU"/>
-        <updated>2023-06-12T19:00:16.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Farmers in #Madagascar produce roughly 80 percent of the world’s #vanilla. #soexpensive #spices]]></title>
         <id>https://www.youtube.com/watch?v=Pwmb0KLmBUc</id>
         <link href="https://www.youtube.com/watch?v=Pwmb0KLmBUc"/>
         <updated>2023-06-12T17:51:04.000Z</updated>
         <author>
             <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The XM7: A Game-Changer in Modern Warfare]]></title>
-        <id>https://www.youtube.com/watch?v=oquQWEYamTA</id>
-        <link href="https://www.youtube.com/watch?v=oquQWEYamTA"/>
-        <updated>2023-06-12T15:39:56.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Fresh Face at SpaceX: Meet Their 14-Year-Old Wunderkind.]]></title>
-        <id>https://www.youtube.com/watch?v=5PQ2za-mdc4</id>
-        <link href="https://www.youtube.com/watch?v=5PQ2za-mdc4"/>
-        <updated>2023-06-12T15:16:54.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -303,7 +357,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Black Hole That Kills Galaxies]]></title>
+        <title type="html"><![CDATA[The Black Hole That Kills Galaxies - Quasars]]></title>
         <id>https://www.youtube.com/watch?v=V4Z8EdiJxgk</id>
         <link href="https://www.youtube.com/watch?v=V4Z8EdiJxgk"/>
         <updated>2023-06-11T12:59:39.000Z</updated>
@@ -510,15 +564,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[While cigarette filters do block some toxins, they mostly make it easier to inhale. #health #smoking]]></title>
-        <id>https://www.youtube.com/watch?v=IXWJ9dsMuak</id>
-        <link href="https://www.youtube.com/watch?v=IXWJ9dsMuak"/>
-        <updated>2023-06-07T04:00:10.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Our Magnetic Top]]></title>
         <id>https://www.youtube.com/watch?v=gxwOJlVJBKM</id>
         <link href="https://www.youtube.com/watch?v=gxwOJlVJBKM"/>
@@ -568,33 +613,6 @@
         <id>https://www.youtube.com/watch?v=AUS5SJ5XcWE</id>
         <link href="https://www.youtube.com/watch?v=AUS5SJ5XcWE"/>
         <updated>2023-06-06T11:00:06.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ghee is a hand-churned butter that can cost 3 times as much as regular butter. #expensive #food]]></title>
-        <id>https://www.youtube.com/watch?v=OFw3gH_AEME</id>
-        <link href="https://www.youtube.com/watch?v=OFw3gH_AEME"/>
-        <updated>2023-06-05T17:27:15.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Save TIME & MONEY! Precise Tool Measuring]]></title>
-        <id>https://www.youtube.com/watch?v=GiWx-BUjKXQ</id>
-        <link href="https://www.youtube.com/watch?v=GiWx-BUjKXQ"/>
-        <updated>2023-06-05T11:00:33.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creative Ways to Automatically Clean Your Machine]]></title>
-        <id>https://www.youtube.com/watch?v=1QYaHcCtmxw</id>
-        <link href="https://www.youtube.com/watch?v=1QYaHcCtmxw"/>
-        <updated>2023-06-04T11:00:34.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
         </author>
@@ -672,7 +690,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MASSIVE REAL TRANSFORMER FROM RISE OF THE BEASTS!]]></title>
+        <title type="html"><![CDATA[My first $100,000 print is a REAL TRANSFORMER!]]></title>
         <id>https://www.youtube.com/watch?v=T83P08VDTtg</id>
         <link href="https://www.youtube.com/watch?v=T83P08VDTtg"/>
         <updated>2023-06-02T13:00:31.000Z</updated>
@@ -687,15 +705,6 @@
         <updated>2023-06-01T22:45:17.000Z</updated>
         <author>
             <name>NileRed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's how banana trees get turned into menstrual pads. #periods #menstruation #ecofriendly]]></title>
-        <id>https://www.youtube.com/watch?v=yNFXH70uZQs</id>
-        <link href="https://www.youtube.com/watch?v=yNFXH70uZQs"/>
-        <updated>2023-06-01T18:00:24.000Z</updated>
-        <author>
-            <name>Insider Business</name>
         </author>
     </entry>
     <entry>
@@ -2208,51 +2217,6 @@
         <updated>2023-03-18T13:00:17.000Z</updated>
         <author>
             <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I made a fire breathing Bowser [Movie Version]]]></title>
-        <id>https://www.youtube.com/watch?v=d4N-N0JvCdo</id>
-        <link href="https://www.youtube.com/watch?v=d4N-N0JvCdo"/>
-        <updated>2023-03-17T16:00:32.000Z</updated>
-        <author>
-            <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[James Webb Space Telescope Images of the Ring Nebula]]></title>
-        <id>https://www.youtube.com/watch?v=L9MzlY7MVW0</id>
-        <link href="https://www.youtube.com/watch?v=L9MzlY7MVW0"/>
-        <updated>2023-03-17T14:41:57.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What the James Webb Space Telescope Tells Us About Black Holes]]></title>
-        <id>https://www.youtube.com/watch?v=pNYrvua4JmM</id>
-        <link href="https://www.youtube.com/watch?v=pNYrvua4JmM"/>
-        <updated>2023-03-17T14:40:04.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[John Mather on the Unfolding of the James Webb Space Telescope]]></title>
-        <id>https://www.youtube.com/watch?v=3eVTNIOROxQ</id>
-        <link href="https://www.youtube.com/watch?v=3eVTNIOROxQ"/>
-        <updated>2023-03-17T14:35:58.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hubble Deep Space vs. James Webb Field Image]]></title>
-        <id>https://www.youtube.com/watch?v=P0sTqHmpkHo</id>
-        <link href="https://www.youtube.com/watch?v=P0sTqHmpkHo"/>
-        <updated>2023-03-17T14:31:47.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
         </author>
     </entry>
 </feed>
