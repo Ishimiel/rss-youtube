@@ -51,7 +51,18 @@
       "title": "Primer",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKzJFdi57J53Vr_BkTfN3uQ",
       "siteUrl": "https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=6YzrVUVO9M0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6YzrVUVO9M0",
+          "publishedOn": "2023-06-17T14:51:26.000Z",
+          "wordCount": null,
+          "title": "Overexplaining the Binomial Distribution Formula",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Reducible",
@@ -1055,6 +1066,56 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=dd9xPq1bptE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dd9xPq1bptE",
+          "publishedOn": "2023-06-17T21:00:25.000Z",
+          "wordCount": null,
+          "title": "Take Flight in Seconds with This Pocket-Sized Gadget!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Iv6W1XmQUtc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Iv6W1XmQUtc",
+          "publishedOn": "2023-06-17T19:00:10.000Z",
+          "wordCount": null,
+          "title": "The Controversial World of 3D Printed Firearms",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=CZWrJ_bkpv0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CZWrJ_bkpv0",
+          "publishedOn": "2023-06-17T19:00:06.000Z",
+          "wordCount": null,
+          "title": "Do 3D Printed Firearms Pose a Threat for the World?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=hhLOeLmGDX8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hhLOeLmGDX8",
+          "publishedOn": "2023-06-17T13:00:25.000Z",
+          "wordCount": null,
+          "title": "For the Superhero Dad: The Superhero of Tools!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=CvZXZ5LBf3k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CvZXZ5LBf3k",
+          "publishedOn": "2023-06-17T09:00:06.000Z",
+          "wordCount": null,
+          "title": "Master Your Grill from Your Couch!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8TGHipNcClc",
           "author": null,
           "description": "",
@@ -1152,56 +1213,6 @@
           "publishedOn": "2023-06-15T13:00:21.000Z",
           "wordCount": null,
           "title": "Stand Up to Challenges, Embrace Freedom",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gvrpI17EKQU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gvrpI17EKQU",
-          "publishedOn": "2023-06-15T09:00:19.000Z",
-          "wordCount": null,
-          "title": "The Fastest Way to Rule the Waves",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=q1YyqoMSPUU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=q1YyqoMSPUU",
-          "publishedOn": "2023-06-14T21:00:33.000Z",
-          "wordCount": null,
-          "title": "Turn Your Summer Heatwave into an Ice Age!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=d1RzKjm1pCw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=d1RzKjm1pCw",
-          "publishedOn": "2023-06-14T19:00:15.000Z",
-          "wordCount": null,
-          "title": "Unleashing the Beast: Leopard 2 MBT vs. Russian Armor - Who Will Prevail?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Y2SR-tsfQUY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Y2SR-tsfQUY",
-          "publishedOn": "2023-06-14T19:00:11.000Z",
-          "wordCount": null,
-          "title": "The Ultimate Showdown: Leopard 2 MBT vs. Russian Armor",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SaGOMZK4PHY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SaGOMZK4PHY",
-          "publishedOn": "2023-06-14T13:00:25.000Z",
-          "wordCount": null,
-          "title": "This Sea Game Changer Fears No Waves!",
           "imageUrl": null
         }
       ]
@@ -2120,16 +2131,6 @@
           "wordCount": null,
           "title": "Announcing GRIDFINITY 2.0! Print it now, FOR FREE!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uVECS4rBAZc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uVECS4rBAZc",
-          "publishedOn": "2023-03-19T16:12:10.000Z",
-          "wordCount": null,
-          "title": "Every Single Filament Part 4: CURSED FILAMENT!",
-          "imageUrl": null
         }
       ]
     },
@@ -2195,6 +2196,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=zy6YiCAhvFE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zy6YiCAhvFE",
+          "publishedOn": "2023-06-17T13:00:34.000Z",
+          "wordCount": null,
+          "title": "MONSTER Cuts - 1000 IPM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fAr5aQaIWaM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fAr5aQaIWaM",
+          "publishedOn": "2023-06-17T11:00:26.000Z",
+          "wordCount": null,
+          "title": "Machining Complex Part 600% FASTER Using Trick Techniques",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=hvjdROdaL5w",
           "author": null,
@@ -2324,26 +2345,6 @@
           "wordCount": null,
           "title": "DIY - Build Your Own Passivation Tanks Per AMS2700 Spec",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tx_eVBsnnwc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tx_eVBsnnwc",
-          "publishedOn": "2023-06-07T11:00:30.000Z",
-          "wordCount": null,
-          "title": "Our Largest 3D Printer Yet!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LfN2o7XDmsQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LfN2o7XDmsQ",
-          "publishedOn": "2023-06-06T13:00:49.000Z",
-          "wordCount": null,
-          "title": "CNC Machining a Skateboard on a Swiss Machine",
-          "imageUrl": null
         }
       ]
     },
@@ -2352,6 +2353,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ymPnJOIh_D0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ymPnJOIh_D0",
+          "publishedOn": "2023-06-17T15:00:44.000Z",
+          "wordCount": null,
+          "title": "Why Natural Latex Mattresses Are So Expensive | So Expensive | Insider Business",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=gQe7i-agV3Q",
           "author": null,
@@ -2490,16 +2501,6 @@
           "publishedOn": "2023-06-08T14:45:53.000Z",
           "wordCount": null,
           "title": "Here's how clay is molded for expensive Moroccan Zellige tiles. #clay #tiles #Morocco",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FscWT6o7zZ0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FscWT6o7zZ0",
-          "publishedOn": "2023-06-07T21:48:43.000Z",
-          "wordCount": null,
-          "title": "Kasutam is a farm that takes 30 hours to produce on kilogram of ghee. #Ghee #ClarifiedButter #India",
           "imageUrl": null
         }
       ]
