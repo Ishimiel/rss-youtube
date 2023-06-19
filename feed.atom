@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-18T00:40:27.651Z</id>
+    <id>urn:2023-06-19T00:36:01.854Z</id>
     <title>osmos::feed</title>
-    <updated>2023-06-18T00:40:27.651Z</updated>
+    <updated>2023-06-19T00:36:01.854Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Is This the Future of Portable Storage?]]></title>
+        <id>https://www.youtube.com/watch?v=YQFrnz5MvTY</id>
+        <link href="https://www.youtube.com/watch?v=YQFrnz5MvTY"/>
+        <updated>2023-06-18T21:00:24.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unbelievable! Watch How These Mechanics Break the Laws of Physics]]></title>
+        <id>https://www.youtube.com/watch?v=uTPmQ7AYmY4</id>
+        <link href="https://www.youtube.com/watch?v=uTPmQ7AYmY4"/>
+        <updated>2023-06-18T19:00:16.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Were Bicycles the First Step to Flight?]]></title>
+        <id>https://www.youtube.com/watch?v=_twGVDvNcvc</id>
+        <link href="https://www.youtube.com/watch?v=_twGVDvNcvc"/>
+        <updated>2023-06-18T19:00:13.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Way to Understand Cancer]]></title>
+        <id>https://www.youtube.com/watch?v=uoJwt9l-XhQ</id>
+        <link href="https://www.youtube.com/watch?v=uoJwt9l-XhQ"/>
+        <updated>2023-06-18T13:00:41.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did Sailing Become Easy as Riding a Bike?]]></title>
+        <id>https://www.youtube.com/watch?v=AanPWjXTCW0</id>
+        <link href="https://www.youtube.com/watch?v=AanPWjXTCW0"/>
+        <updated>2023-06-18T13:00:14.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machining the PERFECT Spinning Top]]></title>
+        <id>https://www.youtube.com/watch?v=jePgjj3Gz78</id>
+        <link href="https://www.youtube.com/watch?v=jePgjj3Gz78"/>
+        <updated>2023-06-18T11:00:40.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Want to Walk Like Flash? Here's How!]]></title>
+        <id>https://www.youtube.com/watch?v=ATOpzczQEBw</id>
+        <link href="https://www.youtube.com/watch?v=ATOpzczQEBw"/>
+        <updated>2023-06-18T09:00:12.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Take Flight in Seconds with This Pocket-Sized Gadget!]]></title>
         <id>https://www.youtube.com/watch?v=dd9xPq1bptE</id>
@@ -204,42 +267,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Sweetest Strawberries Picked by The Smartest Tech!]]></title>
-        <id>https://www.youtube.com/watch?v=-4qFHWrhELA</id>
-        <link href="https://www.youtube.com/watch?v=-4qFHWrhELA"/>
-        <updated>2023-06-16T09:00:00.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who needs a superhero when you've got a SuperCleaner!]]></title>
-        <id>https://www.youtube.com/watch?v=23XjGXPSc1I</id>
-        <link href="https://www.youtube.com/watch?v=23XjGXPSc1I"/>
-        <updated>2023-06-15T21:00:01.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple's Eye-Popping VR or Overpriced Tech Toy?]]></title>
-        <id>https://www.youtube.com/watch?v=sKhm6c4ioQ8</id>
-        <link href="https://www.youtube.com/watch?v=sKhm6c4ioQ8"/>
-        <updated>2023-06-15T19:00:30.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Vision Pro: Eye-Popping VR or Overpriced Tech Toy?]]></title>
-        <id>https://www.youtube.com/watch?v=1pc22Am7ALY</id>
-        <link href="https://www.youtube.com/watch?v=1pc22Am7ALY"/>
-        <updated>2023-06-15T19:00:01.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[After The Flood: The True Cost Of Ukraine's Dam Disaster | True Cost | Insider Business]]></title>
         <id>https://www.youtube.com/watch?v=aMsriEaKWeg</id>
         <link href="https://www.youtube.com/watch?v=aMsriEaKWeg"/>
@@ -282,15 +309,6 @@
         <updated>2023-06-15T13:00:25.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stand Up to Challenges, Embrace Freedom]]></title>
-        <id>https://www.youtube.com/watch?v=SMd-5ePUm2w</id>
-        <link href="https://www.youtube.com/watch?v=SMd-5ePUm2w"/>
-        <updated>2023-06-15T13:00:21.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -622,15 +640,6 @@
         <id>https://www.youtube.com/watch?v=eHFcisblU-A</id>
         <link href="https://www.youtube.com/watch?v=eHFcisblU-A"/>
         <updated>2023-06-08T13:00:33.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DIY - Build Your Own Passivation Tanks Per AMS2700 Spec]]></title>
-        <id>https://www.youtube.com/watch?v=UkuPiQ1gjGI</id>
-        <link href="https://www.youtube.com/watch?v=UkuPiQ1gjGI"/>
-        <updated>2023-06-08T11:00:19.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
         </author>
@@ -2226,15 +2235,6 @@
         <updated>2023-03-21T18:34:05.000Z</updated>
         <author>
             <name>Physics Girl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Quantum Computers Break The Internet... Starting Now]]></title>
-        <id>https://www.youtube.com/watch?v=-UrdExQW0cs</id>
-        <link href="https://www.youtube.com/watch?v=-UrdExQW0cs"/>
-        <updated>2023-03-20T18:42:22.000Z</updated>
-        <author>
-            <name>Veritasium</name>
         </author>
     </entry>
 </feed>
