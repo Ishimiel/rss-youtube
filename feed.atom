@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-22T00:36:53.245Z</id>
+    <id>urn:2023-06-23T00:39:35.995Z</id>
     <title>osmos::feed</title>
-    <updated>2023-06-22T00:36:53.245Z</updated>
+    <updated>2023-06-23T00:39:35.995Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Who Needs a Water Bottle in the Wild?]]></title>
+        <id>https://www.youtube.com/watch?v=iI5gVis6nHo</id>
+        <link href="https://www.youtube.com/watch?v=iI5gVis6nHo"/>
+        <updated>2023-06-22T21:00:17.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The biggest problem with living on Mars]]></title>
+        <id>https://www.youtube.com/watch?v=LCVU6NQWWLE</id>
+        <link href="https://www.youtube.com/watch?v=LCVU6NQWWLE"/>
+        <updated>2023-06-22T20:09:55.000Z</updated>
+        <author>
+            <name>Physics Girl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Could killer whales be teaching their offspring how to destroy your boat?]]></title>
+        <id>https://www.youtube.com/watch?v=xmqEIlH4OGU</id>
+        <link href="https://www.youtube.com/watch?v=xmqEIlH4OGU"/>
+        <updated>2023-06-22T19:00:33.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orca Rampage Threatens Boaters in Iberia]]></title>
+        <id>https://www.youtube.com/watch?v=lMAvS6b3kPc</id>
+        <link href="https://www.youtube.com/watch?v=lMAvS6b3kPc"/>
+        <updated>2023-06-22T19:00:30.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Memory: The Hidden Pathways That Make Us Human]]></title>
+        <id>https://www.youtube.com/watch?v=VzxI8Xjx1iw</id>
+        <link href="https://www.youtube.com/watch?v=VzxI8Xjx1iw"/>
+        <updated>2023-06-22T14:28:16.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let's Make Earth Twice as Large! #shorts #kurzgesagt]]></title>
+        <id>https://www.youtube.com/watch?v=XFM4tCakAXY</id>
+        <link href="https://www.youtube.com/watch?v=XFM4tCakAXY"/>
+        <updated>2023-06-22T14:00:21.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jaw-Dropping Full Slotting on the NHM6300 from DN Solutions]]></title>
+        <id>https://www.youtube.com/watch?v=jvT0rDUmr-I</id>
+        <link href="https://www.youtube.com/watch?v=jvT0rDUmr-I"/>
+        <updated>2023-06-22T13:00:29.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Workshop's Secret Weapon!]]></title>
+        <id>https://www.youtube.com/watch?v=8M9j0u6yKus</id>
+        <link href="https://www.youtube.com/watch?v=8M9j0u6yKus"/>
+        <updated>2023-06-22T13:00:07.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PowerHouse Quick-Change KONTEC KSX Vise Set-Up | HELLER HF5500]]></title>
+        <id>https://www.youtube.com/watch?v=jcy80h8Z-go</id>
+        <link href="https://www.youtube.com/watch?v=jcy80h8Z-go"/>
+        <updated>2023-06-22T11:00:35.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet the Future of Stable Shooting!]]></title>
+        <id>https://www.youtube.com/watch?v=s2j3_eJeBGM</id>
+        <link href="https://www.youtube.com/watch?v=s2j3_eJeBGM"/>
+        <updated>2023-06-22T09:00:26.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why sea sponges are so expensive. #seasponge #mediterraneansea #spongediving]]></title>
         <id>https://www.youtube.com/watch?v=aogoloumUVs</id>
@@ -222,57 +312,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Get Ready to Experience the Hottest Trend in Digital Intimacy!]]></title>
-        <id>https://www.youtube.com/watch?v=Wv8-gDFseL0</id>
-        <link href="https://www.youtube.com/watch?v=Wv8-gDFseL0"/>
-        <updated>2023-06-19T09:00:17.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is This the Future of Portable Storage?]]></title>
-        <id>https://www.youtube.com/watch?v=YQFrnz5MvTY</id>
-        <link href="https://www.youtube.com/watch?v=YQFrnz5MvTY"/>
-        <updated>2023-06-18T21:00:24.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pedals to Propellers: A Journey from Bicycles to Aviation]]></title>
-        <id>https://www.youtube.com/watch?v=uTPmQ7AYmY4</id>
-        <link href="https://www.youtube.com/watch?v=uTPmQ7AYmY4"/>
-        <updated>2023-06-18T19:00:16.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Were Bicycles the First Step to Flight?]]></title>
-        <id>https://www.youtube.com/watch?v=_twGVDvNcvc</id>
-        <link href="https://www.youtube.com/watch?v=_twGVDvNcvc"/>
-        <updated>2023-06-18T19:00:13.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Reason Why Cancer is so Hard to Beat]]></title>
         <id>https://www.youtube.com/watch?v=uoJwt9l-XhQ</id>
         <link href="https://www.youtube.com/watch?v=uoJwt9l-XhQ"/>
         <updated>2023-06-18T13:00:41.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did Sailing Become Easy as Riding a Bike?]]></title>
-        <id>https://www.youtube.com/watch?v=AanPWjXTCW0</id>
-        <link href="https://www.youtube.com/watch?v=AanPWjXTCW0"/>
-        <updated>2023-06-18T13:00:14.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -591,15 +636,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We Accidentally CRASHED the HELLER 😬]]></title>
-        <id>https://www.youtube.com/watch?v=ZvUpi0davhI</id>
-        <link href="https://www.youtube.com/watch?v=ZvUpi0davhI"/>
-        <updated>2023-06-12T11:00:55.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Autopilot is up and running!]]></title>
         <id>https://www.youtube.com/watch?v=kKpgm5tpwag</id>
         <link href="https://www.youtube.com/watch?v=kKpgm5tpwag"/>
@@ -615,15 +651,6 @@
         <updated>2023-06-11T12:59:39.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[16-Sided Polygon Grinding with a Tyrolit Wheel]]></title>
-        <id>https://www.youtube.com/watch?v=srjUmx3wwJw</id>
-        <link href="https://www.youtube.com/watch?v=srjUmx3wwJw"/>
-        <updated>2023-06-11T11:00:31.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2190,33 +2217,6 @@
         <updated>2023-03-27T16:33:13.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transforming vibrating CO2 into light! (2^16 special)]]></title>
-        <id>https://www.youtube.com/watch?v=3c6-BqT9AwM</id>
-        <link href="https://www.youtube.com/watch?v=3c6-BqT9AwM"/>
-        <updated>2023-03-25T00:33:15.000Z</updated>
-        <author>
-            <name>AlphaPhoenix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I made Donkey Kong vs King K Rool]]></title>
-        <id>https://www.youtube.com/watch?v=cq4yQis7CWU</id>
-        <link href="https://www.youtube.com/watch?v=cq4yQis7CWU"/>
-        <updated>2023-03-24T16:00:24.000Z</updated>
-        <author>
-            <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complex Analysis L09: Complex Residues]]></title>
-        <id>https://www.youtube.com/watch?v=ywAEVq9ULxs</id>
-        <link href="https://www.youtube.com/watch?v=ywAEVq9ULxs"/>
-        <updated>2023-03-24T14:45:04.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
 </feed>
