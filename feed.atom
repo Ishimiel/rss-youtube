@@ -1,12 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-24T00:40:14.970Z</id>
+    <id>urn:2023-06-25T00:44:33.451Z</id>
     <title>osmos::feed</title>
-    <updated>2023-06-24T00:40:14.970Z</updated>
+    <updated>2023-06-25T00:44:33.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[🤯🤯🤯 Integrating GPT-4 into Collimator.ai for Symbolic Modeling and Control 🔥🔥🔥]]></title>
+        <title type="html"><![CDATA[Why Not Make Your Trailer Swim?]]></title>
+        <id>https://www.youtube.com/watch?v=-gGiZwfOcnA</id>
+        <link href="https://www.youtube.com/watch?v=-gGiZwfOcnA"/>
+        <updated>2023-06-24T21:00:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ancient Design Secretly Dominates Modern Architecture]]></title>
+        <id>https://www.youtube.com/watch?v=kbrFogjK_ss</id>
+        <link href="https://www.youtube.com/watch?v=kbrFogjK_ss"/>
+        <updated>2023-06-24T18:36:40.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printing Resistors, Fibers & Coffee - Utility Research Lab]]></title>
+        <id>https://www.youtube.com/watch?v=Oeqvo2c28_c</id>
+        <link href="https://www.youtube.com/watch?v=Oeqvo2c28_c"/>
+        <updated>2023-06-24T15:30:47.000Z</updated>
+        <author>
+            <name>CNC Kitchen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Stockfish Is So Expensive | So Expensive Food | Insider Business]]></title>
+        <id>https://www.youtube.com/watch?v=1CHt6Yo6sVE</id>
+        <link href="https://www.youtube.com/watch?v=1CHt6Yo6sVE"/>
+        <updated>2023-06-24T15:00:03.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monster Cuts on the NHM6300 by DN Solutions #cnc #titansofcnc #machining #cncmachining #3dprinting]]></title>
+        <id>https://www.youtube.com/watch?v=yR9YFhoScb4</id>
+        <link href="https://www.youtube.com/watch?v=yR9YFhoScb4"/>
+        <updated>2023-06-24T13:00:44.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolutionize Your Chill Time with this AI Wizard]]></title>
+        <id>https://www.youtube.com/watch?v=6zq5v9s-BGA</id>
+        <link href="https://www.youtube.com/watch?v=6zq5v9s-BGA"/>
+        <updated>2023-06-24T13:00:05.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attempting to 3D Print a MOLD INSERT with a Flawless Finish]]></title>
+        <id>https://www.youtube.com/watch?v=lhhMa7EtYh8</id>
+        <link href="https://www.youtube.com/watch?v=lhhMa7EtYh8"/>
+        <updated>2023-06-24T11:00:37.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where Luxury Meets Sustainability!]]></title>
+        <id>https://www.youtube.com/watch?v=tDPZvuQj8pk</id>
+        <link href="https://www.youtube.com/watch?v=tDPZvuQj8pk"/>
+        <updated>2023-06-24T09:00:36.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🤯🤯🤯 Integrating GPT-4 into Collimator.ai for Symbolic Modeling and Control** 🔥🔥🔥]]></title>
         <id>https://www.youtube.com/watch?v=IPQaJbWlUAo</id>
         <link href="https://www.youtube.com/watch?v=IPQaJbWlUAo"/>
         <updated>2023-06-23T23:15:00.000Z</updated>
@@ -96,7 +168,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D Printing and BROKEN BONES?]]></title>
+        <title type="html"><![CDATA[3D Printing a BETTER CAST!]]></title>
         <id>https://www.youtube.com/watch?v=GwnrZtCz8ps</id>
         <link href="https://www.youtube.com/watch?v=GwnrZtCz8ps"/>
         <updated>2023-06-23T13:00:09.000Z</updated>
@@ -267,15 +339,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Who Needs Fuel When You Have the Sun and Fun!]]></title>
-        <id>https://www.youtube.com/watch?v=X4Bx5MiaStw</id>
-        <link href="https://www.youtube.com/watch?v=X4Bx5MiaStw"/>
-        <updated>2023-06-21T09:00:20.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MASSIVE PRINT FAIL #3dprinting 😳]]></title>
         <id>https://www.youtube.com/watch?v=KnWfAIm435g</id>
         <link href="https://www.youtube.com/watch?v=KnWfAIm435g"/>
@@ -285,39 +348,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Escape the Snooze Trap with this Rascal]]></title>
-        <id>https://www.youtube.com/watch?v=w7OoinlLD0I</id>
-        <link href="https://www.youtube.com/watch?v=w7OoinlLD0I"/>
-        <updated>2023-06-20T21:00:27.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New York City is Sinking Faster Than You Think]]></title>
-        <id>https://www.youtube.com/watch?v=wbX4WYqzv3U</id>
-        <link href="https://www.youtube.com/watch?v=wbX4WYqzv3U"/>
-        <updated>2023-06-20T19:00:32.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Here's why Đông Tảo chickens are so expensive. #ĐôngTảochicken #dragonchicken #food #soexpensive]]></title>
         <id>https://www.youtube.com/watch?v=1-jfXCYKt80</id>
         <link href="https://www.youtube.com/watch?v=1-jfXCYKt80"/>
         <updated>2023-06-20T17:28:59.000Z</updated>
         <author>
             <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Next Atlantis: Is New York City Sinking?]]></title>
-        <id>https://www.youtube.com/watch?v=x7FnZmlDdKU</id>
-        <link href="https://www.youtube.com/watch?v=x7FnZmlDdKU"/>
-        <updated>2023-06-20T14:48:36.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -582,30 +618,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jasmine has been a central part of special occasions in #India for centuries. #jasmine #culture]]></title>
-        <id>https://www.youtube.com/watch?v=O8Ueqd3TZPA</id>
-        <link href="https://www.youtube.com/watch?v=O8Ueqd3TZPA"/>
-        <updated>2023-06-14T17:48:06.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Bizarre Physics of Electric Guitars]]></title>
         <id>https://www.youtube.com/watch?v=x9MF60ZO8rI</id>
         <link href="https://www.youtube.com/watch?v=x9MF60ZO8rI"/>
         <updated>2023-06-14T16:49:37.000Z</updated>
         <author>
             <name>minutephysics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Printed Stainless Steel - 70% Lighter Weight - Just as Strong]]></title>
-        <id>https://www.youtube.com/watch?v=czfHoaPFngw</id>
-        <link href="https://www.youtube.com/watch?v=czfHoaPFngw"/>
-        <updated>2023-06-14T14:40:05.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -642,15 +660,6 @@
         <updated>2023-06-13T15:44:40.000Z</updated>
         <author>
             <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polishing Custom Titanium Apple Watch ⌚️]]></title>
-        <id>https://www.youtube.com/watch?v=cY-ubJu1ArY</id>
-        <link href="https://www.youtube.com/watch?v=cY-ubJu1ArY"/>
-        <updated>2023-06-13T13:29:27.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -798,7 +807,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A totally different way to do math]]></title>
+        <title type="html"><![CDATA[Numbers They Don't Teach You In School]]></title>
         <id>https://www.youtube.com/watch?v=tRaq4aYPzCc</id>
         <link href="https://www.youtube.com/watch?v=tRaq4aYPzCc"/>
         <updated>2023-06-06T13:43:15.000Z</updated>
