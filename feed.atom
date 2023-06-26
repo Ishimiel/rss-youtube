@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-25T00:44:33.451Z</id>
+    <id>urn:2023-06-26T00:41:24.984Z</id>
     <title>osmos::feed</title>
-    <updated>2023-06-25T00:44:33.451Z</updated>
+    <updated>2023-06-26T00:41:24.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[This DIY Tool will Blow Your Mind!]]></title>
+        <id>https://www.youtube.com/watch?v=rypT1Pn0seY</id>
+        <link href="https://www.youtube.com/watch?v=rypT1Pn0seY"/>
+        <updated>2023-06-25T21:00:22.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Modern Architects Are Still Copying Greeks and Romans]]></title>
+        <id>https://www.youtube.com/watch?v=3jY_RO_yjqg</id>
+        <link href="https://www.youtube.com/watch?v=3jY_RO_yjqg"/>
+        <updated>2023-06-25T19:00:01.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How One Giant Meat Warehouse Supplies Shake Shack And Top Steakhouses | Big Business]]></title>
+        <id>https://www.youtube.com/watch?v=w6V7CILdVJM</id>
+        <link href="https://www.youtube.com/watch?v=w6V7CILdVJM"/>
+        <updated>2023-06-25T15:00:42.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who Said Camping Can't Be Comfortable?]]></title>
+        <id>https://www.youtube.com/watch?v=pUKI_5usM28</id>
+        <link href="https://www.youtube.com/watch?v=pUKI_5usM28"/>
+        <updated>2023-06-25T13:00:40.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chaos Unleashed: Epic CNC Machine Crashes #cnc #titansofcnc #machining #3dprinting #crash #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=XXMXhWc8pAE</id>
+        <link href="https://www.youtube.com/watch?v=XXMXhWc8pAE"/>
+        <updated>2023-06-25T11:00:17.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Engraving Has Never Been This Fun!]]></title>
+        <id>https://www.youtube.com/watch?v=e2z3R_nlmL4</id>
+        <link href="https://www.youtube.com/watch?v=e2z3R_nlmL4"/>
+        <updated>2023-06-25T09:00:20.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Not Make Your Trailer Swim?]]></title>
         <id>https://www.youtube.com/watch?v=-gGiZwfOcnA</id>
@@ -249,15 +303,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your Workshop's Secret Weapon!]]></title>
-        <id>https://www.youtube.com/watch?v=8M9j0u6yKus</id>
-        <link href="https://www.youtube.com/watch?v=8M9j0u6yKus"/>
-        <updated>2023-06-22T13:00:07.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PowerHouse Quick-Change KONTEC KSX Vise Set-Up | HELLER HF5500]]></title>
         <id>https://www.youtube.com/watch?v=jcy80h8Z-go</id>
         <link href="https://www.youtube.com/watch?v=jcy80h8Z-go"/>
@@ -267,30 +312,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meet the Future of Stable Shooting!]]></title>
-        <id>https://www.youtube.com/watch?v=s2j3_eJeBGM</id>
-        <link href="https://www.youtube.com/watch?v=s2j3_eJeBGM"/>
-        <updated>2023-06-22T09:00:26.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why sea sponges are so expensive. #seasponge #mediterraneansea #spongediving]]></title>
         <id>https://www.youtube.com/watch?v=aogoloumUVs</id>
         <link href="https://www.youtube.com/watch?v=aogoloumUVs"/>
         <updated>2023-06-21T21:53:25.000Z</updated>
         <author>
             <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ever Imagined Holding a Billion Colors in Your Hand?]]></title>
-        <id>https://www.youtube.com/watch?v=m73ZxZjwypQ</id>
-        <link href="https://www.youtube.com/watch?v=m73ZxZjwypQ"/>
-        <updated>2023-06-21T21:00:32.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -318,15 +345,6 @@
         <updated>2023-06-21T14:01:56.000Z</updated>
         <author>
             <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Magical Box Transforms Pet Bath Time!]]></title>
-        <id>https://www.youtube.com/watch?v=jepLRvXHHJo</id>
-        <link href="https://www.youtube.com/watch?v=jepLRvXHHJo"/>
-        <updated>2023-06-21T13:00:36.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -591,28 +609,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Step Inside This Billion Dollar Secret Facility In Arizona]]></title>
-        <id>https://www.youtube.com/watch?v=HxOrMoZJ2Yc</id>
-        <link href="https://www.youtube.com/watch?v=HxOrMoZJ2Yc"/>
-        <updated>2023-06-15T11:00:22.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This is why porcelain is so expensive. #porcelain #ceramics #porcelainart]]></title>
         <id>https://www.youtube.com/watch?v=ZZYcTQei6gU</id>
         <link href="https://www.youtube.com/watch?v=ZZYcTQei6gU"/>
         <updated>2023-06-14T21:18:48.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Food Waste Becomes Fuel | World Wide Waste | Insider Business]]></title>
-        <id>https://www.youtube.com/watch?v=alljc5elqqw</id>
-        <link href="https://www.youtube.com/watch?v=alljc5elqqw"/>
-        <updated>2023-06-14T20:13:17.000Z</updated>
         <author>
             <name>Insider Business</name>
         </author>
@@ -2235,15 +2235,6 @@
         <updated>2023-03-28T14:00:05.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drew McDowall Live at Pioneer Works (Full Set)]]></title>
-        <id>https://www.youtube.com/watch?v=F74YsmI911A</id>
-        <link href="https://www.youtube.com/watch?v=F74YsmI911A"/>
-        <updated>2023-03-27T16:33:13.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
         </author>
     </entry>
 </feed>
