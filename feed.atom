@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-28T00:40:12.557Z</id>
+    <id>urn:2023-06-29T00:40:49.790Z</id>
     <title>osmos::feed</title>
-    <updated>2023-06-28T00:40:12.557Z</updated>
+    <updated>2023-06-29T00:40:49.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tiny Tool, Massive Creations!]]></title>
+        <id>https://www.youtube.com/watch?v=nCGPVO5KXB8</id>
+        <link href="https://www.youtube.com/watch?v=nCGPVO5KXB8"/>
+        <updated>2023-06-28T21:00:32.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How They Fool Ya (live) | Mathematical parody of Hallelujah]]></title>
+        <id>https://www.youtube.com/watch?v=NOCsdhzo6Jg</id>
+        <link href="https://www.youtube.com/watch?v=NOCsdhzo6Jg"/>
+        <updated>2023-06-28T19:17:11.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is why Rolex watches are so popular. #Rolex #watch #accessories]]></title>
+        <id>https://www.youtube.com/watch?v=f1ecrofrSeo</id>
+        <link href="https://www.youtube.com/watch?v=f1ecrofrSeo"/>
+        <updated>2023-06-28T18:43:20.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Health Update - Dianna shows us her PICC line]]></title>
+        <id>https://www.youtube.com/watch?v=uKmmO1KE8ew</id>
+        <link href="https://www.youtube.com/watch?v=uKmmO1KE8ew"/>
+        <updated>2023-06-28T13:00:52.000Z</updated>
+        <author>
+            <name>Physics Girl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiny Titan: More than just a Pen]]></title>
+        <id>https://www.youtube.com/watch?v=7-JR07CeIVI</id>
+        <link href="https://www.youtube.com/watch?v=7-JR07CeIVI"/>
+        <updated>2023-06-28T13:00:05.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INTERRUPTED CUTS | Facing Off 316L Stainless]]></title>
+        <id>https://www.youtube.com/watch?v=u-IPYt9ayRY</id>
+        <link href="https://www.youtube.com/watch?v=u-IPYt9ayRY"/>
+        <updated>2023-06-28T11:00:42.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sleep Headphones]]></title>
+        <id>https://www.youtube.com/watch?v=XhMge3__3w4</id>
+        <link href="https://www.youtube.com/watch?v=XhMge3__3w4"/>
+        <updated>2023-06-28T09:00:28.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Titan Submersible Mystery]]></title>
         <id>https://www.youtube.com/watch?v=mCwHISwR3T4</id>
@@ -24,7 +87,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[X+Y, in probability, is a beautiful mess | Visualizing continuous convolutions]]></title>
+        <title type="html"><![CDATA[Convolutions and adding random variables, visually explained]]></title>
         <id>https://www.youtube.com/watch?v=IaSGqQa5O-M</id>
         <link href="https://www.youtube.com/watch?v=IaSGqQa5O-M"/>
         <updated>2023-06-27T15:08:14.000Z</updated>
@@ -240,15 +303,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ancient Design Secretly Dominates Modern Architecture]]></title>
-        <id>https://www.youtube.com/watch?v=kbrFogjK_ss</id>
-        <link href="https://www.youtube.com/watch?v=kbrFogjK_ss"/>
-        <updated>2023-06-24T18:36:40.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[3D Printing Resistors, Fibers & Coffee - Utility Research Lab]]></title>
         <id>https://www.youtube.com/watch?v=Oeqvo2c28_c</id>
         <link href="https://www.youtube.com/watch?v=Oeqvo2c28_c"/>
@@ -276,30 +330,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Revolutionize Your Chill Time with this AI Wizard]]></title>
-        <id>https://www.youtube.com/watch?v=6zq5v9s-BGA</id>
-        <link href="https://www.youtube.com/watch?v=6zq5v9s-BGA"/>
-        <updated>2023-06-24T13:00:05.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Attempting to 3D Print a MOLD INSERT with a Flawless Finish]]></title>
         <id>https://www.youtube.com/watch?v=lhhMa7EtYh8</id>
         <link href="https://www.youtube.com/watch?v=lhhMa7EtYh8"/>
         <updated>2023-06-24T11:00:37.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where Luxury Meets Sustainability!]]></title>
-        <id>https://www.youtube.com/watch?v=tDPZvuQj8pk</id>
-        <link href="https://www.youtube.com/watch?v=tDPZvuQj8pk"/>
-        <updated>2023-06-24T09:00:36.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -582,30 +618,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MONSTER Cuts - 1000 IPM]]></title>
-        <id>https://www.youtube.com/watch?v=zy6YiCAhvFE</id>
-        <link href="https://www.youtube.com/watch?v=zy6YiCAhvFE"/>
-        <updated>2023-06-17T13:00:34.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DIY METAL DETECTOR, Gone Wrong and Right!!]]></title>
         <id>https://www.youtube.com/watch?v=yzrVHEB02Hw</id>
         <link href="https://www.youtube.com/watch?v=yzrVHEB02Hw"/>
         <updated>2023-06-16T16:00:02.000Z</updated>
         <author>
             <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jasmine sambac costs 10 times more than other jasmine varieties. #jasmine #india #perfume #fragrance]]></title>
-        <id>https://www.youtube.com/watch?v=gQe7i-agV3Q</id>
-        <link href="https://www.youtube.com/watch?v=gQe7i-agV3Q"/>
-        <updated>2023-06-16T15:43:56.000Z</updated>
-        <author>
-            <name>Insider Business</name>
         </author>
     </entry>
     <entry>
@@ -2226,24 +2244,6 @@
         <updated>2023-03-31T13:39:51.000Z</updated>
         <author>
             <name>SmarterEveryDay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cuban Electrical System Shorting]]></title>
-        <id>https://www.youtube.com/watch?v=UFrMcYX6IV4</id>
-        <link href="https://www.youtube.com/watch?v=UFrMcYX6IV4"/>
-        <updated>2023-03-30T16:00:21.000Z</updated>
-        <author>
-            <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Real Analysis: Introduction to Functions]]></title>
-        <id>https://www.youtube.com/watch?v=opCtwhwXeBk</id>
-        <link href="https://www.youtube.com/watch?v=opCtwhwXeBk"/>
-        <updated>2023-03-30T15:00:38.000Z</updated>
-        <author>
-            <name>Faculty of Khan</name>
         </author>
     </entry>
 </feed>
