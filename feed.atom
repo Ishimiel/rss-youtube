@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-04T00:40:58.312Z</id>
+    <id>urn:2023-07-05T00:40:56.579Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-04T00:40:58.312Z</updated>
+    <updated>2023-07-05T00:40:56.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Who Said Robots Can't Climb Walls?]]></title>
+        <id>https://www.youtube.com/watch?v=gVKUM4U1_H8</id>
+        <link href="https://www.youtube.com/watch?v=gVKUM4U1_H8"/>
+        <updated>2023-07-04T21:00:31.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Shot, One Kill: CheyTac M200 Intervention Eliminates ISIS Target at 1.5 Miles!]]></title>
+        <id>https://www.youtube.com/watch?v=euXnYX2Yy6E</id>
+        <link href="https://www.youtube.com/watch?v=euXnYX2Yy6E"/>
+        <updated>2023-07-04T19:00:15.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Art of Precision: A Closer Look at the CheyTac M200 Intervention Sniper Rifle]]></title>
+        <id>https://www.youtube.com/watch?v=KpC1iKLlJs4</id>
+        <link href="https://www.youtube.com/watch?v=KpC1iKLlJs4"/>
+        <updated>2023-07-04T19:00:08.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enjoying the Little Things]]></title>
+        <id>https://www.youtube.com/watch?v=rQXiwrXyIag</id>
+        <link href="https://www.youtube.com/watch?v=rQXiwrXyIag"/>
+        <updated>2023-07-04T18:20:30.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surf's Up Anytime, Anywhere!]]></title>
+        <id>https://www.youtube.com/watch?v=XBaOZXuPHA0</id>
+        <link href="https://www.youtube.com/watch?v=XBaOZXuPHA0"/>
+        <updated>2023-07-04T13:00:31.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNC Machining a Work of Art]]></title>
+        <id>https://www.youtube.com/watch?v=xEYx97LqmPE</id>
+        <link href="https://www.youtube.com/watch?v=xEYx97LqmPE"/>
+        <updated>2023-07-04T11:00:50.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Say Goodbye to Dirt, and Hello to Shine!]]></title>
+        <id>https://www.youtube.com/watch?v=khlElzUOT-M</id>
+        <link href="https://www.youtube.com/watch?v=khlElzUOT-M"/>
+        <updated>2023-07-04T09:00:34.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here's why your iPhone won't charge. #iphone #deepclean #phone]]></title>
+        <id>https://www.youtube.com/watch?v=hS9S-ok4uTk</id>
+        <link href="https://www.youtube.com/watch?v=hS9S-ok4uTk"/>
+        <updated>2023-07-04T01:38:12.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pull a Disappearing Act, No Magic Required!]]></title>
         <id>https://www.youtube.com/watch?v=2GMYobIm_q0</id>
@@ -51,7 +123,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Grinding a Tool for Better Clearance #cnc #titansofcnc #machining #3dprinting #grinding #cncgrinding]]></title>
+        <title type="html"><![CDATA[Grinding a Tool for Better Clearance]]></title>
         <id>https://www.youtube.com/watch?v=TpnRuEjvLOo</id>
         <link href="https://www.youtube.com/watch?v=TpnRuEjvLOo"/>
         <updated>2023-07-03T13:00:31.000Z</updated>
@@ -141,7 +213,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Putting 12xD Drilling to the Test #cnc #titansofcnc #machining #3dprinting #machineshop #shorts #fyp]]></title>
+        <title type="html"><![CDATA[Putting 12xD Drilling to the Test]]></title>
         <id>https://www.youtube.com/watch?v=FlXqkL3Dy5o</id>
         <link href="https://www.youtube.com/watch?v=FlXqkL3Dy5o"/>
         <updated>2023-07-02T11:00:18.000Z</updated>
@@ -195,15 +267,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why China's Weather Manipulation is a Matter of Global Concern]]></title>
-        <id>https://www.youtube.com/watch?v=NaGSMZnGwk4</id>
-        <link href="https://www.youtube.com/watch?v=NaGSMZnGwk4"/>
-        <updated>2023-07-01T19:00:08.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Most Misunderstood Concept in Physics]]></title>
         <id>https://www.youtube.com/watch?v=DxL2HoqLbyA</id>
         <link href="https://www.youtube.com/watch?v=DxL2HoqLbyA"/>
@@ -222,16 +285,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When Tech Meets Party]]></title>
-        <id>https://www.youtube.com/watch?v=JDN5kp-vqOw</id>
-        <link href="https://www.youtube.com/watch?v=JDN5kp-vqOw"/>
-        <updated>2023-07-01T13:00:26.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Satisfying Raw Swiss Machining #cnc #titansofcnc #machining #swissmachine #swiss #3dprinting #shorts]]></title>
+        <title type="html"><![CDATA[Satisfying Raw Swiss Machining]]></title>
         <id>https://www.youtube.com/watch?v=7ubNqhBkU9k</id>
         <link href="https://www.youtube.com/watch?v=7ubNqhBkU9k"/>
         <updated>2023-07-01T13:00:09.000Z</updated>
@@ -240,21 +294,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALL Have FAILED to Build a TRULY GREAT CNC MACHINE SHOP]]></title>
+        <title type="html"><![CDATA[SECRET to Building a CNC Machine Shop That Makes MONEY]]></title>
         <id>https://www.youtube.com/watch?v=y7HSNmKysjI</id>
         <link href="https://www.youtube.com/watch?v=y7HSNmKysjI"/>
         <updated>2023-07-01T11:00:45.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No More Sore Arms!]]></title>
-        <id>https://www.youtube.com/watch?v=Cp7Ep-TNpnI</id>
-        <link href="https://www.youtube.com/watch?v=Cp7Ep-TNpnI"/>
-        <updated>2023-07-01T09:00:08.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -264,15 +309,6 @@
         <updated>2023-06-30T22:00:11.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Freedom is One Ride Away!]]></title>
-        <id>https://www.youtube.com/watch?v=1jEM7zrrepA</id>
-        <link href="https://www.youtube.com/watch?v=1jEM7zrrepA"/>
-        <updated>2023-06-30T21:00:01.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -348,15 +384,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[China's Secretive Power: Controlling the Weather]]></title>
-        <id>https://www.youtube.com/watch?v=ZVLIEIpWQ2k</id>
-        <link href="https://www.youtube.com/watch?v=ZVLIEIpWQ2k"/>
-        <updated>2023-06-30T13:26:45.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Check out the HACKSMITH Campus in Canada!]]></title>
         <id>https://www.youtube.com/watch?v=c0nQSmwBNCc</id>
         <link href="https://www.youtube.com/watch?v=c0nQSmwBNCc"/>
@@ -366,7 +393,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Perfect Finish on a 3D Printed Part? #cnc #titansofcnc #machining #3dprinting #robotics #shorts #fyp]]></title>
+        <title type="html"><![CDATA[Perfect Finish on a 3D Printed Part?]]></title>
         <id>https://www.youtube.com/watch?v=-0A7zrOGMKQ</id>
         <link href="https://www.youtube.com/watch?v=-0A7zrOGMKQ"/>
         <updated>2023-06-30T11:00:00.000Z</updated>
@@ -546,7 +573,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Convolutions and adding random variables, visually explained]]></title>
+        <title type="html"><![CDATA[Convolutions | Why X+Y in probability is a beautiful mess]]></title>
         <id>https://www.youtube.com/watch?v=IaSGqQa5O-M</id>
         <link href="https://www.youtube.com/watch?v=IaSGqQa5O-M"/>
         <updated>2023-06-27T15:08:14.000Z</updated>
@@ -564,7 +591,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Queuing theory and Poisson process]]></title>
+        <title type="html"><![CDATA[How can we model queues? | Poisson process, M/M/1 queue]]></title>
         <id>https://www.youtube.com/watch?v=rBIQmwaoZfs</id>
         <link href="https://www.youtube.com/watch?v=rBIQmwaoZfs"/>
         <updated>2023-06-27T14:00:28.000Z</updated>
@@ -654,15 +681,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How One Giant Meat Warehouse Supplies Shake Shack And Top Steakhouses | Big Business]]></title>
-        <id>https://www.youtube.com/watch?v=w6V7CILdVJM</id>
-        <link href="https://www.youtube.com/watch?v=w6V7CILdVJM"/>
-        <updated>2023-06-25T15:00:42.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Chaos Unleashed: Epic CNC Machine Crashes]]></title>
         <id>https://www.youtube.com/watch?v=XXMXhWc8pAE</id>
         <link href="https://www.youtube.com/watch?v=XXMXhWc8pAE"/>
@@ -685,15 +703,6 @@
         <id>https://www.youtube.com/watch?v=yR9YFhoScb4</id>
         <link href="https://www.youtube.com/watch?v=yR9YFhoScb4"/>
         <updated>2023-06-24T13:00:44.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attempting to 3D Print a MOLD INSERT with a Flawless Finish]]></title>
-        <id>https://www.youtube.com/watch?v=lhhMa7EtYh8</id>
-        <link href="https://www.youtube.com/watch?v=lhhMa7EtYh8"/>
-        <updated>2023-06-24T11:00:37.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
         </author>
@@ -1995,15 +2004,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Divorced Transfer Case - Part 3 - NP205 - First Test]]></title>
-        <id>https://www.youtube.com/watch?v=AEV_Pi6gRUs</id>
-        <link href="https://www.youtube.com/watch?v=AEV_Pi6gRUs"/>
-        <updated>2023-04-23T13:59:11.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Insane Engineering of the M1 Abrams]]></title>
         <id>https://www.youtube.com/watch?v=NR5pWBy-6Fk</id>
         <link href="https://www.youtube.com/watch?v=NR5pWBy-6Fk"/>
@@ -2271,15 +2271,6 @@
         <updated>2023-04-06T19:53:27.000Z</updated>
         <author>
             <name>NinjaCakeAssassin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How expensive is the rarest material in the universe?]]></title>
-        <id>https://www.youtube.com/watch?v=26eFtG4pacI</id>
-        <link href="https://www.youtube.com/watch?v=26eFtG4pacI"/>
-        <updated>2023-04-05T18:22:04.000Z</updated>
-        <author>
-            <name>Physics Girl</name>
         </author>
     </entry>
 </feed>

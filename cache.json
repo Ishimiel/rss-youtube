@@ -102,7 +102,7 @@
           "link": "https://www.youtube.com/watch?v=IaSGqQa5O-M",
           "publishedOn": "2023-06-27T15:08:14.000Z",
           "wordCount": null,
-          "title": "Convolutions and adding random variables, visually explained",
+          "title": "Convolutions | Why X+Y in probability is a beautiful mess",
           "imageUrl": null
         }
       ]
@@ -119,7 +119,7 @@
           "link": "https://www.youtube.com/watch?v=rBIQmwaoZfs",
           "publishedOn": "2023-06-27T14:00:28.000Z",
           "wordCount": null,
-          "title": "Queuing theory and Poisson process",
+          "title": "How can we model queues? | Poisson process, M/M/1 queue",
           "imageUrl": null
         },
         {
@@ -1126,6 +1126,56 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gVKUM4U1_H8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gVKUM4U1_H8",
+          "publishedOn": "2023-07-04T21:00:31.000Z",
+          "wordCount": null,
+          "title": "Who Said Robots Can't Climb Walls?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=euXnYX2Yy6E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=euXnYX2Yy6E",
+          "publishedOn": "2023-07-04T19:00:15.000Z",
+          "wordCount": null,
+          "title": "One Shot, One Kill: CheyTac M200 Intervention Eliminates ISIS Target at 1.5 Miles!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=KpC1iKLlJs4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KpC1iKLlJs4",
+          "publishedOn": "2023-07-04T19:00:08.000Z",
+          "wordCount": null,
+          "title": "The Art of Precision: A Closer Look at the CheyTac M200 Intervention Sniper Rifle",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=XBaOZXuPHA0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XBaOZXuPHA0",
+          "publishedOn": "2023-07-04T13:00:31.000Z",
+          "wordCount": null,
+          "title": "Surf's Up Anytime, Anywhere!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=khlElzUOT-M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=khlElzUOT-M",
+          "publishedOn": "2023-07-04T09:00:34.000Z",
+          "wordCount": null,
+          "title": "Say Goodbye to Dirt, and Hello to Shine!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2GMYobIm_q0",
           "author": null,
           "description": "",
@@ -1223,56 +1273,6 @@
           "publishedOn": "2023-07-01T21:00:06.000Z",
           "wordCount": null,
           "title": "A Harmony of Tech",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NaGSMZnGwk4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NaGSMZnGwk4",
-          "publishedOn": "2023-07-01T19:00:08.000Z",
-          "wordCount": null,
-          "title": "Why China's Weather Manipulation is a Matter of Global Concern",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JDN5kp-vqOw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JDN5kp-vqOw",
-          "publishedOn": "2023-07-01T13:00:26.000Z",
-          "wordCount": null,
-          "title": "When Tech Meets Party",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Cp7Ep-TNpnI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Cp7Ep-TNpnI",
-          "publishedOn": "2023-07-01T09:00:08.000Z",
-          "wordCount": null,
-          "title": "No More Sore Arms!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1jEM7zrrepA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1jEM7zrrepA",
-          "publishedOn": "2023-06-30T21:00:01.000Z",
-          "wordCount": null,
-          "title": "Freedom is One Ride Away!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZVLIEIpWQ2k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZVLIEIpWQ2k",
-          "publishedOn": "2023-06-30T13:26:45.000Z",
-          "wordCount": null,
-          "title": "China's Secretive Power: Controlling the Weather",
           "imageUrl": null
         }
       ]
@@ -1565,16 +1565,6 @@
           "wordCount": null,
           "title": "Dianna's road to recovery",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=26eFtG4pacI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=26eFtG4pacI",
-          "publishedOn": "2023-04-05T18:22:04.000Z",
-          "wordCount": null,
-          "title": "How expensive is the rarest material in the universe?",
-          "imageUrl": null
         }
       ]
     },
@@ -1640,6 +1630,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj_XaV1ss-qdD-lPUtTEcXw",
       "siteUrl": "https://www.youtube.com/channel/UCj_XaV1ss-qdD-lPUtTEcXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=rQXiwrXyIag",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rQXiwrXyIag",
+          "publishedOn": "2023-07-04T18:20:30.000Z",
+          "wordCount": null,
+          "title": "Enjoying the Little Things",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=SWBPeg4ijaI",
           "author": null,
@@ -1778,16 +1778,6 @@
           "publishedOn": "2023-04-27T19:06:49.000Z",
           "wordCount": null,
           "title": "Divorced Transfer Case - Part 4 - Test Run",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AEV_Pi6gRUs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AEV_Pi6gRUs",
-          "publishedOn": "2023-04-23T13:59:11.000Z",
-          "wordCount": null,
-          "title": "Divorced Transfer Case - Part 3 - NP205 - First Test",
           "imageUrl": null
         }
       ]
@@ -2227,13 +2217,23 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=xEYx97LqmPE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xEYx97LqmPE",
+          "publishedOn": "2023-07-04T11:00:50.000Z",
+          "wordCount": null,
+          "title": "CNC Machining a Work of Art",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=TpnRuEjvLOo",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=TpnRuEjvLOo",
           "publishedOn": "2023-07-03T13:00:31.000Z",
           "wordCount": null,
-          "title": "Grinding a Tool for Better Clearance #cnc #titansofcnc #machining #3dprinting #grinding #cncgrinding",
+          "title": "Grinding a Tool for Better Clearance",
           "imageUrl": null
         },
         {
@@ -2253,7 +2253,7 @@
           "link": "https://www.youtube.com/watch?v=FlXqkL3Dy5o",
           "publishedOn": "2023-07-02T11:00:18.000Z",
           "wordCount": null,
-          "title": "Putting 12xD Drilling to the Test #cnc #titansofcnc #machining #3dprinting #machineshop #shorts #fyp",
+          "title": "Putting 12xD Drilling to the Test",
           "imageUrl": null
         },
         {
@@ -2263,7 +2263,7 @@
           "link": "https://www.youtube.com/watch?v=7ubNqhBkU9k",
           "publishedOn": "2023-07-01T13:00:09.000Z",
           "wordCount": null,
-          "title": "Satisfying Raw Swiss Machining #cnc #titansofcnc #machining #swissmachine #swiss #3dprinting #shorts",
+          "title": "Satisfying Raw Swiss Machining",
           "imageUrl": null
         },
         {
@@ -2273,7 +2273,7 @@
           "link": "https://www.youtube.com/watch?v=y7HSNmKysjI",
           "publishedOn": "2023-07-01T11:00:45.000Z",
           "wordCount": null,
-          "title": "ALL Have FAILED to Build a TRULY GREAT CNC MACHINE SHOP",
+          "title": "SECRET to Building a CNC Machine Shop That Makes MONEY",
           "imageUrl": null
         },
         {
@@ -2283,7 +2283,7 @@
           "link": "https://www.youtube.com/watch?v=-0A7zrOGMKQ",
           "publishedOn": "2023-06-30T11:00:00.000Z",
           "wordCount": null,
-          "title": "Perfect Finish on a 3D Printed Part? #cnc #titansofcnc #machining #3dprinting #robotics #shorts #fyp",
+          "title": "Perfect Finish on a 3D Printed Part?",
           "imageUrl": null
         },
         {
@@ -2365,16 +2365,6 @@
           "wordCount": null,
           "title": "Monster Cuts on the NHM6300 by DN Solutions",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lhhMa7EtYh8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lhhMa7EtYh8",
-          "publishedOn": "2023-06-24T11:00:37.000Z",
-          "wordCount": null,
-          "title": "Attempting to 3D Print a MOLD INSERT with a Flawless Finish",
-          "imageUrl": null
         }
       ]
     },
@@ -2383,6 +2373,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=hS9S-ok4uTk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hS9S-ok4uTk",
+          "publishedOn": "2023-07-04T01:38:12.000Z",
+          "wordCount": null,
+          "title": "Here's why your iPhone won't charge. #iphone #deepclean #phone",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=vpByPldCKzs",
           "author": null,
@@ -2521,16 +2521,6 @@
           "publishedOn": "2023-06-26T13:57:34.000Z",
           "wordCount": null,
           "title": "This is what it sounds like to deep clean and reline pipes. #asmr #asmrsounds #pipecleaning",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=w6V7CILdVJM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=w6V7CILdVJM",
-          "publishedOn": "2023-06-25T15:00:42.000Z",
-          "wordCount": null,
-          "title": "How One Giant Meat Warehouse Supplies Shake Shack And Top Steakhouses | Big Business",
           "imageUrl": null
         }
       ]
