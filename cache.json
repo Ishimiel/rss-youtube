@@ -82,7 +82,7 @@
           "link": "https://www.youtube.com/watch?v=YtkIWDE36qU",
           "publishedOn": "2023-07-02T04:41:01.000Z",
           "wordCount": null,
-          "title": "The absurd circle division pattern explained | Moser's circle problem",
+          "title": "The absurd circle division pattern (updated) | Moser's circle problem",
           "imageUrl": null
         },
         {
@@ -113,13 +113,23 @@
       "siteUrl": "https://www.youtube.com/channel/UCrlZs71h3mTR45FgQNINfrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=u1taDXNzFto",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=u1taDXNzFto",
+          "publishedOn": "2023-07-05T14:00:37.000Z",
+          "wordCount": null,
+          "title": "How many terms do we need in the exp series?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rBIQmwaoZfs",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=rBIQmwaoZfs",
           "publishedOn": "2023-06-27T14:00:28.000Z",
           "wordCount": null,
-          "title": "How can we model queues? | Poisson process, M/M/1 queue",
+          "title": "Queuing theory and Poisson process",
           "imageUrl": null
         },
         {
@@ -424,16 +434,6 @@
           "publishedOn": "2023-04-09T17:52:56.000Z",
           "wordCount": null,
           "title": "Complex analysis 101: imaginary numbers are real!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RYAHvV0JJaI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RYAHvV0JJaI",
-          "publishedOn": "2023-04-07T10:00:17.000Z",
-          "wordCount": null,
-          "title": "Complex Analysis L11: Examples of Cauchy-Integral Formula",
           "imageUrl": null
         }
       ]
@@ -993,6 +993,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=rIE-a2de7Gg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rIE-a2de7Gg",
+          "publishedOn": "2023-07-05T22:45:30.000Z",
+          "wordCount": null,
+          "title": "Watch the LAST Ariane 5 rocket launch ever!!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=AgqZMK22LEk",
           "author": null,
           "description": "",
@@ -1126,6 +1136,66 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=b1MqWYwRE2M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=b1MqWYwRE2M",
+          "publishedOn": "2023-07-05T21:20:01.000Z",
+          "wordCount": null,
+          "title": "Why is the M982 Excalibur Round a Game Changer in Ukraine?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=mABiWLC1yV4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mABiWLC1yV4",
+          "publishedOn": "2023-07-05T21:00:22.000Z",
+          "wordCount": null,
+          "title": "270 Miles on a Single Charge? Yes, Please!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=oGANNupjHl0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oGANNupjHl0",
+          "publishedOn": "2023-07-05T19:00:32.000Z",
+          "wordCount": null,
+          "title": "How Precision of the M982 Excalibur Alters the Ukraine War",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=GDtN6QSGfI8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GDtN6QSGfI8",
+          "publishedOn": "2023-07-05T14:47:48.000Z",
+          "wordCount": null,
+          "title": "Check Out This Crazy New Stab Vest | Weekly Dose of Engineering",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9mr47nIdbZQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9mr47nIdbZQ",
+          "publishedOn": "2023-07-05T13:00:11.000Z",
+          "wordCount": null,
+          "title": "Your Next Big Adventure Awaits!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Xl61q2DJXFE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Xl61q2DJXFE",
+          "publishedOn": "2023-07-05T09:00:30.000Z",
+          "wordCount": null,
+          "title": "Clean Car, Full Battery, Can't Lose!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=gVKUM4U1_H8",
           "author": null,
           "description": "",
@@ -1213,66 +1283,6 @@
           "publishedOn": "2023-07-03T09:00:11.000Z",
           "wordCount": null,
           "title": "Playtime Just Got a Yummy Upgrade!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=214PI37W-Do",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=214PI37W-Do",
-          "publishedOn": "2023-07-02T21:00:01.000Z",
-          "wordCount": null,
-          "title": "Refueling Your Car Just Got a Makeover",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0LWOVHph90I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0LWOVHph90I",
-          "publishedOn": "2023-07-02T19:00:00.000Z",
-          "wordCount": null,
-          "title": "The Reality of Nikola Tesla",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lgPM-J4PibI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lgPM-J4PibI",
-          "publishedOn": "2023-07-02T13:00:36.000Z",
-          "wordCount": null,
-          "title": "Blinking Lights or Buzzing Bots? You Decide!\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kO0ZHNJBkhU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kO0ZHNJBkhU",
-          "publishedOn": "2023-07-02T09:58:02.000Z",
-          "wordCount": null,
-          "title": "Overhyped or Underrated? The Untold Story of Nikola Tesla",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hEZUZZLX1Mg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hEZUZZLX1Mg",
-          "publishedOn": "2023-07-02T09:00:32.000Z",
-          "wordCount": null,
-          "title": "From Ordinary to Extraordinary",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JBI1SzUOLBM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JBI1SzUOLBM",
-          "publishedOn": "2023-07-01T21:00:06.000Z",
-          "wordCount": null,
-          "title": "A Harmony of Tech",
           "imageUrl": null
         }
       ]
@@ -1631,6 +1641,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCj_XaV1ss-qdD-lPUtTEcXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gFdhX99CJbw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gFdhX99CJbw",
+          "publishedOn": "2023-07-05T20:46:52.000Z",
+          "wordCount": null,
+          "title": "Test Run",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rQXiwrXyIag",
           "author": null,
           "description": "",
@@ -1768,16 +1788,6 @@
           "publishedOn": "2023-05-16T16:50:45.000Z",
           "wordCount": null,
           "title": "4x4 a Boat #Shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HQNFLPTJ8gU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HQNFLPTJ8gU",
-          "publishedOn": "2023-04-27T19:06:49.000Z",
-          "wordCount": null,
-          "title": "Divorced Transfer Case - Part 4 - Test Run",
           "imageUrl": null
         }
       ]
@@ -2217,6 +2227,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ExuzCybov6c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ExuzCybov6c",
+          "publishedOn": "2023-07-05T11:00:08.000Z",
+          "wordCount": null,
+          "title": "What a Million $$$ CNC Machine Looks Like",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xEYx97LqmPE",
           "author": null,
           "description": "",
@@ -2355,16 +2375,6 @@
           "wordCount": null,
           "title": "Chaos Unleashed: Epic CNC Machine Crashes",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yR9YFhoScb4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yR9YFhoScb4",
-          "publishedOn": "2023-06-24T13:00:44.000Z",
-          "wordCount": null,
-          "title": "Monster Cuts on the NHM6300 by DN Solutions",
-          "imageUrl": null
         }
       ]
     },
@@ -2373,6 +2383,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=NP7tKlGhrxA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NP7tKlGhrxA",
+          "publishedOn": "2023-07-05T19:01:22.000Z",
+          "wordCount": null,
+          "title": "This is how the Moulin Rouge has survived for over a century. #MoulinRouge #France #StillStanding",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Bltzn3B1Ya8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Bltzn3B1Ya8",
+          "publishedOn": "2023-07-05T17:08:30.000Z",
+          "wordCount": null,
+          "title": "Have you ever wondered why asphalt is everywhere? #urban #construction #recycling",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=hS9S-ok4uTk",
           "author": null,
@@ -2450,7 +2480,7 @@
           "link": "https://www.youtube.com/watch?v=fYFkDnN8IIo",
           "publishedOn": "2023-06-29T22:56:05.000Z",
           "wordCount": null,
-          "title": "How Beauty Waste Is Recycled Into Furniture | World Wide Waste | Insider Business",
+          "title": "Cosmetics Packaging Is A Recycling Disaster. Can Turning It Into Furniture Help? | World Wide Waste",
           "imageUrl": null
         },
         {
@@ -2502,26 +2532,6 @@
           "wordCount": null,
           "title": "Here's how an $800 #LouisVuitton wallet is restored. #Restoration #Craftsmanship",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JWrxcoXWDF0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JWrxcoXWDF0",
-          "publishedOn": "2023-06-26T15:19:32.000Z",
-          "wordCount": null,
-          "title": "Once a pitaya is picked, time is of the essence. #Dragonfruit #Fruit #Foodie",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2_lRl0qNfWI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2_lRl0qNfWI",
-          "publishedOn": "2023-06-26T13:57:34.000Z",
-          "wordCount": null,
-          "title": "This is what it sounds like to deep clean and reline pipes. #asmr #asmrsounds #pipecleaning",
-          "imageUrl": null
         }
       ]
     },
@@ -2548,16 +2558,6 @@
           "publishedOn": "2023-05-16T23:00:45.000Z",
           "wordCount": null,
           "title": "Γκεκ - Ράγκναρωκ",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ds1w43lx2kY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ds1w43lx2kY",
-          "publishedOn": "2023-04-06T19:53:27.000Z",
-          "wordCount": null,
-          "title": "Νεαρός Έλληνας γνωρίζει Αθηναίο",
           "imageUrl": null
         }
       ]
