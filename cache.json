@@ -477,6 +477,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qUKssfl-qoc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qUKssfl-qoc",
+          "publishedOn": "2023-07-07T13:48:03.000Z",
+          "wordCount": null,
+          "title": "Merve Emre, Sigrid Nunez, and Doreen St. Felix on Susan Sontag Now",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=R1QCgMb-VsI",
           "author": null,
           "description": "",
@@ -574,6 +584,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=OcWEYDddJ7Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OcWEYDddJ7Q",
+          "publishedOn": "2023-07-07T22:00:10.000Z",
+          "wordCount": null,
+          "title": "Revealing the Cosmos: A Startling New View from the James Webb Space Telescope",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cm8OHGvl4Oc",
           "author": null,
           "description": "",
@@ -620,6 +640,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_7aK9PpYTqt08ERh1MewlQ",
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=WVLxq7MU5ZA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WVLxq7MU5ZA",
+          "publishedOn": "2023-07-07T13:00:26.000Z",
+          "wordCount": null,
+          "title": "MASSIVE! The Snapmaker Artisan is HUGE",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=c0nQSmwBNCc",
           "author": null,
@@ -759,16 +789,6 @@
           "wordCount": null,
           "title": "LIVE REPLAY: Anycubic Kobra 2 LIVE! Unboxing & First Print!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=S8tkvm7y0jk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=S8tkvm7y0jk",
-          "publishedOn": "2023-05-12T13:00:19.000Z",
-          "wordCount": null,
-          "title": "HOW TO Install Hydra Mod on Bambu AMS",
-          "imageUrl": null
         }
       ]
     },
@@ -835,16 +855,6 @@
           "publishedOn": "2023-05-03T01:42:10.000Z",
           "wordCount": null,
           "title": "Tour bus quintuplets (with @ShubhSaran)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_JS18q0FNCA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_JS18q0FNCA",
-          "publishedOn": "2023-05-02T01:58:28.000Z",
-          "wordCount": null,
-          "title": "9/8 Tour Bus Workout 🏋️‍♀️",
           "imageUrl": null
         },
         {
@@ -1156,6 +1166,56 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=sJ6V1VD_CIg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sJ6V1VD_CIg",
+          "publishedOn": "2023-07-07T21:00:24.000Z",
+          "wordCount": null,
+          "title": "Broken Bone? No Problem, Keep Going!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=pKpQJlO4-6k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pKpQJlO4-6k",
+          "publishedOn": "2023-07-07T19:00:22.000Z",
+          "wordCount": null,
+          "title": "Could AI be Our Next Therapist?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TFifIwj3mKA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TFifIwj3mKA",
+          "publishedOn": "2023-07-07T19:00:14.000Z",
+          "wordCount": null,
+          "title": "Believe It or Not, AI Could be Your Next Grief Counselor!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=PSnsSaAnooY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PSnsSaAnooY",
+          "publishedOn": "2023-07-07T13:00:20.000Z",
+          "wordCount": null,
+          "title": "Don't Just Exist, Thrive with Confidence!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Eyl1If5hMjQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Eyl1If5hMjQ",
+          "publishedOn": "2023-07-07T09:00:19.000Z",
+          "wordCount": null,
+          "title": "Robotic Swarm Brings Sci-Fi to Life",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=epr4IFfHXmo",
           "author": null,
           "description": "",
@@ -1252,57 +1312,7 @@
           "link": "https://www.youtube.com/watch?v=GDtN6QSGfI8",
           "publishedOn": "2023-07-05T14:47:48.000Z",
           "wordCount": null,
-          "title": "Check Out This Crazy New Stab Vest | Weekly Dose of Engineering",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9mr47nIdbZQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9mr47nIdbZQ",
-          "publishedOn": "2023-07-05T13:00:11.000Z",
-          "wordCount": null,
-          "title": "Your Next Big Adventure Awaits!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Xl61q2DJXFE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Xl61q2DJXFE",
-          "publishedOn": "2023-07-05T09:00:30.000Z",
-          "wordCount": null,
-          "title": "Clean Car, Full Battery, Can't Lose!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gVKUM4U1_H8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gVKUM4U1_H8",
-          "publishedOn": "2023-07-04T21:00:31.000Z",
-          "wordCount": null,
-          "title": "Who Said Robots Can't Climb Walls?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=euXnYX2Yy6E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=euXnYX2Yy6E",
-          "publishedOn": "2023-07-04T19:00:15.000Z",
-          "wordCount": null,
-          "title": "One Shot, One Kill: CheyTac M200 Intervention Eliminates ISIS Target at 1.5 Miles!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KpC1iKLlJs4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KpC1iKLlJs4",
-          "publishedOn": "2023-07-04T19:00:08.000Z",
-          "wordCount": null,
-          "title": "The Art of Precision: A Closer Look at the CheyTac M200 Intervention Sniper Rifle",
+          "title": "The Crazy New Stab Vest | Weekly Dose of Engineering",
           "imageUrl": null
         }
       ]
@@ -1919,6 +1929,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lfkjm2YRG-Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lfkjm2YRG-Q",
+          "publishedOn": "2023-07-07T17:43:14.000Z",
+          "wordCount": null,
+          "title": "We made an epic fireworks display to explain every aspect of fireworks",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DxL2HoqLbyA",
           "author": null,
           "description": "",
@@ -2247,6 +2267,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=n_7Nv03AZQ0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=n_7Nv03AZQ0",
+          "publishedOn": "2023-07-07T11:00:47.000Z",
+          "wordCount": null,
+          "title": "Indestructible Zombie Mill🤯 #titansofcnc #machining #cnc #engineering #3dprinting #shorts #fyp",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=NBiXHgyKkrc",
           "author": null,
           "description": "",
@@ -2385,16 +2415,6 @@
           "wordCount": null,
           "title": "Complex 5 Axis Part Holding On By a Thread",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=edRyg21lQfE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=edRyg21lQfE",
-          "publishedOn": "2023-06-27T11:00:35.000Z",
-          "wordCount": null,
-          "title": "Is a $1,000,000 CNC Machine Really Worth It?",
-          "imageUrl": null
         }
       ]
     },
@@ -2403,6 +2423,36 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=iBsADf8CxJQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iBsADf8CxJQ",
+          "publishedOn": "2023-07-07T18:52:07.000Z",
+          "wordCount": null,
+          "title": "This is why Manoomin wild rice is so expensive. #Manoomin #Rice #SoExpensive",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=RKl8yNguYho",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RKl8yNguYho",
+          "publishedOn": "2023-07-07T15:00:29.000Z",
+          "wordCount": null,
+          "title": "The process behind harvesting muga silk is time- and labor-intensive. #Silk #India #Caterpillars",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=CR28G17eNbg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CR28G17eNbg",
+          "publishedOn": "2023-07-07T15:00:11.000Z",
+          "wordCount": null,
+          "title": "How The Oldest Crystal Factory In France Makes $13,000 Paperweights | Insider Business",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=-3LoJmDgnv8",
           "author": null,
@@ -2522,36 +2572,6 @@
           "wordCount": null,
           "title": "Cosmetics Packaging Is A Recycling Disaster. Can Turning It Into Furniture Help? | World Wide Waste",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cgnMNzvYqkk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cgnMNzvYqkk",
-          "publishedOn": "2023-06-29T16:00:22.000Z",
-          "wordCount": null,
-          "title": "How West Point Makes Over 13,000 Meals A Day For Army Cadets | Boot Camp | Insider Business",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mlZ8LKX2zoQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mlZ8LKX2zoQ",
-          "publishedOn": "2023-06-29T15:54:06.000Z",
-          "wordCount": null,
-          "title": "Demand for Rolex parts and watches has skyrocketed since 2017. #Rolex #Watches #LuxuryBrand",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=f1ecrofrSeo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=f1ecrofrSeo",
-          "publishedOn": "2023-06-28T18:43:20.000Z",
-          "wordCount": null,
-          "title": "This is why Rolex watches are so popular. #Rolex #watch #accessories",
-          "imageUrl": null
         }
       ]
     },
@@ -2560,6 +2580,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUJexeVabymyw7G-rxdjUDw",
       "siteUrl": "https://www.youtube.com/channel/UCUJexeVabymyw7G-rxdjUDw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=5luf9FKvDRs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5luf9FKvDRs",
+          "publishedOn": "2023-07-07T20:07:33.000Z",
+          "wordCount": null,
+          "title": "Γκέκσιν Ίμπακτ",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Mp8qaN73rs8",
           "author": null,
