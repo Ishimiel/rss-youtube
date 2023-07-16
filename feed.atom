@@ -1,12 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-15T00:39:49.221Z</id>
+    <id>urn:2023-07-16T00:45:53.858Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-15T00:39:49.221Z</updated>
+    <updated>2023-07-16T00:45:53.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Can You Find Every Thing That Begins With J?]]></title>
+        <title type="html"><![CDATA[117-Year old Steam Boat Engine]]></title>
+        <id>https://www.youtube.com/watch?v=ZehELoc3c9I</id>
+        <link href="https://www.youtube.com/watch?v=ZehELoc3c9I"/>
+        <updated>2023-07-15T21:00:16.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is How “Joan is Awful” is Possible]]></title>
+        <id>https://www.youtube.com/watch?v=PB2QrAs0Oic</id>
+        <link href="https://www.youtube.com/watch?v=PB2QrAs0Oic"/>
+        <updated>2023-07-15T19:00:09.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Was Black Mirror Right About Quantum Computers?]]></title>
+        <id>https://www.youtube.com/watch?v=1s2eQvS0hxs</id>
+        <link href="https://www.youtube.com/watch?v=1s2eQvS0hxs"/>
+        <updated>2023-07-15T19:00:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Professional Hair Scissors Are So Expensive | So Expensive | Insider Business]]></title>
+        <id>https://www.youtube.com/watch?v=vZaBeKdc4cs</id>
+        <link href="https://www.youtube.com/watch?v=vZaBeKdc4cs"/>
+        <updated>2023-07-15T15:00:46.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Greatest Machinist Stones Available]]></title>
+        <id>https://www.youtube.com/watch?v=ICSSJh4LU4Q</id>
+        <link href="https://www.youtube.com/watch?v=ICSSJh4LU4Q"/>
+        <updated>2023-07-15T13:00:11.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India's Lunar Mission Spacecraft]]></title>
+        <id>https://www.youtube.com/watch?v=63gpJHzmhTM</id>
+        <link href="https://www.youtube.com/watch?v=63gpJHzmhTM"/>
+        <updated>2023-07-15T13:00:04.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Manager Knows NOTHING About CNC Machining]]></title>
+        <id>https://www.youtube.com/watch?v=nYWhokfIYNQ</id>
+        <link href="https://www.youtube.com/watch?v=nYWhokfIYNQ"/>
+        <updated>2023-07-15T11:00:39.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cleaning Vines Easily]]></title>
+        <id>https://www.youtube.com/watch?v=E5XSMF1QIEw</id>
+        <link href="https://www.youtube.com/watch?v=E5XSMF1QIEw"/>
+        <updated>2023-07-15T09:00:17.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ultimate Alphabet]]></title>
         <id>https://www.youtube.com/watch?v=xkGjfoQg63Y</id>
         <link href="https://www.youtube.com/watch?v=xkGjfoQg63Y"/>
         <updated>2023-07-14T23:56:11.000Z</updated>
@@ -186,39 +258,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[High quality cuts]]></title>
-        <id>https://www.youtube.com/watch?v=c2OV7LJmeKs</id>
-        <link href="https://www.youtube.com/watch?v=c2OV7LJmeKs"/>
-        <updated>2023-07-12T21:00:27.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The world of globe-making is a billion-dollar industry - take a look inside.]]></title>
         <id>https://www.youtube.com/watch?v=DhT88BQVJec</id>
         <link href="https://www.youtube.com/watch?v=DhT88BQVJec"/>
         <updated>2023-07-12T20:10:23.000Z</updated>
         <author>
             <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accuracy Meets Power: The PzH 2000 Howitzer in Action]]></title>
-        <id>https://www.youtube.com/watch?v=PnKaUzNeDd0</id>
-        <link href="https://www.youtube.com/watch?v=PnKaUzNeDd0"/>
-        <updated>2023-07-12T19:00:17.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How PzH 2000 Destroys Russian Targets]]></title>
-        <id>https://www.youtube.com/watch?v=Bkp7Bh9M4KE</id>
-        <link href="https://www.youtube.com/watch?v=Bkp7Bh9M4KE"/>
-        <updated>2023-07-12T19:00:10.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -240,30 +285,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Real-Life Jetpack Experience]]></title>
-        <id>https://www.youtube.com/watch?v=QO0SjEM8k9I</id>
-        <link href="https://www.youtube.com/watch?v=QO0SjEM8k9I"/>
-        <updated>2023-07-12T13:00:30.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pushing the Limits - 90% STEP OVER]]></title>
         <id>https://www.youtube.com/watch?v=tE7Fy57GWCM</id>
         <link href="https://www.youtube.com/watch?v=tE7Fy57GWCM"/>
         <updated>2023-07-12T11:00:41.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Innovative Cutter]]></title>
-        <id>https://www.youtube.com/watch?v=IpnMqym8wQI</id>
-        <link href="https://www.youtube.com/watch?v=IpnMqym8wQI"/>
-        <updated>2023-07-12T09:00:21.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -312,7 +339,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[So why is the "central limit" a normal distribution?]]></title>
+        <title type="html"><![CDATA[Why is the "central limit" a normal distribution?]]></title>
         <id>https://www.youtube.com/watch?v=d_qvLDhkg00</id>
         <link href="https://www.youtube.com/watch?v=d_qvLDhkg00"/>
         <updated>2023-07-11T15:53:09.000Z</updated>
@@ -618,15 +645,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This is how the Moulin Rouge has survived for over a century. #MoulinRouge #France #StillStanding]]></title>
-        <id>https://www.youtube.com/watch?v=NP7tKlGhrxA</id>
-        <link href="https://www.youtube.com/watch?v=NP7tKlGhrxA"/>
-        <updated>2023-07-05T19:01:22.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[For 99% accuracy, how many terms do we need in the exp series?]]></title>
         <id>https://www.youtube.com/watch?v=u1taDXNzFto</id>
         <link href="https://www.youtube.com/watch?v=u1taDXNzFto"/>
@@ -636,30 +654,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What a Million $$$ CNC Machine Looks Like]]></title>
-        <id>https://www.youtube.com/watch?v=ExuzCybov6c</id>
-        <link href="https://www.youtube.com/watch?v=ExuzCybov6c"/>
-        <updated>2023-07-05T11:00:08.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Enjoying the Little Things]]></title>
         <id>https://www.youtube.com/watch?v=rQXiwrXyIag</id>
         <link href="https://www.youtube.com/watch?v=rQXiwrXyIag"/>
         <updated>2023-07-04T18:20:30.000Z</updated>
         <author>
             <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CNC Machining a Work of Art]]></title>
-        <id>https://www.youtube.com/watch?v=xEYx97LqmPE</id>
-        <link href="https://www.youtube.com/watch?v=xEYx97LqmPE"/>
-        <updated>2023-07-04T11:00:50.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2271,33 +2271,6 @@
         <updated>2023-04-17T14:59:33.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starship Q&A and Prelaunch Party!!!]]></title>
-        <id>https://www.youtube.com/watch?v=vT3B4WYAntI</id>
-        <link href="https://www.youtube.com/watch?v=vT3B4WYAntI"/>
-        <updated>2023-04-17T03:18:26.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How does electricity find the "Path of Least Resistance"?]]></title>
-        <id>https://www.youtube.com/watch?v=C3gnNpYK3lo</id>
-        <link href="https://www.youtube.com/watch?v=C3gnNpYK3lo"/>
-        <updated>2023-04-17T01:12:51.000Z</updated>
-        <author>
-            <name>AlphaPhoenix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MOLTEN GLASS VS Prince Rupert's Drop - Smarter Every Day 285]]></title>
-        <id>https://www.youtube.com/watch?v=C1KT8PS6Zs4</id>
-        <link href="https://www.youtube.com/watch?v=C1KT8PS6Zs4"/>
-        <updated>2023-04-16T14:00:05.000Z</updated>
-        <author>
-            <name>SmarterEveryDay</name>
         </author>
     </entry>
 </feed>
