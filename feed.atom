@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-16T00:45:53.858Z</id>
+    <id>urn:2023-07-17T00:43:11.059Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-16T00:45:53.858Z</updated>
+    <updated>2023-07-17T00:43:11.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The F-35B's Swivel Nozzle System]]></title>
+        <id>https://www.youtube.com/watch?v=H-ZeSBWCAeg</id>
+        <link href="https://www.youtube.com/watch?v=H-ZeSBWCAeg"/>
+        <updated>2023-07-16T21:00:10.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1400 Drones Form Illuminated Dragon | Weekly Dose of Engineering]]></title>
+        <id>https://www.youtube.com/watch?v=1I-PtWWVv1Y</id>
+        <link href="https://www.youtube.com/watch?v=1I-PtWWVv1Y"/>
+        <updated>2023-07-16T19:00:01.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​]]></title>
+        <id>https://www.youtube.com/watch?v=OiUdSeinSz4</id>
+        <link href="https://www.youtube.com/watch?v=OiUdSeinSz4"/>
+        <updated>2023-07-16T17:53:44.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rubik's Cube Solver Robot]]></title>
+        <id>https://www.youtube.com/watch?v=8cPrdjn6OXA</id>
+        <link href="https://www.youtube.com/watch?v=8cPrdjn6OXA"/>
+        <updated>2023-07-16T13:00:07.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEEP Cuts Using a Necked Endmill]]></title>
+        <id>https://www.youtube.com/watch?v=AgFge_60aLU</id>
+        <link href="https://www.youtube.com/watch?v=AgFge_60aLU"/>
+        <updated>2023-07-16T11:00:06.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robotics Involved in Parking]]></title>
+        <id>https://www.youtube.com/watch?v=FZUwjVY204w</id>
+        <link href="https://www.youtube.com/watch?v=FZUwjVY204w"/>
+        <updated>2023-07-16T09:00:15.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[117-Year old Steam Boat Engine]]></title>
         <id>https://www.youtube.com/watch?v=ZehELoc3c9I</id>
@@ -186,24 +240,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How F-16s and HARM Missiles will devastate Russian Air Defences]]></title>
-        <id>https://www.youtube.com/watch?v=QFz3F1rPvuU</id>
-        <link href="https://www.youtube.com/watch?v=QFz3F1rPvuU"/>
-        <updated>2023-07-13T19:00:20.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Are F-16s and AGM-88 HARM Missiles Crucial for Ukraine?]]></title>
-        <id>https://www.youtube.com/watch?v=cRXKt9SIM6I</id>
-        <link href="https://www.youtube.com/watch?v=cRXKt9SIM6I"/>
-        <updated>2023-07-13T17:13:13.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What Happens if Earth Suddenly Stops Rotating? #kurzgesagt #shorts]]></title>
         <id>https://www.youtube.com/watch?v=kblSnj0p6bE</id>
         <link href="https://www.youtube.com/watch?v=kblSnj0p6bE"/>
@@ -231,30 +267,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unleash Your Inner Scientist]]></title>
-        <id>https://www.youtube.com/watch?v=AlvfsT8F3u4</id>
-        <link href="https://www.youtube.com/watch?v=AlvfsT8F3u4"/>
-        <updated>2023-07-13T13:00:11.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Genius Macro Program that Creates Unlimited Part Sizes]]></title>
         <id>https://www.youtube.com/watch?v=a4oFeV5zXY8</id>
         <link href="https://www.youtube.com/watch?v=a4oFeV5zXY8"/>
         <updated>2023-07-13T11:00:00.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tame the chaos!]]></title>
-        <id>https://www.youtube.com/watch?v=s26lAgyIZJg</id>
-        <link href="https://www.youtube.com/watch?v=s26lAgyIZJg"/>
-        <updated>2023-07-13T09:00:36.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -528,7 +546,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How The Oldest Crystal Factory In France Makes $13,000 Paperweights | Insider Business]]></title>
+        <title type="html"><![CDATA[How $13,000 Paperweights Are Made The Oldest Crystal Factory in France | Insider Business]]></title>
         <id>https://www.youtube.com/watch?v=CR28G17eNbg</id>
         <link href="https://www.youtube.com/watch?v=CR28G17eNbg"/>
         <updated>2023-07-07T15:00:11.000Z</updated>
@@ -613,15 +631,6 @@
         <id>https://www.youtube.com/watch?v=NBiXHgyKkrc</id>
         <link href="https://www.youtube.com/watch?v=NBiXHgyKkrc"/>
         <updated>2023-07-06T13:00:30.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Just Destroyed a CNC Machine By Doing This…]]></title>
-        <id>https://www.youtube.com/watch?v=sGuVgYr3CHU</id>
-        <link href="https://www.youtube.com/watch?v=sGuVgYr3CHU"/>
-        <updated>2023-07-06T11:00:40.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
         </author>
@@ -1887,15 +1896,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Thermite Balls]]></title>
-        <id>https://www.youtube.com/watch?v=-hzue8KIS9M</id>
-        <link href="https://www.youtube.com/watch?v=-hzue8KIS9M"/>
-        <updated>2023-05-12T13:08:47.000Z</updated>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Tiny Can a Black Hole Be? #shorts #kurzgesagt]]></title>
         <id>https://www.youtube.com/watch?v=UKOxj8oP59w</id>
         <link href="https://www.youtube.com/watch?v=UKOxj8oP59w"/>
@@ -2244,33 +2244,6 @@
         <updated>2023-04-18T14:20:31.000Z</updated>
         <author>
             <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Witch Trials of J.K. Rowling | ContraPoints]]></title>
-        <id>https://www.youtube.com/watch?v=EmT0i0xG6zg</id>
-        <link href="https://www.youtube.com/watch?v=EmT0i0xG6zg"/>
-        <updated>2023-04-17T22:59:53.000Z</updated>
-        <author>
-            <name>ContraPoints</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SCRUBBED] Watch SpaceX TEST Starship, the biggest rocket ever, LIVE]]></title>
-        <id>https://www.youtube.com/watch?v=6Vb9hFqF6i0</id>
-        <link href="https://www.youtube.com/watch?v=6Vb9hFqF6i0"/>
-        <updated>2023-04-17T16:01:31.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[She Tracks Wildlife eDNA on Everest and in the Andes]]></title>
-        <id>https://www.youtube.com/watch?v=VP0xD8zDUlU</id>
-        <link href="https://www.youtube.com/watch?v=VP0xD8zDUlU"/>
-        <updated>2023-04-17T14:59:33.000Z</updated>
-        <author>
-            <name>Quanta Magazine</name>
         </author>
     </entry>
 </feed>
