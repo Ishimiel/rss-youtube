@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-23T00:38:25.929Z</id>
+    <id>urn:2023-07-24T00:35:59.036Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-23T00:38:25.929Z</updated>
+    <updated>2023-07-24T00:35:59.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Your  New Outdoor Companion!]]></title>
+        <id>https://www.youtube.com/watch?v=LEbM7xJfBSY</id>
+        <link href="https://www.youtube.com/watch?v=LEbM7xJfBSY"/>
+        <updated>2023-07-23T21:00:15.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How 30,000 Metric Tons Of Coconuts Are Processed A Year In Sri Lanka | Big Business]]></title>
+        <id>https://www.youtube.com/watch?v=vEA8HpR_Azw</id>
+        <link href="https://www.youtube.com/watch?v=vEA8HpR_Azw"/>
+        <updated>2023-07-23T15:00:41.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why study Lie theory? | Lie groups, algebras, brackets #1]]></title>
+        <id>https://www.youtube.com/watch?v=IlqVo3sJFLE</id>
+        <link href="https://www.youtube.com/watch?v=IlqVo3sJFLE"/>
+        <updated>2023-07-23T14:00:10.000Z</updated>
+        <author>
+            <name>Mathemaniac</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pen or Toy? You Decide!]]></title>
+        <id>https://www.youtube.com/watch?v=Y5zHnFrxe5Q</id>
+        <link href="https://www.youtube.com/watch?v=Y5zHnFrxe5Q"/>
+        <updated>2023-07-23T13:00:23.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Game of Set (and some variations) - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=EkFX9jUJPKk</id>
+        <link href="https://www.youtube.com/watch?v=EkFX9jUJPKk"/>
+        <updated>2023-07-23T11:58:31.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic Machinist Hammer🔨]]></title>
+        <id>https://www.youtube.com/watch?v=us4Fvyjud1Y</id>
+        <link href="https://www.youtube.com/watch?v=us4Fvyjud1Y"/>
+        <updated>2023-07-23T11:00:43.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Sidekick!]]></title>
+        <id>https://www.youtube.com/watch?v=5Vzc0G-RLEM</id>
+        <link href="https://www.youtube.com/watch?v=5Vzc0G-RLEM"/>
+        <updated>2023-07-23T09:11:15.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Infinite Blends Await!]]></title>
         <id>https://www.youtube.com/watch?v=hBNX8t6xGHw</id>
@@ -447,33 +510,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Are Marder IFVs the Solution to Ukraine's Military Transport Needs?]]></title>
-        <id>https://www.youtube.com/watch?v=f6dnVP1lVV0</id>
-        <link href="https://www.youtube.com/watch?v=f6dnVP1lVV0"/>
-        <updated>2023-07-19T19:00:28.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Marder IFVs Are Vital for Ukraine's Counter Offensive]]></title>
-        <id>https://www.youtube.com/watch?v=MXMXefY4BoY</id>
-        <link href="https://www.youtube.com/watch?v=MXMXefY4BoY"/>
-        <updated>2023-07-19T19:00:20.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ears Love This New Tech!]]></title>
-        <id>https://www.youtube.com/watch?v=-m81jMxx4N8</id>
-        <link href="https://www.youtube.com/watch?v=-m81jMxx4N8"/>
-        <updated>2023-07-19T13:00:00.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GENIUS Tool to Indicate Your Parts]]></title>
         <id>https://www.youtube.com/watch?v=JJMjJcFUadM</id>
         <link href="https://www.youtube.com/watch?v=JJMjJcFUadM"/>
@@ -708,15 +744,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Genius Macro Program that Creates Unlimited Part Sizes]]></title>
-        <id>https://www.youtube.com/watch?v=a4oFeV5zXY8</id>
-        <link href="https://www.youtube.com/watch?v=a4oFeV5zXY8"/>
-        <updated>2023-07-13T11:00:00.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The world of globe-making is a billion-dollar industry - take a look inside.]]></title>
         <id>https://www.youtube.com/watch?v=DhT88BQVJec</id>
         <link href="https://www.youtube.com/watch?v=DhT88BQVJec"/>
@@ -750,15 +777,6 @@
         <updated>2023-07-12T08:00:31.000Z</updated>
         <author>
             <name>Martin Donald</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Ayam Cemani Chickens Are So Expensive | So Expensive | Insider Business]]></title>
-        <id>https://www.youtube.com/watch?v=OsDuXBMOdNs</id>
-        <link href="https://www.youtube.com/watch?v=OsDuXBMOdNs"/>
-        <updated>2023-07-11T21:31:00.000Z</updated>
-        <author>
-            <name>Insider Business</name>
         </author>
     </entry>
     <entry>
