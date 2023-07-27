@@ -1,17 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-26T00:34:27.455Z</id>
+    <id>urn:2023-07-27T00:33:39.037Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-26T00:34:27.455Z</updated>
+    <updated>2023-07-27T00:33:39.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[QIDI X-Max 3 with Maker's Muse LIVE!]]></title>
         <id>https://www.youtube.com/watch?v=i35pxCqa6Qg</id>
         <link href="https://www.youtube.com/watch?v=i35pxCqa6Qg"/>
-        <updated>2023-07-25T23:45:14.000Z</updated>
+        <updated>2023-07-26T21:32:22.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your New Robo-Buddy!]]></title>
+        <id>https://www.youtube.com/watch?v=L_p4IhqtlHg</id>
+        <link href="https://www.youtube.com/watch?v=L_p4IhqtlHg"/>
+        <updated>2023-07-26T21:00:13.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Disney's Magical Trash Tubes Ended Up In New York City | World Wide Waste | Insider Business]]></title>
+        <id>https://www.youtube.com/watch?v=u_9ngalquVU</id>
+        <link href="https://www.youtube.com/watch?v=u_9ngalquVU"/>
+        <updated>2023-07-26T19:35:14.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does Music Have a Speed Limit? And Why?]]></title>
+        <id>https://www.youtube.com/watch?v=erBecZH7b0Y</id>
+        <link href="https://www.youtube.com/watch?v=erBecZH7b0Y"/>
+        <updated>2023-07-26T19:11:26.000Z</updated>
+        <author>
+            <name>Adam Neely</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiny Blade, Big Impact!]]></title>
+        <id>https://www.youtube.com/watch?v=Hpwu0BjFy0I</id>
+        <link href="https://www.youtube.com/watch?v=Hpwu0BjFy0I"/>
+        <updated>2023-07-26T13:00:15.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRAZY 9 Axis Tooling Setup]]></title>
+        <id>https://www.youtube.com/watch?v=mYaH7mBvJSM</id>
+        <link href="https://www.youtube.com/watch?v=mYaH7mBvJSM"/>
+        <updated>2023-07-26T11:00:45.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Unexpected Origins of Elon Musk's X Corp Name]]></title>
+        <id>https://www.youtube.com/watch?v=31Jhp8LDyfc</id>
+        <link href="https://www.youtube.com/watch?v=31Jhp8LDyfc"/>
+        <updated>2023-07-26T09:27:59.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a Waitress Named Elon Musk's Tech Giant]]></title>
+        <id>https://www.youtube.com/watch?v=QBEGpIEZvWg</id>
+        <link href="https://www.youtube.com/watch?v=QBEGpIEZvWg"/>
+        <updated>2023-07-26T08:55:03.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -51,15 +114,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Unexpected Origins of Elon Musk's X Corp Name]]></title>
-        <id>https://www.youtube.com/watch?v=2LbIb7bhdLc</id>
-        <link href="https://www.youtube.com/watch?v=2LbIb7bhdLc"/>
-        <updated>2023-07-25T19:00:01.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How lace related jobs have changed in France 🇫🇷 #lace #France #jobs #fashion]]></title>
         <id>https://www.youtube.com/watch?v=5OLudADwNZM</id>
         <link href="https://www.youtube.com/watch?v=5OLudADwNZM"/>
@@ -75,15 +129,6 @@
         <updated>2023-07-25T17:09:10.000Z</updated>
         <author>
             <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How a Waitress Named Elon Musk's Tech Giant]]></title>
-        <id>https://www.youtube.com/watch?v=7MH3JIsddqU</id>
-        <link href="https://www.youtube.com/watch?v=7MH3JIsddqU"/>
-        <updated>2023-07-25T16:16:24.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -312,15 +357,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cosmic Phone Portal!]]></title>
-        <id>https://www.youtube.com/watch?v=KywctvvXBbs</id>
-        <link href="https://www.youtube.com/watch?v=KywctvvXBbs"/>
-        <updated>2023-07-22T08:57:21.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Putting a Penny on John Wilkes Booth's Grave]]></title>
         <id>https://www.youtube.com/watch?v=3oFq6cqZJ3w</id>
         <link href="https://www.youtube.com/watch?v=3oFq6cqZJ3w"/>
@@ -336,15 +372,6 @@
         <updated>2023-07-21T22:01:56.000Z</updated>
         <author>
             <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic Shock Trials!]]></title>
-        <id>https://www.youtube.com/watch?v=saf9e44KZgI</id>
-        <link href="https://www.youtube.com/watch?v=saf9e44KZgI"/>
-        <updated>2023-07-21T21:00:27.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -654,15 +681,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What makes these Guatemalan mattresses so expensive? 🛏️ #mattress #latex #Guatemala]]></title>
-        <id>https://www.youtube.com/watch?v=hYP_MKLQETI</id>
-        <link href="https://www.youtube.com/watch?v=hYP_MKLQETI"/>
-        <updated>2023-07-18T18:37:34.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Grinding WITHOUT Coolant💥]]></title>
         <id>https://www.youtube.com/watch?v=OxVRuqKABKM</id>
         <link href="https://www.youtube.com/watch?v=OxVRuqKABKM"/>
@@ -721,15 +739,6 @@
         <id>https://www.youtube.com/watch?v=AgFge_60aLU</id>
         <link href="https://www.youtube.com/watch?v=AgFge_60aLU"/>
         <updated>2023-07-16T11:00:06.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Greatest Machinist Stones Available]]></title>
-        <id>https://www.youtube.com/watch?v=ICSSJh4LU4Q</id>
-        <link href="https://www.youtube.com/watch?v=ICSSJh4LU4Q"/>
-        <updated>2023-07-15T13:00:11.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
         </author>
@@ -897,7 +906,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What a month on tour does to a MF...]]></title>
+        <title type="html"><![CDATA[The Daily Grind of Life on Tour]]></title>
         <id>https://www.youtube.com/watch?v=Kq5VPV5c13I</id>
         <link href="https://www.youtube.com/watch?v=Kq5VPV5c13I"/>
         <updated>2023-07-06T16:07:28.000Z</updated>
@@ -2244,15 +2253,6 @@
         <updated>2023-04-28T14:48:14.000Z</updated>
         <author>
             <name>Adam Neely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starship Test Flight 4K Slow Mo Supercut w/ Tracking and Incredible Audio]]></title>
-        <id>https://www.youtube.com/watch?v=NCYSVmSPM7E</id>
-        <link href="https://www.youtube.com/watch?v=NCYSVmSPM7E"/>
-        <updated>2023-04-27T14:00:01.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
         </author>
     </entry>
 </feed>
