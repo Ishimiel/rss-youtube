@@ -139,7 +139,7 @@
           "link": "https://www.youtube.com/watch?v=erA0jb9dSm0",
           "publishedOn": "2023-07-29T14:00:22.000Z",
           "wordCount": null,
-          "title": "What does it mean to rotate complex vectors? | Lie groups, algebras, brackets #2",
+          "title": "Higher-dimensional and complex rotations | Lie groups, algebras, brackets #2",
           "imageUrl": null
         },
         {
@@ -701,6 +701,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=JuPPqEjEF8Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JuPPqEjEF8Y",
+          "publishedOn": "2023-07-31T04:53:29.000Z",
+          "wordCount": null,
+          "title": "Stealing a Prusa XL - Part 2",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5GQHnd5PZuU",
           "author": null,
           "description": "",
@@ -839,16 +849,6 @@
           "wordCount": null,
           "title": "MY FIRST $100,000 print is a TRANSFORMER!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vGJt3E9tZg0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vGJt3E9tZg0",
-          "publishedOn": "2023-05-31T13:00:43.000Z",
-          "wordCount": null,
-          "title": "TAKE A GUESS on the AnkerMake M5 Project!",
-          "imageUrl": null
         }
       ]
     },
@@ -915,16 +915,6 @@
           "publishedOn": "2023-05-26T01:26:49.000Z",
           "wordCount": null,
           "title": "Attempting a 9/8 unison…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=50Lvaid6b1I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=50Lvaid6b1I",
-          "publishedOn": "2023-05-03T01:42:10.000Z",
-          "wordCount": null,
-          "title": "Tour bus quintuplets (with @ShubhSaran)",
           "imageUrl": null
         }
       ]
@@ -1043,6 +1033,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vmvxG6_uOK4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vmvxG6_uOK4",
+          "publishedOn": "2023-07-31T18:01:34.000Z",
+          "wordCount": null,
+          "title": "Watch the last Antares 230+ rocket fly for NASA to the ISS! #NG19",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xE1A6T1cycU",
           "author": null,
           "description": "",
@@ -1101,16 +1101,6 @@
           "wordCount": null,
           "title": "A deep dive tour inside rocket engines! Viking 2 and Vulcain 1!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WY73exaVpyw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WY73exaVpyw",
-          "publishedOn": "2023-05-02T16:11:01.000Z",
-          "wordCount": null,
-          "title": "YouTuber’s Question Helps Elon Musk Improve Starship",
-          "imageUrl": null
         }
       ]
     },
@@ -1125,6 +1115,66 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEuiOszNd6msGgqsD0f9YAQ",
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=77GbPfzvMtc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=77GbPfzvMtc",
+          "publishedOn": "2023-07-31T21:00:04.000Z",
+          "wordCount": null,
+          "title": "Tesla's Gigafactory",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bGA_YGhj3ug",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bGA_YGhj3ug",
+          "publishedOn": "2023-07-31T19:00:16.000Z",
+          "wordCount": null,
+          "title": "What is The Role of SAMP/T Missiles in Safeguarding Ukraine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zevk0-w3p4k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zevk0-w3p4k",
+          "publishedOn": "2023-07-31T15:17:28.000Z",
+          "wordCount": null,
+          "title": "What makes C5M Super Galaxy the Ultimate Record Breaker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Xe488-jnmLw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Xe488-jnmLw",
+          "publishedOn": "2023-07-31T15:02:54.000Z",
+          "wordCount": null,
+          "title": "How SAMP/T Defends Ukraine Against Russia's Missile and Drone Attacks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DyQ-qQqQ6h4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DyQ-qQqQ6h4",
+          "publishedOn": "2023-07-31T13:00:09.000Z",
+          "wordCount": null,
+          "title": "Blast Off to the Stars!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=3ZhZ2ZWd0Ps",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3ZhZ2ZWd0Ps",
+          "publishedOn": "2023-07-31T09:00:03.000Z",
+          "wordCount": null,
+          "title": "Atomic cannon",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=fL_QlN9A24M",
           "author": null,
@@ -1213,66 +1263,6 @@
           "publishedOn": "2023-07-29T09:00:29.000Z",
           "wordCount": null,
           "title": "All-In-One Fun",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WhduVxDpaoc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WhduVxDpaoc",
-          "publishedOn": "2023-07-28T21:00:15.000Z",
-          "wordCount": null,
-          "title": "Level Up Your Cooking!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=h0ZUFVPzXSU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=h0ZUFVPzXSU",
-          "publishedOn": "2023-07-28T13:00:35.000Z",
-          "wordCount": null,
-          "title": "Keyboard Magic!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KoKpr0o_TCs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KoKpr0o_TCs",
-          "publishedOn": "2023-07-28T09:28:20.000Z",
-          "wordCount": null,
-          "title": "AI: Friend or Foe? The Answer Will Change Everything!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ap1hdV6SbS4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ap1hdV6SbS4",
-          "publishedOn": "2023-07-28T09:00:07.000Z",
-          "wordCount": null,
-          "title": "Sky's the Limit, Capture It!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VEwPfc1L1fg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VEwPfc1L1fg",
-          "publishedOn": "2023-07-27T21:00:14.000Z",
-          "wordCount": null,
-          "title": "Your Air Superhero!v",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=f-QOGm-XgrU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=f-QOGm-XgrU",
-          "publishedOn": "2023-07-27T19:00:31.000Z",
-          "wordCount": null,
-          "title": "Is AI a Friend, Foe, or Both?",
           "imageUrl": null
         }
       ]
@@ -1516,16 +1506,6 @@
           "wordCount": null,
           "title": "Make vortex rings in your pool",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=i5HOOPMfLZg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=i5HOOPMfLZg",
-          "publishedOn": "2023-05-02T21:09:50.000Z",
-          "wordCount": null,
-          "title": "Why the sky is darker above a rainbow",
-          "imageUrl": null
         }
       ]
     },
@@ -1758,6 +1738,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6107grRI4m0o2-emgoDnAA",
       "siteUrl": "https://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=GDzBE6vz5r0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GDzBE6vz5r0",
+          "publishedOn": "2023-07-31T15:01:24.000Z",
+          "wordCount": null,
+          "title": "The Mind-Blowing Machines that Stamp Millions of Metal Parts - Smarter Every Day 288",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=tcQVrD7RnNI",
           "author": null,
@@ -2159,16 +2149,6 @@
           "wordCount": null,
           "title": "Easy pancake art      #pancakes",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3NJzOMJUT2U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3NJzOMJUT2U",
-          "publishedOn": "2023-05-02T13:00:03.000Z",
-          "wordCount": null,
-          "title": "12 Ways to Peel a Potato",
-          "imageUrl": null
         }
       ]
     },
@@ -2177,6 +2157,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Tubg24Y9dA8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Tubg24Y9dA8",
+          "publishedOn": "2023-07-31T11:00:30.000Z",
+          "wordCount": null,
+          "title": "Extremely Efficient Thread Cutting",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=vv5n5MSpm00",
           "author": null,
@@ -2304,7 +2294,7 @@
           "link": "https://www.youtube.com/watch?v=PeiStrniHnU",
           "publishedOn": "2023-07-22T11:00:16.000Z",
           "wordCount": null,
-          "title": "Compilation of the MOST Insane CNC Machining Cuts",
+          "title": "The MOST INSANE CNC Machining Cuts",
           "imageUrl": null
         },
         {
@@ -2316,16 +2306,6 @@
           "wordCount": null,
           "title": "Machining MONSTER CHIPS #titansofcnc #machining #cnc #engineering #3dprinting #shorts #machinist",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0NcpROpGGrE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0NcpROpGGrE",
-          "publishedOn": "2023-07-20T13:00:01.000Z",
-          "wordCount": null,
-          "title": "CNC Machining an EPIC Turtle🐢",
-          "imageUrl": null
         }
       ]
     },
@@ -2335,13 +2315,23 @@
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ZajeWUKw1KU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZajeWUKw1KU",
+          "publishedOn": "2023-07-31T15:00:33.000Z",
+          "wordCount": null,
+          "title": "11 Of The Most Expensive Items Made In The USA | So Expensive | Insider Business",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=bRRArEWXYbA",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=bRRArEWXYbA",
           "publishedOn": "2023-07-29T15:00:24.000Z",
           "wordCount": null,
-          "title": "Why Reborn Baby Dolls Are So Expensive | So Expensive | Insider Business",
+          "title": "Why These Hyper-Realistic Baby Dolls Cost Up To €15,000 | So Expensive | Insider Business",
           "imageUrl": null
         },
         {
@@ -2472,16 +2462,6 @@
           "publishedOn": "2023-07-21T20:30:11.000Z",
           "wordCount": null,
           "title": "How Bricks Made From Invasive Seaweed Clean Mexico's Beaches | World Wide Waste | Insider Business",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=23Lvzc-zQ1E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=23Lvzc-zQ1E",
-          "publishedOn": "2023-07-21T17:20:34.000Z",
-          "wordCount": null,
-          "title": "Costing up to $90 per square meter, French leavers lace is worth the money. #luxury #fashion #lace",
           "imageUrl": null
         }
       ]
@@ -2746,16 +2726,6 @@
           "publishedOn": "2023-05-09T03:47:19.000Z",
           "wordCount": null,
           "title": "Electronic Firefly Lantern",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iJGPMMMn8VU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iJGPMMMn8VU",
-          "publishedOn": "2023-05-02T16:30:21.000Z",
-          "wordCount": null,
-          "title": "Making a Lantern Full of Fireflies",
           "imageUrl": null
         }
       ]
