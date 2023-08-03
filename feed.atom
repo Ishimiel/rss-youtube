@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-02T00:34:02.382Z</id>
+    <id>urn:2023-08-03T00:35:17.889Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-02T00:34:02.382Z</updated>
+    <updated>2023-08-03T00:35:17.889Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Future of 3D Printing!]]></title>
+        <id>https://www.youtube.com/watch?v=_H95O_zbYZk</id>
+        <link href="https://www.youtube.com/watch?v=_H95O_zbYZk"/>
+        <updated>2023-08-02T21:00:17.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Finally Found This 'Banned' Empty Book]]></title>
+        <id>https://www.youtube.com/watch?v=dTG8VKKU4h0</id>
+        <link href="https://www.youtube.com/watch?v=dTG8VKKU4h0"/>
+        <updated>2023-08-02T19:14:29.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How HSwMS Gotland sunk an U.S. Aircraft Carrier]]></title>
+        <id>https://www.youtube.com/watch?v=M0MJ266Q464</id>
+        <link href="https://www.youtube.com/watch?v=M0MJ266Q464"/>
+        <updated>2023-08-02T19:00:09.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Gotland-Class Submarines Transform NATO's Approach to China and Russia]]></title>
+        <id>https://www.youtube.com/watch?v=6O0K7_DHfjs</id>
+        <link href="https://www.youtube.com/watch?v=6O0K7_DHfjs"/>
+        <updated>2023-08-02T19:00:03.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winning the Fields Medal (with James Maynard) - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=eupAXdWPvX8</id>
+        <link href="https://www.youtube.com/watch?v=eupAXdWPvX8"/>
+        <updated>2023-08-02T17:00:31.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolutionary Cinematic Thrills!]]></title>
+        <id>https://www.youtube.com/watch?v=nFHw5H_EWAs</id>
+        <link href="https://www.youtube.com/watch?v=nFHw5H_EWAs"/>
+        <updated>2023-08-02T13:00:41.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced 5-Axis CMM | Mitutoyo Crysta Apex V]]></title>
+        <id>https://www.youtube.com/watch?v=6027pRMmG8g</id>
+        <link href="https://www.youtube.com/watch?v=6027pRMmG8g"/>
+        <updated>2023-08-02T11:00:04.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlock the Robot Secrets!]]></title>
+        <id>https://www.youtube.com/watch?v=xUrXoL01DlY</id>
+        <link href="https://www.youtube.com/watch?v=xUrXoL01DlY"/>
+        <updated>2023-08-02T09:00:46.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AnkerMake M5C LIVE! Unbox & First Print! FIRST LOOK!]]></title>
+        <id>https://www.youtube.com/watch?v=kiNZIVWOwVA</id>
+        <link href="https://www.youtube.com/watch?v=kiNZIVWOwVA"/>
+        <updated>2023-08-02T03:33:59.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch the last Antares 230+ rocket fly for NASA to the ISS! #NG19]]></title>
+        <id>https://www.youtube.com/watch?v=vmvxG6_uOK4</id>
+        <link href="https://www.youtube.com/watch?v=vmvxG6_uOK4"/>
+        <updated>2023-08-02T00:56:39.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Here's why a kilogram of vicuña wool can sell for $370. #vicunawool #textiles #bolivia]]></title>
         <id>https://www.youtube.com/watch?v=Ucy3uwqsgD8</id>
@@ -15,7 +105,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Viral trick you can do in any pool! EXPLAINED]]></title>
+        <title type="html"><![CDATA[Viral trick you can do in any pool!]]></title>
         <id>https://www.youtube.com/watch?v=J8ZnJ1RNnJ0</id>
         <link href="https://www.youtube.com/watch?v=J8ZnJ1RNnJ0"/>
         <updated>2023-08-01T21:04:59.000Z</updated>
@@ -69,15 +159,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AnkerMake M5C LIVE! Unbox & First Print! FIRST LOOK!]]></title>
-        <id>https://www.youtube.com/watch?v=kiNZIVWOwVA</id>
-        <link href="https://www.youtube.com/watch?v=kiNZIVWOwVA"/>
-        <updated>2023-08-01T02:23:10.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tesla's Gigafactory]]></title>
         <id>https://www.youtube.com/watch?v=77GbPfzvMtc</id>
         <link href="https://www.youtube.com/watch?v=77GbPfzvMtc"/>
@@ -93,15 +174,6 @@
         <updated>2023-07-31T19:00:16.000Z</updated>
         <author>
             <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch the last Antares 230+ rocket fly for NASA to the ISS! #NG19]]></title>
-        <id>https://www.youtube.com/watch?v=vmvxG6_uOK4</id>
-        <link href="https://www.youtube.com/watch?v=vmvxG6_uOK4"/>
-        <updated>2023-07-31T18:01:34.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
         </author>
     </entry>
     <entry>
@@ -186,30 +258,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How the C5M Super Galaxy Broke 89 World Records]]></title>
-        <id>https://www.youtube.com/watch?v=6xyO4bvwlLw</id>
-        <link href="https://www.youtube.com/watch?v=6xyO4bvwlLw"/>
-        <updated>2023-07-30T19:00:02.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Automation and a More Fulfilling Life]]></title>
         <id>https://www.youtube.com/watch?v=j5oTu87MQB0</id>
         <link href="https://www.youtube.com/watch?v=j5oTu87MQB0"/>
         <updated>2023-07-30T15:46:58.000Z</updated>
         <author>
             <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Palm-Sized 3D Printer]]></title>
-        <id>https://www.youtube.com/watch?v=1vsUObcrc4E</id>
-        <link href="https://www.youtube.com/watch?v=1vsUObcrc4E"/>
-        <updated>2023-07-30T13:00:02.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -222,15 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pool Cleaning Master]]></title>
-        <id>https://www.youtube.com/watch?v=fEbBm39DJ28</id>
-        <link href="https://www.youtube.com/watch?v=fEbBm39DJ28"/>
-        <updated>2023-07-30T09:00:19.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Stealing the Prusa XL?]]></title>
         <id>https://www.youtube.com/watch?v=5GQHnd5PZuU</id>
         <link href="https://www.youtube.com/watch?v=5GQHnd5PZuU"/>
@@ -240,30 +285,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tiny Robo Power!]]></title>
-        <id>https://www.youtube.com/watch?v=vwfh35F2Znw</id>
-        <link href="https://www.youtube.com/watch?v=vwfh35F2Znw"/>
-        <updated>2023-07-29T21:00:21.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This Book Will Put You To Sleep]]></title>
         <id>https://www.youtube.com/watch?v=fAJHGb016CY</id>
         <link href="https://www.youtube.com/watch?v=fAJHGb016CY"/>
         <updated>2023-07-29T20:20:19.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Can’t Tell If These Scenes are CGI or Not]]></title>
-        <id>https://www.youtube.com/watch?v=oDPBgq0hJVc</id>
-        <link href="https://www.youtube.com/watch?v=oDPBgq0hJVc"/>
-        <updated>2023-07-29T19:00:31.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -384,7 +411,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What It Takes To Survive The Army's 60-Hour Best Ranger Competition | Boot Camp | Insider Business]]></title>
+        <title type="html"><![CDATA[What Army Rangers Go Through In The 60-Hour Best Ranger Competition | Boot Camp | Insider Business]]></title>
         <id>https://www.youtube.com/watch?v=_LpHCElQdz0</id>
         <link href="https://www.youtube.com/watch?v=_LpHCElQdz0"/>
         <updated>2023-07-27T15:50:57.000Z</updated>
@@ -624,15 +651,6 @@
         <updated>2023-07-22T14:00:12.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BEST Way to Balance your Tools?]]></title>
-        <id>https://www.youtube.com/watch?v=PqfgMXPJ-ys</id>
-        <link href="https://www.youtube.com/watch?v=PqfgMXPJ-ys"/>
-        <updated>2023-07-22T13:00:20.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1806,15 +1824,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Real Reason Flames Don't Have Shadows]]></title>
-        <id>https://www.youtube.com/watch?v=qrWcjTSV6HA</id>
-        <link href="https://www.youtube.com/watch?v=qrWcjTSV6HA"/>
-        <updated>2023-06-03T04:00:27.000Z</updated>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[9 Cheese Fries Supreme #frenchfries #food]]></title>
         <id>https://www.youtube.com/watch?v=LA9JsTYqTXk</id>
         <link href="https://www.youtube.com/watch?v=LA9JsTYqTXk"/>
@@ -2190,24 +2199,6 @@
         <updated>2023-05-05T15:00:22.000Z</updated>
         <author>
             <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atmosphere In Souls Games]]></title>
-        <id>https://www.youtube.com/watch?v=GtszgeV3hdg</id>
-        <link href="https://www.youtube.com/watch?v=GtszgeV3hdg"/>
-        <updated>2023-05-04T22:56:39.000Z</updated>
-        <author>
-            <name>Internet Pitstop</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brave New Prehistoric World]]></title>
-        <id>https://www.youtube.com/watch?v=5Iy5mt7F_N4</id>
-        <link href="https://www.youtube.com/watch?v=5Iy5mt7F_N4"/>
-        <updated>2023-05-04T19:00:10.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
         </author>
     </entry>
 </feed>
