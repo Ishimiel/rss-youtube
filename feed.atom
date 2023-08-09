@@ -1,12 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-08T00:33:08.371Z</id>
+    <id>urn:2023-08-09T00:35:35.157Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-08T00:33:08.371Z</updated>
+    <updated>2023-08-09T00:35:35.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Why Henry Ford's Wife Was Driving an Electric Car!]]></title>
+        <title type="html"><![CDATA[Davit Upgrade, and Sharks]]></title>
+        <id>https://www.youtube.com/watch?v=hK-OaqXK6lU</id>
+        <link href="https://www.youtube.com/watch?v=hK-OaqXK6lU"/>
+        <updated>2023-08-08T22:46:59.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unleashing the Future of Large-Scale 3D Scanning]]></title>
+        <id>https://www.youtube.com/watch?v=RfhnMIZZ7iw</id>
+        <link href="https://www.youtube.com/watch?v=RfhnMIZZ7iw"/>
+        <updated>2023-08-08T21:00:21.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did you know why ceremonial-grade matcha is very expensive? 🍵   #matcha #Japan #tea]]></title>
+        <id>https://www.youtube.com/watch?v=S6vgbg2FphU</id>
+        <link href="https://www.youtube.com/watch?v=S6vgbg2FphU"/>
+        <updated>2023-08-08T19:55:52.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Math’s Famous Map Problem: The Four Color Theorem]]></title>
+        <id>https://www.youtube.com/watch?v=h7kqlYUV1l8</id>
+        <link href="https://www.youtube.com/watch?v=h7kqlYUV1l8"/>
+        <updated>2023-08-08T19:46:49.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why 6 Of The World's Priciest Seafoods Are So Expensive | So Expensive Food | Insider Business]]></title>
+        <id>https://www.youtube.com/watch?v=z_ED02KFhP4</id>
+        <link href="https://www.youtube.com/watch?v=z_ED02KFhP4"/>
+        <updated>2023-08-08T16:42:51.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is This The Best CNC Control?]]></title>
+        <id>https://www.youtube.com/watch?v=3Xy6L8Rjrco</id>
+        <link href="https://www.youtube.com/watch?v=3Xy6L8Rjrco"/>
+        <updated>2023-08-08T14:00:03.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The (Second) Most Deadliest Virus on Earth]]></title>
+        <id>https://www.youtube.com/watch?v=Kr57ax0OWMk</id>
+        <link href="https://www.youtube.com/watch?v=Kr57ax0OWMk"/>
+        <updated>2023-08-08T13:59:49.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolutionize Your Ride with PikaBoost eBike Converter!]]></title>
+        <id>https://www.youtube.com/watch?v=0vNfCkU4NO0</id>
+        <link href="https://www.youtube.com/watch?v=0vNfCkU4NO0"/>
+        <updated>2023-08-08T13:00:02.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IMPOSSIBLE Tool Path? 🤯  | AK50]]></title>
+        <id>https://www.youtube.com/watch?v=hv0mrQjz0OE</id>
+        <link href="https://www.youtube.com/watch?v=hv0mrQjz0OE"/>
+        <updated>2023-08-08T11:00:27.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Toadi is the Future of Autonomous Lawn Care]]></title>
+        <id>https://www.youtube.com/watch?v=QMVrpN3KdqE</id>
+        <link href="https://www.youtube.com/watch?v=QMVrpN3KdqE"/>
+        <updated>2023-08-08T09:00:15.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamical Systems on a Circle | Nonlinear Dynamics]]></title>
+        <id>https://www.youtube.com/watch?v=M4-L8h-gHHE</id>
+        <link href="https://www.youtube.com/watch?v=M4-L8h-gHHE"/>
+        <updated>2023-08-08T02:21:50.000Z</updated>
+        <author>
+            <name>Faculty of Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Did Electric Cars Exist Before Gasoline Cars?]]></title>
         <id>https://www.youtube.com/watch?v=KV2tGPdtpSA</id>
         <link href="https://www.youtube.com/watch?v=KV2tGPdtpSA"/>
         <updated>2023-08-07T23:00:16.000Z</updated>
@@ -51,7 +150,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why do Russian tanks dread Challenger 2 so much?]]></title>
+        <title type="html"><![CDATA[How Will Challenger 2 Fare Against Russia’s Defenses?]]></title>
         <id>https://www.youtube.com/watch?v=_qm4TIzswdA</id>
         <link href="https://www.youtube.com/watch?v=_qm4TIzswdA"/>
         <updated>2023-08-07T19:00:20.000Z</updated>
@@ -186,15 +285,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ultimate Measurement Gadget!]]></title>
-        <id>https://www.youtube.com/watch?v=eAVd0AdE6fo</id>
-        <link href="https://www.youtube.com/watch?v=eAVd0AdE6fo"/>
-        <updated>2023-08-05T13:00:33.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[We got the MOST ADVANCED WIRE EDM in the World]]></title>
         <id>https://www.youtube.com/watch?v=agVhNYN20FA</id>
         <link href="https://www.youtube.com/watch?v=agVhNYN20FA"/>
@@ -210,15 +300,6 @@
         <updated>2023-08-05T11:00:47.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Mop of the Future!]]></title>
-        <id>https://www.youtube.com/watch?v=sjrPAVLrBxw</id>
-        <link href="https://www.youtube.com/watch?v=sjrPAVLrBxw"/>
-        <updated>2023-08-05T09:00:38.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -246,15 +327,6 @@
         <updated>2023-08-04T21:12:20.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bye Bye Mosquitoes!]]></title>
-        <id>https://www.youtube.com/watch?v=XYSNa-gCs0I</id>
-        <link href="https://www.youtube.com/watch?v=XYSNa-gCs0I"/>
-        <updated>2023-08-04T21:00:17.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -654,24 +726,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Brilliance of Erosion Machining at WALTER | Germany]]></title>
-        <id>https://www.youtube.com/watch?v=o3L7oEOH9fU</id>
-        <link href="https://www.youtube.com/watch?v=o3L7oEOH9fU"/>
-        <updated>2023-07-27T14:00:24.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INSANE Part on the SMX 3100ST 9-Axis]]></title>
-        <id>https://www.youtube.com/watch?v=NwSQcWcyRow</id>
-        <link href="https://www.youtube.com/watch?v=NwSQcWcyRow"/>
-        <updated>2023-07-27T10:59:40.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[QIDI X-Max 3 with Maker's Muse LIVE!]]></title>
         <id>https://www.youtube.com/watch?v=i35pxCqa6Qg</id>
         <link href="https://www.youtube.com/watch?v=i35pxCqa6Qg"/>
@@ -681,30 +735,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Disney's Magical Trash Tubes Ended Up In New York City | World Wide Waste | Insider Business]]></title>
-        <id>https://www.youtube.com/watch?v=u_9ngalquVU</id>
-        <link href="https://www.youtube.com/watch?v=u_9ngalquVU"/>
-        <updated>2023-07-26T19:35:14.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Does Music Have a Speed Limit? And Why?]]></title>
         <id>https://www.youtube.com/watch?v=erBecZH7b0Y</id>
         <link href="https://www.youtube.com/watch?v=erBecZH7b0Y"/>
         <updated>2023-07-26T19:11:26.000Z</updated>
         <author>
             <name>Adam Neely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Kamebishi 20-Year-Aged Soy Sauce Is So Expensive | So Expensive | Insider Business]]></title>
-        <id>https://www.youtube.com/watch?v=57yJA0_XU_g</id>
-        <link href="https://www.youtube.com/watch?v=57yJA0_XU_g"/>
-        <updated>2023-07-25T23:29:59.000Z</updated>
-        <author>
-            <name>Insider Business</name>
         </author>
     </entry>
     <entry>
@@ -1680,15 +1716,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Argonaut Jr - Building and Diving a Wooden Submarine from 1894]]></title>
-        <id>https://www.youtube.com/watch?v=ULGLT-d5QfQ</id>
-        <link href="https://www.youtube.com/watch?v=ULGLT-d5QfQ"/>
-        <updated>2023-06-16T13:14:48.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PRUSA MK4 Special Delivery by Josef Prusa!]]></title>
         <id>https://www.youtube.com/watch?v=1c-mV9IE67o</id>
         <link href="https://www.youtube.com/watch?v=1c-mV9IE67o"/>
@@ -2139,15 +2166,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Magnetic Pole Shift - A Doomsday Scenario? #shorts #kurzgesagt]]></title>
-        <id>https://www.youtube.com/watch?v=IayvE_jFgrc</id>
-        <link href="https://www.youtube.com/watch?v=IayvE_jFgrc"/>
-        <updated>2023-05-18T14:00:20.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Γκεκ - Ράγκναρωκ]]></title>
         <id>https://www.youtube.com/watch?v=JXBVsABYW44</id>
         <link href="https://www.youtube.com/watch?v=JXBVsABYW44"/>
@@ -2226,15 +2244,6 @@
         <updated>2023-05-12T15:00:26.000Z</updated>
         <author>
             <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make vortex rings in your pool]]></title>
-        <id>https://www.youtube.com/watch?v=a7gv_9E_1Fw</id>
-        <link href="https://www.youtube.com/watch?v=a7gv_9E_1Fw"/>
-        <updated>2023-05-11T03:22:13.000Z</updated>
-        <author>
-            <name>Physics Girl</name>
         </author>
     </entry>
 </feed>
