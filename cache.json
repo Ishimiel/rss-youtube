@@ -497,6 +497,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=MM5VrNOkyS4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MM5VrNOkyS4",
+          "publishedOn": "2023-08-11T13:53:15.000Z",
+          "wordCount": null,
+          "title": "Hilton Als: My Pinup",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=jxCDu0p7ZYc",
           "author": null,
           "description": "",
@@ -635,16 +645,6 @@
           "wordCount": null,
           "title": "Qasim Naqvi | Ragas Live Festival 2022",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fwJxGl4bt9M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fwJxGl4bt9M",
-          "publishedOn": "2023-07-20T17:33:04.000Z",
-          "wordCount": null,
-          "title": "Manik Khan & Sudhakar Vaidyanathan (Tribute to Ali Akbar Khan)  |  Ragas Live Festival 2022",
-          "imageUrl": null
         }
       ]
     },
@@ -730,6 +730,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_7aK9PpYTqt08ERh1MewlQ",
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=0IzqaW7Chr4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0IzqaW7Chr4",
+          "publishedOn": "2023-08-11T13:00:01.000Z",
+          "wordCount": null,
+          "title": "AI Assisted 3D Printing Project …with lasers!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=4JQq1m3cmOU",
           "author": null,
@@ -868,16 +878,6 @@
           "publishedOn": "2023-06-16T13:00:01.000Z",
           "wordCount": null,
           "title": "PRUSA MK4 Special Delivery by Josef Prusa!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_rbpTDvrT2s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_rbpTDvrT2s",
-          "publishedOn": "2023-06-09T13:00:31.000Z",
-          "wordCount": null,
-          "title": "CLEAN YOUR AIR!",
           "imageUrl": null
         }
       ]
@@ -1057,16 +1057,6 @@
           "wordCount": null,
           "title": "E3D made an impressive HIGH FLOW nozzle!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZXg_Ml6xJGU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZXg_Ml6xJGU",
-          "publishedOn": "2023-05-13T15:31:17.000Z",
-          "wordCount": null,
-          "title": "10 AMAZING 3D Printing Projects: Rocky Mountain RepRap Festival 2023",
-          "imageUrl": null
         }
       ]
     },
@@ -1176,6 +1166,56 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=eWC2_o_Asbc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eWC2_o_Asbc",
+          "publishedOn": "2023-08-11T21:00:20.000Z",
+          "wordCount": null,
+          "title": "What level of destruction did post-Oppenheimer bombs achieve?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=figsaNEOD78",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=figsaNEOD78",
+          "publishedOn": "2023-08-11T19:00:24.000Z",
+          "wordCount": null,
+          "title": "Top 7 areas where the superconductors could affect our lives the most!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0u6RsjwU3qo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0u6RsjwU3qo",
+          "publishedOn": "2023-08-11T17:00:00.000Z",
+          "wordCount": null,
+          "title": "Top 7 Craziest Potential Superconductor Inventions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YfLXOWy6CsM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YfLXOWy6CsM",
+          "publishedOn": "2023-08-11T13:00:34.000Z",
+          "wordCount": null,
+          "title": "This Device is Every Instrument All at Once",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xbxFogAE58o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xbxFogAE58o",
+          "publishedOn": "2023-08-11T09:00:43.000Z",
+          "wordCount": null,
+          "title": "Can You Use Water to Cut Through Hard Steel?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=uKzmj5y6Uy4",
           "author": null,
           "description": "",
@@ -1192,7 +1232,7 @@
           "link": "https://www.youtube.com/watch?v=ZQyOmABUJQ8",
           "publishedOn": "2023-08-10T18:12:42.000Z",
           "wordCount": null,
-          "title": "What were the Most Powerful Nuclear Bomb Explosions in History?",
+          "title": "The Most Powerful Nukes Ever Recorded",
           "imageUrl": null
         },
         {
@@ -1273,56 +1313,6 @@
           "publishedOn": "2023-08-08T13:00:02.000Z",
           "wordCount": null,
           "title": "Revolutionize Your Ride with PikaBoost eBike Converter!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QMVrpN3KdqE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QMVrpN3KdqE",
-          "publishedOn": "2023-08-08T09:00:15.000Z",
-          "wordCount": null,
-          "title": "Toadi is the Future of Autonomous Lawn Care",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KV2tGPdtpSA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KV2tGPdtpSA",
-          "publishedOn": "2023-08-07T23:00:16.000Z",
-          "wordCount": null,
-          "title": "How Did Electric Cars Exist Before Gasoline Cars?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LceG237G7Fw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LceG237G7Fw",
-          "publishedOn": "2023-08-07T23:00:14.000Z",
-          "wordCount": null,
-          "title": "Why Clara Ford Drove an Electric Car!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fS2zFzllpek",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fS2zFzllpek",
-          "publishedOn": "2023-08-07T21:00:19.000Z",
-          "wordCount": null,
-          "title": "Unleash Your Inner Aquaman!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tmOJZwaokbc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tmOJZwaokbc",
-          "publishedOn": "2023-08-07T19:00:31.000Z",
-          "wordCount": null,
-          "title": "How Does UK's Challenger 2 Outclass Russian Tanks",
           "imageUrl": null
         }
       ]
@@ -1662,6 +1652,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCj_XaV1ss-qdD-lPUtTEcXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=RcnJvWbBVuE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RcnJvWbBVuE",
+          "publishedOn": "2023-08-11T19:35:18.000Z",
+          "wordCount": null,
+          "title": "Broke the Forward Sail",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ocgOvD-NPZo",
           "author": null,
           "description": "",
@@ -1799,16 +1799,6 @@
           "publishedOn": "2023-06-30T17:09:31.000Z",
           "wordCount": null,
           "title": "Autopilot - Part 3 - Now just turn it on and see why it doesn't work",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DDsC46UEPwI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DDsC46UEPwI",
-          "publishedOn": "2023-06-23T21:08:19.000Z",
-          "wordCount": null,
-          "title": "Autopilot Part 2 - Fireworks",
           "imageUrl": null
         }
       ]
@@ -1988,16 +1978,6 @@
           "wordCount": null,
           "title": "The Fastest Maze-Solving Competition On Earth",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FU_YFpfDqqA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FU_YFpfDqqA",
-          "publishedOn": "2023-05-13T14:06:52.000Z",
-          "wordCount": null,
-          "title": "Why The First Computers Were Made Out Of Light Bulbs",
-          "imageUrl": null
         }
       ]
     },
@@ -2164,6 +2144,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCUW49KGPezggFi0PGyDvcvg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=96eFnTescoY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=96eFnTescoY",
+          "publishedOn": "2023-08-11T14:00:06.000Z",
+          "wordCount": null,
+          "title": "The Highly Ridiculous Over-Engineering of the Diamondback Nozzle",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=m99I05VJFLQ",
           "author": null,
           "description": "",
@@ -2181,16 +2171,6 @@
           "publishedOn": "2023-06-12T13:00:30.000Z",
           "wordCount": null,
           "title": "How to Use Oscilloscopes, Logic Analyzers, Multimeters, and More",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Iqz7ZDdP25A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Iqz7ZDdP25A",
-          "publishedOn": "2023-05-14T12:00:21.000Z",
-          "wordCount": null,
-          "title": "Hextraction: The Free 3D-Printed Board Game You Make, Mod, and Master",
           "imageUrl": null
         }
       ]
@@ -2257,6 +2237,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=8le6rYWqYnA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8le6rYWqYnA",
+          "publishedOn": "2023-08-11T11:00:34.000Z",
+          "wordCount": null,
+          "title": "AGGRESSIVE Cast Iron Machining",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=eit-EPDf8dg",
           "author": null,
@@ -2396,16 +2386,6 @@
           "wordCount": null,
           "title": "Extremely Efficient Thread Cutting",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vv5n5MSpm00",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vv5n5MSpm00",
-          "publishedOn": "2023-07-30T11:00:43.000Z",
-          "wordCount": null,
-          "title": "The Art of Grinding a Flawless Finish",
-          "imageUrl": null
         }
       ]
     },
@@ -2414,6 +2394,36 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=IKWtNcStMPs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IKWtNcStMPs",
+          "publishedOn": "2023-08-11T20:21:01.000Z",
+          "wordCount": null,
+          "title": "US Army sniper suits go through intense testing before they are used. #usarmy #military",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-ItlonFhTx8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-ItlonFhTx8",
+          "publishedOn": "2023-08-11T18:04:59.000Z",
+          "wordCount": null,
+          "title": "Do you know why the Colombian government is blowing up oil refineries? #oil #Colombia #explosion",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YcZJ0tvRTlc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YcZJ0tvRTlc",
+          "publishedOn": "2023-08-11T01:52:36.000Z",
+          "wordCount": null,
+          "title": "Here's how ghillie suits are made for combat. #USArmy #Combat #ghilliesuits",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=gX1KqZMojjA",
           "author": null,
@@ -2533,36 +2543,6 @@
           "wordCount": null,
           "title": "Here's why this French lace costs over $500 per meter. #french #francelace #crafts",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ucy3uwqsgD8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ucy3uwqsgD8",
-          "publishedOn": "2023-08-02T00:20:27.000Z",
-          "wordCount": null,
-          "title": "Here's why a kilogram of vicuña wool can sell for $370. #vicunawool #textiles #bolivia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZajeWUKw1KU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZajeWUKw1KU",
-          "publishedOn": "2023-07-31T15:00:33.000Z",
-          "wordCount": null,
-          "title": "11 Of The Most Expensive Items Made In The USA | So Expensive | Insider Business",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bRRArEWXYbA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bRRArEWXYbA",
-          "publishedOn": "2023-07-29T15:00:24.000Z",
-          "wordCount": null,
-          "title": "Why Hyperrealistic Reborn Dolls Can Cost €15,000 | So Expensive | Insider Business",
-          "imageUrl": null
         }
       ]
     },
@@ -2608,6 +2588,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCM15YNy8g-CaJ15YZCbq0Iw",
       "siteUrl": "https://www.youtube.com/channel/UCM15YNy8g-CaJ15YZCbq0Iw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=vsnJ5rWC0m8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vsnJ5rWC0m8",
+          "publishedOn": "2023-08-11T15:00:47.000Z",
+          "wordCount": null,
+          "title": "I made Bert and Ernie but they're realistic",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=dwy1XoMvrYI",
           "author": null,
