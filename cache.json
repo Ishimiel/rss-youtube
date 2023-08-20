@@ -210,16 +210,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=I325AQkzacI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=I325AQkzacI",
-          "publishedOn": "2023-08-18T14:00:22.000Z",
-          "wordCount": null,
-          "title": "24 Hours Remaining.",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=cFslUSyfZPc",
           "author": null,
           "description": "",
@@ -357,6 +347,16 @@
           "publishedOn": "2023-06-08T14:00:16.000Z",
           "wordCount": null,
           "title": "How do Lasers Work? #shorts #kurzgesagt",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=LNv4y3wPQA0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LNv4y3wPQA0",
+          "publishedOn": "2023-06-01T14:00:11.000Z",
+          "wordCount": null,
+          "title": "Earth as a Cube – What Would It Look Like? #shorts #kurzgesagt",
           "imageUrl": null
         }
       ]
@@ -1141,16 +1141,6 @@
           "wordCount": null,
           "title": "Starship vs N1... Is Starship doomed to repeat history?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=De1wzJw0-ig",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=De1wzJw0-ig",
-          "publishedOn": "2023-05-21T22:46:59.000Z",
-          "wordCount": null,
-          "title": "Watch #SpaceX launch 4 humans to the ISS & land the booster back on land!",
-          "imageUrl": null
         }
       ]
     },
@@ -1165,6 +1155,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEuiOszNd6msGgqsD0f9YAQ",
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=QLzFG-kmbNs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QLzFG-kmbNs",
+          "publishedOn": "2023-08-19T21:00:16.000Z",
+          "wordCount": null,
+          "title": "This Guy Makes $20,000 for a 1500-Foot Climb",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ttACZOqNA0I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ttACZOqNA0I",
+          "publishedOn": "2023-08-19T09:00:38.000Z",
+          "wordCount": null,
+          "title": "Induction Heating is a Fascinating Thing to Watch",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=HD4sqfI-vGo",
           "author": null,
@@ -1293,26 +1303,6 @@
           "publishedOn": "2023-08-16T07:30:58.000Z",
           "wordCount": null,
           "title": "Mr. Freeze's Freeze Gun is Real!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=L22sdG0hAYI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=L22sdG0hAYI",
-          "publishedOn": "2023-08-15T19:00:07.000Z",
-          "wordCount": null,
-          "title": "Scientists Are Turning Mr. Freeze's Iconic Weapon into Reality",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=K0yUiJrLMKA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=K0yUiJrLMKA",
-          "publishedOn": "2023-08-15T13:00:13.000Z",
-          "wordCount": null,
-          "title": "How Insects Came Under Spotlight as the Future of Food",
           "imageUrl": null
         }
       ]
@@ -1573,6 +1563,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg",
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=S4L_0CDsd1I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=S4L_0CDsd1I",
+          "publishedOn": "2023-08-19T15:00:15.000Z",
+          "wordCount": null,
+          "title": "How Japan's Maglev Train Works",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=83i-t8Ouk_0",
           "author": null,
@@ -1956,6 +1956,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=t-v90W9n6mQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=t-v90W9n6mQ",
+          "publishedOn": "2023-08-19T16:12:43.000Z",
+          "wordCount": null,
+          "title": "My Favorite Fact",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=asTywgpiSkQ",
           "author": null,
           "description": "",
@@ -2094,16 +2104,6 @@
           "wordCount": null,
           "title": "The Book Bush Was Reading on 9/11",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=u1WaWTyWXRc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=u1WaWTyWXRc",
-          "publishedOn": "2023-06-26T17:29:22.000Z",
-          "wordCount": null,
-          "title": "Exploding Bubbles",
-          "imageUrl": null
         }
       ]
     },
@@ -2196,6 +2196,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=OIzc2rVPsmM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OIzc2rVPsmM",
+          "publishedOn": "2023-08-19T13:00:14.000Z",
+          "wordCount": null,
+          "title": "This SINKER EDM is the MOST Advanced in the World",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=_lg5y3oCBeM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_lg5y3oCBeM",
+          "publishedOn": "2023-08-19T11:00:25.000Z",
+          "wordCount": null,
+          "title": "What Does a Mini Gun Have to do With Machining? 🤔 #titansofcnc #cnc #machining #machinist #minigun",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=YjClh9U4LWE",
           "author": null,
@@ -2325,26 +2345,6 @@
           "wordCount": null,
           "title": "CNC Machining a Jet Engine Turbine Blade",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LkPt_8BHJUQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LkPt_8BHJUQ",
-          "publishedOn": "2023-08-09T11:00:13.000Z",
-          "wordCount": null,
-          "title": "Slinging Chips with Bi-Directional Machining!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3Xy6L8Rjrco",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3Xy6L8Rjrco",
-          "publishedOn": "2023-08-08T14:00:03.000Z",
-          "wordCount": null,
-          "title": "Is This The Best CNC Control?",
-          "imageUrl": null
         }
       ]
     },
@@ -2353,6 +2353,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=36dy4nMR0X8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=36dy4nMR0X8",
+          "publishedOn": "2023-08-19T15:00:02.000Z",
+          "wordCount": null,
+          "title": "Why Hanji (Korean Paper) Is So Expensive | So Expensive | Insider Business",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=PUafbdY0vrI",
           "author": null,
@@ -2491,16 +2501,6 @@
           "publishedOn": "2023-08-11T01:52:36.000Z",
           "wordCount": null,
           "title": "Here's how ghillie suits are made for combat. #USArmy #Combat #ghilliesuits",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gX1KqZMojjA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gX1KqZMojjA",
-          "publishedOn": "2023-08-09T23:48:58.000Z",
-          "wordCount": null,
-          "title": "How these handmade books cost up to $10,000 to make #books #crafts #handmade",
           "imageUrl": null
         }
       ]
