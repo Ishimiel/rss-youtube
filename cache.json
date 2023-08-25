@@ -923,18 +923,7 @@
       "title": "AlphaPhoenix",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCWeRTgd79JL0ilH0ZywSJA",
       "siteUrl": "https://www.youtube.com/channel/UCCWeRTgd79JL0ilH0ZywSJA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=fyD1yv-6sTc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fyD1yv-6sTc",
-          "publishedOn": "2023-05-26T16:00:35.000Z",
-          "wordCount": null,
-          "title": "Two ways to make asymmetric mirrors (Printing vs. Warping)",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Artem Kirsanov",
@@ -1105,6 +1094,46 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=J7KmkJ4SsVA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=J7KmkJ4SsVA",
+          "publishedOn": "2023-08-24T21:00:10.000Z",
+          "wordCount": null,
+          "title": "A Windmill Getting Destroyed by a Storm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DMRiBtkOS5c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DMRiBtkOS5c",
+          "publishedOn": "2023-08-24T19:00:05.000Z",
+          "wordCount": null,
+          "title": "The Story of the Largest Bomb on Earth",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=NEpswMyrpC8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NEpswMyrpC8",
+          "publishedOn": "2023-08-24T17:19:57.000Z",
+          "wordCount": null,
+          "title": "How the Soviet Union Made the Largest Bomb on Earth?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=_-cSXnbJFy8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_-cSXnbJFy8",
+          "publishedOn": "2023-08-24T09:42:17.000Z",
+          "wordCount": null,
+          "title": "Automatic Parking Robot Looks Like a Great Solution to Illegal Parking",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=91YIH61NBY0",
           "author": null,
           "description": "",
@@ -1212,46 +1241,6 @@
           "publishedOn": "2023-08-21T19:00:01.000Z",
           "wordCount": null,
           "title": "Why Merkava can become a game-changer in Ukraine War",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=G4ixJFB7hlg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=G4ixJFB7hlg",
-          "publishedOn": "2023-08-21T09:00:15.000Z",
-          "wordCount": null,
-          "title": "Watch the Leidenfrost Effect in Action.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WF4xy4KtdsU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WF4xy4KtdsU",
-          "publishedOn": "2023-08-20T21:00:23.000Z",
-          "wordCount": null,
-          "title": "Why Does This Sand Behave Like a Liquid?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SOIP35Mjk08",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SOIP35Mjk08",
-          "publishedOn": "2023-08-20T09:00:27.000Z",
-          "wordCount": null,
-          "title": "Watch This Amazing Waste Gas Burner Explosion",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QLzFG-kmbNs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QLzFG-kmbNs",
-          "publishedOn": "2023-08-19T21:00:16.000Z",
-          "wordCount": null,
-          "title": "This Guy Makes $20,000 for a 1500-Foot Climb",
           "imageUrl": null
         }
       ]
@@ -1397,16 +1386,6 @@
           "wordCount": null,
           "title": "The Brick Factory Problem - Numberphile",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oSXVmuNIfRI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oSXVmuNIfRI",
-          "publishedOn": "2023-05-26T16:10:52.000Z",
-          "wordCount": null,
-          "title": "Parabolic Mirrors - Numberphile",
-          "imageUrl": null
         }
       ]
     },
@@ -1493,16 +1472,6 @@
           "publishedOn": "2023-06-01T17:38:17.000Z",
           "wordCount": null,
           "title": "Visiting the largest scientific facility on Earth",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JfvrSI9FSig",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JfvrSI9FSig",
-          "publishedOn": "2023-05-27T00:28:02.000Z",
-          "wordCount": null,
-          "title": "Dianna's restrictive diet",
           "imageUrl": null
         }
       ]
@@ -1791,6 +1760,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCk0fGHsCEzGig-rSzkfCjMw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=MuHcbTuCCWE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MuHcbTuCCWE",
+          "publishedOn": "2023-08-24T09:50:52.000Z",
+          "wordCount": null,
+          "title": "What is a capacitor? #technology #electronics #engineering",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=aRUThHmwFSc",
           "author": null,
           "description": "",
@@ -2068,7 +2047,7 @@
           "link": "https://www.youtube.com/watch?v=-b8cAytY3Pk",
           "publishedOn": "2023-08-23T17:34:57.000Z",
           "wordCount": null,
-          "title": "What is a Voidstar? How Nothing can do Anything",
+          "title": "What is a Voidstar? Make Nothing do Anything",
           "imageUrl": null
         },
         {
@@ -2155,6 +2134,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=SeB5IM39woo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SeB5IM39woo",
+          "publishedOn": "2023-08-24T14:00:14.000Z",
+          "wordCount": null,
+          "title": "This Hole was IMPOSSIBLE to Drill Until I Figured Out this Process",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-F71BsoksJM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-F71BsoksJM",
+          "publishedOn": "2023-08-24T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Crazy Full Slotting Through 316 Steel #titansofcnc #cnc #machining #machinist #engineering #steel",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=RcO3ra46ojc",
           "author": null,
@@ -2284,26 +2283,6 @@
           "wordCount": null,
           "title": "The Art of Pinch Turning",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WC4GcWZm-ak",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WC4GcWZm-ak",
-          "publishedOn": "2023-08-14T11:00:47.000Z",
-          "wordCount": null,
-          "title": "What It Takes to Measure THIS Tiny Screw",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oDMPTJwKqvw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oDMPTJwKqvw",
-          "publishedOn": "2023-08-13T11:01:29.000Z",
-          "wordCount": null,
-          "title": "Cutting Complex Metal Shapes with Broaching",
-          "imageUrl": null
         }
       ]
     },
@@ -2312,6 +2291,36 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=atgr9H3lOPI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=atgr9H3lOPI",
+          "publishedOn": "2023-08-24T17:28:40.000Z",
+          "wordCount": null,
+          "title": "The price of champagne can cost $116,000. 🍾 #champagne #expensive #history",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=GTS4x9D6Eog",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GTS4x9D6Eog",
+          "publishedOn": "2023-08-24T15:06:45.000Z",
+          "wordCount": null,
+          "title": "Can you own the copyright for a fruit? 🥝 #goldenkiwi #exoticfruit #copyright",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jqn6eKJbtkk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jqn6eKJbtkk",
+          "publishedOn": "2023-08-24T15:00:39.000Z",
+          "wordCount": null,
+          "title": "How The Air Force Academy Makes 10,000 Meals A Day For 4,000 Cadets | Boot Camp | Insider Business",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=r89d51sNVw0",
           "author": null,
@@ -2430,36 +2439,6 @@
           "publishedOn": "2023-08-16T21:18:47.000Z",
           "wordCount": null,
           "title": "Why New Zealand's Golden Kiwis Are So Expensive | So Expensive | Insider Business",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cDA1ooR6Bek",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cDA1ooR6Bek",
-          "publishedOn": "2023-08-16T18:58:39.000Z",
-          "wordCount": null,
-          "title": "Did you know bamboo salt is the most expensive salt in the world? #bamboo #bamboosalt #funfact",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Uo6KRFh0za0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Uo6KRFh0za0",
-          "publishedOn": "2023-08-14T23:00:15.000Z",
-          "wordCount": null,
-          "title": "How A Louisiana Crawfish Company Harvests 60,000 pounds A Day | Big Business | Insider Business",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9SHkuJD7FeU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9SHkuJD7FeU",
-          "publishedOn": "2023-08-14T19:49:11.000Z",
-          "wordCount": null,
-          "title": "This 600-pound bluefin #tuna, known as the \"king of sushi,\" can sell for up to $3 million. #fish",
           "imageUrl": null
         }
       ]
@@ -2604,16 +2583,6 @@
           "publishedOn": "2023-06-02T15:00:33.000Z",
           "wordCount": null,
           "title": "I turned a lump of clay into Diablo, the Lord of Terror",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xDIV8y6MJzI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xDIV8y6MJzI",
-          "publishedOn": "2023-05-26T15:00:43.000Z",
-          "wordCount": null,
-          "title": "Forget Cocaine Bear, I made Zombie Bear",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-24T00:27:18.031Z</id>
+    <id>urn:2023-08-25T00:27:47.190Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-24T00:27:18.031Z</updated>
+    <updated>2023-08-25T00:27:47.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Windmill Getting Destroyed by a Storm]]></title>
+        <id>https://www.youtube.com/watch?v=J7KmkJ4SsVA</id>
+        <link href="https://www.youtube.com/watch?v=J7KmkJ4SsVA"/>
+        <updated>2023-08-24T21:00:10.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Story of the Largest Bomb on Earth]]></title>
+        <id>https://www.youtube.com/watch?v=DMRiBtkOS5c</id>
+        <link href="https://www.youtube.com/watch?v=DMRiBtkOS5c"/>
+        <updated>2023-08-24T19:00:05.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The price of champagne can cost $116,000. 🍾 #champagne #expensive #history]]></title>
+        <id>https://www.youtube.com/watch?v=atgr9H3lOPI</id>
+        <link href="https://www.youtube.com/watch?v=atgr9H3lOPI"/>
+        <updated>2023-08-24T17:28:40.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Soviet Union Made the Largest Bomb on Earth?]]></title>
+        <id>https://www.youtube.com/watch?v=NEpswMyrpC8</id>
+        <link href="https://www.youtube.com/watch?v=NEpswMyrpC8"/>
+        <updated>2023-08-24T17:19:57.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can you own the copyright for a fruit? 🥝 #goldenkiwi #exoticfruit #copyright]]></title>
+        <id>https://www.youtube.com/watch?v=GTS4x9D6Eog</id>
+        <link href="https://www.youtube.com/watch?v=GTS4x9D6Eog"/>
+        <updated>2023-08-24T15:06:45.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How The Air Force Academy Makes 10,000 Meals A Day For 4,000 Cadets | Boot Camp | Insider Business]]></title>
+        <id>https://www.youtube.com/watch?v=jqn6eKJbtkk</id>
+        <link href="https://www.youtube.com/watch?v=jqn6eKJbtkk"/>
+        <updated>2023-08-24T15:00:39.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Hole was IMPOSSIBLE to Drill Until I Figured Out this Process]]></title>
+        <id>https://www.youtube.com/watch?v=SeB5IM39woo</id>
+        <link href="https://www.youtube.com/watch?v=SeB5IM39woo"/>
+        <updated>2023-08-24T14:00:14.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crazy Full Slotting Through 316 Steel #titansofcnc #cnc #machining #machinist #engineering #steel]]></title>
+        <id>https://www.youtube.com/watch?v=-F71BsoksJM</id>
+        <link href="https://www.youtube.com/watch?v=-F71BsoksJM"/>
+        <updated>2023-08-24T11:00:00.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a capacitor? #technology #electronics #engineering]]></title>
+        <id>https://www.youtube.com/watch?v=MuHcbTuCCWE</id>
+        <link href="https://www.youtube.com/watch?v=MuHcbTuCCWE"/>
+        <updated>2023-08-24T09:50:52.000Z</updated>
+        <author>
+            <name>The Engineering Mindset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automatic Parking Robot Looks Like a Great Solution to Illegal Parking]]></title>
+        <id>https://www.youtube.com/watch?v=_-cSXnbJFy8</id>
+        <link href="https://www.youtube.com/watch?v=_-cSXnbJFy8"/>
+        <updated>2023-08-24T09:42:17.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[India's Chandrayaan-3 makes Historic Moon Landing. What's Next?]]></title>
         <id>https://www.youtube.com/watch?v=91YIH61NBY0</id>
@@ -42,7 +132,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is a Voidstar? How Nothing can do Anything]]></title>
+        <title type="html"><![CDATA[What is a Voidstar? Make Nothing do Anything]]></title>
         <id>https://www.youtube.com/watch?v=-b8cAytY3Pk</id>
         <link href="https://www.youtube.com/watch?v=-b8cAytY3Pk"/>
         <updated>2023-08-23T17:34:57.000Z</updated>
@@ -267,48 +357,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Watch the Leidenfrost Effect in Action.]]></title>
-        <id>https://www.youtube.com/watch?v=G4ixJFB7hlg</id>
-        <link href="https://www.youtube.com/watch?v=G4ixJFB7hlg"/>
-        <updated>2023-08-21T09:00:15.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Does This Sand Behave Like a Liquid?]]></title>
-        <id>https://www.youtube.com/watch?v=WF4xy4KtdsU</id>
-        <link href="https://www.youtube.com/watch?v=WF4xy4KtdsU"/>
-        <updated>2023-08-20T21:00:23.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Perfectly Balancing our Tyrolit Grinding Wheels]]></title>
         <id>https://www.youtube.com/watch?v=iC5LLhfZM6Y</id>
         <link href="https://www.youtube.com/watch?v=iC5LLhfZM6Y"/>
         <updated>2023-08-20T11:00:36.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch This Amazing Waste Gas Burner Explosion]]></title>
-        <id>https://www.youtube.com/watch?v=SOIP35Mjk08</id>
-        <link href="https://www.youtube.com/watch?v=SOIP35Mjk08"/>
-        <updated>2023-08-20T09:00:27.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Guy Makes $20,000 for a 1500-Foot Climb]]></title>
-        <id>https://www.youtube.com/watch?v=QLzFG-kmbNs</id>
-        <link href="https://www.youtube.com/watch?v=QLzFG-kmbNs"/>
-        <updated>2023-08-19T21:00:16.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -474,15 +528,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Did you know bamboo salt is the most expensive salt in the world? #bamboo #bamboosalt #funfact]]></title>
-        <id>https://www.youtube.com/watch?v=cDA1ooR6Bek</id>
-        <link href="https://www.youtube.com/watch?v=cDA1ooR6Bek"/>
-        <updated>2023-08-16T18:58:39.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Seasick Sailing on a Rolling Sea]]></title>
         <id>https://www.youtube.com/watch?v=Z35-8YSug4M</id>
         <link href="https://www.youtube.com/watch?v=Z35-8YSug4M"/>
@@ -546,30 +591,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How A Louisiana Crawfish Company Harvests 60,000 pounds A Day | Big Business | Insider Business]]></title>
-        <id>https://www.youtube.com/watch?v=Uo6KRFh0za0</id>
-        <link href="https://www.youtube.com/watch?v=Uo6KRFh0za0"/>
-        <updated>2023-08-14T23:00:15.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[4k Clean Audio] Starship Static Fire // A:B Comparison w/ Deluge]]></title>
         <id>https://www.youtube.com/watch?v=jKMd7U3nwdw</id>
         <link href="https://www.youtube.com/watch?v=jKMd7U3nwdw"/>
         <updated>2023-08-14T20:00:17.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This 600-pound bluefin #tuna, known as the "king of sushi," can sell for up to $3 million. #fish]]></title>
-        <id>https://www.youtube.com/watch?v=9SHkuJD7FeU</id>
-        <link href="https://www.youtube.com/watch?v=9SHkuJD7FeU"/>
-        <updated>2023-08-14T19:49:11.000Z</updated>
-        <author>
-            <name>Insider Business</name>
         </author>
     </entry>
     <entry>
@@ -582,30 +609,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What It Takes to Measure THIS Tiny Screw]]></title>
-        <id>https://www.youtube.com/watch?v=WC4GcWZm-ak</id>
-        <link href="https://www.youtube.com/watch?v=WC4GcWZm-ak"/>
-        <updated>2023-08-14T11:00:47.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PW Broadcast Radio Hour : Maya Binyam with Joshua Jelly-Shapiro - 8.13.23 - Second Sundays]]></title>
         <id>https://www.youtube.com/watch?v=xyWaAKSDZtI</id>
         <link href="https://www.youtube.com/watch?v=xyWaAKSDZtI"/>
         <updated>2023-08-14T09:01:12.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cutting Complex Metal Shapes with Broaching]]></title>
-        <id>https://www.youtube.com/watch?v=oDMPTJwKqvw</id>
-        <link href="https://www.youtube.com/watch?v=oDMPTJwKqvw"/>
-        <updated>2023-08-13T11:01:29.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2154,42 +2163,6 @@
         <updated>2023-05-27T15:35:00.000Z</updated>
         <author>
             <name>CNC Kitchen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dianna's restrictive diet]]></title>
-        <id>https://www.youtube.com/watch?v=JfvrSI9FSig</id>
-        <link href="https://www.youtube.com/watch?v=JfvrSI9FSig"/>
-        <updated>2023-05-27T00:28:02.000Z</updated>
-        <author>
-            <name>Physics Girl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parabolic Mirrors - Numberphile]]></title>
-        <id>https://www.youtube.com/watch?v=oSXVmuNIfRI</id>
-        <link href="https://www.youtube.com/watch?v=oSXVmuNIfRI"/>
-        <updated>2023-05-26T16:10:52.000Z</updated>
-        <author>
-            <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two ways to make asymmetric mirrors (Printing vs. Warping)]]></title>
-        <id>https://www.youtube.com/watch?v=fyD1yv-6sTc</id>
-        <link href="https://www.youtube.com/watch?v=fyD1yv-6sTc"/>
-        <updated>2023-05-26T16:00:35.000Z</updated>
-        <author>
-            <name>AlphaPhoenix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forget Cocaine Bear, I made Zombie Bear]]></title>
-        <id>https://www.youtube.com/watch?v=xDIV8y6MJzI</id>
-        <link href="https://www.youtube.com/watch?v=xDIV8y6MJzI"/>
-        <updated>2023-05-26T15:00:43.000Z</updated>
-        <author>
-            <name>North of the Border</name>
         </author>
     </entry>
 </feed>
