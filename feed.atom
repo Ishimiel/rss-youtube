@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-27T00:29:47.043Z</id>
+    <id>urn:2023-08-28T00:28:57.356Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-27T00:29:47.043Z</updated>
+    <updated>2023-08-28T00:28:57.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building a 230-Foot Tunnel In a Weekend]]></title>
+        <id>https://www.youtube.com/watch?v=6j9j6g-_Eko</id>
+        <link href="https://www.youtube.com/watch?v=6j9j6g-_Eko"/>
+        <updated>2023-08-27T21:00:03.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why This Bot Kills Starfish?]]></title>
+        <id>https://www.youtube.com/watch?v=IGkZS3vpuy0</id>
+        <link href="https://www.youtube.com/watch?v=IGkZS3vpuy0"/>
+        <updated>2023-08-27T19:02:06.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Bot Hunts Down Starfish ONLY]]></title>
+        <id>https://www.youtube.com/watch?v=OjtxqMHcyV0</id>
+        <link href="https://www.youtube.com/watch?v=OjtxqMHcyV0"/>
+        <updated>2023-08-27T18:53:28.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rebuilding from Failure]]></title>
+        <id>https://www.youtube.com/watch?v=Gu7iiBv39hI</id>
+        <link href="https://www.youtube.com/watch?v=Gu7iiBv39hI"/>
+        <updated>2023-08-27T14:57:20.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buying a 3D Printer IN MALTA? #3dprinting #malta]]></title>
+        <id>https://www.youtube.com/watch?v=JTZxpsGb248</id>
+        <link href="https://www.youtube.com/watch?v=JTZxpsGb248"/>
+        <updated>2023-08-27T13:00:10.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cutting Perfect Gears with Power Skiving ⚙️ #cnc #machining #machinist #engineering #3dprinting #fyp]]></title>
+        <id>https://www.youtube.com/watch?v=6T-APRHcjXA</id>
+        <link href="https://www.youtube.com/watch?v=6T-APRHcjXA"/>
+        <updated>2023-08-27T11:00:03.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Inside of an Escalator Looks]]></title>
+        <id>https://www.youtube.com/watch?v=lI5BdHgy5gQ</id>
+        <link href="https://www.youtube.com/watch?v=lI5BdHgy5gQ"/>
+        <updated>2023-08-27T09:10:03.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Engineering Behind This Steam Locomotive is Impressive]]></title>
         <id>https://www.youtube.com/watch?v=ZfC0754SCd0</id>
@@ -244,42 +307,6 @@
         <id>https://www.youtube.com/watch?v=_-cSXnbJFy8</id>
         <link href="https://www.youtube.com/watch?v=_-cSXnbJFy8"/>
         <updated>2023-08-24T09:42:17.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[India's Chandrayaan-3 makes Historic Moon Landing. What's Next?]]></title>
-        <id>https://www.youtube.com/watch?v=91YIH61NBY0</id>
-        <link href="https://www.youtube.com/watch?v=91YIH61NBY0"/>
-        <updated>2023-08-23T23:13:54.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Window Edges Have Halftone Dots]]></title>
-        <id>https://www.youtube.com/watch?v=G3Ufh75hCsg</id>
-        <link href="https://www.youtube.com/watch?v=G3Ufh75hCsg"/>
-        <updated>2023-08-23T21:00:05.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How The Patriot and Kinzhal Duel in Kyiv's Skies]]></title>
-        <id>https://www.youtube.com/watch?v=cYiH5Gm4LAs</id>
-        <link href="https://www.youtube.com/watch?v=cYiH5Gm4LAs"/>
-        <updated>2023-08-23T19:00:18.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MIM-104 Patriot Takes on Russia's Kinzhal in Ukraine: Who Wins?]]></title>
-        <id>https://www.youtube.com/watch?v=VazaEK70kOE</id>
-        <link href="https://www.youtube.com/watch?v=VazaEK70kOE"/>
-        <updated>2023-08-23T19:00:12.000Z</updated>
         <author>
             <name>Interesting Engineering</name>
         </author>
@@ -577,15 +604,6 @@
         <id>https://www.youtube.com/watch?v=oSbs8rQjxuc</id>
         <link href="https://www.youtube.com/watch?v=oSbs8rQjxuc"/>
         <updated>2023-08-17T14:00:37.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using a CNC Machine to Crack a Safe #titansofcnc #cnc #machining #machinist #engineering #3dprinting]]></title>
-        <id>https://www.youtube.com/watch?v=dQNJNnieU84</id>
-        <link href="https://www.youtube.com/watch?v=dQNJNnieU84"/>
-        <updated>2023-08-17T11:00:36.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
         </author>
@@ -1023,7 +1041,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D Printing VERSUS Industrial Robots]]></title>
+        <title type="html"><![CDATA[How Tough is 3D Printing + 3DGloop!?]]></title>
         <id>https://www.youtube.com/watch?v=ZeHiikFReJ8</id>
         <link href="https://www.youtube.com/watch?v=ZeHiikFReJ8"/>
         <updated>2023-07-28T13:00:24.000Z</updated>
@@ -1164,15 +1182,6 @@
         <updated>2023-07-21T20:26:55.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sailing Trials and Modifications]]></title>
-        <id>https://www.youtube.com/watch?v=47qWZbarYkM</id>
-        <link href="https://www.youtube.com/watch?v=47qWZbarYkM"/>
-        <updated>2023-07-21T16:34:49.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
         </author>
     </entry>
     <entry>
@@ -1632,15 +1641,6 @@
         <updated>2023-06-30T14:00:23.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Check out the HACKSMITH Campus in Canada!]]></title>
-        <id>https://www.youtube.com/watch?v=c0nQSmwBNCc</id>
-        <link href="https://www.youtube.com/watch?v=c0nQSmwBNCc"/>
-        <updated>2023-06-30T13:00:27.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
         </author>
     </entry>
     <entry>
