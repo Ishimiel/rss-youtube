@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-10T00:30:19.338Z</id>
+    <id>urn:2023-09-11T00:29:03.242Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-10T00:30:19.338Z</updated>
+    <updated>2023-09-11T00:29:03.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SKULL TOME IS AWESOME #3dprinting]]></title>
+        <id>https://www.youtube.com/watch?v=OSkOhcQqPJg</id>
+        <link href="https://www.youtube.com/watch?v=OSkOhcQqPJg"/>
+        <updated>2023-09-10T21:33:00.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test of Merlin 1a Engine]]></title>
+        <id>https://www.youtube.com/watch?v=z_9mpGH3NG4</id>
+        <link href="https://www.youtube.com/watch?v=z_9mpGH3NG4"/>
+        <updated>2023-09-10T21:00:34.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The UFO Enigma: Our Current Understanding]]></title>
+        <id>https://www.youtube.com/watch?v=Vnvvan752vE</id>
+        <link href="https://www.youtube.com/watch?v=Vnvvan752vE"/>
+        <updated>2023-09-10T19:00:19.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Do We Know About UFOs So Far]]></title>
+        <id>https://www.youtube.com/watch?v=q4zxDzWJgEc</id>
+        <link href="https://www.youtube.com/watch?v=q4zxDzWJgEc"/>
+        <updated>2023-09-10T15:00:17.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perfect Surface Grinding a Magnetic Chuck in Our Studer S31]]></title>
+        <id>https://www.youtube.com/watch?v=6oKGGqpUkWY</id>
+        <link href="https://www.youtube.com/watch?v=6oKGGqpUkWY"/>
+        <updated>2023-09-10T11:00:06.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pushing an Island with Boats]]></title>
+        <id>https://www.youtube.com/watch?v=P5zpaYDHl9g</id>
+        <link href="https://www.youtube.com/watch?v=P5zpaYDHl9g"/>
+        <updated>2023-09-10T09:00:12.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japan Once Again Proves They are So Much More Advanced]]></title>
         <id>https://www.youtube.com/watch?v=XA16YlNKJBE</id>
@@ -24,7 +78,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[These Honeybees are Designed to Detect Explosives]]></title>
+        <title type="html"><![CDATA[These Honeybees are Created to Detect Bombs]]></title>
         <id>https://www.youtube.com/watch?v=CFkoTVJMsdU</id>
         <link href="https://www.youtube.com/watch?v=CFkoTVJMsdU"/>
         <updated>2023-09-09T17:02:49.000Z</updated>
@@ -222,15 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Discover the Surprising Reason Why Ships Never Tip Over]]></title>
-        <id>https://www.youtube.com/watch?v=rFcyUvwrtnA</id>
-        <link href="https://www.youtube.com/watch?v=rFcyUvwrtnA"/>
-        <updated>2023-09-07T19:00:23.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PW Broadcast Radio Hour : Maya Binyam with Joshua Jelly-Shapiro - 8.13.23 - Second Sundays]]></title>
         <id>https://www.youtube.com/watch?v=WuuYPPlF6uM</id>
         <link href="https://www.youtube.com/watch?v=WuuYPPlF6uM"/>
@@ -285,24 +330,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SpaceX Starship Stacking Footage]]></title>
-        <id>https://www.youtube.com/watch?v=N9Sf6qzFkgQ</id>
-        <link href="https://www.youtube.com/watch?v=N9Sf6qzFkgQ"/>
-        <updated>2023-09-07T09:20:46.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Makes SKYNEX The Cure for Combat Drone Infestation]]></title>
-        <id>https://www.youtube.com/watch?v=bJ-qr1pZyzs</id>
-        <link href="https://www.youtube.com/watch?v=bJ-qr1pZyzs"/>
-        <updated>2023-09-07T06:49:46.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[More than 150,000 crocus flowers are essential to produce one kilogram of #Saffron. #Flower #Nature]]></title>
         <id>https://www.youtube.com/watch?v=FKtc8BLGGak</id>
         <link href="https://www.youtube.com/watch?v=FKtc8BLGGak"/>
@@ -336,15 +363,6 @@
         <updated>2023-09-06T21:42:14.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Log Splitter Looks Oddly Strong]]></title>
-        <id>https://www.youtube.com/watch?v=jxWTh4-dfKE</id>
-        <link href="https://www.youtube.com/watch?v=jxWTh4-dfKE"/>
-        <updated>2023-09-06T21:00:19.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -669,15 +687,6 @@
         <updated>2023-08-30T12:00:20.000Z</updated>
         <author>
             <name>Physics Girl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using WIRE to Cut Metal🤯 #titansofcnc #cnc #machining #machinist #engineering #3dprinting #edm #fyp]]></title>
-        <id>https://www.youtube.com/watch?v=o22U5XW7Giw</id>
-        <link href="https://www.youtube.com/watch?v=o22U5XW7Giw"/>
-        <updated>2023-08-30T11:00:43.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1245,15 +1254,6 @@
         <updated>2023-08-02T17:00:31.000Z</updated>
         <author>
             <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AnkerMake M5C LIVE! Unbox & First Print! FIRST LOOK!]]></title>
-        <id>https://www.youtube.com/watch?v=kiNZIVWOwVA</id>
-        <link href="https://www.youtube.com/watch?v=kiNZIVWOwVA"/>
-        <updated>2023-08-02T03:33:59.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
         </author>
     </entry>
     <entry>
@@ -2118,24 +2118,6 @@
         <updated>2023-06-13T15:44:40.000Z</updated>
         <author>
             <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to rock in 7/8]]></title>
-        <id>https://www.youtube.com/watch?v=rUnmVzFdbUY</id>
-        <link href="https://www.youtube.com/watch?v=rUnmVzFdbUY"/>
-        <updated>2023-06-13T01:41:44.000Z</updated>
-        <author>
-            <name>Adam Neely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Oscilloscopes, Logic Analyzers, Multimeters, and More]]></title>
-        <id>https://www.youtube.com/watch?v=SSp1wn0Abck</id>
-        <link href="https://www.youtube.com/watch?v=SSp1wn0Abck"/>
-        <updated>2023-06-12T13:00:30.000Z</updated>
-        <author>
-            <name>Zack Freedman</name>
         </author>
     </entry>
 </feed>
