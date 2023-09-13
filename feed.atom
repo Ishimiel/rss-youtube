@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-12T00:26:53.468Z</id>
+    <id>urn:2023-09-13T00:28:36.193Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-12T00:26:53.468Z</updated>
+    <updated>2023-09-13T00:28:36.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Will Happen When I Open The Valve?]]></title>
+        <id>https://www.youtube.com/watch?v=B_pDZi0kxKw</id>
+        <link href="https://www.youtube.com/watch?v=B_pDZi0kxKw"/>
+        <updated>2023-09-12T22:06:09.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FESTO Air Ray Looks Like It Came Out of a Sci-Fi Movie]]></title>
+        <id>https://www.youtube.com/watch?v=4YMZ1gP3yJw</id>
+        <link href="https://www.youtube.com/watch?v=4YMZ1gP3yJw"/>
+        <updated>2023-09-12T21:00:02.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Lightning Dangerous for Planes?]]></title>
+        <id>https://www.youtube.com/watch?v=FUocFTBeKmo</id>
+        <link href="https://www.youtube.com/watch?v=FUocFTBeKmo"/>
+        <updated>2023-09-12T19:00:12.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Are Lightning Strikes NOT Dangerous for Planes]]></title>
+        <id>https://www.youtube.com/watch?v=AOSvJtdw2Os</id>
+        <link href="https://www.youtube.com/watch?v=AOSvJtdw2Os"/>
+        <updated>2023-09-12T18:05:22.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Red Palm Oil Farmers Risk Their Lives For This Precious Cooking Oil | So Expensive]]></title>
+        <id>https://www.youtube.com/watch?v=3CZKZDpd3F4</id>
+        <link href="https://www.youtube.com/watch?v=3CZKZDpd3F4"/>
+        <updated>2023-09-12T15:00:02.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Most ADVANCED Entry-level CNC Machine | Studer FavoritCNC]]></title>
+        <id>https://www.youtube.com/watch?v=kWWpg376ayg</id>
+        <link href="https://www.youtube.com/watch?v=kWWpg376ayg"/>
+        <updated>2023-09-12T14:00:30.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You're a Dream of the Universe (According to Science)]]></title>
+        <id>https://www.youtube.com/watch?v=4Stzj2_Rlo4</id>
+        <link href="https://www.youtube.com/watch?v=4Stzj2_Rlo4"/>
+        <updated>2023-09-12T14:00:06.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNC Machining an EPIC Pitbull 😳]]></title>
+        <id>https://www.youtube.com/watch?v=0W95dnQrFZ0</id>
+        <link href="https://www.youtube.com/watch?v=0W95dnQrFZ0"/>
+        <updated>2023-09-12T11:00:02.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesmerizing Spring Making Machines]]></title>
+        <id>https://www.youtube.com/watch?v=70F1i-icTKA</id>
+        <link href="https://www.youtube.com/watch?v=70F1i-icTKA"/>
+        <updated>2023-09-12T09:00:07.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Check Out Our NEW TITANS of CNC Podcast!]]></title>
         <id>https://www.youtube.com/watch?v=-D4M8fPTBbo</id>
@@ -204,48 +285,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Freeform Tube Bending Machine at Work]]></title>
-        <id>https://www.youtube.com/watch?v=XIWPkibtbMw</id>
-        <link href="https://www.youtube.com/watch?v=XIWPkibtbMw"/>
-        <updated>2023-09-09T09:02:09.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Hypersonic Missile Canceled Again. Why?!]]></title>
-        <id>https://www.youtube.com/watch?v=TxDxxdnZuw4</id>
-        <link href="https://www.youtube.com/watch?v=TxDxxdnZuw4"/>
-        <updated>2023-09-08T21:22:48.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If You Have a Fear of Heights Look Away]]></title>
-        <id>https://www.youtube.com/watch?v=N_fPhnvOirg</id>
-        <link href="https://www.youtube.com/watch?v=N_fPhnvOirg"/>
-        <updated>2023-09-08T21:00:09.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Book That Can Beat You At Tic-Tac-Toe]]></title>
         <id>https://www.youtube.com/watch?v=mQuvEHEARZg</id>
         <link href="https://www.youtube.com/watch?v=mQuvEHEARZg"/>
         <updated>2023-09-08T19:36:38.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Energy From Ocean Waves]]></title>
-        <id>https://www.youtube.com/watch?v=cUH9C6CIeDQ</id>
-        <link href="https://www.youtube.com/watch?v=cUH9C6CIeDQ"/>
-        <updated>2023-09-08T19:00:28.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -528,24 +573,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How CNC Grinding Machines Evolved to Make Hypersonic Planes]]></title>
-        <id>https://www.youtube.com/watch?v=BBryJ1WdzyQ</id>
-        <link href="https://www.youtube.com/watch?v=BBryJ1WdzyQ"/>
-        <updated>2023-09-02T13:00:08.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Burning a 13" Tall Part on Our GF CUT P 550 Pro EDM #shorts #CNC #Machining]]></title>
-        <id>https://www.youtube.com/watch?v=HxiKPZCCTbM</id>
-        <link href="https://www.youtube.com/watch?v=HxiKPZCCTbM"/>
-        <updated>2023-09-02T11:00:20.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shedding Light on the Dark Universe]]></title>
         <id>https://www.youtube.com/watch?v=rRWIcpZqnXQ</id>
         <link href="https://www.youtube.com/watch?v=rRWIcpZqnXQ"/>
@@ -570,15 +597,6 @@
         <updated>2023-09-01T18:06:55.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Behind-the-scenes of crafting 10,000 dishes for the Air Force cadet community. #Food #AirForce]]></title>
-        <id>https://www.youtube.com/watch?v=3ab1Q3cOpg0</id>
-        <link href="https://www.youtube.com/watch?v=3ab1Q3cOpg0"/>
-        <updated>2023-09-01T16:53:54.000Z</updated>
-        <author>
-            <name>Insider Business</name>
         </author>
     </entry>
     <entry>
@@ -1428,15 +1446,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Putting a Penny on John Wilkes Booth's Grave]]></title>
-        <id>https://www.youtube.com/watch?v=3oFq6cqZJ3w</id>
-        <link href="https://www.youtube.com/watch?v=3oFq6cqZJ3w"/>
-        <updated>2023-07-21T23:02:12.000Z</updated>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gravitational Waves and the Dark Universe]]></title>
         <id>https://www.youtube.com/watch?v=YJuOQWCyMAc</id>
         <link href="https://www.youtube.com/watch?v=YJuOQWCyMAc"/>
@@ -2100,24 +2109,6 @@
         <updated>2023-06-15T14:06:52.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Bizarre Physics of Electric Guitars]]></title>
-        <id>https://www.youtube.com/watch?v=x9MF60ZO8rI</id>
-        <link href="https://www.youtube.com/watch?v=x9MF60ZO8rI"/>
-        <updated>2023-06-14T16:49:37.000Z</updated>
-        <author>
-            <name>minutephysics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We shrunk a quarter with science!]]></title>
-        <id>https://www.youtube.com/watch?v=XBT6N9svYhA</id>
-        <link href="https://www.youtube.com/watch?v=XBT6N9svYhA"/>
-        <updated>2023-06-14T13:00:33.000Z</updated>
-        <author>
-            <name>Physics Girl</name>
         </author>
     </entry>
 </feed>
