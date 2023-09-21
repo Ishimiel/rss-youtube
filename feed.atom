@@ -1,15 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-20T00:28:43.956Z</id>
+    <id>urn:2023-09-21T00:28:33.368Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-20T00:28:43.956Z</updated>
+    <updated>2023-09-21T00:28:33.368Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Kobra 2 MAX - LIVE! Unbox & First Print!]]></title>
+        <title type="html"><![CDATA[Vintage Bun Diving Machine]]></title>
+        <id>https://www.youtube.com/watch?v=exL0w7aB-PE</id>
+        <link href="https://www.youtube.com/watch?v=exL0w7aB-PE"/>
+        <updated>2023-09-20T21:00:20.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Engine repair can take up to two months. #airplanes #deltaairlines #maintenance]]></title>
+        <id>https://www.youtube.com/watch?v=mZgFqRWZTHk</id>
+        <link href="https://www.youtube.com/watch?v=mZgFqRWZTHk"/>
+        <updated>2023-09-20T20:52:35.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why China and Russia can not match USS Gerald R. Ford]]></title>
+        <id>https://www.youtube.com/watch?v=JUsHC3D-CW0</id>
+        <link href="https://www.youtube.com/watch?v=JUsHC3D-CW0"/>
+        <updated>2023-09-20T18:00:27.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese bakeries are some of the best cheap eats in New York City. #nyc #bakeries #FayDaBakery]]></title>
+        <id>https://www.youtube.com/watch?v=4dweELY41ik</id>
+        <link href="https://www.youtube.com/watch?v=4dweELY41ik"/>
+        <updated>2023-09-20T16:30:11.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Telescope to See the Early Universe]]></title>
+        <id>https://www.youtube.com/watch?v=hMbtFdw6Ekk</id>
+        <link href="https://www.youtube.com/watch?v=hMbtFdw6Ekk"/>
+        <updated>2023-09-20T15:06:42.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bambu Lab A1 Mini & AMS Lite! Cantilever Bedslinger!]]></title>
+        <id>https://www.youtube.com/watch?v=wkCYCMRFEA8</id>
+        <link href="https://www.youtube.com/watch?v=wkCYCMRFEA8"/>
+        <updated>2023-09-20T13:00:49.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unboxing the PERFECT Chuck for Our CNC Lathe]]></title>
+        <id>https://www.youtube.com/watch?v=zimAEU-lTSU</id>
+        <link href="https://www.youtube.com/watch?v=zimAEU-lTSU"/>
+        <updated>2023-09-20T11:00:59.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Putting Out a Forest Fire in Style]]></title>
+        <id>https://www.youtube.com/watch?v=k_wim1QGg9M</id>
+        <link href="https://www.youtube.com/watch?v=k_wim1QGg9M"/>
+        <updated>2023-09-20T09:00:38.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kobra 2 MAX - WAS LIVE! Unbox & First Print!]]></title>
         <id>https://www.youtube.com/watch?v=W7C0h2dOctI</id>
         <link href="https://www.youtube.com/watch?v=W7C0h2dOctI"/>
-        <updated>2023-09-19T23:52:39.000Z</updated>
+        <updated>2023-09-20T04:28:25.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
         </author>
@@ -231,15 +303,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Different Kind of Emergency Exit]]></title>
-        <id>https://www.youtube.com/watch?v=al01XhaZJr8</id>
-        <link href="https://www.youtube.com/watch?v=al01XhaZJr8"/>
-        <updated>2023-09-17T09:21:13.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[3D Printed METAL HAMMER! #3dprinting #3dprintingnerd]]></title>
         <id>https://www.youtube.com/watch?v=GX-Xsks2D68</id>
         <link href="https://www.youtube.com/watch?v=GX-Xsks2D68"/>
@@ -249,25 +312,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Keeping High Tension Wires Safe]]></title>
-        <id>https://www.youtube.com/watch?v=KHoEW_9OHA4</id>
-        <link href="https://www.youtube.com/watch?v=KHoEW_9OHA4"/>
-        <updated>2023-09-16T21:00:06.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Icebreakers Excel at Breaking Ice When Other Ships Fall Short]]></title>
-        <id>https://www.youtube.com/watch?v=o1g9OIeDgnQ</id>
-        <link href="https://www.youtube.com/watch?v=o1g9OIeDgnQ"/>
-        <updated>2023-09-16T19:00:18.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Old 3D Printer Could Be a Filament Maker!]]></title>
+        <title type="html"><![CDATA[PET Bottle Recycling: Waste to 3D Printing Filament]]></title>
         <id>https://www.youtube.com/watch?v=1yIe1Pp_Nrg</id>
         <link href="https://www.youtube.com/watch?v=1yIe1Pp_Nrg"/>
         <updated>2023-09-16T17:00:19.000Z</updated>
@@ -456,24 +501,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A decline in the eel population has caused an increase in the price. #eels #fish #food]]></title>
-        <id>https://www.youtube.com/watch?v=iq2JMAE4baw</id>
-        <link href="https://www.youtube.com/watch?v=iq2JMAE4baw"/>
-        <updated>2023-09-13T20:56:32.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eel farming in Japan is a delicate balance of tradition and innovation. #Farming #Eeels #Japan]]></title>
-        <id>https://www.youtube.com/watch?v=0TkPrCwnLHM</id>
-        <link href="https://www.youtube.com/watch?v=0TkPrCwnLHM"/>
-        <updated>2023-09-13T16:19:47.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PLA IS BETTER Than Carbon Fiber Nylon?]]></title>
         <id>https://www.youtube.com/watch?v=v0x6z09dkUM</id>
         <link href="https://www.youtube.com/watch?v=v0x6z09dkUM"/>
@@ -543,15 +570,6 @@
         <updated>2023-09-11T17:41:27.000Z</updated>
         <author>
             <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Satisfying Multi-Axis Toolpath👀]]></title>
-        <id>https://www.youtube.com/watch?v=fq1iRoOXUEo</id>
-        <link href="https://www.youtube.com/watch?v=fq1iRoOXUEo"/>
-        <updated>2023-09-11T11:00:35.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -726,7 +744,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The origin of light, scattering, and polarization | Barber pole, part 2]]></title>
+        <title type="html"><![CDATA[But what is light? (Barber pole, part 2)]]></title>
         <id>https://www.youtube.com/watch?v=aXRTczANuIs</id>
         <link href="https://www.youtube.com/watch?v=aXRTczANuIs"/>
         <updated>2023-09-01T13:39:37.000Z</updated>
@@ -903,15 +921,6 @@
         <updated>2023-08-26T15:25:32.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Printing a WAYNES WORLD LICORICE DISPENSER!]]></title>
-        <id>https://www.youtube.com/watch?v=AEG_2MtnfgI</id>
-        <link href="https://www.youtube.com/watch?v=AEG_2MtnfgI"/>
-        <updated>2023-08-26T13:00:13.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
         </author>
     </entry>
     <entry>
@@ -1482,7 +1491,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Orbit VS Sub-Orbit: Orbits, Zero-G & the Karman Line]]></title>
+        <title type="html"><![CDATA[The MASSIVE difference between orbit and sub-orbit]]></title>
         <id>https://www.youtube.com/watch?v=xE1A6T1cycU</id>
         <link href="https://www.youtube.com/watch?v=xE1A6T1cycU"/>
         <updated>2023-07-22T14:02:14.000Z</updated>
@@ -1824,7 +1833,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This pattern breaks, but for a good reason | Moser's circle problem (updated)]]></title>
+        <title type="html"><![CDATA[This pattern breaks, but for a good reason | Moser's circle problem]]></title>
         <id>https://www.youtube.com/watch?v=YtkIWDE36qU</id>
         <link href="https://www.youtube.com/watch?v=YtkIWDE36qU"/>
         <updated>2023-07-02T04:41:01.000Z</updated>
@@ -2064,24 +2073,6 @@
         <updated>2023-06-23T15:00:19.000Z</updated>
         <author>
             <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The biggest problem with living on Mars]]></title>
-        <id>https://www.youtube.com/watch?v=LCVU6NQWWLE</id>
-        <link href="https://www.youtube.com/watch?v=LCVU6NQWWLE"/>
-        <updated>2023-06-22T20:09:55.000Z</updated>
-        <author>
-            <name>Physics Girl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's Make Earth Twice as Large! #shorts #kurzgesagt]]></title>
-        <id>https://www.youtube.com/watch?v=XFM4tCakAXY</id>
-        <link href="https://www.youtube.com/watch?v=XFM4tCakAXY"/>
-        <updated>2023-06-22T14:00:21.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>
