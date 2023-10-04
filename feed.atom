@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-03T00:29:15.829Z</id>
+    <id>urn:2023-10-04T00:29:25.300Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-03T00:29:15.829Z</updated>
+    <updated>2023-10-04T00:29:25.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Railway Bridge with a Gorgeous View]]></title>
+        <id>https://www.youtube.com/watch?v=dsqV3GD9WJY</id>
+        <link href="https://www.youtube.com/watch?v=dsqV3GD9WJY"/>
+        <updated>2023-10-03T21:00:20.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A $0.20 Life Saver - Hand Powered Paper Centrifuge]]></title>
+        <id>https://www.youtube.com/watch?v=RogTRJbVt1E</id>
+        <link href="https://www.youtube.com/watch?v=RogTRJbVt1E"/>
+        <updated>2023-10-03T19:00:13.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hand Powered Paper Centrifuge That Saves Lives]]></title>
+        <id>https://www.youtube.com/watch?v=P4fMaw9rYmo</id>
+        <link href="https://www.youtube.com/watch?v=P4fMaw9rYmo"/>
+        <updated>2023-10-03T17:10:20.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is why Japanese hair scissors are so expensive. #hair #scissors #Japanese]]></title>
+        <id>https://www.youtube.com/watch?v=D4dwmLYYgXs</id>
+        <link href="https://www.youtube.com/watch?v=D4dwmLYYgXs"/>
+        <updated>2023-10-03T16:25:37.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Just CRASHED The SMX3100 9 Axis CNC Machine]]></title>
+        <id>https://www.youtube.com/watch?v=vfw-lb4JHNc</id>
+        <link href="https://www.youtube.com/watch?v=vfw-lb4JHNc"/>
+        <updated>2023-10-03T14:00:40.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our SwissNano Gets New CUTTING Tools✨]]></title>
+        <id>https://www.youtube.com/watch?v=TJkuwzrfSwQ</id>
+        <link href="https://www.youtube.com/watch?v=TJkuwzrfSwQ"/>
+        <updated>2023-10-03T11:00:31.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steampunk Cosplayers Show Off Their Elaborate Costumes]]></title>
+        <id>https://www.youtube.com/watch?v=dKVTT1lBXzk</id>
+        <link href="https://www.youtube.com/watch?v=dKVTT1lBXzk"/>
+        <updated>2023-10-03T09:00:33.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chinese Monorail Track Switch]]></title>
         <id>https://www.youtube.com/watch?v=EQJSMnSsw4I</id>
@@ -231,33 +294,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Satisfying Glass Ball Making Process]]></title>
-        <id>https://www.youtube.com/watch?v=jTzY9S5ZKbQ</id>
-        <link href="https://www.youtube.com/watch?v=jTzY9S5ZKbQ"/>
-        <updated>2023-09-29T21:00:33.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sensiworm - No More Plane Crashes?]]></title>
-        <id>https://www.youtube.com/watch?v=JdXpPvxxHgY</id>
-        <link href="https://www.youtube.com/watch?v=JdXpPvxxHgY"/>
-        <updated>2023-09-29T19:00:16.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sensiworm - No More Plane Crashes?]]></title>
-        <id>https://www.youtube.com/watch?v=7Cay65bD4E0</id>
-        <link href="https://www.youtube.com/watch?v=7Cay65bD4E0"/>
-        <updated>2023-09-29T19:00:05.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This "Dinosaur Egg" is One Of The Rarest Salts In The World | Still Standing | Insider Business]]></title>
         <id>https://www.youtube.com/watch?v=8aY9noX3XOs</id>
         <link href="https://www.youtube.com/watch?v=8aY9noX3XOs"/>
@@ -276,7 +312,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Driving my MAGIC WAND Tesla Coil]]></title>
+        <title type="html"><![CDATA[[INHALE] Spark Gap Double Resonance Tesla Coil & ZVS Driver Circuit on Lead-Acid Battery Magic Wand]]></title>
         <id>https://www.youtube.com/watch?v=a-rWPzGrLHk</id>
         <link href="https://www.youtube.com/watch?v=a-rWPzGrLHk"/>
         <updated>2023-09-29T16:13:15.000Z</updated>
@@ -318,15 +354,6 @@
         <updated>2023-09-29T11:00:38.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is this Stream of Light?]]></title>
-        <id>https://www.youtube.com/watch?v=Oy1zGJgbPh4</id>
-        <link href="https://www.youtube.com/watch?v=Oy1zGJgbPh4"/>
-        <updated>2023-09-29T09:00:30.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -528,37 +555,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is This The BEST CONTROL Out there?]]></title>
-        <id>https://www.youtube.com/watch?v=asr8uYTxI5o</id>
-        <link href="https://www.youtube.com/watch?v=asr8uYTxI5o"/>
-        <updated>2023-09-24T11:00:02.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why Bespoke Savile Row Suits Are So Expensive | So Expensive | Insider Business]]></title>
         <id>https://www.youtube.com/watch?v=INPVJmro59k</id>
         <link href="https://www.youtube.com/watch?v=INPVJmro59k"/>
         <updated>2023-09-23T15:00:10.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World's First Glass Endmill | Incredible Process!]]></title>
-        <id>https://www.youtube.com/watch?v=qHL9zuCE9Ys</id>
-        <link href="https://www.youtube.com/watch?v=qHL9zuCE9Ys"/>
-        <updated>2023-09-23T13:00:45.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#Bonsai is an #art form that requires years of training and dedication. #plants]]></title>
-        <id>https://www.youtube.com/watch?v=gnnraH2MJnQ</id>
-        <link href="https://www.youtube.com/watch?v=gnnraH2MJnQ"/>
-        <updated>2023-09-22T15:31:23.000Z</updated>
         <author>
             <name>Insider Business</name>
         </author>
@@ -627,7 +627,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Time Travel To The Earliest Universe]]></title>
+        <title type="html"><![CDATA[How to Time Travel to the Early Universe]]></title>
         <id>https://www.youtube.com/watch?v=hMbtFdw6Ekk</id>
         <link href="https://www.youtube.com/watch?v=hMbtFdw6Ekk"/>
         <updated>2023-09-20T15:06:42.000Z</updated>
@@ -1902,24 +1902,6 @@
         <updated>2023-07-06T14:00:12.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch the LAST Ariane 5 rocket launch ever!!!]]></title>
-        <id>https://www.youtube.com/watch?v=rIE-a2de7Gg</id>
-        <link href="https://www.youtube.com/watch?v=rIE-a2de7Gg"/>
-        <updated>2023-07-05T22:45:30.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How many terms do we need in the exp series?]]></title>
-        <id>https://www.youtube.com/watch?v=u1taDXNzFto</id>
-        <link href="https://www.youtube.com/watch?v=u1taDXNzFto"/>
-        <updated>2023-07-05T14:00:37.000Z</updated>
-        <author>
-            <name>Mathemaniac</name>
         </author>
     </entry>
 </feed>
