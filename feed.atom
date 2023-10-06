@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-05T00:29:10.769Z</id>
+    <id>urn:2023-10-06T00:29:02.929Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-05T00:29:10.769Z</updated>
+    <updated>2023-10-06T00:29:02.929Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Great Showcase of F22’s Maneuverability]]></title>
+        <id>https://www.youtube.com/watch?v=UjXgXogQtj0</id>
+        <link href="https://www.youtube.com/watch?v=UjXgXogQtj0"/>
+        <updated>2023-10-05T21:00:16.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will AI Cure Cancer?]]></title>
+        <id>https://www.youtube.com/watch?v=Cn823mAPuVc</id>
+        <link href="https://www.youtube.com/watch?v=Cn823mAPuVc"/>
+        <updated>2023-10-05T19:00:06.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Is How AI Can Cure Cancer]]></title>
+        <id>https://www.youtube.com/watch?v=H4s8N0MSh-4</id>
+        <link href="https://www.youtube.com/watch?v=H4s8N0MSh-4"/>
+        <updated>2023-10-05T19:00:06.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ever wondered why this #French salt costs 230 times more than regular table #salt? #Rare]]></title>
+        <id>https://www.youtube.com/watch?v=aHbd1y_H9tk</id>
+        <link href="https://www.youtube.com/watch?v=aHbd1y_H9tk"/>
+        <updated>2023-10-05T18:51:44.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Illuminate Your Investing To Match Your Interest In Sustainability]]></title>
+        <id>https://www.youtube.com/watch?v=6E5DuSY9LqY</id>
+        <link href="https://www.youtube.com/watch?v=6E5DuSY9LqY"/>
+        <updated>2023-10-05T17:27:56.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Reality You're In, And The Reality In You]]></title>
+        <id>https://www.youtube.com/watch?v=NShBkCEfPeE</id>
+        <link href="https://www.youtube.com/watch?v=NShBkCEfPeE"/>
+        <updated>2023-10-05T16:59:59.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brilliant Technique that All Machinists can use to Prevent Breaking End Mills]]></title>
+        <id>https://www.youtube.com/watch?v=hidcz0W9vPE</id>
+        <link href="https://www.youtube.com/watch?v=hidcz0W9vPE"/>
+        <updated>2023-10-05T14:00:26.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pi is Evil - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=zF814SmPY5A</id>
+        <link href="https://www.youtube.com/watch?v=zF814SmPY5A"/>
+        <updated>2023-10-05T12:15:26.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Satisfying CNC Milling Toolpath🌀]]></title>
+        <id>https://www.youtube.com/watch?v=fppwb3r7aDw</id>
+        <link href="https://www.youtube.com/watch?v=fppwb3r7aDw"/>
+        <updated>2023-10-05T11:00:28.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer Engineering for Babies Book]]></title>
+        <id>https://www.youtube.com/watch?v=uarWv58bd1I</id>
+        <link href="https://www.youtube.com/watch?v=uarWv58bd1I"/>
+        <updated>2023-10-05T09:00:41.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Free Rainwater Car Wash]]></title>
         <id>https://www.youtube.com/watch?v=JlSWX_26Ci0</id>
@@ -132,7 +222,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hand Powered Paper Centrifuge That Saves Lives]]></title>
+        <title type="html"><![CDATA[Could a 20-cent device save millions of lives?]]></title>
         <id>https://www.youtube.com/watch?v=P4fMaw9rYmo</id>
         <link href="https://www.youtube.com/watch?v=P4fMaw9rYmo"/>
         <updated>2023-10-03T17:10:20.000Z</updated>
@@ -204,15 +294,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Russo-Iranian Kamikaze Drones Can Not Pass Gepard?]]></title>
-        <id>https://www.youtube.com/watch?v=j6EfpgMt3-I</id>
-        <link href="https://www.youtube.com/watch?v=j6EfpgMt3-I"/>
-        <updated>2023-10-02T19:00:18.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Little Story I Loved As A Kid]]></title>
         <id>https://www.youtube.com/watch?v=-URHimp1bJc</id>
         <link href="https://www.youtube.com/watch?v=-URHimp1bJc"/>
@@ -246,33 +327,6 @@
         <updated>2023-10-02T11:00:03.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Shoelace Making Process]]></title>
-        <id>https://www.youtube.com/watch?v=t7cAWTuKHl8</id>
-        <link href="https://www.youtube.com/watch?v=t7cAWTuKHl8"/>
-        <updated>2023-10-02T09:00:29.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese Monorail Track Switch]]></title>
-        <id>https://www.youtube.com/watch?v=8HoGjkIdAhk</id>
-        <link href="https://www.youtube.com/watch?v=8HoGjkIdAhk"/>
-        <updated>2023-10-01T21:00:02.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MIT Makes a Super Thin Solar Cell That Can Turn Any Surface into a Power Plant]]></title>
-        <id>https://www.youtube.com/watch?v=hM8rwrtSXks</id>
-        <link href="https://www.youtube.com/watch?v=hM8rwrtSXks"/>
-        <updated>2023-10-01T19:00:15.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -528,15 +582,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[These #pipes cost over $300 each, and some can take two months to complete. #meerschaum #expensive]]></title>
-        <id>https://www.youtube.com/watch?v=Vt4sA3wYmww</id>
-        <link href="https://www.youtube.com/watch?v=Vt4sA3wYmww"/>
-        <updated>2023-09-26T16:30:04.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CNC Machining Parts for Gas Monkey Garage]]></title>
         <id>https://www.youtube.com/watch?v=R21dyN31mHI</id>
         <link href="https://www.youtube.com/watch?v=R21dyN31mHI"/>
@@ -546,39 +591,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Electrical Discharge Machining Our Custom Form Tools⚡️]]></title>
-        <id>https://www.youtube.com/watch?v=qA4AYTO6uFM</id>
-        <link href="https://www.youtube.com/watch?v=qA4AYTO6uFM"/>
-        <updated>2023-09-26T11:00:47.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extracting the precious oud chips from #Agarwood takes hours of hard work. #SouthAsia #Harvesting]]></title>
-        <id>https://www.youtube.com/watch?v=36nGlIKORQ4</id>
-        <link href="https://www.youtube.com/watch?v=36nGlIKORQ4"/>
-        <updated>2023-09-25T21:14:51.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MASSIVE 3D Printed Millennium Falcon! #3dprinting #starwars]]></title>
         <id>https://www.youtube.com/watch?v=c9VPGS7SuxE</id>
         <link href="https://www.youtube.com/watch?v=c9VPGS7SuxE"/>
         <updated>2023-09-25T21:13:21.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Busy Shops DIE!]]></title>
-        <id>https://www.youtube.com/watch?v=T2gdsjgPZ0s</id>
-        <link href="https://www.youtube.com/watch?v=T2gdsjgPZ0s"/>
-        <updated>2023-09-25T14:00:18.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1239,15 +1257,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I 🟥 Quadrilaterals]]></title>
-        <id>https://www.youtube.com/watch?v=asTywgpiSkQ</id>
-        <link href="https://www.youtube.com/watch?v=asTywgpiSkQ"/>
-        <updated>2023-08-17T19:39:00.000Z</updated>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sleeping Beauty Paradox - Numberphile]]></title>
         <id>https://www.youtube.com/watch?v=cW27QJYNXtU</id>
         <link href="https://www.youtube.com/watch?v=cW27QJYNXtU"/>
@@ -1866,33 +1875,6 @@
         <updated>2023-07-08T14:00:03.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revealing the Cosmos: A Startling New View from the James Webb Space Telescope]]></title>
-        <id>https://www.youtube.com/watch?v=OcWEYDddJ7Q</id>
-        <link href="https://www.youtube.com/watch?v=OcWEYDddJ7Q"/>
-        <updated>2023-07-07T22:00:10.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Γκέκσιν Ίμπακτ]]></title>
-        <id>https://www.youtube.com/watch?v=5luf9FKvDRs</id>
-        <link href="https://www.youtube.com/watch?v=5luf9FKvDRs"/>
-        <updated>2023-07-07T20:07:33.000Z</updated>
-        <author>
-            <name>NinjaCakeAssassin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Hidden Science of Fireworks]]></title>
-        <id>https://www.youtube.com/watch?v=lfkjm2YRG-Q</id>
-        <link href="https://www.youtube.com/watch?v=lfkjm2YRG-Q"/>
-        <updated>2023-07-07T17:43:14.000Z</updated>
-        <author>
-            <name>Veritasium</name>
         </author>
     </entry>
 </feed>
