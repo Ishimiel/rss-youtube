@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-15T00:31:36.062Z</id>
+    <id>urn:2023-10-16T00:30:12.281Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-15T00:31:36.062Z</updated>
+    <updated>2023-10-16T00:30:12.281Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Shredding quintuplets with friends]]></title>
+        <id>https://www.youtube.com/watch?v=3pXAz-TcN6M</id>
+        <link href="https://www.youtube.com/watch?v=3pXAz-TcN6M"/>
+        <updated>2023-10-15T21:43:14.000Z</updated>
+        <author>
+            <name>Adam Neely</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Expanding a Building From 1976]]></title>
+        <id>https://www.youtube.com/watch?v=6PtLAyXQAeA</id>
+        <link href="https://www.youtube.com/watch?v=6PtLAyXQAeA"/>
+        <updated>2023-10-15T21:00:03.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can a Rocket Sound Kill You?]]></title>
+        <id>https://www.youtube.com/watch?v=UFBawfOrInc</id>
+        <link href="https://www.youtube.com/watch?v=UFBawfOrInc"/>
+        <updated>2023-10-15T19:00:12.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Γκεκ - Μπομπότ]]></title>
+        <id>https://www.youtube.com/watch?v=aOLs5F6TQvE</id>
+        <link href="https://www.youtube.com/watch?v=aOLs5F6TQvE"/>
+        <updated>2023-10-15T16:51:01.000Z</updated>
+        <author>
+            <name>NinjaCakeAssassin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printing a TPU Lens Cap! Terrible Idea?]]></title>
+        <id>https://www.youtube.com/watch?v=4Bm1IuEeRPk</id>
+        <link href="https://www.youtube.com/watch?v=4Bm1IuEeRPk"/>
+        <updated>2023-10-15T16:33:41.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Farmers Protecting America’s Foods And Drinks | Big Business | Insider Business]]></title>
+        <id>https://www.youtube.com/watch?v=cLwAIjmC4Xw</id>
+        <link href="https://www.youtube.com/watch?v=cLwAIjmC4Xw"/>
+        <updated>2023-10-15T15:00:33.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How NASA Prevents Rocket Launches from Killing People]]></title>
+        <id>https://www.youtube.com/watch?v=usxgmoD2zu4</id>
+        <link href="https://www.youtube.com/watch?v=usxgmoD2zu4"/>
+        <updated>2023-10-15T13:20:37.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a MONSTER Drill]]></title>
+        <id>https://www.youtube.com/watch?v=oCPwip-iMVA</id>
+        <link href="https://www.youtube.com/watch?v=oCPwip-iMVA"/>
+        <updated>2023-10-15T11:00:38.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interesting Way of Cutting Styrofoam]]></title>
+        <id>https://www.youtube.com/watch?v=4w40gFTf1aI</id>
+        <link href="https://www.youtube.com/watch?v=4w40gFTf1aI"/>
+        <updated>2023-10-15T08:59:35.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Warehouse Logistics Done Right]]></title>
         <id>https://www.youtube.com/watch?v=p5WRkD0dlSc</id>
@@ -303,15 +384,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fordson Snow Machines Look Fun to Ride]]></title>
-        <id>https://www.youtube.com/watch?v=zrl4uMzZhyM</id>
-        <link href="https://www.youtube.com/watch?v=zrl4uMzZhyM"/>
-        <updated>2023-10-11T21:00:35.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This valuable sea creature can cost up to $3500 a kilo. #seacucumbers #marinelife #expensive]]></title>
         <id>https://www.youtube.com/watch?v=aWAcoXfNHzM</id>
         <link href="https://www.youtube.com/watch?v=aWAcoXfNHzM"/>
@@ -321,39 +393,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[India's First Indigenous Carrier INS Vikrant]]></title>
-        <id>https://www.youtube.com/watch?v=f7gAsT2riXg</id>
-        <link href="https://www.youtube.com/watch?v=f7gAsT2riXg"/>
-        <updated>2023-10-11T19:00:30.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is the Iron Dome Still Effective Enough?]]></title>
-        <id>https://www.youtube.com/watch?v=bbDLCIbaX9k</id>
-        <link href="https://www.youtube.com/watch?v=bbDLCIbaX9k"/>
-        <updated>2023-10-11T18:30:22.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ocean Spray farms process 1.5 million barrels of #cranberries in just over a month. #craisins]]></title>
         <id>https://www.youtube.com/watch?v=8GRQV8Zrnjg</id>
         <link href="https://www.youtube.com/watch?v=8GRQV8Zrnjg"/>
         <updated>2023-10-11T16:31:40.000Z</updated>
         <author>
             <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[India's First Indigenous Carrier INS Vikrant Is Advanced and Powerful]]></title>
-        <id>https://www.youtube.com/watch?v=BVV8IgSaUeU</id>
-        <link href="https://www.youtube.com/watch?v=BVV8IgSaUeU"/>
-        <updated>2023-10-11T15:28:46.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -460,15 +505,6 @@
         <id>https://www.youtube.com/watch?v=Rrzb6CHkb6E</id>
         <link href="https://www.youtube.com/watch?v=Rrzb6CHkb6E"/>
         <updated>2023-10-09T19:09:41.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Laundromat Eases The Chore Of Doing Laundry With Food, Drinks, And Community]]></title>
-        <id>https://www.youtube.com/watch?v=vFiJTBOfBdE</id>
-        <link href="https://www.youtube.com/watch?v=vFiJTBOfBdE"/>
-        <updated>2023-10-09T16:57:08.000Z</updated>
         <author>
             <name>Insider Business</name>
         </author>
@@ -642,15 +678,6 @@
         <updated>2023-10-05T16:59:59.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brilliant Technique that All Machinists can use to Prevent Breaking End Mills]]></title>
-        <id>https://www.youtube.com/watch?v=hidcz0W9vPE</id>
-        <link href="https://www.youtube.com/watch?v=hidcz0W9vPE"/>
-        <updated>2023-10-05T14:00:26.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -906,7 +933,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Time Travel to the Early Universe]]></title>
+        <title type="html"><![CDATA[In Search of Cosmic Origins]]></title>
         <id>https://www.youtube.com/watch?v=hMbtFdw6Ekk</id>
         <link href="https://www.youtube.com/watch?v=hMbtFdw6Ekk"/>
         <updated>2023-09-20T15:06:42.000Z</updated>
@@ -948,15 +975,6 @@
         <updated>2023-09-17T11:34:54.000Z</updated>
         <author>
             <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Printed METAL HAMMER! #3dprinting #3dprintingnerd]]></title>
-        <id>https://www.youtube.com/watch?v=GX-Xsks2D68</id>
-        <link href="https://www.youtube.com/watch?v=GX-Xsks2D68"/>
-        <updated>2023-09-16T23:14:13.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
         </author>
     </entry>
     <entry>
@@ -1752,7 +1770,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Cryptographer Working to Protect Computations]]></title>
+        <title type="html"><![CDATA[How Computer Scientists are Inventing A Secure Digital Future]]></title>
         <id>https://www.youtube.com/watch?v=EMrpHQehRmY</id>
         <link href="https://www.youtube.com/watch?v=EMrpHQehRmY"/>
         <updated>2023-07-27T14:23:26.000Z</updated>
@@ -1938,15 +1956,6 @@
         <updated>2023-07-18T23:28:16.000Z</updated>
         <author>
             <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch Rocket Lab attempt to recover a rocket to reuse it! #babycomeback]]></title>
-        <id>https://www.youtube.com/watch?v=T2IoJLI1pLg</id>
-        <link href="https://www.youtube.com/watch?v=T2IoJLI1pLg"/>
-        <updated>2023-07-18T02:38:00.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
         </author>
     </entry>
 </feed>
