@@ -12,7 +12,7 @@
           "link": "https://www.youtube.com/watch?v=YOKPo-I6cgs",
           "publishedOn": "2023-10-24T17:57:34.000Z",
           "wordCount": null,
-          "title": "How Computers Learn to 'See'",
+          "title": "Computer Vision: How AI Learns to See",
           "imageUrl": null
         },
         {
@@ -22,7 +22,7 @@
           "link": "https://www.youtube.com/watch?v=X_Mmfw3GSi8",
           "publishedOn": "2023-10-10T14:40:24.000Z",
           "wordCount": null,
-          "title": "Unlocking the Secrets of Our Circadian Rhythms",
+          "title": "Circadian Rhythms: This Discovery Reveals How They Work",
           "imageUrl": null
         },
         {
@@ -32,7 +32,7 @@
           "link": "https://www.youtube.com/watch?v=hMbtFdw6Ekk",
           "publishedOn": "2023-09-20T15:06:42.000Z",
           "wordCount": null,
-          "title": "How to Time Travel to the Early Universe",
+          "title": "In Search of Cosmic Origins",
           "imageUrl": null
         },
         {
@@ -292,16 +292,6 @@
           "publishedOn": "2023-08-11T13:53:15.000Z",
           "wordCount": null,
           "title": "Hilton Als: My Pinup",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jxCDu0p7ZYc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jxCDu0p7ZYc",
-          "publishedOn": "2023-07-28T14:09:01.000Z",
-          "wordCount": null,
-          "title": "Scientific Controversies: The Goddamn Particle",
           "imageUrl": null
         }
       ]
@@ -715,13 +705,74 @@
       "title": "Freya Holmér",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7M-Wz4zK8oikt6ATcoTwBA",
       "siteUrl": "https://www.youtube.com/channel/UC7M-Wz4zK8oikt6ATcoTwBA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=htYh-Tq7ZBI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=htYh-Tq7ZBI",
+          "publishedOn": "2023-10-26T21:08:49.000Z",
+          "wordCount": null,
+          "title": "Why can't you multiply vectors? [Dutch Game Day, 2023]",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Interesting Engineering",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEuiOszNd6msGgqsD0f9YAQ",
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=crD5kry9Nqs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=crD5kry9Nqs",
+          "publishedOn": "2023-10-26T21:00:30.000Z",
+          "wordCount": null,
+          "title": "Vacuum Forming is So Quick",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=NCWW6rkf5X0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NCWW6rkf5X0",
+          "publishedOn": "2023-10-26T19:00:12.000Z",
+          "wordCount": null,
+          "title": "World's First Electric Road: Charging EVs While Driving",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=FI_FrKb2dZY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FI_FrKb2dZY",
+          "publishedOn": "2023-10-26T19:00:07.000Z",
+          "wordCount": null,
+          "title": "World's First Electric Road: Charging EVs While Driving",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=eL_sI01gixk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eL_sI01gixk",
+          "publishedOn": "2023-10-26T13:37:56.000Z",
+          "wordCount": null,
+          "title": "How This Modern Robot is Mastering Tough Terrains",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=yMVnoJpwLAM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yMVnoJpwLAM",
+          "publishedOn": "2023-10-26T09:00:46.000Z",
+          "wordCount": null,
+          "title": "Giant Wind Turbine Blade",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=KYRf_VAraSQ",
           "author": null,
@@ -820,56 +871,6 @@
           "publishedOn": "2023-10-23T17:18:58.000Z",
           "wordCount": null,
           "title": "Amazon's Delivery Drones will Start Flying Packages in Europe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GTBsjBtz4Fc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GTBsjBtz4Fc",
-          "publishedOn": "2023-10-23T09:00:07.000Z",
-          "wordCount": null,
-          "title": "Surface Blasting in Mines Gets Loud",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IWf_fnz7v2U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IWf_fnz7v2U",
-          "publishedOn": "2023-10-22T21:00:07.000Z",
-          "wordCount": null,
-          "title": "That’s What an Industrial Vacuum Looks Like",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=O9IF7zpsOFQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=O9IF7zpsOFQ",
-          "publishedOn": "2023-10-22T19:00:15.000Z",
-          "wordCount": null,
-          "title": "How Dragons and Insects are Inspiring Drones of the Future",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=G8bmtLvIR30",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=G8bmtLvIR30",
-          "publishedOn": "2023-10-22T19:00:07.000Z",
-          "wordCount": null,
-          "title": "This Transformative Drone can Change its Shape Mid-Flight",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oPpHEb3xOwQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oPpHEb3xOwQ",
-          "publishedOn": "2023-10-22T09:00:28.000Z",
-          "wordCount": null,
-          "title": "How Metal Buttons are Made",
           "imageUrl": null
         }
       ]
@@ -1522,6 +1523,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=W_C0HSlaQww",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=W_C0HSlaQww",
+          "publishedOn": "2023-10-26T21:01:25.000Z",
+          "wordCount": null,
+          "title": "The Smell of Hell",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vTV_SQJSN-A",
           "author": null,
           "description": "",
@@ -1660,16 +1671,6 @@
           "wordCount": null,
           "title": "the moon is leaving",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jEIfKpzpo54",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jEIfKpzpo54",
-          "publishedOn": "2023-09-01T18:06:55.000Z",
-          "wordCount": null,
-          "title": "Time",
-          "imageUrl": null
         }
       ]
     },
@@ -1782,6 +1783,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=opG7nSxitqM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=opG7nSxitqM",
+          "publishedOn": "2023-10-26T14:00:36.000Z",
+          "wordCount": null,
+          "title": "The MOST Satisfying Swiss Machining Techniques",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Ix9ebob3Yc4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ix9ebob3Yc4",
+          "publishedOn": "2023-10-26T11:00:12.000Z",
+          "wordCount": null,
+          "title": "Shredding Through Stainless Steel 😲",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=zfnFM8JQf10",
           "author": null,
@@ -1911,26 +1932,6 @@
           "wordCount": null,
           "title": "FULL RAPID Machining 2362 IPM In STEEL🤯",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OKZaF4q_UB4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OKZaF4q_UB4",
-          "publishedOn": "2023-10-16T14:00:13.000Z",
-          "wordCount": null,
-          "title": "We can’t pay the $30,000 rent for our machine shop…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KkMK4rISVuw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KkMK4rISVuw",
-          "publishedOn": "2023-10-16T11:00:14.000Z",
-          "wordCount": null,
-          "title": "Creep Feed vs Plunge Grinding",
-          "imageUrl": null
         }
       ]
     },
@@ -1939,6 +1940,76 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=0WxL1fqX8tU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0WxL1fqX8tU",
+          "publishedOn": "2023-10-26T21:00:01.000Z",
+          "wordCount": null,
+          "title": "This is how chefs cook with expensive ant larvae in Mexico. #cooking #larvae",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Rw8NaLBgOa4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Rw8NaLBgOa4",
+          "publishedOn": "2023-10-26T20:01:58.000Z",
+          "wordCount": null,
+          "title": "Bolivian farmers embrace tradition and innovation to harvest royal quinoa. #farmers #bolivia #quinoa",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=linAMVMFjZ4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=linAMVMFjZ4",
+          "publishedOn": "2023-10-26T20:00:24.000Z",
+          "wordCount": null,
+          "title": "Here's why you should buy a #traditional iron kettle from #Japan instead of a replica. 🫖 #authentic",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=b3Me3BZbwbo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=b3Me3BZbwbo",
+          "publishedOn": "2023-10-26T19:39:13.000Z",
+          "wordCount": null,
+          "title": "Forging Authentic Connections in the Tech-driven Marketing Landscape",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=NiaUf3TSWjc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NiaUf3TSWjc",
+          "publishedOn": "2023-10-26T18:23:33.000Z",
+          "wordCount": null,
+          "title": "Why car companies still use clay models that cost up to $650k. #Insider #Business #Cars",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=IZgo6HBvU70",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IZgo6HBvU70",
+          "publishedOn": "2023-10-26T16:08:56.000Z",
+          "wordCount": null,
+          "title": "This vegetable can be turned into toothpaste and so much more. #Cassava #vegetable #toothpaste",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=8QipqDBffIk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8QipqDBffIk",
+          "publishedOn": "2023-10-26T14:23:26.000Z",
+          "wordCount": null,
+          "title": "Why wasabi is one of the world’s most faked foods #fakefood #BigBusiness #Wasabi",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=IqJhDFphg70",
           "author": null,
@@ -2017,76 +2088,6 @@
           "publishedOn": "2023-10-24T20:00:04.000Z",
           "wordCount": null,
           "title": "This is how larvae are harvested from biting ants in Mexico. #larvae #ants #Mexico",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=D9mvYzt3JKc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=D9mvYzt3JKc",
-          "publishedOn": "2023-10-24T17:00:08.000Z",
-          "wordCount": null,
-          "title": "Did you know that #recycling #steel still creates #pollution? #environment",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4iU3pqHvjLQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4iU3pqHvjLQ",
-          "publishedOn": "2023-10-24T16:51:56.000Z",
-          "wordCount": null,
-          "title": "How Seamless Omnichannel Payments Drive Sales",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FFgU1RDekK0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FFgU1RDekK0",
-          "publishedOn": "2023-10-24T15:27:07.000Z",
-          "wordCount": null,
-          "title": "Royal quinoa is larger and more nutritious than other varieties. #royalquinoa #Bolivia #farming",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DtFNwYuZSvY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DtFNwYuZSvY",
-          "publishedOn": "2023-10-24T07:00:07.000Z",
-          "wordCount": null,
-          "title": "Putting The Income in Fixed Income | Bright Ideas",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HlsEJ-s9j6Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HlsEJ-s9j6Q",
-          "publishedOn": "2023-10-23T21:01:31.000Z",
-          "wordCount": null,
-          "title": "Depending on the season, the price of  #lobster can range from $8 to $10 per pound. #seafood #foodie",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cQ2P5ziczzI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cQ2P5ziczzI",
-          "publishedOn": "2023-10-23T20:10:52.000Z",
-          "wordCount": null,
-          "title": "Behind-the-scenes into the world of #Japanese #kettles that can sell as high as $2,000. #Tea",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9VrCTbQXMG8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9VrCTbQXMG8",
-          "publishedOn": "2023-10-23T19:00:02.000Z",
-          "wordCount": null,
-          "title": "Have you ever wondered tire scraps end up? #tire #scraps #recycle",
           "imageUrl": null
         }
       ]
@@ -2242,16 +2243,6 @@
           "wordCount": null,
           "title": "I made The (Creepy) Teletubbies",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iRVI88omaxI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iRVI88omaxI",
-          "publishedOn": "2023-07-28T15:00:38.000Z",
-          "wordCount": null,
-          "title": "I made a Scientifically Accurate Barney and Friends",
-          "imageUrl": null
         }
       ]
     },
@@ -2293,6 +2284,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ0-OtVpF0wOKEqT2Z1HEtA",
       "siteUrl": "https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=htBO8MBbBL4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=htBO8MBbBL4",
+          "publishedOn": "2023-10-26T16:01:26.000Z",
+          "wordCount": null,
+          "title": "Learning from 3 Exciting Products",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=pO3-8gYK4Fw",
           "author": null,
