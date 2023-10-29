@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-28T00:28:17.603Z</id>
+    <id>urn:2023-10-29T00:31:19.481Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-28T00:28:17.604Z</updated>
+    <updated>2023-10-29T00:31:19.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DIY On-Watch Alarm for $64 and better than Aqualarm Last Watch]]></title>
+        <id>https://www.youtube.com/watch?v=YbmfGroqXas</id>
+        <link href="https://www.youtube.com/watch?v=YbmfGroqXas"/>
+        <updated>2023-10-28T22:24:31.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F-35B Combat Aircraft Gets Refueled Mid-Air]]></title>
+        <id>https://www.youtube.com/watch?v=hBQpGrePE3E</id>
+        <link href="https://www.youtube.com/watch?v=hBQpGrePE3E"/>
+        <updated>2023-10-28T21:00:25.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's The Most Popular Age To Be?]]></title>
+        <id>https://www.youtube.com/watch?v=uAX_mnOl8oU</id>
+        <link href="https://www.youtube.com/watch?v=uAX_mnOl8oU"/>
+        <updated>2023-10-28T19:51:00.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generating Electricity By Flushing Water Like in a Toilet]]></title>
+        <id>https://www.youtube.com/watch?v=pdv0oQachUY</id>
+        <link href="https://www.youtube.com/watch?v=pdv0oQachUY"/>
+        <updated>2023-10-28T19:00:31.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Toilet Power: How This New Flushing Technology Can Create Electricity]]></title>
+        <id>https://www.youtube.com/watch?v=xthcIetniI4</id>
+        <link href="https://www.youtube.com/watch?v=xthcIetniI4"/>
+        <updated>2023-10-28T16:58:50.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Just Sold a CNC Machine to the KING of JORDAN]]></title>
+        <id>https://www.youtube.com/watch?v=FDeF367UuGE</id>
+        <link href="https://www.youtube.com/watch?v=FDeF367UuGE"/>
+        <updated>2023-10-28T13:00:17.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Easiest High Frequency Spindle Install Ever]]></title>
+        <id>https://www.youtube.com/watch?v=eSj_ZcGxcjk</id>
+        <link href="https://www.youtube.com/watch?v=eSj_ZcGxcjk"/>
+        <updated>2023-10-28T11:00:37.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[400 Drones Put on a Show]]></title>
+        <id>https://www.youtube.com/watch?v=NYJeLobzrIY</id>
+        <link href="https://www.youtube.com/watch?v=NYJeLobzrIY"/>
+        <updated>2023-10-28T09:00:15.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Past and Future of Life and the Cosmos]]></title>
         <id>https://www.youtube.com/watch?v=BYVMulMNZMs</id>
@@ -141,7 +213,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why can't you multiply vectors? [Dutch Game Day, 2023]]]></title>
+        <title type="html"><![CDATA[Why can't you multiply vectors?]]></title>
         <id>https://www.youtube.com/watch?v=htYh-Tq7ZBI</id>
         <link href="https://www.youtube.com/watch?v=htYh-Tq7ZBI"/>
         <updated>2023-10-26T21:08:49.000Z</updated>
@@ -339,15 +411,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Israel's Armor Tech Counters Hamas in Urban Warfare]]></title>
-        <id>https://www.youtube.com/watch?v=_tT9surcvVI</id>
-        <link href="https://www.youtube.com/watch?v=_tT9surcvVI"/>
-        <updated>2023-10-25T12:29:30.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Satisfying CNC Machining on the Tornos MultiSwiss😲]]></title>
         <id>https://www.youtube.com/watch?v=zfnFM8JQf10</id>
         <link href="https://www.youtube.com/watch?v=zfnFM8JQf10"/>
@@ -357,39 +420,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aircraft Parachute Save the Day]]></title>
-        <id>https://www.youtube.com/watch?v=oLxAkY_w9LE</id>
-        <link href="https://www.youtube.com/watch?v=oLxAkY_w9LE"/>
-        <updated>2023-10-25T08:58:40.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fence Makers are Satisfying to Watch]]></title>
-        <id>https://www.youtube.com/watch?v=WFCu1xsUL78</id>
-        <link href="https://www.youtube.com/watch?v=WFCu1xsUL78"/>
-        <updated>2023-10-24T21:00:17.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Speed Of Poop]]></title>
         <id>https://www.youtube.com/watch?v=vTV_SQJSN-A</id>
         <link href="https://www.youtube.com/watch?v=vTV_SQJSN-A"/>
         <updated>2023-10-24T20:28:50.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will Amazon Replace Human Workers with This Robot?]]></title>
-        <id>https://www.youtube.com/watch?v=W9dlbLEdNgI</id>
-        <link href="https://www.youtube.com/watch?v=W9dlbLEdNgI"/>
-        <updated>2023-10-24T19:00:17.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -582,15 +618,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Secret to Getting a Great Finish on Small Parts🤫]]></title>
-        <id>https://www.youtube.com/watch?v=XpwpwmC27uI</id>
-        <link href="https://www.youtube.com/watch?v=XpwpwmC27uI"/>
-        <updated>2023-10-18T11:00:24.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Easy Photography Life Hack!]]></title>
         <id>https://www.youtube.com/watch?v=tBFErdYD1wU</id>
         <link href="https://www.youtube.com/watch?v=tBFErdYD1wU"/>
@@ -615,15 +642,6 @@
         <updated>2023-10-17T14:04:14.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[60% Less Expensive for Ultimate Metal Removal | MILL 4-12KT]]></title>
-        <id>https://www.youtube.com/watch?v=EJLsBS8O2fs</id>
-        <link href="https://www.youtube.com/watch?v=EJLsBS8O2fs"/>
-        <updated>2023-10-17T14:00:09.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -771,7 +789,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unlocking the Secrets of Our Circadian Rhythms]]></title>
+        <title type="html"><![CDATA[Circadian Rhythms: This Discovery Reveals How They Work]]></title>
         <id>https://www.youtube.com/watch?v=X_Mmfw3GSi8</id>
         <link href="https://www.youtube.com/watch?v=X_Mmfw3GSi8"/>
         <updated>2023-10-10T14:40:24.000Z</updated>
@@ -1158,7 +1176,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Time Travel to the Early Universe]]></title>
+        <title type="html"><![CDATA[In Search of Cosmic Origins]]></title>
         <id>https://www.youtube.com/watch?v=hMbtFdw6Ekk</id>
         <link href="https://www.youtube.com/watch?v=hMbtFdw6Ekk"/>
         <updated>2023-09-20T15:06:42.000Z</updated>
@@ -1326,15 +1344,6 @@
         <updated>2023-09-07T01:32:21.000Z</updated>
         <author>
             <name>Artem Kirsanov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[the moon is leaving]]></title>
-        <id>https://www.youtube.com/watch?v=IoKZC7zfdEA</id>
-        <link href="https://www.youtube.com/watch?v=IoKZC7zfdEA"/>
-        <updated>2023-09-06T21:42:14.000Z</updated>
-        <author>
-            <name>Vsauce</name>
         </author>
     </entry>
     <entry>
@@ -1677,15 +1686,6 @@
         <updated>2023-08-14T09:01:12.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Broke the Sail Crutch Again]]></title>
-        <id>https://www.youtube.com/watch?v=dQ9L1Dj7DX4</id>
-        <link href="https://www.youtube.com/watch?v=dQ9L1Dj7DX4"/>
-        <updated>2023-08-12T15:00:35.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
         </author>
     </entry>
     <entry>
