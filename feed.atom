@@ -1,10 +1,136 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-31T00:29:29.392Z</id>
+    <id>urn:2023-11-01T00:31:31.825Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-31T00:29:29.392Z</updated>
+    <updated>2023-11-01T00:31:31.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Problem With Science Communication]]></title>
+        <id>https://www.youtube.com/watch?v=czjisEGe5Cw</id>
+        <link href="https://www.youtube.com/watch?v=czjisEGe5Cw"/>
+        <updated>2023-10-31T23:00:20.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making bulletproof wood]]></title>
+        <id>https://www.youtube.com/watch?v=CglNRNrMFGM</id>
+        <link href="https://www.youtube.com/watch?v=CglNRNrMFGM"/>
+        <updated>2023-10-31T22:55:13.000Z</updated>
+        <author>
+            <name>NileRed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[End of a Boring Operation]]></title>
+        <id>https://www.youtube.com/watch?v=dedW5Gyw_ZI</id>
+        <link href="https://www.youtube.com/watch?v=dedW5Gyw_ZI"/>
+        <updated>2023-10-31T21:00:22.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Was Reality Different When You Were A Kid?]]></title>
+        <id>https://www.youtube.com/watch?v=KElHrydCYkc</id>
+        <link href="https://www.youtube.com/watch?v=KElHrydCYkc"/>
+        <updated>2023-10-31T20:22:08.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zisha teapots were one of the first teapots ever made. #tea #ceramics #China]]></title>
+        <id>https://www.youtube.com/watch?v=jIrIOd3wT20</id>
+        <link href="https://www.youtube.com/watch?v=jIrIOd3wT20"/>
+        <updated>2023-10-31T19:57:47.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Behind #Gorgonzola #cheese making is an ancient technique that meets modern machinery. #Dairy]]></title>
+        <id>https://www.youtube.com/watch?v=lm0_UtGcnDk</id>
+        <link href="https://www.youtube.com/watch?v=lm0_UtGcnDk"/>
+        <updated>2023-10-31T19:25:01.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zipline — Drone Delivery Done Right]]></title>
+        <id>https://www.youtube.com/watch?v=l6bypm7jPwQ</id>
+        <link href="https://www.youtube.com/watch?v=l6bypm7jPwQ"/>
+        <updated>2023-10-31T19:00:32.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zipline — Drone Delivery Done Right]]></title>
+        <id>https://www.youtube.com/watch?v=3SEfTQgykCg</id>
+        <link href="https://www.youtube.com/watch?v=3SEfTQgykCg"/>
+        <updated>2023-10-31T19:00:02.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The rush to produce more quinoa has caused severe soil erosion in Bolivia. #quinoa #Bolivia #soil]]></title>
+        <id>https://www.youtube.com/watch?v=KKmxLXx4cR4</id>
+        <link href="https://www.youtube.com/watch?v=KKmxLXx4cR4"/>
+        <updated>2023-10-31T18:05:35.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yemisi Iranloye pays her #cassava farmers nearly four times more than the open market. #nigeria]]></title>
+        <id>https://www.youtube.com/watch?v=IXBrUbmi53A</id>
+        <link href="https://www.youtube.com/watch?v=IXBrUbmi53A"/>
+        <updated>2023-10-31T18:00:15.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peeled #cassava is pounded, sieved, and drained to create this staple side dish. #africaneats #fufu]]></title>
+        <id>https://www.youtube.com/watch?v=ljW1yivaGcQ</id>
+        <link href="https://www.youtube.com/watch?v=ljW1yivaGcQ"/>
+        <updated>2023-10-31T17:00:38.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How These INSANELY Precise Cuts Are Made]]></title>
+        <id>https://www.youtube.com/watch?v=ENq26JUddCg</id>
+        <link href="https://www.youtube.com/watch?v=ENq26JUddCg"/>
+        <updated>2023-10-31T14:00:15.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNC Machining Custom Work-holding For the AK-50 Bolt]]></title>
+        <id>https://www.youtube.com/watch?v=61aBNQEcw0Y</id>
+        <link href="https://www.youtube.com/watch?v=61aBNQEcw0Y"/>
+        <updated>2023-10-31T11:00:10.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Man from Japan Designs Weird Hovercraft]]></title>
+        <id>https://www.youtube.com/watch?v=gpSh2uSqi5o</id>
+        <link href="https://www.youtube.com/watch?v=gpSh2uSqi5o"/>
+        <updated>2023-10-31T09:00:34.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can Kevlar Pants Stop a Chainsaw?]]></title>
         <id>https://www.youtube.com/watch?v=R9J4DyM8wFA</id>
@@ -78,15 +204,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Will NASA’s Roman Mission Reveal About Our Universe?]]></title>
-        <id>https://www.youtube.com/watch?v=MzdE-xD-Gng</id>
-        <link href="https://www.youtube.com/watch?v=MzdE-xD-Gng"/>
-        <updated>2023-10-30T13:48:04.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Breaking a Tool After Full Slot w/o Coolant😲]]></title>
         <id>https://www.youtube.com/watch?v=5DIGZ49rhxA</id>
         <link href="https://www.youtube.com/watch?v=5DIGZ49rhxA"/>
@@ -141,7 +258,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[It's about Fish - Smarter Every Day 291]]></title>
+        <title type="html"><![CDATA[We made a Video Game - Smarter Every Day 291]]></title>
         <id>https://www.youtube.com/watch?v=prRTWThrotU</id>
         <link href="https://www.youtube.com/watch?v=prRTWThrotU"/>
         <updated>2023-10-29T14:23:09.000Z</updated>
@@ -213,15 +330,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Toilet Power: How This New Flushing Technology Can Create Electricity]]></title>
-        <id>https://www.youtube.com/watch?v=xthcIetniI4</id>
-        <link href="https://www.youtube.com/watch?v=xthcIetniI4"/>
-        <updated>2023-10-28T16:58:50.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I Just Sold a CNC Machine to the KING of JORDAN]]></title>
         <id>https://www.youtube.com/watch?v=FDeF367UuGE</id>
         <link href="https://www.youtube.com/watch?v=FDeF367UuGE"/>
@@ -240,15 +348,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[400 Drones Put on a Show]]></title>
-        <id>https://www.youtube.com/watch?v=NYJeLobzrIY</id>
-        <link href="https://www.youtube.com/watch?v=NYJeLobzrIY"/>
-        <updated>2023-10-28T09:00:15.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Past and Future of Life and the Cosmos]]></title>
         <id>https://www.youtube.com/watch?v=BYVMulMNZMs</id>
         <link href="https://www.youtube.com/watch?v=BYVMulMNZMs"/>
@@ -264,15 +363,6 @@
         <updated>2023-10-27T21:00:20.000Z</updated>
         <author>
             <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C-17 Quick Take Off]]></title>
-        <id>https://www.youtube.com/watch?v=LfyeOvuafq0</id>
-        <link href="https://www.youtube.com/watch?v=LfyeOvuafq0"/>
-        <updated>2023-10-27T21:00:18.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -372,51 +462,6 @@
         <updated>2023-10-26T21:01:25.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is how chefs cook with expensive ant larvae in Mexico. #cooking #larvae]]></title>
-        <id>https://www.youtube.com/watch?v=0WxL1fqX8tU</id>
-        <link href="https://www.youtube.com/watch?v=0WxL1fqX8tU"/>
-        <updated>2023-10-26T21:00:01.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bolivian farmers embrace tradition and innovation to harvest royal quinoa. #farmers #bolivia #quinoa]]></title>
-        <id>https://www.youtube.com/watch?v=Rw8NaLBgOa4</id>
-        <link href="https://www.youtube.com/watch?v=Rw8NaLBgOa4"/>
-        <updated>2023-10-26T20:01:58.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's why you should buy a #traditional iron kettle from #Japan instead of a replica. 🫖 #authentic]]></title>
-        <id>https://www.youtube.com/watch?v=linAMVMFjZ4</id>
-        <link href="https://www.youtube.com/watch?v=linAMVMFjZ4"/>
-        <updated>2023-10-26T20:00:24.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forging Authentic Connections in the Tech-driven Marketing Landscape]]></title>
-        <id>https://www.youtube.com/watch?v=b3Me3BZbwbo</id>
-        <link href="https://www.youtube.com/watch?v=b3Me3BZbwbo"/>
-        <updated>2023-10-26T19:39:13.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why car companies still use clay models that cost up to $650k. #Insider #Business #Cars]]></title>
-        <id>https://www.youtube.com/watch?v=NiaUf3TSWjc</id>
-        <link href="https://www.youtube.com/watch?v=NiaUf3TSWjc"/>
-        <updated>2023-10-26T18:23:33.000Z</updated>
-        <author>
-            <name>Insider Business</name>
         </author>
     </entry>
     <entry>
@@ -600,15 +645,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using a CMM to Check Multiple Parts]]></title>
-        <id>https://www.youtube.com/watch?v=VXv955ZALLU</id>
-        <link href="https://www.youtube.com/watch?v=VXv955ZALLU"/>
-        <updated>2023-10-21T11:00:22.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[League of Γκεκ - Άντε να]]></title>
         <id>https://www.youtube.com/watch?v=ErLIXok8oqM</id>
         <link href="https://www.youtube.com/watch?v=ErLIXok8oqM"/>
@@ -633,15 +669,6 @@
         <updated>2023-10-20T13:00:03.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machining a Custom Chuck Adapter Plate]]></title>
-        <id>https://www.youtube.com/watch?v=9K_nO3YMRDo</id>
-        <link href="https://www.youtube.com/watch?v=9K_nO3YMRDo"/>
-        <updated>2023-10-20T11:00:09.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1320,15 +1347,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Book That Can Beat You At Tic-Tac-Toe]]></title>
-        <id>https://www.youtube.com/watch?v=mQuvEHEARZg</id>
-        <link href="https://www.youtube.com/watch?v=mQuvEHEARZg"/>
-        <updated>2023-09-08T19:36:38.000Z</updated>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I made Killer Bean fighting Jet Bean]]></title>
         <id>https://www.youtube.com/watch?v=Z_yADdkjJK0</id>
         <link href="https://www.youtube.com/watch?v=Z_yADdkjJK0"/>
@@ -1866,15 +1884,6 @@
         <updated>2023-08-03T16:01:24.000Z</updated>
         <author>
             <name>Adam Neely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winning the Fields Medal (with James Maynard) - Numberphile]]></title>
-        <id>https://www.youtube.com/watch?v=eupAXdWPvX8</id>
-        <link href="https://www.youtube.com/watch?v=eupAXdWPvX8"/>
-        <updated>2023-08-02T17:00:31.000Z</updated>
-        <author>
-            <name>Numberphile</name>
         </author>
     </entry>
 </feed>

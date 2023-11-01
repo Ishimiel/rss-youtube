@@ -714,6 +714,46 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=dedW5Gyw_ZI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dedW5Gyw_ZI",
+          "publishedOn": "2023-10-31T21:00:22.000Z",
+          "wordCount": null,
+          "title": "End of a Boring Operation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=l6bypm7jPwQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=l6bypm7jPwQ",
+          "publishedOn": "2023-10-31T19:00:32.000Z",
+          "wordCount": null,
+          "title": "Zipline — Drone Delivery Done Right",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=3SEfTQgykCg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3SEfTQgykCg",
+          "publishedOn": "2023-10-31T19:00:02.000Z",
+          "wordCount": null,
+          "title": "Zipline — Drone Delivery Done Right",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gpSh2uSqi5o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gpSh2uSqi5o",
+          "publishedOn": "2023-10-31T09:00:34.000Z",
+          "wordCount": null,
+          "title": "Man from Japan Designs Weird Hovercraft",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=R9J4DyM8wFA",
           "author": null,
           "description": "",
@@ -749,16 +789,6 @@
           "description": "",
           "link": "https://www.youtube.com/watch?v=7CYWWqD3ZPo",
           "publishedOn": "2023-10-30T13:54:27.000Z",
-          "wordCount": null,
-          "title": "What Will NASA’s Roman Mission Reveal About Our Universe?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MzdE-xD-Gng",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MzdE-xD-Gng",
-          "publishedOn": "2023-10-30T13:48:04.000Z",
           "wordCount": null,
           "title": "What Will NASA’s Roman Mission Reveal About Our Universe?",
           "imageUrl": null
@@ -832,36 +862,6 @@
           "wordCount": null,
           "title": "Generating Electricity By Flushing Water Like in a Toilet",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xthcIetniI4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xthcIetniI4",
-          "publishedOn": "2023-10-28T16:58:50.000Z",
-          "wordCount": null,
-          "title": "Toilet Power: How This New Flushing Technology Can Create Electricity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NYJeLobzrIY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NYJeLobzrIY",
-          "publishedOn": "2023-10-28T09:00:15.000Z",
-          "wordCount": null,
-          "title": "400 Drones Put on a Show",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LfyeOvuafq0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LfyeOvuafq0",
-          "publishedOn": "2023-10-27T21:00:18.000Z",
-          "wordCount": null,
-          "title": "C-17 Quick Take Off",
-          "imageUrl": null
         }
       ]
     },
@@ -899,6 +899,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFhXFikryT4aFcLkLw2LBLA",
       "siteUrl": "https://www.youtube.com/channel/UCFhXFikryT4aFcLkLw2LBLA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=CglNRNrMFGM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CglNRNrMFGM",
+          "publishedOn": "2023-10-31T22:55:13.000Z",
+          "wordCount": null,
+          "title": "Making bulletproof wood",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=6EYWniWuPQM",
           "author": null,
@@ -994,16 +1004,6 @@
           "publishedOn": "2023-08-17T16:25:46.000Z",
           "wordCount": null,
           "title": "Sleeping Beauty Paradox - Numberphile",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eupAXdWPvX8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eupAXdWPvX8",
-          "publishedOn": "2023-08-02T17:00:31.000Z",
-          "wordCount": null,
-          "title": "Winning the Fields Medal (with James Maynard) - Numberphile",
           "imageUrl": null
         }
       ]
@@ -1321,7 +1321,7 @@
           "link": "https://www.youtube.com/watch?v=prRTWThrotU",
           "publishedOn": "2023-10-29T14:23:09.000Z",
           "wordCount": null,
-          "title": "It's about Fish - Smarter Every Day 291",
+          "title": "We made a Video Game - Smarter Every Day 291",
           "imageUrl": null
         },
         {
@@ -1436,6 +1436,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=czjisEGe5Cw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=czjisEGe5Cw",
+          "publishedOn": "2023-10-31T23:00:20.000Z",
+          "wordCount": null,
+          "title": "The Problem With Science Communication",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lFlu60qs7_4",
           "author": null,
           "description": "",
@@ -1512,6 +1522,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "siteUrl": "https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=KElHrydCYkc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KElHrydCYkc",
+          "publishedOn": "2023-10-31T20:22:08.000Z",
+          "wordCount": null,
+          "title": "Was Reality Different When You Were A Kid?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=uAX_mnOl8oU",
           "author": null,
@@ -1651,16 +1671,6 @@
           "wordCount": null,
           "title": "What Will Happen When I Open The Valve?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mQuvEHEARZg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mQuvEHEARZg",
-          "publishedOn": "2023-09-08T19:36:38.000Z",
-          "wordCount": null,
-          "title": "The Book That Can Beat You At Tic-Tac-Toe",
-          "imageUrl": null
         }
       ]
     },
@@ -1783,6 +1793,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ENq26JUddCg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ENq26JUddCg",
+          "publishedOn": "2023-10-31T14:00:15.000Z",
+          "wordCount": null,
+          "title": "How These INSANELY Precise Cuts Are Made",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=61aBNQEcw0Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=61aBNQEcw0Y",
+          "publishedOn": "2023-10-31T11:00:10.000Z",
+          "wordCount": null,
+          "title": "CNC Machining Custom Work-holding For the AK-50 Bolt",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=5DIGZ49rhxA",
           "author": null,
@@ -1912,26 +1942,6 @@
           "wordCount": null,
           "title": "CNC Machine Explodes While Taking DEEP Cut in Alumina Ceramic",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VXv955ZALLU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VXv955ZALLU",
-          "publishedOn": "2023-10-21T11:00:22.000Z",
-          "wordCount": null,
-          "title": "Using a CMM to Check Multiple Parts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9K_nO3YMRDo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9K_nO3YMRDo",
-          "publishedOn": "2023-10-20T11:00:09.000Z",
-          "wordCount": null,
-          "title": "Machining a Custom Chuck Adapter Plate",
-          "imageUrl": null
         }
       ]
     },
@@ -1940,6 +1950,56 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=jIrIOd3wT20",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jIrIOd3wT20",
+          "publishedOn": "2023-10-31T19:57:47.000Z",
+          "wordCount": null,
+          "title": "Zisha teapots were one of the first teapots ever made. #tea #ceramics #China",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lm0_UtGcnDk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lm0_UtGcnDk",
+          "publishedOn": "2023-10-31T19:25:01.000Z",
+          "wordCount": null,
+          "title": "Behind #Gorgonzola #cheese making is an ancient technique that meets modern machinery. #Dairy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=KKmxLXx4cR4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KKmxLXx4cR4",
+          "publishedOn": "2023-10-31T18:05:35.000Z",
+          "wordCount": null,
+          "title": "The rush to produce more quinoa has caused severe soil erosion in Bolivia. #quinoa #Bolivia #soil",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=IXBrUbmi53A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IXBrUbmi53A",
+          "publishedOn": "2023-10-31T18:00:15.000Z",
+          "wordCount": null,
+          "title": "Yemisi Iranloye pays her #cassava farmers nearly four times more than the open market. #nigeria",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ljW1yivaGcQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ljW1yivaGcQ",
+          "publishedOn": "2023-10-31T17:00:38.000Z",
+          "wordCount": null,
+          "title": "Peeled #cassava is pounded, sieved, and drained to create this staple side dish. #africaneats #fufu",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=QwHEft0r8YY",
           "author": null,
@@ -2038,56 +2098,6 @@
           "publishedOn": "2023-10-27T16:00:41.000Z",
           "wordCount": null,
           "title": "There's been widespread global demand for #healthy food and there is no food healthier than #quinoa.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0WxL1fqX8tU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0WxL1fqX8tU",
-          "publishedOn": "2023-10-26T21:00:01.000Z",
-          "wordCount": null,
-          "title": "This is how chefs cook with expensive ant larvae in Mexico. #cooking #larvae",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Rw8NaLBgOa4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Rw8NaLBgOa4",
-          "publishedOn": "2023-10-26T20:01:58.000Z",
-          "wordCount": null,
-          "title": "Bolivian farmers embrace tradition and innovation to harvest royal quinoa. #farmers #bolivia #quinoa",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=linAMVMFjZ4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=linAMVMFjZ4",
-          "publishedOn": "2023-10-26T20:00:24.000Z",
-          "wordCount": null,
-          "title": "Here's why you should buy a #traditional iron kettle from #Japan instead of a replica. 🫖 #authentic",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=b3Me3BZbwbo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=b3Me3BZbwbo",
-          "publishedOn": "2023-10-26T19:39:13.000Z",
-          "wordCount": null,
-          "title": "Forging Authentic Connections in the Tech-driven Marketing Landscape",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NiaUf3TSWjc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NiaUf3TSWjc",
-          "publishedOn": "2023-10-26T18:23:33.000Z",
-          "wordCount": null,
-          "title": "Why car companies still use clay models that cost up to $650k. #Insider #Business #Cars",
           "imageUrl": null
         }
       ]
