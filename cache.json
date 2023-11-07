@@ -12,7 +12,7 @@
           "link": "https://www.youtube.com/watch?v=YOKPo-I6cgs",
           "publishedOn": "2023-10-24T17:57:34.000Z",
           "wordCount": null,
-          "title": "Computer Vision: How AI Learns to See",
+          "title": "How AI Learns to See Without Eyes",
           "imageUrl": null
         },
         {
@@ -43,16 +43,6 @@
           "publishedOn": "2023-08-31T21:40:50.000Z",
           "wordCount": null,
           "title": "When Computers Write Proofs, What's the Point of Mathematicians?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=h7kqlYUV1l8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=h7kqlYUV1l8",
-          "publishedOn": "2023-08-08T19:46:49.000Z",
-          "wordCount": null,
-          "title": "How Math’s Famous Map Theorem Was Solved With Computers",
           "imageUrl": null
         }
       ]
@@ -187,16 +177,6 @@
           "wordCount": null,
           "title": "What Happens If You Destroy A Black Hole?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Kr57ax0OWMk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Kr57ax0OWMk",
-          "publishedOn": "2023-08-08T13:59:49.000Z",
-          "wordCount": null,
-          "title": "The (Second) Deadliest Virus",
-          "imageUrl": null
         }
       ]
     },
@@ -216,7 +196,18 @@
       "title": "Faculty of Khan",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGDanWUzNMbIV11lcNi-yBg",
       "siteUrl": "https://www.youtube.com/channel/UCGDanWUzNMbIV11lcNi-yBg",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=lGLnCJPkHrM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lGLnCJPkHrM",
+          "publishedOn": "2023-11-06T03:02:53.000Z",
+          "wordCount": null,
+          "title": "Introducing Spacetime Diagrams in Relativity",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Pioneer Works",
@@ -327,6 +318,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_7aK9PpYTqt08ERh1MewlQ",
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Z4GzTUq6Cwg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Z4GzTUq6Cwg",
+          "publishedOn": "2023-11-05T07:45:12.000Z",
+          "wordCount": null,
+          "title": "Formnext 2023 LIVE! Show & Telling from the Show Floor!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Dqh8IaFDjD8",
           "author": null,
@@ -465,16 +466,6 @@
           "publishedOn": "2023-10-04T13:00:10.000Z",
           "wordCount": null,
           "title": "Peopoly Magneto X - FIRST LOOK!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Jsyys6Vgoes",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Jsyys6Vgoes",
-          "publishedOn": "2023-10-02T15:35:28.000Z",
-          "wordCount": null,
-          "title": "MASSIVE Print Project for Dangling Carrot! #3dprinting",
           "imageUrl": null
         }
       ]
@@ -673,6 +664,76 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=9YqsHmaEy_Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9YqsHmaEy_Y",
+          "publishedOn": "2023-11-06T21:00:05.000Z",
+          "wordCount": null,
+          "title": "Device that Teach CPR with a Bottle",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=LyH5-FG0Gaw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LyH5-FG0Gaw",
+          "publishedOn": "2023-11-06T19:00:15.000Z",
+          "wordCount": null,
+          "title": "How Powerful is the World's Biggest Chain Gun?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=D7S64kVsS1w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=D7S64kVsS1w",
+          "publishedOn": "2023-11-06T19:00:09.000Z",
+          "wordCount": null,
+          "title": "What makes XM913 the World's Most Powerful Chain Gun?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qms2dObA8xg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qms2dObA8xg",
+          "publishedOn": "2023-11-06T16:06:08.000Z",
+          "wordCount": null,
+          "title": "Grok Chatbot AI: What is It and How to Use It",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=OcibT8d2bUQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OcibT8d2bUQ",
+          "publishedOn": "2023-11-06T16:00:23.000Z",
+          "wordCount": null,
+          "title": "Grok Chatbot AI: What is It and How to Use It",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=L7Fctfjt70Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=L7Fctfjt70Q",
+          "publishedOn": "2023-11-06T16:00:12.000Z",
+          "wordCount": null,
+          "title": "Cementing a Sustainable Future: Leah Ellis Unveils Sublime’s Vision",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0EeaiyfuHCA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0EeaiyfuHCA",
+          "publishedOn": "2023-11-06T09:00:00.000Z",
+          "wordCount": null,
+          "title": "The Sphere in Las Vegas is Something to Behold",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=9MIL3ZnzR0Y",
           "author": null,
           "description": "",
@@ -750,76 +811,6 @@
           "publishedOn": "2023-11-03T21:00:31.000Z",
           "wordCount": null,
           "title": "Plastic Cup Production Process",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eM_I71KTv9w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eM_I71KTv9w",
-          "publishedOn": "2023-11-03T19:00:21.000Z",
-          "wordCount": null,
-          "title": "Can Starlink Provide Internet To Gaza?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PcW5mgH25qY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PcW5mgH25qY",
-          "publishedOn": "2023-11-03T16:46:01.000Z",
-          "wordCount": null,
-          "title": "Can Starlink Provide Internet To Gaza?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bPcBA-O6Ovc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bPcBA-O6Ovc",
-          "publishedOn": "2023-11-03T16:06:46.000Z",
-          "wordCount": null,
-          "title": "Desk That Can Save You From an Earthquake",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PbYUOsgyJSk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PbYUOsgyJSk",
-          "publishedOn": "2023-11-03T09:00:19.000Z",
-          "wordCount": null,
-          "title": "Sweeping the Morning Dew from a Golf Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dzsv8X5b1JQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dzsv8X5b1JQ",
-          "publishedOn": "2023-11-02T21:00:17.000Z",
-          "wordCount": null,
-          "title": "Handheld Blueberry Harvester",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HdtI3NHOpqE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HdtI3NHOpqE",
-          "publishedOn": "2023-11-02T19:00:15.000Z",
-          "wordCount": null,
-          "title": "How Will Space Force Dominate the Skies?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PTof8H1knaU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PTof8H1knaU",
-          "publishedOn": "2023-11-02T19:00:12.000Z",
-          "wordCount": null,
-          "title": "How Will Space Force Dominate the Skies?",
           "imageUrl": null
         }
       ]
@@ -1763,6 +1754,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KyXtaoyjiZQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KyXtaoyjiZQ",
+          "publishedOn": "2023-11-06T12:00:21.000Z",
+          "wordCount": null,
+          "title": "Machine a Hex with a MACRO - Swiss CNC Machining",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mMZoK4yV_6U",
           "author": null,
           "description": "",
@@ -1901,16 +1902,6 @@
           "wordCount": null,
           "title": "3D Printed Tensegrity Table - Strength Test 💪",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=opG7nSxitqM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=opG7nSxitqM",
-          "publishedOn": "2023-10-26T14:00:36.000Z",
-          "wordCount": null,
-          "title": "The MOST Satisfying Swiss Machining Techniques",
-          "imageUrl": null
         }
       ]
     },
@@ -1920,13 +1911,63 @@
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=43jMLH4hi60",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=43jMLH4hi60",
+          "publishedOn": "2023-11-06T21:01:44.000Z",
+          "wordCount": null,
+          "title": "Did you know unprocessed #cashews have toxic oils? #poisonious #nuts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=FMF4-mybtSU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FMF4-mybtSU",
+          "publishedOn": "2023-11-06T18:51:00.000Z",
+          "wordCount": null,
+          "title": "How A Chicago Salon Owner Is Changing The Hair Care Industry, One Cut At A Time | Insider Business",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5YlTEAljKaw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5YlTEAljKaw",
+          "publishedOn": "2023-11-06T18:09:44.000Z",
+          "wordCount": null,
+          "title": "#Turkey has found a reusable solution for millions of old tires. 🛞 #electricity #powerplant",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1ggw15x2Ij4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1ggw15x2Ij4",
+          "publishedOn": "2023-11-06T17:14:59.000Z",
+          "wordCount": null,
+          "title": "Martin acoustic #guitars are some of the most popular high-end guitars in the world. #artisan #music",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=u9Dwg0EYU8k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=u9Dwg0EYU8k",
+          "publishedOn": "2023-11-06T17:00:44.000Z",
+          "wordCount": null,
+          "title": "These farmers rent bees to increase the value of their #mangoes at auction. #pollination #auction",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UijpPTEuJgY",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=UijpPTEuJgY",
           "publishedOn": "2023-11-04T15:00:29.000Z",
           "wordCount": null,
-          "title": "Why American-Made Martin Guitars Are So Expensive | So Expensive | Insider Business",
+          "title": "How the USA’s Oldest Guitar Company Makes $2800 Instruments | So Expensive | Insider Business",
           "imageUrl": null
         },
         {
@@ -2017,56 +2058,6 @@
           "publishedOn": "2023-11-02T19:00:12.000Z",
           "wordCount": null,
           "title": "This farmer has been growing mangoes for 16 years. #mango #farming #miyazaki",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oqxmvOX_yQQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oqxmvOX_yQQ",
-          "publishedOn": "2023-11-02T18:09:46.000Z",
-          "wordCount": null,
-          "title": "This camel farm milks 1300 camels twice a day. #camels #milking #dairy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fOeYiMumZlQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fOeYiMumZlQ",
-          "publishedOn": "2023-11-02T18:04:25.000Z",
-          "wordCount": null,
-          "title": "This is how seaweed farming can hurt the environment. #seaweed #farming #environment",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tj3BEKaFFF0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tj3BEKaFFF0",
-          "publishedOn": "2023-11-02T15:00:53.000Z",
-          "wordCount": null,
-          "title": "How Air Force Commandos Train To Protect VIPs In Combat Zones | Boot Camp | Insider Business",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EgmJw3r0cKw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EgmJw3r0cKw",
-          "publishedOn": "2023-11-01T21:16:49.000Z",
-          "wordCount": null,
-          "title": "Despite global demand, #quinoa prices in #Bolivia have fallen. #agriculture",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gSiUNYsIZCQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gSiUNYsIZCQ",
-          "publishedOn": "2023-11-01T20:34:30.000Z",
-          "wordCount": null,
-          "title": "Did you know that #recycled #steel is often cleaner and more #energy efficient than new steel?",
           "imageUrl": null
         }
       ]
