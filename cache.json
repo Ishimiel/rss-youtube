@@ -242,16 +242,6 @@
           "wordCount": null,
           "title": "PW Broadcast Radio Hour : Maya Binyam with Joshua Jelly-Shapiro - 8.13.23 - Second Sundays",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MM5VrNOkyS4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MM5VrNOkyS4",
-          "publishedOn": "2023-08-11T13:53:15.000Z",
-          "wordCount": null,
-          "title": "Hilton Als: My Pinup",
-          "imageUrl": null
         }
       ]
     },
@@ -609,6 +599,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4m75t4x1V2o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4m75t4x1V2o",
+          "publishedOn": "2023-11-09T14:59:57.000Z",
+          "wordCount": null,
+          "title": "Why Don't They Launch Rockets From Mountains Or The Equator?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=SzxJv3Ekrl0",
           "author": null,
           "description": "",
@@ -662,6 +662,46 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEuiOszNd6msGgqsD0f9YAQ",
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=U_3XY_qpBok",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=U_3XY_qpBok",
+          "publishedOn": "2023-11-09T21:00:14.000Z",
+          "wordCount": null,
+          "title": "This is How They Board a Ship in Rough Seas",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ddla-U68k20",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ddla-U68k20",
+          "publishedOn": "2023-11-09T19:00:30.000Z",
+          "wordCount": null,
+          "title": "Robots That Will Feed Our World",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6yw2kevurcg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6yw2kevurcg",
+          "publishedOn": "2023-11-09T19:00:02.000Z",
+          "wordCount": null,
+          "title": "Robots That Will Feed Our World",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Iw2G5EOPqQY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Iw2G5EOPqQY",
+          "publishedOn": "2023-11-09T09:00:22.000Z",
+          "wordCount": null,
+          "title": "How Can This Guy Bend Wood?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=t35Yv8dra1w",
           "author": null,
@@ -770,46 +810,6 @@
           "publishedOn": "2023-11-06T16:06:08.000Z",
           "wordCount": null,
           "title": "Grok Chatbot AI: What is It and How to Use It",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OcibT8d2bUQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OcibT8d2bUQ",
-          "publishedOn": "2023-11-06T16:00:23.000Z",
-          "wordCount": null,
-          "title": "Grok Chatbot AI: What is It and How to Use It",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=L7Fctfjt70Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=L7Fctfjt70Q",
-          "publishedOn": "2023-11-06T16:00:12.000Z",
-          "wordCount": null,
-          "title": "Cementing a Sustainable Future: Leah Ellis Unveils Sublime’s Vision",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0EeaiyfuHCA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0EeaiyfuHCA",
-          "publishedOn": "2023-11-06T09:00:00.000Z",
-          "wordCount": null,
-          "title": "The Sphere in Las Vegas is Something to Behold",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9MIL3ZnzR0Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9MIL3ZnzR0Y",
-          "publishedOn": "2023-11-05T21:00:03.000Z",
-          "wordCount": null,
-          "title": "Box Cutter Razor Manufacturing Machine",
           "imageUrl": null
         }
       ]
@@ -1657,16 +1657,6 @@
           "wordCount": null,
           "title": "Cursed Coding: How the Void* Does Anything with Nothing",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=96eFnTescoY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=96eFnTescoY",
-          "publishedOn": "2023-08-11T14:00:06.000Z",
-          "wordCount": null,
-          "title": "The Highly Ridiculous Over-Engineering of the Diamondback Nozzle",
-          "imageUrl": null
         }
       ]
     },
@@ -1732,6 +1722,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=loEixmPq7Bg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=loEixmPq7Bg",
+          "publishedOn": "2023-11-09T15:00:46.000Z",
+          "wordCount": null,
+          "title": "The MOST Powerful Mill Ever",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9rvn5j7Nazg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9rvn5j7Nazg",
+          "publishedOn": "2023-11-09T12:00:15.000Z",
+          "wordCount": null,
+          "title": "MultiAxis Lathe gets Chuck Upgrade ✅",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=oQ1QY9gdrdg",
           "author": null,
@@ -1861,26 +1871,6 @@
           "wordCount": null,
           "title": "CNC Machining Custom Work-holding For the AK-50 Bolt",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5DIGZ49rhxA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5DIGZ49rhxA",
-          "publishedOn": "2023-10-30T11:00:03.000Z",
-          "wordCount": null,
-          "title": "Breaking a Tool After Full Slot w/o Coolant😲",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FOAj7d3tsMg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FOAj7d3tsMg",
-          "publishedOn": "2023-10-29T11:00:18.000Z",
-          "wordCount": null,
-          "title": "CRAZY Pyramid Fixture Setup",
-          "imageUrl": null
         }
       ]
     },
@@ -1889,6 +1879,66 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Q7sOvFOtWg4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Q7sOvFOtWg4",
+          "publishedOn": "2023-11-09T22:05:00.000Z",
+          "wordCount": null,
+          "title": "This Indian company makes kitchen appliances out of #clay. #ceramics #pottery",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=8MCjjB70zJ8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8MCjjB70zJ8",
+          "publishedOn": "2023-11-09T20:10:29.000Z",
+          "wordCount": null,
+          "title": "Extracting #oil from #sandalwood can be a long and physically demanding process. 🪵 #india",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Gv-eNog3TIM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Gv-eNog3TIM",
+          "publishedOn": "2023-11-09T18:53:21.000Z",
+          "wordCount": null,
+          "title": "How Adidas, Asics, and Other Shoemakers Deal With Waste. #Shoes #Recycling #Waste",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=MwKXVNYU0_c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MwKXVNYU0_c",
+          "publishedOn": "2023-11-09T18:40:45.000Z",
+          "wordCount": null,
+          "title": "Cassava spoils easily so processing it quickly is important. #cassava #food #agriculture",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=n37oMUR2Nj0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=n37oMUR2Nj0",
+          "publishedOn": "2023-11-09T18:30:34.000Z",
+          "wordCount": null,
+          "title": "The Rise And Fall Of America's Favorite Junk Foods | Rise and Fall | Insider Business",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9myYpNtrXnQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9myYpNtrXnQ",
+          "publishedOn": "2023-11-09T18:00:08.000Z",
+          "wordCount": null,
+          "title": "Temperature, ventilation, and humidity must be perfect to grow these expensive #mangoes. #farming",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=QsHnEA7EpvA",
           "author": null,
@@ -1977,66 +2027,6 @@
           "publishedOn": "2023-11-06T21:01:44.000Z",
           "wordCount": null,
           "title": "Did you know unprocessed #cashews have toxic oils? #poisonious #nuts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FMF4-mybtSU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FMF4-mybtSU",
-          "publishedOn": "2023-11-06T18:51:00.000Z",
-          "wordCount": null,
-          "title": "How A Chicago Salon Owner Is Changing The Hair Care Industry, One Cut At A Time | Insider Business",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5YlTEAljKaw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5YlTEAljKaw",
-          "publishedOn": "2023-11-06T18:09:44.000Z",
-          "wordCount": null,
-          "title": "#Turkey has found a reusable solution for millions of old tires. 🛞 #electricity #powerplant",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1ggw15x2Ij4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1ggw15x2Ij4",
-          "publishedOn": "2023-11-06T17:14:59.000Z",
-          "wordCount": null,
-          "title": "Martin acoustic #guitars are some of the most popular high-end guitars in the world. #artisan #music",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=u9Dwg0EYU8k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=u9Dwg0EYU8k",
-          "publishedOn": "2023-11-06T17:00:44.000Z",
-          "wordCount": null,
-          "title": "These farmers rent bees to increase the value of their #mangoes at auction. #pollination #auction",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UijpPTEuJgY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UijpPTEuJgY",
-          "publishedOn": "2023-11-04T15:00:29.000Z",
-          "wordCount": null,
-          "title": "How the USA’s Oldest Guitar Company Makes $2800 Instruments | So Expensive | Insider Business",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BLO8CC8eYsY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BLO8CC8eYsY",
-          "publishedOn": "2023-11-03T21:46:39.000Z",
-          "wordCount": null,
-          "title": "Did you know that cashews can cost over 7 times as much as peanuts? #cashews #treenuts #agriculture",
           "imageUrl": null
         }
       ]
@@ -2181,16 +2171,6 @@
           "publishedOn": "2023-09-01T15:00:35.000Z",
           "wordCount": null,
           "title": "I made a massive dragon guarding a tiny temple",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vsnJ5rWC0m8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vsnJ5rWC0m8",
-          "publishedOn": "2023-08-11T15:00:47.000Z",
-          "wordCount": null,
-          "title": "I made Bert and Ernie but they're realistic",
           "imageUrl": null
         }
       ]
