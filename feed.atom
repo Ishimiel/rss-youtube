@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-11T00:29:13.798Z</id>
+    <id>urn:2023-11-12T00:32:26.612Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-11T00:29:13.798Z</updated>
+    <updated>2023-11-12T00:32:26.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Card Dealing Machine for the Lazy Card Players]]></title>
+        <id>https://www.youtube.com/watch?v=Bk8BcT_ydO0</id>
+        <link href="https://www.youtube.com/watch?v=Bk8BcT_ydO0"/>
+        <updated>2023-11-11T21:00:08.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Cousins Work]]></title>
+        <id>https://www.youtube.com/watch?v=ehhDp_MI_1w</id>
+        <link href="https://www.youtube.com/watch?v=ehhDp_MI_1w"/>
+        <updated>2023-11-11T20:56:48.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch SpaceX Launch 113 Spacecraft AND Land Back At The Launch Site!!! TRANSPORTER - 9]]></title>
+        <id>https://www.youtube.com/watch?v=dcHM3IdDufg</id>
+        <link href="https://www.youtube.com/watch?v=dcHM3IdDufg"/>
+        <updated>2023-11-11T20:12:43.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Home Built  Anchor Upgrade]]></title>
+        <id>https://www.youtube.com/watch?v=LnAgmV0goLI</id>
+        <link href="https://www.youtube.com/watch?v=LnAgmV0goLI"/>
+        <updated>2023-11-11T19:37:42.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Car That Rides On Two Large Screwdrivers]]></title>
+        <id>https://www.youtube.com/watch?v=-PV8TirPITQ</id>
+        <link href="https://www.youtube.com/watch?v=-PV8TirPITQ"/>
+        <updated>2023-11-11T19:00:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Car That Rides On Two Large Screwdrivers]]></title>
+        <id>https://www.youtube.com/watch?v=04E-u-DYZHU</id>
+        <link href="https://www.youtube.com/watch?v=04E-u-DYZHU"/>
+        <updated>2023-11-11T19:00:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Of The Most Expensive Items Made In India | So Expensive | Insider Business]]></title>
+        <id>https://www.youtube.com/watch?v=hurdpPzEKjI</id>
+        <link href="https://www.youtube.com/watch?v=hurdpPzEKjI"/>
+        <updated>2023-11-11T18:00:32.000Z</updated>
+        <author>
+            <name>Insider Business</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I had to SCRAP all Parts Only .0001 OUT of Tolerance]]></title>
+        <id>https://www.youtube.com/watch?v=R7abkwlfo3I</id>
+        <link href="https://www.youtube.com/watch?v=R7abkwlfo3I"/>
+        <updated>2023-11-11T14:00:16.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Wheel Balancing for CNC Grinding]]></title>
+        <id>https://www.youtube.com/watch?v=9jXmCB99QRw</id>
+        <link href="https://www.youtube.com/watch?v=9jXmCB99QRw"/>
+        <updated>2023-11-11T12:00:07.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recreating a Tone of Blue Perfectly]]></title>
+        <id>https://www.youtube.com/watch?v=BEchy-FOCvc</id>
+        <link href="https://www.youtube.com/watch?v=BEchy-FOCvc"/>
+        <updated>2023-11-11T09:42:57.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[These iconic American brands are lucky to be alive. #Kraft #Jello #Twinkies]]></title>
         <id>https://www.youtube.com/watch?v=0nYlWdqSJHs</id>
@@ -21,15 +111,6 @@
         <updated>2023-11-10T21:59:35.000Z</updated>
         <author>
             <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch SpaceX Launch 90 Spacecraft AND Land Back At The Launch Site!!! TRANSPORTER - 9]]></title>
-        <id>https://www.youtube.com/watch?v=dcHM3IdDufg</id>
-        <link href="https://www.youtube.com/watch?v=dcHM3IdDufg"/>
-        <updated>2023-11-10T21:17:28.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
         </author>
     </entry>
     <entry>
@@ -105,7 +186,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Palestinian Entrepreneurs Launched Business in Gaza Despite Years of Conflict And Blockade]]></title>
+        <title type="html"><![CDATA[How Palestinian Entrepreneurs Launched Businesses in Gaza Despite Years of Conflict And Blockade]]></title>
         <id>https://www.youtube.com/watch?v=rSnbVKDE6X4</id>
         <link href="https://www.youtube.com/watch?v=rSnbVKDE6X4"/>
         <updated>2023-11-10T16:00:41.000Z</updated>
@@ -123,7 +204,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AUTOMATIC Transmission Distance in HUEFORGE!]]></title>
+        <title type="html"><![CDATA[What is Transmission Distance?]]></title>
         <id>https://www.youtube.com/watch?v=XqkNh08HW1o</id>
         <link href="https://www.youtube.com/watch?v=XqkNh08HW1o"/>
         <updated>2023-11-10T14:00:32.000Z</updated>
@@ -312,15 +393,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Adidas, Asics, and Other Shoemakers Deal With Waste | World Wide Waste | Insider Business]]></title>
-        <id>https://www.youtube.com/watch?v=C032oem5eaY</id>
-        <link href="https://www.youtube.com/watch?v=C032oem5eaY"/>
-        <updated>2023-11-08T18:00:05.000Z</updated>
-        <author>
-            <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[NP205 Repair]]></title>
         <id>https://www.youtube.com/watch?v=lDxUgpRaIFQ</id>
         <link href="https://www.youtube.com/watch?v=lDxUgpRaIFQ"/>
@@ -348,30 +420,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Make-Shift Pythagorean Siphon]]></title>
-        <id>https://www.youtube.com/watch?v=anbOpK14hxk</id>
-        <link href="https://www.youtube.com/watch?v=anbOpK14hxk"/>
-        <updated>2023-11-08T09:00:08.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MINGDA's giant 1000x1000x1000 mm 3D Printer at Formnext 2023]]></title>
+        <title type="html"><![CDATA[MINGDA's giant 1000x1000x1000 mm 3D Printer at Formnext 2023 #AD]]></title>
         <id>https://www.youtube.com/watch?v=mUqdFBS1rGc</id>
         <link href="https://www.youtube.com/watch?v=mUqdFBS1rGc"/>
         <updated>2023-11-08T08:09:44.000Z</updated>
         <author>
             <name>CNC Kitchen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Easier Alternative to a Rubik’s Cube]]></title>
-        <id>https://www.youtube.com/watch?v=XqecNhyUQWY</id>
-        <link href="https://www.youtube.com/watch?v=XqecNhyUQWY"/>
-        <updated>2023-11-07T21:00:27.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -381,24 +435,6 @@
         <updated>2023-11-07T19:35:48.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why NASA Keeps Destroying Aircraft Every Day]]></title>
-        <id>https://www.youtube.com/watch?v=QqJflB9S3ss</id>
-        <link href="https://www.youtube.com/watch?v=QqJflB9S3ss"/>
-        <updated>2023-11-07T19:00:11.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why NASA Keeps Destroying Aircraft Every Day]]></title>
-        <id>https://www.youtube.com/watch?v=7OV5PmCuPfc</id>
-        <link href="https://www.youtube.com/watch?v=7OV5PmCuPfc"/>
-        <updated>2023-11-07T19:00:03.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -600,15 +636,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Brilliant Tooling in the MultiSwiss | KN Micro Series]]></title>
-        <id>https://www.youtube.com/watch?v=CnbjBLIFvDE</id>
-        <link href="https://www.youtube.com/watch?v=CnbjBLIFvDE"/>
-        <updated>2023-11-01T11:00:18.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I Tested Terrible Ghost-Hunting Gear from Aliexpress on REAL GHOSTS! (allegedly)]]></title>
         <id>https://www.youtube.com/watch?v=igI1ccLCOyc</id>
         <link href="https://www.youtube.com/watch?v=igI1ccLCOyc"/>
@@ -642,15 +669,6 @@
         <updated>2023-10-31T20:22:08.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How These INSANELY Precise Cuts Are Made]]></title>
-        <id>https://www.youtube.com/watch?v=ENq26JUddCg</id>
-        <link href="https://www.youtube.com/watch?v=ENq26JUddCg"/>
-        <updated>2023-10-31T14:00:15.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1392,15 +1410,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1 Million Dots. 10 Colors.]]></title>
-        <id>https://www.youtube.com/watch?v=A35B8F5jBp0</id>
-        <link href="https://www.youtube.com/watch?v=A35B8F5jBp0"/>
-        <updated>2023-09-19T20:05:59.000Z</updated>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Travelling to the Stars by Ladder - Numberphile]]></title>
         <id>https://www.youtube.com/watch?v=hzcdcrsyA9Y</id>
         <link href="https://www.youtube.com/watch?v=hzcdcrsyA9Y"/>
@@ -1788,15 +1797,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Happily Sailing into Failure]]></title>
-        <id>https://www.youtube.com/watch?v=NdjPXshAwo0</id>
-        <link href="https://www.youtube.com/watch?v=NdjPXshAwo0"/>
-        <updated>2023-08-18T17:51:42.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I rolled Tears of the Kingdom into a Katamari]]></title>
         <id>https://www.youtube.com/watch?v=qtPOUsg-BIQ</id>
         <link href="https://www.youtube.com/watch?v=qtPOUsg-BIQ"/>
@@ -1839,15 +1839,6 @@
         <updated>2023-08-14T20:00:17.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PW Broadcast Radio Hour : Maya Binyam with Joshua Jelly-Shapiro - 8.13.23 - Second Sundays]]></title>
-        <id>https://www.youtube.com/watch?v=xyWaAKSDZtI</id>
-        <link href="https://www.youtube.com/watch?v=xyWaAKSDZtI"/>
-        <updated>2023-08-14T09:01:12.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
         </author>
     </entry>
 </feed>
