@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-12T00:32:26.612Z</id>
+    <id>urn:2023-11-13T00:30:53.549Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-12T00:32:26.612Z</updated>
+    <updated>2023-11-13T00:30:53.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Picking Up Bearing Balls]]></title>
+        <id>https://www.youtube.com/watch?v=bt9TgDPDm_g</id>
+        <link href="https://www.youtube.com/watch?v=bt9TgDPDm_g"/>
+        <updated>2023-11-12T21:00:22.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How US Coast Guard Made An Unsinkable Boat]]></title>
+        <id>https://www.youtube.com/watch?v=3OJmS2R7ziw</id>
+        <link href="https://www.youtube.com/watch?v=3OJmS2R7ziw"/>
+        <updated>2023-11-12T19:00:01.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inspecting a Part in Less Than 90 Seconds]]></title>
+        <id>https://www.youtube.com/watch?v=EG_CZ_iSMyg</id>
+        <link href="https://www.youtube.com/watch?v=EG_CZ_iSMyg"/>
+        <updated>2023-11-12T12:00:18.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heat Makes This Metal Change Its Shape]]></title>
+        <id>https://www.youtube.com/watch?v=XqHT6y2M6Nk</id>
+        <link href="https://www.youtube.com/watch?v=XqHT6y2M6Nk"/>
+        <updated>2023-11-12T09:00:31.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Playing Guitar through Dust?! #guitar #funny #electricguitar #bass #fake]]></title>
+        <id>https://www.youtube.com/watch?v=OshFvgvjFIg</id>
+        <link href="https://www.youtube.com/watch?v=OshFvgvjFIg"/>
+        <updated>2023-11-12T03:56:34.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Card Dealing Machine for the Lazy Card Players]]></title>
         <id>https://www.youtube.com/watch?v=Bk8BcT_ydO0</id>
@@ -204,7 +249,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is Transmission Distance?]]></title>
+        <title type="html"><![CDATA[What is Transmission Distance in 3D Printing?]]></title>
         <id>https://www.youtube.com/watch?v=XqkNh08HW1o</id>
         <link href="https://www.youtube.com/watch?v=XqkNh08HW1o"/>
         <updated>2023-11-10T14:00:32.000Z</updated>
@@ -330,6 +375,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[PW Broadcast Radio Hour: Mckenzie Wark in conversation with Jordan Kisner]]></title>
+        <id>https://www.youtube.com/watch?v=Oqqj_gTGTcE</id>
+        <link href="https://www.youtube.com/watch?v=Oqqj_gTGTcE"/>
+        <updated>2023-11-09T14:31:54.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[MultiAxis Lathe gets Chuck Upgrade ✅]]></title>
         <id>https://www.youtube.com/watch?v=9rvn5j7Nazg</id>
         <link href="https://www.youtube.com/watch?v=9rvn5j7Nazg"/>
@@ -339,30 +393,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Can This Guy Bend Wood?]]></title>
-        <id>https://www.youtube.com/watch?v=Iw2G5EOPqQY</id>
-        <link href="https://www.youtube.com/watch?v=Iw2G5EOPqQY"/>
-        <updated>2023-11-09T09:00:22.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Do you know why Miyazaki #mangoes cost so much? #Japan #agriculture]]></title>
         <id>https://www.youtube.com/watch?v=QsHnEA7EpvA</id>
         <link href="https://www.youtube.com/watch?v=QsHnEA7EpvA"/>
         <updated>2023-11-08T22:00:23.000Z</updated>
         <author>
             <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using a Plasma Gun as a Lighter]]></title>
-        <id>https://www.youtube.com/watch?v=t35Yv8dra1w</id>
-        <link href="https://www.youtube.com/watch?v=t35Yv8dra1w"/>
-        <updated>2023-11-08T21:00:34.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -381,15 +417,6 @@
         <updated>2023-11-08T19:00:31.000Z</updated>
         <author>
             <name>Insider Business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Makes TCG Anadolu a Unique Navy Ship]]></title>
-        <id>https://www.youtube.com/watch?v=83AoiBjw4n8</id>
-        <link href="https://www.youtube.com/watch?v=83AoiBjw4n8"/>
-        <updated>2023-11-08T19:00:03.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -604,15 +631,6 @@
         <id>https://www.youtube.com/watch?v=-nZR7THEwNY</id>
         <link href="https://www.youtube.com/watch?v=-nZR7THEwNY"/>
         <updated>2023-11-02T14:00:00.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CNC Machining Aerospace Inspired Coasters🚀]]></title>
-        <id>https://www.youtube.com/watch?v=qh2yF7uBjOk</id>
-        <link href="https://www.youtube.com/watch?v=qh2yF7uBjOk"/>
-        <updated>2023-11-02T11:00:49.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
         </author>
@@ -1830,15 +1848,6 @@
         <updated>2023-08-15T19:01:49.000Z</updated>
         <author>
             <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4k Clean Audio] Starship Static Fire // A:B Comparison w/ Deluge]]></title>
-        <id>https://www.youtube.com/watch?v=jKMd7U3nwdw</id>
-        <link href="https://www.youtube.com/watch?v=jKMd7U3nwdw"/>
-        <updated>2023-08-14T20:00:17.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
         </author>
     </entry>
 </feed>
