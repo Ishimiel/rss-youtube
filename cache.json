@@ -328,6 +328,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=aD-AIJ1vVe4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aD-AIJ1vVe4",
+          "publishedOn": "2023-11-16T14:00:01.000Z",
+          "wordCount": null,
+          "title": "20 Color 3D Printing! Co Print at Formnext 2023!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ojiVBcL_62g",
           "author": null,
           "description": "",
@@ -465,16 +475,6 @@
           "publishedOn": "2023-10-13T13:00:04.000Z",
           "wordCount": null,
           "title": "Bambu Lab A1 mini 3d printed some of THESE!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vnqDk4KRwjI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vnqDk4KRwjI",
-          "publishedOn": "2023-10-12T20:01:46.000Z",
-          "wordCount": null,
-          "title": "LASER ETCHED CHOCOLATE #laserengraving @lightburnsoftware7189",
           "imageUrl": null
         }
       ]
@@ -703,6 +703,46 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=WbBvH1NMjDk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WbBvH1NMjDk",
+          "publishedOn": "2023-11-16T21:00:27.000Z",
+          "wordCount": null,
+          "title": "Gorgeous Cable Management",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=v5nwzQWn4vk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=v5nwzQWn4vk",
+          "publishedOn": "2023-11-16T19:00:25.000Z",
+          "wordCount": null,
+          "title": "Are Wind Sails Making a Comeback?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=PhrCrT6r-BY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PhrCrT6r-BY",
+          "publishedOn": "2023-11-16T19:00:12.000Z",
+          "wordCount": null,
+          "title": "Are Wind Sails Making a Comeback?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=nGLSNJAirnU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nGLSNJAirnU",
+          "publishedOn": "2023-11-16T09:00:36.000Z",
+          "wordCount": null,
+          "title": "Iron Fence Casting Process",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=e8Xf1rbIfpc",
           "author": null,
           "description": "",
@@ -810,46 +850,6 @@
           "publishedOn": "2023-11-13T19:00:21.000Z",
           "wordCount": null,
           "title": "Why M60 is Still Loved by The U.S. Navy SEALS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OC2H918W9pg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OC2H918W9pg",
-          "publishedOn": "2023-11-13T19:00:11.000Z",
-          "wordCount": null,
-          "title": "What Makes M60 A Great U.S. NAVY SEALS Weapon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nWE_0MoNBiQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nWE_0MoNBiQ",
-          "publishedOn": "2023-11-13T09:00:40.000Z",
-          "wordCount": null,
-          "title": "Laser Cleaning a Tool",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3wDkDnXaw3w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3wDkDnXaw3w",
-          "publishedOn": "2023-11-13T08:35:45.000Z",
-          "wordCount": null,
-          "title": "How US Coast Guard Made An Unsinkable Boat",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bt9TgDPDm_g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bt9TgDPDm_g",
-          "publishedOn": "2023-11-12T21:00:22.000Z",
-          "wordCount": null,
-          "title": "Picking Up Bearing Balls",
           "imageUrl": null
         }
       ]
@@ -1310,7 +1310,7 @@
           "link": "https://www.youtube.com/watch?v=prRTWThrotU",
           "publishedOn": "2023-10-29T14:23:09.000Z",
           "wordCount": null,
-          "title": "And One of Them Hated it - Smarter Every Day 291",
+          "title": "What Do You Think Of Our Game? - Smarter Every Day 291",
           "imageUrl": null
         },
         {
@@ -1431,7 +1431,7 @@
           "link": "https://www.youtube.com/watch?v=vSQjk9jKarg",
           "publishedOn": "2023-11-15T22:36:01.000Z",
           "wordCount": null,
-          "title": "What Actually Makes People Happy, According to Science",
+          "title": "What The Longest-Running Study on Happiness Reveals",
           "imageUrl": null
         },
         {
@@ -1783,6 +1783,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=LQ-_QYL_l8M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LQ-_QYL_l8M",
+          "publishedOn": "2023-11-16T15:00:14.000Z",
+          "wordCount": null,
+          "title": "Machining the World’s Greatest Truck Grill for SEMA 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=2958H_paAzc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2958H_paAzc",
+          "publishedOn": "2023-11-16T12:00:03.000Z",
+          "wordCount": null,
+          "title": "Facemill Machines Mirror Finish",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ViyNOn3fdKo",
           "author": null,
           "description": "",
@@ -1911,26 +1931,6 @@
           "wordCount": null,
           "title": "I Drilled a Microscopic Hole Into a Stainless Medical Device",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qpgH7A8qDqg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qpgH7A8qDqg",
-          "publishedOn": "2023-11-07T12:00:47.000Z",
-          "wordCount": null,
-          "title": "INVISIBLE CUT Zero Tolerance Machining with Wire EDM",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KyXtaoyjiZQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KyXtaoyjiZQ",
-          "publishedOn": "2023-11-06T12:00:21.000Z",
-          "wordCount": null,
-          "title": "Machine a Hex with a MACRO - Swiss CNC Machining",
-          "imageUrl": null
         }
       ]
     },
@@ -1939,6 +1939,86 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=up8Bcf_KBmw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=up8Bcf_KBmw",
+          "publishedOn": "2023-11-16T22:08:38.000Z",
+          "wordCount": null,
+          "title": "Here's how shredded wind turbine blades can be used to make cement. #recycling #waste #windturbines",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=mqy5Rb6JA1k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mqy5Rb6JA1k",
+          "publishedOn": "2023-11-16T21:33:16.000Z",
+          "wordCount": null,
+          "title": "Huitlacoche has been consumed in Mexico for centuries. #corn #huitlacoche #fungus",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DVtnQczAw-0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DVtnQczAw-0",
+          "publishedOn": "2023-11-16T21:26:02.000Z",
+          "wordCount": null,
+          "title": "This company makes #clay appliances — like refrigerators — that don’t need #electricity. #india",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=oRJ3nXsP_kY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oRJ3nXsP_kY",
+          "publishedOn": "2023-11-16T19:00:21.000Z",
+          "wordCount": null,
+          "title": "Did you know the oldest tofu factory in America has been around since 1911? #tofu #Japan #Portland",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=untbULfkkWM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=untbULfkkWM",
+          "publishedOn": "2023-11-16T18:18:00.000Z",
+          "wordCount": null,
+          "title": "A Personal Wealth Expert Shares His Top Tips For Deciding How Much Cash To Save And Where To Invest",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vvY7MzL3ZxU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vvY7MzL3ZxU",
+          "publishedOn": "2023-11-16T18:00:27.000Z",
+          "wordCount": null,
+          "title": "When someone dies in #Mexico, the family usually prepares #mole together. #traditions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=a_bP16bnavo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=a_bP16bnavo",
+          "publishedOn": "2023-11-16T16:00:01.000Z",
+          "wordCount": null,
+          "title": "The US Spent Millions Eradicating Corn Smut (Huitlacoche). Now It's A  Fine-Dining Delicacy.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fqaLSFMWGnA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fqaLSFMWGnA",
+          "publishedOn": "2023-11-16T15:15:44.000Z",
+          "wordCount": null,
+          "title": "The irresistible pull of Ruzwana Bashir. #Tech #CEO #Startup",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=NhaDYop3VmY",
           "author": null,
@@ -2007,86 +2087,6 @@
           "publishedOn": "2023-11-14T21:37:29.000Z",
           "wordCount": null,
           "title": "Mansukh Bai's #clay fridge changes the ceramics game in #Gujarat cooling without #electricity.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zdGuWmcKrtY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zdGuWmcKrtY",
-          "publishedOn": "2023-11-14T20:21:57.000Z",
-          "wordCount": null,
-          "title": "Martin Dykman shapes clogs on a wooden bench his father built over 50 years ago. #clogs #wood #Dutch",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RlN2b8uyyjg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RlN2b8uyyjg",
-          "publishedOn": "2023-11-14T17:13:27.000Z",
-          "wordCount": null,
-          "title": "Did you know you can extract gold from a pile of old circuit boards? #ewaste #gold #recycling",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FXXWHa4CpC8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FXXWHa4CpC8",
-          "publishedOn": "2023-11-14T16:00:11.000Z",
-          "wordCount": null,
-          "title": "How Farmers In One Indian Village Crafted The Most Expensive Nutmeg and Mace | Insider Business",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=twW_sMm1J0U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=twW_sMm1J0U",
-          "publishedOn": "2023-11-13T21:18:23.000Z",
-          "wordCount": null,
-          "title": "#India's once-abundant #sandalwood now faces scarcity due to #restrictions on private cultivation.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hY_hHAZS5Bg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hY_hHAZS5Bg",
-          "publishedOn": "2023-11-13T20:00:19.000Z",
-          "wordCount": null,
-          "title": "This mosaic is made of tiny shoes and took three years to make. #clogs #Dutch #mosaic",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Aa19Lt6xTKU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Aa19Lt6xTKU",
-          "publishedOn": "2023-11-13T19:00:06.000Z",
-          "wordCount": null,
-          "title": "The value of fox nuts is 15 times more than popcorn. #waterlilyseeds #indiansnacks #makhana",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4120C1RJR2k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4120C1RJR2k",
-          "publishedOn": "2023-11-13T18:51:30.000Z",
-          "wordCount": null,
-          "title": "How Gaza’s #entrepreneurs launch #businesses and preserve traditions amid years of war and #blockade",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hurdpPzEKjI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hurdpPzEKjI",
-          "publishedOn": "2023-11-11T18:00:32.000Z",
-          "wordCount": null,
-          "title": "10 Of The Most Expensive Items Made In India | So Expensive | Insider Business",
           "imageUrl": null
         }
       ]
@@ -2265,16 +2265,6 @@
           "wordCount": null,
           "title": "I made a custom Ganondorf action figure",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qtPOUsg-BIQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qtPOUsg-BIQ",
-          "publishedOn": "2023-08-18T15:12:14.000Z",
-          "wordCount": null,
-          "title": "I rolled Tears of the Kingdom into a Katamari",
-          "imageUrl": null
         }
       ]
     },
@@ -2283,6 +2273,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ0-OtVpF0wOKEqT2Z1HEtA",
       "siteUrl": "https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=t1HEZaZGaCY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=t1HEZaZGaCY",
+          "publishedOn": "2023-11-16T19:55:55.000Z",
+          "wordCount": null,
+          "title": "Are Tasers legal in Canada? #electronic #taser #funny #ElectroBOOM",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=OshFvgvjFIg",
           "author": null,
