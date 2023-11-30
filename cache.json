@@ -34,16 +34,6 @@
           "wordCount": null,
           "title": "In Search of Cosmic Origins",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3l1RMiGeTfU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3l1RMiGeTfU",
-          "publishedOn": "2023-08-31T21:40:50.000Z",
-          "wordCount": null,
-          "title": "When Computers Write Proofs, What's the Point of Mathematicians?",
-          "imageUrl": null
         }
       ]
     },
@@ -107,6 +97,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=fuFlMtZmvY0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fuFlMtZmvY0",
+          "publishedOn": "2023-11-29T15:00:43.000Z",
+          "wordCount": null,
+          "title": "The Internet is Worse Than Ever – Now What?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=FgnjdW-x7mQ",
           "author": null,
@@ -348,6 +348,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FT7MsiUkqdQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FT7MsiUkqdQ",
+          "publishedOn": "2023-11-29T14:00:18.000Z",
+          "wordCount": null,
+          "title": "BRAND NEW Resin 3D Printer! Raise3D at Formnext 2023!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UoCPu0hjOiM",
           "author": null,
           "description": "",
@@ -485,16 +495,6 @@
           "publishedOn": "2023-10-27T13:00:02.000Z",
           "wordCount": null,
           "title": "MASSIVE SKELETON on the Adventurer 5M Pro!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ypotCRmitcE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ypotCRmitcE",
-          "publishedOn": "2023-10-25T17:48:41.000Z",
-          "wordCount": null,
-          "title": "MASSIVE 5-Color Print on the Prusa XL!",
           "imageUrl": null
         }
       ]
@@ -783,6 +783,46 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=JLyaP9KI8Ow",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JLyaP9KI8Ow",
+          "publishedOn": "2023-11-29T21:00:20.000Z",
+          "wordCount": null,
+          "title": "Chinese Chess Piece Engraving",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=iqIqCcYOw1o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iqIqCcYOw1o",
+          "publishedOn": "2023-11-29T19:00:32.000Z",
+          "wordCount": null,
+          "title": "How Cutting-Edge Technology Aids in Submarine Rescues?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=p10ON2Vqn_8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=p10ON2Vqn_8",
+          "publishedOn": "2023-11-29T19:00:32.000Z",
+          "wordCount": null,
+          "title": "How Engineering is Revolutionizing Submarine Rescue Operations?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jFpTfqJ5OV8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jFpTfqJ5OV8",
+          "publishedOn": "2023-11-29T09:00:36.000Z",
+          "wordCount": null,
+          "title": "NASA Supercomputer Air Flow Simulation",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5sQ_mOtTRxk",
           "author": null,
           "description": "",
@@ -891,46 +931,6 @@
           "wordCount": null,
           "title": "Automated Tomato Sorting Machine",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DmsmN8zoY2Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DmsmN8zoY2Y",
-          "publishedOn": "2023-11-25T21:00:05.000Z",
-          "wordCount": null,
-          "title": "America’s Cup Boat Comes Close to Flying",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vc3O6ZIUgts",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vc3O6ZIUgts",
-          "publishedOn": "2023-11-25T19:00:22.000Z",
-          "wordCount": null,
-          "title": "Destructive Rogue Waves Can Now Be Predict with a New Method",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WE1r6Ejbe3o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WE1r6Ejbe3o",
-          "publishedOn": "2023-11-25T19:00:12.000Z",
-          "wordCount": null,
-          "title": "Destructive Rogue Waves Can Now Be Predict with a New Method",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qUhuoFyBaks",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qUhuoFyBaks",
-          "publishedOn": "2023-11-25T09:00:39.000Z",
-          "wordCount": null,
-          "title": "5-Axis Turbine Blade CNC",
-          "imageUrl": null
         }
       ]
     },
@@ -950,7 +950,18 @@
       "title": "minutephysics",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUHW94eEFW7hkUMVaZz4eDg",
       "siteUrl": "https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=HS8MRzus7eU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HS8MRzus7eU",
+          "publishedOn": "2023-11-29T18:00:09.000Z",
+          "wordCount": null,
+          "title": "What if you pointed the Hubble telescope at Earth? @xkcd_whatif",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "NileRed",
@@ -1062,16 +1073,6 @@
           "publishedOn": "2023-09-17T11:34:54.000Z",
           "wordCount": null,
           "title": "Travelling to the Stars by Ladder - Numberphile",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CcZf_7Fb4Us",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CcZf_7Fb4Us",
-          "publishedOn": "2023-09-01T11:36:21.000Z",
-          "wordCount": null,
-          "title": "Error Correcting Curves - Numberphile",
           "imageUrl": null
         }
       ]
@@ -1344,16 +1345,6 @@
           "wordCount": null,
           "title": "Hurricane Two Step",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0N9jcKOkEes",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0N9jcKOkEes",
-          "publishedOn": "2023-08-31T18:13:48.000Z",
-          "wordCount": null,
-          "title": "Something Special Today",
-          "imageUrl": null
         }
       ]
     },
@@ -1465,16 +1456,6 @@
           "wordCount": null,
           "title": "What is an LED and how does it work #technology #electronics #engineering #led",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YIpMApW9Q_o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YIpMApW9Q_o",
-          "publishedOn": "2023-08-31T13:30:30.000Z",
-          "wordCount": null,
-          "title": "What is a diode? #technology #electronics #engineering",
-          "imageUrl": null
         }
       ]
     },
@@ -1571,16 +1552,6 @@
           "publishedOn": "2023-09-03T13:54:14.000Z",
           "wordCount": null,
           "title": "How The Most Useless Branch of Math Could Save Your Life",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZjBgEkbnX2I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZjBgEkbnX2I",
-          "publishedOn": "2023-08-31T14:59:55.000Z",
-          "wordCount": null,
-          "title": "Should Airships Make a Comeback?",
           "imageUrl": null
         }
       ]
@@ -1852,6 +1823,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wGXoJoaBBhM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wGXoJoaBBhM",
+          "publishedOn": "2023-11-29T22:28:40.000Z",
+          "wordCount": null,
+          "title": "CNC Machining THE MOST Important Part Of My Life",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=V1VD5jnYRZ4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=V1VD5jnYRZ4",
+          "publishedOn": "2023-11-29T12:00:25.000Z",
+          "wordCount": null,
+          "title": "CNC Machining Composites with Diamond Tooling",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7dZDbsSBob8",
           "author": null,
           "description": "",
@@ -1980,26 +1971,6 @@
           "wordCount": null,
           "title": "NEW Height Gauge Unboxing Setup 👌",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=w08V_Hn5kj0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=w08V_Hn5kj0",
-          "publishedOn": "2023-11-18T14:00:41.000Z",
-          "wordCount": null,
-          "title": "FIRE This Person or Pay Them More Money",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Fd3SkIvJDfM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Fd3SkIvJDfM",
-          "publishedOn": "2023-11-18T12:00:12.000Z",
-          "wordCount": null,
-          "title": "Schunk VERO-S Quick Change Pallet System",
-          "imageUrl": null
         }
       ]
     },
@@ -2008,6 +1979,46 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=5rWT2iijR8Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5rWT2iijR8Q",
+          "publishedOn": "2023-11-29T22:22:05.000Z",
+          "wordCount": null,
+          "title": "How army cooks make food for 800 soldiers. #army #food #soliders",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5wOWmi_q9SM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5wOWmi_q9SM",
+          "publishedOn": "2023-11-29T19:11:05.000Z",
+          "wordCount": null,
+          "title": "Snail farming has increased in #Italy by over 300% over the past two decades. #skincare #snailmucin",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=s7G7__7Rdxo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=s7G7__7Rdxo",
+          "publishedOn": "2023-11-29T18:00:29.000Z",
+          "wordCount": null,
+          "title": "Only 30% of this farmer's cocoa beans will be processed domestically. #Ghana #cocoa #chocolate",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=aJtdpEEIvZU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aJtdpEEIvZU",
+          "publishedOn": "2023-11-29T16:59:53.000Z",
+          "wordCount": null,
+          "title": "Today’s mole is a fusion of pre-Hispanic and European cuisines. #mole #mesoamerica #metate",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=-9AW0OAnH-E",
           "author": null,
@@ -2116,46 +2127,6 @@
           "publishedOn": "2023-11-22T22:36:17.000Z",
           "wordCount": null,
           "title": "#Ghana grew 1 million tons of #cocoa in 2021, so why doesn't it make more #chocolate?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=G0hF0ALCMU0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=G0hF0ALCMU0",
-          "publishedOn": "2023-11-22T21:00:07.000Z",
-          "wordCount": null,
-          "title": "To be a #Kushti wrestler, you have to maintain a very disciplined lifestyle. #mudwrestling #sports",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dwSLbJxSgwU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dwSLbJxSgwU",
-          "publishedOn": "2023-11-22T20:00:10.000Z",
-          "wordCount": null,
-          "title": "Dijon #mustard, originally #French, now largely uses globally sourced seeds. #France",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oGgfO4CwfYM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oGgfO4CwfYM",
-          "publishedOn": "2023-11-22T19:48:24.000Z",
-          "wordCount": null,
-          "title": "In the world of #beauty, this machine is a game-changer due to its ability to extract #snail #slime",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=m0JiZhk5KaM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=m0JiZhk5KaM",
-          "publishedOn": "2023-11-22T18:45:49.000Z",
-          "wordCount": null,
-          "title": "Cardamom's steep price stems from its labor-intensive #harvesting and processing. #spices #cardamom",
           "imageUrl": null
         }
       ]
@@ -2352,6 +2323,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ0-OtVpF0wOKEqT2Z1HEtA",
       "siteUrl": "https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=RhS8xNmWqDU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RhS8xNmWqDU",
+          "publishedOn": "2023-11-29T17:32:29.000Z",
+          "wordCount": null,
+          "title": "Useless DIY Metal Detector #metaldetector #funny #fake #electronics",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=o_FBiotTdpg",
           "author": null,
