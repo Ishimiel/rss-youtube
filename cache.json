@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pQsdygaYcE4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pQsdygaYcE4",
+          "publishedOn": "2023-12-01T17:43:43.000Z",
+          "wordCount": null,
+          "title": "P vs. NP - The Greatest Unsolved Problem in Computer Science",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YOKPo-I6cgs",
           "author": null,
           "description": "",
@@ -173,7 +183,18 @@
       "title": "Steve Brunton",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=pBAmBZP5Sp8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pBAmBZP5Sp8",
+          "publishedOn": "2023-12-01T11:00:55.000Z",
+          "wordCount": null,
+          "title": "Nonlinear parametric models of viscoelastic fluid flows with SINDy",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Nemean",
@@ -328,13 +349,13 @@
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=FT7MsiUkqdQ",
+          "id": "https://www.youtube.com/watch?v=4kIeqTK5iao",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=FT7MsiUkqdQ",
-          "publishedOn": "2023-11-29T14:00:18.000Z",
+          "link": "https://www.youtube.com/watch?v=4kIeqTK5iao",
+          "publishedOn": "2023-12-01T14:00:03.000Z",
           "wordCount": null,
-          "title": "BRAND NEW Resin 3D Printer! Raise3D at Formnext 2023!",
+          "title": "3D Printing & Injection Molding IMPOSSIBLE Parts? Nexa3D at Formnext 2023!",
           "imageUrl": null
         },
         {
@@ -763,6 +784,66 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=iJ6r9-1VHSU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iJ6r9-1VHSU",
+          "publishedOn": "2023-12-01T21:00:24.000Z",
+          "wordCount": null,
+          "title": "Drumstick Production Process",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=rBs5P6TxofQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rBs5P6TxofQ",
+          "publishedOn": "2023-12-01T19:00:32.000Z",
+          "wordCount": null,
+          "title": "A Bulletproof Origami That Saves Lives",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5sqHDkoCVw0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5sqHDkoCVw0",
+          "publishedOn": "2023-12-01T19:00:03.000Z",
+          "wordCount": null,
+          "title": "A Bulletproof Origami That Saves Lives",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=PIMSKYZ-mOU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PIMSKYZ-mOU",
+          "publishedOn": "2023-12-01T16:00:58.000Z",
+          "wordCount": null,
+          "title": "Cybertruck VS Tommy Gun",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=aAWgUvp5kLo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aAWgUvp5kLo",
+          "publishedOn": "2023-12-01T10:44:41.000Z",
+          "wordCount": null,
+          "title": "What If We Put Trash Cans in the Oceans?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=CsLF3A7Wzxc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CsLF3A7Wzxc",
+          "publishedOn": "2023-12-01T09:04:25.000Z",
+          "wordCount": null,
+          "title": "Man Washes Hands and Films It with Thermal Camera",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ram23RlvSs8",
           "author": null,
           "description": "",
@@ -779,7 +860,7 @@
           "link": "https://www.youtube.com/watch?v=g4n4MQbZJDY",
           "publishedOn": "2023-11-30T19:00:20.000Z",
           "wordCount": null,
-          "title": "What If We Put Trash Cans in the Oceans?",
+          "title": "How We're Going to End Plastic Pollution?",
           "imageUrl": null
         },
         {
@@ -850,66 +931,6 @@
           "publishedOn": "2023-11-28T19:00:19.000Z",
           "wordCount": null,
           "title": "3D Printer That Can Watch Itself Manufacture Objects",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=q6P5KRdmzMo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=q6P5KRdmzMo",
-          "publishedOn": "2023-11-28T09:00:40.000Z",
-          "wordCount": null,
-          "title": "Silicon Blob for Uneven Imprinting",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6U5t7mX8pUk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6U5t7mX8pUk",
-          "publishedOn": "2023-11-27T21:00:05.000Z",
-          "wordCount": null,
-          "title": "Raising Concrete with Foam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vd2rip6da20",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vd2rip6da20",
-          "publishedOn": "2023-11-27T19:00:22.000Z",
-          "wordCount": null,
-          "title": "What Makes Archer a Unique Howitzer?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3HMnycB2i4A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3HMnycB2i4A",
-          "publishedOn": "2023-11-27T19:00:02.000Z",
-          "wordCount": null,
-          "title": "Why Sweden's Archer Is a Gun Like No Other?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aOeu82rYZD8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aOeu82rYZD8",
-          "publishedOn": "2023-11-27T09:00:00.000Z",
-          "wordCount": null,
-          "title": "Ferrari V12 Engine Manufacturing in Maranello",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YpzWbUzXdqc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YpzWbUzXdqc",
-          "publishedOn": "2023-11-26T21:00:14.000Z",
-          "wordCount": null,
-          "title": "The Man Who Forced NBA to Use Thicker Backboards",
           "imageUrl": null
         }
       ]
@@ -1823,6 +1844,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=0QyCoLp3bUQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0QyCoLp3bUQ",
+          "publishedOn": "2023-12-01T12:00:01.000Z",
+          "wordCount": null,
+          "title": "CNC Machining a Custom C10 Grill for Gas Monkey Garage 🤯",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wGXoJoaBBhM",
           "author": null,
           "description": "",
@@ -1961,16 +1992,6 @@
           "wordCount": null,
           "title": "EASILY Installing Our New Aeroex Mist Collectors",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7JjQtKL8wGs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7JjQtKL8wGs",
-          "publishedOn": "2023-11-20T12:00:10.000Z",
-          "wordCount": null,
-          "title": "3D Modeling Gas Monkey Garage Grill SEMA 2023",
-          "imageUrl": null
         }
       ]
     },
@@ -1979,6 +2000,36 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=nMVkfyyStCA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nMVkfyyStCA",
+          "publishedOn": "2023-12-01T19:59:15.000Z",
+          "wordCount": null,
+          "title": "This lab transforms horse plasma into #antivenom, ensuring it's safe for human use. #snakebite",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=APtp1Mp3gt4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=APtp1Mp3gt4",
+          "publishedOn": "2023-12-01T18:00:05.000Z",
+          "wordCount": null,
+          "title": "Did you know that mace and nutmeg come from the same fruit? #mace #indianspices #spices",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=StfYexobjig",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=StfYexobjig",
+          "publishedOn": "2023-12-01T16:46:37.000Z",
+          "wordCount": null,
+          "title": "We uncovered the stories behind some of the world's most #expensive foods. #maplesyrup #sake",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=hSZ0kgar8Fo",
           "author": null,
@@ -2098,36 +2149,6 @@
           "wordCount": null,
           "title": "This woman has dedicated her life to preserving ancient #traditions and #cooking methods. #mole",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vKc4s27E_rU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vKc4s27E_rU",
-          "publishedOn": "2023-11-28T18:00:36.000Z",
-          "wordCount": null,
-          "title": "Niche Cocoa Industry goes through 2 tons of their product every hour. #Ghana #cocoa #chocolate",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3kGbXplRKRc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3kGbXplRKRc",
-          "publishedOn": "2023-11-28T17:00:05.000Z",
-          "wordCount": null,
-          "title": "So Expensive Food Season 3 Marathon | So Expensive | Business Insider",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BkykvTeBw70",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BkykvTeBw70",
-          "publishedOn": "2023-11-27T21:52:25.000Z",
-          "wordCount": null,
-          "title": "At West Point, the kitchen staff serves over 13,000 meals a day to 4,400 #Army cadets. #lunch",
-          "imageUrl": null
         }
       ]
     },
@@ -2173,6 +2194,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCM15YNy8g-CaJ15YZCbq0Iw",
       "siteUrl": "https://www.youtube.com/channel/UCM15YNy8g-CaJ15YZCbq0Iw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=6kEnAOY-RwU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6kEnAOY-RwU",
+          "publishedOn": "2023-12-01T16:00:06.000Z",
+          "wordCount": null,
+          "title": "I made a One Eyed Wendigo aka DEERCLOPS",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=HESky9avUcs",
           "author": null,
