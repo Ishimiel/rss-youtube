@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-02T00:30:01.862Z</id>
+    <id>urn:2023-12-03T00:33:30.492Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-02T00:30:01.862Z</updated>
+    <updated>2023-12-03T00:33:30.492Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Beer Delivery via Small Drone]]></title>
+        <id>https://www.youtube.com/watch?v=14XvlDXeHyg</id>
+        <link href="https://www.youtube.com/watch?v=14XvlDXeHyg"/>
+        <updated>2023-12-02T21:00:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Grow Avocados       #avocados #gardening #guacamole]]></title>
+        <id>https://www.youtube.com/watch?v=knij2EjpuDY</id>
+        <link href="https://www.youtube.com/watch?v=knij2EjpuDY"/>
+        <updated>2023-12-02T19:33:58.000Z</updated>
+        <author>
+            <name>You Suck At Cooking</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What The Navy Tests in the Largest Indoor Ocean in the World]]></title>
+        <id>https://www.youtube.com/watch?v=PB7CSH-aRHc</id>
+        <link href="https://www.youtube.com/watch?v=PB7CSH-aRHc"/>
+        <updated>2023-12-02T19:00:15.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In The Largest Indoor Ocean In the World]]></title>
+        <id>https://www.youtube.com/watch?v=Rg6IuRh6aCs</id>
+        <link href="https://www.youtube.com/watch?v=Rg6IuRh6aCs"/>
+        <updated>2023-12-02T19:00:12.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useless Metal Detector Rev2 #metaldetector #funny #electroboom #electronics]]></title>
+        <id>https://www.youtube.com/watch?v=djweHNh0RXs</id>
+        <link href="https://www.youtube.com/watch?v=djweHNh0RXs"/>
+        <updated>2023-12-02T17:46:04.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why 6 Of The World's Most Valuable Oils Are So Expensive | So Expensive | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=JNuakLUjg24</id>
+        <link href="https://www.youtube.com/watch?v=JNuakLUjg24"/>
+        <updated>2023-12-02T16:00:10.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black Water Tank and Other Upgrades]]></title>
+        <id>https://www.youtube.com/watch?v=VtIypuSBRRM</id>
+        <link href="https://www.youtube.com/watch?v=VtIypuSBRRM"/>
+        <updated>2023-12-02T14:12:45.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Monster Employees Make More Money and Rise above Everyone]]></title>
+        <id>https://www.youtube.com/watch?v=vShmungrp9Q</id>
+        <link href="https://www.youtube.com/watch?v=vShmungrp9Q"/>
+        <updated>2023-12-02T14:00:48.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simple but Satisfying CNC Lathe Machining 😁]]></title>
+        <id>https://www.youtube.com/watch?v=eSFx1dVvIwE</id>
+        <link href="https://www.youtube.com/watch?v=eSFx1dVvIwE"/>
+        <updated>2023-12-02T12:00:27.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cybertruck VS Tommy Gun]]></title>
+        <id>https://www.youtube.com/watch?v=tBb9h4fCVDk</id>
+        <link href="https://www.youtube.com/watch?v=tBb9h4fCVDk"/>
+        <updated>2023-12-02T09:00:31.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Drumstick Production Process]]></title>
         <id>https://www.youtube.com/watch?v=iJ6r9-1VHSU</id>
@@ -285,15 +375,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Engineering is Revolutionizing Submarine Rescue Operations?]]></title>
-        <id>https://www.youtube.com/watch?v=p10ON2Vqn_8</id>
-        <link href="https://www.youtube.com/watch?v=p10ON2Vqn_8"/>
-        <updated>2023-11-29T19:00:32.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Only 30% of this farmer's cocoa beans will be processed domestically. #Ghana #cocoa #chocolate]]></title>
         <id>https://www.youtube.com/watch?v=s7G7__7Rdxo</id>
         <link href="https://www.youtube.com/watch?v=s7G7__7Rdxo"/>
@@ -312,7 +393,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Useless DIY Metal Detector #metaldetector #funny #fake #electronics]]></title>
+        <title type="html"><![CDATA[Useless DIY Metal Detector Rev1 #metaldetector #funny #fake #electronics]]></title>
         <id>https://www.youtube.com/watch?v=RhS8xNmWqDU</id>
         <link href="https://www.youtube.com/watch?v=RhS8xNmWqDU"/>
         <updated>2023-11-29T17:32:29.000Z</updated>
@@ -348,15 +429,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NASA Supercomputer Air Flow Simulation]]></title>
-        <id>https://www.youtube.com/watch?v=jFpTfqJ5OV8</id>
-        <link href="https://www.youtube.com/watch?v=jFpTfqJ5OV8"/>
-        <updated>2023-11-29T09:00:36.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Inside One Of The Most Intense Military Colleges In America. #military #army #westpoint]]></title>
         <id>https://www.youtube.com/watch?v=-9AW0OAnH-E</id>
         <link href="https://www.youtube.com/watch?v=-9AW0OAnH-E"/>
@@ -375,28 +447,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wrecking Ball Destroys Blast Furnace in One Strike]]></title>
-        <id>https://www.youtube.com/watch?v=5sQ_mOtTRxk</id>
-        <link href="https://www.youtube.com/watch?v=5sQ_mOtTRxk"/>
-        <updated>2023-11-28T21:00:04.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mud wrestling competitions still draw crowds in India. #mudwrestling #martialarts #India]]></title>
         <id>https://www.youtube.com/watch?v=6Jt1ocj-yMQ</id>
         <link href="https://www.youtube.com/watch?v=6Jt1ocj-yMQ"/>
         <updated>2023-11-28T21:00:03.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This woman has dedicated her life to preserving ancient #traditions and #cooking methods. #mole]]></title>
-        <id>https://www.youtube.com/watch?v=ErWLnToVFIs</id>
-        <link href="https://www.youtube.com/watch?v=ErWLnToVFIs"/>
-        <updated>2023-11-28T20:00:05.000Z</updated>
         <author>
             <name>Business Insider</name>
         </author>
@@ -408,15 +462,6 @@
         <updated>2023-11-28T19:02:44.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Printer That Can Watch Itself Manufacture Objects]]></title>
-        <id>https://www.youtube.com/watch?v=qYKtPDhO14w</id>
-        <link href="https://www.youtube.com/watch?v=qYKtPDhO14w"/>
-        <updated>2023-11-28T19:00:19.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -654,30 +699,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Powerful 30 HP Mill Spindle Inside Our NEW Lathe]]></title>
-        <id>https://www.youtube.com/watch?v=BmQ7CTwtbTc</id>
-        <link href="https://www.youtube.com/watch?v=BmQ7CTwtbTc"/>
-        <updated>2023-11-21T15:00:09.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Last Thing To Ever Happen In The Universe]]></title>
         <id>https://www.youtube.com/watch?v=FgnjdW-x7mQ</id>
         <link href="https://www.youtube.com/watch?v=FgnjdW-x7mQ"/>
         <updated>2023-11-21T15:00:01.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EASILY Installing Our New Aeroex Mist Collectors]]></title>
-        <id>https://www.youtube.com/watch?v=60h3ZHkpMhs</id>
-        <link href="https://www.youtube.com/watch?v=60h3ZHkpMhs"/>
-        <updated>2023-11-21T12:00:07.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1947,33 +1974,6 @@
         <updated>2023-09-06T01:58:23.000Z</updated>
         <author>
             <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenSauce 2023: The Ultimate Maker & Creator Event]]></title>
-        <id>https://www.youtube.com/watch?v=e0SZudiHuJg</id>
-        <link href="https://www.youtube.com/watch?v=e0SZudiHuJg"/>
-        <updated>2023-09-03T16:11:38.000Z</updated>
-        <author>
-            <name>CNC Kitchen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wireless Communication with a Cup of Balls, Coherer Effect]]></title>
-        <id>https://www.youtube.com/watch?v=VMkdnj698-0</id>
-        <link href="https://www.youtube.com/watch?v=VMkdnj698-0"/>
-        <updated>2023-09-03T16:02:41.000Z</updated>
-        <author>
-            <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How The Most Useless Branch of Math Could Save Your Life]]></title>
-        <id>https://www.youtube.com/watch?v=8DBhTXM_Br4</id>
-        <link href="https://www.youtube.com/watch?v=8DBhTXM_Br4"/>
-        <updated>2023-09-03T13:54:14.000Z</updated>
-        <author>
-            <name>Veritasium</name>
         </author>
     </entry>
 </feed>
