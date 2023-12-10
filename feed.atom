@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-09T00:30:35.772Z</id>
+    <id>urn:2023-12-10T00:34:07.111Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-09T00:30:35.772Z</updated>
+    <updated>2023-12-10T00:34:07.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Error correction is incredible]]></title>
+        <id>https://www.youtube.com/watch?v=yZMw2rOKYwE</id>
+        <link href="https://www.youtube.com/watch?v=yZMw2rOKYwE"/>
+        <updated>2023-12-10T00:00:26.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The chessboard and coins puzzle]]></title>
+        <id>https://www.youtube.com/watch?v=NQFIU5Exjuo</id>
+        <link href="https://www.youtube.com/watch?v=NQFIU5Exjuo"/>
+        <updated>2023-12-10T00:00:10.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can You See the Guy in the Video?]]></title>
+        <id>https://www.youtube.com/watch?v=OQ-v11GmwRw</id>
+        <link href="https://www.youtube.com/watch?v=OQ-v11GmwRw"/>
+        <updated>2023-12-09T21:00:17.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happens When a Pilot Passes Out?]]></title>
+        <id>https://www.youtube.com/watch?v=pBSeqE2wYk8</id>
+        <link href="https://www.youtube.com/watch?v=pBSeqE2wYk8"/>
+        <updated>2023-12-09T19:00:18.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happens When a Pilot Passes Out?]]></title>
+        <id>https://www.youtube.com/watch?v=T_SIpjpCydc</id>
+        <link href="https://www.youtube.com/watch?v=T_SIpjpCydc"/>
+        <updated>2023-12-09T19:00:13.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recycling Failed 3D Prints with a DIY Filament Extruder: Artme3D]]></title>
+        <id>https://www.youtube.com/watch?v=BT04glGDjB4</id>
+        <link href="https://www.youtube.com/watch?v=BT04glGDjB4"/>
+        <updated>2023-12-09T16:38:37.000Z</updated>
+        <author>
+            <name>CNC Kitchen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why This Luxury Candle Costs $660 | So Expensive | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=o3oqto7AHIs</id>
+        <link href="https://www.youtube.com/watch?v=o3oqto7AHIs"/>
+        <updated>2023-12-09T16:00:36.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Crashed Our Old Machines… and Now Purchased New Ones]]></title>
+        <id>https://www.youtube.com/watch?v=4yk4t-rdILI</id>
+        <link href="https://www.youtube.com/watch?v=4yk4t-rdILI"/>
+        <updated>2023-12-09T14:00:06.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNC Machining a Custom Grill Center Piece for @GasMonkeyGarage  ✨]]></title>
+        <id>https://www.youtube.com/watch?v=1BNUnE3KxSo</id>
+        <link href="https://www.youtube.com/watch?v=1BNUnE3KxSo"/>
+        <updated>2023-12-09T12:00:02.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Physical Binary Code on a CD]]></title>
+        <id>https://www.youtube.com/watch?v=tcQysfNe01M</id>
+        <link href="https://www.youtube.com/watch?v=tcQysfNe01M"/>
+        <updated>2023-12-09T09:23:42.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prime spirals]]></title>
         <id>https://www.youtube.com/watch?v=h2V3r7oBeMI</id>
@@ -357,24 +447,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Weapon Shoots Six Grenades in Three Seconds!]]></title>
-        <id>https://www.youtube.com/watch?v=nVcPEI_n0Vc</id>
-        <link href="https://www.youtube.com/watch?v=nVcPEI_n0Vc"/>
-        <updated>2023-12-06T19:00:22.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the M32 Six-Shooter Grenade Revolver Unleashes Hell!]]></title>
-        <id>https://www.youtube.com/watch?v=cmysrbDWbUU</id>
-        <link href="https://www.youtube.com/watch?v=cmysrbDWbUU"/>
-        <updated>2023-12-06T19:00:18.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Removing #nutmeg from #mace is a time-consuming and delicate process. #indianspices]]></title>
         <id>https://www.youtube.com/watch?v=umRa5zInfNY</id>
         <link href="https://www.youtube.com/watch?v=umRa5zInfNY"/>
@@ -420,37 +492,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Invisibility Cloak Design Revealed]]></title>
-        <id>https://www.youtube.com/watch?v=cqiXAj1BEt4</id>
-        <link href="https://www.youtube.com/watch?v=cqiXAj1BEt4"/>
-        <updated>2023-12-06T09:00:27.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[There are only 33 master #craftspeople who can create the nuanced elements of Honma #golfclubs.]]></title>
         <id>https://www.youtube.com/watch?v=mvlLIskNx8M</id>
         <link href="https://www.youtube.com/watch?v=mvlLIskNx8M"/>
         <updated>2023-12-05T21:00:22.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rod Straightening Machine]]></title>
-        <id>https://www.youtube.com/watch?v=35B_wzNNnw8</id>
-        <link href="https://www.youtube.com/watch?v=35B_wzNNnw8"/>
-        <updated>2023-12-05T21:00:01.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This #cymbal business has crafted #instruments for Ottoman sultans and #TheBeatles.]]></title>
-        <id>https://www.youtube.com/watch?v=FdSlQfnvWdg</id>
-        <link href="https://www.youtube.com/watch?v=FdSlQfnvWdg"/>
-        <updated>2023-12-05T19:52:30.000Z</updated>
         <author>
             <name>Business Insider</name>
         </author>
@@ -762,30 +807,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CNC Machining Composites with Diamond Tooling]]></title>
-        <id>https://www.youtube.com/watch?v=V1VD5jnYRZ4</id>
-        <link href="https://www.youtube.com/watch?v=V1VD5jnYRZ4"/>
-        <updated>2023-11-29T12:00:25.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Strange Behavior of Virtual Images]]></title>
         <id>https://www.youtube.com/watch?v=dnHoibl03BE</id>
         <link href="https://www.youtube.com/watch?v=dnHoibl03BE"/>
         <updated>2023-11-28T19:02:44.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I CRASHED So Hard… I wanted to Die. This QUALIFIED Me For This]]></title>
-        <id>https://www.youtube.com/watch?v=7dZDbsSBob8</id>
-        <link href="https://www.youtube.com/watch?v=7dZDbsSBob8"/>
-        <updated>2023-11-28T15:00:05.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1365,7 +1392,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[World's Best Night Vision Goggles]]></title>
+        <title type="html"><![CDATA[How Do Night Vision Goggles Work? (There's 3 types)]]></title>
         <id>https://www.youtube.com/watch?v=UAeJHAFjwPM</id>
         <link href="https://www.youtube.com/watch?v=UAeJHAFjwPM"/>
         <updated>2023-11-04T13:00:31.000Z</updated>
@@ -2031,7 +2058,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In Search of Cosmic Origins]]></title>
+        <title type="html"><![CDATA[Uncovering the Secrets of the Early Universe]]></title>
         <id>https://www.youtube.com/watch?v=hMbtFdw6Ekk</id>
         <link href="https://www.youtube.com/watch?v=hMbtFdw6Ekk"/>
         <updated>2023-09-20T15:06:42.000Z</updated>
