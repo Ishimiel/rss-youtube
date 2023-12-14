@@ -65,6 +65,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=JHuxMHPATtg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JHuxMHPATtg",
+          "publishedOn": "2023-12-14T00:00:12.000Z",
+          "wordCount": null,
+          "title": "The surface area of a sphere",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=TaopSi3Ucfc",
           "author": null,
           "description": "",
@@ -91,7 +101,7 @@
           "link": "https://www.youtube.com/watch?v=4xWpQe3G9qI",
           "publishedOn": "2023-12-12T00:00:03.000Z",
           "wordCount": null,
-          "title": "Image blurring",
+          "title": "A simple image convolution",
           "imageUrl": null
         },
         {
@@ -181,7 +191,7 @@
           "link": "https://www.youtube.com/watch?v=GSIuXqgPsnY",
           "publishedOn": "2023-12-07T01:31:43.000Z",
           "wordCount": null,
-          "title": "The standard prism explanation (but there's much more to the story)",
+          "title": "The standard prism explanation (the full videos go deeper)",
           "imageUrl": null
         },
         {
@@ -202,16 +212,6 @@
           "publishedOn": "2023-12-07T01:11:14.000Z",
           "wordCount": null,
           "title": "Don't let it fool you!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Cz4Q4QOuoo8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Cz4Q4QOuoo8",
-          "publishedOn": "2023-12-03T11:35:57.000Z",
-          "wordCount": null,
-          "title": "X-rays \"faster\" than the speed of light, and more refractive index questions | Optics puzzles part 4",
           "imageUrl": null
         }
       ]
@@ -973,6 +973,46 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=biCbeUIda9U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=biCbeUIda9U",
+          "publishedOn": "2023-12-13T21:00:16.000Z",
+          "wordCount": null,
+          "title": "The Verrazano Bridge Expansion Joints",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=l3sWOgvfHJM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=l3sWOgvfHJM",
+          "publishedOn": "2023-12-13T19:00:32.000Z",
+          "wordCount": null,
+          "title": "The U.S. Navy attack submarines Gear Up to protect the vital oceanbed infrastructure!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-pTsUnFfamY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-pTsUnFfamY",
+          "publishedOn": "2023-12-13T19:00:00.000Z",
+          "wordCount": null,
+          "title": "The U.S. Navy Attack Submarines Gear Up to Protect the Vital Oceanbed Infrastructure!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DexmLmtRQfU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DexmLmtRQfU",
+          "publishedOn": "2023-12-13T09:00:07.000Z",
+          "wordCount": null,
+          "title": "The Oldest Human-Built Structure in the World",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kVha061iUdk",
           "author": null,
           "description": "",
@@ -1081,46 +1121,6 @@
           "wordCount": null,
           "title": "Welding with a Handheld Machine",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GL7PQWwPYas",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GL7PQWwPYas",
-          "publishedOn": "2023-12-10T19:00:05.000Z",
-          "wordCount": null,
-          "title": "Should We Put Solar Panels on Water?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0-Cfr57NG1I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0-Cfr57NG1I",
-          "publishedOn": "2023-12-10T19:00:00.000Z",
-          "wordCount": null,
-          "title": "Should We Put Solar Panels on Water?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ewxDdYXcVlo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ewxDdYXcVlo",
-          "publishedOn": "2023-12-10T11:03:00.000Z",
-          "wordCount": null,
-          "title": "How a Double Pendulum Looks in Real Life",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OQ-v11GmwRw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OQ-v11GmwRw",
-          "publishedOn": "2023-12-09T21:00:17.000Z",
-          "wordCount": null,
-          "title": "Can You See the Guy in the Video?",
-          "imageUrl": null
         }
       ]
     },
@@ -1152,6 +1152,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUHW94eEFW7hkUMVaZz4eDg",
       "siteUrl": "https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=W7mVQ3kRPv8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=W7mVQ3kRPv8",
+          "publishedOn": "2023-12-13T17:00:51.000Z",
+          "wordCount": null,
+          "title": "The LAST Eclipse in History",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=z_WRaTsGbVE",
           "author": null,
@@ -1803,6 +1813,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=IdvKxVc6sys",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IdvKxVc6sys",
+          "publishedOn": "2023-12-13T21:10:11.000Z",
+          "wordCount": null,
+          "title": "How To Always Win The Peg Game",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nbmr2HKNpkg",
           "author": null,
           "description": "",
@@ -1941,16 +1961,6 @@
           "wordCount": null,
           "title": "What's The Most Popular Age To Be?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=W_C0HSlaQww",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=W_C0HSlaQww",
-          "publishedOn": "2023-10-26T21:01:25.000Z",
-          "wordCount": null,
-          "title": "The Smell of Hell",
-          "imageUrl": null
         }
       ]
     },
@@ -1987,16 +1997,6 @@
           "publishedOn": "2023-10-17T15:02:00.000Z",
           "wordCount": null,
           "title": "Home Automation CONSUMED MY LIFE (and you're next)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MqirgLJnmZM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MqirgLJnmZM",
-          "publishedOn": "2023-09-14T15:59:07.000Z",
-          "wordCount": null,
-          "title": "Five 3D-Printing Mistakes You're Making RIGHT NOW!!",
           "imageUrl": null
         }
       ]
@@ -2063,6 +2063,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=lUq28VcxbuQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lUq28VcxbuQ",
+          "publishedOn": "2023-12-13T12:00:39.000Z",
+          "wordCount": null,
+          "title": "CNC Machining a Pump Housing in the Heller CP6000",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=QVa1bP92TIg",
           "author": null,
@@ -2202,16 +2212,6 @@
           "wordCount": null,
           "title": "Swiss Lathe Machining ASMR 🔈",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vShmungrp9Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vShmungrp9Q",
-          "publishedOn": "2023-12-02T14:00:48.000Z",
-          "wordCount": null,
-          "title": "Why Monster Employees Make More Money and Rise above Everyone",
-          "imageUrl": null
         }
       ]
     },
@@ -2220,6 +2220,56 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=V-AmbH_q5Vg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=V-AmbH_q5Vg",
+          "publishedOn": "2023-12-13T21:56:43.000Z",
+          "wordCount": null,
+          "title": "The #Philippines is the second-largest producer of coconuts in the world. #coconut #recycle",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lHgBJT1_x9A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lHgBJT1_x9A",
+          "publishedOn": "2023-12-13T21:46:48.000Z",
+          "wordCount": null,
+          "title": "Can Coconuts Replace Plastic Foam Coolers? | World Wide Waste | Business Insider",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=rJ75_wJtBWE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rJ75_wJtBWE",
+          "publishedOn": "2023-12-13T21:00:24.000Z",
+          "wordCount": null,
+          "title": "African #blackwood is exclusively sourced from the #Miombo woodlands in countries like #Tanzania.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=sD__b41Ex9I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sD__b41Ex9I",
+          "publishedOn": "2023-12-13T18:00:26.000Z",
+          "wordCount": null,
+          "title": "Mastic tree resin can only be harvested in the distinct climate of Chios, #Greece. #harvesting #gum",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=4XqBO80AZPg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4XqBO80AZPg",
+          "publishedOn": "2023-12-13T17:00:04.000Z",
+          "wordCount": null,
+          "title": "#Nutmeg and #mace harvested in the East #Indies have a stronger aroma and flavor than in the west.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=40vXA3yCiWM",
           "author": null,
@@ -2319,56 +2369,6 @@
           "wordCount": null,
           "title": "#businessinsider investigated how patrol #dogs are used to attack #prisoners in the US.",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=441wI2rSZFw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=441wI2rSZFw",
-          "publishedOn": "2023-12-08T18:53:34.000Z",
-          "wordCount": null,
-          "title": "Indonesia's mie lethek #noodles are called #ugly due to their dull grayish color. #businessinsider",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UliwZ6FZQb4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UliwZ6FZQb4",
-          "publishedOn": "2023-12-08T18:00:25.000Z",
-          "wordCount": null,
-          "title": "Nearly all of our #shoes end up in #landfills, but these entrepreneurs are trying to change that.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=v268SH0_iRs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=v268SH0_iRs",
-          "publishedOn": "2023-12-08T17:38:52.000Z",
-          "wordCount": null,
-          "title": "Why The Ugliest Noodles In The World Are An Indonesian Delicacy | Still Standing | Business Insider",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pOtj8th-yh8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pOtj8th-yh8",
-          "publishedOn": "2023-12-08T16:00:28.000Z",
-          "wordCount": null,
-          "title": "Every #snake's #venom is made up of a unique cocktail of toxins that attack your body. #animalexpert",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=W1Dda5Ltmhc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=W1Dda5Ltmhc",
-          "publishedOn": "2023-12-07T21:11:40.000Z",
-          "wordCount": null,
-          "title": "How the US Naval Academy prepares 13,500 meals a day for 4,400 Midshipmen. #Navy #US #Food",
-          "imageUrl": null
         }
       ]
     },
@@ -2377,6 +2377,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUJexeVabymyw7G-rxdjUDw",
       "siteUrl": "https://www.youtube.com/channel/UCUJexeVabymyw7G-rxdjUDw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=KozHfILSZ3Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KozHfILSZ3Q",
+          "publishedOn": "2023-12-13T22:53:36.000Z",
+          "wordCount": null,
+          "title": "Νέο Prince of Persia",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ErLIXok8oqM",
           "author": null,
