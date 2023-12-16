@@ -65,6 +65,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=X4jpqCu-wlA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=X4jpqCu-wlA",
+          "publishedOn": "2023-12-16T00:00:24.000Z",
+          "wordCount": null,
+          "title": "Can you even imagine 2^256?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=GOSezO0CHss",
           "author": null,
           "description": "",
@@ -203,16 +213,6 @@
           "wordCount": null,
           "title": "The standard prism explanation (the full videos go deeper)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=P11ykXwx4-k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=P11ykXwx4-k",
-          "publishedOn": "2023-12-07T01:11:14.000Z",
-          "wordCount": null,
-          "title": "I'm still astounded this is true",
-          "imageUrl": null
         }
       ]
     },
@@ -334,6 +334,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=NQkSH_CBPq8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NQkSH_CBPq8",
+          "publishedOn": "2023-12-15T11:00:18.000Z",
+          "wordCount": null,
+          "title": "New Advances in Artificial Intelligence and Machine Learning",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=pBAmBZP5Sp8",
           "author": null,
@@ -509,6 +519,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=1nX-q4_E9Ik",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1nX-q4_E9Ik",
+          "publishedOn": "2023-12-15T14:00:03.000Z",
+          "wordCount": null,
+          "title": "James Bruton at SMRRF 2023!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fNbAGkoRySI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fNbAGkoRySI",
+          "publishedOn": "2023-12-15T01:00:51.000Z",
+          "wordCount": null,
+          "title": "Bambu Lab A1 - That's The Title",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=PGQ6ik5Zy3Y",
           "author": null,
           "description": "",
@@ -636,26 +666,6 @@
           "publishedOn": "2023-11-08T14:00:06.000Z",
           "wordCount": null,
           "title": "THIS Fixes the Creality K1 Max",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Z4GzTUq6Cwg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Z4GzTUq6Cwg",
-          "publishedOn": "2023-11-07T17:12:09.000Z",
-          "wordCount": null,
-          "title": "Formnext 2023 LIVE! Show & Telling from the Show Floor!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Dqh8IaFDjD8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Dqh8IaFDjD8",
-          "publishedOn": "2023-11-03T13:00:15.000Z",
-          "wordCount": null,
-          "title": "Making MICRO SWISS Hot Ends & Nozzles!",
           "imageUrl": null
         }
       ]
@@ -814,16 +824,6 @@
           "wordCount": null,
           "title": "Bambu Lab's NEW A1 Mini and why they didn't release an X1 XL!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1yIe1Pp_Nrg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1yIe1Pp_Nrg",
-          "publishedOn": "2023-09-16T17:00:19.000Z",
-          "wordCount": null,
-          "title": "PET Bottle Recycling: Waste to 3D Printing Filament",
-          "imageUrl": null
         }
       ]
     },
@@ -838,6 +838,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "siteUrl": "https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=q_IR2VR_3co",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=q_IR2VR_3co",
+          "publishedOn": "2023-12-15T05:24:39.000Z",
+          "wordCount": null,
+          "title": "Watch Rocket Lab return to flight with their Electron rocket! #moongodawakens",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=5OR3apaRkR0",
           "author": null,
@@ -973,6 +983,46 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=T_cnrnivVpg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=T_cnrnivVpg",
+          "publishedOn": "2023-12-15T21:00:14.000Z",
+          "wordCount": null,
+          "title": "Awesome Ship Side Launch Footage",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=EAwTUwb8xk4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EAwTUwb8xk4",
+          "publishedOn": "2023-12-15T19:00:09.000Z",
+          "wordCount": null,
+          "title": "A Serious Competitor To Musk’s Starlink",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=BPAYtX1u2Ac",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BPAYtX1u2Ac",
+          "publishedOn": "2023-12-15T19:00:04.000Z",
+          "wordCount": null,
+          "title": "A Serious Competitor To Musk’s Starlink",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fuY5bfrq1Q0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fuY5bfrq1Q0",
+          "publishedOn": "2023-12-15T09:00:34.000Z",
+          "wordCount": null,
+          "title": "Giant Tree Trunk Debarker",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nEefKowSEjo",
           "author": null,
           "description": "",
@@ -1080,46 +1130,6 @@
           "publishedOn": "2023-12-12T19:00:11.000Z",
           "wordCount": null,
           "title": "Why Cleaning Aircraft Is Really Hard",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ij2v9ezdjSI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ij2v9ezdjSI",
-          "publishedOn": "2023-12-12T19:00:10.000Z",
-          "wordCount": null,
-          "title": "Why Cleaning Aircraft Is Really Hard",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LYMQogbVqYs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LYMQogbVqYs",
-          "publishedOn": "2023-12-12T15:57:37.000Z",
-          "wordCount": null,
-          "title": "Gene Therapy for the Sickle Cell Diseases is Approved by the FDA",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YWEFBWrDXyQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YWEFBWrDXyQ",
-          "publishedOn": "2023-12-12T15:50:10.000Z",
-          "wordCount": null,
-          "title": "Gene Therapy for the Sickle Cell Diseases is Approved by the FDA",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=F8H90lstBP4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=F8H90lstBP4",
-          "publishedOn": "2023-12-12T09:00:08.000Z",
-          "wordCount": null,
-          "title": "Overloaded Cargo Ship Drops Containers in the Sea",
           "imageUrl": null
         }
       ]
@@ -1305,16 +1315,6 @@
           "wordCount": null,
           "title": "The Langlands Program - Numberphile",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hzcdcrsyA9Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hzcdcrsyA9Y",
-          "publishedOn": "2023-09-17T11:34:54.000Z",
-          "wordCount": null,
-          "title": "Travelling to the Stars by Ladder - Numberphile",
-          "imageUrl": null
         }
       ]
     },
@@ -1457,6 +1457,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj_XaV1ss-qdD-lPUtTEcXw",
       "siteUrl": "https://www.youtube.com/channel/UCj_XaV1ss-qdD-lPUtTEcXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=S0gs8_y1EI8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=S0gs8_y1EI8",
+          "publishedOn": "2023-12-15T15:23:25.000Z",
+          "wordCount": null,
+          "title": "Boat Stuff - Getter Done",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=VtIypuSBRRM",
           "author": null,
@@ -1622,16 +1632,6 @@
           "publishedOn": "2023-10-29T14:23:09.000Z",
           "wordCount": null,
           "title": "What Do You Think Of Our Game? - Smarter Every Day 291",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dCXu8Ju_fdY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dCXu8Ju_fdY",
-          "publishedOn": "2023-09-16T15:58:08.000Z",
-          "wordCount": null,
-          "title": "ROBOFORMING: The Future of Metalworking? (I Had NO IDEA This Was Possible) - Smarter Every Day 290",
           "imageUrl": null
         }
       ]
@@ -2064,6 +2064,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QXzB224A1_s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QXzB224A1_s",
+          "publishedOn": "2023-12-15T12:00:23.000Z",
+          "wordCount": null,
+          "title": "Learn 5 Axis Machining for FREE 🤯",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=X0s_xdYdJuM",
           "author": null,
           "description": "",
@@ -2202,16 +2212,6 @@
           "wordCount": null,
           "title": "5 Axis Machining the Critical Part for this Custom Truck Grill",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ooY7GrsYwak",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ooY7GrsYwak",
-          "publishedOn": "2023-12-05T12:00:47.000Z",
-          "wordCount": null,
-          "title": "Transforming a C10 Grill into a Work of Art",
-          "imageUrl": null
         }
       ]
     },
@@ -2220,6 +2220,46 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=_CeeZJ24eY4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_CeeZJ24eY4",
+          "publishedOn": "2023-12-15T19:00:24.000Z",
+          "wordCount": null,
+          "title": "Many in Sub-Saharan #Africa can’t afford #antivenom, so manufacturers stopped producing it. #kenya",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=S6o2nXUdiR4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=S6o2nXUdiR4",
+          "publishedOn": "2023-12-15T18:00:13.000Z",
+          "wordCount": null,
+          "title": "Christmas tree farms have a variety of tree species. 🎄 #christmastrees #holidays #tradition",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=twIz3Lo5H8U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=twIz3Lo5H8U",
+          "publishedOn": "2023-12-15T17:00:04.000Z",
+          "wordCount": null,
+          "title": "This company found a way to #recycle every part of the #shoe. #sustainability",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ibAsFcWh0Fw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ibAsFcWh0Fw",
+          "publishedOn": "2023-12-15T16:59:37.000Z",
+          "wordCount": null,
+          "title": "We traveled the US to uncover stories at some of the most challenging #military training courses.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=KYR37mOm9ug",
           "author": null,
@@ -2257,7 +2297,7 @@
           "link": "https://www.youtube.com/watch?v=1WjsyQL0MMs",
           "publishedOn": "2023-12-14T16:00:01.000Z",
           "wordCount": null,
-          "title": "Boot Camp Marathon Season 5 | Boot Camp | Business Insider",
+          "title": "Boot Camp Season 5 Marathon | Boot Camp | Business Insider",
           "imageUrl": null
         },
         {
@@ -2329,46 +2369,6 @@
           "wordCount": null,
           "title": "Lee Bong-ju is one of the few traditional yugi masters who creates #Korean #bronze #tableware.",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2bVvnTo8GK0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2bVvnTo8GK0",
-          "publishedOn": "2023-12-11T22:19:26.000Z",
-          "wordCount": null,
-          "title": "How The US Naval Academy Prepares 13,500 Meals A Day For 4,400 Midshipmen. #Naval #Academy #US",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fgwNJTjQVmY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fgwNJTjQVmY",
-          "publishedOn": "2023-12-11T22:00:15.000Z",
-          "wordCount": null,
-          "title": "Harvesting cloves correctly is not for the faint of heart. #cloves #spices #harvesting",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WTjaH2tB4P0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WTjaH2tB4P0",
-          "publishedOn": "2023-12-11T18:48:31.000Z",
-          "wordCount": null,
-          "title": "Inside a #dog training school where #prisons get their attack dogs. #businessinsider",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=U8WWMj46wQY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=U8WWMj46wQY",
-          "publishedOn": "2023-12-11T18:00:15.000Z",
-          "wordCount": null,
-          "title": "For a #tree like this to produce any resin, farmers must first harm it. #climatecrisis",
-          "imageUrl": null
         }
       ]
     },
@@ -2424,6 +2424,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCM15YNy8g-CaJ15YZCbq0Iw",
       "siteUrl": "https://www.youtube.com/channel/UCM15YNy8g-CaJ15YZCbq0Iw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=LKRZKxwT1zY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LKRZKxwT1zY",
+          "publishedOn": "2023-12-15T16:00:11.000Z",
+          "wordCount": null,
+          "title": "I made Godzilla fighting a Giant Zombie Octopus",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=7eUzfwyFGws",
           "author": null,
