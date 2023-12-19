@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-18T00:32:24.005Z</id>
+    <id>urn:2023-12-19T00:31:36.882Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-18T00:32:24.005Z</updated>
+    <updated>2023-12-19T00:31:36.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[You've probably eaten these #cactus #bugs before. #businessinsider]]></title>
+        <id>https://www.youtube.com/watch?v=s1dLAJIP_Hg</id>
+        <link href="https://www.youtube.com/watch?v=s1dLAJIP_Hg"/>
+        <updated>2023-12-19T00:02:36.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Proof" of a sphere's surface area]]></title>
+        <id>https://www.youtube.com/watch?v=La3MNZLPt7o</id>
+        <link href="https://www.youtube.com/watch?v=La3MNZLPt7o"/>
+        <updated>2023-12-19T00:00:08.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metal Ring Manufacturing Process]]></title>
+        <id>https://www.youtube.com/watch?v=brcCUqJ5LRg</id>
+        <link href="https://www.youtube.com/watch?v=brcCUqJ5LRg"/>
+        <updated>2023-12-18T21:00:28.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metals are heated to over 1300 °C to make this #handmade #bronzeware. #bangjjayugi]]></title>
+        <id>https://www.youtube.com/watch?v=o_x7jYx6rK8</id>
+        <link href="https://www.youtube.com/watch?v=o_x7jYx6rK8"/>
+        <updated>2023-12-18T20:54:07.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F-15 EX "Super Eagle" is More than Russia and China Can Handle]]></title>
+        <id>https://www.youtube.com/watch?v=scIc4QqNUzQ</id>
+        <link href="https://www.youtube.com/watch?v=scIc4QqNUzQ"/>
+        <updated>2023-12-18T19:00:31.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F-15 EX "Super Eagle" is More than Russia and China Can Handle]]></title>
+        <id>https://www.youtube.com/watch?v=KGLTISc8KrE</id>
+        <link href="https://www.youtube.com/watch?v=KGLTISc8KrE"/>
+        <updated>2023-12-18T19:00:06.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making a super high voltage capacitor: Leyden Jar #capacitor #highvoltage #charge #funny]]></title>
+        <id>https://www.youtube.com/watch?v=A_gPPnYtm6s</id>
+        <link href="https://www.youtube.com/watch?v=A_gPPnYtm6s"/>
+        <updated>2023-12-18T18:57:12.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Racing #pigeons have become a status symbol as the sport gains popularity across #Asia. #birds]]></title>
+        <id>https://www.youtube.com/watch?v=bI4d3DHg0gY</id>
+        <link href="https://www.youtube.com/watch?v=bI4d3DHg0gY"/>
+        <updated>2023-12-18T17:00:29.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Never Seen Before Rocket Engine Facility 👀]]></title>
+        <id>https://www.youtube.com/watch?v=eNf6xSFEYSY</id>
+        <link href="https://www.youtube.com/watch?v=eNf6xSFEYSY"/>
+        <updated>2023-12-18T12:00:29.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skiving for Aluminum Heatsink Production]]></title>
+        <id>https://www.youtube.com/watch?v=yOg17A3LYCA</id>
+        <link href="https://www.youtube.com/watch?v=yOg17A3LYCA"/>
+        <updated>2023-12-18T08:58:26.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[William Prescott Expansion Engine Starting Up]]></title>
         <id>https://www.youtube.com/watch?v=UmK7Q9luzP4</id>
@@ -51,7 +141,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From The SMALLEST To The LARGEST - The Ultimate Size Comparison]]></title>
+        <title type="html"><![CDATA[The SMALLEST to the LARGEST Thing in The Universe – The Ultimate Size Comparison]]></title>
         <id>https://www.youtube.com/watch?v=Z_1Q0XB4X0Y</id>
         <link href="https://www.youtube.com/watch?v=Z_1Q0XB4X0Y"/>
         <updated>2023-12-17T15:00:53.000Z</updated>
@@ -321,24 +411,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Only Car You Will Never Drive]]></title>
-        <id>https://www.youtube.com/watch?v=hMLW3px5Atw</id>
-        <link href="https://www.youtube.com/watch?v=hMLW3px5Atw"/>
-        <updated>2023-12-14T19:00:16.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Only Car You Will Never Drive]]></title>
-        <id>https://www.youtube.com/watch?v=Na8oFpm5QNA</id>
-        <link href="https://www.youtube.com/watch?v=Na8oFpm5QNA"/>
-        <updated>2023-12-14T19:00:09.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Arcs start on a small gap but extend longer with enough power #arc #short #highvolatge #funny]]></title>
         <id>https://www.youtube.com/watch?v=W4oydQ4afJA</id>
         <link href="https://www.youtube.com/watch?v=W4oydQ4afJA"/>
@@ -384,16 +456,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tesla’s Optimus Gen 2 is Faster, Lighter and Can Even Dance]]></title>
-        <id>https://www.youtube.com/watch?v=MpIxmBh8720</id>
-        <link href="https://www.youtube.com/watch?v=MpIxmBh8720"/>
-        <updated>2023-12-14T14:15:32.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bambu Lab made another Bed Slinger: A1 REVIEW]]></title>
+        <title type="html"><![CDATA[Deep Dive: Bambu Lab A1 3D Printer Review]]></title>
         <id>https://www.youtube.com/watch?v=IfQuG44kjMQ</id>
         <link href="https://www.youtube.com/watch?v=IfQuG44kjMQ"/>
         <updated>2023-12-14T14:00:39.000Z</updated>
@@ -408,15 +471,6 @@
         <updated>2023-12-14T12:00:11.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla Optimus Gen 2 Update Makes the Robot Much Faster]]></title>
-        <id>https://www.youtube.com/watch?v=vqzrg-GDvxg</id>
-        <link href="https://www.youtube.com/watch?v=vqzrg-GDvxg"/>
-        <updated>2023-12-14T09:00:42.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -474,30 +528,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastic tree resin can only be harvested in the distinct climate of Chios, #Greece. #harvesting #gum]]></title>
-        <id>https://www.youtube.com/watch?v=sD__b41Ex9I</id>
-        <link href="https://www.youtube.com/watch?v=sD__b41Ex9I"/>
-        <updated>2023-12-13T18:00:26.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The LAST Eclipse in History]]></title>
         <id>https://www.youtube.com/watch?v=W7mVQ3kRPv8</id>
         <link href="https://www.youtube.com/watch?v=W7mVQ3kRPv8"/>
         <updated>2023-12-13T17:00:51.000Z</updated>
         <author>
             <name>minutephysics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#Nutmeg and #mace harvested in the East #Indies have a stronger aroma and flavor than in the west.]]></title>
-        <id>https://www.youtube.com/watch?v=4XqBO80AZPg</id>
-        <link href="https://www.youtube.com/watch?v=4XqBO80AZPg"/>
-        <updated>2023-12-13T17:00:04.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -516,15 +552,6 @@
         <updated>2023-12-13T00:00:09.000Z</updated>
         <author>
             <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Cire Trudon candles are so expensive. #candles #cire #trudon]]></title>
-        <id>https://www.youtube.com/watch?v=40vXA3yCiWM</id>
-        <link href="https://www.youtube.com/watch?v=40vXA3yCiWM"/>
-        <updated>2023-12-12T21:51:32.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -771,15 +798,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sharpening Locating Tool for Swiss Machine]]></title>
-        <id>https://www.youtube.com/watch?v=SMsZhGnG3zE</id>
-        <link href="https://www.youtube.com/watch?v=SMsZhGnG3zE"/>
-        <updated>2023-12-08T12:00:21.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MASSIVE HOLIDAY GIVEAWAY 2023!]]></title>
         <id>https://www.youtube.com/watch?v=60_yDI9vW-A</id>
         <link href="https://www.youtube.com/watch?v=60_yDI9vW-A"/>
@@ -822,15 +840,6 @@
         <updated>2023-12-07T20:48:43.000Z</updated>
         <author>
             <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How prisms work (video linked above shows why light "slows down")]]></title>
-        <id>https://www.youtube.com/watch?v=GSIuXqgPsnY</id>
-        <link href="https://www.youtube.com/watch?v=GSIuXqgPsnY"/>
-        <updated>2023-12-07T01:31:43.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
         </author>
     </entry>
     <entry>
@@ -2100,15 +2109,6 @@
         <updated>2023-10-05T12:15:26.000Z</updated>
         <author>
             <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Be Careful with High Voltage Capacitors…#electronics #shocking #funny #electroboom #highvoltage]]></title>
-        <id>https://www.youtube.com/watch?v=pO3-8gYK4Fw</id>
-        <link href="https://www.youtube.com/watch?v=pO3-8gYK4Fw"/>
-        <updated>2023-10-04T17:51:28.000Z</updated>
-        <author>
-            <name>ElectroBOOM</name>
         </author>
     </entry>
     <entry>

@@ -76,6 +76,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=La3MNZLPt7o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=La3MNZLPt7o",
+          "publishedOn": "2023-12-19T00:00:08.000Z",
+          "wordCount": null,
+          "title": "\"Proof\" of a sphere's surface area",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=X4jpqCu-wlA",
           "author": null,
           "description": "",
@@ -214,16 +224,6 @@
           "wordCount": null,
           "title": "Seeing with sound",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GSIuXqgPsnY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GSIuXqgPsnY",
-          "publishedOn": "2023-12-07T01:31:43.000Z",
-          "wordCount": null,
-          "title": "How prisms work (video linked above shows why light \"slows down\")",
-          "imageUrl": null
         }
       ]
     },
@@ -245,7 +245,7 @@
           "link": "https://www.youtube.com/watch?v=Z_1Q0XB4X0Y",
           "publishedOn": "2023-12-17T15:00:53.000Z",
           "wordCount": null,
-          "title": "From The SMALLEST To The LARGEST - The Ultimate Size Comparison",
+          "title": "The SMALLEST to the LARGEST Thing in The Universe – The Ultimate Size Comparison",
           "imageUrl": null
         },
         {
@@ -773,7 +773,7 @@
           "link": "https://www.youtube.com/watch?v=IfQuG44kjMQ",
           "publishedOn": "2023-12-14T14:00:39.000Z",
           "wordCount": null,
-          "title": "Bambu Lab made another Bed Slinger: A1 REVIEW",
+          "title": "Deep Dive: Bambu Lab A1 3D Printer Review",
           "imageUrl": null
         },
         {
@@ -1004,6 +1004,46 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=brcCUqJ5LRg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=brcCUqJ5LRg",
+          "publishedOn": "2023-12-18T21:00:28.000Z",
+          "wordCount": null,
+          "title": "Metal Ring Manufacturing Process",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=scIc4QqNUzQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=scIc4QqNUzQ",
+          "publishedOn": "2023-12-18T19:00:31.000Z",
+          "wordCount": null,
+          "title": "F-15 EX \"Super Eagle\" is More than Russia and China Can Handle",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=KGLTISc8KrE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KGLTISc8KrE",
+          "publishedOn": "2023-12-18T19:00:06.000Z",
+          "wordCount": null,
+          "title": "F-15 EX \"Super Eagle\" is More than Russia and China Can Handle",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=yOg17A3LYCA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yOg17A3LYCA",
+          "publishedOn": "2023-12-18T08:58:26.000Z",
+          "wordCount": null,
+          "title": "Skiving for Aluminum Heatsink Production",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UmK7Q9luzP4",
           "author": null,
           "description": "",
@@ -1111,46 +1151,6 @@
           "publishedOn": "2023-12-14T21:00:20.000Z",
           "wordCount": null,
           "title": "Train Changes Gauge Mid-Ride",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hMLW3px5Atw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hMLW3px5Atw",
-          "publishedOn": "2023-12-14T19:00:16.000Z",
-          "wordCount": null,
-          "title": "The Only Car You Will Never Drive",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Na8oFpm5QNA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Na8oFpm5QNA",
-          "publishedOn": "2023-12-14T19:00:09.000Z",
-          "wordCount": null,
-          "title": "The Only Car You Will Never Drive",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MpIxmBh8720",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MpIxmBh8720",
-          "publishedOn": "2023-12-14T14:15:32.000Z",
-          "wordCount": null,
-          "title": "Tesla’s Optimus Gen 2 is Faster, Lighter and Can Even Dance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vqzrg-GDvxg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vqzrg-GDvxg",
-          "publishedOn": "2023-12-14T09:00:42.000Z",
-          "wordCount": null,
-          "title": "Tesla Optimus Gen 2 Update Makes the Robot Much Faster",
           "imageUrl": null
         }
       ]
@@ -2115,6 +2115,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=eNf6xSFEYSY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eNf6xSFEYSY",
+          "publishedOn": "2023-12-18T12:00:29.000Z",
+          "wordCount": null,
+          "title": "Never Seen Before Rocket Engine Facility 👀",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8UNV6LAzJNY",
           "author": null,
           "description": "",
@@ -2253,16 +2263,6 @@
           "wordCount": null,
           "title": "CNC Machined Ice Press Uses Thermal Conductivity to Create the Perfect Sphere",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SMsZhGnG3zE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SMsZhGnG3zE",
-          "publishedOn": "2023-12-08T12:00:21.000Z",
-          "wordCount": null,
-          "title": "Sharpening Locating Tool for Swiss Machine",
-          "imageUrl": null
         }
       ]
     },
@@ -2271,6 +2271,36 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=s1dLAJIP_Hg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=s1dLAJIP_Hg",
+          "publishedOn": "2023-12-19T00:02:36.000Z",
+          "wordCount": null,
+          "title": "You've probably eaten these #cactus #bugs before. #businessinsider",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=o_x7jYx6rK8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=o_x7jYx6rK8",
+          "publishedOn": "2023-12-18T20:54:07.000Z",
+          "wordCount": null,
+          "title": "Metals are heated to over 1300 °C to make this #handmade #bronzeware. #bangjjayugi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bI4d3DHg0gY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bI4d3DHg0gY",
+          "publishedOn": "2023-12-18T17:00:29.000Z",
+          "wordCount": null,
+          "title": "Racing #pigeons have become a status symbol as the sport gains popularity across #Asia. #birds",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=LaJyT0Txj0I",
           "author": null,
@@ -2389,36 +2419,6 @@
           "publishedOn": "2023-12-13T21:00:24.000Z",
           "wordCount": null,
           "title": "African #blackwood is exclusively sourced from the #Miombo woodlands in countries like #Tanzania.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sD__b41Ex9I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sD__b41Ex9I",
-          "publishedOn": "2023-12-13T18:00:26.000Z",
-          "wordCount": null,
-          "title": "Mastic tree resin can only be harvested in the distinct climate of Chios, #Greece. #harvesting #gum",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4XqBO80AZPg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4XqBO80AZPg",
-          "publishedOn": "2023-12-13T17:00:04.000Z",
-          "wordCount": null,
-          "title": "#Nutmeg and #mace harvested in the East #Indies have a stronger aroma and flavor than in the west.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=40vXA3yCiWM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=40vXA3yCiWM",
-          "publishedOn": "2023-12-12T21:51:32.000Z",
-          "wordCount": null,
-          "title": "Why Cire Trudon candles are so expensive. #candles #cire #trudon",
           "imageUrl": null
         }
       ]
@@ -2626,6 +2626,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=A_gPPnYtm6s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=A_gPPnYtm6s",
+          "publishedOn": "2023-12-18T18:57:12.000Z",
+          "wordCount": null,
+          "title": "Making a super high voltage capacitor: Leyden Jar #capacitor #highvoltage #charge #funny",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=W4oydQ4afJA",
           "author": null,
           "description": "",
@@ -2763,16 +2773,6 @@
           "publishedOn": "2023-10-26T16:01:26.000Z",
           "wordCount": null,
           "title": "Learning from 3 Exciting Products",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pO3-8gYK4Fw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pO3-8gYK4Fw",
-          "publishedOn": "2023-10-04T17:51:28.000Z",
-          "wordCount": null,
-          "title": "Be Careful with High Voltage Capacitors…#electronics #shocking #funny #electroboom #highvoltage",
           "imageUrl": null
         }
       ]
