@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qt6BO-DV0pY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qt6BO-DV0pY",
+          "publishedOn": "2023-12-19T19:07:52.000Z",
+          "wordCount": null,
+          "title": "2023's Biggest Breakthroughs in Biology and Neuroscience",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pQsdygaYcE4",
           "author": null,
           "description": "",
@@ -33,16 +43,6 @@
           "publishedOn": "2023-10-10T14:40:24.000Z",
           "wordCount": null,
           "title": "Unlocking the Secrets of Our Circadian Rhythms",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hMbtFdw6Ekk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hMbtFdw6Ekk",
-          "publishedOn": "2023-09-20T15:06:42.000Z",
-          "wordCount": null,
-          "title": "Uncovering the Secrets of the Early Universe",
           "imageUrl": null
         }
       ]
@@ -75,16 +75,6 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw",
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=La3MNZLPt7o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=La3MNZLPt7o",
-          "publishedOn": "2023-12-19T00:00:08.000Z",
-          "wordCount": null,
-          "title": "\"Proof\" of a sphere's surface area",
-          "imageUrl": null
-        },
         {
           "id": "https://www.youtube.com/watch?v=X4jpqCu-wlA",
           "author": null,
@@ -223,6 +213,16 @@
           "publishedOn": "2023-12-08T00:00:02.000Z",
           "wordCount": null,
           "title": "Seeing with sound",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=GSIuXqgPsnY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GSIuXqgPsnY",
+          "publishedOn": "2023-12-07T01:31:43.000Z",
+          "wordCount": null,
+          "title": "How prisms work (video linked above shows why light \"slows down\")",
           "imageUrl": null
         }
       ]
@@ -773,7 +773,7 @@
           "link": "https://www.youtube.com/watch?v=IfQuG44kjMQ",
           "publishedOn": "2023-12-14T14:00:39.000Z",
           "wordCount": null,
-          "title": "Deep Dive: Bambu Lab A1 3D Printer Review",
+          "title": "Bambu Lab A1 Review: Game-Changer or Hype?",
           "imageUrl": null
         },
         {
@@ -823,7 +823,7 @@
           "link": "https://www.youtube.com/watch?v=O6d1RKYapFI",
           "publishedOn": "2023-11-04T16:26:40.000Z",
           "wordCount": null,
-          "title": "Recycling 3D Printer Poop into New Filament",
+          "title": "From 3D Printing Scraps to Usable Filament",
           "imageUrl": null
         },
         {
@@ -859,6 +859,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "siteUrl": "https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=yq26nH72bOs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yq26nH72bOs",
+          "publishedOn": "2023-12-19T23:09:32.000Z",
+          "wordCount": null,
+          "title": "Let's see how far I can get in KSP-2's new \" For Science!\" career mode!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=q_IR2VR_3co",
           "author": null,
@@ -1004,6 +1014,46 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=s0MZJjc9PP4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=s0MZJjc9PP4",
+          "publishedOn": "2023-12-19T21:00:33.000Z",
+          "wordCount": null,
+          "title": "Machine That Unclogs Drains",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Ixn4ql6BqOs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ixn4ql6BqOs",
+          "publishedOn": "2023-12-19T19:00:07.000Z",
+          "wordCount": null,
+          "title": "Innovation on Wheels: The Story of the First Car",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=nrHHD4zFABo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nrHHD4zFABo",
+          "publishedOn": "2023-12-19T16:32:48.000Z",
+          "wordCount": null,
+          "title": "Engineering sustainability: Navigating green tech with a global manufacturing network",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=EQ66up9S78k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EQ66up9S78k",
+          "publishedOn": "2023-12-19T09:00:14.000Z",
+          "wordCount": null,
+          "title": "Metal Plate Milling Production",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=brcCUqJ5LRg",
           "author": null,
           "description": "",
@@ -1030,7 +1080,7 @@
           "link": "https://www.youtube.com/watch?v=KGLTISc8KrE",
           "publishedOn": "2023-12-18T19:00:06.000Z",
           "wordCount": null,
-          "title": "F-15 EX \"Super Eagle\" is More than Russia and China Can Handle",
+          "title": "F-15EX \"Super Eagle\" is More than Russia and China Can Handle",
           "imageUrl": null
         },
         {
@@ -1111,46 +1161,6 @@
           "publishedOn": "2023-12-16T19:00:04.000Z",
           "wordCount": null,
           "title": "Seeing Afghani Historical Sites in Their Former Glory with XR",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VV4xJ5eSwxU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VV4xJ5eSwxU",
-          "publishedOn": "2023-12-16T08:51:46.000Z",
-          "wordCount": null,
-          "title": "Etching Hot Rods with Lasers!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=T_cnrnivVpg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=T_cnrnivVpg",
-          "publishedOn": "2023-12-15T21:00:14.000Z",
-          "wordCount": null,
-          "title": "Awesome Ship Side Launch Footage",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fuY5bfrq1Q0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fuY5bfrq1Q0",
-          "publishedOn": "2023-12-15T09:00:34.000Z",
-          "wordCount": null,
-          "title": "Giant Tree Trunk Debarker",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nEefKowSEjo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nEefKowSEjo",
-          "publishedOn": "2023-12-14T21:00:20.000Z",
-          "wordCount": null,
-          "title": "Train Changes Gauge Mid-Ride",
           "imageUrl": null
         }
       ]
@@ -1237,6 +1247,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoxcjq-8xIDTYp3uz647V5A",
       "siteUrl": "https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ASJpflLbPkU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ASJpflLbPkU",
+          "publishedOn": "2023-12-19T14:36:01.000Z",
+          "wordCount": null,
+          "title": "Infinite Circles - Numberphile",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=aVUUbNbQkbQ",
           "author": null,
@@ -1411,6 +1431,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg",
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=G-6xOsXigw8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=G-6xOsXigw8",
+          "publishedOn": "2023-12-19T21:42:15.000Z",
+          "wordCount": null,
+          "title": "An Astronaut Chokes on His First Job in Space",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=UcBc0l7IrZU",
           "author": null,
@@ -1767,6 +1797,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Q51-gLL_MRM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Q51-gLL_MRM",
+          "publishedOn": "2023-12-19T15:16:53.000Z",
+          "wordCount": null,
+          "title": "World’s Largest Earthquake Simulator",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=FUHkTs-Ipfg",
           "author": null,
           "description": "",
@@ -2115,6 +2155,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=WBJrB2p6MLU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WBJrB2p6MLU",
+          "publishedOn": "2023-12-19T15:00:18.000Z",
+          "wordCount": null,
+          "title": "MONSTER LPS5000 Automation Pallet System | DN Solutions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=aFjrd0Wxj_I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aFjrd0Wxj_I",
+          "publishedOn": "2023-12-19T12:00:00.000Z",
+          "wordCount": null,
+          "title": "CNC Machining a TINY Medical Device",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=eNf6xSFEYSY",
           "author": null,
           "description": "",
@@ -2243,26 +2303,6 @@
           "wordCount": null,
           "title": "We Crashed Our Old Machines… and Now Purchased New Ones",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1BNUnE3KxSo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1BNUnE3KxSo",
-          "publishedOn": "2023-12-09T12:00:02.000Z",
-          "wordCount": null,
-          "title": "CNC Machining a Custom Grill Center Piece for @GasMonkeyGarage  ✨",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EvzCoR52IYs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EvzCoR52IYs",
-          "publishedOn": "2023-12-08T15:00:19.000Z",
-          "wordCount": null,
-          "title": "CNC Machined Ice Press Uses Thermal Conductivity to Create the Perfect Sphere",
-          "imageUrl": null
         }
       ]
     },
@@ -2271,6 +2311,56 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=budKOjbyqfk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=budKOjbyqfk",
+          "publishedOn": "2023-12-19T22:31:18.000Z",
+          "wordCount": null,
+          "title": "Coconut trees can take more than 6 years to produce fruit. #coconut #fruit #BusinessInsider",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1-GRAe0A5XA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1-GRAe0A5XA",
+          "publishedOn": "2023-12-19T20:44:11.000Z",
+          "wordCount": null,
+          "title": "Why Matsusaka Wagyu Is The Most Expensive Beef In The World | So Expensive",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=VnFlwXg2hLU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VnFlwXg2hLU",
+          "publishedOn": "2023-12-19T19:00:12.000Z",
+          "wordCount": null,
+          "title": "Here's one solution that's saving New Orleans' shrinking coastline. 🎄 #recycling #christmastrees",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=u3419CPorAc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=u3419CPorAc",
+          "publishedOn": "2023-12-19T18:53:20.000Z",
+          "wordCount": null,
+          "title": "People invest hundreds of thousands of dollars in racing pigeons. #racingpigeon #birds #china",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=QoLxWo9VPNg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QoLxWo9VPNg",
+          "publishedOn": "2023-12-19T16:00:28.000Z",
+          "wordCount": null,
+          "title": "@ecollabo8537 recycles 60 tons of plastic in one year. #recycling #sustainability #environment",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=s1dLAJIP_Hg",
           "author": null,
@@ -2308,7 +2398,7 @@
           "link": "https://www.youtube.com/watch?v=LaJyT0Txj0I",
           "publishedOn": "2023-12-17T16:00:18.000Z",
           "wordCount": null,
-          "title": "19 Giant Industries Around The World I Big Business I Business Insider",
+          "title": "19 Fascinating Industries Around The World I Big Business I Business Insider",
           "imageUrl": null
         },
         {
@@ -2369,56 +2459,6 @@
           "publishedOn": "2023-12-14T18:00:23.000Z",
           "wordCount": null,
           "title": "Adidas is making #shoes that are completely recyclable. #recycling. #Adidas",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=A-qVRoQGdRo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=A-qVRoQGdRo",
-          "publishedOn": "2023-12-14T17:00:11.000Z",
-          "wordCount": null,
-          "title": "The world's largest #cruise ship relies on a #culinary team of over 1000 people. 🛳️ #royalcaribbean",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1WjsyQL0MMs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1WjsyQL0MMs",
-          "publishedOn": "2023-12-14T16:00:01.000Z",
-          "wordCount": null,
-          "title": "Boot Camp Season 5 Marathon | Boot Camp | Business Insider",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=V-AmbH_q5Vg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=V-AmbH_q5Vg",
-          "publishedOn": "2023-12-13T21:56:43.000Z",
-          "wordCount": null,
-          "title": "The #Philippines is the second-largest producer of coconuts in the world. #coconut #recycle",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lHgBJT1_x9A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lHgBJT1_x9A",
-          "publishedOn": "2023-12-13T21:46:48.000Z",
-          "wordCount": null,
-          "title": "Can Coconuts Replace Plastic Foam Coolers? | World Wide Waste | Business Insider",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rJ75_wJtBWE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rJ75_wJtBWE",
-          "publishedOn": "2023-12-13T21:00:24.000Z",
-          "wordCount": null,
-          "title": "African #blackwood is exclusively sourced from the #Miombo woodlands in countries like #Tanzania.",
           "imageUrl": null
         }
       ]
@@ -2626,6 +2666,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=SVepW3f_V-M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SVepW3f_V-M",
+          "publishedOn": "2023-12-19T17:00:38.000Z",
+          "wordCount": null,
+          "title": "Making a High Voltage Fuse",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=A_gPPnYtm6s",
           "author": null,
           "description": "",
@@ -2763,16 +2813,6 @@
           "publishedOn": "2023-11-02T17:45:13.000Z",
           "wordCount": null,
           "title": "Handheld Hedge Trimmer #funny #diy #electronic #gardening",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=htBO8MBbBL4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=htBO8MBbBL4",
-          "publishedOn": "2023-10-26T16:01:26.000Z",
-          "wordCount": null,
-          "title": "Learning from 3 Exciting Products",
           "imageUrl": null
         }
       ]
