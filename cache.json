@@ -106,6 +106,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=R1e7aHBKLnM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=R1e7aHBKLnM",
+          "publishedOn": "2023-12-25T19:00:15.000Z",
+          "wordCount": null,
+          "title": "How to derive a formula for π",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=tjIOqIr80ns",
           "author": null,
           "description": "",
@@ -243,16 +253,6 @@
           "publishedOn": "2023-12-09T00:00:19.000Z",
           "wordCount": null,
           "title": "Prime spirals",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=31xm81m0iYs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=31xm81m0iYs",
-          "publishedOn": "2023-12-09T00:00:02.000Z",
-          "wordCount": null,
-          "title": "The barber pole effect",
           "imageUrl": null
         }
       ]
@@ -785,16 +785,6 @@
           "wordCount": null,
           "title": "Sick 9/8 groove",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=68zOvCLwcL8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=68zOvCLwcL8",
-          "publishedOn": "2023-09-26T18:28:05.000Z",
-          "wordCount": null,
-          "title": "Is Laufey jazz?",
-          "imageUrl": null
         }
       ]
     },
@@ -833,7 +823,7 @@
           "link": "https://www.youtube.com/watch?v=nQ0UyWKafAw",
           "publishedOn": "2023-12-23T16:30:11.000Z",
           "wordCount": null,
-          "title": "DIY Recycling: 3D Printing Filament from Cutlery",
+          "title": "From Trash to Treasure: Recycle Cutlery into 3D Filament!",
           "imageUrl": null
         },
         {
@@ -903,7 +893,7 @@
           "link": "https://www.youtube.com/watch?v=WrQiUL0jAzc",
           "publishedOn": "2023-10-21T15:30:57.000Z",
           "wordCount": null,
-          "title": "Does a HEATED CHAMBER make your 3D prints STRONGER?",
+          "title": "ABS 3D Printing: Uncovered vs. Enclosed",
           "imageUrl": null
         }
       ]
@@ -1074,6 +1064,46 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=P9Jn5JahUkM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=P9Jn5JahUkM",
+          "publishedOn": "2023-12-25T21:00:13.000Z",
+          "wordCount": null,
+          "title": "NASA Captures Footage of Powerful Solar Flare",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ztDLchVIjVc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ztDLchVIjVc",
+          "publishedOn": "2023-12-25T19:00:31.000Z",
+          "wordCount": null,
+          "title": "USMC’s AH-1Z Viper Is the Most Advanced Gunship",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=CM7b6jkd-Fw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CM7b6jkd-Fw",
+          "publishedOn": "2023-12-25T19:00:08.000Z",
+          "wordCount": null,
+          "title": "USMC’s AH-1Z Viper Is the Most Advanced Gunship",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=8oE7PLXFsj4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8oE7PLXFsj4",
+          "publishedOn": "2023-12-25T09:00:05.000Z",
+          "wordCount": null,
+          "title": "NASA Telescope Illuminates ‘Christmas Tree Cluster’",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=3SO77w4R81M",
           "author": null,
           "description": "",
@@ -1181,46 +1211,6 @@
           "publishedOn": "2023-12-22T11:18:14.000Z",
           "wordCount": null,
           "title": "How Tesla is Revolutionizing the Energy Sector with Powerwall",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0Hu-L6GnSF8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0Hu-L6GnSF8",
-          "publishedOn": "2023-12-22T11:15:26.000Z",
-          "wordCount": null,
-          "title": "How Tesla is Revolutionizing the Energy Sector with Powerwall",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=O1htax56Q_8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=O1htax56Q_8",
-          "publishedOn": "2023-12-22T09:00:16.000Z",
-          "wordCount": null,
-          "title": "Friction Welding in Action",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ETDvXay72ew",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ETDvXay72ew",
-          "publishedOn": "2023-12-21T21:00:04.000Z",
-          "wordCount": null,
-          "title": "Reusable Water Containers Go Through Washing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pIzO1ckybvE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pIzO1ckybvE",
-          "publishedOn": "2023-12-21T19:00:19.000Z",
-          "wordCount": null,
-          "title": "Invention Of The Barcode REELS",
           "imageUrl": null
         }
       ]
@@ -1994,6 +1984,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=r734u7g80Zw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=r734u7g80Zw",
+          "publishedOn": "2023-12-26T00:04:32.000Z",
+          "wordCount": null,
+          "title": "Goodbye, Uranus",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UuqBFnhoqhM",
           "author": null,
           "description": "",
@@ -2132,16 +2132,6 @@
           "wordCount": null,
           "title": "How Cousins Work",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vBy0prtj2vw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vBy0prtj2vw",
-          "publishedOn": "2023-11-07T19:35:48.000Z",
-          "wordCount": null,
-          "title": "Safety Sealing a Jar of Smoke",
-          "imageUrl": null
         }
       ]
     },
@@ -2264,6 +2254,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=chOdCyc8SEM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=chOdCyc8SEM",
+          "publishedOn": "2023-12-25T12:00:26.000Z",
+          "wordCount": null,
+          "title": "Precision Snowflake - Happy Holidays! ❄️",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=_G0st2KZUx0",
           "author": null,
@@ -2402,16 +2402,6 @@
           "publishedOn": "2023-12-15T12:00:23.000Z",
           "wordCount": null,
           "title": "Learn 5 Axis Machining for FREE 🤯",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=X0s_xdYdJuM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=X0s_xdYdJuM",
-          "publishedOn": "2023-12-14T15:00:19.000Z",
-          "wordCount": null,
-          "title": "We Pushed this End Mill Until it Broke… Then Backed Off",
           "imageUrl": null
         }
       ]

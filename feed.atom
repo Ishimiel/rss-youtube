@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-25T00:32:00.723Z</id>
+    <id>urn:2023-12-26T00:30:01.954Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-25T00:32:00.723Z</updated>
+    <updated>2023-12-26T00:30:01.954Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Goodbye, Uranus]]></title>
+        <id>https://www.youtube.com/watch?v=r734u7g80Zw</id>
+        <link href="https://www.youtube.com/watch?v=r734u7g80Zw"/>
+        <updated>2023-12-26T00:04:32.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA Captures Footage of Powerful Solar Flare]]></title>
+        <id>https://www.youtube.com/watch?v=P9Jn5JahUkM</id>
+        <link href="https://www.youtube.com/watch?v=P9Jn5JahUkM"/>
+        <updated>2023-12-25T21:00:13.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USMC’s AH-1Z Viper Is the Most Advanced Gunship]]></title>
+        <id>https://www.youtube.com/watch?v=ztDLchVIjVc</id>
+        <link href="https://www.youtube.com/watch?v=ztDLchVIjVc"/>
+        <updated>2023-12-25T19:00:31.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to derive a formula for π]]></title>
+        <id>https://www.youtube.com/watch?v=R1e7aHBKLnM</id>
+        <link href="https://www.youtube.com/watch?v=R1e7aHBKLnM"/>
+        <updated>2023-12-25T19:00:15.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USMC’s AH-1Z Viper Is the Most Advanced Gunship]]></title>
+        <id>https://www.youtube.com/watch?v=CM7b6jkd-Fw</id>
+        <link href="https://www.youtube.com/watch?v=CM7b6jkd-Fw"/>
+        <updated>2023-12-25T19:00:08.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Precision Snowflake - Happy Holidays! ❄️]]></title>
+        <id>https://www.youtube.com/watch?v=chOdCyc8SEM</id>
+        <link href="https://www.youtube.com/watch?v=chOdCyc8SEM"/>
+        <updated>2023-12-25T12:00:26.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA Telescope Illuminates ‘Christmas Tree Cluster’]]></title>
+        <id>https://www.youtube.com/watch?v=8oE7PLXFsj4</id>
+        <link href="https://www.youtube.com/watch?v=8oE7PLXFsj4"/>
+        <updated>2023-12-25T09:00:05.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[45 Degree Pipe Elbow]]></title>
         <id>https://www.youtube.com/watch?v=3SO77w4R81M</id>
@@ -114,7 +177,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DIY Recycling: 3D Printing Filament from Cutlery]]></title>
+        <title type="html"><![CDATA[From Trash to Treasure: Recycle Cutlery into 3D Filament!]]></title>
         <id>https://www.youtube.com/watch?v=nQ0UyWKafAw</id>
         <link href="https://www.youtube.com/watch?v=nQ0UyWKafAw"/>
         <updated>2023-12-23T16:30:11.000Z</updated>
@@ -339,24 +402,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Tesla is Revolutionizing the Energy Sector with Powerwall]]></title>
-        <id>https://www.youtube.com/watch?v=0Hu-L6GnSF8</id>
-        <link href="https://www.youtube.com/watch?v=0Hu-L6GnSF8"/>
-        <updated>2023-12-22T11:15:26.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Friction Welding in Action]]></title>
-        <id>https://www.youtube.com/watch?v=O1htax56Q_8</id>
-        <link href="https://www.youtube.com/watch?v=O1htax56Q_8"/>
-        <updated>2023-12-22T09:00:16.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dianna Health Update from SmarterEveryDay]]></title>
         <id>https://www.youtube.com/watch?v=xbcjf-hrOAs</id>
         <link href="https://www.youtube.com/watch?v=xbcjf-hrOAs"/>
@@ -372,24 +417,6 @@
         <updated>2023-12-21T21:09:51.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reusable Water Containers Go Through Washing]]></title>
-        <id>https://www.youtube.com/watch?v=ETDvXay72ew</id>
-        <link href="https://www.youtube.com/watch?v=ETDvXay72ew"/>
-        <updated>2023-12-21T21:00:04.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Invention Of The Barcode REELS]]></title>
-        <id>https://www.youtube.com/watch?v=pIzO1ckybvE</id>
-        <link href="https://www.youtube.com/watch?v=pIzO1ckybvE"/>
-        <updated>2023-12-21T19:00:19.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -825,15 +852,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We Pushed this End Mill Until it Broke… Then Backed Off]]></title>
-        <id>https://www.youtube.com/watch?v=X0s_xdYdJuM</id>
-        <link href="https://www.youtube.com/watch?v=X0s_xdYdJuM"/>
-        <updated>2023-12-14T15:00:19.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bambu Lab A1 Review: Game-Changer or Hype?]]></title>
         <id>https://www.youtube.com/watch?v=IfQuG44kjMQ</id>
         <link href="https://www.youtube.com/watch?v=IfQuG44kjMQ"/>
@@ -1027,15 +1045,6 @@
         <id>https://www.youtube.com/watch?v=h2V3r7oBeMI</id>
         <link href="https://www.youtube.com/watch?v=h2V3r7oBeMI"/>
         <updated>2023-12-09T00:00:19.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The barber pole effect]]></title>
-        <id>https://www.youtube.com/watch?v=31xm81m0iYs</id>
-        <link href="https://www.youtube.com/watch?v=31xm81m0iYs"/>
-        <updated>2023-12-09T00:00:02.000Z</updated>
         <author>
             <name>3Blue1Brown</name>
         </author>
@@ -1824,15 +1833,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Safety Sealing a Jar of Smoke]]></title>
-        <id>https://www.youtube.com/watch?v=vBy0prtj2vw</id>
-        <link href="https://www.youtube.com/watch?v=vBy0prtj2vw"/>
-        <updated>2023-11-07T19:35:48.000Z</updated>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Introducing Spacetime Diagrams in Relativity]]></title>
         <id>https://www.youtube.com/watch?v=lGLnCJPkHrM</id>
         <link href="https://www.youtube.com/watch?v=lGLnCJPkHrM"/>
@@ -2049,7 +2049,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Does a HEATED CHAMBER make your 3D prints STRONGER?]]></title>
+        <title type="html"><![CDATA[ABS 3D Printing: Uncovered vs. Enclosed]]></title>
         <id>https://www.youtube.com/watch?v=WrQiUL0jAzc</id>
         <link href="https://www.youtube.com/watch?v=WrQiUL0jAzc"/>
         <updated>2023-10-21T15:30:57.000Z</updated>
@@ -2370,15 +2370,6 @@
         <updated>2023-09-28T12:39:19.000Z</updated>
         <author>
             <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Laufey jazz?]]></title>
-        <id>https://www.youtube.com/watch?v=68zOvCLwcL8</id>
-        <link href="https://www.youtube.com/watch?v=68zOvCLwcL8"/>
-        <updated>2023-09-26T18:28:05.000Z</updated>
-        <author>
-            <name>Adam Neely</name>
         </author>
     </entry>
 </feed>
