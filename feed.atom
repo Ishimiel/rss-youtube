@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-27T00:29:56.780Z</id>
+    <id>urn:2023-12-28T00:29:24.290Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-27T00:29:56.780Z</updated>
+    <updated>2023-12-28T00:29:24.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Engineering Recap 2023]]></title>
+        <id>https://www.youtube.com/watch?v=FxXiT4CpLi4</id>
+        <link href="https://www.youtube.com/watch?v=FxXiT4CpLi4"/>
+        <updated>2023-12-27T21:00:08.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cavendish #bananas are sterile, can't reproduce naturally, and are #propagated through #cloning.]]></title>
+        <id>https://www.youtube.com/watch?v=e5c6a_qGLaI</id>
+        <link href="https://www.youtube.com/watch?v=e5c6a_qGLaI"/>
+        <updated>2023-12-27T20:00:13.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M109 Paladin and Excalibur: U.S. Army's Surgical Sledge Hammer]]></title>
+        <id>https://www.youtube.com/watch?v=Hb1JA9sCrkQ</id>
+        <link href="https://www.youtube.com/watch?v=Hb1JA9sCrkQ"/>
+        <updated>2023-12-27T19:00:14.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a group?]]></title>
+        <id>https://www.youtube.com/watch?v=3KbiJ-z0j44</id>
+        <link href="https://www.youtube.com/watch?v=3KbiJ-z0j44"/>
+        <updated>2023-12-27T19:00:01.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Have you ever wondered how amethyst gets its color? #radiation #amethyst #crystals]]></title>
+        <id>https://www.youtube.com/watch?v=RYu6B-VqXuQ</id>
+        <link href="https://www.youtube.com/watch?v=RYu6B-VqXuQ"/>
+        <updated>2023-12-27T17:00:27.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why M109 Paladin and M982 Excalibur Are Feared by Russians]]></title>
+        <id>https://www.youtube.com/watch?v=BBVrRhIr7iQ</id>
+        <link href="https://www.youtube.com/watch?v=BBVrRhIr7iQ"/>
+        <updated>2023-12-27T15:05:39.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Diamonds to Dress our Tyrolit Grinding Wheel]]></title>
+        <id>https://www.youtube.com/watch?v=9hSfGhZKnok</id>
+        <link href="https://www.youtube.com/watch?v=9hSfGhZKnok"/>
+        <updated>2023-12-27T12:00:08.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meatball Made From Mammoth DNA]]></title>
+        <id>https://www.youtube.com/watch?v=uOKXkKIOyrg</id>
+        <link href="https://www.youtube.com/watch?v=uOKXkKIOyrg"/>
+        <updated>2023-12-27T09:00:40.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[These are some of the most expensive products in the world. #Japan #SoExpensive #BusinessInsider]]></title>
+        <id>https://www.youtube.com/watch?v=eISS5gMLDwc</id>
+        <link href="https://www.youtube.com/watch?v=eISS5gMLDwc"/>
+        <updated>2023-12-27T00:30:15.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This is how anchovies are located with modern technology. #anchovies #seafood #BusinessInsider]]></title>
         <id>https://www.youtube.com/watch?v=47u8lGA5Gps</id>
@@ -267,24 +348,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Robot Arm Sorts By Color]]></title>
-        <id>https://www.youtube.com/watch?v=BKwOfz3jg9Y</id>
-        <link href="https://www.youtube.com/watch?v=BKwOfz3jg9Y"/>
-        <updated>2023-12-23T21:00:04.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s Hidden in the Seed Vault in Svalbard?]]></title>
-        <id>https://www.youtube.com/watch?v=3s9H2KP4opE</id>
-        <link href="https://www.youtube.com/watch?v=3s9H2KP4opE"/>
-        <updated>2023-12-23T19:00:02.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What The Prisoner's Dilemma Reveals About Life, The Universe, and Everything]]></title>
         <id>https://www.youtube.com/watch?v=mScpHTIi-kM</id>
         <link href="https://www.youtube.com/watch?v=mScpHTIi-kM"/>
@@ -330,15 +393,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Picking Up Dandelions Using Vacuuming Machines]]></title>
-        <id>https://www.youtube.com/watch?v=hTO-jYg8FBI</id>
-        <link href="https://www.youtube.com/watch?v=hTO-jYg8FBI"/>
-        <updated>2023-12-23T09:00:45.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Math - 2023's Biggest Breakthroughs]]></title>
         <id>https://www.youtube.com/watch?v=4HHUGnHcDQw</id>
         <link href="https://www.youtube.com/watch?v=4HHUGnHcDQw"/>
@@ -366,39 +420,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Did you know that 1.5 million #ornaments are handmade in #Germany each year? #BusinessInsider]]></title>
-        <id>https://www.youtube.com/watch?v=Or4RjAAaat8</id>
-        <link href="https://www.youtube.com/watch?v=Or4RjAAaat8"/>
-        <updated>2023-12-22T22:42:36.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Another Exhilarating Ship Side Launch]]></title>
-        <id>https://www.youtube.com/watch?v=gzaDhK8WSp8</id>
-        <link href="https://www.youtube.com/watch?v=gzaDhK8WSp8"/>
-        <updated>2023-12-22T21:00:18.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Was the Big Bang the Beginning? Reimagining Time in a Cyclic Universe]]></title>
         <id>https://www.youtube.com/watch?v=MO3w2D3uDTw</id>
         <link href="https://www.youtube.com/watch?v=MO3w2D3uDTw"/>
         <updated>2023-12-22T21:00:07.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pigini Nova #accordion is assembled by hand with expensive materials. #expensiveinstruments]]></title>
-        <id>https://www.youtube.com/watch?v=GyWW3LZrOZM</id>
-        <link href="https://www.youtube.com/watch?v=GyWW3LZrOZM"/>
-        <updated>2023-12-22T20:01:34.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -426,15 +453,6 @@
         <updated>2023-12-22T18:05:00.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How 1.5 Million Christmas Ornaments Are Made By Hand Each Year At A Factory In Germany]]></title>
-        <id>https://www.youtube.com/watch?v=hkZF-fPxOPY</id>
-        <link href="https://www.youtube.com/watch?v=hkZF-fPxOPY"/>
-        <updated>2023-12-22T18:01:38.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -762,15 +780,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Machining Extremely Complex Parts out of HARD Materials at BLUE ORIGIN]]></title>
-        <id>https://www.youtube.com/watch?v=LcoFYh6V0hg</id>
-        <link href="https://www.youtube.com/watch?v=LcoFYh6V0hg"/>
-        <updated>2023-12-16T14:00:19.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Can you even imagine 2^256?]]></title>
         <id>https://www.youtube.com/watch?v=X4jpqCu-wlA</id>
         <link href="https://www.youtube.com/watch?v=X4jpqCu-wlA"/>
@@ -1041,15 +1050,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Prime spirals]]></title>
-        <id>https://www.youtube.com/watch?v=h2V3r7oBeMI</id>
-        <link href="https://www.youtube.com/watch?v=h2V3r7oBeMI"/>
-        <updated>2023-12-09T00:00:19.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Searching For Cosmic Origins]]></title>
         <id>https://www.youtube.com/watch?v=pdOgsGBw1t8</id>
         <link href="https://www.youtube.com/watch?v=pdOgsGBw1t8"/>
@@ -1248,7 +1248,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[P vs. NP: Computer Science's Greatest Unsolved Problem]]></title>
+        <title type="html"><![CDATA[P vs. NP: The Biggest Puzzle in Computer Science]]></title>
         <id>https://www.youtube.com/watch?v=pQsdygaYcE4</id>
         <link href="https://www.youtube.com/watch?v=pQsdygaYcE4"/>
         <updated>2023-12-01T17:43:43.000Z</updated>
@@ -2049,7 +2049,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D Printing at 65°C: ABS & PCBlend Tests]]></title>
+        <title type="html"><![CDATA[Heated Chambers: Game-Changer for 3D Prints?]]></title>
         <id>https://www.youtube.com/watch?v=WrQiUL0jAzc</id>
         <link href="https://www.youtube.com/watch?v=WrQiUL0jAzc"/>
         <updated>2023-10-21T15:30:57.000Z</updated>
@@ -2352,24 +2352,6 @@
         <updated>2023-09-29T13:36:02.000Z</updated>
         <author>
             <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hands on Ursa Major's Rocket Engines! Tour, interviews and test fire!]]></title>
-        <id>https://www.youtube.com/watch?v=mE1HZAPPSrE</id>
-        <link href="https://www.youtube.com/watch?v=mE1HZAPPSrE"/>
-        <updated>2023-09-28T13:59:59.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Langlands Program - Numberphile]]></title>
-        <id>https://www.youtube.com/watch?v=4dyytPboqvE</id>
-        <link href="https://www.youtube.com/watch?v=4dyytPboqvE"/>
-        <updated>2023-09-28T12:39:19.000Z</updated>
-        <author>
-            <name>Numberphile</name>
         </author>
     </entry>
 </feed>
