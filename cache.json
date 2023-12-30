@@ -106,6 +106,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=kpG7I2MOcnI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kpG7I2MOcnI",
+          "publishedOn": "2023-12-29T19:00:32.000Z",
+          "wordCount": null,
+          "title": "The Newton art puzzle",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=3KbiJ-z0j44",
           "author": null,
           "description": "",
@@ -243,16 +253,6 @@
           "publishedOn": "2023-12-10T00:00:26.000Z",
           "wordCount": null,
           "title": "Error correction is incredible",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NQFIU5Exjuo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NQFIU5Exjuo",
-          "publishedOn": "2023-12-10T00:00:10.000Z",
-          "wordCount": null,
-          "title": "The chessboard and coins puzzle",
           "imageUrl": null
         }
       ]
@@ -395,6 +395,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Vx2DpMgplEM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Vx2DpMgplEM",
+          "publishedOn": "2023-12-29T17:50:00.000Z",
+          "wordCount": null,
+          "title": "A Machine Learning Primer: How to Build an ML Model",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=IoCK8d75R9g",
           "author": null,
@@ -600,6 +610,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=NYB1s-goaNc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NYB1s-goaNc",
+          "publishedOn": "2023-12-29T14:00:11.000Z",
+          "wordCount": null,
+          "title": "MY FAVORITE Bambu X1 Carbon MOD!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Xf7ScLOY1AA",
           "author": null,
           "description": "",
@@ -737,16 +757,6 @@
           "publishedOn": "2023-11-16T14:00:01.000Z",
           "wordCount": null,
           "title": "20 Color 3D Printing! Co Print at Formnext 2023!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ojiVBcL_62g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ojiVBcL_62g",
-          "publishedOn": "2023-11-15T14:00:36.000Z",
-          "wordCount": null,
-          "title": "METAL and FLEXIBLE on the SAME MACHINE? Nexa3D at Formnext 2023!",
           "imageUrl": null
         }
       ]
@@ -903,7 +913,7 @@
           "link": "https://www.youtube.com/watch?v=WrQiUL0jAzc",
           "publishedOn": "2023-10-21T15:30:57.000Z",
           "wordCount": null,
-          "title": "Does a HEATED CHAMBER make your 3D prints STRONGER?",
+          "title": "ABS 3D Printing: Uncovered vs. Enclosed",
           "imageUrl": null
         }
       ]
@@ -919,6 +929,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "siteUrl": "https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=pYRSYOPBSYA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pYRSYOPBSYA",
+          "publishedOn": "2023-12-29T02:03:46.000Z",
+          "wordCount": null,
+          "title": "Watch SpaceX launch a Falcon Heavy with the X-37B secret spaceplane! #USSF52",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=yq26nH72bOs",
           "author": null,
@@ -947,16 +967,6 @@
           "publishedOn": "2023-12-12T01:20:25.000Z",
           "wordCount": null,
           "title": "[SCRUBBED] Watch SpaceX launch a Falcon Heavy with the X-37B secretive spaceplane! #USSF52",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pYRSYOPBSYA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pYRSYOPBSYA",
-          "publishedOn": "2023-12-12T01:18:12.000Z",
-          "wordCount": null,
-          "title": "Watch SpaceX launch a Falcon Heavy with the X-37B secret spaceplane! #USSF52",
           "imageUrl": null
         },
         {
@@ -1063,6 +1073,46 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEuiOszNd6msGgqsD0f9YAQ",
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=9Sy9_6_6VB8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9Sy9_6_6VB8",
+          "publishedOn": "2023-12-29T21:00:04.000Z",
+          "wordCount": null,
+          "title": "The Biggest Aircraft to Land in Antarctica",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=JqWSYfIWJ0A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JqWSYfIWJ0A",
+          "publishedOn": "2023-12-29T18:00:10.000Z",
+          "wordCount": null,
+          "title": "How These Superyachts Are Powered By Sun’s Energy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=70JnsQuZzWU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=70JnsQuZzWU",
+          "publishedOn": "2023-12-29T18:00:05.000Z",
+          "wordCount": null,
+          "title": "How These Superyachts Are Powered By Sun’s Energy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qdaLNRJ8rNg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qdaLNRJ8rNg",
+          "publishedOn": "2023-12-29T08:58:18.000Z",
+          "wordCount": null,
+          "title": "Hurricane Hilary Seen From ISS",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=akEjlqLFxqA",
           "author": null,
@@ -1171,46 +1221,6 @@
           "publishedOn": "2023-12-26T17:03:08.000Z",
           "wordCount": null,
           "title": "Unprecedented Challenges and Triumphs: Engineering's Top News in 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tpdqKAiCuM4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tpdqKAiCuM4",
-          "publishedOn": "2023-12-26T09:00:40.000Z",
-          "wordCount": null,
-          "title": "First Transatlantic Flight with Sustainable Jet Fuel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=P9Jn5JahUkM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=P9Jn5JahUkM",
-          "publishedOn": "2023-12-25T21:00:13.000Z",
-          "wordCount": null,
-          "title": "NASA Captures Footage of Powerful Solar Flare",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ztDLchVIjVc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ztDLchVIjVc",
-          "publishedOn": "2023-12-25T19:00:31.000Z",
-          "wordCount": null,
-          "title": "USMC’s AH-1Z Viper Is the Most Advanced Gunship",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CM7b6jkd-Fw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CM7b6jkd-Fw",
-          "publishedOn": "2023-12-25T19:00:08.000Z",
-          "wordCount": null,
-          "title": "USMC’s AH-1Z Viper Is the Most Advanced Gunship",
           "imageUrl": null
         }
       ]
@@ -1590,16 +1600,6 @@
           "wordCount": null,
           "title": "The First Plane To Travel Supersonic",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tuEYQvEYR-M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tuEYQvEYR-M",
-          "publishedOn": "2023-09-30T14:00:40.000Z",
-          "wordCount": null,
-          "title": "The Incredible Potential of Superconductors",
-          "imageUrl": null
         }
       ]
     },
@@ -1965,16 +1965,6 @@
           "wordCount": null,
           "title": "The Man Who Killed Millions and Saved Billions (Clean Version)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Is2Lip1cJUc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Is2Lip1cJUc",
-          "publishedOn": "2023-09-30T16:39:15.000Z",
-          "wordCount": null,
-          "title": "Extreme Breath-Holding",
-          "imageUrl": null
         }
       ]
     },
@@ -2255,6 +2245,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nZYqGFnwBYM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nZYqGFnwBYM",
+          "publishedOn": "2023-12-29T12:00:46.000Z",
+          "wordCount": null,
+          "title": "BEST Way to Clean Out Your CNC Machine?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=sQiKWNT76MM",
           "author": null,
           "description": "",
@@ -2393,16 +2393,6 @@
           "wordCount": null,
           "title": "MONSTER LPS5000 Automation Pallet System | DN Solutions",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aFjrd0Wxj_I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aFjrd0Wxj_I",
-          "publishedOn": "2023-12-19T12:00:00.000Z",
-          "wordCount": null,
-          "title": "CNC Machining a TINY Medical Device",
-          "imageUrl": null
         }
       ]
     },
@@ -2411,6 +2401,76 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=bCo4zinzX7M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bCo4zinzX7M",
+          "publishedOn": "2023-12-29T20:00:32.000Z",
+          "wordCount": null,
+          "title": "Did you know that The Beatles helped make Zildjian a household name?  #cymbals #music #instruments",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6EAD-Le_3Hk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6EAD-Le_3Hk",
+          "publishedOn": "2023-12-29T19:08:21.000Z",
+          "wordCount": null,
+          "title": "University of Michigan's food services aims to make $1,000,000 per football game. #collegefootball",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Np8E28v79Ds",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Np8E28v79Ds",
+          "publishedOn": "2023-12-29T18:59:57.000Z",
+          "wordCount": null,
+          "title": "What do a 400-year-old recipe for edible #artwork and a #dinosauregg shaped #salt have in common?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=dro3wVNQmE4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dro3wVNQmE4",
+          "publishedOn": "2023-12-29T18:21:56.000Z",
+          "wordCount": null,
+          "title": "18 Fascinating Crafts Fighting To Survive | Still Standing | Business Insider",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=KhKg1rFnr88",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KhKg1rFnr88",
+          "publishedOn": "2023-12-29T18:09:05.000Z",
+          "wordCount": null,
+          "title": "This process has been honed for over 350 years to create #candles that #burn evenly. #France",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zO-aDkTvX3M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zO-aDkTvX3M",
+          "publishedOn": "2023-12-29T17:00:50.000Z",
+          "wordCount": null,
+          "title": "Styrofoam boxes break down into #microplastics, which are harmful to fish and humans alike.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0B2Ln3kg1Jc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0B2Ln3kg1Jc",
+          "publishedOn": "2023-12-29T16:00:19.000Z",
+          "wordCount": null,
+          "title": "Watch the world's most popular #bananas being harvested in #ASMR. #fruit",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=HukAubP-r6A",
           "author": null,
@@ -2489,76 +2549,6 @@
           "publishedOn": "2023-12-26T23:30:01.000Z",
           "wordCount": null,
           "title": "This is how anchovies are located with modern technology. #anchovies #seafood #BusinessInsider",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bRu3t2l7Frs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bRu3t2l7Frs",
-          "publishedOn": "2023-12-26T22:37:48.000Z",
-          "wordCount": null,
-          "title": "These American food chains died and came back.  #subway #foodchain #BusinessInsider",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TGAIbffn4_0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TGAIbffn4_0",
-          "publishedOn": "2023-12-26T22:00:17.000Z",
-          "wordCount": null,
-          "title": "Huitlacoche is an edible fungus that forms on undeveloped #corn ears. 🌽 #mexicantruffle #asmr",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TcLccpbKpPI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TcLccpbKpPI",
-          "publishedOn": "2023-12-26T21:00:11.000Z",
-          "wordCount": null,
-          "title": "The menu at the US #NavalAcademy are carefully crafted to fuel the needs of midshipmen. #cooking",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VASse0QaMi8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VASse0QaMi8",
-          "publishedOn": "2023-12-26T20:05:36.000Z",
-          "wordCount": null,
-          "title": "Why Matausaka wagyu is so expensive. #soexpensive #food #wagyu",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Arz4OujID8c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Arz4OujID8c",
-          "publishedOn": "2023-12-26T19:31:01.000Z",
-          "wordCount": null,
-          "title": "These 12,000-piece accordions can take up to 30 hours to tune. #accordion #tuning #instruments",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=R2aqlnfBLU4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=R2aqlnfBLU4",
-          "publishedOn": "2023-12-26T18:00:09.000Z",
-          "wordCount": null,
-          "title": "#Amethyst isn't particularly rare, but the geodes found in #Uruguay are still quite #expensive.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=et0w4Jsvkv4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=et0w4Jsvkv4",
-          "publishedOn": "2023-12-26T17:08:05.000Z",
-          "wordCount": null,
-          "title": "Bayou Sauvage #recycles Christmas #trees to help rebuild New Orleans' coastline. #nature",
           "imageUrl": null
         }
       ]
@@ -2738,6 +2728,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6u6uY4VbvuNtU0BU7F9olw",
       "siteUrl": "https://www.youtube.com/channel/UC6u6uY4VbvuNtU0BU7F9olw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=rIMPFK9ZUCE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rIMPFK9ZUCE",
+          "publishedOn": "2023-12-29T16:37:34.000Z",
+          "wordCount": null,
+          "title": "I made a very normal Heron | The Boy and the Heron",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=BYjLxDlbrI4",
           "author": null,
