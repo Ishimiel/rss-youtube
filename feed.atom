@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-30T00:29:44.655Z</id>
+    <id>urn:2023-12-31T00:33:51.533Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-30T00:29:44.655Z</updated>
+    <updated>2023-12-31T00:33:51.533Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Supervised & Unsupervised Machine Learning]]></title>
+        <id>https://www.youtube.com/watch?v=wvODQqb3D_8</id>
+        <link href="https://www.youtube.com/watch?v=wvODQqb3D_8"/>
+        <updated>2023-12-30T21:15:02.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paralyzed Man Uses Thought-Controlled Brain and Spine Implants]]></title>
+        <id>https://www.youtube.com/watch?v=eADxEOfCxkI</id>
+        <link href="https://www.youtube.com/watch?v=eADxEOfCxkI"/>
+        <updated>2023-12-30T21:00:17.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why The US Doesn’t Have a High-Speed Rail Like China]]></title>
+        <id>https://www.youtube.com/watch?v=vu6xYy9Qfkw</id>
+        <link href="https://www.youtube.com/watch?v=vu6xYy9Qfkw"/>
+        <updated>2023-12-30T18:00:23.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why The US Doesn’t Have a High-Speed Rail Like China]]></title>
+        <id>https://www.youtube.com/watch?v=6rDDHZqR8JM</id>
+        <link href="https://www.youtube.com/watch?v=6rDDHZqR8JM"/>
+        <updated>2023-12-30T18:00:04.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I made a Shark but it's also a Dragon]]></title>
+        <id>https://www.youtube.com/watch?v=fSSmeBtGaQE</id>
+        <link href="https://www.youtube.com/watch?v=fSSmeBtGaQE"/>
+        <updated>2023-12-30T16:00:33.000Z</updated>
+        <author>
+            <name>North of the Border</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pioneer Puzzle]]></title>
+        <id>https://www.youtube.com/watch?v=pnt-GwDokts</id>
+        <link href="https://www.youtube.com/watch?v=pnt-GwDokts"/>
+        <updated>2023-12-30T14:28:54.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ultimate Sailboat Workshop]]></title>
+        <id>https://www.youtube.com/watch?v=T3mZ2YDrIuY</id>
+        <link href="https://www.youtube.com/watch?v=T3mZ2YDrIuY"/>
+        <updated>2023-12-30T14:23:37.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Started my shop with $20K and now I have 15 CNC Machines]]></title>
+        <id>https://www.youtube.com/watch?v=F-F0gWbUv7c</id>
+        <link href="https://www.youtube.com/watch?v=F-F0gWbUv7c"/>
+        <updated>2023-12-30T14:00:17.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manually Programming a CNC Grinder]]></title>
+        <id>https://www.youtube.com/watch?v=sxODsNTkX24</id>
+        <link href="https://www.youtube.com/watch?v=sxODsNTkX24"/>
+        <updated>2023-12-30T12:00:45.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesmerizing view from the ISS]]></title>
+        <id>https://www.youtube.com/watch?v=UXtX7MRJvkg</id>
+        <link href="https://www.youtube.com/watch?v=UXtX7MRJvkg"/>
+        <updated>2023-12-30T09:03:41.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Biggest Aircraft to Land in Antarctica]]></title>
         <id>https://www.youtube.com/watch?v=9Sy9_6_6VB8</id>
@@ -339,30 +429,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why M109 Paladin and M982 Excalibur Are Feared by Russians]]></title>
-        <id>https://www.youtube.com/watch?v=BBVrRhIr7iQ</id>
-        <link href="https://www.youtube.com/watch?v=BBVrRhIr7iQ"/>
-        <updated>2023-12-27T15:05:39.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Using Diamonds to Dress our Tyrolit Grinding Wheel]]></title>
         <id>https://www.youtube.com/watch?v=9hSfGhZKnok</id>
         <link href="https://www.youtube.com/watch?v=9hSfGhZKnok"/>
         <updated>2023-12-27T12:00:08.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meatball Made From Mammoth DNA]]></title>
-        <id>https://www.youtube.com/watch?v=uOKXkKIOyrg</id>
-        <link href="https://www.youtube.com/watch?v=uOKXkKIOyrg"/>
-        <updated>2023-12-27T09:00:40.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -381,24 +453,6 @@
         <updated>2023-12-26T23:30:01.000Z</updated>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flame Retardant on California's Oak Fire]]></title>
-        <id>https://www.youtube.com/watch?v=BIM4ae9hDHE</id>
-        <link href="https://www.youtube.com/watch?v=BIM4ae9hDHE"/>
-        <updated>2023-12-26T21:00:09.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unprecedented Challenges and Triumphs: Engineering's Top News in 2023]]></title>
-        <id>https://www.youtube.com/watch?v=DcqDcls7H5c</id>
-        <link href="https://www.youtube.com/watch?v=DcqDcls7H5c"/>
-        <updated>2023-12-26T17:03:08.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -726,15 +780,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Epic CNC Cuts Tearing Through Material 👀]]></title>
-        <id>https://www.youtube.com/watch?v=GcbDzJGZlms</id>
-        <link href="https://www.youtube.com/watch?v=GcbDzJGZlms"/>
-        <updated>2023-12-20T12:00:11.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How is KSP-2's new " For Science!" career mode? [LIVE]]]></title>
         <id>https://www.youtube.com/watch?v=yq26nH72bOs</id>
         <link href="https://www.youtube.com/watch?v=yq26nH72bOs"/>
@@ -777,15 +822,6 @@
         <updated>2023-12-19T15:16:53.000Z</updated>
         <author>
             <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MONSTER LPS5000 Automation Pallet System | DN Solutions]]></title>
-        <id>https://www.youtube.com/watch?v=WBJrB2p6MLU</id>
-        <link href="https://www.youtube.com/watch?v=WBJrB2p6MLU"/>
-        <updated>2023-12-19T15:00:18.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1797,15 +1833,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Cousins Work]]></title>
-        <id>https://www.youtube.com/watch?v=ehhDp_MI_1w</id>
-        <link href="https://www.youtube.com/watch?v=ehhDp_MI_1w"/>
-        <updated>2023-11-11T20:56:48.000Z</updated>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Watch SpaceX Launch 113 Spacecraft AND Land Back At The Launch Site!!! TRANSPORTER - 9]]></title>
         <id>https://www.youtube.com/watch?v=dcHM3IdDufg</id>
         <link href="https://www.youtube.com/watch?v=dcHM3IdDufg"/>
@@ -2094,7 +2121,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ABS 3D Printing: Uncovered vs. Enclosed]]></title>
+        <title type="html"><![CDATA[3D Printing at 65°C: ABS & PCBlend Tests]]></title>
         <id>https://www.youtube.com/watch?v=WrQiUL0jAzc</id>
         <link href="https://www.youtube.com/watch?v=WrQiUL0jAzc"/>
         <updated>2023-10-21T15:30:57.000Z</updated>
@@ -2301,15 +2328,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fastening Down Appliances on your Boat or RV]]></title>
-        <id>https://www.youtube.com/watch?v=RlUHaBqcOcc</id>
-        <link href="https://www.youtube.com/watch?v=RlUHaBqcOcc"/>
-        <updated>2023-10-07T18:02:15.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Man Who Killed Millions and Saved Billions (Clean Version)]]></title>
         <id>https://www.youtube.com/watch?v=QQkmJI63ykI</id>
         <link href="https://www.youtube.com/watch?v=QQkmJI63ykI"/>
@@ -2352,15 +2370,6 @@
         <updated>2023-10-04T14:00:02.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I made a custom Ganondorf action figure]]></title>
-        <id>https://www.youtube.com/watch?v=BYjLxDlbrI4</id>
-        <link href="https://www.youtube.com/watch?v=BYjLxDlbrI4"/>
-        <updated>2023-10-01T15:24:36.000Z</updated>
-        <author>
-            <name>Studson Studio</name>
         </author>
     </entry>
 </feed>
