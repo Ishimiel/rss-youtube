@@ -261,7 +261,18 @@
       "title": "Mathemaniac",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrlZs71h3mTR45FgQNINfrg",
       "siteUrl": "https://www.youtube.com/channel/UCrlZs71h3mTR45FgQNINfrg",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=9CBS5CAynBE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9CBS5CAynBE",
+          "publishedOn": "2023-12-31T21:31:36.000Z",
+          "wordCount": null,
+          "title": "Can we exponentiate vectors? d/dx? Vector fields? What is exp?",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Kurzgesagt – In a Nutshell",
@@ -923,7 +934,7 @@
           "link": "https://www.youtube.com/watch?v=WrQiUL0jAzc",
           "publishedOn": "2023-10-21T15:30:57.000Z",
           "wordCount": null,
-          "title": "3D Printing at 65°C: ABS & PCBlend Tests",
+          "title": "Heated Chambers: Game-Changer for 3D Prints?",
           "imageUrl": null
         }
       ]
@@ -932,7 +943,18 @@
       "title": "Domain of Science",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxqAWLTk1CmBvZFPzeZMd9A",
       "siteUrl": "https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ONVpFtiD-fo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ONVpFtiD-fo",
+          "publishedOn": "2023-12-31T10:42:02.000Z",
+          "wordCount": null,
+          "title": "The Surprising Map of Plants",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Everyday Astronaut",
@@ -1084,6 +1106,46 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=2qjw7evg41M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2qjw7evg41M",
+          "publishedOn": "2023-12-31T21:00:02.000Z",
+          "wordCount": null,
+          "title": "3 Sheep Stuck in Snow Saved with Airlifting Operation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qyJ9Igdrw3g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qyJ9Igdrw3g",
+          "publishedOn": "2023-12-31T18:00:25.000Z",
+          "wordCount": null,
+          "title": "How Concorde’s Revolutionary Engineering Designed the Future of Aviation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=n4rHTB1BCUo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=n4rHTB1BCUo",
+          "publishedOn": "2023-12-31T18:00:21.000Z",
+          "wordCount": null,
+          "title": "How Concorde’s Revolutionary Engineering Designed the Future of Aviation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=iJUM_BSgLWs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iJUM_BSgLWs",
+          "publishedOn": "2023-12-31T09:00:34.000Z",
+          "wordCount": null,
+          "title": "Snow Blower Clears Trees",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=eADxEOfCxkI",
           "author": null,
           "description": "",
@@ -1191,46 +1253,6 @@
           "publishedOn": "2023-12-28T18:00:06.000Z",
           "wordCount": null,
           "title": "How The Largest Earthquake Simulator Works",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=C4H536NPIMk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=C4H536NPIMk",
-          "publishedOn": "2023-12-28T15:44:25.000Z",
-          "wordCount": null,
-          "title": "NASA to Intercept an Asteroid Coming Towards Earth",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gSqpdCvKkSI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gSqpdCvKkSI",
-          "publishedOn": "2023-12-28T09:00:29.000Z",
-          "wordCount": null,
-          "title": "Comes Up with a Creative Earbud Design",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FxXiT4CpLi4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FxXiT4CpLi4",
-          "publishedOn": "2023-12-27T21:00:08.000Z",
-          "wordCount": null,
-          "title": "Engineering Recap 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Hb1JA9sCrkQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Hb1JA9sCrkQ",
-          "publishedOn": "2023-12-27T19:00:14.000Z",
-          "wordCount": null,
-          "title": "M109 Paladin and Excalibur: U.S. Army's Surgical Sledge Hammer",
           "imageUrl": null
         }
       ]
@@ -2255,6 +2277,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=d3SY14JYXJA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=d3SY14JYXJA",
+          "publishedOn": "2023-12-31T12:00:28.000Z",
+          "wordCount": null,
+          "title": "B Axis Machining a Brass Nozzle - Swiss Machining",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=F-F0gWbUv7c",
           "author": null,
           "description": "",
@@ -2392,16 +2424,6 @@
           "publishedOn": "2023-12-21T15:00:39.000Z",
           "wordCount": null,
           "title": "Incredible Swiss Machining Angled Hole Technique!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DPdUyyqmI3g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DPdUyyqmI3g",
-          "publishedOn": "2023-12-21T12:00:09.000Z",
-          "wordCount": null,
-          "title": "Putting Our New Mitutoyo Height Gauge to Work",
           "imageUrl": null
         }
       ]
