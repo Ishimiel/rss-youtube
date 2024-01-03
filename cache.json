@@ -12,7 +12,7 @@
           "link": "https://www.youtube.com/watch?v=4HHUGnHcDQw",
           "publishedOn": "2023-12-23T01:41:41.000Z",
           "wordCount": null,
-          "title": "Math - 2023's Biggest Breakthroughs",
+          "title": "Math: 2023's Biggest Breakthroughs",
           "imageUrl": null
         },
         {
@@ -22,7 +22,7 @@
           "link": "https://www.youtube.com/watch?v=580V0wRl1Lo",
           "publishedOn": "2023-12-21T21:09:51.000Z",
           "wordCount": null,
-          "title": "Physics - 2023's Biggest Breakthroughs",
+          "title": "Physics: 2023's Biggest Breakthroughs",
           "imageUrl": null
         },
         {
@@ -32,7 +32,7 @@
           "link": "https://www.youtube.com/watch?v=g7ih6rHdw3M",
           "publishedOn": "2023-12-20T19:07:38.000Z",
           "wordCount": null,
-          "title": "Computer Science - 2023's Biggest Breakthroughs",
+          "title": "Computer Science: 2023's Biggest Breakthroughs",
           "imageUrl": null
         },
         {
@@ -42,7 +42,7 @@
           "link": "https://www.youtube.com/watch?v=qt6BO-DV0pY",
           "publishedOn": "2023-12-19T19:07:52.000Z",
           "wordCount": null,
-          "title": "Biology and Neuroscience - 2023's Biggest Breakthroughs",
+          "title": "Biology and Neuroscience: 2023's Biggest Breakthroughs",
           "imageUrl": null
         },
         {
@@ -62,7 +62,7 @@
           "link": "https://www.youtube.com/watch?v=YOKPo-I6cgs",
           "publishedOn": "2023-10-24T17:57:34.000Z",
           "wordCount": null,
-          "title": "How AI Learns to See",
+          "title": "Why Computer Vision Is a Hard Problem for AI",
           "imageUrl": null
         },
         {
@@ -267,9 +267,9 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=9CBS5CAynBE",
-          "publishedOn": "2023-12-31T21:31:36.000Z",
+          "publishedOn": "2024-01-02T15:00:09.000Z",
           "wordCount": null,
-          "title": "Can we exponentiate vectors? d/dx? Vector fields? What is exp?",
+          "title": "Can we exponentiate vectors? d/dx? Vector fields? What is exp? | Lie groups, algebras, brackets #4",
           "imageUrl": null
         }
       ]
@@ -387,16 +387,6 @@
           "publishedOn": "2023-10-10T14:00:02.000Z",
           "wordCount": null,
           "title": "Ancient Life as Old as the Universe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LBudghsdByQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LBudghsdByQ",
-          "publishedOn": "2023-10-04T14:00:02.000Z",
-          "wordCount": null,
-          "title": "Why Korea is Dying Out",
           "imageUrl": null
         }
       ]
@@ -934,7 +924,7 @@
           "link": "https://www.youtube.com/watch?v=WrQiUL0jAzc",
           "publishedOn": "2023-10-21T15:30:57.000Z",
           "wordCount": null,
-          "title": "Does a HEATED CHAMBER make your 3D prints STRONGER?",
+          "title": "ABS 3D Printing: Uncovered vs. Enclosed",
           "imageUrl": null
         }
       ]
@@ -1116,6 +1106,56 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=767u-hb_uww",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=767u-hb_uww",
+          "publishedOn": "2024-01-02T21:00:05.000Z",
+          "wordCount": null,
+          "title": "Airlift Rescue Operation After a Car Crash",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ZSxCJafLPls",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZSxCJafLPls",
+          "publishedOn": "2024-01-02T18:00:25.000Z",
+          "wordCount": null,
+          "title": "Understanding Black Holes with Nobel-Winning Astrophysicist Reinhard Genzel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=rrKoLl_-eto",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rrKoLl_-eto",
+          "publishedOn": "2024-01-02T18:00:19.000Z",
+          "wordCount": null,
+          "title": "Understanding Black Holes with Nobel-Winning Astrophysicist Reinhard Genzel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wClJes4WoFk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wClJes4WoFk",
+          "publishedOn": "2024-01-02T12:07:19.000Z",
+          "wordCount": null,
+          "title": "A Japan Airlines Aircraft Catches Fire at Tokyo's Haneda Airport",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zlLUiCzSaOI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zlLUiCzSaOI",
+          "publishedOn": "2024-01-02T09:00:38.000Z",
+          "wordCount": null,
+          "title": "Inter-City Flying Car Test Flight in Slovakia",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8NYHoMXw1Yg",
           "author": null,
           "description": "",
@@ -1213,56 +1253,6 @@
           "publishedOn": "2023-12-30T18:00:23.000Z",
           "wordCount": null,
           "title": "Why The US Doesn’t Have a High-Speed Rail Like China",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6rDDHZqR8JM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6rDDHZqR8JM",
-          "publishedOn": "2023-12-30T18:00:04.000Z",
-          "wordCount": null,
-          "title": "Why The US Doesn’t Have a High-Speed Rail Like China",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UXtX7MRJvkg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UXtX7MRJvkg",
-          "publishedOn": "2023-12-30T09:03:41.000Z",
-          "wordCount": null,
-          "title": "Mesmerizing view from the ISS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9Sy9_6_6VB8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9Sy9_6_6VB8",
-          "publishedOn": "2023-12-29T21:00:04.000Z",
-          "wordCount": null,
-          "title": "The Biggest Aircraft to Land in Antarctica",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JqWSYfIWJ0A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JqWSYfIWJ0A",
-          "publishedOn": "2023-12-29T18:00:10.000Z",
-          "wordCount": null,
-          "title": "How These Superyachts Are Powered By Sun’s Energy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=70JnsQuZzWU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=70JnsQuZzWU",
-          "publishedOn": "2023-12-29T18:00:05.000Z",
-          "wordCount": null,
-          "title": "How These Superyachts Are Powered By Sun’s Energy",
           "imageUrl": null
         }
       ]
@@ -1380,6 +1370,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=i33kD28TeG0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=i33kD28TeG0",
+          "publishedOn": "2024-01-02T17:10:35.000Z",
+          "wordCount": null,
+          "title": "Signing Primes",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ASJpflLbPkU",
           "author": null,
           "description": "",
@@ -1467,16 +1467,6 @@
           "publishedOn": "2023-10-17T12:45:26.000Z",
           "wordCount": null,
           "title": "Faulhaber's Fabulous Formula (and Bernoulli Numbers) - Numberphile",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zF814SmPY5A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zF814SmPY5A",
-          "publishedOn": "2023-10-05T12:15:26.000Z",
-          "wordCount": null,
-          "title": "Pi is Evil - Numberphile",
           "imageUrl": null
         }
       ]
@@ -1955,7 +1945,7 @@
           "link": "https://www.youtube.com/watch?v=Q51-gLL_MRM",
           "publishedOn": "2023-12-19T15:16:53.000Z",
           "wordCount": null,
-          "title": "World’s Largest Earthquake Simulator",
+          "title": "Inside Japan’s Earthquake Simulator",
           "imageUrl": null
         },
         {
@@ -2193,6 +2183,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCUW49KGPezggFi0PGyDvcvg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=uIyVBHv8u4k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uIyVBHv8u4k",
+          "publishedOn": "2024-01-02T20:46:00.000Z",
+          "wordCount": null,
+          "title": "10 Free Prints to Make Your Friends Suffer!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7WAhquGQq3o",
           "author": null,
           "description": "",
@@ -2306,6 +2306,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=uJPoN6VBCwI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uJPoN6VBCwI",
+          "publishedOn": "2024-01-02T15:45:03.000Z",
+          "wordCount": null,
+          "title": "Incredible Process of CNC Machining a Rocket Engine Turbopump",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=LG03AXA1AP0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LG03AXA1AP0",
+          "publishedOn": "2024-01-02T12:00:14.000Z",
+          "wordCount": null,
+          "title": "Achieving Great Surface Finishes with Low Powered CNC Machines",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=nnva80dYZFE",
           "author": null,
@@ -2435,26 +2455,6 @@
           "wordCount": null,
           "title": "Marzilli Machine Overcame Incredible Odds to Thrive in CNC Machining",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5xl4-_Y7jPc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5xl4-_Y7jPc",
-          "publishedOn": "2023-12-23T12:00:09.000Z",
-          "wordCount": null,
-          "title": "HORN Tooling Unboxing - Christmas Came Early 🎅🏻",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JFYv12mPHDc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JFYv12mPHDc",
-          "publishedOn": "2023-12-22T12:00:15.000Z",
-          "wordCount": null,
-          "title": "Testing the Aeroex MistFit Systems",
-          "imageUrl": null
         }
       ]
     },
@@ -2463,6 +2463,46 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=mPRBeZWHyyg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mPRBeZWHyyg",
+          "publishedOn": "2024-01-02T20:39:32.000Z",
+          "wordCount": null,
+          "title": "Zildjian #cymbals are the go-to standard for many drummers. :notes: #instruments #artistry",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=oF5no7UOnoQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oF5no7UOnoQ",
+          "publishedOn": "2024-01-02T19:00:33.000Z",
+          "wordCount": null,
+          "title": "#Açaí has a global market that is expected to reach nearly $2.5 billion by the end of 2025. #fruits",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=aFGORr2b6RQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aFGORr2b6RQ",
+          "publishedOn": "2024-01-02T18:00:00.000Z",
+          "wordCount": null,
+          "title": "99% of #bananas exported to developed countries are the same type, and they could go #extinct.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=cDsmtilYsRY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cDsmtilYsRY",
+          "publishedOn": "2024-01-02T17:12:49.000Z",
+          "wordCount": null,
+          "title": "This insulation alternative makes coconuts even more useful. #coconuts #insulation #coolers",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=bCo4zinzX7M",
           "author": null,
@@ -2571,46 +2611,6 @@
           "publishedOn": "2023-12-28T14:48:23.000Z",
           "wordCount": null,
           "title": "This is how one scientist turns jute into a biodegradable plastic. #environment #pollution #plastic",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=e5c6a_qGLaI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=e5c6a_qGLaI",
-          "publishedOn": "2023-12-27T20:00:13.000Z",
-          "wordCount": null,
-          "title": "Cavendish #bananas are sterile, can't reproduce naturally, and are #propagated through #cloning.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RYu6B-VqXuQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RYu6B-VqXuQ",
-          "publishedOn": "2023-12-27T17:00:27.000Z",
-          "wordCount": null,
-          "title": "Have you ever wondered how amethyst gets its color? #radiation #amethyst #crystals",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eISS5gMLDwc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eISS5gMLDwc",
-          "publishedOn": "2023-12-27T00:30:15.000Z",
-          "wordCount": null,
-          "title": "These are some of the most expensive products in the world. #Japan #SoExpensive #BusinessInsider",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=47u8lGA5Gps",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=47u8lGA5Gps",
-          "publishedOn": "2023-12-26T23:30:01.000Z",
-          "wordCount": null,
-          "title": "This is how anchovies are located with modern technology. #anchovies #seafood #BusinessInsider",
           "imageUrl": null
         }
       ]
