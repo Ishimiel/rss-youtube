@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-03T00:30:51.869Z</id>
+    <id>urn:2024-01-04T00:31:32.992Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-03T00:30:51.869Z</updated>
+    <updated>2024-01-04T00:31:32.992Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Παίζω Dark Souls 2 άρρωστος]]></title>
+        <id>https://www.youtube.com/watch?v=aDruQ_CQvvs</id>
+        <link href="https://www.youtube.com/watch?v=aDruQ_CQvvs"/>
+        <updated>2024-01-03T21:46:38.000Z</updated>
+        <author>
+            <name>NinjaCakeAssassin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stressful Self-Driving Car Test]]></title>
+        <id>https://www.youtube.com/watch?v=xW-X4yNSWAU</id>
+        <link href="https://www.youtube.com/watch?v=xW-X4yNSWAU"/>
+        <updated>2024-01-03T21:00:34.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The market for #acai is set to reach $2.1 billion dollars by the end of 2025. #fruit #agriculture]]></title>
+        <id>https://www.youtube.com/watch?v=uqFyt7rWXa4</id>
+        <link href="https://www.youtube.com/watch?v=uqFyt7rWXa4"/>
+        <updated>2024-01-03T20:00:31.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here’s how a researcher is trying to create a resistant #cavendish #banana. #extinction]]></title>
+        <id>https://www.youtube.com/watch?v=QzpnwRMcfl0</id>
+        <link href="https://www.youtube.com/watch?v=QzpnwRMcfl0"/>
+        <updated>2024-01-03T20:00:08.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Twin Towers became a U.S. Navy Warship]]></title>
+        <id>https://www.youtube.com/watch?v=CepHcCa-C0w</id>
+        <link href="https://www.youtube.com/watch?v=CepHcCa-C0w"/>
+        <updated>2024-01-03T19:00:05.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discover the U.S. Navy Warship Infused with Twin Towers Steel]]></title>
+        <id>https://www.youtube.com/watch?v=H2IaxTqju6Q</id>
+        <link href="https://www.youtube.com/watch?v=H2IaxTqju6Q"/>
+        <updated>2024-01-03T18:00:09.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fully Lights Out Tool Room Automation 🤯]]></title>
+        <id>https://www.youtube.com/watch?v=6lX--c1gamg</id>
+        <link href="https://www.youtube.com/watch?v=6lX--c1gamg"/>
+        <updated>2024-01-03T12:00:08.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mysterious Sound Coming from Space]]></title>
+        <id>https://www.youtube.com/watch?v=J9wnUDfv0No</id>
+        <link href="https://www.youtube.com/watch?v=J9wnUDfv0No"/>
+        <updated>2024-01-03T09:00:11.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rescue Efforts in Japan Continue After a Series of Earthquakes]]></title>
+        <id>https://www.youtube.com/watch?v=I-s0e08Q1Ak</id>
+        <link href="https://www.youtube.com/watch?v=I-s0e08Q1Ak"/>
+        <updated>2024-01-03T08:04:07.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A beautiful international math olympiad problem]]></title>
+        <id>https://www.youtube.com/watch?v=teYL0Er4c3g</id>
+        <link href="https://www.youtube.com/watch?v=teYL0Er4c3g"/>
+        <updated>2024-01-03T07:00:30.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Airlift Rescue Operation After a Car Crash]]></title>
         <id>https://www.youtube.com/watch?v=767u-hb_uww</id>
@@ -213,7 +303,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Even nerds can dunk with these]]></title>
+        <title type="html"><![CDATA[I made these to do a ridiculously high dunk]]></title>
         <id>https://www.youtube.com/watch?v=9SRFbFreCkE</id>
         <link href="https://www.youtube.com/watch?v=9SRFbFreCkE"/>
         <updated>2024-01-01T03:48:11.000Z</updated>
@@ -226,24 +316,6 @@
         <id>https://www.youtube.com/watch?v=2qjw7evg41M</id>
         <link href="https://www.youtube.com/watch?v=2qjw7evg41M"/>
         <updated>2023-12-31T21:00:02.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Concorde’s Revolutionary Engineering Designed the Future of Aviation]]></title>
-        <id>https://www.youtube.com/watch?v=qyJ9Igdrw3g</id>
-        <link href="https://www.youtube.com/watch?v=qyJ9Igdrw3g"/>
-        <updated>2023-12-31T18:00:25.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Concorde’s Revolutionary Engineering Designed the Future of Aviation]]></title>
-        <id>https://www.youtube.com/watch?v=n4rHTB1BCUo</id>
-        <link href="https://www.youtube.com/watch?v=n4rHTB1BCUo"/>
-        <updated>2023-12-31T18:00:21.000Z</updated>
         <author>
             <name>Interesting Engineering</name>
         </author>
@@ -267,39 +339,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Snow Blower Clears Trees]]></title>
-        <id>https://www.youtube.com/watch?v=iJUM_BSgLWs</id>
-        <link href="https://www.youtube.com/watch?v=iJUM_BSgLWs"/>
-        <updated>2023-12-31T09:00:34.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Supervised & Unsupervised Machine Learning]]></title>
         <id>https://www.youtube.com/watch?v=wvODQqb3D_8</id>
         <link href="https://www.youtube.com/watch?v=wvODQqb3D_8"/>
         <updated>2023-12-30T21:15:02.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paralyzed Man Uses Thought-Controlled Brain and Spine Implants]]></title>
-        <id>https://www.youtube.com/watch?v=eADxEOfCxkI</id>
-        <link href="https://www.youtube.com/watch?v=eADxEOfCxkI"/>
-        <updated>2023-12-30T21:00:17.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why The US Doesn’t Have a High-Speed Rail Like China]]></title>
-        <id>https://www.youtube.com/watch?v=vu6xYy9Qfkw</id>
-        <link href="https://www.youtube.com/watch?v=vu6xYy9Qfkw"/>
-        <updated>2023-12-30T18:00:23.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -483,15 +528,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The shape and texture of cymbals help create their sound. #cymbals #percussion  #instruments]]></title>
-        <id>https://www.youtube.com/watch?v=AyPGz82Oj6Y</id>
-        <link href="https://www.youtube.com/watch?v=AyPGz82Oj6Y"/>
-        <updated>2023-12-28T19:00:04.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sights and Sounds of Gulfport Florida]]></title>
         <id>https://www.youtube.com/watch?v=4Kb4DgsVkqA</id>
         <link href="https://www.youtube.com/watch?v=4Kb4DgsVkqA"/>
@@ -525,15 +561,6 @@
         <updated>2023-12-28T15:00:39.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is how one scientist turns jute into a biodegradable plastic. #environment #pollution #plastic]]></title>
-        <id>https://www.youtube.com/watch?v=5jtIAIsNUuc</id>
-        <link href="https://www.youtube.com/watch?v=5jtIAIsNUuc"/>
-        <updated>2023-12-28T14:48:23.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -660,15 +687,6 @@
         <updated>2023-12-23T16:30:11.000Z</updated>
         <author>
             <name>CNC Kitchen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marzilli Machine Overcame Incredible Odds to Thrive in CNC Machining]]></title>
-        <id>https://www.youtube.com/watch?v=h0wRNFHXXsc</id>
-        <link href="https://www.youtube.com/watch?v=h0wRNFHXXsc"/>
-        <updated>2023-12-23T14:00:35.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1189,15 +1207,6 @@
         <id>https://www.youtube.com/watch?v=VS9yOhwtVDY</id>
         <link href="https://www.youtube.com/watch?v=VS9yOhwtVDY"/>
         <updated>2023-12-11T00:00:18.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The split necklace puzzle (with a surprise topological solution)]]></title>
-        <id>https://www.youtube.com/watch?v=Cm-zmm0nANo</id>
-        <link href="https://www.youtube.com/watch?v=Cm-zmm0nANo"/>
-        <updated>2023-12-11T00:00:07.000Z</updated>
         <author>
             <name>3Blue1Brown</name>
         </author>
@@ -2184,7 +2193,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ABS 3D Printing: Uncovered vs. Enclosed]]></title>
+        <title type="html"><![CDATA[3D Printing at 65°C: ABS & PCBlend Tests]]></title>
         <id>https://www.youtube.com/watch?v=WrQiUL0jAzc</id>
         <link href="https://www.youtube.com/watch?v=WrQiUL0jAzc"/>
         <updated>2023-10-21T15:30:57.000Z</updated>
