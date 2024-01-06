@@ -1,10 +1,118 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-05T00:31:42.625Z</id>
+    <id>urn:2024-01-06T00:30:53.830Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-05T00:31:42.625Z</updated>
+    <updated>2024-01-06T00:30:53.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why do we call them "scalars"?]]></title>
+        <id>https://www.youtube.com/watch?v=vItzPPpNXEs</id>
+        <link href="https://www.youtube.com/watch?v=vItzPPpNXEs"/>
+        <updated>2024-01-06T00:00:33.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unifying Nature’s Laws: The State of String Theory]]></title>
+        <id>https://www.youtube.com/watch?v=UjDxk9ZnYJQ</id>
+        <link href="https://www.youtube.com/watch?v=UjDxk9ZnYJQ"/>
+        <updated>2024-01-05T21:00:07.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robot Arms Assemble IKEA Chair]]></title>
+        <id>https://www.youtube.com/watch?v=AMFDVLThwgg</id>
+        <link href="https://www.youtube.com/watch?v=AMFDVLThwgg"/>
+        <updated>2024-01-05T21:00:05.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch ULA launch their Vulcan rocket for the first time ever! #Vulcan]]></title>
+        <id>https://www.youtube.com/watch?v=Rfod_OL06DY</id>
+        <link href="https://www.youtube.com/watch?v=Rfod_OL06DY"/>
+        <updated>2024-01-05T18:27:03.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Does A Set of Commercial Airplane Landing Gear Cost Up To $7 Million?]]></title>
+        <id>https://www.youtube.com/watch?v=jTnafdmiK1g</id>
+        <link href="https://www.youtube.com/watch?v=jTnafdmiK1g"/>
+        <updated>2024-01-05T18:00:32.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Small family açaí farms in Brazil are being run out by big plantations. #acai #brazil #farming]]></title>
+        <id>https://www.youtube.com/watch?v=UUtBK1Waa4c</id>
+        <link href="https://www.youtube.com/watch?v=UUtBK1Waa4c"/>
+        <updated>2024-01-05T18:00:15.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Does A Set of Commercial Airplane Landing Gear Cost Up To $7 Million?]]></title>
+        <id>https://www.youtube.com/watch?v=H4JyocLee0Y</id>
+        <link href="https://www.youtube.com/watch?v=H4JyocLee0Y"/>
+        <updated>2024-01-05T18:00:12.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulcan Centaur is a Rocket That Will Challenge SpaceX]]></title>
+        <id>https://www.youtube.com/watch?v=41oc9dIw2U8</id>
+        <link href="https://www.youtube.com/watch?v=41oc9dIw2U8"/>
+        <updated>2024-01-05T14:24:47.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printing for HOMELAB? 45Drives HL15 + Craft Computing!]]></title>
+        <id>https://www.youtube.com/watch?v=bp3rhKcO8Lk</id>
+        <link href="https://www.youtube.com/watch?v=bp3rhKcO8Lk"/>
+        <updated>2024-01-05T14:00:22.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced Wire EDM Tracks Sparks in Real Time ⚡️]]></title>
+        <id>https://www.youtube.com/watch?v=1eHtzjCV8pc</id>
+        <link href="https://www.youtube.com/watch?v=1eHtzjCV8pc"/>
+        <updated>2024-01-05T12:00:02.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Neural Network Primer]]></title>
+        <id>https://www.youtube.com/watch?v=_56bfCu02ZE</id>
+        <link href="https://www.youtube.com/watch?v=_56bfCu02ZE"/>
+        <updated>2024-01-05T11:00:34.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazing Hexapod Robot Inspired by Armadillos]]></title>
+        <id>https://www.youtube.com/watch?v=iri98c2FtKY</id>
+        <link href="https://www.youtube.com/watch?v=iri98c2FtKY"/>
+        <updated>2024-01-05T09:00:35.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Many #luxury candles use natural waxes instead of petroleum-based paraffin wax. #candle #france]]></title>
         <id>https://www.youtube.com/watch?v=CWwhkjeoGk0</id>
@@ -231,15 +339,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Airlift Rescue Operation After a Car Crash]]></title>
-        <id>https://www.youtube.com/watch?v=767u-hb_uww</id>
-        <link href="https://www.youtube.com/watch?v=767u-hb_uww"/>
-        <updated>2024-01-02T21:00:05.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[10 Free Prints to Make Your Friends Suffer!]]></title>
         <id>https://www.youtube.com/watch?v=uIyVBHv8u4k</id>
         <link href="https://www.youtube.com/watch?v=uIyVBHv8u4k"/>
@@ -264,24 +363,6 @@
         <updated>2024-01-02T19:00:33.000Z</updated>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Black Holes with Nobel-Winning Astrophysicist Reinhard Genzel]]></title>
-        <id>https://www.youtube.com/watch?v=ZSxCJafLPls</id>
-        <link href="https://www.youtube.com/watch?v=ZSxCJafLPls"/>
-        <updated>2024-01-02T18:00:25.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Black Holes with Nobel-Winning Astrophysicist Reinhard Genzel]]></title>
-        <id>https://www.youtube.com/watch?v=rrKoLl_-eto</id>
-        <link href="https://www.youtube.com/watch?v=rrKoLl_-eto"/>
-        <updated>2024-01-02T18:00:19.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -330,30 +411,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Japan Airlines Aircraft Catches Fire at Tokyo's Haneda Airport]]></title>
-        <id>https://www.youtube.com/watch?v=wClJes4WoFk</id>
-        <link href="https://www.youtube.com/watch?v=wClJes4WoFk"/>
-        <updated>2024-01-02T12:07:19.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Achieving Great Surface Finishes with Low Powered CNC Machines]]></title>
         <id>https://www.youtube.com/watch?v=LG03AXA1AP0</id>
         <link href="https://www.youtube.com/watch?v=LG03AXA1AP0"/>
         <updated>2024-01-02T12:00:14.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inter-City Flying Car Test Flight in Slovakia]]></title>
-        <id>https://www.youtube.com/watch?v=zlLUiCzSaOI</id>
-        <link href="https://www.youtube.com/watch?v=zlLUiCzSaOI"/>
-        <updated>2024-01-02T09:00:38.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -510,15 +573,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What do a 400-year-old recipe for edible #artwork and a #dinosauregg shaped #salt have in common?]]></title>
-        <id>https://www.youtube.com/watch?v=Np8E28v79Ds</id>
-        <link href="https://www.youtube.com/watch?v=Np8E28v79Ds"/>
-        <updated>2023-12-29T18:59:57.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Machine Learning Primer: How to Build an ML Model]]></title>
         <id>https://www.youtube.com/watch?v=Vx2DpMgplEM</id>
         <link href="https://www.youtube.com/watch?v=Vx2DpMgplEM"/>
@@ -640,15 +694,6 @@
         <id>https://www.youtube.com/watch?v=pvx1T7a1U_g</id>
         <link href="https://www.youtube.com/watch?v=pvx1T7a1U_g"/>
         <updated>2023-12-26T15:00:40.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quickly Creating a 3D Model with the HandySCAN700]]></title>
-        <id>https://www.youtube.com/watch?v=zvnCJ3P69MQ</id>
-        <link href="https://www.youtube.com/watch?v=zvnCJ3P69MQ"/>
-        <updated>2023-12-26T12:00:53.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
         </author>
@@ -870,7 +915,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023's Biggest Breakthroughs in Computer Science]]></title>
+        <title type="html"><![CDATA[Computer Science: 2023's Biggest Breakthroughs]]></title>
         <id>https://www.youtube.com/watch?v=g7ih6rHdw3M</id>
         <link href="https://www.youtube.com/watch?v=g7ih6rHdw3M"/>
         <updated>2023-12-20T19:07:38.000Z</updated>
@@ -1218,15 +1263,6 @@
         <updated>2023-12-11T05:08:56.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[These integrals all equal π, until...]]></title>
-        <id>https://www.youtube.com/watch?v=VS9yOhwtVDY</id>
-        <link href="https://www.youtube.com/watch?v=VS9yOhwtVDY"/>
-        <updated>2023-12-11T00:00:18.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
         </author>
     </entry>
     <entry>
@@ -1851,15 +1887,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20 Color 3D Printing! Co Print at Formnext 2023!]]></title>
-        <id>https://www.youtube.com/watch?v=aD-AIJ1vVe4</id>
-        <link href="https://www.youtube.com/watch?v=aD-AIJ1vVe4"/>
-        <updated>2023-11-16T14:00:01.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What The Longest-Running Study on Happiness Reveals]]></title>
         <id>https://www.youtube.com/watch?v=vSQjk9jKarg</id>
         <link href="https://www.youtube.com/watch?v=vSQjk9jKarg"/>
@@ -2211,7 +2238,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Heated Chambers: Game-Changer for 3D Prints?]]></title>
+        <title type="html"><![CDATA[Does a HEATED CHAMBER make your 3D prints STRONGER?]]></title>
         <id>https://www.youtube.com/watch?v=WrQiUL0jAzc</id>
         <link href="https://www.youtube.com/watch?v=WrQiUL0jAzc"/>
         <updated>2023-10-21T15:30:57.000Z</updated>
@@ -2406,33 +2433,6 @@
         <updated>2023-10-08T13:00:27.000Z</updated>
         <author>
             <name>The Engineering Mindset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Γκεκ - Μιράζ]]></title>
-        <id>https://www.youtube.com/watch?v=uuQPi0yUpb4</id>
-        <link href="https://www.youtube.com/watch?v=uuQPi0yUpb4"/>
-        <updated>2023-10-07T21:08:25.000Z</updated>
-        <author>
-            <name>NinjaCakeAssassin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Man Who Killed Millions and Saved Billions (Clean Version)]]></title>
-        <id>https://www.youtube.com/watch?v=QQkmJI63ykI</id>
-        <link href="https://www.youtube.com/watch?v=QQkmJI63ykI"/>
-        <updated>2023-10-07T17:45:44.000Z</updated>
-        <author>
-            <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crispy Hashbrowns - You Suck at Cooking (episode 161)]]></title>
-        <id>https://www.youtube.com/watch?v=7wnR5tIPyHs</id>
-        <link href="https://www.youtube.com/watch?v=7wnR5tIPyHs"/>
-        <updated>2023-10-07T15:45:36.000Z</updated>
-        <author>
-            <name>You Suck At Cooking</name>
         </author>
     </entry>
 </feed>
