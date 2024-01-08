@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-07T00:34:48.908Z</id>
+    <id>urn:2024-01-08T00:32:38.938Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-07T00:34:48.908Z</updated>
+    <updated>2024-01-08T00:32:38.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Stanford Robotic Boots Help People with Mobility Issues]]></title>
+        <id>https://www.youtube.com/watch?v=vW3M_mmN23o</id>
+        <link href="https://www.youtube.com/watch?v=vW3M_mmN23o"/>
+        <updated>2024-01-07T21:00:31.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is There A Safest Seat On An Airplane?]]></title>
+        <id>https://www.youtube.com/watch?v=zt6dL9bLi9Y</id>
+        <link href="https://www.youtube.com/watch?v=zt6dL9bLi9Y"/>
+        <updated>2024-01-07T18:00:33.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s the Safest Seat on an Airplane?]]></title>
+        <id>https://www.youtube.com/watch?v=f8_kPNCAzlA</id>
+        <link href="https://www.youtube.com/watch?v=f8_kPNCAzlA"/>
+        <updated>2024-01-07T18:00:21.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shield AI's Alien Ship-Like Drones Get Huge Funding]]></title>
+        <id>https://www.youtube.com/watch?v=qyl5tFprVOY</id>
+        <link href="https://www.youtube.com/watch?v=qyl5tFprVOY"/>
+        <updated>2024-01-07T16:00:25.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visualising trace of a matrix | Lie groups, algebras, brackets #5]]></title>
+        <id>https://www.youtube.com/watch?v=B2PJh2K-jdU</id>
+        <link href="https://www.youtube.com/watch?v=B2PJh2K-jdU"/>
+        <updated>2024-01-07T15:00:08.000Z</updated>
+        <author>
+            <name>Mathemaniac</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Satisfying Titanium Rocket Part CNC Machining]]></title>
+        <id>https://www.youtube.com/watch?v=zTG2-hx2E50</id>
+        <link href="https://www.youtube.com/watch?v=zTG2-hx2E50"/>
+        <updated>2024-01-07T12:01:00.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12-Hour Martian Day Captured by Curiosity]]></title>
+        <id>https://www.youtube.com/watch?v=29Tvk_6ZYO8</id>
+        <link href="https://www.youtube.com/watch?v=29Tvk_6ZYO8"/>
+        <updated>2024-01-07T09:00:02.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hand Held Hedge Trimmer in Use]]></title>
         <id>https://www.youtube.com/watch?v=KOsqY35bB_w</id>
@@ -213,15 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Interesting Salamander Robot Design]]></title>
-        <id>https://www.youtube.com/watch?v=KmvtH3CL4Ok</id>
-        <link href="https://www.youtube.com/watch?v=KmvtH3CL4Ok"/>
-        <updated>2024-01-04T21:00:10.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The attention to detail while making the #luxury Trudon #candles is what sets them apart. #scents]]></title>
         <id>https://www.youtube.com/watch?v=g0r7SZOErM0</id>
         <link href="https://www.youtube.com/watch?v=g0r7SZOErM0"/>
@@ -240,30 +294,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shining a Light on the Controversial History of Light Bulbs]]></title>
-        <id>https://www.youtube.com/watch?v=xOhJxbDzVpc</id>
-        <link href="https://www.youtube.com/watch?v=xOhJxbDzVpc"/>
-        <updated>2024-01-04T18:00:26.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Farmers have to climb up trees over 80ft tall to collect #coconuts. 🥥 #Philippines #harvesting]]></title>
         <id>https://www.youtube.com/watch?v=cDdz45oN764</id>
         <link href="https://www.youtube.com/watch?v=cDdz45oN764"/>
         <updated>2024-01-04T18:00:16.000Z</updated>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shining a Light on the Controversial History of Light Bulbs]]></title>
-        <id>https://www.youtube.com/watch?v=7L9L2t7-I2E</id>
-        <link href="https://www.youtube.com/watch?v=7L9L2t7-I2E"/>
-        <updated>2024-01-04T18:00:04.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -318,24 +354,6 @@
         <updated>2024-01-04T12:00:50.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robot Patrol Dog Meets the Military Police]]></title>
-        <id>https://www.youtube.com/watch?v=m_GMbjnos98</id>
-        <link href="https://www.youtube.com/watch?v=m_GMbjnos98"/>
-        <updated>2024-01-04T09:00:36.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Year's Eve Solar Flare: A Cosmic Spectacle]]></title>
-        <id>https://www.youtube.com/watch?v=TuLUfSr0QZw</id>
-        <link href="https://www.youtube.com/watch?v=TuLUfSr0QZw"/>
-        <updated>2024-01-04T07:32:44.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -447,7 +465,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is e^(d/dx)? What else can we exponentiate? What is exp? | Lie groups, algebras, brackets #4]]></title>
+        <title type="html"><![CDATA[Can we exponentiate vectors? d/dx? Vector fields? What is exp? | Lie groups, algebras, brackets #4]]></title>
         <id>https://www.youtube.com/watch?v=9CBS5CAynBE</id>
         <link href="https://www.youtube.com/watch?v=9CBS5CAynBE"/>
         <updated>2024-01-02T15:00:09.000Z</updated>
@@ -708,15 +726,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Swiss CNC Machining]]></title>
-        <id>https://www.youtube.com/watch?v=SMaeYZCORcA</id>
-        <link href="https://www.youtube.com/watch?v=SMaeYZCORcA"/>
-        <updated>2023-12-28T12:00:20.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What is a group?]]></title>
         <id>https://www.youtube.com/watch?v=3KbiJ-z0j44</id>
         <link href="https://www.youtube.com/watch?v=3KbiJ-z0j44"/>
@@ -942,7 +951,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023's Biggest Breakthroughs in Computer Science]]></title>
+        <title type="html"><![CDATA[Computer Science: 2023's Biggest Breakthroughs]]></title>
         <id>https://www.youtube.com/watch?v=g7ih6rHdw3M</id>
         <link href="https://www.youtube.com/watch?v=g7ih6rHdw3M"/>
         <updated>2023-12-20T19:07:38.000Z</updated>
