@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-13T00:31:33.054Z</id>
+    <id>urn:2024-01-14T00:35:02.090Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-13T00:31:33.054Z</updated>
+    <updated>2024-01-14T00:35:02.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Plan To Create Fully Reusable Rockets]]></title>
+        <id>https://www.youtube.com/watch?v=tWYcSEDzsJw</id>
+        <link href="https://www.youtube.com/watch?v=tWYcSEDzsJw"/>
+        <updated>2024-01-13T18:00:25.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Plan To Create Fully Reusable Rockets]]></title>
+        <id>https://www.youtube.com/watch?v=ZBvrBlq5Flo</id>
+        <link href="https://www.youtube.com/watch?v=ZBvrBlq5Flo"/>
+        <updated>2024-01-13T18:00:24.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genius CNC Machining Hack]]></title>
+        <id>https://www.youtube.com/watch?v=eVo4EPD_Tb4</id>
+        <link href="https://www.youtube.com/watch?v=eVo4EPD_Tb4"/>
+        <updated>2024-01-13T12:00:35.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[These #Indonesian #noodles are called #uglynoodles mostly because of their gray color when cooked.]]></title>
         <id>https://www.youtube.com/watch?v=7nvPvELLtzE</id>
@@ -132,7 +159,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Prusa XL Review!]]></title>
+        <title type="html"><![CDATA[The Prusa XL Review!]]></title>
         <id>https://www.youtube.com/watch?v=xKo_Et3kE6g</id>
         <link href="https://www.youtube.com/watch?v=xKo_Et3kE6g"/>
         <updated>2024-01-12T14:00:48.000Z</updated>
@@ -208,24 +235,6 @@
         <id>https://www.youtube.com/watch?v=8A6DMdM-314</id>
         <link href="https://www.youtube.com/watch?v=8A6DMdM-314"/>
         <updated>2024-01-12T04:57:50.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG’s Transparent Screen is Fascinating]]></title>
-        <id>https://www.youtube.com/watch?v=t5ydglcJUbU</id>
-        <link href="https://www.youtube.com/watch?v=t5ydglcJUbU"/>
-        <updated>2024-01-12T04:51:18.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The TactSuit X40 Can Deliver and Extremely Realistic VR Experience]]></title>
-        <id>https://www.youtube.com/watch?v=ZGFcbOPyJ14</id>
-        <link href="https://www.youtube.com/watch?v=ZGFcbOPyJ14"/>
-        <updated>2024-01-12T04:37:48.000Z</updated>
         <author>
             <name>Interesting Engineering</name>
         </author>
@@ -678,15 +687,6 @@
         <updated>2024-01-03T21:46:38.000Z</updated>
         <author>
             <name>NinjaCakeAssassin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fully Lights Out Tool Room Automation 🤯]]></title>
-        <id>https://www.youtube.com/watch?v=6lX--c1gamg</id>
-        <link href="https://www.youtube.com/watch?v=6lX--c1gamg"/>
-        <updated>2024-01-03T12:00:08.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2406,24 +2406,6 @@
         <updated>2023-10-17T12:45:26.000Z</updated>
         <author>
             <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shredding quintuplets with friends]]></title>
-        <id>https://www.youtube.com/watch?v=3pXAz-TcN6M</id>
-        <link href="https://www.youtube.com/watch?v=3pXAz-TcN6M"/>
-        <updated>2023-10-15T21:43:14.000Z</updated>
-        <author>
-            <name>Adam Neely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Γκεκ - Μπομπότ]]></title>
-        <id>https://www.youtube.com/watch?v=aOLs5F6TQvE</id>
-        <link href="https://www.youtube.com/watch?v=aOLs5F6TQvE"/>
-        <updated>2023-10-15T16:51:01.000Z</updated>
-        <author>
-            <name>NinjaCakeAssassin</name>
         </author>
     </entry>
 </feed>
