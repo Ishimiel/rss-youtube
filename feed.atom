@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-15T00:33:47.389Z</id>
+    <id>urn:2024-01-16T00:31:46.278Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-15T00:33:47.389Z</updated>
+    <updated>2024-01-16T00:31:46.278Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Do People Understand the Scale of the Universe?]]></title>
+        <id>https://www.youtube.com/watch?v=fG8SwAFQFuU</id>
+        <link href="https://www.youtube.com/watch?v=fG8SwAFQFuU"/>
+        <updated>2024-01-15T21:02:07.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Threading a 15" Wire Submerged]]></title>
+        <id>https://www.youtube.com/watch?v=MIo7qAlPmBU</id>
+        <link href="https://www.youtube.com/watch?v=MIo7qAlPmBU"/>
+        <updated>2024-01-15T12:00:30.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The medical test paradox (well "paradox")]]></title>
+        <id>https://www.youtube.com/watch?v=xIMlJUwB1m8</id>
+        <link href="https://www.youtube.com/watch?v=xIMlJUwB1m8"/>
+        <updated>2024-01-15T07:00:30.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Astro Awards LIVE in-person at Paramount Theatre, Austin, TX!]]></title>
         <id>https://www.youtube.com/watch?v=XFTSGDkATO0</id>
@@ -651,15 +678,6 @@
         <updated>2024-01-05T11:00:34.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FULL Process CNC Machining a Titanium Rocket Part]]></title>
-        <id>https://www.youtube.com/watch?v=rq4jSHDny04</id>
-        <link href="https://www.youtube.com/watch?v=rq4jSHDny04"/>
-        <updated>2024-01-04T15:00:42.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1326,15 +1344,6 @@
         <updated>2023-12-15T01:00:51.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Order from chaos]]></title>
-        <id>https://www.youtube.com/watch?v=GOSezO0CHss</id>
-        <link href="https://www.youtube.com/watch?v=GOSezO0CHss"/>
-        <updated>2023-12-15T00:00:13.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
         </author>
     </entry>
     <entry>
@@ -2379,33 +2388,6 @@
         <updated>2023-10-20T15:00:13.000Z</updated>
         <author>
             <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Home Automation CONSUMED MY LIFE (and you're next)]]></title>
-        <id>https://www.youtube.com/watch?v=8y2LjkndbCM</id>
-        <link href="https://www.youtube.com/watch?v=8y2LjkndbCM"/>
-        <updated>2023-10-17T15:02:00.000Z</updated>
-        <author>
-            <name>Zack Freedman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Glimpse Into Our Future]]></title>
-        <id>https://www.youtube.com/watch?v=Qtmrp_4BKRQ</id>
-        <link href="https://www.youtube.com/watch?v=Qtmrp_4BKRQ"/>
-        <updated>2023-10-17T14:04:14.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Faulhaber's Fabulous Formula (and Bernoulli Numbers) - Numberphile]]></title>
-        <id>https://www.youtube.com/watch?v=83NFR7JDlww</id>
-        <link href="https://www.youtube.com/watch?v=83NFR7JDlww"/>
-        <updated>2023-10-17T12:45:26.000Z</updated>
-        <author>
-            <name>Numberphile</name>
         </author>
     </entry>
 </feed>
