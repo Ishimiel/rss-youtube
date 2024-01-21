@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-20T00:31:17.610Z</id>
+    <id>urn:2024-01-21T00:35:14.751Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-20T00:31:17.610Z</updated>
+    <updated>2024-01-21T00:35:14.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why Hot Air Balloons Are So Expensive | So Expensive | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=UWs6fbMdEzA</id>
+        <link href="https://www.youtube.com/watch?v=UWs6fbMdEzA"/>
+        <updated>2024-01-20T16:00:14.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixing the P-47s Climb Rate]]></title>
+        <id>https://www.youtube.com/watch?v=9MxT16L9abY</id>
+        <link href="https://www.youtube.com/watch?v=9MxT16L9abY"/>
+        <updated>2024-01-20T15:00:07.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New MONSTER CNC Machine from DN Solutions has HUGE Upgrade]]></title>
+        <id>https://www.youtube.com/watch?v=4pUENRrIqks</id>
+        <link href="https://www.youtube.com/watch?v=4pUENRrIqks"/>
+        <updated>2024-01-20T14:00:03.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Achieving Ultimate Precision with Sinker EDM]]></title>
+        <id>https://www.youtube.com/watch?v=9PqvDlI7clg</id>
+        <link href="https://www.youtube.com/watch?v=9PqvDlI7clg"/>
+        <updated>2024-01-20T12:00:07.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Γκεκ - Βαλχάλλα]]></title>
         <id>https://www.youtube.com/watch?v=vyoeRnvVJ44</id>
@@ -600,15 +636,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#Coconutoil is often touted as a cure-all #remedy but #scientific studies have been inconclusive.]]></title>
-        <id>https://www.youtube.com/watch?v=UmekM02ohA0</id>
-        <link href="https://www.youtube.com/watch?v=UmekM02ohA0"/>
-        <updated>2024-01-10T19:26:11.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How does ULA's Vulcan rocket compare to the competition?]]></title>
         <id>https://www.youtube.com/watch?v=wD3MruC-FTc</id>
         <link href="https://www.youtube.com/watch?v=wD3MruC-FTc"/>
@@ -645,30 +672,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NEW GIGANTIC CNC Machine Hits our Floor | BLOHM PROFIMAT XT]]></title>
-        <id>https://www.youtube.com/watch?v=eoPwIXNsOo0</id>
-        <link href="https://www.youtube.com/watch?v=eoPwIXNsOo0"/>
-        <updated>2024-01-09T15:00:28.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DIY Pipe Sander/Polisher]]></title>
         <id>https://www.youtube.com/watch?v=NRU0TO_37NM</id>
         <link href="https://www.youtube.com/watch?v=NRU0TO_37NM"/>
         <updated>2024-01-09T14:36:49.000Z</updated>
         <author>
             <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Insane Stick-Outs - Roughing the Profile]]></title>
-        <id>https://www.youtube.com/watch?v=ZTeDwbH-vLA</id>
-        <link href="https://www.youtube.com/watch?v=ZTeDwbH-vLA"/>
-        <updated>2024-01-09T12:00:34.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1752,7 +1761,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[P vs. NP: The Biggest Puzzle in Computer Science]]></title>
+        <title type="html"><![CDATA[The Ultimate Enigma Of Computer Science:  P vs. NP]]></title>
         <id>https://www.youtube.com/watch?v=pQsdygaYcE4</id>
         <link href="https://www.youtube.com/watch?v=pQsdygaYcE4"/>
         <updated>2023-12-01T17:43:43.000Z</updated>
@@ -2379,24 +2388,6 @@
         <updated>2023-10-24T15:37:17.000Z</updated>
         <author>
             <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a resistor? #electronics #electrical #engineering #electricity]]></title>
-        <id>https://www.youtube.com/watch?v=kWQnpShd9EM</id>
-        <link href="https://www.youtube.com/watch?v=kWQnpShd9EM"/>
-        <updated>2023-10-23T09:56:23.000Z</updated>
-        <author>
-            <name>The Engineering Mindset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Ukrainian Tractor Modified to Clear Mines]]></title>
-        <id>https://www.youtube.com/watch?v=ym1MkJBmPyo</id>
-        <link href="https://www.youtube.com/watch?v=ym1MkJBmPyo"/>
-        <updated>2023-10-22T13:01:20.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
         </author>
     </entry>
 </feed>
