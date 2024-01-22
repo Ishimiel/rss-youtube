@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-21T00:35:14.751Z</id>
+    <id>urn:2024-01-22T00:33:46.617Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-21T00:35:14.751Z</updated>
+    <updated>2024-01-22T00:33:46.617Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Wilcox Crittenden - Skipper Type 8 -  Head Repair]]></title>
+        <id>https://www.youtube.com/watch?v=jhCSADsMxxI</id>
+        <link href="https://www.youtube.com/watch?v=jhCSADsMxxI"/>
+        <updated>2024-01-21T22:59:24.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNC Machining Winning Dice 🎲]]></title>
+        <id>https://www.youtube.com/watch?v=fD0rh2NvZks</id>
+        <link href="https://www.youtube.com/watch?v=fD0rh2NvZks"/>
+        <updated>2024-01-21T12:00:38.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Potentiometers Work - Unravel the Mysteries of How potentiometers Work!]]></title>
+        <id>https://www.youtube.com/watch?v=Xb-MZMoUtcQ</id>
+        <link href="https://www.youtube.com/watch?v=Xb-MZMoUtcQ"/>
+        <updated>2024-01-21T12:00:25.000Z</updated>
+        <author>
+            <name>The Engineering Mindset</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Hot Air Balloons Are So Expensive | So Expensive | Business Insider]]></title>
         <id>https://www.youtube.com/watch?v=UWs6fbMdEzA</id>
@@ -39,6 +66,15 @@
         <updated>2024-01-20T12:00:07.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How The Netherlands Makes 650 Million Kilos Of Gouda Cheese A Year | Big Business | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=gFbxeyJpXWw</id>
+        <link href="https://www.youtube.com/watch?v=gFbxeyJpXWw"/>
+        <updated>2024-01-20T00:19:26.000Z</updated>
+        <author>
+            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -627,30 +663,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[About one trillion plastic bags are used worldwide every year. #plastic #recycling #trash]]></title>
-        <id>https://www.youtube.com/watch?v=Br57EdFaqCk</id>
-        <link href="https://www.youtube.com/watch?v=Br57EdFaqCk"/>
-        <updated>2024-01-10T20:57:49.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How does ULA's Vulcan rocket compare to the competition?]]></title>
         <id>https://www.youtube.com/watch?v=wD3MruC-FTc</id>
         <link href="https://www.youtube.com/watch?v=wD3MruC-FTc"/>
         <updated>2024-01-10T14:59:57.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CNC Machinist gets Creative while Roughing Raw Material]]></title>
-        <id>https://www.youtube.com/watch?v=Sxw7XXlW4ws</id>
-        <link href="https://www.youtube.com/watch?v=Sxw7XXlW4ws"/>
-        <updated>2024-01-10T12:00:21.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1761,7 +1779,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Ultimate Enigma Of Computer Science:  P vs. NP]]></title>
+        <title type="html"><![CDATA[P vs. NP: The Biggest Puzzle in Computer Science]]></title>
         <id>https://www.youtube.com/watch?v=pQsdygaYcE4</id>
         <link href="https://www.youtube.com/watch?v=pQsdygaYcE4"/>
         <updated>2023-12-01T17:43:43.000Z</updated>
@@ -2053,15 +2071,6 @@
         <id>https://www.youtube.com/watch?v=XjuW18dPwn4</id>
         <link href="https://www.youtube.com/watch?v=XjuW18dPwn4"/>
         <updated>2023-11-19T16:44:29.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hold On]]></title>
-        <id>https://www.youtube.com/watch?v=Q18ZzQcQRt8</id>
-        <link href="https://www.youtube.com/watch?v=Q18ZzQcQRt8"/>
-        <updated>2023-11-19T15:28:12.000Z</updated>
         <author>
             <name>SV Seeker</name>
         </author>
