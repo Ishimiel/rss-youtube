@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-28T00:32:25.437Z</id>
+    <id>urn:2024-01-29T00:30:05.481Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-28T00:32:25.437Z</updated>
+    <updated>2024-01-29T00:30:05.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Resistive Wire Heats Up! DON'T SIT ON IT! #funny #electronics #heater]]></title>
+        <id>https://www.youtube.com/watch?v=TkjqJD1lhB0</id>
+        <link href="https://www.youtube.com/watch?v=TkjqJD1lhB0"/>
+        <updated>2024-01-28T18:08:21.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Swiss Tooling System will Make your Life EASIER]]></title>
+        <id>https://www.youtube.com/watch?v=hh5QgLhBJlk</id>
+        <link href="https://www.youtube.com/watch?v=hh5QgLhBJlk"/>
+        <updated>2024-01-28T12:00:38.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Port Saint Joe and Making Repairs]]></title>
         <id>https://www.youtube.com/watch?v=TEnepbrVIMw</id>
@@ -15,7 +33,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[STOP PRINTING Calibration Cubes! This is better:]]></title>
+        <title type="html"><![CDATA[No More Calibration Cubes! Here's how you do it right!]]></title>
         <id>https://www.youtube.com/watch?v=H7OsnMLDIMw</id>
         <link href="https://www.youtube.com/watch?v=H7OsnMLDIMw"/>
         <updated>2024-01-27T16:30:03.000Z</updated>
@@ -42,7 +60,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Decoding Math's Most Famous Fractal: The Mandelbrot Set]]></title>
+        <title type="html"><![CDATA[Decoding Math's Famous Fractal: The Mandelbrot Set]]></title>
         <id>https://www.youtube.com/watch?v=u9GAnW8xFJY</id>
         <link href="https://www.youtube.com/watch?v=u9GAnW8xFJY"/>
         <updated>2024-01-27T03:48:01.000Z</updated>
@@ -141,7 +159,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Fixed My Bambu A1 Mini!]]></title>
+        <title type="html"><![CDATA[I *FIXED* My Bambu Lab A1 Mini!]]></title>
         <id>https://www.youtube.com/watch?v=U-zS7naUiFA</id>
         <link href="https://www.youtube.com/watch?v=U-zS7naUiFA"/>
         <updated>2024-01-26T14:00:21.000Z</updated>
@@ -606,15 +624,6 @@
         <updated>2024-01-18T15:00:46.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Incredible Machine Feature You Have NEVER Seen Before]]></title>
-        <id>https://www.youtube.com/watch?v=bN5p-extrto</id>
-        <link href="https://www.youtube.com/watch?v=bN5p-extrto"/>
-        <updated>2024-01-18T15:00:27.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1947,15 +1956,6 @@
         <updated>2023-12-02T19:33:58.000Z</updated>
         <author>
             <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useless Metal Detector Rev2 #metaldetector #funny #electroboom #electronics]]></title>
-        <id>https://www.youtube.com/watch?v=djweHNh0RXs</id>
-        <link href="https://www.youtube.com/watch?v=djweHNh0RXs"/>
-        <updated>2023-12-02T17:46:04.000Z</updated>
-        <author>
-            <name>ElectroBOOM</name>
         </author>
     </entry>
     <entry>
