@@ -6,13 +6,23 @@
       "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ZAduYAa7iQQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZAduYAa7iQQ",
+          "publishedOn": "2024-02-02T22:21:16.000Z",
+          "wordCount": null,
+          "title": "Podcast Trailer: The Joy of Why Season 3",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rgT2_yw4SqM",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=rgT2_yw4SqM",
           "publishedOn": "2024-02-01T19:37:11.000Z",
           "wordCount": null,
-          "title": "History of the Mandelbrot Set",
+          "title": "Who Discovered the  Mandelbrot Set?",
           "imageUrl": null
         },
         {
@@ -22,7 +32,7 @@
           "link": "https://www.youtube.com/watch?v=S0gwtGLuQEM",
           "publishedOn": "2024-01-30T19:34:36.000Z",
           "wordCount": null,
-          "title": "Meet the Mandelbrot Set",
+          "title": "What is the Mandelbrot Set?",
           "imageUrl": null
         },
         {
@@ -721,6 +731,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lMuMFPD0Czw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lMuMFPD0Czw",
+          "publishedOn": "2024-02-02T14:00:38.000Z",
+          "wordCount": null,
+          "title": "What Happens Next...",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=U-zS7naUiFA",
           "author": null,
           "description": "",
@@ -859,16 +879,6 @@
           "wordCount": null,
           "title": "3D Printing & Injection Molding IMPOSSIBLE Parts? Nexa3D at Formnext 2023!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FT7MsiUkqdQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FT7MsiUkqdQ",
-          "publishedOn": "2023-11-29T14:00:18.000Z",
-          "wordCount": null,
-          "title": "BRAND NEW Resin 3D Printer! Raise3D at Formnext 2023!",
-          "imageUrl": null
         }
       ]
     },
@@ -1005,16 +1015,6 @@
           "publishedOn": "2023-11-08T08:09:44.000Z",
           "wordCount": null,
           "title": "MINGDA's giant 1000x1000x1000 mm 3D Printer at Formnext 2023 #AD",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=O6d1RKYapFI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=O6d1RKYapFI",
-          "publishedOn": "2023-11-04T16:26:40.000Z",
-          "wordCount": null,
-          "title": "Turning 3D Print Waste into New Filament!",
           "imageUrl": null
         }
       ]
@@ -1205,6 +1205,96 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ePBG9dGQsI0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ePBG9dGQsI0",
+          "publishedOn": "2024-02-03T00:00:30.000Z",
+          "wordCount": null,
+          "title": "Johns Hopkins Unlocks Bird Flight Mystery: Cerebellum's Role Revealed",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=OfHyV3dqodY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OfHyV3dqodY",
+          "publishedOn": "2024-02-02T23:00:13.000Z",
+          "wordCount": null,
+          "title": "Google's 700+ MW Offshore Wind Deal",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=MnyoMBIoW90",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MnyoMBIoW90",
+          "publishedOn": "2024-02-02T18:00:21.000Z",
+          "wordCount": null,
+          "title": "How the U.S. Defense Ministry Created the Internet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=RCU9rpLWHk0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RCU9rpLWHk0",
+          "publishedOn": "2024-02-02T18:00:11.000Z",
+          "wordCount": null,
+          "title": "How the U.S. Department of Defense Created the Internet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=byHJS7BE4fc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=byHJS7BE4fc",
+          "publishedOn": "2024-02-02T16:00:20.000Z",
+          "wordCount": null,
+          "title": "Meta's Strategic Move: Unveiling Artemis, The AI Powerhouse Chip",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=VaN7uf9NreY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VaN7uf9NreY",
+          "publishedOn": "2024-02-02T14:00:21.000Z",
+          "wordCount": null,
+          "title": "The Dream Chaser Spacecraft",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5ZV4pdQke80",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5ZV4pdQke80",
+          "publishedOn": "2024-02-02T12:43:18.000Z",
+          "wordCount": null,
+          "title": "China's Leap in Brain-Computer Tech for 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=32Wi4Zx2l3g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=32Wi4Zx2l3g",
+          "publishedOn": "2024-02-02T11:03:00.000Z",
+          "wordCount": null,
+          "title": "CRISPR Can Make It Easier to Beat Cancer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=NIv5xT_R84U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NIv5xT_R84U",
+          "publishedOn": "2024-02-02T09:00:16.000Z",
+          "wordCount": null,
+          "title": "Collins Aerospace Finds a Way to Cool Down F-35",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=E9xO3R-Bfr0",
           "author": null,
           "description": "",
@@ -1262,96 +1352,6 @@
           "publishedOn": "2024-02-01T11:22:58.000Z",
           "wordCount": null,
           "title": "Meet TOI-715 b",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UX3g6XPp114",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UX3g6XPp114",
-          "publishedOn": "2024-02-01T10:53:57.000Z",
-          "wordCount": null,
-          "title": "Multispectral Optoacoustic Tomography",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uDFAKeRZGNE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uDFAKeRZGNE",
-          "publishedOn": "2024-02-01T09:15:20.000Z",
-          "wordCount": null,
-          "title": "Tesla Optimus Takes A Walk Bare-Bones",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FCNXvJSTNqc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FCNXvJSTNqc",
-          "publishedOn": "2024-01-31T14:30:09.000Z",
-          "wordCount": null,
-          "title": "Robots That Can Make a Perfectly Cooked Meal in Just 2 Minutes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vLA4hoi9i24",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vLA4hoi9i24",
-          "publishedOn": "2024-01-31T12:33:00.000Z",
-          "wordCount": null,
-          "title": "Samsung's Latest Innovations Unveiled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7WstC5hR0aQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7WstC5hR0aQ",
-          "publishedOn": "2024-01-30T16:05:38.000Z",
-          "wordCount": null,
-          "title": "The Future of Air Mobility: Electric VTOL Aircraft",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=f6H1EHGXouw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=f6H1EHGXouw",
-          "publishedOn": "2024-01-30T15:37:09.000Z",
-          "wordCount": null,
-          "title": "The Future of Air Mobility: Electric VTOL Aircraft",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4hNBF7ywWa4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4hNBF7ywWa4",
-          "publishedOn": "2024-01-24T12:15:53.000Z",
-          "wordCount": null,
-          "title": "Stern Pinball Puts a Modern Twist to a Classic Game",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AX_QHuWQDOI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AX_QHuWQDOI",
-          "publishedOn": "2024-01-23T09:00:15.000Z",
-          "wordCount": null,
-          "title": "How Litheli is Changing the Game in Efficient Energy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yKyr2jXC4M4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yKyr2jXC4M4",
-          "publishedOn": "2024-01-19T18:08:00.000Z",
-          "wordCount": null,
-          "title": "Barbara Humpton of Siemens Explains the Industrial Metaverse",
           "imageUrl": null
         }
       ]
@@ -2146,16 +2146,6 @@
           "wordCount": null,
           "title": "What The Longest-Running Study on Happiness Reveals",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UAeJHAFjwPM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UAeJHAFjwPM",
-          "publishedOn": "2023-11-04T13:00:31.000Z",
-          "wordCount": null,
-          "title": "How Do Night Vision Goggles Work? (There's 3 types)",
-          "imageUrl": null
         }
       ]
     },
@@ -2416,6 +2406,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=RnTkT-hVGwk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RnTkT-hVGwk",
+          "publishedOn": "2024-02-02T15:00:22.000Z",
+          "wordCount": null,
+          "title": "Mind-Blowing CNC Machining That Will Leave You Speechless",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=UoD5kjnLZXA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UoD5kjnLZXA",
+          "publishedOn": "2024-02-02T12:00:22.000Z",
+          "wordCount": null,
+          "title": "Easily Moving Our New Robot Cells",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=CaizzRfBlws",
           "author": null,
           "description": "",
@@ -2544,26 +2554,6 @@
           "wordCount": null,
           "title": "Employee Gets Her Arm Stuck in CNC Door",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kKX5TmVu1rA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kKX5TmVu1rA",
-          "publishedOn": "2024-01-24T12:00:45.000Z",
-          "wordCount": null,
-          "title": "CNC Machining One of a Kind Titanium Octopus",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=B2ttkH4Qytg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=B2ttkH4Qytg",
-          "publishedOn": "2024-01-23T15:00:16.000Z",
-          "wordCount": null,
-          "title": "How To Machine 5 Axis Parts",
-          "imageUrl": null
         }
       ]
     },
@@ -2572,6 +2562,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=i6yGRxVIzaA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=i6yGRxVIzaA",
+          "publishedOn": "2024-02-02T21:00:30.000Z",
+          "wordCount": null,
+          "title": "Inge-Glas, in #Germany, is the oldest company in the world to make traditional #Christmasornaments.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=4aHU1_KZU0k",
           "author": null,
@@ -2711,16 +2711,6 @@
           "wordCount": null,
           "title": "Larger #anchovies sell for between €25 and €30 per crate at #Italian fish markets. #fishing",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2G1gllfSdM4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2G1gllfSdM4",
-          "publishedOn": "2024-01-26T19:00:13.000Z",
-          "wordCount": null,
-          "title": "Did you know #PanamaHats are actually made in #Ecuador? #hats",
-          "imageUrl": null
         }
       ]
     },
@@ -2776,6 +2766,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCM15YNy8g-CaJ15YZCbq0Iw",
       "siteUrl": "https://www.youtube.com/channel/UCM15YNy8g-CaJ15YZCbq0Iw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=k_wivVN3Azc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=k_wivVN3Azc",
+          "publishedOn": "2024-02-02T16:00:35.000Z",
+          "wordCount": null,
+          "title": "I made the Grim Reaper",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=KsXdcftXWGw",
           "author": null,
