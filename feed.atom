@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-04T00:32:39.853Z</id>
+    <id>urn:2024-02-05T00:31:07.521Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-04T00:32:39.853Z</updated>
+    <updated>2024-02-05T00:31:07.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Anime Influenced Cartoons]]></title>
+        <id>https://www.youtube.com/watch?v=7kS1WgLnDsE</id>
+        <link href="https://www.youtube.com/watch?v=7kS1WgLnDsE"/>
+        <updated>2024-02-04T20:53:02.000Z</updated>
+        <author>
+            <name>Internet Pitstop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Airbus's ZEROe: Hydrogen-Powered Future of Aviation]]></title>
+        <id>https://www.youtube.com/watch?v=iOu4Avh50Hw</id>
+        <link href="https://www.youtube.com/watch?v=iOu4Avh50Hw"/>
+        <updated>2024-02-04T16:29:31.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electrical Discharge Machining ⚡️]]></title>
+        <id>https://www.youtube.com/watch?v=LKVBNX1spZU</id>
+        <link href="https://www.youtube.com/watch?v=LKVBNX1spZU"/>
+        <updated>2024-02-04T12:00:28.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Slow Down the Fall by Eddy Currents #electronics #eddy #funny]]></title>
         <id>https://www.youtube.com/watch?v=YY8P_VIYaZE</id>
@@ -300,15 +327,6 @@
         <updated>2024-02-01T14:57:03.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Future of Ice Sheet Protection with SAI]]></title>
-        <id>https://www.youtube.com/watch?v=jMIpctBSMbI</id>
-        <link href="https://www.youtube.com/watch?v=jMIpctBSMbI"/>
-        <updated>2024-02-01T14:23:10.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -730,15 +748,6 @@
         <id>https://www.youtube.com/watch?v=YSSmFHz9yZc</id>
         <link href="https://www.youtube.com/watch?v=YSSmFHz9yZc"/>
         <updated>2024-01-25T15:00:33.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Importance of Semi Finishing]]></title>
-        <id>https://www.youtube.com/watch?v=5HHhOAAsc_k</id>
-        <link href="https://www.youtube.com/watch?v=5HHhOAAsc_k"/>
-        <updated>2024-01-25T12:00:04.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
         </author>
@@ -1806,7 +1815,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bambu Lab A1 - That's The Title]]></title>
+        <title type="html"><![CDATA[Bambu Lab A1 RECALL - SEE DESCRIPTION]]></title>
         <id>https://www.youtube.com/watch?v=fNbAGkoRySI</id>
         <link href="https://www.youtube.com/watch?v=fNbAGkoRySI"/>
         <updated>2023-12-15T01:00:51.000Z</updated>
