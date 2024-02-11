@@ -634,16 +634,6 @@
           "wordCount": null,
           "title": "Pioneer Live: Hermeto Pascoal",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Oqqj_gTGTcE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Oqqj_gTGTcE",
-          "publishedOn": "2023-11-13T09:51:23.000Z",
-          "wordCount": null,
-          "title": "PW Broadcast Radio Hour: Mckenzie Wark in conversation with Jordan Kisner",
-          "imageUrl": null
         }
       ]
     },
@@ -736,7 +726,7 @@
           "link": "https://www.youtube.com/watch?v=94YAUo3wzTM",
           "publishedOn": "2024-02-09T14:00:07.000Z",
           "wordCount": null,
-          "title": "3D Printing with Seattle Children’s Hospital",
+          "title": "Innovating Pediatric Care: 3D Printing at Seattle Children's Hospital",
           "imageUrl": null
         },
         {
@@ -1037,7 +1027,7 @@
           "link": "https://www.youtube.com/watch?v=vxWq-n_2dws",
           "publishedOn": "2024-02-09T23:16:59.000Z",
           "wordCount": null,
-          "title": "Why don’t we use aircraft to help boost rockets into orbit?",
+          "title": "Why don’t we use jets to boost rockets into orbit?",
           "imageUrl": null
         },
         {
@@ -1047,7 +1037,7 @@
           "link": "https://www.youtube.com/watch?v=AAt9WDQEMoA",
           "publishedOn": "2024-02-09T15:00:10.000Z",
           "wordCount": null,
-          "title": "Could Air Launching Rockets Be A Better Way To Launch?",
+          "title": "Is Air Launching Rockets A Good Idea?",
           "imageUrl": null
         },
         {
@@ -1194,6 +1184,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=xDx2oqF3dR8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xDx2oqF3dR8",
+          "publishedOn": "2024-02-10T13:00:48.000Z",
+          "wordCount": null,
+          "title": "Apple Unveils Revolutionary AI Photo Editor: MGIE Model",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=n1B4vi-mVwM",
           "author": null,
           "description": "",
@@ -1331,16 +1331,6 @@
           "publishedOn": "2024-02-08T12:00:42.000Z",
           "wordCount": null,
           "title": "Pioneers of the Early Universe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uja5DAqektQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uja5DAqektQ",
-          "publishedOn": "2024-02-08T10:59:02.000Z",
-          "wordCount": null,
-          "title": "Starlab Space Station",
           "imageUrl": null
         }
       ]
@@ -2058,16 +2048,6 @@
           "wordCount": null,
           "title": "How Wind Turbines Really Work: The Hidden Secrets",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9j8ssbEfsIc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9j8ssbEfsIc",
-          "publishedOn": "2023-11-13T12:15:40.000Z",
-          "wordCount": null,
-          "title": "What is a potentiometer #engineering #electronics #electrical #engineering #potentiometer",
-          "imageUrl": null
         }
       ]
     },
@@ -2425,6 +2405,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qWk3kELQu30",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qWk3kELQu30",
+          "publishedOn": "2024-02-10T14:00:39.000Z",
+          "wordCount": null,
+          "title": "Destroying Material in Heller CNC Machines | Compilation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=VBjjvOEq__c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VBjjvOEq__c",
+          "publishedOn": "2024-02-10T12:00:32.000Z",
+          "wordCount": null,
+          "title": "Complicated 5 Axis Finishing Toolpaths",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=RWntBpsfjOA",
           "author": null,
           "description": "",
@@ -2553,26 +2553,6 @@
           "wordCount": null,
           "title": "MOST Complicated CNC Machining Toolpaths Saved for Last",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Z8QmGIpN_u4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Z8QmGIpN_u4",
-          "publishedOn": "2024-02-01T12:00:26.000Z",
-          "wordCount": null,
-          "title": "Achieving Ultimate Precision by Balancing Tools",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UucIaKXiRhA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UucIaKXiRhA",
-          "publishedOn": "2024-01-31T12:00:23.000Z",
-          "wordCount": null,
-          "title": "Installing New HORN Tooling into the Tornos Swiss Nano",
-          "imageUrl": null
         }
       ]
     },
@@ -2581,6 +2561,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=pwjPHJrfgC4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pwjPHJrfgC4",
+          "publishedOn": "2024-02-10T16:00:36.000Z",
+          "wordCount": null,
+          "title": "Inside The Hidden Hotels That Keep Mount Everest Running | Inside Everest | Business Insider",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=f_Aa60Fy__k",
           "author": null,
@@ -2719,16 +2709,6 @@
           "publishedOn": "2024-02-01T21:00:00.000Z",
           "wordCount": null,
           "title": "The #Netherlands could close hundreds of dairy farms to curb nitrogen emissions. #dairyfarm #cheese",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Q5HewFK_RnI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Q5HewFK_RnI",
-          "publishedOn": "2024-02-01T19:00:12.000Z",
-          "wordCount": null,
-          "title": "People have been captivated by #HotAirBalloons since the first #flight in 1783. #bucketlist",
           "imageUrl": null
         }
       ]
