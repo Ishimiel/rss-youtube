@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-17T00:29:18.917Z</id>
+    <id>urn:2024-02-18T00:32:11.216Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-17T00:29:18.917Z</updated>
+    <updated>2024-02-18T00:32:11.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Don't Let Your $6000 Simrad or B&B Chartplotter Fall Apart]]></title>
+        <id>https://www.youtube.com/watch?v=QaSImQYDI7w</id>
+        <link href="https://www.youtube.com/watch?v=QaSImQYDI7w"/>
+        <updated>2024-02-17T18:37:16.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brick Layers: Could printing STRONG parts be so simple?]]></title>
+        <id>https://www.youtube.com/watch?v=5hGm6cubFVs</id>
+        <link href="https://www.youtube.com/watch?v=5hGm6cubFVs"/>
+        <updated>2024-02-17T16:32:25.000Z</updated>
+        <author>
+            <name>CNC Kitchen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSERT TEST: Which One is Best and WHY?]]></title>
+        <id>https://www.youtube.com/watch?v=jYNl66LYIJA</id>
+        <link href="https://www.youtube.com/watch?v=jYNl66LYIJA"/>
+        <updated>2024-02-17T14:00:26.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dodeka Shell Mill Build & Cuts]]></title>
+        <id>https://www.youtube.com/watch?v=btbfRSSybs8</id>
+        <link href="https://www.youtube.com/watch?v=btbfRSSybs8"/>
+        <updated>2024-02-17T12:00:28.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why is Ukraine Focusing on Nuclear Energy in the Middle of a War?]]></title>
+        <id>https://www.youtube.com/watch?v=CF20JVKTNK0</id>
+        <link href="https://www.youtube.com/watch?v=CF20JVKTNK0"/>
+        <updated>2024-02-17T04:00:04.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Hear Black Hole Echoes]]></title>
         <id>https://www.youtube.com/watch?v=KzuM8maf05Y</id>
@@ -69,7 +114,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D Printing CHOCOLATE with Cocoa Press!]]></title>
+        <title type="html"><![CDATA[Cocoa Press Prints are Edible :)]]></title>
         <id>https://www.youtube.com/watch?v=OEg05HEXrMw</id>
         <link href="https://www.youtube.com/watch?v=OEg05HEXrMw"/>
         <updated>2024-02-16T14:00:28.000Z</updated>
@@ -253,15 +298,6 @@
         <id>https://www.youtube.com/watch?v=rc2pHJsGsBQ</id>
         <link href="https://www.youtube.com/watch?v=rc2pHJsGsBQ"/>
         <updated>2024-02-15T12:00:47.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why is Jeff Bezos Investing $10 Billion in This State?]]></title>
-        <id>https://www.youtube.com/watch?v=gy_YsDn555Q</id>
-        <link href="https://www.youtube.com/watch?v=gy_YsDn555Q"/>
-        <updated>2024-02-15T10:52:49.000Z</updated>
         <author>
             <name>Interesting Engineering</name>
         </author>
@@ -627,30 +663,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Industry Changing Robots 😳]]></title>
-        <id>https://www.youtube.com/watch?v=CS0-H9tIZLs</id>
-        <link href="https://www.youtube.com/watch?v=CS0-H9tIZLs"/>
-        <updated>2024-02-08T12:00:15.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[3D Printing with @HandymanHal !]]></title>
         <id>https://www.youtube.com/watch?v=NK-ToRIBWcg</id>
         <link href="https://www.youtube.com/watch?v=NK-ToRIBWcg"/>
         <updated>2024-02-07T15:11:40.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Destroying Steel with High Feed Mill]]></title>
-        <id>https://www.youtube.com/watch?v=Ei5GqmDuV24</id>
-        <link href="https://www.youtube.com/watch?v=Ei5GqmDuV24"/>
-        <updated>2024-02-07T12:00:12.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1239,7 +1257,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can You Rank These From Smallest to Largest?]]></title>
+        <title type="html"><![CDATA[Why We Need To Teach Astronomy]]></title>
         <id>https://www.youtube.com/watch?v=fG8SwAFQFuU</id>
         <link href="https://www.youtube.com/watch?v=fG8SwAFQFuU"/>
         <updated>2024-01-15T21:02:07.000Z</updated>
@@ -1279,15 +1297,6 @@
         <id>https://www.youtube.com/watch?v=NOp4fY45Jo4</id>
         <link href="https://www.youtube.com/watch?v=NOp4fY45Jo4"/>
         <updated>2024-01-12T17:36:30.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Off the Beach]]></title>
-        <id>https://www.youtube.com/watch?v=KJ_3o4rhMsU</id>
-        <link href="https://www.youtube.com/watch?v=KJ_3o4rhMsU"/>
-        <updated>2024-01-12T17:30:12.000Z</updated>
         <author>
             <name>SV Seeker</name>
         </author>
@@ -2487,15 +2496,6 @@
         <updated>2023-11-20T18:02:21.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Wind Turbines Really Work: The Hidden Secrets]]></title>
-        <id>https://www.youtube.com/watch?v=Hf875eOVrVI</id>
-        <link href="https://www.youtube.com/watch?v=Hf875eOVrVI"/>
-        <updated>2023-11-20T11:24:29.000Z</updated>
-        <author>
-            <name>The Engineering Mindset</name>
         </author>
     </entry>
 </feed>
