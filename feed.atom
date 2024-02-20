@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-19T00:31:05.785Z</id>
+    <id>urn:2024-02-20T00:29:15.912Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-19T00:31:05.785Z</updated>
+    <updated>2024-02-20T00:29:15.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Oil Spill Crisis Hits Tobago: Cleanup Underway]]></title>
+        <id>https://www.youtube.com/watch?v=smAyj1PeHGo</id>
+        <link href="https://www.youtube.com/watch?v=smAyj1PeHGo"/>
+        <updated>2024-02-19T21:00:25.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fighting Enteric Fever: Oxford's Trial on Paratyphoid Vaccine]]></title>
+        <id>https://www.youtube.com/watch?v=hU2H0Jummck</id>
+        <link href="https://www.youtube.com/watch?v=hU2H0Jummck"/>
+        <updated>2024-02-19T20:00:30.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Clay Jars to Lithium: Battery Evolution]]></title>
+        <id>https://www.youtube.com/watch?v=FOOMGCdVYso</id>
+        <link href="https://www.youtube.com/watch?v=FOOMGCdVYso"/>
+        <updated>2024-02-19T19:00:07.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Clay Jars to Lithium: Battery Evolution]]></title>
+        <id>https://www.youtube.com/watch?v=rIQMY3oQBa0</id>
+        <link href="https://www.youtube.com/watch?v=rIQMY3oQBa0"/>
+        <updated>2024-02-19T16:11:30.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How MOSFETS Work - Unravel the Mysteries of How mosfets Work!]]></title>
+        <id>https://www.youtube.com/watch?v=AwRJsze_9m4</id>
+        <link href="https://www.youtube.com/watch?v=AwRJsze_9m4"/>
+        <updated>2024-02-19T15:30:49.000Z</updated>
+        <author>
+            <name>The Engineering Mindset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The M1 Abrams Sounds Crazy]]></title>
+        <id>https://www.youtube.com/watch?v=sk6f0JTAQWY</id>
+        <link href="https://www.youtube.com/watch?v=sk6f0JTAQWY"/>
+        <updated>2024-02-19T15:00:47.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIT & Adidas: Sneaker Design with 3D Printing]]></title>
+        <id>https://www.youtube.com/watch?v=NsOMCha14wY</id>
+        <link href="https://www.youtube.com/watch?v=NsOMCha14wY"/>
+        <updated>2024-02-19T13:51:31.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KOR5 Slinging CHIPS]]></title>
+        <id>https://www.youtube.com/watch?v=1VP2gOLFPf4</id>
+        <link href="https://www.youtube.com/watch?v=1VP2gOLFPf4"/>
+        <updated>2024-02-19T12:00:01.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why don’t they launch rockets from on top of mountains? #rockets #rocketscience]]></title>
+        <id>https://www.youtube.com/watch?v=F4prIyQ0xvw</id>
+        <link href="https://www.youtube.com/watch?v=F4prIyQ0xvw"/>
+        <updated>2024-02-19T01:56:03.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DANGER SHOWER HEATER #shower #electronics #funny]]></title>
+        <id>https://www.youtube.com/watch?v=zeraCjtUCGs</id>
+        <link href="https://www.youtube.com/watch?v=zeraCjtUCGs"/>
+        <updated>2024-02-19T00:45:43.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Sea Monster Gets a New Home @andrew.mcdonald.]]></title>
         <id>https://www.youtube.com/watch?v=Aka1P2zmHTo</id>
@@ -231,15 +321,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PYKA Delivers 1st Electric Cargo Plane]]></title>
-        <id>https://www.youtube.com/watch?v=v0Nnvp712ho</id>
-        <link href="https://www.youtube.com/watch?v=v0Nnvp712ho"/>
-        <updated>2024-02-15T17:00:47.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MRE Review — New Zealand Soldier Rates US Army Field Rations | Boot Camp | Business Insider]]></title>
         <id>https://www.youtube.com/watch?v=-6SQZ5o0Xvk</id>
         <link href="https://www.youtube.com/watch?v=-6SQZ5o0Xvk"/>
@@ -267,15 +348,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[US Private Moon Landing Mission]]></title>
-        <id>https://www.youtube.com/watch?v=ee5QQUxv4ko</id>
-        <link href="https://www.youtube.com/watch?v=ee5QQUxv4ko"/>
-        <updated>2024-02-15T15:00:37.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Something in Your Kitchen Emits Antimatter #kurzgesagt #shorts]]></title>
         <id>https://www.youtube.com/watch?v=Pj20omaP7WI</id>
         <link href="https://www.youtube.com/watch?v=Pj20omaP7WI"/>
@@ -285,39 +357,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NREL’s BatMan Project]]></title>
-        <id>https://www.youtube.com/watch?v=9NrwaQKGRYI</id>
-        <link href="https://www.youtube.com/watch?v=9NrwaQKGRYI"/>
-        <updated>2024-02-15T14:00:11.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mars Helicopter Final Flight]]></title>
-        <id>https://www.youtube.com/watch?v=wfnMGt2UMHE</id>
-        <link href="https://www.youtube.com/watch?v=wfnMGt2UMHE"/>
-        <updated>2024-02-15T13:00:48.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CNC Machining Monel K500: Unleashing The SYIL X7!]]></title>
         <id>https://www.youtube.com/watch?v=ziBW_Im6rYg</id>
         <link href="https://www.youtube.com/watch?v=ziBW_Im6rYg"/>
         <updated>2024-02-15T12:00:48.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese Atomic Clock is Almost Error-Free]]></title>
-        <id>https://www.youtube.com/watch?v=rc2pHJsGsBQ</id>
-        <link href="https://www.youtube.com/watch?v=rc2pHJsGsBQ"/>
-        <updated>2024-02-15T12:00:47.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -615,15 +660,6 @@
         <updated>2024-02-09T14:00:07.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Never Inhale Coolant Mist Again! 😵]]></title>
-        <id>https://www.youtube.com/watch?v=RWntBpsfjOA</id>
-        <link href="https://www.youtube.com/watch?v=RWntBpsfjOA"/>
-        <updated>2024-02-09T12:00:20.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1851,15 +1887,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Fuses have Voltage Rating? #fuse #rating #electronics #funny]]></title>
-        <id>https://www.youtube.com/watch?v=2DCukI3IZTc</id>
-        <link href="https://www.youtube.com/watch?v=2DCukI3IZTc"/>
-        <updated>2023-12-21T17:00:59.000Z</updated>
-        <author>
-            <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Most-Photographed Toilet In New Zealand]]></title>
         <id>https://www.youtube.com/watch?v=F9QS_qbeNLU</id>
         <link href="https://www.youtube.com/watch?v=F9QS_qbeNLU"/>
@@ -2451,33 +2478,6 @@
         <updated>2023-11-22T21:47:40.000Z</updated>
         <author>
             <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liz Magic Laser | Convulsive States]]></title>
-        <id>https://www.youtube.com/watch?v=y27REk0tvAU</id>
-        <link href="https://www.youtube.com/watch?v=y27REk0tvAU"/>
-        <updated>2023-11-21T20:24:20.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get The Vsauce Soundtrack On Vinyl!]]></title>
-        <id>https://www.youtube.com/watch?v=rmhAiLuH47M</id>
-        <link href="https://www.youtube.com/watch?v=rmhAiLuH47M"/>
-        <updated>2023-11-21T17:40:00.000Z</updated>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Last Thing To Ever Happen In The Universe]]></title>
-        <id>https://www.youtube.com/watch?v=FgnjdW-x7mQ</id>
-        <link href="https://www.youtube.com/watch?v=FgnjdW-x7mQ"/>
-        <updated>2023-11-21T15:00:01.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>
