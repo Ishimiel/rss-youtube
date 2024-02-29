@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-28T00:28:40.427Z</id>
+    <id>urn:2024-02-29T00:29:45.499Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-28T00:28:40.427Z</updated>
+    <updated>2024-02-29T00:29:45.499Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Motorola's Cutting-Edge AI Innovations and Bendable Displays]]></title>
+        <id>https://www.youtube.com/watch?v=fAovVR_qeds</id>
+        <link href="https://www.youtube.com/watch?v=fAovVR_qeds"/>
+        <updated>2024-02-28T20:00:14.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🌱 Biomimicry: Drawing Inspiration from Nature for the Future]]></title>
+        <id>https://www.youtube.com/watch?v=VZCnS5G6keQ</id>
+        <link href="https://www.youtube.com/watch?v=VZCnS5G6keQ"/>
+        <updated>2024-02-28T19:00:22.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🌱 Biomimicry: How Nature Helps Us Create an Amazing Future]]></title>
+        <id>https://www.youtube.com/watch?v=1UsaiQeuDu4</id>
+        <link href="https://www.youtube.com/watch?v=1UsaiQeuDu4"/>
+        <updated>2024-02-28T19:00:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Bad Is The Wind Turbine Trash Problem? And Can We Solve It? | World Wide Waste]]></title>
+        <id>https://www.youtube.com/watch?v=qNEMAklFF0I</id>
+        <link href="https://www.youtube.com/watch?v=qNEMAklFF0I"/>
+        <updated>2024-02-28T18:56:42.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Always Use GFCI in Bathroom #electrical #funny #shock]]></title>
+        <id>https://www.youtube.com/watch?v=QQaOYiQJ2pw</id>
+        <link href="https://www.youtube.com/watch?v=QQaOYiQJ2pw"/>
+        <updated>2024-02-28T17:22:16.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mask Under Electron Microscope]]></title>
+        <id>https://www.youtube.com/watch?v=B5IAhSwNN-M</id>
+        <link href="https://www.youtube.com/watch?v=B5IAhSwNN-M"/>
+        <updated>2024-02-28T17:00:15.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Life in a Space Station]]></title>
+        <id>https://www.youtube.com/watch?v=-AJrI77BVi8</id>
+        <link href="https://www.youtube.com/watch?v=-AJrI77BVi8"/>
+        <updated>2024-02-28T16:00:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Way to Make Threads?]]></title>
+        <id>https://www.youtube.com/watch?v=28o7QhxGZGA</id>
+        <link href="https://www.youtube.com/watch?v=28o7QhxGZGA"/>
+        <updated>2024-02-28T12:00:02.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experimental Spacecraft Prepared for Launch]]></title>
+        <id>https://www.youtube.com/watch?v=sefJqXRxgyw</id>
+        <link href="https://www.youtube.com/watch?v=sefJqXRxgyw"/>
+        <updated>2024-02-28T04:00:18.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(SM-3) Block IB Flight Test]]></title>
+        <id>https://www.youtube.com/watch?v=4OA20xEAmI8</id>
+        <link href="https://www.youtube.com/watch?v=4OA20xEAmI8"/>
+        <updated>2024-02-28T03:00:05.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#Ceylon cinnamon is healthier and sweeter, and it was once as valuable as gold. #SriLanka #cinnamon]]></title>
         <id>https://www.youtube.com/watch?v=qrpE3FlqW50</id>
@@ -168,15 +258,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flying Into the Future: The Bat Bot Revolution]]></title>
-        <id>https://www.youtube.com/watch?v=U6QR3G_Xz8w</id>
-        <link href="https://www.youtube.com/watch?v=U6QR3G_Xz8w"/>
-        <updated>2024-02-26T20:00:18.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Maple Guild in #Vermont produces 1 million bottles of #MapleSyrup each year. #FoodInsider]]></title>
         <id>https://www.youtube.com/watch?v=gIRqBLmP5Sw</id>
         <link href="https://www.youtube.com/watch?v=gIRqBLmP5Sw"/>
@@ -186,66 +267,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What are Stem Cells and How are They Used?]]></title>
-        <id>https://www.youtube.com/watch?v=rFYHtw0hrqM</id>
-        <link href="https://www.youtube.com/watch?v=rFYHtw0hrqM"/>
-        <updated>2024-02-26T19:00:21.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NIRSpec Light Path on the James Webb Space Telescope]]></title>
-        <id>https://www.youtube.com/watch?v=na_MarAQtQ0</id>
-        <link href="https://www.youtube.com/watch?v=na_MarAQtQ0"/>
-        <updated>2024-02-26T17:00:40.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polycarbonate Helicopter Windshield]]></title>
-        <id>https://www.youtube.com/watch?v=bcc4LIlxyzM</id>
-        <link href="https://www.youtube.com/watch?v=bcc4LIlxyzM"/>
-        <updated>2024-02-26T16:00:21.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to CNC Machine Your Own Hammer]]></title>
         <id>https://www.youtube.com/watch?v=vXQYHKltYVg</id>
         <link href="https://www.youtube.com/watch?v=vXQYHKltYVg"/>
         <updated>2024-02-26T12:00:58.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NIRSpec Light Path on the James Webb Space Telescope]]></title>
-        <id>https://www.youtube.com/watch?v=Pj7Uawusos8</id>
-        <link href="https://www.youtube.com/watch?v=Pj7Uawusos8"/>
-        <updated>2024-02-26T04:00:17.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yakovlev-141 Nozzle Movement]]></title>
-        <id>https://www.youtube.com/watch?v=dKYPwGh1TUE</id>
-        <link href="https://www.youtube.com/watch?v=dKYPwGh1TUE"/>
-        <updated>2024-02-26T03:00:31.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USS Antietam (CG 54) Launches a Missile]]></title>
-        <id>https://www.youtube.com/watch?v=by8DkBR4hHg</id>
-        <link href="https://www.youtube.com/watch?v=by8DkBR4hHg"/>
-        <updated>2024-02-25T20:00:10.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -465,15 +492,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The cost of feeding is just one factor driving the price of these #cattle. #Matskusaka #Japanese]]></title>
-        <id>https://www.youtube.com/watch?v=ig8AEUkjSHY</id>
-        <link href="https://www.youtube.com/watch?v=ig8AEUkjSHY"/>
-        <updated>2024-02-21T19:59:46.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[World's strongest magnet!]]></title>
         <id>https://www.youtube.com/watch?v=ov_7HT8bbX4</id>
         <link href="https://www.youtube.com/watch?v=ov_7HT8bbX4"/>
@@ -627,15 +645,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lathe Insert SHOWDOWN: Which of the Two is Best and WHY?]]></title>
-        <id>https://www.youtube.com/watch?v=jYNl66LYIJA</id>
-        <link href="https://www.youtube.com/watch?v=jYNl66LYIJA"/>
-        <updated>2024-02-17T14:00:26.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Hear Black Hole Echoes]]></title>
         <id>https://www.youtube.com/watch?v=KzuM8maf05Y</id>
         <link href="https://www.youtube.com/watch?v=KzuM8maf05Y"/>
@@ -744,7 +753,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How a New X-Ray Technique Sees Black Holes]]></title>
+        <title type="html"><![CDATA[Unveiling Black Holes: Innovative X-ray Technique Reveals Their Secrets]]></title>
         <id>https://www.youtube.com/watch?v=TwJuA05M5Eo</id>
         <link href="https://www.youtube.com/watch?v=TwJuA05M5Eo"/>
         <updated>2024-02-12T17:39:41.000Z</updated>
@@ -1578,15 +1587,6 @@
         <updated>2024-01-09T09:45:53.000Z</updated>
         <author>
             <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Massive DC Arcs with Marx Generator #electronics #highvoltage #funny]]></title>
-        <id>https://www.youtube.com/watch?v=kHRVG4NgZPs</id>
-        <link href="https://www.youtube.com/watch?v=kHRVG4NgZPs"/>
-        <updated>2024-01-08T16:00:29.000Z</updated>
-        <author>
-            <name>ElectroBOOM</name>
         </author>
     </entry>
     <entry>
@@ -2433,42 +2433,6 @@
         <updated>2023-12-01T16:00:06.000Z</updated>
         <author>
             <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nonlinear parametric models of viscoelastic fluid flows with SINDy]]></title>
-        <id>https://www.youtube.com/watch?v=pBAmBZP5Sp8</id>
-        <link href="https://www.youtube.com/watch?v=pBAmBZP5Sp8"/>
-        <updated>2023-12-01T11:00:55.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Does Stretching Work?]]></title>
-        <id>https://www.youtube.com/watch?v=T4DsjQuVLW0</id>
-        <link href="https://www.youtube.com/watch?v=T4DsjQuVLW0"/>
-        <updated>2023-11-30T23:16:47.000Z</updated>
-        <author>
-            <name>Physics Girl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Book Designed To Cause NIGHTMARES]]></title>
-        <id>https://www.youtube.com/watch?v=0G5KF9EBk7c</id>
-        <link href="https://www.youtube.com/watch?v=0G5KF9EBk7c"/>
-        <updated>2023-11-30T19:13:34.000Z</updated>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The SAT Question Everyone Got Wrong]]></title>
-        <id>https://www.youtube.com/watch?v=FUHkTs-Ipfg</id>
-        <link href="https://www.youtube.com/watch?v=FUHkTs-Ipfg"/>
-        <updated>2023-11-30T14:13:48.000Z</updated>
-        <author>
-            <name>Veritasium</name>
         </author>
     </entry>
 </feed>
