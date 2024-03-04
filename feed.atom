@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-03T00:31:41.332Z</id>
+    <id>urn:2024-03-04T00:30:21.627Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-03T00:31:41.332Z</updated>
+    <updated>2024-03-04T00:30:21.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Watch SpaceX Launch 4 Humans for NASA on a brand new booster!]]></title>
+        <id>https://www.youtube.com/watch?v=-FhEl4natq0</id>
+        <link href="https://www.youtube.com/watch?v=-FhEl4natq0"/>
+        <updated>2024-03-03T22:46:12.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX’s Falcon 9 Blooper]]></title>
+        <id>https://www.youtube.com/watch?v=DxjpyJjZrcs</id>
+        <link href="https://www.youtube.com/watch?v=DxjpyJjZrcs"/>
+        <updated>2024-03-03T20:00:04.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solar Eclipse Seen from Mars]]></title>
+        <id>https://www.youtube.com/watch?v=zC-ShbRECD0</id>
+        <link href="https://www.youtube.com/watch?v=zC-ShbRECD0"/>
+        <updated>2024-03-03T16:00:41.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Νεαρός Έλληνας - Final Fantasy 7]]></title>
+        <id>https://www.youtube.com/watch?v=ab148ss7RwY</id>
+        <link href="https://www.youtube.com/watch?v=ab148ss7RwY"/>
+        <updated>2024-03-03T14:00:46.000Z</updated>
+        <author>
+            <name>NinjaCakeAssassin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slow Motion Swiss Machining 😲]]></title>
+        <id>https://www.youtube.com/watch?v=uYZyuKccM4A</id>
+        <link href="https://www.youtube.com/watch?v=uYZyuKccM4A"/>
+        <updated>2024-03-03T12:00:42.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astronaut and Cosmonaut Exchange the Key]]></title>
+        <id>https://www.youtube.com/watch?v=rSGCT2vTF9g</id>
+        <link href="https://www.youtube.com/watch?v=rSGCT2vTF9g"/>
+        <updated>2024-03-03T04:00:16.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mexico Volcanic Eruption Ash Spread]]></title>
+        <id>https://www.youtube.com/watch?v=K0s7lqOxZI0</id>
+        <link href="https://www.youtube.com/watch?v=K0s7lqOxZI0"/>
+        <updated>2024-03-03T03:00:10.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zooming in Into a Blue Morpho Butterfly's Wings]]></title>
         <id>https://www.youtube.com/watch?v=njnbjT6y_0g</id>
@@ -213,24 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From Fireworks to the Cosmos: Rockets Blasting into Space!]]></title>
-        <id>https://www.youtube.com/watch?v=Sfs3frCfLLI</id>
-        <link href="https://www.youtube.com/watch?v=Sfs3frCfLLI"/>
-        <updated>2024-02-29T20:46:01.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Japan is Removing Space Junk]]></title>
-        <id>https://www.youtube.com/watch?v=mKYLm75zqHw</id>
-        <link href="https://www.youtube.com/watch?v=mKYLm75zqHw"/>
-        <updated>2024-02-29T20:00:18.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Could This Be The Next Air Force One? - Hermeus]]></title>
         <id>https://www.youtube.com/watch?v=UyKtxsdI0z8</id>
         <link href="https://www.youtube.com/watch?v=UyKtxsdI0z8"/>
@@ -240,30 +285,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA["Innovating with Roses: The Story of Edible Perfume"]]></title>
-        <id>https://www.youtube.com/watch?v=1xgeH31ssys</id>
-        <link href="https://www.youtube.com/watch?v=1xgeH31ssys"/>
-        <updated>2024-02-29T17:00:01.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Navy Boot Camp Instructors Are Trained | Boot Camp | Business Insider]]></title>
         <id>https://www.youtube.com/watch?v=bK9YMhz2ZMc</id>
         <link href="https://www.youtube.com/watch?v=bK9YMhz2ZMc"/>
         <updated>2024-02-29T16:00:32.000Z</updated>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atlas Balancing on One Foot]]></title>
-        <id>https://www.youtube.com/watch?v=SuPwjQoedJw</id>
-        <link href="https://www.youtube.com/watch?v=SuPwjQoedJw"/>
-        <updated>2024-02-29T16:00:26.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -627,15 +654,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Swiss Tooling in the Tornos GT32]]></title>
-        <id>https://www.youtube.com/watch?v=NKYc7aQ1x1U</id>
-        <link href="https://www.youtube.com/watch?v=NKYc7aQ1x1U"/>
-        <updated>2024-02-22T12:00:22.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[World's strongest magnet!]]></title>
         <id>https://www.youtube.com/watch?v=ov_7HT8bbX4</id>
         <link href="https://www.youtube.com/watch?v=ov_7HT8bbX4"/>
@@ -852,7 +870,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How a New X-Ray Technique Sees Black Holes]]></title>
+        <title type="html"><![CDATA[Unveiling Black Holes: Innovative X-ray Technique Reveals Their Secrets]]></title>
         <id>https://www.youtube.com/watch?v=TwJuA05M5Eo</id>
         <link href="https://www.youtube.com/watch?v=TwJuA05M5Eo"/>
         <updated>2024-02-12T17:39:41.000Z</updated>
@@ -2397,42 +2415,6 @@
         <updated>2023-12-05T16:30:09.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[244,432,188,000 games of Catan - Numberphile]]></title>
-        <id>https://www.youtube.com/watch?v=NkNoVnXfVXI</id>
-        <link href="https://www.youtube.com/watch?v=NkNoVnXfVXI"/>
-        <updated>2023-12-05T09:54:28.000Z</updated>
-        <author>
-            <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding the Cosmos: Does Reality Emerge From Simple Computations?]]></title>
-        <id>https://www.youtube.com/watch?v=ITJ3AF3TK5M</id>
-        <link href="https://www.youtube.com/watch?v=ITJ3AF3TK5M"/>
-        <updated>2023-12-04T23:44:46.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fastest Punch Ever]]></title>
-        <id>https://www.youtube.com/watch?v=JTLAn5PtBuw</id>
-        <link href="https://www.youtube.com/watch?v=JTLAn5PtBuw"/>
-        <updated>2023-12-04T21:36:13.000Z</updated>
-        <author>
-            <name>Physics Girl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Me Before Vsauce]]></title>
-        <id>https://www.youtube.com/watch?v=ZYxwSKBD8U0</id>
-        <link href="https://www.youtube.com/watch?v=ZYxwSKBD8U0"/>
-        <updated>2023-12-04T21:13:29.000Z</updated>
-        <author>
-            <name>Vsauce</name>
         </author>
     </entry>
 </feed>
