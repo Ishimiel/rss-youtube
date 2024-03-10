@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-09T00:28:46.726Z</id>
+    <id>urn:2024-03-10T00:32:38.236Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-09T00:28:46.726Z</updated>
+    <updated>2024-03-10T00:32:38.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The bizarre physics of tops]]></title>
+        <id>https://www.youtube.com/watch?v=ynzoJOEfNxk</id>
+        <link href="https://www.youtube.com/watch?v=ynzoJOEfNxk"/>
+        <updated>2024-03-09T23:54:44.000Z</updated>
+        <author>
+            <name>Physics Girl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Have You Ever Seen A Supernova]]></title>
+        <id>https://www.youtube.com/watch?v=Xq7V1kowl-Y</id>
+        <link href="https://www.youtube.com/watch?v=Xq7V1kowl-Y"/>
+        <updated>2024-03-09T18:00:15.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everyone Cures Resin 3D prints WRONG! 40% Stronger with a Simple Trick.]]></title>
+        <id>https://www.youtube.com/watch?v=886X2geCRrA</id>
+        <link href="https://www.youtube.com/watch?v=886X2geCRrA"/>
+        <updated>2024-03-09T17:30:48.000Z</updated>
+        <author>
+            <name>CNC Kitchen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Pedal Harps Are So Expensive | So Expensive | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=r3xzJbXy1eU</id>
+        <link href="https://www.youtube.com/watch?v=r3xzJbXy1eU"/>
+        <updated>2024-03-09T16:00:35.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Have You Heard of NITRONIC 60? Let’s Machine It]]></title>
+        <id>https://www.youtube.com/watch?v=cBJANOZa060</id>
+        <link href="https://www.youtube.com/watch?v=cBJANOZa060"/>
+        <updated>2024-03-09T14:00:23.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing Kennametal Turning Inserts]]></title>
+        <id>https://www.youtube.com/watch?v=SzNDMShIfK4</id>
+        <link href="https://www.youtube.com/watch?v=SzNDMShIfK4"/>
+        <updated>2024-03-09T12:00:31.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cooking Robot]]></title>
+        <id>https://www.youtube.com/watch?v=Nzi72yDwjgc</id>
+        <link href="https://www.youtube.com/watch?v=Nzi72yDwjgc"/>
+        <updated>2024-03-09T04:00:14.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atlas Robot]]></title>
+        <id>https://www.youtube.com/watch?v=9Yfrug4L13Q</id>
+        <link href="https://www.youtube.com/watch?v=9Yfrug4L13Q"/>
+        <updated>2024-03-09T03:00:05.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Is This Basic Computer Science Problem So Hard?]]></title>
         <id>https://www.youtube.com/watch?v=IzSs_gJDVzI</id>
@@ -15,7 +87,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beyond Einstein: Part Three - Gravitational Geysers]]></title>
+        <title type="html"><![CDATA[Beyond Einstein: Gravitational Geysers]]></title>
         <id>https://www.youtube.com/watch?v=WuaSoTyqrTA</id>
         <link href="https://www.youtube.com/watch?v=WuaSoTyqrTA"/>
         <updated>2024-03-08T23:00:07.000Z</updated>
@@ -24,7 +96,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beyond Einstein: Part Two - Gravitational Echoes]]></title>
+        <title type="html"><![CDATA[Beyond Einstein: Gravitational Echoes]]></title>
         <id>https://www.youtube.com/watch?v=srVTqRdsAXg</id>
         <link href="https://www.youtube.com/watch?v=srVTqRdsAXg"/>
         <updated>2024-03-08T22:00:07.000Z</updated>
@@ -33,7 +105,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beyond Einstein: Part One - Gravitational Rainbows]]></title>
+        <title type="html"><![CDATA[Beyond Einstein: Gravitational Rainbows]]></title>
         <id>https://www.youtube.com/watch?v=P8pC_yehPH0</id>
         <link href="https://www.youtube.com/watch?v=P8pC_yehPH0"/>
         <updated>2024-03-08T21:00:06.000Z</updated>
@@ -294,39 +366,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Boiling Water in Paper Cup]]></title>
-        <id>https://www.youtube.com/watch?v=E6q5xg78olU</id>
-        <link href="https://www.youtube.com/watch?v=E6q5xg78olU"/>
-        <updated>2024-03-06T20:00:05.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Turn a Lighter Into a Microphone #electronics #lighter #funny #microphone]]></title>
         <id>https://www.youtube.com/watch?v=3B9iG-w3NO0</id>
         <link href="https://www.youtube.com/watch?v=3B9iG-w3NO0"/>
         <updated>2024-03-06T17:01:24.000Z</updated>
         <author>
             <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Irregular Object's Center of Mass]]></title>
-        <id>https://www.youtube.com/watch?v=2oKMInBQo_s</id>
-        <link href="https://www.youtube.com/watch?v=2oKMInBQo_s"/>
-        <updated>2024-03-06T17:00:04.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AlterEgo: The Future of Communication]]></title>
-        <id>https://www.youtube.com/watch?v=dZcHR2BlroU</id>
-        <link href="https://www.youtube.com/watch?v=dZcHR2BlroU"/>
-        <updated>2024-03-06T16:00:23.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -618,15 +663,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best Way to Make Threads?]]></title>
-        <id>https://www.youtube.com/watch?v=28o7QhxGZGA</id>
-        <link href="https://www.youtube.com/watch?v=28o7QhxGZGA"/>
-        <updated>2024-02-28T12:00:02.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#Ceylon cinnamon is healthier and sweeter, and it was once as valuable as gold. #SriLanka #cinnamon]]></title>
         <id>https://www.youtube.com/watch?v=qrpE3FlqW50</id>
         <link href="https://www.youtube.com/watch?v=qrpE3FlqW50"/>
@@ -672,28 +708,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Knowledge Will Save YOU MILLIONS!]]></title>
-        <id>https://www.youtube.com/watch?v=akiNIOoJpGs</id>
-        <link href="https://www.youtube.com/watch?v=akiNIOoJpGs"/>
-        <updated>2024-02-27T14:00:02.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Here are 6 simple and effective tips to level up your #investing game. #finance #businessinsider]]></title>
         <id>https://www.youtube.com/watch?v=PCLRtiAM_cM</id>
         <link href="https://www.youtube.com/watch?v=PCLRtiAM_cM"/>
         <updated>2024-02-27T00:14:36.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It takes 24 hours to make one batch of Kala Namak. #blacksalt #Himalayansalt #India]]></title>
-        <id>https://www.youtube.com/watch?v=hoHDVjVR6-s</id>
-        <link href="https://www.youtube.com/watch?v=hoHDVjVR6-s"/>
-        <updated>2024-02-26T21:10:41.000Z</updated>
         <author>
             <name>Business Insider</name>
         </author>
@@ -1005,7 +1023,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How a New X-Ray Technique Sees Black Holes]]></title>
+        <title type="html"><![CDATA[Unveiling Black Holes: Innovative X-ray Technique Reveals Their Secrets]]></title>
         <id>https://www.youtube.com/watch?v=TwJuA05M5Eo</id>
         <link href="https://www.youtube.com/watch?v=TwJuA05M5Eo"/>
         <updated>2024-02-12T17:39:41.000Z</updated>
@@ -2442,15 +2460,6 @@
         <updated>2023-12-11T16:24:45.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mirrors And The Fourth Dimension]]></title>
-        <id>https://www.youtube.com/watch?v=nbmr2HKNpkg</id>
-        <link href="https://www.youtube.com/watch?v=nbmr2HKNpkg"/>
-        <updated>2023-12-11T05:08:56.000Z</updated>
-        <author>
-            <name>Vsauce</name>
         </author>
     </entry>
 </feed>
