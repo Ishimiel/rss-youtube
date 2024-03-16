@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GSFGqfIWm5o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GSFGqfIWm5o",
+          "publishedOn": "2024-03-15T16:14:29.000Z",
+          "wordCount": null,
+          "title": "Solving The Reachability Problem",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=IzSs_gJDVzI",
           "author": null,
           "description": "",
@@ -32,7 +42,7 @@
           "link": "https://www.youtube.com/watch?v=TwJuA05M5Eo",
           "publishedOn": "2024-02-12T17:39:41.000Z",
           "wordCount": null,
-          "title": "How X-rays Illuminate Black Hole Effects on the Milky Way",
+          "title": "How a New X-Ray Technique Sees Black Holes",
           "imageUrl": null
         },
         {
@@ -131,18 +141,7 @@
       "title": "Primer",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKzJFdi57J53Vr_BkTfN3uQ",
       "siteUrl": "https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=TZfh8hpJIxo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TZfh8hpJIxo",
-          "publishedOn": "2023-12-16T16:15:03.000Z",
-          "wordCount": null,
-          "title": "Simulating the Evolution of Teamwork",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Reducible",
@@ -596,6 +595,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Xcg2iCRv5Kc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Xcg2iCRv5Kc",
+          "publishedOn": "2024-03-15T14:07:03.000Z",
+          "wordCount": null,
+          "title": "Pioneer Live: Caterina Barbieri",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=bCEQgArn1K0",
           "author": null,
           "description": "",
@@ -612,7 +621,7 @@
           "link": "https://www.youtube.com/watch?v=YjdhEh5mlXc",
           "publishedOn": "2024-02-22T15:05:09.000Z",
           "wordCount": null,
-          "title": "LEYA (Live at Pioneer Works)",
+          "title": "Pioneer Live: LEYA",
           "imageUrl": null
         },
         {
@@ -729,6 +738,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_7aK9PpYTqt08ERh1MewlQ",
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=puEZDuJquA4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=puEZDuJquA4",
+          "publishedOn": "2024-03-15T13:00:54.000Z",
+          "wordCount": null,
+          "title": "Will the Lemonade Stand?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=3R4rtrFh-B8",
           "author": null,
@@ -868,16 +887,6 @@
           "wordCount": null,
           "title": "3D Printing for HOMELAB? 45Drives HL15 + Craft Computing!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NYB1s-goaNc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NYB1s-goaNc",
-          "publishedOn": "2023-12-29T14:00:11.000Z",
-          "wordCount": null,
-          "title": "MY FAVORITE Bambu X1 Carbon MOD!",
-          "imageUrl": null
         }
       ]
     },
@@ -952,7 +961,7 @@
           "link": "https://www.youtube.com/watch?v=n7EWexck8NE",
           "publishedOn": "2024-02-24T17:39:06.000Z",
           "wordCount": null,
-          "title": "I Built a Solid-State Dehumidifier Filament Dry Box",
+          "title": "Electrolysis-Based Dry Box: The 3D Printing Game Changer?",
           "imageUrl": null
         },
         {
@@ -962,7 +971,7 @@
           "link": "https://www.youtube.com/watch?v=5hGm6cubFVs",
           "publishedOn": "2024-02-17T16:32:25.000Z",
           "wordCount": null,
-          "title": "Brick Layers: Could printing STRONG parts be so simple?",
+          "title": "Revolutionizing 3D Printing: Beyond Flat Layers",
           "imageUrl": null
         },
         {
@@ -972,7 +981,7 @@
           "link": "https://www.youtube.com/watch?v=H7OsnMLDIMw",
           "publishedOn": "2024-01-27T16:30:03.000Z",
           "wordCount": null,
-          "title": "No More Calibration Cubes! Here's how you do it right!",
+          "title": "Calibration Cubes: More Harm Than Good?",
           "imageUrl": null
         },
         {
@@ -1173,6 +1182,66 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Vhv9nw2Ycm8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Vhv9nw2Ycm8",
+          "publishedOn": "2024-03-15T23:00:15.000Z",
+          "wordCount": null,
+          "title": "Volcanic Eruption",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=nkx9gj16bMU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nkx9gj16bMU",
+          "publishedOn": "2024-03-15T21:00:33.000Z",
+          "wordCount": null,
+          "title": "Transform Plastic Barbie Jeep",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=4ly5dT8O5Mo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4ly5dT8O5Mo",
+          "publishedOn": "2024-03-15T18:00:01.000Z",
+          "wordCount": null,
+          "title": "Self-Driving Trucks Ace Vase Maze Challenge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zZpcYPHk_VI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zZpcYPHk_VI",
+          "publishedOn": "2024-03-15T13:01:02.000Z",
+          "wordCount": null,
+          "title": "☎️ The Ingenious Evolution of PHONES",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=FwpDkS0ZXlc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FwpDkS0ZXlc",
+          "publishedOn": "2024-03-15T13:00:12.000Z",
+          "wordCount": null,
+          "title": "Test Flight of ZEVA Aero",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=D-FuRbhBDGo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=D-FuRbhBDGo",
+          "publishedOn": "2024-03-15T09:00:08.000Z",
+          "wordCount": null,
+          "title": "Making Your Own Drone at Home",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=TO5nFTBO38Q",
           "author": null,
           "description": "",
@@ -1260,66 +1329,6 @@
           "publishedOn": "2024-03-13T15:00:06.000Z",
           "wordCount": null,
           "title": "Rolls-Royce Pioneers Sustainable Aviation with eVTOL & Electric Planes!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Aod6zjERayI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Aod6zjERayI",
-          "publishedOn": "2024-03-13T04:00:04.000Z",
-          "wordCount": null,
-          "title": "A Breakthrough: The 100,000 Qubit Quantum Supercomputer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tovvOwjW1WI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tovvOwjW1WI",
-          "publishedOn": "2024-03-13T03:00:34.000Z",
-          "wordCount": null,
-          "title": "This Robot Can Perform Complex Surgery",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=omaxJ8lKdl4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=omaxJ8lKdl4",
-          "publishedOn": "2024-03-12T21:03:45.000Z",
-          "wordCount": null,
-          "title": "Intersections reimagined: engineer-designed, light-free, and seamlessly efficient. 🤓",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Xt6R8fcVp7M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Xt6R8fcVp7M",
-          "publishedOn": "2024-03-12T20:00:11.000Z",
-          "wordCount": null,
-          "title": "Robotic Prosthetics at Work",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TWl4e1pWKgQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TWl4e1pWKgQ",
-          "publishedOn": "2024-03-12T18:00:13.000Z",
-          "wordCount": null,
-          "title": "Face-Tracking Robot",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=z7eMF_Li1rw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=z7eMF_Li1rw",
-          "publishedOn": "2024-03-12T16:00:49.000Z",
-          "wordCount": null,
-          "title": "Red Bull Camera Drone",
           "imageUrl": null
         }
       ]
@@ -1768,6 +1777,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCj_XaV1ss-qdD-lPUtTEcXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=xjHmhKBaPmQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xjHmhKBaPmQ",
+          "publishedOn": "2024-03-15T23:40:00.000Z",
+          "wordCount": null,
+          "title": "You Are Not My Mother",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lIipv8q878E",
           "author": null,
           "description": "",
@@ -1905,16 +1924,6 @@
           "publishedOn": "2024-01-24T14:59:05.000Z",
           "wordCount": null,
           "title": "Sailing Out of Saint Pete",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jhCSADsMxxI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jhCSADsMxxI",
-          "publishedOn": "2024-01-21T22:59:24.000Z",
-          "wordCount": null,
-          "title": "Wilcox Crittenden - Skipper Type 8 -  Head Repair",
           "imageUrl": null
         }
       ]
@@ -2176,7 +2185,7 @@
           "link": "https://www.youtube.com/watch?v=weeG9yOp3i4",
           "publishedOn": "2024-03-14T15:00:48.000Z",
           "wordCount": null,
-          "title": "The 3D Filament Tier List: 50 Materials Ranked Mercilessly!",
+          "title": "The 3D Filament Tier List: Which Spools Rule?",
           "imageUrl": null
         },
         {
@@ -2275,16 +2284,6 @@
           "wordCount": null,
           "title": "More Modified Ramen - You Suck at Cooking (episode 165)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=w805gcH1Kao",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=w805gcH1Kao",
-          "publishedOn": "2023-12-16T14:12:31.000Z",
-          "wordCount": null,
-          "title": "Grilled Cheese and Tomato Soup - You Suck at Cooking (episode 164)",
-          "imageUrl": null
         }
       ]
     },
@@ -2293,6 +2292,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=GSctxJtLxJk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GSctxJtLxJk",
+          "publishedOn": "2024-03-15T11:00:13.000Z",
+          "wordCount": null,
+          "title": "The Fastest & Easiest Edge Finder",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=eL0CSBESKOk",
           "author": null,
@@ -2432,16 +2441,6 @@
           "wordCount": null,
           "title": "FIRST LOOK at our New SYIL X5: Complete CNC Machine Overview",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TB5JsKealYg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TB5JsKealYg",
-          "publishedOn": "2024-03-05T12:00:20.000Z",
-          "wordCount": null,
-          "title": "Small Lathe Workholding Solution",
-          "imageUrl": null
         }
       ]
     },
@@ -2450,6 +2449,36 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=a99RZNsqH64",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=a99RZNsqH64",
+          "publishedOn": "2024-03-15T19:03:13.000Z",
+          "wordCount": null,
+          "title": "Watch the CEO of a vertical farming company share why Singapore is a great place to live and work.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-kdS94pCrTQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-kdS94pCrTQ",
+          "publishedOn": "2024-03-15T17:37:33.000Z",
+          "wordCount": null,
+          "title": "Watch how Singapore organizations use generative AI to benefit both people and businesses.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=iEkKwOWZS_E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iEkKwOWZS_E",
+          "publishedOn": "2024-03-15T14:00:25.000Z",
+          "wordCount": null,
+          "title": "Why Melted Bugs On Candy And Lemons Fuel A $167 Million Industry | Big Business | Business Insider",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=JDmAimxEuMA",
           "author": null,
@@ -2569,36 +2598,6 @@
           "wordCount": null,
           "title": "In the 13th century, #Ceylon cinnamon became a status symbol for the rich. #SriLanka #Cinnamon",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=neLqfMDhyc8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=neLqfMDhyc8",
-          "publishedOn": "2024-03-05T20:06:35.000Z",
-          "wordCount": null,
-          "title": "Vegetable #tanning is used to make #leather resistant to weather and #decay.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vp-V1-emao8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vp-V1-emao8",
-          "publishedOn": "2024-03-04T21:00:35.000Z",
-          "wordCount": null,
-          "title": "Until the 19th century, vegetable tanning was the only way to make #leather. #Tuscany #tannery",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hHB1h5g5zYs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hHB1h5g5zYs",
-          "publishedOn": "2024-03-04T19:00:16.000Z",
-          "wordCount": null,
-          "title": "How clay pots are used to make a special Indian #salt. #KalaNamak  #Indiancuisine",
-          "imageUrl": null
         }
       ]
     },
@@ -2684,6 +2683,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCM15YNy8g-CaJ15YZCbq0Iw",
       "siteUrl": "https://www.youtube.com/channel/UCM15YNy8g-CaJ15YZCbq0Iw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=INU9WD1nxMM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=INU9WD1nxMM",
+          "publishedOn": "2024-03-15T16:00:19.000Z",
+          "wordCount": null,
+          "title": "I made the Powerpuff Girls and I'm Sorry",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=mBwotyM9iOM",
           "author": null,
@@ -2815,6 +2824,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ0-OtVpF0wOKEqT2Z1HEtA",
       "siteUrl": "https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=66Z0NINGfa0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=66Z0NINGfa0",
+          "publishedOn": "2024-03-15T16:29:18.000Z",
+          "wordCount": null,
+          "title": "Why Replace Bulging Electrolytic Capacitors",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=g9tvub8cn7o",
           "author": null,
@@ -2953,16 +2972,6 @@
           "publishedOn": "2024-01-28T18:08:21.000Z",
           "wordCount": null,
           "title": "Resistive Wire Heats Up! DON'T SIT ON IT! #funny #electronics #heater",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=d1mPemYUrVc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=d1mPemYUrVc",
-          "publishedOn": "2024-01-26T17:00:28.000Z",
-          "wordCount": null,
-          "title": "Mexico HATES Extension Cords!!!",
           "imageUrl": null
         }
       ]
