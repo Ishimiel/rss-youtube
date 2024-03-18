@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-17T00:32:36.342Z</id>
+    <id>urn:2024-03-18T00:31:00.908Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-17T00:32:36.342Z</updated>
+    <updated>2024-03-18T00:31:00.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[X1Plus Release Party & Bambu Firmware R!]]></title>
+        <id>https://www.youtube.com/watch?v=VNu_sEcyQk0</id>
+        <link href="https://www.youtube.com/watch?v=VNu_sEcyQk0"/>
+        <updated>2024-03-17T22:39:23.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KinetiX Designing]]></title>
+        <id>https://www.youtube.com/watch?v=1AYw8l9GPTQ</id>
+        <link href="https://www.youtube.com/watch?v=1AYw8l9GPTQ"/>
+        <updated>2024-03-17T21:00:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Induction Heater to High Voltage Generator #Electronic #Arc #Funny]]></title>
+        <id>https://www.youtube.com/watch?v=v_Mu6q7iqPc</id>
+        <link href="https://www.youtube.com/watch?v=v_Mu6q7iqPc"/>
+        <updated>2024-03-17T20:53:02.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[4K Slow-Mo] Starship Flight 3 Supercut w/ Incredible Audio]]></title>
+        <id>https://www.youtube.com/watch?v=VNK07WuH6GQ</id>
+        <link href="https://www.youtube.com/watch?v=VNK07WuH6GQ"/>
+        <updated>2024-03-17T15:29:58.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Surprising Ways To Turn Trash Into Homes, Roads, And Packaging | World Wide Waste]]></title>
+        <id>https://www.youtube.com/watch?v=pWpH9R-yY4c</id>
+        <link href="https://www.youtube.com/watch?v=pWpH9R-yY4c"/>
+        <updated>2024-03-17T15:00:47.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s the bulge in tank guns for?]]></title>
+        <id>https://www.youtube.com/watch?v=3Ef6BGqgvv4</id>
+        <link href="https://www.youtube.com/watch?v=3Ef6BGqgvv4"/>
+        <updated>2024-03-17T15:00:02.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sewer Survey with Drone]]></title>
+        <id>https://www.youtube.com/watch?v=KRzuSNITmuw</id>
+        <link href="https://www.youtube.com/watch?v=KRzuSNITmuw"/>
+        <updated>2024-03-17T13:00:16.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSANE Feature Nobody is Talking About 🤯]]></title>
+        <id>https://www.youtube.com/watch?v=FNfqlovvufA</id>
+        <link href="https://www.youtube.com/watch?v=FNfqlovvufA"/>
+        <updated>2024-03-17T11:00:19.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Bizarre Sudoku Set-Up - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=WUpvGkDvdb4</id>
+        <link href="https://www.youtube.com/watch?v=WUpvGkDvdb4"/>
+        <updated>2024-03-17T10:29:26.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bright Supernova]]></title>
+        <id>https://www.youtube.com/watch?v=AN2Ho7PvfbY</id>
+        <link href="https://www.youtube.com/watch?v=AN2Ho7PvfbY"/>
+        <updated>2024-03-17T09:06:41.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jet Suit Paramedic]]></title>
         <id>https://www.youtube.com/watch?v=C4ZLNgzqY1U</id>
@@ -264,33 +354,6 @@
         <updated>2024-03-14T19:30:00.000Z</updated>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Bell's Invention to the iPhone: The Evolution of Communication]]></title>
-        <id>https://www.youtube.com/watch?v=tqJdxPQ6FXY</id>
-        <link href="https://www.youtube.com/watch?v=tqJdxPQ6FXY"/>
-        <updated>2024-03-14T19:00:26.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Change of the Earth]]></title>
-        <id>https://www.youtube.com/watch?v=5v07drgUdeg</id>
-        <link href="https://www.youtube.com/watch?v=5v07drgUdeg"/>
-        <updated>2024-03-14T18:00:03.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Technique of Skydiving]]></title>
-        <id>https://www.youtube.com/watch?v=WMdge7ghyCk</id>
-        <link href="https://www.youtube.com/watch?v=WMdge7ghyCk"/>
-        <updated>2024-03-14T16:00:20.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -690,30 +753,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static Balancing Cylindrical Grinding Wheel]]></title>
-        <id>https://www.youtube.com/watch?v=9lRBPt2E3qE</id>
-        <link href="https://www.youtube.com/watch?v=9lRBPt2E3qE"/>
-        <updated>2024-03-07T12:00:07.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Turn a Lighter Into a Microphone #electronics #lighter #funny #microphone]]></title>
         <id>https://www.youtube.com/watch?v=3B9iG-w3NO0</id>
         <link href="https://www.youtube.com/watch?v=3B9iG-w3NO0"/>
         <updated>2024-03-06T17:01:24.000Z</updated>
         <author>
             <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In the 13th century, #Ceylon cinnamon became a status symbol for the rich. #SriLanka #Cinnamon]]></title>
-        <id>https://www.youtube.com/watch?v=JtAlMDsiGAg</id>
-        <link href="https://www.youtube.com/watch?v=JtAlMDsiGAg"/>
-        <updated>2024-03-05T21:00:10.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -888,7 +933,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Solid-State Dehumidifier: The Ultimate Filament Dry Box]]></title>
+        <title type="html"><![CDATA[Innovative Dry Box Build: Beyond Silica Gel Desiccants]]></title>
         <id>https://www.youtube.com/watch?v=n7EWexck8NE</id>
         <link href="https://www.youtube.com/watch?v=n7EWexck8NE"/>
         <updated>2024-02-24T17:39:06.000Z</updated>
@@ -1068,7 +1113,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Have we been slicing 3D prints WRONG?]]></title>
+        <title type="html"><![CDATA[Brick Layers - Why did no one do this before?]]></title>
         <id>https://www.youtube.com/watch?v=5hGm6cubFVs</id>
         <link href="https://www.youtube.com/watch?v=5hGm6cubFVs"/>
         <updated>2024-02-17T16:32:25.000Z</updated>
@@ -1185,7 +1230,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How X-rays Illuminate Black Hole Effects on the Milky Way]]></title>
+        <title type="html"><![CDATA[How a New X-Ray Technique Sees Black Holes]]></title>
         <id>https://www.youtube.com/watch?v=TwJuA05M5Eo</id>
         <link href="https://www.youtube.com/watch?v=TwJuA05M5Eo"/>
         <updated>2024-02-12T17:39:41.000Z</updated>
@@ -1518,15 +1563,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Resistive Wire Heats Up! DON'T SIT ON IT! #funny #electronics #heater]]></title>
-        <id>https://www.youtube.com/watch?v=TkjqJD1lhB0</id>
-        <link href="https://www.youtube.com/watch?v=TkjqJD1lhB0"/>
-        <updated>2024-01-28T18:08:21.000Z</updated>
-        <author>
-            <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Port Saint Joe and Making Repairs]]></title>
         <id>https://www.youtube.com/watch?v=TEnepbrVIMw</id>
         <link href="https://www.youtube.com/watch?v=TEnepbrVIMw"/>
@@ -1536,7 +1572,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop Printing Calibration Cubes Now! Here's Why]]></title>
+        <title type="html"><![CDATA[Calibration Cubes Debunked: Tuning Your Printer Right]]></title>
         <id>https://www.youtube.com/watch?v=H7OsnMLDIMw</id>
         <link href="https://www.youtube.com/watch?v=H7OsnMLDIMw"/>
         <updated>2024-01-27T16:30:03.000Z</updated>
@@ -1905,15 +1941,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How the SR-71's Engine Worked]]></title>
-        <id>https://www.youtube.com/watch?v=Q93GstSJApQ</id>
-        <link href="https://www.youtube.com/watch?v=Q93GstSJApQ"/>
-        <updated>2024-01-11T15:00:18.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Let’s Shrink Earth to Half Its Size #kurzgesagt #shorts]]></title>
         <id>https://www.youtube.com/watch?v=6AWYgNArZZw</id>
         <link href="https://www.youtube.com/watch?v=6AWYgNArZZw"/>
@@ -2010,15 +2037,6 @@
         <updated>2024-01-05T21:00:07.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Printing for HOMELAB? 45Drives HL15 + Craft Computing!]]></title>
-        <id>https://www.youtube.com/watch?v=bp3rhKcO8Lk</id>
-        <link href="https://www.youtube.com/watch?v=bp3rhKcO8Lk"/>
-        <updated>2024-01-05T14:00:22.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
         </author>
     </entry>
     <entry>
@@ -2379,15 +2397,6 @@
         <updated>2023-12-20T17:00:20.000Z</updated>
         <author>
             <name>minutephysics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How is KSP-2's new " For Science!" career mode? [LIVE]]]></title>
-        <id>https://www.youtube.com/watch?v=yq26nH72bOs</id>
-        <link href="https://www.youtube.com/watch?v=yq26nH72bOs"/>
-        <updated>2023-12-19T23:09:32.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
         </author>
     </entry>
     <entry>
