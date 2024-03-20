@@ -114,16 +114,6 @@
           "wordCount": null,
           "title": "2023's Biggest Breakthroughs in Physics",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=g7ih6rHdw3M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=g7ih6rHdw3M",
-          "publishedOn": "2023-12-20T19:07:38.000Z",
-          "wordCount": null,
-          "title": "2023's Biggest Breakthroughs in Computer Science",
-          "imageUrl": null
         }
       ]
     },
@@ -894,16 +884,6 @@
           "wordCount": null,
           "title": "1.8 Million Subscribers (and no one cares)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=51P4-YQACvU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=51P4-YQACvU",
-          "publishedOn": "2023-12-20T20:59:41.000Z",
-          "wordCount": null,
-          "title": "Should sheet music be required for music school?",
-          "imageUrl": null
         }
       ]
     },
@@ -941,7 +921,7 @@
           "link": "https://www.youtube.com/watch?v=n7EWexck8NE",
           "publishedOn": "2024-02-24T17:39:06.000Z",
           "wordCount": null,
-          "title": "I Built a Solid-State Dehumidifier Filament Dry Box",
+          "title": "Electrolysis-Based Dry Box: The 3D Printing Game Changer?",
           "imageUrl": null
         },
         {
@@ -951,7 +931,7 @@
           "link": "https://www.youtube.com/watch?v=5hGm6cubFVs",
           "publishedOn": "2024-02-17T16:32:25.000Z",
           "wordCount": null,
-          "title": "Brick Layers: Could printing STRONG parts be so simple?",
+          "title": "Revolutionizing 3D Printing: Beyond Flat Layers",
           "imageUrl": null
         },
         {
@@ -961,7 +941,7 @@
           "link": "https://www.youtube.com/watch?v=H7OsnMLDIMw",
           "publishedOn": "2024-01-27T16:30:03.000Z",
           "wordCount": null,
-          "title": "No More Calibration Cubes! Here's how you do it right!",
+          "title": "Calibration Cubes: More Harm Than Good?",
           "imageUrl": null
         },
         {
@@ -1162,6 +1142,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=cX-m0dMDKHg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cX-m0dMDKHg",
+          "publishedOn": "2024-03-19T16:00:27.000Z",
+          "wordCount": null,
+          "title": "Homebuilt Wind Turbine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=O9-8taJoH4A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=O9-8taJoH4A",
+          "publishedOn": "2024-03-19T11:15:01.000Z",
+          "wordCount": null,
+          "title": "Firefighters' 50-Meter Vertical Ladder Climb",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=U9uCdi8wPM8",
           "author": null,
           "description": "",
@@ -1290,26 +1290,6 @@
           "wordCount": null,
           "title": "Volcanic Eruption",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nkx9gj16bMU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nkx9gj16bMU",
-          "publishedOn": "2024-03-15T21:00:33.000Z",
-          "wordCount": null,
-          "title": "Transform Plastic Barbie Jeep",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4ly5dT8O5Mo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4ly5dT8O5Mo",
-          "publishedOn": "2024-03-15T18:00:01.000Z",
-          "wordCount": null,
-          "title": "Self-Driving Trucks Ace Vase Maze Challenge",
-          "imageUrl": null
         }
       ]
     },
@@ -1350,18 +1330,7 @@
       "title": "minutephysics",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUHW94eEFW7hkUMVaZz4eDg",
       "siteUrl": "https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=VkNF0rXuDXw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VkNF0rXuDXw",
-          "publishedOn": "2023-12-20T17:00:20.000Z",
-          "wordCount": null,
-          "title": "Should You Wipe Off Your Sweat?",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "NileRed",
@@ -1395,6 +1364,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoxcjq-8xIDTYp3uz647V5A",
       "siteUrl": "https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=sq-ntG5Mcus",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sq-ntG5Mcus",
+          "publishedOn": "2024-03-19T15:54:42.000Z",
+          "wordCount": null,
+          "title": "Absolute Infinity - Numberphile",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=WUpvGkDvdb4",
           "author": null,
@@ -1610,6 +1589,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=WMlZPHRImf0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WMlZPHRImf0",
+          "publishedOn": "2024-03-19T15:00:33.000Z",
+          "wordCount": null,
+          "title": "How the F-16s Leading Edge Flap Works",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ZmgpudUU7XQ",
           "author": null,
           "description": "",
@@ -1747,16 +1736,6 @@
           "publishedOn": "2024-01-18T15:00:46.000Z",
           "wordCount": null,
           "title": "How Water Injection Increases Horsepower",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3rRwyQaawcs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3rRwyQaawcs",
-          "publishedOn": "2024-01-17T15:01:01.000Z",
-          "wordCount": null,
-          "title": "How the P-47s Turbocharger Worked",
           "imageUrl": null
         }
       ]
@@ -2130,16 +2109,6 @@
           "wordCount": null,
           "title": "THE COMPLETE LIST",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=F9QS_qbeNLU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=F9QS_qbeNLU",
-          "publishedOn": "2023-12-21T01:46:48.000Z",
-          "wordCount": null,
-          "title": "The Most-Photographed Toilet In New Zealand",
-          "imageUrl": null
         }
       ]
     },
@@ -2273,6 +2242,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=DXCdCxIKX98",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DXCdCxIKX98",
+          "publishedOn": "2024-03-19T16:00:12.000Z",
+          "wordCount": null,
+          "title": "Maximizing Work Envelope by Machining Removable Tool Setter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=pmD1afrLXGY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pmD1afrLXGY",
+          "publishedOn": "2024-03-19T11:00:50.000Z",
+          "wordCount": null,
+          "title": "3X Your Live Tooling Rotation Speed - Swiss Machining",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_iIf5plQlMA",
           "author": null,
           "description": "",
@@ -2401,26 +2390,6 @@
           "wordCount": null,
           "title": "TOUGH Material: Machining NITRONIC 60",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SzNDMShIfK4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SzNDMShIfK4",
-          "publishedOn": "2024-03-09T12:00:31.000Z",
-          "wordCount": null,
-          "title": "Testing Kennametal Turning Inserts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=k-wTURtL9WQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=k-wTURtL9WQ",
-          "publishedOn": "2024-03-08T12:00:46.000Z",
-          "wordCount": null,
-          "title": "Cutting Better Chips with a Simple G-Code",
-          "imageUrl": null
         }
       ]
     },
@@ -2429,6 +2398,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=j49yC2buopQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=j49yC2buopQ",
+          "publishedOn": "2024-03-19T20:00:15.000Z",
+          "wordCount": null,
+          "title": "One of the most sacred objects in #Judaism is made of skin from a bull's neck. #tefillin #leather",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ZDEKZgChp3A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZDEKZgChp3A",
+          "publishedOn": "2024-03-19T18:00:28.000Z",
+          "wordCount": null,
+          "title": "The melting #glacier revealed decades of trash and hundreds of bodies. #MountEverest #Climate",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=vU-QEZN-46U",
           "author": null,
@@ -2456,7 +2445,7 @@
           "link": "https://www.youtube.com/watch?v=pWpH9R-yY4c",
           "publishedOn": "2024-03-17T15:00:47.000Z",
           "wordCount": null,
-          "title": "5 Surprising Ways To Turn Trash Into Homes, Roads, And Packaging | World Wide Waste",
+          "title": "Is Trash The Building Material of The Future? | World Wide Waste | Business Insider",
           "imageUrl": null
         },
         {
@@ -2506,7 +2495,7 @@
           "link": "https://www.youtube.com/watch?v=9RXObjS639M",
           "publishedOn": "2024-03-14T19:30:00.000Z",
           "wordCount": null,
-          "title": "How Pizza Giant Papa Johns Makes 4 Million Dough Balls A Week | Big Business | Business Insider",
+          "title": "How Papa Johns Makes Millions Of Dough Balls Before The Super Bowl | Big Business | Business Insider",
           "imageUrl": null
         },
         {
@@ -2557,26 +2546,6 @@
           "publishedOn": "2024-03-09T16:00:35.000Z",
           "wordCount": null,
           "title": "Why Pedal Harps Cost As Much As A Car To Buy And Maintain | So Expensive | Business Insider",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=J6Y8F4q8fvQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=J6Y8F4q8fvQ",
-          "publishedOn": "2024-03-08T19:05:40.000Z",
-          "wordCount": null,
-          "title": "Slagel Hall served 2.1 million meals to the US #military last year. #soliders #dininghall",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UuX0yNzLobY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UuX0yNzLobY",
-          "publishedOn": "2024-03-08T16:32:47.000Z",
-          "wordCount": null,
-          "title": "lluminate Your Investing To Match Your Interest In Sustainability | Bright Ideas",
           "imageUrl": null
         }
       ]
