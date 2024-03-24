@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-23T00:29:14.497Z</id>
+    <id>urn:2024-03-24T00:33:17.043Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-23T00:29:14.497Z</updated>
+    <updated>2024-03-24T00:33:17.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Collimator 2.0 and Quanser!!!]]></title>
+        <id>https://www.youtube.com/watch?v=UtBP5po_k4A</id>
+        <link href="https://www.youtube.com/watch?v=UtBP5po_k4A"/>
+        <updated>2024-03-24T00:15:00.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Electric Discharge is Dangerous #esd #charge #flammable #funny]]></title>
+        <id>https://www.youtube.com/watch?v=MgxpiBvNoxc</id>
+        <link href="https://www.youtube.com/watch?v=MgxpiBvNoxc"/>
+        <updated>2024-03-23T19:15:43.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I made 3D Printing Filament from Hot Glue Sticks]]></title>
+        <id>https://www.youtube.com/watch?v=alwsRqh5W8M</id>
+        <link href="https://www.youtube.com/watch?v=alwsRqh5W8M"/>
+        <updated>2024-03-23T18:59:12.000Z</updated>
+        <author>
+            <name>CNC Kitchen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[They Say You CANNOT Do This To a CNC Machine]]></title>
+        <id>https://www.youtube.com/watch?v=wuQE3TTE-xg</id>
+        <link href="https://www.youtube.com/watch?v=wuQE3TTE-xg"/>
+        <updated>2024-03-23T16:00:50.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Seeing Eye Dogs Are So Expensive To Breed And Train | So Expensive | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=LrXmvsLjudo</id>
+        <link href="https://www.youtube.com/watch?v=LrXmvsLjudo"/>
+        <updated>2024-03-23T15:00:29.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🤯 Easiest CAM Software Out There??]]></title>
+        <id>https://www.youtube.com/watch?v=d0ocNmzAQiI</id>
+        <link href="https://www.youtube.com/watch?v=d0ocNmzAQiI"/>
+        <updated>2024-03-23T13:00:35.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Black Hornet 4 Drone]]></title>
         <id>https://www.youtube.com/watch?v=XzAsMaMuFBc</id>
@@ -60,7 +114,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crisp Detail, Ultra Fast! HeyGears PRM!]]></title>
+        <title type="html"><![CDATA[High Frequency Vibrations for Resin?]]></title>
         <id>https://www.youtube.com/watch?v=RP6zMDrQaQo</id>
         <link href="https://www.youtube.com/watch?v=RP6zMDrQaQo"/>
         <updated>2024-03-22T13:00:24.000Z</updated>
@@ -465,15 +519,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is Trash The Building Material of The Future? | World Wide Waste | Business Insider]]></title>
-        <id>https://www.youtube.com/watch?v=pWpH9R-yY4c</id>
-        <link href="https://www.youtube.com/watch?v=pWpH9R-yY4c"/>
-        <updated>2024-03-17T15:00:47.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What’s the bulge in tank guns for?]]></title>
         <id>https://www.youtube.com/watch?v=3Ef6BGqgvv4</id>
         <link href="https://www.youtube.com/watch?v=3Ef6BGqgvv4"/>
@@ -726,15 +771,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Asking AI "Who is Titan Gilroy?"]]></title>
-        <id>https://www.youtube.com/watch?v=wVlVtt1Sj_I</id>
-        <link href="https://www.youtube.com/watch?v=wVlVtt1Sj_I"/>
-        <updated>2024-03-13T11:00:56.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OrangeStorm GIGA - LIVE Unbox & First Print!]]></title>
         <id>https://www.youtube.com/watch?v=3R4rtrFh-B8</id>
         <link href="https://www.youtube.com/watch?v=3R4rtrFh-B8"/>
@@ -750,15 +786,6 @@
         <updated>2024-03-12T15:00:51.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rapid Precision Machining a Fuel Injector Part]]></title>
-        <id>https://www.youtube.com/watch?v=LffeqwiIYMU</id>
-        <link href="https://www.youtube.com/watch?v=LffeqwiIYMU"/>
-        <updated>2024-03-12T13:00:30.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1095,7 +1122,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built a Solid-State Dehumidifier Filament Dry Box]]></title>
+        <title type="html"><![CDATA[Electrolysis-Based Dry Box: The 3D Printing Game Changer?]]></title>
         <id>https://www.youtube.com/watch?v=n7EWexck8NE</id>
         <link href="https://www.youtube.com/watch?v=n7EWexck8NE"/>
         <updated>2024-02-24T17:39:06.000Z</updated>
@@ -1275,7 +1302,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Brick Layers: Could printing STRONG parts be so simple?]]></title>
+        <title type="html"><![CDATA[Revolutionizing 3D Printing: Beyond Flat Layers]]></title>
         <id>https://www.youtube.com/watch?v=5hGm6cubFVs</id>
         <link href="https://www.youtube.com/watch?v=5hGm6cubFVs"/>
         <updated>2024-02-17T16:32:25.000Z</updated>
@@ -1563,15 +1590,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Slow Down the Fall by Eddy Currents #electronics #eddy #funny]]></title>
-        <id>https://www.youtube.com/watch?v=YY8P_VIYaZE</id>
-        <link href="https://www.youtube.com/watch?v=YY8P_VIYaZE"/>
-        <updated>2024-02-03T19:12:25.000Z</updated>
-        <author>
-            <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sailing into Live Fire Exercises]]></title>
         <id>https://www.youtube.com/watch?v=KdKmxeMmI7Q</id>
         <link href="https://www.youtube.com/watch?v=KdKmxeMmI7Q"/>
@@ -1725,7 +1743,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[No More Calibration Cubes! Here's how you do it right!]]></title>
+        <title type="html"><![CDATA[Calibration Cubes: More Harm Than Good?]]></title>
         <id>https://www.youtube.com/watch?v=H7OsnMLDIMw</id>
         <link href="https://www.youtube.com/watch?v=H7OsnMLDIMw"/>
         <updated>2024-01-27T16:30:03.000Z</updated>
