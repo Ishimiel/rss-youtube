@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-24T00:33:17.043Z</id>
+    <id>urn:2024-03-25T00:31:26.808Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-24T00:33:17.043Z</updated>
+    <updated>2024-03-25T00:31:26.808Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[📰 From Press to Progress: The Evolution of Print]]></title>
+        <id>https://www.youtube.com/watch?v=jj_m5-JIQSM</id>
+        <link href="https://www.youtube.com/watch?v=jj_m5-JIQSM"/>
+        <updated>2024-03-24T15:00:38.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Childcare Has Become So Unaffordable | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=Xksv2EGG9ek</id>
+        <link href="https://www.youtube.com/watch?v=Xksv2EGG9ek"/>
+        <updated>2024-03-24T15:00:24.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSANE Endmill Torture Test]]></title>
+        <id>https://www.youtube.com/watch?v=CmaGufRX21Y</id>
+        <link href="https://www.youtube.com/watch?v=CmaGufRX21Y"/>
+        <updated>2024-03-24T13:00:11.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I put a smoke grenade inside an air cannon!]]></title>
+        <id>https://www.youtube.com/watch?v=QL_juypzSzk</id>
+        <link href="https://www.youtube.com/watch?v=QL_juypzSzk"/>
+        <updated>2024-03-24T00:43:39.000Z</updated>
+        <author>
+            <name>Physics Girl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Collimator 2.0 and Quanser!!!]]></title>
         <id>https://www.youtube.com/watch?v=UtBP5po_k4A</id>
@@ -429,15 +465,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Waste collected from Mount #Everest is upcycled into art and souvenirs. #recycle #sustainability]]></title>
-        <id>https://www.youtube.com/watch?v=BD-jEKD4BBM</id>
-        <link href="https://www.youtube.com/watch?v=BD-jEKD4BBM"/>
-        <updated>2024-03-18T18:58:24.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Iceland's 4th Volcanic Eruption in 3 Months]]></title>
         <id>https://www.youtube.com/watch?v=jSBks-STt9k</id>
         <link href="https://www.youtube.com/watch?v=jSBks-STt9k"/>
@@ -618,15 +645,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[100 New Species Found on Underwater Mountains]]></title>
-        <id>https://www.youtube.com/watch?v=ojWwggJvo8U</id>
-        <link href="https://www.youtube.com/watch?v=ojWwggJvo8U"/>
-        <updated>2024-03-16T12:00:50.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Machining the World's Greatest Snare Drum]]></title>
         <id>https://www.youtube.com/watch?v=TLODt2TnFDA</id>
         <link href="https://www.youtube.com/watch?v=TLODt2TnFDA"/>
@@ -739,15 +757,6 @@
         <id>https://www.youtube.com/watch?v=eL0CSBESKOk</id>
         <link href="https://www.youtube.com/watch?v=eL0CSBESKOk"/>
         <updated>2024-03-14T13:00:37.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Most Capable Swiss Machine on the Planet]]></title>
-        <id>https://www.youtube.com/watch?v=RLlTYiGrc_c</id>
-        <link href="https://www.youtube.com/watch?v=RLlTYiGrc_c"/>
-        <updated>2024-03-14T11:00:20.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
         </author>
@@ -1122,7 +1131,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Electrolysis-Based Dry Box: The 3D Printing Game Changer?]]></title>
+        <title type="html"><![CDATA[Solid-State Dehumidifier: The Ultimate Filament Dry Box]]></title>
         <id>https://www.youtube.com/watch?v=n7EWexck8NE</id>
         <link href="https://www.youtube.com/watch?v=n7EWexck8NE"/>
         <updated>2024-02-24T17:39:06.000Z</updated>
@@ -1167,7 +1176,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Liquid Sand Magic 🤯]]></title>
+        <title type="html"><![CDATA[Make sand a liquid!]]></title>
         <id>https://www.youtube.com/watch?v=go3gc2qc9tc</id>
         <link href="https://www.youtube.com/watch?v=go3gc2qc9tc"/>
         <updated>2024-02-22T18:37:40.000Z</updated>
@@ -1302,7 +1311,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Revolutionizing 3D Printing: Beyond Flat Layers]]></title>
+        <title type="html"><![CDATA[Have we been slicing 3D prints WRONG?]]></title>
         <id>https://www.youtube.com/watch?v=5hGm6cubFVs</id>
         <link href="https://www.youtube.com/watch?v=5hGm6cubFVs"/>
         <updated>2024-02-17T16:32:25.000Z</updated>
@@ -1743,7 +1752,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Calibration Cubes: More Harm Than Good?]]></title>
+        <title type="html"><![CDATA[Stop Printing Calibration Cubes Now! Here's Why]]></title>
         <id>https://www.youtube.com/watch?v=H7OsnMLDIMw</id>
         <link href="https://www.youtube.com/watch?v=H7OsnMLDIMw"/>
         <updated>2024-01-27T16:30:03.000Z</updated>
@@ -2343,15 +2352,6 @@
         <updated>2023-12-27T19:00:01.000Z</updated>
         <author>
             <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's Time To Rename Uranus]]></title>
-        <id>https://www.youtube.com/watch?v=r734u7g80Zw</id>
-        <link href="https://www.youtube.com/watch?v=r734u7g80Zw"/>
-        <updated>2023-12-26T00:04:32.000Z</updated>
-        <author>
-            <name>Vsauce</name>
         </author>
     </entry>
 </feed>
