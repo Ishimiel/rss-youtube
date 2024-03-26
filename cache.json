@@ -658,7 +658,7 @@
           "link": "https://www.youtube.com/watch?v=WuaSoTyqrTA",
           "publishedOn": "2024-03-08T23:00:07.000Z",
           "wordCount": null,
-          "title": "Beyond Einstein: Gravitational Geysers",
+          "title": "Carlo Rovelli and Brian Greene on Black Holes and White Holes",
           "imageUrl": null
         },
         {
@@ -765,7 +765,7 @@
           "link": "https://www.youtube.com/watch?v=GTPYk2NYTxY",
           "publishedOn": "2024-03-08T14:00:21.000Z",
           "wordCount": null,
-          "title": "YOUR $2500 3D Printed Airless Basketball Might Not Bounce",
+          "title": "YOUR 3D Printed Airless Basketball Might Not Bounce",
           "imageUrl": null
         },
         {
@@ -911,7 +911,7 @@
           "link": "https://www.youtube.com/watch?v=alwsRqh5W8M",
           "publishedOn": "2024-03-23T18:59:12.000Z",
           "wordCount": null,
-          "title": "I made 3D Printing Filament from Hot Glue Sticks",
+          "title": "3D Printing With Hot Melt Glue",
           "imageUrl": null
         },
         {
@@ -931,7 +931,7 @@
           "link": "https://www.youtube.com/watch?v=n7EWexck8NE",
           "publishedOn": "2024-02-24T17:39:06.000Z",
           "wordCount": null,
-          "title": "Solid-State Dehumidifier: The Ultimate Filament Dry Box",
+          "title": "Innovative Dry Box Build: Beyond Silica Gel Desiccants",
           "imageUrl": null
         },
         {
@@ -941,7 +941,7 @@
           "link": "https://www.youtube.com/watch?v=5hGm6cubFVs",
           "publishedOn": "2024-02-17T16:32:25.000Z",
           "wordCount": null,
-          "title": "Have we been slicing 3D prints WRONG?",
+          "title": "Brick Layers - Why did no one do this before?",
           "imageUrl": null
         },
         {
@@ -951,7 +951,7 @@
           "link": "https://www.youtube.com/watch?v=H7OsnMLDIMw",
           "publishedOn": "2024-01-27T16:30:03.000Z",
           "wordCount": null,
-          "title": "Stop Printing Calibration Cubes Now! Here's Why",
+          "title": "Calibration Cubes Debunked: Tuning Your Printer Right",
           "imageUrl": null
         }
       ]
@@ -978,6 +978,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "siteUrl": "https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=zTDeu8q6JzI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zTDeu8q6JzI",
+          "publishedOn": "2024-03-25T16:54:35.000Z",
+          "wordCount": null,
+          "title": "We aimed our tracking telescope at #SpaceX's #Starship... here's what we saw",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=QILGZqWvE-c",
           "author": null,
@@ -1117,16 +1127,6 @@
           "wordCount": null,
           "title": "How does ULA's Vulcan rocket compare to the competition?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Rfod_OL06DY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Rfod_OL06DY",
-          "publishedOn": "2024-01-08T08:53:53.000Z",
-          "wordCount": null,
-          "title": "Watch ULA launch their Vulcan rocket for the first time ever! #Vulcan",
-          "imageUrl": null
         }
       ]
     },
@@ -1141,6 +1141,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEuiOszNd6msGgqsD0f9YAQ",
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=C3lXIkr-BLs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=C3lXIkr-BLs",
+          "publishedOn": "2024-03-25T16:00:08.000Z",
+          "wordCount": null,
+          "title": "Nvidia's 'Blackwell': 30x Performance Boost, 25x Efficiency in AI",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=jj_m5-JIQSM",
           "author": null,
@@ -1279,16 +1289,6 @@
           "publishedOn": "2024-03-16T18:00:07.000Z",
           "wordCount": null,
           "title": "'Ghost Driver' Fools Pedestrians",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3S0s-jzfpB8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3S0s-jzfpB8",
-          "publishedOn": "2024-03-16T16:00:04.000Z",
-          "wordCount": null,
-          "title": "Underwater Mountains",
           "imageUrl": null
         }
       ]
@@ -2213,6 +2213,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=AAckGQYd9Q8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AAckGQYd9Q8",
+          "publishedOn": "2024-03-25T11:00:09.000Z",
+          "wordCount": null,
+          "title": "Swiss Machining Made Easier with Göltenbodt",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=CmaGufRX21Y",
           "author": null,
           "description": "",
@@ -2351,16 +2361,6 @@
           "wordCount": null,
           "title": "The Fastest & Easiest Edge Finder",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eL0CSBESKOk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eL0CSBESKOk",
-          "publishedOn": "2024-03-14T13:00:37.000Z",
-          "wordCount": null,
-          "title": "Workholding to Create Workholding: INSANE Technique!",
-          "imageUrl": null
         }
       ]
     },
@@ -2369,6 +2369,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ZVVxvnzRnlw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZVVxvnzRnlw",
+          "publishedOn": "2024-03-25T21:00:21.000Z",
+          "wordCount": null,
+          "title": "#Shellac was first used for dye and wood finish. Now, it can end up on your fruit and candy. #insect",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Xksv2EGG9ek",
           "author": null,
@@ -2386,7 +2396,7 @@
           "link": "https://www.youtube.com/watch?v=LrXmvsLjudo",
           "publishedOn": "2024-03-23T15:00:29.000Z",
           "wordCount": null,
-          "title": "Why Seeing Eye Dogs Are So Expensive To Breed And Train | So Expensive | Business Insider",
+          "title": "Why Puppies Bred And Trained To Be Seeing Eye Dogs Are So Expensive | So Expensive",
           "imageUrl": null
         },
         {
@@ -2507,16 +2517,6 @@
           "publishedOn": "2024-03-19T18:00:28.000Z",
           "wordCount": null,
           "title": "The melting #glacier revealed decades of trash and hundreds of bodies. #MountEverest #Climate",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vU-QEZN-46U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vU-QEZN-46U",
-          "publishedOn": "2024-03-18T19:00:27.000Z",
-          "wordCount": null,
-          "title": "#Waste must be collected from the highest camps on #MountEverest. #climbing",
           "imageUrl": null
         }
       ]
