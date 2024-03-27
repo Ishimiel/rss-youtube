@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-26T00:29:42.121Z</id>
+    <id>urn:2024-03-27T00:29:29.355Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-26T00:29:42.121Z</updated>
+    <updated>2024-03-27T00:29:29.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Watch the LAST Delta IV Heavy launch EVER!]]></title>
+        <id>https://www.youtube.com/watch?v=dViXwBU6ncA</id>
+        <link href="https://www.youtube.com/watch?v=dViXwBU6ncA"/>
+        <updated>2024-03-26T22:54:20.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Powering Devices Through Water #electricity #conductivity #funny]]></title>
+        <id>https://www.youtube.com/watch?v=DnToh_sCX5c</id>
+        <link href="https://www.youtube.com/watch?v=DnToh_sCX5c"/>
+        <updated>2024-03-26T19:33:09.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This natural resin, called #shellac, is made from melting bugs. #India #resin]]></title>
+        <id>https://www.youtube.com/watch?v=S4bmyOG9Ryk</id>
+        <link href="https://www.youtube.com/watch?v=S4bmyOG9Ryk"/>
+        <updated>2024-03-26T18:41:42.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🌉 Baltimore Bridge COLLAPSES After Cargo Ship Collision]]></title>
+        <id>https://www.youtube.com/watch?v=na3AwJlIiqg</id>
+        <link href="https://www.youtube.com/watch?v=na3AwJlIiqg"/>
+        <updated>2024-03-26T16:55:07.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Baltimore Bridge Collapses After It Was Hit by Ship]]></title>
+        <id>https://www.youtube.com/watch?v=pZGV3TeKVEQ</id>
+        <link href="https://www.youtube.com/watch?v=pZGV3TeKVEQ"/>
+        <updated>2024-03-26T16:51:39.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How #PapaJohn's #pizza chain keeps up with demand during the #SuperBowl.]]></title>
+        <id>https://www.youtube.com/watch?v=egIpRgKw5Wo</id>
+        <link href="https://www.youtube.com/watch?v=egIpRgKw5Wo"/>
+        <updated>2024-03-26T15:00:36.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How The Dinosaurs Actually Died]]></title>
+        <id>https://www.youtube.com/watch?v=pjoQdz0nxf4</id>
+        <link href="https://www.youtube.com/watch?v=pjoQdz0nxf4"/>
+        <updated>2024-03-26T14:59:10.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Nitronic 60: Inspecting the Final Part]]></title>
+        <id>https://www.youtube.com/watch?v=xGxr4SJucKo</id>
+        <link href="https://www.youtube.com/watch?v=xGxr4SJucKo"/>
+        <updated>2024-03-26T11:00:59.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Baltimore Bridge Collapses After Cargo Ship Collision]]></title>
+        <id>https://www.youtube.com/watch?v=tcyRY70ZOIs</id>
+        <link href="https://www.youtube.com/watch?v=tcyRY70ZOIs"/>
+        <updated>2024-03-26T09:47:40.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#Shellac was first used for dye and wood finish. Now, it can end up on your fruit and candy. #insect]]></title>
         <id>https://www.youtube.com/watch?v=ZVVxvnzRnlw</id>
@@ -42,7 +123,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[📰 From Press to Progress: The Evolution of Print]]></title>
+        <title type="html"><![CDATA[📰 From Press to Progress: The Evolution of PRINT]]></title>
         <id>https://www.youtube.com/watch?v=jj_m5-JIQSM</id>
         <link href="https://www.youtube.com/watch?v=jj_m5-JIQSM"/>
         <updated>2024-03-24T15:00:38.000Z</updated>
@@ -96,7 +177,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D Printing With Hot Melt Glue]]></title>
+        <title type="html"><![CDATA[Can you 3D Print with Hot Glue?]]></title>
         <id>https://www.youtube.com/watch?v=alwsRqh5W8M</id>
         <link href="https://www.youtube.com/watch?v=alwsRqh5W8M"/>
         <updated>2024-03-23T18:59:12.000Z</updated>
@@ -402,24 +483,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One of the most sacred objects in #Judaism is made of skin from a bull's neck. #tefillin #leather]]></title>
-        <id>https://www.youtube.com/watch?v=j49yC2buopQ</id>
-        <link href="https://www.youtube.com/watch?v=j49yC2buopQ"/>
-        <updated>2024-03-19T20:00:15.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The melting #glacier revealed decades of trash and hundreds of bodies. #MountEverest #Climate]]></title>
-        <id>https://www.youtube.com/watch?v=ZDEKZgChp3A</id>
-        <link href="https://www.youtube.com/watch?v=ZDEKZgChp3A"/>
-        <updated>2024-03-19T18:00:28.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Homebuilt Wind Turbine]]></title>
         <id>https://www.youtube.com/watch?v=cX-m0dMDKHg</id>
         <link href="https://www.youtube.com/watch?v=cX-m0dMDKHg"/>
@@ -609,39 +672,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bright Supernova]]></title>
-        <id>https://www.youtube.com/watch?v=AN2Ho7PvfbY</id>
-        <link href="https://www.youtube.com/watch?v=AN2Ho7PvfbY"/>
-        <updated>2024-03-17T09:06:41.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jet Suit Paramedic]]></title>
-        <id>https://www.youtube.com/watch?v=C4ZLNgzqY1U</id>
-        <link href="https://www.youtube.com/watch?v=C4ZLNgzqY1U"/>
-        <updated>2024-03-16T23:00:04.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Turning styrofoam into cinnamon candy]]></title>
         <id>https://www.youtube.com/watch?v=zMaTrgUKC1w</id>
         <link href="https://www.youtube.com/watch?v=zMaTrgUKC1w"/>
         <updated>2024-03-16T21:20:23.000Z</updated>
         <author>
             <name>NileRed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Ghost Driver' Fools Pedestrians]]></title>
-        <id>https://www.youtube.com/watch?v=9tbU4DEC0QI</id>
-        <link href="https://www.youtube.com/watch?v=9tbU4DEC0QI"/>
-        <updated>2024-03-16T18:00:07.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -732,15 +768,6 @@
         <updated>2024-03-15T13:00:54.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Fastest & Easiest Edge Finder]]></title>
-        <id>https://www.youtube.com/watch?v=GSctxJtLxJk</id>
-        <link href="https://www.youtube.com/watch?v=GSctxJtLxJk"/>
-        <updated>2024-03-15T11:00:13.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1140,7 +1167,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Innovative Dry Box Build: Beyond Silica Gel Desiccants]]></title>
+        <title type="html"><![CDATA[Solid-State Dehumidifier: The Ultimate Filament Dry Box]]></title>
         <id>https://www.youtube.com/watch?v=n7EWexck8NE</id>
         <link href="https://www.youtube.com/watch?v=n7EWexck8NE"/>
         <updated>2024-02-24T17:39:06.000Z</updated>
@@ -1320,7 +1347,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Brick Layers - Why did no one do this before?]]></title>
+        <title type="html"><![CDATA[Brick Layers: Could printing STRONG parts be so simple?]]></title>
         <id>https://www.youtube.com/watch?v=5hGm6cubFVs</id>
         <link href="https://www.youtube.com/watch?v=5hGm6cubFVs"/>
         <updated>2024-02-17T16:32:25.000Z</updated>
@@ -1572,15 +1599,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LEARN FROM YOUR MISTAKES!!! #circuit #funny #electricity]]></title>
-        <id>https://www.youtube.com/watch?v=fg26wq1dP90</id>
-        <link href="https://www.youtube.com/watch?v=fg26wq1dP90"/>
-        <updated>2024-02-06T17:41:42.000Z</updated>
-        <author>
-            <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Game of Risk - Numberphile]]></title>
         <id>https://www.youtube.com/watch?v=RdooKXXcWWc</id>
         <link href="https://www.youtube.com/watch?v=RdooKXXcWWc"/>
@@ -1761,7 +1779,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Calibration Cubes Debunked: Tuning Your Printer Right]]></title>
+        <title type="html"><![CDATA[Calibration Cubes: More Harm Than Good?]]></title>
         <id>https://www.youtube.com/watch?v=H7OsnMLDIMw</id>
         <link href="https://www.youtube.com/watch?v=H7OsnMLDIMw"/>
         <updated>2024-01-27T16:30:03.000Z</updated>
@@ -2094,15 +2112,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How does ULA's Vulcan rocket compare to the competition?]]></title>
-        <id>https://www.youtube.com/watch?v=wD3MruC-FTc</id>
-        <link href="https://www.youtube.com/watch?v=wD3MruC-FTc"/>
-        <updated>2024-01-10T14:59:57.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The cube shadow puzzle]]></title>
         <id>https://www.youtube.com/watch?v=U3O1nzSojnc</id>
         <link href="https://www.youtube.com/watch?v=U3O1nzSojnc"/>
@@ -2343,15 +2352,6 @@
         <updated>2023-12-28T15:00:39.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a group?]]></title>
-        <id>https://www.youtube.com/watch?v=3KbiJ-z0j44</id>
-        <link href="https://www.youtube.com/watch?v=3KbiJ-z0j44"/>
-        <updated>2023-12-27T19:00:01.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
         </author>
     </entry>
 </feed>
