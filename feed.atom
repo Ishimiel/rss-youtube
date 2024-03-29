@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-28T00:29:55.158Z</id>
+    <id>urn:2024-03-29T00:30:13.269Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-28T00:29:55.158Z</updated>
+    <updated>2024-03-29T00:30:13.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The #shellac industry is worth over $167 million, and most of it is from #India. #resin]]></title>
+        <id>https://www.youtube.com/watch?v=y46SQtyyAdU</id>
+        <link href="https://www.youtube.com/watch?v=y46SQtyyAdU"/>
+        <updated>2024-03-28T21:07:46.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your microwave leaks radiation]]></title>
+        <id>https://www.youtube.com/watch?v=ah3TW101YLo</id>
+        <link href="https://www.youtube.com/watch?v=ah3TW101YLo"/>
+        <updated>2024-03-28T20:35:15.000Z</updated>
+        <author>
+            <name>Physics Girl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biped Robot P1: Mastering Wilderness Navigation]]></title>
+        <id>https://www.youtube.com/watch?v=dEFG7UhYEWI</id>
+        <link href="https://www.youtube.com/watch?v=dEFG7UhYEWI"/>
+        <updated>2024-03-28T20:00:13.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SCRUBBED] Watch the LAST Delta IV Heavy launch EVER!]]></title>
+        <id>https://www.youtube.com/watch?v=dViXwBU6ncA</id>
+        <link href="https://www.youtube.com/watch?v=dViXwBU6ncA"/>
+        <updated>2024-03-28T19:01:43.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This machine helps Papa John's quickly prep #pizza dough. #PapaJohns #restaraunt]]></title>
+        <id>https://www.youtube.com/watch?v=UXeB4PU-eas</id>
+        <link href="https://www.youtube.com/watch?v=UXeB4PU-eas"/>
+        <updated>2024-03-28T18:59:32.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why is this number everywhere?]]></title>
+        <id>https://www.youtube.com/watch?v=d6iQrh2TK98</id>
+        <link href="https://www.youtube.com/watch?v=d6iQrh2TK98"/>
+        <updated>2024-03-28T18:48:10.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spindle's Broken, Can’t Wait For Service: Barry Changes Spindle Out]]></title>
+        <id>https://www.youtube.com/watch?v=eqDe_9Xyyck</id>
+        <link href="https://www.youtube.com/watch?v=eqDe_9Xyyck"/>
+        <updated>2024-03-28T16:00:26.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harvard's Breakthrough: A New Weapon Against Drug-Resistant Superbugs]]></title>
+        <id>https://www.youtube.com/watch?v=Oa9b3_XsMqk</id>
+        <link href="https://www.youtube.com/watch?v=Oa9b3_XsMqk"/>
+        <updated>2024-03-28T15:14:02.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIDE QUANTICO — How Marine Corps Officers Survive The 7-Month Basic School | Boot Camp]]></title>
+        <id>https://www.youtube.com/watch?v=qdputZoWI8Q</id>
+        <link href="https://www.youtube.com/watch?v=qdputZoWI8Q"/>
+        <updated>2024-03-28T15:00:48.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can BREAKING Tools Make You More Money?]]></title>
+        <id>https://www.youtube.com/watch?v=JFpZSPKO-P8</id>
+        <link href="https://www.youtube.com/watch?v=JFpZSPKO-P8"/>
+        <updated>2024-03-28T14:45:01.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How One Of The Oldest Forms Of BBQ Is Preserved By One Mayan Chef | Still Standing]]></title>
         <id>https://www.youtube.com/watch?v=KFfBh1PJrP0</id>
@@ -24,7 +114,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Understanding Cryptography With These Five Worlds]]></title>
+        <title type="html"><![CDATA[Which Computational Universe Do We Live In?]]></title>
         <id>https://www.youtube.com/watch?v=RjzSFa03i2U</id>
         <link href="https://www.youtube.com/watch?v=RjzSFa03i2U"/>
         <updated>2024-03-27T14:52:03.000Z</updated>
@@ -48,15 +138,6 @@
         <updated>2024-03-27T14:00:21.000Z</updated>
         <author>
             <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch the LAST Delta IV Heavy launch EVER!]]></title>
-        <id>https://www.youtube.com/watch?v=dViXwBU6ncA</id>
-        <link href="https://www.youtube.com/watch?v=dViXwBU6ncA"/>
-        <updated>2024-03-26T22:54:20.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
         </author>
     </entry>
     <entry>
@@ -456,15 +537,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Check out three green-tech innovations emerging from Singapore. #ad]]></title>
-        <id>https://www.youtube.com/watch?v=HK1DXZBbrwA</id>
-        <link href="https://www.youtube.com/watch?v=HK1DXZBbrwA"/>
-        <updated>2024-03-20T20:31:47.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Starship Reached Space. What Now?]]></title>
         <id>https://www.youtube.com/watch?v=eaFyTIsowqY</id>
         <link href="https://www.youtube.com/watch?v=eaFyTIsowqY"/>
@@ -480,24 +552,6 @@
         <updated>2024-03-20T16:14:18.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why the war in Ukraine matters: Kenya | International Standing]]></title>
-        <id>https://www.youtube.com/watch?v=RSxcPCVkhnw</id>
-        <link href="https://www.youtube.com/watch?v=RSxcPCVkhnw"/>
-        <updated>2024-03-20T15:45:43.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why the war in Ukraine matters: Kenya | Fuel prices]]></title>
-        <id>https://www.youtube.com/watch?v=oY1JSr07TM0</id>
-        <link href="https://www.youtube.com/watch?v=oY1JSr07TM0"/>
-        <updated>2024-03-20T15:38:51.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -591,30 +645,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Iceland's 4th Volcanic Eruption in 3 Months]]></title>
-        <id>https://www.youtube.com/watch?v=jSBks-STt9k</id>
-        <link href="https://www.youtube.com/watch?v=jSBks-STt9k"/>
-        <updated>2024-03-18T17:15:01.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How the F-16 flies at extreme AOA]]></title>
         <id>https://www.youtube.com/watch?v=ZmgpudUU7XQ</id>
         <link href="https://www.youtube.com/watch?v=ZmgpudUU7XQ"/>
         <updated>2024-03-18T15:00:29.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drone Revolutionizing Home Security]]></title>
-        <id>https://www.youtube.com/watch?v=chvBfbfZ99M</id>
-        <link href="https://www.youtube.com/watch?v=chvBfbfZ99M"/>
-        <updated>2024-03-18T14:30:13.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -672,15 +708,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[INSANE Feature Nobody is Talking About 🤯]]></title>
-        <id>https://www.youtube.com/watch?v=FNfqlovvufA</id>
-        <link href="https://www.youtube.com/watch?v=FNfqlovvufA"/>
-        <updated>2024-03-17T11:00:19.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Bizarre Sudoku Set-Up - Numberphile]]></title>
         <id>https://www.youtube.com/watch?v=WUpvGkDvdb4</id>
         <link href="https://www.youtube.com/watch?v=WUpvGkDvdb4"/>
@@ -696,15 +723,6 @@
         <updated>2024-03-16T21:20:23.000Z</updated>
         <author>
             <name>NileRed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Most COMPLICATED Part Machined COMPLETE on Youtube]]></title>
-        <id>https://www.youtube.com/watch?v=cP8bYExhWro</id>
-        <link href="https://www.youtube.com/watch?v=cP8bYExhWro"/>
-        <updated>2024-03-16T16:00:33.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -840,15 +858,6 @@
         <updated>2024-03-12T15:00:51.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Γκεκ Company]]></title>
-        <id>https://www.youtube.com/watch?v=pXzOziS2-eU</id>
-        <link href="https://www.youtube.com/watch?v=pXzOziS2-eU"/>
-        <updated>2024-03-11T21:16:24.000Z</updated>
-        <author>
-            <name>NinjaCakeAssassin</name>
         </author>
     </entry>
     <entry>
@@ -1023,15 +1032,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Νεαρός Έλληνας - Final Fantasy 7]]></title>
-        <id>https://www.youtube.com/watch?v=ab148ss7RwY</id>
-        <link href="https://www.youtube.com/watch?v=ab148ss7RwY"/>
-        <updated>2024-03-03T14:00:46.000Z</updated>
-        <author>
-            <name>NinjaCakeAssassin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Housecleaning while playing Solitaire and Tetris]]></title>
         <id>https://www.youtube.com/watch?v=lIipv8q878E</id>
         <link href="https://www.youtube.com/watch?v=lIipv8q878E"/>
@@ -1176,7 +1176,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Electrolysis-Based Dry Box: The 3D Printing Game Changer?]]></title>
+        <title type="html"><![CDATA[Solid-State Dehumidifier: The Ultimate Filament Dry Box]]></title>
         <id>https://www.youtube.com/watch?v=n7EWexck8NE</id>
         <link href="https://www.youtube.com/watch?v=n7EWexck8NE"/>
         <updated>2024-02-24T17:39:06.000Z</updated>
@@ -1356,7 +1356,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Brick Layers: Could printing STRONG parts be so simple?]]></title>
+        <title type="html"><![CDATA[Brick Layers - Why did no one do this before?]]></title>
         <id>https://www.youtube.com/watch?v=5hGm6cubFVs</id>
         <link href="https://www.youtube.com/watch?v=5hGm6cubFVs"/>
         <updated>2024-02-17T16:32:25.000Z</updated>
@@ -1425,15 +1425,6 @@
         <updated>2024-02-15T15:00:16.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Πεθαίνω τον Batman στην Ομόνοια]]></title>
-        <id>https://www.youtube.com/watch?v=iFUcXrQGLUk</id>
-        <link href="https://www.youtube.com/watch?v=iFUcXrQGLUk"/>
-        <updated>2024-02-14T20:58:04.000Z</updated>
-        <author>
-            <name>NinjaCakeAssassin</name>
         </author>
     </entry>
     <entry>
@@ -1587,15 +1578,6 @@
         <updated>2024-02-08T15:00:34.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Το νέο Silent Hill είναι απαίσιο]]></title>
-        <id>https://www.youtube.com/watch?v=w6n3zV7aLoA</id>
-        <link href="https://www.youtube.com/watch?v=w6n3zV7aLoA"/>
-        <updated>2024-02-08T12:27:03.000Z</updated>
-        <author>
-            <name>NinjaCakeAssassin</name>
         </author>
     </entry>
     <entry>
@@ -1914,15 +1896,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Η νέα κάρτα γραφικών μου (βλωγκ)]]></title>
-        <id>https://www.youtube.com/watch?v=FjfpaERlvMM</id>
-        <link href="https://www.youtube.com/watch?v=FjfpaERlvMM"/>
-        <updated>2024-01-24T17:01:54.000Z</updated>
-        <author>
-            <name>NinjaCakeAssassin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How the Mandelbrot set is defined]]></title>
         <id>https://www.youtube.com/watch?v=xJwkj25fFK4</id>
         <link href="https://www.youtube.com/watch?v=xJwkj25fFK4"/>
@@ -1986,15 +1959,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Γκεκ - Βαλχάλλα]]></title>
-        <id>https://www.youtube.com/watch?v=vyoeRnvVJ44</id>
-        <link href="https://www.youtube.com/watch?v=vyoeRnvVJ44"/>
-        <updated>2024-01-19T23:05:11.000Z</updated>
-        <author>
-            <name>NinjaCakeAssassin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[We detected it...]]></title>
         <id>https://www.youtube.com/watch?v=z9Q3GkIkhcU</id>
         <link href="https://www.youtube.com/watch?v=z9Q3GkIkhcU"/>
@@ -2040,7 +2004,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Do People Understand The Scale Of The Universe?]]></title>
+        <title type="html"><![CDATA[Do people understand the scale of the universe?]]></title>
         <id>https://www.youtube.com/watch?v=fG8SwAFQFuU</id>
         <link href="https://www.youtube.com/watch?v=fG8SwAFQFuU"/>
         <updated>2024-01-15T21:02:07.000Z</updated>
@@ -2211,15 +2175,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Παίζω Dark Souls 2 άρρωστος]]></title>
-        <id>https://www.youtube.com/watch?v=aDruQ_CQvvs</id>
-        <link href="https://www.youtube.com/watch?v=aDruQ_CQvvs"/>
-        <updated>2024-01-03T21:46:38.000Z</updated>
-        <author>
-            <name>NinjaCakeAssassin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A beautiful international math olympiad problem]]></title>
         <id>https://www.youtube.com/watch?v=teYL0Er4c3g</id>
         <link href="https://www.youtube.com/watch?v=teYL0Er4c3g"/>
@@ -2325,33 +2280,6 @@
         <updated>2023-12-30T14:28:54.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Newton art puzzle]]></title>
-        <id>https://www.youtube.com/watch?v=kpG7I2MOcnI</id>
-        <link href="https://www.youtube.com/watch?v=kpG7I2MOcnI"/>
-        <updated>2023-12-29T19:00:32.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Machine Learning Primer: How to Build an ML Model]]></title>
-        <id>https://www.youtube.com/watch?v=Vx2DpMgplEM</id>
-        <link href="https://www.youtube.com/watch?v=Vx2DpMgplEM"/>
-        <updated>2023-12-29T17:50:00.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I made a very normal Heron | The Boy and the Heron]]></title>
-        <id>https://www.youtube.com/watch?v=rIMPFK9ZUCE</id>
-        <link href="https://www.youtube.com/watch?v=rIMPFK9ZUCE"/>
-        <updated>2023-12-29T16:37:34.000Z</updated>
-        <author>
-            <name>Studson Studio</name>
         </author>
     </entry>
 </feed>
