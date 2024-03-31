@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-30T00:29:15.044Z</id>
+    <id>urn:2024-03-31T00:34:15.399Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-30T00:29:15.044Z</updated>
+    <updated>2024-03-31T00:34:15.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Welding with Graphite?! #graphite #electrical #funny]]></title>
+        <id>https://www.youtube.com/watch?v=XQtgu0nrdLE</id>
+        <link href="https://www.youtube.com/watch?v=XQtgu0nrdLE"/>
+        <updated>2024-03-30T17:18:32.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build the Box from Pallets but Think Outside It]]></title>
+        <id>https://www.youtube.com/watch?v=ksUMK9Tk-Kk</id>
+        <link href="https://www.youtube.com/watch?v=ksUMK9Tk-Kk"/>
+        <updated>2024-03-30T16:59:13.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Captain Doug?]]></title>
+        <id>https://www.youtube.com/watch?v=7WsQc7CzAWg</id>
+        <link href="https://www.youtube.com/watch?v=7WsQc7CzAWg"/>
+        <updated>2024-03-30T16:58:48.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brilliant CNC Machining Techniques]]></title>
+        <id>https://www.youtube.com/watch?v=oqloFMLi7NA</id>
+        <link href="https://www.youtube.com/watch?v=oqloFMLi7NA"/>
+        <updated>2024-03-30T16:00:38.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chevron Hires Boston Dynamics' Spot the Robot Dog]]></title>
+        <id>https://www.youtube.com/watch?v=4OR52b4UP-s</id>
+        <link href="https://www.youtube.com/watch?v=4OR52b4UP-s"/>
+        <updated>2024-03-30T14:55:39.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machining Custom V-Block that Holds AK-50 Part Perfectly]]></title>
+        <id>https://www.youtube.com/watch?v=e0q_rGUgPqQ</id>
+        <link href="https://www.youtube.com/watch?v=e0q_rGUgPqQ"/>
+        <updated>2024-03-30T14:00:23.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Insane Engineering of the Gameboy]]></title>
+        <id>https://www.youtube.com/watch?v=BKm45Az02YE</id>
+        <link href="https://www.youtube.com/watch?v=BKm45Az02YE"/>
+        <updated>2024-03-30T14:00:09.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Watch the LAST Delta IV Heavy launch EVER!]]></title>
         <id>https://www.youtube.com/watch?v=EoAsTKcmTss</id>
@@ -285,7 +348,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Understanding Cryptography With These Five Worlds]]></title>
+        <title type="html"><![CDATA[Which Computational Universe Do We Live In?]]></title>
         <id>https://www.youtube.com/watch?v=RjzSFa03i2U</id>
         <link href="https://www.youtube.com/watch?v=RjzSFa03i2U"/>
         <updated>2024-03-27T14:52:03.000Z</updated>
@@ -618,7 +681,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Japanese Swords Are So Expensive]]></title>
+        <title type="html"><![CDATA[How The Most Expensive Swords In The World Are Made]]></title>
         <id>https://www.youtube.com/watch?v=Tt6WQYtefXA</id>
         <link href="https://www.youtube.com/watch?v=Tt6WQYtefXA"/>
         <updated>2024-03-21T20:56:45.000Z</updated>
@@ -708,24 +771,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Homebuilt Wind Turbine]]></title>
-        <id>https://www.youtube.com/watch?v=cX-m0dMDKHg</id>
-        <link href="https://www.youtube.com/watch?v=cX-m0dMDKHg"/>
-        <updated>2024-03-19T16:00:27.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maximizing Work Envelope by Machining Removable Tool Setter]]></title>
-        <id>https://www.youtube.com/watch?v=DXCdCxIKX98</id>
-        <link href="https://www.youtube.com/watch?v=DXCdCxIKX98"/>
-        <updated>2024-03-19T16:00:12.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Absolute Infinity - Numberphile]]></title>
         <id>https://www.youtube.com/watch?v=sq-ntG5Mcus</id>
         <link href="https://www.youtube.com/watch?v=sq-ntG5Mcus"/>
@@ -741,15 +786,6 @@
         <updated>2024-03-19T15:00:33.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3X Your Live Tooling Rotation Speed - Swiss Machining]]></title>
-        <id>https://www.youtube.com/watch?v=pmD1afrLXGY</id>
-        <link href="https://www.youtube.com/watch?v=pmD1afrLXGY"/>
-        <updated>2024-03-19T11:00:50.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1644,15 +1680,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Voice Sensitive Arcs!!! #electricity #science #funny #music]]></title>
-        <id>https://www.youtube.com/watch?v=dP_lXLhJffc</id>
-        <link href="https://www.youtube.com/watch?v=dP_lXLhJffc"/>
-        <updated>2024-02-09T18:15:41.000Z</updated>
-        <author>
-            <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I made Cupid (realizing he's looking at 25 to life)]]></title>
         <id>https://www.youtube.com/watch?v=0xRa5q8D2tQ</id>
         <link href="https://www.youtube.com/watch?v=0xRa5q8D2tQ"/>
@@ -1914,15 +1941,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sailing the Dream]]></title>
-        <id>https://www.youtube.com/watch?v=U9uPytZ7gK4</id>
-        <link href="https://www.youtube.com/watch?v=U9uPytZ7gK4"/>
-        <updated>2024-01-26T18:56:28.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Rainiest Place On Earth]]></title>
         <id>https://www.youtube.com/watch?v=lGJEihgN4OU</id>
         <link href="https://www.youtube.com/watch?v=lGJEihgN4OU"/>
@@ -1983,15 +2001,6 @@
         <updated>2024-01-26T06:00:04.000Z</updated>
         <author>
             <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sailing the Dream]]></title>
-        <id>https://www.youtube.com/watch?v=t31okArfMJY</id>
-        <link href="https://www.youtube.com/watch?v=t31okArfMJY"/>
-        <updated>2024-01-25T22:16:00.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
         </author>
     </entry>
     <entry>
@@ -2058,15 +2067,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Questionable Engineering of the 737 Max]]></title>
-        <id>https://www.youtube.com/watch?v=hhT4M0UjJcg</id>
-        <link href="https://www.youtube.com/watch?v=hhT4M0UjJcg"/>
-        <updated>2024-01-22T15:00:36.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A challenging puzzle about subset sums]]></title>
         <id>https://www.youtube.com/watch?v=-ikRg-OfFHc</id>
         <link href="https://www.youtube.com/watch?v=-ikRg-OfFHc"/>
@@ -2130,7 +2130,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Do People Understand The Scale Of The Universe?]]></title>
+        <title type="html"><![CDATA[Do people understand the scale of the universe?]]></title>
         <id>https://www.youtube.com/watch?v=fG8SwAFQFuU</id>
         <link href="https://www.youtube.com/watch?v=fG8SwAFQFuU"/>
         <updated>2024-01-15T21:02:07.000Z</updated>
@@ -2361,15 +2361,6 @@
         <updated>2024-01-01T14:41:41.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I made these to do a ridiculously high dunk]]></title>
-        <id>https://www.youtube.com/watch?v=9SRFbFreCkE</id>
-        <link href="https://www.youtube.com/watch?v=9SRFbFreCkE"/>
-        <updated>2024-01-01T03:48:11.000Z</updated>
-        <author>
-            <name>Stuff Made Here</name>
         </author>
     </entry>
 </feed>
