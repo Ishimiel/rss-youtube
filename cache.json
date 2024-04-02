@@ -12,7 +12,7 @@
           "link": "https://www.youtube.com/watch?v=RjzSFa03i2U",
           "publishedOn": "2024-03-27T14:52:03.000Z",
           "wordCount": null,
-          "title": "Understanding Cryptography With These Five Worlds",
+          "title": "Which Computational Universe Do We Live In?",
           "imageUrl": null
         },
         {
@@ -125,6 +125,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wjZofJX0v4M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wjZofJX0v4M",
+          "publishedOn": "2024-04-01T19:13:57.000Z",
+          "wordCount": null,
+          "title": "But what is a GPT?  Visual intro to Transformers | Deep learning, chapter 5",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=81QNyDnYtg0",
           "author": null,
           "description": "",
@@ -233,16 +243,6 @@
           "wordCount": null,
           "title": "Why do we call them \"scalars\"?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=teYL0Er4c3g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=teYL0Er4c3g",
-          "publishedOn": "2024-01-03T07:00:30.000Z",
-          "wordCount": null,
-          "title": "A beautiful international math olympiad problem",
-          "imageUrl": null
         }
       ]
     },
@@ -259,16 +259,6 @@
           "publishedOn": "2024-01-07T15:00:08.000Z",
           "wordCount": null,
           "title": "The real meaning of trace of matrix | Lie groups, algebras, brackets #5",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9CBS5CAynBE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9CBS5CAynBE",
-          "publishedOn": "2024-01-02T15:00:09.000Z",
-          "wordCount": null,
-          "title": "Can we exponentiate d/dx? Vector (fields)? What is exp? | Lie groups, algebras, brackets #4",
           "imageUrl": null
         }
       ]
@@ -937,7 +927,18 @@
       "title": "Artem Kirsanov",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR2uRTQ53V_egXKFflMMaaw",
       "siteUrl": "https://www.youtube.com/channel/UCR2uRTQ53V_egXKFflMMaaw",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=SmZmBKc7Lrs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SmZmBKc7Lrs",
+          "publishedOn": "2024-04-01T03:23:54.000Z",
+          "wordCount": null,
+          "title": "The Most Important Algorithm in Machine Learning",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "CNC Kitchen",
@@ -1007,16 +1008,6 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "siteUrl": "https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=EoAsTKcmTss",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EoAsTKcmTss",
-          "publishedOn": "2024-03-29T22:45:31.000Z",
-          "wordCount": null,
-          "title": "Watch the LAST Delta IV Heavy launch EVER!",
-          "imageUrl": null
-        },
         {
           "id": "https://www.youtube.com/watch?v=OUdXFQtefqM",
           "author": null,
@@ -1156,6 +1147,16 @@
           "wordCount": null,
           "title": "Watch Rocket Lab launch and recover an Electron Booster!!!",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=IonNr5iLjH4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IonNr5iLjH4",
+          "publishedOn": "2024-01-30T18:26:03.000Z",
+          "wordCount": null,
+          "title": "Watch SpaceX launch the Cygnus Spacecraft to the ISS for NASA!",
+          "imageUrl": null
         }
       ]
     },
@@ -1170,6 +1171,46 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEuiOszNd6msGgqsD0f9YAQ",
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=P_AT455OXPo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=P_AT455OXPo",
+          "publishedOn": "2024-04-01T21:00:15.000Z",
+          "wordCount": null,
+          "title": "Internet Speeds Get 4.5 Million Times Faster",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=79Cj-uIuwas",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=79Cj-uIuwas",
+          "publishedOn": "2024-04-01T18:15:00.000Z",
+          "wordCount": null,
+          "title": "Hero Robodog Shot in The Line of Duty",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=KxEAWIcbE-M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KxEAWIcbE-M",
+          "publishedOn": "2024-04-01T18:00:09.000Z",
+          "wordCount": null,
+          "title": "Hero Robodog Shot in The Line of Duty",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=a7X0xqbVuLY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=a7X0xqbVuLY",
+          "publishedOn": "2024-04-01T14:24:21.000Z",
+          "wordCount": null,
+          "title": "The Next-Gen AI Pocket Assistant You Never Knew You Needed",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Zyn52YBhUAI",
           "author": null,
@@ -1279,46 +1320,6 @@
           "wordCount": null,
           "title": "Baltimore Bridge Collapses After It Was Hit by Ship",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tcyRY70ZOIs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tcyRY70ZOIs",
-          "publishedOn": "2024-03-26T09:47:40.000Z",
-          "wordCount": null,
-          "title": "Baltimore Bridge Collapses After Cargo Ship Collision",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=C3lXIkr-BLs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=C3lXIkr-BLs",
-          "publishedOn": "2024-03-25T16:00:08.000Z",
-          "wordCount": null,
-          "title": "Nvidia's 'Blackwell': 30x Performance Boost, 25x Efficiency in AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jj_m5-JIQSM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jj_m5-JIQSM",
-          "publishedOn": "2024-03-24T15:00:38.000Z",
-          "wordCount": null,
-          "title": "📰 From Press to Progress: The Evolution of PRINT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XzAsMaMuFBc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XzAsMaMuFBc",
-          "publishedOn": "2024-03-22T22:30:04.000Z",
-          "wordCount": null,
-          "title": "The Black Hornet 4 Drone",
-          "imageUrl": null
         }
       ]
     },
@@ -1350,6 +1351,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUHW94eEFW7hkUMVaZz4eDg",
       "siteUrl": "https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ujYYlXP12m4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ujYYlXP12m4",
+          "publishedOn": "2024-04-01T15:41:58.000Z",
+          "wordCount": null,
+          "title": "Why Do Eclipses Travel WEST to EAST?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=vIZyuXl-91U",
           "author": null,
@@ -1384,6 +1395,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoxcjq-8xIDTYp3uz647V5A",
       "siteUrl": "https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=RytNZ2btZxE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RytNZ2btZxE",
+          "publishedOn": "2024-04-01T14:50:09.000Z",
+          "wordCount": null,
+          "title": "Magic Chess Tours (with Knights and Kings) - Numberphile",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=sq-ntG5Mcus",
           "author": null,
@@ -1493,16 +1514,6 @@
           "wordCount": null,
           "title": "A Sudoku Secret to Blow Your Mind - Numberphile",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=i33kD28TeG0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=i33kD28TeG0",
-          "publishedOn": "2024-01-02T17:10:35.000Z",
-          "wordCount": null,
-          "title": "Signing Primes",
-          "imageUrl": null
         }
       ]
     },
@@ -1518,7 +1529,7 @@
           "link": "https://www.youtube.com/watch?v=ah3TW101YLo",
           "publishedOn": "2024-03-28T20:35:15.000Z",
           "wordCount": null,
-          "title": "Your microwave leaks radiation",
+          "title": "Do microwaves leak radiation?",
           "imageUrl": null
         },
         {
@@ -1608,6 +1619,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg",
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=EXag4nsWYoU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EXag4nsWYoU",
+          "publishedOn": "2024-04-01T15:00:20.000Z",
+          "wordCount": null,
+          "title": "F-35 vertical take off is incredible",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=BKm45Az02YE",
           "author": null,
@@ -1746,16 +1767,6 @@
           "publishedOn": "2024-02-01T13:00:43.000Z",
           "wordCount": null,
           "title": "The Insane Engineering of Re-Entry",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qtOlzyc4v8Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qtOlzyc4v8Q",
-          "publishedOn": "2024-01-26T10:30:11.000Z",
-          "wordCount": null,
-          "title": "Massive Abandoned Towers in Austria",
           "imageUrl": null
         }
       ]
@@ -1929,7 +1940,7 @@
           "link": "https://www.youtube.com/watch?v=AiZd5yBWvYY",
           "publishedOn": "2024-03-31T14:07:29.000Z",
           "wordCount": null,
-          "title": "Underwater Spacesuit Pressure: Testing NASA's Next Spacesuits at the NBL - Smarter Every Day 296",
+          "title": "Underwater Spacesuit Pressure Test (I Swam With Astronauts Underwater) - Smarter Every Day 296",
           "imageUrl": null
         },
         {
@@ -2099,7 +2110,7 @@
           "link": "https://www.youtube.com/watch?v=fG8SwAFQFuU",
           "publishedOn": "2024-01-15T21:02:07.000Z",
           "wordCount": null,
-          "title": "Do People Understand The Scale Of The Universe?",
+          "title": "Do people understand the scale of the universe?",
           "imageUrl": null
         }
       ]
@@ -2115,6 +2126,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUW49KGPezggFi0PGyDvcvg",
       "siteUrl": "https://www.youtube.com/channel/UCUW49KGPezggFi0PGyDvcvg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=pLPkUpMMBnc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pLPkUpMMBnc",
+          "publishedOn": "2024-04-01T06:00:18.000Z",
+          "wordCount": null,
+          "title": "Human vs. Robot: Can I Taste the Difference?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=weeG9yOp3i4",
           "author": null,
@@ -2144,16 +2165,6 @@
           "wordCount": null,
           "title": "The Glorious Chaos of Sanjay Mortimer",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uIyVBHv8u4k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uIyVBHv8u4k",
-          "publishedOn": "2024-01-02T20:46:00.000Z",
-          "wordCount": null,
-          "title": "10 Free Prints to Make Friends Suffer!",
-          "imageUrl": null
         }
       ]
     },
@@ -2162,6 +2173,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCekQr9znsk2vWxBo3YiLq2w",
       "siteUrl": "https://www.youtube.com/channel/UCekQr9znsk2vWxBo3YiLq2w",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=49hl4lpWmiU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=49hl4lpWmiU",
+          "publishedOn": "2024-04-01T14:41:13.000Z",
+          "wordCount": null,
+          "title": "The Secret to a Perfectly Boiled Egg",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=S7sq4eZsMKc",
           "author": null,
@@ -2229,6 +2250,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=HDqotcvyJZ4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HDqotcvyJZ4",
+          "publishedOn": "2024-04-01T15:02:01.000Z",
+          "wordCount": null,
+          "title": "Genius Solution to Maximize Your CNC Machine's Table Space",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=v3xkGEyziQ0",
           "author": null,
@@ -2368,16 +2399,6 @@
           "wordCount": null,
           "title": "Can We Conquer The Impossible? Machining 2200lbs Of Steel Vertically",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WpduMAWzoII",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WpduMAWzoII",
-          "publishedOn": "2024-03-21T11:00:23.000Z",
-          "wordCount": null,
-          "title": "Insane Groove Grind with Custom Wheel",
-          "imageUrl": null
         }
       ]
     },
@@ -2386,6 +2407,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=9k-BuwX8Djs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9k-BuwX8Djs",
+          "publishedOn": "2024-04-01T15:00:07.000Z",
+          "wordCount": null,
+          "title": "The Deadly Risks of Making Scissors Inside Rustic Workshops in India | Risky Business",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=0dYu31m6D7k",
           "author": null,
@@ -2427,16 +2458,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=4bc_qmfOzGA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4bc_qmfOzGA",
-          "publishedOn": "2024-03-29T15:00:05.000Z",
-          "wordCount": null,
-          "title": "12 Women-Led Businesses Keeping Traditional Crafts Alive | Still Standing | Business Insider",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=y46SQtyyAdU",
           "author": null,
           "description": "",
@@ -2463,7 +2484,7 @@
           "link": "https://www.youtube.com/watch?v=qdputZoWI8Q",
           "publishedOn": "2024-03-28T15:00:48.000Z",
           "wordCount": null,
-          "title": "INSIDE QUANTICO — How Marine Corps Officers Survive The 7-Month Basic School | Boot Camp",
+          "title": "SUCCEED OR DIE: Inside Marine Corps Officer Training At Quantico | Boot Camp | Business Insider",
           "imageUrl": null
         },
         {
@@ -2513,7 +2534,7 @@
           "link": "https://www.youtube.com/watch?v=Xksv2EGG9ek",
           "publishedOn": "2024-03-24T15:00:24.000Z",
           "wordCount": null,
-          "title": "Why Childcare Has Become So Unaffordable | Business Insider",
+          "title": "Why Childcare Has Become So Unaffordable | Business Insider Explains | Business Insider",
           "imageUrl": null
         },
         {
