@@ -233,16 +233,6 @@
           "wordCount": null,
           "title": "What does it mean that light \"slows down\" in glass?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vItzPPpNXEs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vItzPPpNXEs",
-          "publishedOn": "2024-01-06T00:00:33.000Z",
-          "wordCount": null,
-          "title": "Why do we call them \"scalars\"?",
-          "imageUrl": null
         }
       ]
     },
@@ -268,6 +258,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=DRjmRNsPl1M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DRjmRNsPl1M",
+          "publishedOn": "2024-04-04T14:00:09.000Z",
+          "wordCount": null,
+          "title": "ONE Gene Determines How Many Fingers You Have #kurzgesagt #shorts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=pjoQdz0nxf4",
           "author": null,
@@ -585,16 +585,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=rnLMzALrFXs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rnLMzALrFXs",
-          "publishedOn": "2024-03-22T12:44:28.000Z",
-          "wordCount": null,
-          "title": "Sid Sriram | Pioneer Sessions",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=Xcg2iCRv5Kc",
           "author": null,
           "description": "",
@@ -653,6 +643,16 @@
           "wordCount": null,
           "title": "SUNN O)))'s Shoshin (初心) Duo Live at Pioneer Works (Full Set)",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=G31wnCj0iY4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=G31wnCj0iY4",
+          "publishedOn": "2024-01-19T05:00:09.000Z",
+          "wordCount": null,
+          "title": "Gelsey Bell | Pioneer Sessions",
+          "imageUrl": null
         }
       ]
     },
@@ -699,16 +699,6 @@
           "publishedOn": "2024-02-09T21:00:07.000Z",
           "wordCount": null,
           "title": "Intelligent Thinking About Artificial Intelligence",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UjDxk9ZnYJQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UjDxk9ZnYJQ",
-          "publishedOn": "2024-01-05T21:00:07.000Z",
-          "wordCount": null,
-          "title": "Unifying Nature’s Laws: The State of String Theory",
           "imageUrl": null
         }
       ]
@@ -901,7 +891,18 @@
       "title": "AlphaPhoenix",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCWeRTgd79JL0ilH0ZywSJA",
       "siteUrl": "https://www.youtube.com/channel/UCCWeRTgd79JL0ilH0ZywSJA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=qm5AHAb0SmY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qm5AHAb0SmY",
+          "publishedOn": "2024-04-04T10:00:42.000Z",
+          "wordCount": null,
+          "title": "Stochastic art: I made a machine that mixes ink and water forever",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Artem Kirsanov",
@@ -1152,6 +1153,66 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ialgwpE5HsY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ialgwpE5HsY",
+          "publishedOn": "2024-04-04T21:00:21.000Z",
+          "wordCount": null,
+          "title": "Behold The Coming Of The Techno-Carrot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Gpti8PM5rKQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Gpti8PM5rKQ",
+          "publishedOn": "2024-04-04T19:45:00.000Z",
+          "wordCount": null,
+          "title": "Laser Screed Technology for Flawless Concrete Floors",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YehXZrKbGFc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YehXZrKbGFc",
+          "publishedOn": "2024-04-04T19:15:01.000Z",
+          "wordCount": null,
+          "title": "The World's First Graphene Semiconductor",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=r7V8blT3qEU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=r7V8blT3qEU",
+          "publishedOn": "2024-04-04T17:51:12.000Z",
+          "wordCount": null,
+          "title": "Researchers Have Created the World’s First Functional Graphene Semiconductor",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=LSkH5LObNMg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LSkH5LObNMg",
+          "publishedOn": "2024-04-04T16:15:00.000Z",
+          "wordCount": null,
+          "title": "Hydrogen-powered Train Breaks World Record",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fWDxg_LN-EE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fWDxg_LN-EE",
+          "publishedOn": "2024-04-04T15:30:28.000Z",
+          "wordCount": null,
+          "title": "Hydrogen-powered Train Breaks World Record",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pSnI6AUI5Jg",
           "author": null,
           "description": "",
@@ -1239,66 +1300,6 @@
           "publishedOn": "2024-04-02T19:00:05.000Z",
           "wordCount": null,
           "title": "Europe's Largest 3D-Printed Building: Completed in Just 140 Hours",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nXnFDF_fDqA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nXnFDF_fDqA",
-          "publishedOn": "2024-04-02T16:00:39.000Z",
-          "wordCount": null,
-          "title": "Humanoid Robot Explores Unreachable Depths",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=P_AT455OXPo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=P_AT455OXPo",
-          "publishedOn": "2024-04-01T21:00:15.000Z",
-          "wordCount": null,
-          "title": "Internet Speeds Get 4.5 Million Times Faster",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=79Cj-uIuwas",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=79Cj-uIuwas",
-          "publishedOn": "2024-04-01T18:15:00.000Z",
-          "wordCount": null,
-          "title": "Hero Robodog Shot in The Line of Duty",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KxEAWIcbE-M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KxEAWIcbE-M",
-          "publishedOn": "2024-04-01T18:00:09.000Z",
-          "wordCount": null,
-          "title": "Hero Robodog Shot in The Line of Duty",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=a7X0xqbVuLY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=a7X0xqbVuLY",
-          "publishedOn": "2024-04-01T14:24:21.000Z",
-          "wordCount": null,
-          "title": "The Next-Gen AI Pocket Assistant You Never Knew You Needed",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Zyn52YBhUAI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Zyn52YBhUAI",
-          "publishedOn": "2024-03-31T19:00:15.000Z",
-          "wordCount": null,
-          "title": "Testing NASA's Europa Probe for Extreme Space Conditions",
           "imageUrl": null
         }
       ]
@@ -1571,16 +1572,6 @@
           "wordCount": null,
           "title": "GIANT Rogue wave hits an oil platform",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ilQT79f1nJY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ilQT79f1nJY",
-          "publishedOn": "2024-01-06T00:44:45.000Z",
-          "wordCount": null,
-          "title": "World's Greatest Mystery SOLVED",
-          "imageUrl": null
         }
       ]
     },
@@ -1589,6 +1580,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg",
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=WXfU18JizZM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WXfU18JizZM",
+          "publishedOn": "2024-04-04T15:00:26.000Z",
+          "wordCount": null,
+          "title": "The F-35s Secret Weapon is Incredible",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=4bvMkkDw5Wg",
           "author": null,
@@ -1727,16 +1728,6 @@
           "publishedOn": "2024-02-20T15:00:34.000Z",
           "wordCount": null,
           "title": "How the M1 Turbine Engine Works",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sk6f0JTAQWY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sk6f0JTAQWY",
-          "publishedOn": "2024-02-19T15:00:47.000Z",
-          "wordCount": null,
-          "title": "The M1 Abrams Sounds Crazy",
           "imageUrl": null
         }
       ]
@@ -1910,7 +1901,7 @@
           "link": "https://www.youtube.com/watch?v=AiZd5yBWvYY",
           "publishedOn": "2024-03-31T14:07:29.000Z",
           "wordCount": null,
-          "title": "NASA Spacesuit Pressure Test (I Swam With Astronauts Underwater) - Smarter Every Day 296",
+          "title": "How We Answer This Question is More Important Than You’d Think- Smarter Every Day 296",
           "imageUrl": null
         },
         {
@@ -1983,6 +1974,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
       "siteUrl": "https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=sE-RUu9ClsU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sE-RUu9ClsU",
+          "publishedOn": "2024-04-04T20:28:58.000Z",
+          "wordCount": null,
+          "title": "Congress is about to make a huge mistake for astronomy #SaveChandra",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=d6iQrh2TK98",
           "author": null,
@@ -2080,7 +2081,7 @@
           "link": "https://www.youtube.com/watch?v=fG8SwAFQFuU",
           "publishedOn": "2024-01-15T21:02:07.000Z",
           "wordCount": null,
-          "title": "Do people understand the scale of the universe?",
+          "title": "Do People Understand The Scale Of The Universe?",
           "imageUrl": null
         }
       ]
@@ -2221,6 +2222,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=NPpgT4dQGdQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NPpgT4dQGdQ",
+          "publishedOn": "2024-04-04T14:35:00.000Z",
+          "wordCount": null,
+          "title": "Can't Wait.. Changing My Own Spindle",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=jtDVuHffGrA",
           "author": null,
           "description": "",
@@ -2359,16 +2370,6 @@
           "wordCount": null,
           "title": "INSANE Endmill Torture Test",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wuQE3TTE-xg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wuQE3TTE-xg",
-          "publishedOn": "2024-03-23T16:00:50.000Z",
-          "wordCount": null,
-          "title": "They Say You CANNOT Do This To a CNC Machine",
-          "imageUrl": null
         }
       ]
     },
@@ -2377,6 +2378,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=AyxUWJFAYuY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AyxUWJFAYuY",
+          "publishedOn": "2024-04-04T18:00:05.000Z",
+          "wordCount": null,
+          "title": "How students at a renowned Swiss #watchmaking school craft a $172,000 #LuxuryWatch. #watch",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=v4rYDnk4-c8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=v4rYDnk4-c8",
+          "publishedOn": "2024-04-04T15:00:49.000Z",
+          "wordCount": null,
+          "title": "43 Essential Items Marine Corps Officers Bring To Battle | Loadout | Business Insider",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=VZyZYnlr5L8",
           "author": null,
@@ -2505,26 +2526,6 @@
           "publishedOn": "2024-03-26T18:41:42.000Z",
           "wordCount": null,
           "title": "This natural resin, called #shellac, is made from melting bugs. #India #resin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=egIpRgKw5Wo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=egIpRgKw5Wo",
-          "publishedOn": "2024-03-26T15:00:36.000Z",
-          "wordCount": null,
-          "title": "How #PapaJohn's #pizza chain keeps up with demand during the #SuperBowl.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZVVxvnzRnlw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZVVxvnzRnlw",
-          "publishedOn": "2024-03-25T21:00:21.000Z",
-          "wordCount": null,
-          "title": "#Shellac was first used for dye and wood finish. Now, it can end up on your fruit and candy. #insect",
           "imageUrl": null
         }
       ]
