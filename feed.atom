@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-06T00:29:47.729Z</id>
+    <id>urn:2024-04-07T00:34:07.776Z</id>
     <title>osmos::feed</title>
-    <updated>2024-04-06T00:29:47.729Z</updated>
+    <updated>2024-04-07T00:34:07.776Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why Did the Alligator Cross the Road]]></title>
+        <id>https://www.youtube.com/watch?v=a8NFXNhIAyk</id>
+        <link href="https://www.youtube.com/watch?v=a8NFXNhIAyk"/>
+        <updated>2024-04-06T23:00:01.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Affordable Exoskeleton Helps People Walk]]></title>
+        <id>https://www.youtube.com/watch?v=htiLd0nejIE</id>
+        <link href="https://www.youtube.com/watch?v=htiLd0nejIE"/>
+        <updated>2024-04-06T19:45:02.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Affordable Exoskeleton Helps People Walk]]></title>
+        <id>https://www.youtube.com/watch?v=mh4Tj8KamQ8</id>
+        <link href="https://www.youtube.com/watch?v=mh4Tj8KamQ8"/>
+        <updated>2024-04-06T19:45:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nor'Easter Hits Massachusetts Hard]]></title>
+        <id>https://www.youtube.com/watch?v=b-64rSuWPvM</id>
+        <link href="https://www.youtube.com/watch?v=b-64rSuWPvM"/>
+        <updated>2024-04-06T19:00:23.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Calligraphy Inkstones Are So Expensive | So Expensive | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=0uyBJ4ZbsNg</id>
+        <link href="https://www.youtube.com/watch?v=0uyBJ4ZbsNg"/>
+        <updated>2024-04-06T15:00:03.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Jade Hard Enough to Machine Metal?]]></title>
+        <id>https://www.youtube.com/watch?v=uR-hY7hUsaY</id>
+        <link href="https://www.youtube.com/watch?v=uR-hY7hUsaY"/>
+        <updated>2024-04-06T14:00:48.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Earthquake Shakes New York]]></title>
+        <id>https://www.youtube.com/watch?v=Wj_gLX-wdAo</id>
+        <link href="https://www.youtube.com/watch?v=Wj_gLX-wdAo"/>
+        <updated>2024-04-06T13:20:38.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PANIC! At The Machine Shop]]></title>
+        <id>https://www.youtube.com/watch?v=SeIsZ-EVb08</id>
+        <link href="https://www.youtube.com/watch?v=SeIsZ-EVb08"/>
+        <updated>2024-04-06T13:00:21.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Earthquake Shakes New York]]></title>
+        <id>https://www.youtube.com/watch?v=kHETbGiK3Gs</id>
+        <link href="https://www.youtube.com/watch?v=kHETbGiK3Gs"/>
+        <updated>2024-04-06T13:00:20.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apocalyptic Numbers - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=0LkBwCSMsX4</id>
+        <link href="https://www.youtube.com/watch?v=0LkBwCSMsX4"/>
+        <updated>2024-04-06T11:35:57.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Nespresso & Keurig Spend Millions Trying To Solve Coffee Pod Waste | World Wide Waste]]></title>
         <id>https://www.youtube.com/watch?v=QbmfLjBUSV8</id>
@@ -33,7 +123,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Saving Honey Bees from Colony Collapse]]></title>
+        <title type="html"><![CDATA[Why Honey Bee Colonies are Collapsing]]></title>
         <id>https://www.youtube.com/watch?v=xhi0WNwKoXU</id>
         <link href="https://www.youtube.com/watch?v=xhi0WNwKoXU"/>
         <updated>2024-04-05T21:00:37.000Z</updated>
@@ -132,7 +222,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Which Planet Has the BEST Eclipse?]]></title>
+        <title type="html"><![CDATA[Where's the BEST Eclipse in the Solar System?]]></title>
         <id>https://www.youtube.com/watch?v=CikPFdZdY4k</id>
         <link href="https://www.youtube.com/watch?v=CikPFdZdY4k"/>
         <updated>2024-04-05T11:45:25.000Z</updated>
@@ -190,24 +280,6 @@
         <id>https://www.youtube.com/watch?v=r7V8blT3qEU</id>
         <link href="https://www.youtube.com/watch?v=r7V8blT3qEU"/>
         <updated>2024-04-04T17:51:12.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hydrogen-powered Train Breaks World Record]]></title>
-        <id>https://www.youtube.com/watch?v=LSkH5LObNMg</id>
-        <link href="https://www.youtube.com/watch?v=LSkH5LObNMg"/>
-        <updated>2024-04-04T16:15:00.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hydrogen-powered Train Breaks World Record]]></title>
-        <id>https://www.youtube.com/watch?v=fWDxg_LN-EE</id>
-        <link href="https://www.youtube.com/watch?v=fWDxg_LN-EE"/>
-        <updated>2024-04-04T15:30:28.000Z</updated>
         <author>
             <name>Interesting Engineering</name>
         </author>
@@ -273,42 +345,6 @@
         <updated>2024-04-03T22:00:31.000Z</updated>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soft Touch Gripper - More Delicate Than the Human Touch?]]></title>
-        <id>https://www.youtube.com/watch?v=pSnI6AUI5Jg</id>
-        <link href="https://www.youtube.com/watch?v=pSnI6AUI5Jg"/>
-        <updated>2024-04-03T21:00:33.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet the Game-Changing Paver Assist]]></title>
-        <id>https://www.youtube.com/watch?v=UusfsTnFEpY</id>
-        <link href="https://www.youtube.com/watch?v=UusfsTnFEpY"/>
-        <updated>2024-04-03T19:45:00.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Creates Robots from Scratch in Seconds]]></title>
-        <id>https://www.youtube.com/watch?v=SDC5fbpikzw</id>
-        <link href="https://www.youtube.com/watch?v=SDC5fbpikzw"/>
-        <updated>2024-04-03T19:15:00.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Creates Robots from Scratch in Seconds]]></title>
-        <id>https://www.youtube.com/watch?v=hiMKaQspMt8</id>
-        <link href="https://www.youtube.com/watch?v=hiMKaQspMt8"/>
-        <updated>2024-04-03T19:00:30.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -753,15 +789,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SUCCEED OR DIE: Inside Marine Corps Officer Training At Quantico | Boot Camp | Business Insider]]></title>
-        <id>https://www.youtube.com/watch?v=qdputZoWI8Q</id>
-        <link href="https://www.youtube.com/watch?v=qdputZoWI8Q"/>
-        <updated>2024-03-28T15:00:48.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Can BREAKING Tools Make You More Money?]]></title>
         <id>https://www.youtube.com/watch?v=JFpZSPKO-P8</id>
         <link href="https://www.youtube.com/watch?v=JFpZSPKO-P8"/>
@@ -807,30 +834,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastering Nitronic 60: Inspecting the Final Part]]></title>
-        <id>https://www.youtube.com/watch?v=xGxr4SJucKo</id>
-        <link href="https://www.youtube.com/watch?v=xGxr4SJucKo"/>
-        <updated>2024-03-26T11:00:59.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[We aimed our tracking telescope at #SpaceX's #Starship... here's what we saw]]></title>
         <id>https://www.youtube.com/watch?v=zTDeu8q6JzI</id>
         <link href="https://www.youtube.com/watch?v=zTDeu8q6JzI"/>
         <updated>2024-03-25T16:54:35.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swiss Machining Made Easier with Göltenbodt]]></title>
-        <id>https://www.youtube.com/watch?v=AAckGQYd9Q8</id>
-        <link href="https://www.youtube.com/watch?v=AAckGQYd9Q8"/>
-        <updated>2024-03-25T11:00:09.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2379,24 +2388,6 @@
         <updated>2024-01-09T09:45:53.000Z</updated>
         <author>
             <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What does it mean that light "slows down" in glass?]]></title>
-        <id>https://www.youtube.com/watch?v=XIW-2ykgVPI</id>
-        <link href="https://www.youtube.com/watch?v=XIW-2ykgVPI"/>
-        <updated>2024-01-08T07:00:19.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The real meaning of trace of matrix | Lie groups, algebras, brackets #5]]></title>
-        <id>https://www.youtube.com/watch?v=B2PJh2K-jdU</id>
-        <link href="https://www.youtube.com/watch?v=B2PJh2K-jdU"/>
-        <updated>2024-01-07T15:00:08.000Z</updated>
-        <author>
-            <name>Mathemaniac</name>
         </author>
     </entry>
 </feed>
