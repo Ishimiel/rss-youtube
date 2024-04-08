@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-07T00:34:07.776Z</id>
+    <id>urn:2024-04-08T00:31:44.979Z</id>
     <title>osmos::feed</title>
-    <updated>2024-04-07T00:34:07.776Z</updated>
+    <updated>2024-04-08T00:31:44.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Measuring Made Easy With Lasers]]></title>
+        <id>https://www.youtube.com/watch?v=JuGHsv8y4qM</id>
+        <link href="https://www.youtube.com/watch?v=JuGHsv8y4qM"/>
+        <updated>2024-04-07T20:15:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LOOI - Your Own Desktop Wall-E?]]></title>
+        <id>https://www.youtube.com/watch?v=S5_XTvdMHOo</id>
+        <link href="https://www.youtube.com/watch?v=S5_XTvdMHOo"/>
+        <updated>2024-04-07T19:45:01.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet the Underwater Robot Snake!]]></title>
+        <id>https://www.youtube.com/watch?v=vEg2EQngzig</id>
+        <link href="https://www.youtube.com/watch?v=vEg2EQngzig"/>
+        <updated>2024-04-07T19:00:19.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Modular Robotic Snake Designed for Underwater Inspections]]></title>
+        <id>https://www.youtube.com/watch?v=J5wSZPxeV0M</id>
+        <link href="https://www.youtube.com/watch?v=J5wSZPxeV0M"/>
+        <updated>2024-04-07T17:40:24.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goliath & Leviathan Numbers - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=UbfLl0IxL9o</id>
+        <link href="https://www.youtube.com/watch?v=UbfLl0IxL9o"/>
+        <updated>2024-04-07T15:26:26.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 Fascinating Jobs Done By Women Around The World | Still Standing | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=ZTThCI8WsOY</id>
+        <link href="https://www.youtube.com/watch?v=ZTThCI8WsOY"/>
+        <updated>2024-04-07T15:00:40.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesmerizing CNC Lathe Precision Cutting]]></title>
+        <id>https://www.youtube.com/watch?v=Jqqr-krRuyE</id>
+        <link href="https://www.youtube.com/watch?v=Jqqr-krRuyE"/>
+        <updated>2024-04-07T13:00:15.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visualizing Attention, a Transformer's Heart | Chapter 6, Deep Learning]]></title>
+        <id>https://www.youtube.com/watch?v=eMlx5fFNoYc</id>
+        <link href="https://www.youtube.com/watch?v=eMlx5fFNoYc"/>
+        <updated>2024-04-07T12:53:54.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Did the Alligator Cross the Road]]></title>
         <id>https://www.youtube.com/watch?v=a8NFXNhIAyk</id>
@@ -222,21 +294,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Where's the BEST Eclipse in the Solar System?]]></title>
+        <title type="html"><![CDATA[Which Planet Has the Best Eclipse?]]></title>
         <id>https://www.youtube.com/watch?v=CikPFdZdY4k</id>
         <link href="https://www.youtube.com/watch?v=CikPFdZdY4k"/>
         <updated>2024-04-05T11:45:25.000Z</updated>
         <author>
             <name>minutephysics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Behold The Coming Of The Techno-Carrot]]></title>
-        <id>https://www.youtube.com/watch?v=ialgwpE5HsY</id>
-        <link href="https://www.youtube.com/watch?v=ialgwpE5HsY"/>
-        <updated>2024-04-04T21:00:21.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -249,39 +312,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Laser Screed Technology for Flawless Concrete Floors]]></title>
-        <id>https://www.youtube.com/watch?v=Gpti8PM5rKQ</id>
-        <link href="https://www.youtube.com/watch?v=Gpti8PM5rKQ"/>
-        <updated>2024-04-04T19:45:00.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The World's First Graphene Semiconductor]]></title>
-        <id>https://www.youtube.com/watch?v=YehXZrKbGFc</id>
-        <link href="https://www.youtube.com/watch?v=YehXZrKbGFc"/>
-        <updated>2024-04-04T19:15:01.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How students at a renowned Swiss #watchmaking school craft a $172,000 #LuxuryWatch. #watch]]></title>
         <id>https://www.youtube.com/watch?v=AyxUWJFAYuY</id>
         <link href="https://www.youtube.com/watch?v=AyxUWJFAYuY"/>
         <updated>2024-04-04T18:00:05.000Z</updated>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World’s First Graphene Semiconductor Could Replace Silicon]]></title>
-        <id>https://www.youtube.com/watch?v=r7V8blT3qEU</id>
-        <link href="https://www.youtube.com/watch?v=r7V8blT3qEU"/>
-        <updated>2024-04-04T17:51:12.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -420,7 +456,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[But what is a GPT?  Visual intro to Transformers | Chapter 5, Deep Learning]]></title>
+        <title type="html"><![CDATA[But what is a GPT?  Visual intro to transformers | Chapter 5, Deep Learning]]></title>
         <id>https://www.youtube.com/watch?v=wjZofJX0v4M</id>
         <link href="https://www.youtube.com/watch?v=wjZofJX0v4M"/>
         <updated>2024-04-01T19:13:57.000Z</updated>
@@ -762,15 +798,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This machine helps Papa John's quickly prep #pizza dough. #PapaJohns #restaraunt]]></title>
-        <id>https://www.youtube.com/watch?v=UXeB4PU-eas</id>
-        <link href="https://www.youtube.com/watch?v=UXeB4PU-eas"/>
-        <updated>2024-03-28T18:59:32.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why is this number everywhere?]]></title>
         <id>https://www.youtube.com/watch?v=d6iQrh2TK98</id>
         <link href="https://www.youtube.com/watch?v=d6iQrh2TK98"/>
@@ -793,15 +820,6 @@
         <id>https://www.youtube.com/watch?v=JFpZSPKO-P8</id>
         <link href="https://www.youtube.com/watch?v=JFpZSPKO-P8"/>
         <updated>2024-03-28T14:45:01.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turning 4140 Steel like BUTTER on the SMX2100 CNC Lathe]]></title>
-        <id>https://www.youtube.com/watch?v=6jNMBcAHxh4</id>
-        <link href="https://www.youtube.com/watch?v=6jNMBcAHxh4"/>
-        <updated>2024-03-27T16:00:06.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
         </author>
@@ -933,7 +951,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How The Most Expensive Swords In The World Are Made]]></title>
+        <title type="html"><![CDATA[Making A Japanese Sword From Scratch]]></title>
         <id>https://www.youtube.com/watch?v=Tt6WQYtefXA</id>
         <link href="https://www.youtube.com/watch?v=Tt6WQYtefXA"/>
         <updated>2024-03-21T20:56:45.000Z</updated>
@@ -2379,15 +2397,6 @@
         <updated>2024-01-09T17:15:05.000Z</updated>
         <author>
             <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Most Mathematical Sudoku - Numberphile]]></title>
-        <id>https://www.youtube.com/watch?v=h8AulgkjyIc</id>
-        <link href="https://www.youtube.com/watch?v=h8AulgkjyIc"/>
-        <updated>2024-01-09T09:45:53.000Z</updated>
-        <author>
-            <name>Numberphile</name>
         </author>
     </entry>
 </feed>
