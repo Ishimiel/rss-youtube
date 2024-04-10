@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-09T00:30:46.423Z</id>
+    <id>urn:2024-04-10T00:30:16.443Z</id>
     <title>osmos::feed</title>
-    <updated>2024-04-09T00:30:46.423Z</updated>
+    <updated>2024-04-10T00:30:16.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Pool of Deception]]></title>
+        <id>https://www.youtube.com/watch?v=v0hKaTMTRmk</id>
+        <link href="https://www.youtube.com/watch?v=v0hKaTMTRmk"/>
+        <updated>2024-04-09T21:00:25.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build a Solar Car for Endurance]]></title>
+        <id>https://www.youtube.com/watch?v=0wSwtADCXZg</id>
+        <link href="https://www.youtube.com/watch?v=0wSwtADCXZg"/>
+        <updated>2024-04-09T20:15:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kitchen Of The Future - Complete With Robo-Chef?]]></title>
+        <id>https://www.youtube.com/watch?v=lPWDm7EwqPM</id>
+        <link href="https://www.youtube.com/watch?v=lPWDm7EwqPM"/>
+        <updated>2024-04-09T19:45:02.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why it costs $75,000 to train, breed, and match a #SeeingEyeDog. #GuideDog #ServiceDog]]></title>
+        <id>https://www.youtube.com/watch?v=baztZ7MsUHo</id>
+        <link href="https://www.youtube.com/watch?v=baztZ7MsUHo"/>
+        <updated>2024-04-09T19:00:14.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Dawn Deliver Green Fusion Energy?]]></title>
+        <id>https://www.youtube.com/watch?v=DWSD3SmOGrU</id>
+        <link href="https://www.youtube.com/watch?v=DWSD3SmOGrU"/>
+        <updated>2024-04-09T19:00:05.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Dawn Deliver Green Fusion Energy?]]></title>
+        <id>https://www.youtube.com/watch?v=tWtfGdI6hwM</id>
+        <link href="https://www.youtube.com/watch?v=tWtfGdI6hwM"/>
+        <updated>2024-04-09T18:55:25.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chatter is Scrapping My Parts, So I Made This…]]></title>
+        <id>https://www.youtube.com/watch?v=1W7WeSiweM0</id>
+        <link href="https://www.youtube.com/watch?v=1W7WeSiweM0"/>
+        <updated>2024-04-09T16:00:03.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solving Swiss Part Ejector Problem]]></title>
+        <id>https://www.youtube.com/watch?v=djEag6Zk9nE</id>
+        <link href="https://www.youtube.com/watch?v=djEag6Zk9nE"/>
+        <updated>2024-04-09T15:20:00.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visualising Lie algebras (and why tr(AB) = tr(BA)?) | Lie groups, algebras, brackets #6]]></title>
+        <id>https://www.youtube.com/watch?v=gj4kvpy1eCE</id>
+        <link href="https://www.youtube.com/watch?v=gj4kvpy1eCE"/>
+        <updated>2024-04-09T14:00:36.000Z</updated>
+        <author>
+            <name>Mathemaniac</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Bull Pilots Fly Through Solar Eclipse]]></title>
+        <id>https://www.youtube.com/watch?v=31Rd9vFz99A</id>
+        <link href="https://www.youtube.com/watch?v=31Rd9vFz99A"/>
+        <updated>2024-04-09T13:18:50.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Astrobee: NASA's Flying Space Robots]]></title>
         <id>https://www.youtube.com/watch?v=mkEsW05Yh08</id>
@@ -141,24 +231,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meet the Underwater Robot Snake!]]></title>
-        <id>https://www.youtube.com/watch?v=vEg2EQngzig</id>
-        <link href="https://www.youtube.com/watch?v=vEg2EQngzig"/>
-        <updated>2024-04-07T19:00:19.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Modular Robotic Snake Designed for Underwater Inspections]]></title>
-        <id>https://www.youtube.com/watch?v=J5wSZPxeV0M</id>
-        <link href="https://www.youtube.com/watch?v=J5wSZPxeV0M"/>
-        <updated>2024-04-07T17:40:24.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Goliath & Leviathan Numbers - Numberphile]]></title>
         <id>https://www.youtube.com/watch?v=UbfLl0IxL9o</id>
         <link href="https://www.youtube.com/watch?v=UbfLl0IxL9o"/>
@@ -186,48 +258,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Visualizing Attention, a Transformer's Heart | Chapter 6, Deep Learning]]></title>
+        <title type="html"><![CDATA[Attention in transformers, visually explained | Chapter 6, Deep Learning]]></title>
         <id>https://www.youtube.com/watch?v=eMlx5fFNoYc</id>
         <link href="https://www.youtube.com/watch?v=eMlx5fFNoYc"/>
         <updated>2024-04-07T12:53:54.000Z</updated>
         <author>
             <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Did the Alligator Cross the Road]]></title>
-        <id>https://www.youtube.com/watch?v=a8NFXNhIAyk</id>
-        <link href="https://www.youtube.com/watch?v=a8NFXNhIAyk"/>
-        <updated>2024-04-06T23:00:01.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Affordable Exoskeleton Helps People Walk]]></title>
-        <id>https://www.youtube.com/watch?v=htiLd0nejIE</id>
-        <link href="https://www.youtube.com/watch?v=htiLd0nejIE"/>
-        <updated>2024-04-06T19:45:02.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Affordable Exoskeleton Helps People Walk]]></title>
-        <id>https://www.youtube.com/watch?v=mh4Tj8KamQ8</id>
-        <link href="https://www.youtube.com/watch?v=mh4Tj8KamQ8"/>
-        <updated>2024-04-06T19:45:00.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nor'Easter Hits Massachusetts Hard]]></title>
-        <id>https://www.youtube.com/watch?v=b-64rSuWPvM</id>
-        <link href="https://www.youtube.com/watch?v=b-64rSuWPvM"/>
-        <updated>2024-04-06T19:00:23.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -708,15 +744,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Papa John's has been making pizza since 1984. #PapaJohns #pizza #Italian]]></title>
-        <id>https://www.youtube.com/watch?v=Ee03oiQr8no</id>
-        <link href="https://www.youtube.com/watch?v=Ee03oiQr8no"/>
-        <updated>2024-03-29T20:38:44.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Jonathan Nolan and Janna Levin on Interstellar’s Prescience on Black Holes]]></title>
         <id>https://www.youtube.com/watch?v=nsp7i2Sr1ZA</id>
         <link href="https://www.youtube.com/watch?v=nsp7i2Sr1ZA"/>
@@ -789,15 +816,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Magical Deburring Tool You Didn't Know Existed]]></title>
-        <id>https://www.youtube.com/watch?v=KaPcB4H9fgs</id>
-        <link href="https://www.youtube.com/watch?v=KaPcB4H9fgs"/>
-        <updated>2024-03-29T14:00:24.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Enclosing the Prusa XL - SUMO!]]></title>
         <id>https://www.youtube.com/watch?v=o_TgNQowCA8</id>
         <link href="https://www.youtube.com/watch?v=o_TgNQowCA8"/>
@@ -831,15 +849,6 @@
         <updated>2024-03-28T18:48:10.000Z</updated>
         <author>
             <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spindle's Broken, Can’t Wait For Service: Barry Changes Spindle Out]]></title>
-        <id>https://www.youtube.com/watch?v=eqDe_9Xyyck</id>
-        <link href="https://www.youtube.com/watch?v=eqDe_9Xyyck"/>
-        <updated>2024-03-28T16:00:26.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2388,15 +2397,6 @@
         <updated>2024-01-11T15:00:09.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why does light slowing imply a bend? (Beyond the tank/car analogy)]]></title>
-        <id>https://www.youtube.com/watch?v=DWnb2UUlqd0</id>
-        <link href="https://www.youtube.com/watch?v=DWnb2UUlqd0"/>
-        <updated>2024-01-11T00:00:11.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
         </author>
     </entry>
 </feed>

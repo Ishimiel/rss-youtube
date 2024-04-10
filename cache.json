@@ -141,7 +141,7 @@
           "link": "https://www.youtube.com/watch?v=eMlx5fFNoYc",
           "publishedOn": "2024-04-07T12:53:54.000Z",
           "wordCount": null,
-          "title": "Visualizing Attention, a Transformer's Heart | Chapter 6, Deep Learning",
+          "title": "Attention in transformers, visually explained | Chapter 6, Deep Learning",
           "imageUrl": null
         },
         {
@@ -223,16 +223,6 @@
           "wordCount": null,
           "title": "Positioned as the hardest question on a Putnam exam  (#6, 1992)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DWnb2UUlqd0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DWnb2UUlqd0",
-          "publishedOn": "2024-01-11T00:00:11.000Z",
-          "wordCount": null,
-          "title": "Why does light slowing imply a bend? (Beyond the tank/car analogy)",
-          "imageUrl": null
         }
       ]
     },
@@ -240,7 +230,18 @@
       "title": "Mathemaniac",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrlZs71h3mTR45FgQNINfrg",
       "siteUrl": "https://www.youtube.com/channel/UCrlZs71h3mTR45FgQNINfrg",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=gj4kvpy1eCE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gj4kvpy1eCE",
+          "publishedOn": "2024-04-09T14:00:36.000Z",
+          "wordCount": null,
+          "title": "Visualising Lie algebras (and why tr(AB) = tr(BA)?) | Lie groups, algebras, brackets #6",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Kurzgesagt – In a Nutshell",
@@ -1162,6 +1163,66 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=v0hKaTMTRmk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=v0hKaTMTRmk",
+          "publishedOn": "2024-04-09T21:00:25.000Z",
+          "wordCount": null,
+          "title": "The Pool of Deception",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0wSwtADCXZg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0wSwtADCXZg",
+          "publishedOn": "2024-04-09T20:15:00.000Z",
+          "wordCount": null,
+          "title": "How To Build a Solar Car for Endurance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lPWDm7EwqPM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lPWDm7EwqPM",
+          "publishedOn": "2024-04-09T19:45:02.000Z",
+          "wordCount": null,
+          "title": "Kitchen Of The Future - Complete With Robo-Chef?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DWSD3SmOGrU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DWSD3SmOGrU",
+          "publishedOn": "2024-04-09T19:00:05.000Z",
+          "wordCount": null,
+          "title": "Can Dawn Deliver Green Fusion Energy?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=tWtfGdI6hwM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tWtfGdI6hwM",
+          "publishedOn": "2024-04-09T18:55:25.000Z",
+          "wordCount": null,
+          "title": "Can Dawn Deliver Green Fusion Energy?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=31Rd9vFz99A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=31Rd9vFz99A",
+          "publishedOn": "2024-04-09T13:18:50.000Z",
+          "wordCount": null,
+          "title": "Red Bull Pilots Fly Through Solar Eclipse",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mkEsW05Yh08",
           "author": null,
           "description": "",
@@ -1249,66 +1310,6 @@
           "publishedOn": "2024-04-07T19:45:01.000Z",
           "wordCount": null,
           "title": "LOOI - Your Own Desktop Wall-E?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vEg2EQngzig",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vEg2EQngzig",
-          "publishedOn": "2024-04-07T19:00:19.000Z",
-          "wordCount": null,
-          "title": "Meet the Underwater Robot Snake!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=J5wSZPxeV0M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=J5wSZPxeV0M",
-          "publishedOn": "2024-04-07T17:40:24.000Z",
-          "wordCount": null,
-          "title": "This Modular Robotic Snake Designed for Underwater Inspections",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=a8NFXNhIAyk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=a8NFXNhIAyk",
-          "publishedOn": "2024-04-06T23:00:01.000Z",
-          "wordCount": null,
-          "title": "Why Did the Alligator Cross the Road",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=htiLd0nejIE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=htiLd0nejIE",
-          "publishedOn": "2024-04-06T19:45:02.000Z",
-          "wordCount": null,
-          "title": "Affordable Exoskeleton Helps People Walk",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mh4Tj8KamQ8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mh4Tj8KamQ8",
-          "publishedOn": "2024-04-06T19:45:00.000Z",
-          "wordCount": null,
-          "title": "Affordable Exoskeleton Helps People Walk",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=b-64rSuWPvM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=b-64rSuWPvM",
-          "publishedOn": "2024-04-06T19:00:23.000Z",
-          "wordCount": null,
-          "title": "Nor'Easter Hits Massachusetts Hard",
           "imageUrl": null
         }
       ]
@@ -2261,6 +2262,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=1W7WeSiweM0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1W7WeSiweM0",
+          "publishedOn": "2024-04-09T16:00:03.000Z",
+          "wordCount": null,
+          "title": "Chatter is Scrapping My Parts, So I Made This…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=djEag6Zk9nE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=djEag6Zk9nE",
+          "publishedOn": "2024-04-09T15:20:00.000Z",
+          "wordCount": null,
+          "title": "Solving Swiss Part Ejector Problem",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4JQdvifMLVg",
           "author": null,
           "description": "",
@@ -2389,26 +2410,6 @@
           "wordCount": null,
           "title": "Machining Custom V-Block that Holds AK-50 Part Perfectly",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KaPcB4H9fgs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KaPcB4H9fgs",
-          "publishedOn": "2024-03-29T14:00:24.000Z",
-          "wordCount": null,
-          "title": "Magical Deburring Tool You Didn't Know Existed",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eqDe_9Xyyck",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eqDe_9Xyyck",
-          "publishedOn": "2024-03-28T16:00:26.000Z",
-          "wordCount": null,
-          "title": "Spindle's Broken, Can’t Wait For Service: Barry Changes Spindle Out",
-          "imageUrl": null
         }
       ]
     },
@@ -2417,6 +2418,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=baztZ7MsUHo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=baztZ7MsUHo",
+          "publishedOn": "2024-04-09T19:00:14.000Z",
+          "wordCount": null,
+          "title": "Why it costs $75,000 to train, breed, and match a #SeeingEyeDog. #GuideDog #ServiceDog",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=qxk7v1sKrSw",
           "author": null,
@@ -2555,16 +2566,6 @@
           "publishedOn": "2024-03-29T20:50:09.000Z",
           "wordCount": null,
           "title": "Picking #Egyptian #cotton is just the start of turning a seed into a finished product. #seeds",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ee03oiQr8no",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ee03oiQr8no",
-          "publishedOn": "2024-03-29T20:38:44.000Z",
-          "wordCount": null,
-          "title": "Papa John's has been making pizza since 1984. #PapaJohns #pizza #Italian",
           "imageUrl": null
         }
       ]
