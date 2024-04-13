@@ -218,7 +218,7 @@
           "link": "https://www.youtube.com/watch?v=gj4kvpy1eCE",
           "publishedOn": "2024-04-09T14:00:36.000Z",
           "wordCount": null,
-          "title": "This is what Lie algebras look like (and why they are defined that way in textbooks)",
+          "title": "What are Lie algebras? | Lie groups, algebras, brackets #6",
           "imageUrl": null
         }
       ]
@@ -375,6 +375,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=wHg72Tnp1Ek",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wHg72Tnp1Ek",
+          "publishedOn": "2024-04-12T12:00:53.000Z",
+          "wordCount": null,
+          "title": "Using sparse trajectory data to find Lagrangian Coherent Structures (LCS) in fluid flows",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=T4iJ10TAIMg",
           "author": null,
@@ -699,6 +709,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=uoET9DL27FU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uoET9DL27FU",
+          "publishedOn": "2024-04-12T13:00:49.000Z",
+          "wordCount": null,
+          "title": "Make STL Files IN THE SLICER!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=1pFfpAvd2rU",
           "author": null,
           "description": "",
@@ -836,16 +856,6 @@
           "publishedOn": "2024-02-09T14:00:07.000Z",
           "wordCount": null,
           "title": "Innovating Pediatric Care: 3D Printing at Seattle Children's Hospital",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NK-ToRIBWcg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NK-ToRIBWcg",
-          "publishedOn": "2024-02-07T15:11:40.000Z",
-          "wordCount": null,
-          "title": "3D Printing with @HandymanHal !",
           "imageUrl": null
         }
       ]
@@ -1163,13 +1173,73 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=0j31ioxXPX4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0j31ioxXPX4",
+          "publishedOn": "2024-04-12T21:00:01.000Z",
+          "wordCount": null,
+          "title": "Drone Soccer - Training Tomorrow's Drone-Builders",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qrz2hwe0Y5I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qrz2hwe0Y5I",
+          "publishedOn": "2024-04-12T20:30:05.000Z",
+          "wordCount": null,
+          "title": "How Can We Photograph Photons in Motion?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=eT7RGxi7cTc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eT7RGxi7cTc",
+          "publishedOn": "2024-04-12T20:15:00.000Z",
+          "wordCount": null,
+          "title": "How Can We Photograph Photons in Motion?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=OvJnieMq76s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OvJnieMq76s",
+          "publishedOn": "2024-04-12T19:45:00.000Z",
+          "wordCount": null,
+          "title": "Potassium and Water: A Powerful Combination",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=GaPVa43ESDA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GaPVa43ESDA",
+          "publishedOn": "2024-04-12T19:15:00.000Z",
+          "wordCount": null,
+          "title": "Typing Strategies and New User Interfaces",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TscgqbFJq9k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TscgqbFJq9k",
+          "publishedOn": "2024-04-12T19:00:13.000Z",
+          "wordCount": null,
+          "title": "Typing Strategies and New User Interfaces",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=us5z8XCdxJg",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=us5z8XCdxJg",
           "publishedOn": "2024-04-11T21:00:33.000Z",
           "wordCount": null,
-          "title": "How Are Airbags Packed in Steering Wheels?",
+          "title": "How Are Airbags Packed in Steering Wheels? 🎥 @MidSouthAutomation",
           "imageUrl": null
         },
         {
@@ -1250,66 +1320,6 @@
           "publishedOn": "2024-04-10T20:15:00.000Z",
           "wordCount": null,
           "title": "Longer-lasting, Safer EV Batteries",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YVjasqLLpoA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YVjasqLLpoA",
-          "publishedOn": "2024-04-10T19:45:00.000Z",
-          "wordCount": null,
-          "title": "We Don't Need Roads...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IAyJnUby9Ek",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IAyJnUby9Ek",
-          "publishedOn": "2024-04-10T19:00:08.000Z",
-          "wordCount": null,
-          "title": "Why Teach Robots To Read Braille?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fZM5yjO_RsA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fZM5yjO_RsA",
-          "publishedOn": "2024-04-10T12:42:31.000Z",
-          "wordCount": null,
-          "title": "Why Teach Robots To Read Braille?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=v0hKaTMTRmk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=v0hKaTMTRmk",
-          "publishedOn": "2024-04-09T21:00:25.000Z",
-          "wordCount": null,
-          "title": "The Pool of Deception",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0wSwtADCXZg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0wSwtADCXZg",
-          "publishedOn": "2024-04-09T20:15:00.000Z",
-          "wordCount": null,
-          "title": "How To Build a Solar Car for Endurance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lPWDm7EwqPM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lPWDm7EwqPM",
-          "publishedOn": "2024-04-09T19:45:02.000Z",
-          "wordCount": null,
-          "title": "Kitchen Of The Future - Complete With Robo-Chef?",
           "imageUrl": null
         }
       ]
@@ -1984,7 +1994,7 @@
           "link": "https://www.youtube.com/watch?v=AwRJsze_9m4",
           "publishedOn": "2024-02-19T15:30:49.000Z",
           "wordCount": null,
-          "title": "How MOSFET Works - Unravel the Mysteries of How a mosfet Works!",
+          "title": "How MOSFET Works - Ultimate guide, understand like a PRO",
           "imageUrl": null
         },
         {
@@ -2131,6 +2141,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "siteUrl": "https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=LmpWt-sUCcY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LmpWt-sUCcY",
+          "publishedOn": "2024-04-12T21:51:46.000Z",
+          "wordCount": null,
+          "title": "Phrases That Sound Alike",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=d4sDd4RN37o",
           "author": null,
@@ -2283,6 +2303,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ARKU67TcDzw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ARKU67TcDzw",
+          "publishedOn": "2024-04-12T14:45:00.000Z",
+          "wordCount": null,
+          "title": "Rock Solid Work Holding Technique for Odd Shapes",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DfWk0xcu42s",
           "author": null,
           "description": "",
@@ -2421,16 +2451,6 @@
           "wordCount": null,
           "title": "Genius Solution to Maximize Your CNC Machine's Table Space",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=v3xkGEyziQ0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=v3xkGEyziQ0",
-          "publishedOn": "2024-03-31T14:00:38.000Z",
-          "wordCount": null,
-          "title": "Infamous Machinist Trick",
-          "imageUrl": null
         }
       ]
     },
@@ -2439,6 +2459,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=BZ-PDqOyEJc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BZ-PDqOyEJc",
+          "publishedOn": "2024-04-12T18:00:09.000Z",
+          "wordCount": null,
+          "title": "#KCups made of plastic number seven are near-impossible to #recycle. #coffeepods",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-Nm9l5qRWQU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-Nm9l5qRWQU",
+          "publishedOn": "2024-04-12T15:00:00.000Z",
+          "wordCount": null,
+          "title": "How Africa’s First Caviar Won Over Michelin-Starred Restaurants In Europe | Big Business",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=hC2eIwEiADY",
           "author": null,
@@ -2568,26 +2608,6 @@
           "wordCount": null,
           "title": "How AI and AT&T Data Connectivity Is Changing The Way Truck Drivers Operate Their Vehicles",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AyxUWJFAYuY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AyxUWJFAYuY",
-          "publishedOn": "2024-04-04T18:00:05.000Z",
-          "wordCount": null,
-          "title": "How students at a renowned Swiss #watchmaking school craft a $172,000 #LuxuryWatch. #watch",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=v4rYDnk4-c8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=v4rYDnk4-c8",
-          "publishedOn": "2024-04-04T15:00:49.000Z",
-          "wordCount": null,
-          "title": "43 Essential Items Marine Corps Officers Bring To Battle | Loadout | Business Insider",
-          "imageUrl": null
         }
       ]
     },
@@ -2663,6 +2683,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCM15YNy8g-CaJ15YZCbq0Iw",
       "siteUrl": "https://www.youtube.com/channel/UCM15YNy8g-CaJ15YZCbq0Iw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=vghV2LC0A5g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vghV2LC0A5g",
+          "publishedOn": "2024-04-12T15:01:00.000Z",
+          "wordCount": null,
+          "title": "I made a radioactive shark in an abandoned sewer",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=v-K9fSrLa7w",
           "author": null,
