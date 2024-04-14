@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-13T00:26:13.605Z</id>
+    <id>urn:2024-04-14T00:36:53.776Z</id>
     <title>osmos::feed</title>
-    <updated>2024-04-13T00:26:13.605Z</updated>
+    <updated>2024-04-14T00:36:53.776Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Do You Deal with the Litter Box Problem?]]></title>
+        <id>https://www.youtube.com/watch?v=tVLnhkIxSEU</id>
+        <link href="https://www.youtube.com/watch?v=tVLnhkIxSEU"/>
+        <updated>2024-04-13T21:00:33.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Are Buttons Added to Clothes?]]></title>
+        <id>https://www.youtube.com/watch?v=iNWEySqwcmI</id>
+        <link href="https://www.youtube.com/watch?v=iNWEySqwcmI"/>
+        <updated>2024-04-13T19:45:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Simulate a Human Body - In the Lab]]></title>
+        <id>https://www.youtube.com/watch?v=w77S3u703OE</id>
+        <link href="https://www.youtube.com/watch?v=w77S3u703OE"/>
+        <updated>2024-04-13T19:00:32.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Simulate a Human Body - In the Lab]]></title>
+        <id>https://www.youtube.com/watch?v=fZEI_fBXUpg</id>
+        <link href="https://www.youtube.com/watch?v=fZEI_fBXUpg"/>
+        <updated>2024-04-13T19:00:16.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Battle of Britain was Won]]></title>
+        <id>https://www.youtube.com/watch?v=U0u_QyurfXA</id>
+        <link href="https://www.youtube.com/watch?v=U0u_QyurfXA"/>
+        <updated>2024-04-13T18:45:31.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Complicated World of Machining Surgical Tools]]></title>
+        <id>https://www.youtube.com/watch?v=rTD_Alra7JE</id>
+        <link href="https://www.youtube.com/watch?v=rTD_Alra7JE"/>
+        <updated>2024-04-13T16:00:39.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why This Prototype Combat Rig Could Help Army Soldiers Fight A Possible War With China | Loadout]]></title>
+        <id>https://www.youtube.com/watch?v=7_Mt8B3zLwE</id>
+        <link href="https://www.youtube.com/watch?v=7_Mt8B3zLwE"/>
+        <updated>2024-04-13T15:00:09.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Have You Seen One Of These Gear Slotting Tools?]]></title>
+        <id>https://www.youtube.com/watch?v=9xdIad9pJII</id>
+        <link href="https://www.youtube.com/watch?v=9xdIad9pJII"/>
+        <updated>2024-04-13T14:00:11.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Κουβάς Souls]]></title>
+        <id>https://www.youtube.com/watch?v=Z_fTij-NxDQ</id>
+        <link href="https://www.youtube.com/watch?v=Z_fTij-NxDQ"/>
+        <updated>2024-04-13T12:55:51.000Z</updated>
+        <author>
+            <name>NinjaCakeAssassin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Phrases That Sound Alike]]></title>
         <id>https://www.youtube.com/watch?v=LmpWt-sUCcY</id>
@@ -213,15 +294,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[If You Build A Hydrogen Motorbike - Will They Come?]]></title>
-        <id>https://www.youtube.com/watch?v=Bb94saub8Lw</id>
-        <link href="https://www.youtube.com/watch?v=Bb94saub8Lw"/>
-        <updated>2024-04-11T14:25:19.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Let's Cook a Galaxy #kurzgesagt #shorts]]></title>
         <id>https://www.youtube.com/watch?v=LFfFlYQfXh0</id>
         <link href="https://www.youtube.com/watch?v=LFfFlYQfXh0"/>
@@ -258,15 +330,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smart Farming - the Human Factor]]></title>
-        <id>https://www.youtube.com/watch?v=kvgGqocIdCE</id>
-        <link href="https://www.youtube.com/watch?v=kvgGqocIdCE"/>
-        <updated>2024-04-10T21:00:21.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[These traditional Mexican tortillas used to be made completely by hand. #corn #tortilla #Mexican]]></title>
         <id>https://www.youtube.com/watch?v=LimKuqki3qg</id>
         <link href="https://www.youtube.com/watch?v=LimKuqki3qg"/>
@@ -282,24 +345,6 @@
         <updated>2024-04-10T20:33:31.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Longer-lasting, Safer EV Batteries]]></title>
-        <id>https://www.youtube.com/watch?v=petQar3bij8</id>
-        <link href="https://www.youtube.com/watch?v=petQar3bij8"/>
-        <updated>2024-04-10T20:15:01.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Longer-lasting, Safer EV Batteries]]></title>
-        <id>https://www.youtube.com/watch?v=1tfIRA4dvnY</id>
-        <link href="https://www.youtube.com/watch?v=1tfIRA4dvnY"/>
-        <updated>2024-04-10T20:15:00.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -384,7 +429,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What are Lie algebras? | Lie groups, algebras, brackets #6]]></title>
+        <title type="html"><![CDATA[Lie algebra: the math of rotations]]></title>
         <id>https://www.youtube.com/watch?v=gj4kvpy1eCE</id>
         <link href="https://www.youtube.com/watch?v=gj4kvpy1eCE"/>
         <updated>2024-04-09T14:00:36.000Z</updated>
@@ -528,15 +573,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How AI and AT&T Data Connectivity Is Changing The Way Truck Drivers Operate Their Vehicles]]></title>
-        <id>https://www.youtube.com/watch?v=Cy8A5tMOV2Q</id>
-        <link href="https://www.youtube.com/watch?v=Cy8A5tMOV2Q"/>
-        <updated>2024-04-05T21:08:47.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AI and Quantum Computing: Glimpsing the Near Future]]></title>
         <id>https://www.youtube.com/watch?v=gZZan4JMwk4</id>
         <link href="https://www.youtube.com/watch?v=gZZan4JMwk4"/>
@@ -645,7 +681,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How does turbulent flow become laminar?]]></title>
+        <title type="html"><![CDATA[I built a machine that creates entropy (and also looks cool!)]]></title>
         <id>https://www.youtube.com/watch?v=qm5AHAb0SmY</id>
         <link href="https://www.youtube.com/watch?v=qm5AHAb0SmY"/>
         <updated>2024-04-04T10:00:42.000Z</updated>
@@ -708,15 +744,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Incredible 40XD Deep Hole Drilling in Stainless]]></title>
-        <id>https://www.youtube.com/watch?v=Jp_areKafQY</id>
-        <link href="https://www.youtube.com/watch?v=Jp_areKafQY"/>
-        <updated>2024-04-02T14:00:21.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[But what is a GPT?  Visual intro to transformers | Chapter 5, Deep Learning]]></title>
         <id>https://www.youtube.com/watch?v=wjZofJX0v4M</id>
         <link href="https://www.youtube.com/watch?v=wjZofJX0v4M"/>
@@ -732,15 +759,6 @@
         <updated>2024-04-01T15:41:58.000Z</updated>
         <author>
             <name>minutephysics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genius Solution to Maximize Your CNC Machine's Table Space]]></title>
-        <id>https://www.youtube.com/watch?v=HDqotcvyJZ4</id>
-        <link href="https://www.youtube.com/watch?v=HDqotcvyJZ4"/>
-        <updated>2024-04-01T15:02:01.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1095,7 +1113,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How The Most Expensive Swords In The World Are Made]]></title>
+        <title type="html"><![CDATA[How Japanese Masters Turn Sand Into Swords]]></title>
         <id>https://www.youtube.com/watch?v=Tt6WQYtefXA</id>
         <link href="https://www.youtube.com/watch?v=Tt6WQYtefXA"/>
         <updated>2024-03-21T20:56:45.000Z</updated>
@@ -1806,15 +1824,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How this tank makes a smoke screen]]></title>
-        <id>https://www.youtube.com/watch?v=JirS1i7GoaE</id>
-        <link href="https://www.youtube.com/watch?v=JirS1i7GoaE"/>
-        <updated>2024-02-21T15:00:13.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Mystery of Hyperbolicity - Numberphile]]></title>
         <id>https://www.youtube.com/watch?v=eC9-1wY7FvU</id>
         <link href="https://www.youtube.com/watch?v=eC9-1wY7FvU"/>
@@ -2433,15 +2442,6 @@
         <updated>2024-01-15T21:02:07.000Z</updated>
         <author>
             <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The medical test paradox (well "paradox")]]></title>
-        <id>https://www.youtube.com/watch?v=xIMlJUwB1m8</id>
-        <link href="https://www.youtube.com/watch?v=xIMlJUwB1m8"/>
-        <updated>2024-01-15T07:00:30.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
         </author>
     </entry>
 </feed>

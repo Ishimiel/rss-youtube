@@ -193,16 +193,6 @@
           "wordCount": null,
           "title": "Three levels of understanding Bayes' theorem",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xIMlJUwB1m8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xIMlJUwB1m8",
-          "publishedOn": "2024-01-15T07:00:30.000Z",
-          "wordCount": null,
-          "title": "The medical test paradox (well \"paradox\")",
-          "imageUrl": null
         }
       ]
     },
@@ -218,7 +208,7 @@
           "link": "https://www.youtube.com/watch?v=gj4kvpy1eCE",
           "publishedOn": "2024-04-09T14:00:36.000Z",
           "wordCount": null,
-          "title": "What are Lie algebras? | Lie groups, algebras, brackets #6",
+          "title": "Lie algebra: the math of rotations",
           "imageUrl": null
         }
       ]
@@ -919,7 +909,7 @@
           "link": "https://www.youtube.com/watch?v=qm5AHAb0SmY",
           "publishedOn": "2024-04-04T10:00:42.000Z",
           "wordCount": null,
-          "title": "How does turbulent flow become laminar?",
+          "title": "I built a machine that creates entropy (and also looks cool!)",
           "imageUrl": null
         }
       ]
@@ -1173,6 +1163,46 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tVLnhkIxSEU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tVLnhkIxSEU",
+          "publishedOn": "2024-04-13T21:00:33.000Z",
+          "wordCount": null,
+          "title": "How Do You Deal with the Litter Box Problem?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=iNWEySqwcmI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iNWEySqwcmI",
+          "publishedOn": "2024-04-13T19:45:00.000Z",
+          "wordCount": null,
+          "title": "How Are Buttons Added to Clothes?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=w77S3u703OE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=w77S3u703OE",
+          "publishedOn": "2024-04-13T19:00:32.000Z",
+          "wordCount": null,
+          "title": "How to Simulate a Human Body - In the Lab",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fZEI_fBXUpg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fZEI_fBXUpg",
+          "publishedOn": "2024-04-13T19:00:16.000Z",
+          "wordCount": null,
+          "title": "How to Simulate a Human Body - In the Lab",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0j31ioxXPX4",
           "author": null,
           "description": "",
@@ -1280,46 +1310,6 @@
           "publishedOn": "2024-04-11T19:00:29.000Z",
           "wordCount": null,
           "title": "Carnegie Mellon's Team at the DARPA Subterranean Challenge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Bb94saub8Lw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Bb94saub8Lw",
-          "publishedOn": "2024-04-11T14:25:19.000Z",
-          "wordCount": null,
-          "title": "If You Build A Hydrogen Motorbike - Will They Come?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kvgGqocIdCE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kvgGqocIdCE",
-          "publishedOn": "2024-04-10T21:00:21.000Z",
-          "wordCount": null,
-          "title": "Smart Farming - the Human Factor",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=petQar3bij8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=petQar3bij8",
-          "publishedOn": "2024-04-10T20:15:01.000Z",
-          "wordCount": null,
-          "title": "Longer-lasting, Safer EV Batteries",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1tfIRA4dvnY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1tfIRA4dvnY",
-          "publishedOn": "2024-04-10T20:15:00.000Z",
-          "wordCount": null,
-          "title": "Longer-lasting, Safer EV Batteries",
           "imageUrl": null
         }
       ]
@@ -1621,6 +1611,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=U0u_QyurfXA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=U0u_QyurfXA",
+          "publishedOn": "2024-04-13T18:45:31.000Z",
+          "wordCount": null,
+          "title": "How the Battle of Britain was Won",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Dr-HlIR481I",
           "author": null,
           "description": "",
@@ -1758,16 +1758,6 @@
           "publishedOn": "2024-02-29T19:00:25.000Z",
           "wordCount": null,
           "title": "Could This Be The Next Air Force One? - Hermeus",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JirS1i7GoaE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JirS1i7GoaE",
-          "publishedOn": "2024-02-21T15:00:13.000Z",
-          "wordCount": null,
-          "title": "How this tank makes a smoke screen",
           "imageUrl": null
         }
       ]
@@ -2051,7 +2041,7 @@
           "link": "https://www.youtube.com/watch?v=Tt6WQYtefXA",
           "publishedOn": "2024-03-21T20:56:45.000Z",
           "wordCount": null,
-          "title": "How The Most Expensive Swords In The World Are Made",
+          "title": "How Japanese Masters Turn Sand Into Swords",
           "imageUrl": null
         },
         {
@@ -2303,6 +2293,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=rTD_Alra7JE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rTD_Alra7JE",
+          "publishedOn": "2024-04-13T16:00:39.000Z",
+          "wordCount": null,
+          "title": "The Complicated World of Machining Surgical Tools",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9xdIad9pJII",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9xdIad9pJII",
+          "publishedOn": "2024-04-13T14:00:11.000Z",
+          "wordCount": null,
+          "title": "Have You Seen One Of These Gear Slotting Tools?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ARKU67TcDzw",
           "author": null,
           "description": "",
@@ -2431,26 +2441,6 @@
           "wordCount": null,
           "title": "Is It POSSIBLE? Rigidity While Elevating Part Off Table",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Jp_areKafQY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Jp_areKafQY",
-          "publishedOn": "2024-04-02T14:00:21.000Z",
-          "wordCount": null,
-          "title": "Incredible 40XD Deep Hole Drilling in Stainless",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HDqotcvyJZ4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HDqotcvyJZ4",
-          "publishedOn": "2024-04-01T15:02:01.000Z",
-          "wordCount": null,
-          "title": "Genius Solution to Maximize Your CNC Machine's Table Space",
-          "imageUrl": null
         }
       ]
     },
@@ -2459,6 +2449,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=7_Mt8B3zLwE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7_Mt8B3zLwE",
+          "publishedOn": "2024-04-13T15:00:09.000Z",
+          "wordCount": null,
+          "title": "Why This Prototype Combat Rig Could Help Army Soldiers Fight A Possible War With China | Loadout",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=BZ-PDqOyEJc",
           "author": null,
@@ -2598,16 +2598,6 @@
           "wordCount": null,
           "title": "How Nespresso & Keurig Spend Millions Trying To Solve Coffee Pod Waste | World Wide Waste",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Cy8A5tMOV2Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Cy8A5tMOV2Q",
-          "publishedOn": "2024-04-05T21:08:47.000Z",
-          "wordCount": null,
-          "title": "How AI and AT&T Data Connectivity Is Changing The Way Truck Drivers Operate Their Vehicles",
-          "imageUrl": null
         }
       ]
     },
@@ -2616,6 +2606,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUJexeVabymyw7G-rxdjUDw",
       "siteUrl": "https://www.youtube.com/channel/UCUJexeVabymyw7G-rxdjUDw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Z_fTij-NxDQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Z_fTij-NxDQ",
+          "publishedOn": "2024-04-13T12:55:51.000Z",
+          "wordCount": null,
+          "title": "Κουβάς Souls",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=pXzOziS2-eU",
           "author": null,
