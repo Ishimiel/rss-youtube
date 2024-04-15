@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-14T00:36:53.776Z</id>
+    <id>urn:2024-04-15T03:00:09.699Z</id>
     <title>osmos::feed</title>
-    <updated>2024-04-14T00:36:53.776Z</updated>
+    <updated>2024-04-15T03:00:09.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Removing Tree Bark in the Lumber Process]]></title>
+        <id>https://www.youtube.com/watch?v=4fUvfU9i3R0</id>
+        <link href="https://www.youtube.com/watch?v=4fUvfU9i3R0"/>
+        <updated>2024-04-14T21:00:02.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Park and Pick your Volkwagen]]></title>
+        <id>https://www.youtube.com/watch?v=5qHlOlIR0Ks</id>
+        <link href="https://www.youtube.com/watch?v=5qHlOlIR0Ks"/>
+        <updated>2024-04-14T19:45:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robot Hand Plays Mario]]></title>
+        <id>https://www.youtube.com/watch?v=E7UDq3uPFGw</id>
+        <link href="https://www.youtube.com/watch?v=E7UDq3uPFGw"/>
+        <updated>2024-04-14T19:00:10.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robot Hand Plays Mario]]></title>
+        <id>https://www.youtube.com/watch?v=00K2Z6jdfiM</id>
+        <link href="https://www.youtube.com/watch?v=00K2Z6jdfiM"/>
+        <updated>2024-04-14T19:00:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jade Endmill - Will It Cut?]]></title>
+        <id>https://www.youtube.com/watch?v=abrqX6v39I8</id>
+        <link href="https://www.youtube.com/watch?v=abrqX6v39I8"/>
+        <updated>2024-04-14T14:00:01.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Do You Deal with the Litter Box Problem?]]></title>
         <id>https://www.youtube.com/watch?v=tVLnhkIxSEU</id>
@@ -21,6 +66,15 @@
         <updated>2024-04-13T19:45:00.000Z</updated>
         <author>
             <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Spitfire is an Icon]]></title>
+        <id>https://www.youtube.com/watch?v=y9U8CyBD1wQ</id>
+        <link href="https://www.youtube.com/watch?v=y9U8CyBD1wQ"/>
+        <updated>2024-04-13T19:13:20.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
         </author>
     </entry>
     <entry>
@@ -213,15 +267,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[If You Build A Hydrogen Motorbike - Will They Come?]]></title>
-        <id>https://www.youtube.com/watch?v=VcUP2GxpsGU</id>
-        <link href="https://www.youtube.com/watch?v=VcUP2GxpsGU"/>
-        <updated>2024-04-11T20:30:03.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This company created a compostable #coffee pod made from the leftovers of roasted beans. #keurig]]></title>
         <id>https://www.youtube.com/watch?v=hC2eIwEiADY</id>
         <link href="https://www.youtube.com/watch?v=hC2eIwEiADY"/>
@@ -231,39 +276,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shaping a Leather Wallet ASMR]]></title>
-        <id>https://www.youtube.com/watch?v=4Lxv3U4iUNI</id>
-        <link href="https://www.youtube.com/watch?v=4Lxv3U4iUNI"/>
-        <updated>2024-04-11T19:45:00.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The true nature of Chechnya’s ban on music]]></title>
         <id>https://www.youtube.com/watch?v=Z47AJoubIfo</id>
         <link href="https://www.youtube.com/watch?v=Z47AJoubIfo"/>
         <updated>2024-04-11T19:17:44.000Z</updated>
         <author>
             <name>Adam Neely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carnegie Mellon's Team at the DARPA Subterranean Challenge]]></title>
-        <id>https://www.youtube.com/watch?v=X4DTluICVS0</id>
-        <link href="https://www.youtube.com/watch?v=X4DTluICVS0"/>
-        <updated>2024-04-11T19:15:01.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carnegie Mellon's Team at the DARPA Subterranean Challenge]]></title>
-        <id>https://www.youtube.com/watch?v=e2cKdqMhdXI</id>
-        <link href="https://www.youtube.com/watch?v=e2cKdqMhdXI"/>
-        <updated>2024-04-11T19:00:29.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -726,15 +744,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is It POSSIBLE? Rigidity While Elevating Part Off Table]]></title>
-        <id>https://www.youtube.com/watch?v=s5lYe1aS-WM</id>
-        <link href="https://www.youtube.com/watch?v=s5lYe1aS-WM"/>
-        <updated>2024-04-02T16:00:41.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why the F-35 excels in battle]]></title>
         <id>https://www.youtube.com/watch?v=j1nJ-A0coHI</id>
         <link href="https://www.youtube.com/watch?v=j1nJ-A0coHI"/>
@@ -1113,7 +1122,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Japanese Masters Turn Sand Into Swords]]></title>
+        <title type="html"><![CDATA[Making A Japanese Sword From Sand]]></title>
         <id>https://www.youtube.com/watch?v=Tt6WQYtefXA</id>
         <link href="https://www.youtube.com/watch?v=Tt6WQYtefXA"/>
         <updated>2024-03-21T20:56:45.000Z</updated>
@@ -1659,15 +1668,6 @@
         <updated>2024-02-29T22:40:41.000Z</updated>
         <author>
             <name>Physics Girl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Could This Be The Next Air Force One? - Hermeus]]></title>
-        <id>https://www.youtube.com/watch?v=UyKtxsdI0z8</id>
-        <link href="https://www.youtube.com/watch?v=UyKtxsdI0z8"/>
-        <updated>2024-02-29T19:00:25.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
         </author>
     </entry>
     <entry>
@@ -2433,15 +2433,6 @@
         <updated>2024-01-17T07:00:31.000Z</updated>
         <author>
             <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do People Understand The Scale Of The Universe?]]></title>
-        <id>https://www.youtube.com/watch?v=fG8SwAFQFuU</id>
-        <link href="https://www.youtube.com/watch?v=fG8SwAFQFuU"/>
-        <updated>2024-01-15T21:02:07.000Z</updated>
-        <author>
-            <name>Veritasium</name>
         </author>
     </entry>
 </feed>
