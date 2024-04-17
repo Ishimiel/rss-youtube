@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=z-VFby8rWZE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=z-VFby8rWZE",
+          "publishedOn": "2024-04-16T17:27:38.000Z",
+          "wordCount": null,
+          "title": "What Makes for ‘Good’ Math? | JOW Podcast",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Gjbee3Bx_xs",
           "author": null,
           "description": "",
@@ -62,7 +72,7 @@
           "link": "https://www.youtube.com/watch?v=TwJuA05M5Eo",
           "publishedOn": "2024-02-12T17:39:41.000Z",
           "wordCount": null,
-          "title": "How a New X-Ray Technique Sees Black Holes",
+          "title": "How to 'See' Into Black Holes",
           "imageUrl": null
         },
         {
@@ -198,7 +208,7 @@
           "link": "https://www.youtube.com/watch?v=gj4kvpy1eCE",
           "publishedOn": "2024-04-09T14:00:36.000Z",
           "wordCount": null,
-          "title": "Lie algebra visualized: why are they defined like that?",
+          "title": "Lie algebra: the math of rotations",
           "imageUrl": null
         }
       ]
@@ -208,6 +218,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=L_JQOH1tEEA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=L_JQOH1tEEA",
+          "publishedOn": "2024-04-16T14:00:03.000Z",
+          "wordCount": null,
+          "title": "There Are Thousands of Alien Empires in The Milky Way",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=LFfFlYQfXh0",
           "author": null,
@@ -601,7 +621,7 @@
           "link": "https://www.youtube.com/watch?v=oS0MhG98jE4",
           "publishedOn": "2024-03-29T14:35:56.000Z",
           "wordCount": null,
-          "title": "Science vs. Fiction: Jonathan Nolan on the Promise and Perils of AI",
+          "title": "Jonathan Nolan on the Promise and Perils of AI | Science vs. Fiction",
           "imageUrl": null
         },
         {
@@ -899,7 +919,7 @@
           "link": "https://www.youtube.com/watch?v=qm5AHAb0SmY",
           "publishedOn": "2024-04-04T10:00:42.000Z",
           "wordCount": null,
-          "title": "I built a machine that creates entropy (and also looks cool!)",
+          "title": "Watch turbulent flow become laminar (ink mixing with water)",
           "imageUrl": null
         }
       ]
@@ -1153,6 +1173,66 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nqScQEi163Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nqScQEi163Q",
+          "publishedOn": "2024-04-16T21:00:23.000Z",
+          "wordCount": null,
+          "title": "Speed Flying: Surfing the Austrian Mountains",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-YAcQRNVEec",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-YAcQRNVEec",
+          "publishedOn": "2024-04-16T20:30:00.000Z",
+          "wordCount": null,
+          "title": "Could Inflatable Space Stations Be Our Future?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=o5FUbiWGVTA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=o5FUbiWGVTA",
+          "publishedOn": "2024-04-16T19:45:01.000Z",
+          "wordCount": null,
+          "title": "Screw Tanks Tear Up a Swamp",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=IoDVxCyZwdY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IoDVxCyZwdY",
+          "publishedOn": "2024-04-16T19:15:00.000Z",
+          "wordCount": null,
+          "title": "The World's Most Powerful MRI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bw8-Fqgjn3o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bw8-Fqgjn3o",
+          "publishedOn": "2024-04-16T19:00:16.000Z",
+          "wordCount": null,
+          "title": "The World's Most Powerful MRI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6NHSr_KgL6A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6NHSr_KgL6A",
+          "publishedOn": "2024-04-16T17:12:30.000Z",
+          "wordCount": null,
+          "title": "Could Inflatable Space Stations Be Our Future?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Cdk7BYI1QvY",
           "author": null,
           "description": "",
@@ -1240,66 +1320,6 @@
           "publishedOn": "2024-04-14T19:00:10.000Z",
           "wordCount": null,
           "title": "Robot Hand Plays Mario",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=00K2Z6jdfiM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=00K2Z6jdfiM",
-          "publishedOn": "2024-04-14T19:00:00.000Z",
-          "wordCount": null,
-          "title": "Robot Hand Plays Mario",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tVLnhkIxSEU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tVLnhkIxSEU",
-          "publishedOn": "2024-04-13T21:00:33.000Z",
-          "wordCount": null,
-          "title": "How Do You Deal with the Litter Box Problem?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iNWEySqwcmI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iNWEySqwcmI",
-          "publishedOn": "2024-04-13T19:45:00.000Z",
-          "wordCount": null,
-          "title": "How Are Buttons Added to Clothes?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=w77S3u703OE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=w77S3u703OE",
-          "publishedOn": "2024-04-13T19:00:32.000Z",
-          "wordCount": null,
-          "title": "How to Simulate a Human Body - In the Lab",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fZEI_fBXUpg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fZEI_fBXUpg",
-          "publishedOn": "2024-04-13T19:00:16.000Z",
-          "wordCount": null,
-          "title": "How to Simulate a Human Body - In the Lab",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0j31ioxXPX4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0j31ioxXPX4",
-          "publishedOn": "2024-04-12T21:00:01.000Z",
-          "wordCount": null,
-          "title": "Drone Soccer - Training Tomorrow's Drone-Builders",
           "imageUrl": null
         }
       ]
@@ -1601,6 +1621,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=R-qtEh-KluE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=R-qtEh-KluE",
+          "publishedOn": "2024-04-16T15:00:20.000Z",
+          "wordCount": null,
+          "title": "Spitfire vs. BF-109",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mFS70HPB7Ac",
           "author": null,
           "description": "",
@@ -1738,16 +1768,6 @@
           "publishedOn": "2024-03-17T15:00:02.000Z",
           "wordCount": null,
           "title": "What’s the bulge in tank guns for?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xdnyFG7V79Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xdnyFG7V79Q",
-          "publishedOn": "2024-03-16T15:00:59.000Z",
-          "wordCount": null,
-          "title": "How Ceramic Tank Armor Works",
           "imageUrl": null
         }
       ]
@@ -2041,7 +2061,7 @@
           "link": "https://www.youtube.com/watch?v=Tt6WQYtefXA",
           "publishedOn": "2024-03-21T20:56:45.000Z",
           "wordCount": null,
-          "title": "How The Most Expensive Swords In The World Are Made",
+          "title": "How Japanese Masters Turn Sand Into Swords",
           "imageUrl": null
         },
         {
@@ -2303,6 +2323,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=08poruGHSVM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=08poruGHSVM",
+          "publishedOn": "2024-04-16T14:00:01.000Z",
+          "wordCount": null,
+          "title": "Thread Whirling Makes The MOST Difficult Threads Easy",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=F5M-FXM-oF0",
           "author": null,
           "description": "",
@@ -2441,16 +2471,6 @@
           "wordCount": null,
           "title": "What is Rotary Broaching?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NPpgT4dQGdQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NPpgT4dQGdQ",
-          "publishedOn": "2024-04-04T14:35:00.000Z",
-          "wordCount": null,
-          "title": "Can't Wait.. Changing My Own Spindle",
-          "imageUrl": null
         }
       ]
     },
@@ -2459,6 +2479,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=qNvlrIZfic0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qNvlrIZfic0",
+          "publishedOn": "2024-04-16T19:00:22.000Z",
+          "wordCount": null,
+          "title": "How the first #caviar producer in #Africa harvests the well-known luxury delicacy. #luxuryfood",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=DgtzdJPbbmM",
           "author": null,
@@ -2597,16 +2627,6 @@
           "publishedOn": "2024-04-08T16:02:07.000Z",
           "wordCount": null,
           "title": "A #genetic scientist studies the potential DNA of a #servicedog before it's bred. #guidedog",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZTThCI8WsOY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZTThCI8WsOY",
-          "publishedOn": "2024-04-07T15:00:40.000Z",
-          "wordCount": null,
-          "title": "12 Fascinating Jobs Done By Women Around The World | Still Standing | Business Insider Marathon",
           "imageUrl": null
         }
       ]
@@ -2855,6 +2875,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=opTFzn_yB38",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=opTFzn_yB38",
+          "publishedOn": "2024-04-16T14:51:10.000Z",
+          "wordCount": null,
+          "title": "Make a Foam Cutter #electrical #foam #element #funny",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=b6R7RqlV_c4",
           "author": null,
           "description": "",
@@ -2992,16 +3022,6 @@
           "publishedOn": "2024-02-24T17:13:29.000Z",
           "wordCount": null,
           "title": "Getting in Shape by Sketchy Treadmill over 1 Year",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_hWoGUk0W5s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_hWoGUk0W5s",
-          "publishedOn": "2024-02-22T17:35:23.000Z",
-          "wordCount": null,
-          "title": "Human Body Power Delivery #Electricity #Funny #Fake",
           "imageUrl": null
         }
       ]
