@@ -52,7 +52,7 @@
           "link": "https://www.youtube.com/watch?v=IzSs_gJDVzI",
           "publishedOn": "2024-03-08T23:14:44.000Z",
           "wordCount": null,
-          "title": "Why Is This Basic Computer Science Problem So Hard?",
+          "title": "How Vector Addition Systems Prevent Computer Crashes",
           "imageUrl": null
         },
         {
@@ -183,16 +183,6 @@
           "wordCount": null,
           "title": "A challenging puzzle about subset sums",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-3jPW_TGATI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-3jPW_TGATI",
-          "publishedOn": "2024-01-19T19:00:00.000Z",
-          "wordCount": null,
-          "title": "Ellipses have multiple definitions, how are these the same?",
-          "imageUrl": null
         }
       ]
     },
@@ -208,7 +198,7 @@
           "link": "https://www.youtube.com/watch?v=gj4kvpy1eCE",
           "publishedOn": "2024-04-09T14:00:36.000Z",
           "wordCount": null,
-          "title": "Lie algebra: the math of rotations",
+          "title": "Lie algebras: the math of rotations",
           "imageUrl": null
         }
       ]
@@ -218,6 +208,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=S-gRXjKUnVs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=S-gRXjKUnVs",
+          "publishedOn": "2024-04-18T14:00:30.000Z",
+          "wordCount": null,
+          "title": "Let’s Go on a Fantastical Journey #shorts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=L_JQOH1tEEA",
           "author": null,
@@ -909,7 +909,7 @@
           "link": "https://www.youtube.com/watch?v=qm5AHAb0SmY",
           "publishedOn": "2024-04-04T10:00:42.000Z",
           "wordCount": null,
-          "title": "The beautiful complexity of “mixing”",
+          "title": "The beautiful complexity of mixing",
           "imageUrl": null
         }
       ]
@@ -1163,6 +1163,106 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=fZaCOaCkCf8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fZaCOaCkCf8",
+          "publishedOn": "2024-04-18T21:00:24.000Z",
+          "wordCount": null,
+          "title": "Rollforming Roof Panels",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ePsoK9YIlHQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ePsoK9YIlHQ",
+          "publishedOn": "2024-04-18T20:30:06.000Z",
+          "wordCount": null,
+          "title": "Pilots Take Incredible Solar Eclipse Images",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=eyP3J_-a1tQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eyP3J_-a1tQ",
+          "publishedOn": "2024-04-18T20:15:00.000Z",
+          "wordCount": null,
+          "title": "Pilots Take Incredible Solar Eclipse Images",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TZAx5tniI_0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TZAx5tniI_0",
+          "publishedOn": "2024-04-18T19:45:00.000Z",
+          "wordCount": null,
+          "title": "Teleoperation - The Key to Training Robots?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=o-FblNMg6TY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=o-FblNMg6TY",
+          "publishedOn": "2024-04-18T19:15:02.000Z",
+          "wordCount": null,
+          "title": "Why Send a Guitar into Space?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vmeBma7QBeo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vmeBma7QBeo",
+          "publishedOn": "2024-04-18T19:00:29.000Z",
+          "wordCount": null,
+          "title": "Why Send a Guitar into Space?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7s3U6jTLrlQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7s3U6jTLrlQ",
+          "publishedOn": "2024-04-18T15:00:10.000Z",
+          "wordCount": null,
+          "title": "Optimize Your Solar Plant Layouts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=W03xqqQtHSk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=W03xqqQtHSk",
+          "publishedOn": "2024-04-18T13:30:11.000Z",
+          "wordCount": null,
+          "title": "From Invisible Threats to Visible Solutions: Crafting a Brighter Safer Future",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=W2EXnPNr4ro",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=W2EXnPNr4ro",
+          "publishedOn": "2024-04-18T08:00:14.000Z",
+          "wordCount": null,
+          "title": "Dubai Hit by 75-Year Peak Rainstorm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=VbZUKJIeb1s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VbZUKJIeb1s",
+          "publishedOn": "2024-04-18T07:40:35.000Z",
+          "wordCount": null,
+          "title": "Dubai Hit by 75-Year Peak Rainstorm",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=G9nHhA7yLfI",
           "author": null,
           "description": "",
@@ -1189,7 +1289,7 @@
           "link": "https://www.youtube.com/watch?v=DzstrKvE-Vc",
           "publishedOn": "2024-04-17T20:00:04.000Z",
           "wordCount": null,
-          "title": "Why Are Underwater Drones the Future of Inspection?",
+          "title": "Amazing Underwater Footage Captured by Drones",
           "imageUrl": null
         },
         {
@@ -1210,106 +1310,6 @@
           "publishedOn": "2024-04-17T19:15:01.000Z",
           "wordCount": null,
           "title": "Why Are Underwater Drones the Future of Inspection?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wzcmNk42hRQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wzcmNk42hRQ",
-          "publishedOn": "2024-04-17T18:24:44.000Z",
-          "wordCount": null,
-          "title": "DragonFire Laser Weapon Footage - Declassified!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=a7vcHyl38rY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=a7vcHyl38rY",
-          "publishedOn": "2024-04-17T16:15:00.000Z",
-          "wordCount": null,
-          "title": "New Electric Atlas Humanoid Robot: What Will It Do?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=L2zCbDCaLYE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=L2zCbDCaLYE",
-          "publishedOn": "2024-04-17T15:47:07.000Z",
-          "wordCount": null,
-          "title": "New Electric Atlas Humanoid Robot: What Will It Do?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=E1KkcjxasMg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=E1KkcjxasMg",
-          "publishedOn": "2024-04-17T15:00:15.000Z",
-          "wordCount": null,
-          "title": "The Solar Engineer’s Essential Tool",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nqScQEi163Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nqScQEi163Q",
-          "publishedOn": "2024-04-16T21:00:23.000Z",
-          "wordCount": null,
-          "title": "Speed Flying: Surfing the Austrian Mountains",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-YAcQRNVEec",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-YAcQRNVEec",
-          "publishedOn": "2024-04-16T20:30:00.000Z",
-          "wordCount": null,
-          "title": "Could Inflatable Space Stations Be Our Future?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=o5FUbiWGVTA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=o5FUbiWGVTA",
-          "publishedOn": "2024-04-16T19:45:01.000Z",
-          "wordCount": null,
-          "title": "Screw Tanks Tear Up a Swamp",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IoDVxCyZwdY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IoDVxCyZwdY",
-          "publishedOn": "2024-04-16T19:15:00.000Z",
-          "wordCount": null,
-          "title": "The World's Most Powerful MRI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bw8-Fqgjn3o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bw8-Fqgjn3o",
-          "publishedOn": "2024-04-16T19:00:16.000Z",
-          "wordCount": null,
-          "title": "The World's Most Powerful MRI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6NHSr_KgL6A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6NHSr_KgL6A",
-          "publishedOn": "2024-04-16T17:12:30.000Z",
-          "wordCount": null,
-          "title": "Could Inflatable Space Stations Be Our Future?",
           "imageUrl": null
         }
       ]
@@ -1406,6 +1406,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoxcjq-8xIDTYp3uz647V5A",
       "siteUrl": "https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=prURA1i8Qj4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=prURA1i8Qj4",
+          "publishedOn": "2024-04-18T09:23:26.000Z",
+          "wordCount": null,
+          "title": "The Hydra Game - Numberphile",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=KXO2l7Kh60A",
           "author": null,
@@ -1550,7 +1560,7 @@
           "link": "https://www.youtube.com/watch?v=VQ6qruT9VdU",
           "publishedOn": "2024-04-17T23:35:12.000Z",
           "wordCount": null,
-          "title": "Laser BOUNCES through Jell-O!",
+          "title": "Laser Pointer Jell-O / AT-HOME EXPERIMENT",
           "imageUrl": null
         },
         {
@@ -1570,7 +1580,7 @@
           "link": "https://www.youtube.com/watch?v=QL_juypzSzk",
           "publishedOn": "2024-03-24T00:43:39.000Z",
           "wordCount": null,
-          "title": "I put a smoke grenade inside an air cannon!",
+          "title": "Smoke Grenade Air Cannon!",
           "imageUrl": null
         },
         {
@@ -1611,16 +1621,6 @@
           "publishedOn": "2024-02-05T21:21:01.000Z",
           "wordCount": null,
           "title": "tic tac bounce - Slow Motion Physics",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=z9Q3GkIkhcU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=z9Q3GkIkhcU",
-          "publishedOn": "2024-01-19T21:48:15.000Z",
-          "wordCount": null,
-          "title": "We detected it...",
           "imageUrl": null
         }
       ]
@@ -1994,7 +1994,7 @@
           "link": "https://www.youtube.com/watch?v=gqEu9t8HwW0",
           "publishedOn": "2024-04-15T20:10:05.000Z",
           "wordCount": null,
-          "title": "Why Circuit Breakers DON'T Protect People",
+          "title": "Why Circuit Breakers DON'T Protect People (electric shocks)",
           "imageUrl": null
         },
         {
@@ -2041,7 +2041,7 @@
           "link": "https://www.youtube.com/watch?v=scliyWrN7mk",
           "publishedOn": "2024-04-17T16:20:50.000Z",
           "wordCount": null,
-          "title": "How bikes actually stay upright",
+          "title": "How bikes *actually* work",
           "imageUrl": null
         },
         {
@@ -2081,7 +2081,7 @@
           "link": "https://www.youtube.com/watch?v=Tt6WQYtefXA",
           "publishedOn": "2024-03-21T20:56:45.000Z",
           "wordCount": null,
-          "title": "Making A Japanese Sword From Sand",
+          "title": "How The Most Expensive Swords In The World Are Made",
           "imageUrl": null
         },
         {
@@ -2208,6 +2208,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUW49KGPezggFi0PGyDvcvg",
       "siteUrl": "https://www.youtube.com/channel/UCUW49KGPezggFi0PGyDvcvg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=g7FHaPECGbY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=g7FHaPECGbY",
+          "publishedOn": "2024-04-18T21:15:41.000Z",
+          "wordCount": null,
+          "title": "3D Print T-Shirts, Holograms, and More! 5 Easy (Cursed) Printing Hacks!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=pLPkUpMMBnc",
           "author": null,
@@ -2353,6 +2363,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=m_gX6LGbJxA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=m_gX6LGbJxA",
+          "publishedOn": "2024-04-18T16:00:40.000Z",
+          "wordCount": null,
+          "title": "Jaw Dropping Machining Illusion 🪄",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Hl4G5t4DX40",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Hl4G5t4DX40",
+          "publishedOn": "2024-04-18T14:00:13.000Z",
+          "wordCount": null,
+          "title": "Machining $100K Ball Valve for a HUGE Super Yacht",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5jQEbpK9Whs",
           "author": null,
           "description": "",
@@ -2481,26 +2511,6 @@
           "wordCount": null,
           "title": "Mesmerizing CNC Lathe Precision Cutting",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uR-hY7hUsaY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uR-hY7hUsaY",
-          "publishedOn": "2024-04-06T14:00:48.000Z",
-          "wordCount": null,
-          "title": "Is Jade Hard Enough to Machine Metal?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SeIsZ-EVb08",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SeIsZ-EVb08",
-          "publishedOn": "2024-04-06T13:00:21.000Z",
-          "wordCount": null,
-          "title": "🥁 How to Machine a Drum!",
-          "imageUrl": null
         }
       ]
     },
@@ -2509,6 +2519,36 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=UM4uDu1iiP8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UM4uDu1iiP8",
+          "publishedOn": "2024-04-18T20:00:09.000Z",
+          "wordCount": null,
+          "title": "#Sturgeon are tricky and expensive to raise compared to other farm fish like salmon. #caviar",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=aqAfm3lM4CM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aqAfm3lM4CM",
+          "publishedOn": "2024-04-18T19:46:51.000Z",
+          "wordCount": null,
+          "title": "How Digital Connectivity Is Changing The Way We Recycle",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=luS49hGppxk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=luS49hGppxk",
+          "publishedOn": "2024-04-18T15:00:39.000Z",
+          "wordCount": null,
+          "title": "I Went On A Date With An AI Chatbot And He Fell In Love With Me | Business Insider Explains",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Od3VcNNOFQY",
           "author": null,
@@ -2556,7 +2596,7 @@
           "link": "https://www.youtube.com/watch?v=7_Mt8B3zLwE",
           "publishedOn": "2024-04-13T15:00:09.000Z",
           "wordCount": null,
-          "title": "Why This Prototype Combat Rig Could Help Army Soldiers Fight A Possible War With China | Loadout",
+          "title": "Army Jungle Soldier Reveals Combat Rig That Could Replace TAPS | Loadout",
           "imageUrl": null
         },
         {
@@ -2628,36 +2668,6 @@
           "wordCount": null,
           "title": "Preparing a #SeeingEyeDog for its career requires multiple stages of training. #guidedog #blindness",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JGamRCf-etQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JGamRCf-etQ",
-          "publishedOn": "2024-04-10T18:02:44.000Z",
-          "wordCount": null,
-          "title": "At just 27 years old, #ElonMusk made over $20M from one business deal. #billionaires #tesla",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=baztZ7MsUHo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=baztZ7MsUHo",
-          "publishedOn": "2024-04-09T19:00:14.000Z",
-          "wordCount": null,
-          "title": "Why it costs $75,000 to train, breed, and match a #SeeingEyeDog. #GuideDog #ServiceDog",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qxk7v1sKrSw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qxk7v1sKrSw",
-          "publishedOn": "2024-04-08T21:00:30.000Z",
-          "wordCount": null,
-          "title": "One of the oldest forms of #barbecue uses an underground oven called a pib. #mayan #yucatanmexico",
-          "imageUrl": null
         }
       ]
     },
@@ -2666,6 +2676,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUJexeVabymyw7G-rxdjUDw",
       "siteUrl": "https://www.youtube.com/channel/UCUJexeVabymyw7G-rxdjUDw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Phc9ynkQ2r8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Phc9ynkQ2r8",
+          "publishedOn": "2024-04-18T18:37:55.000Z",
+          "wordCount": null,
+          "title": "Ελληνικό Horror (EΚΛΑΣΑ ΚΑΙ ΧΕΣΤΗΚΑ) *ΣΟΚ*",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Z_fTij-NxDQ",
           "author": null,
@@ -2724,16 +2744,6 @@
           "publishedOn": "2024-01-24T17:01:54.000Z",
           "wordCount": null,
           "title": "Η νέα κάρτα γραφικών μου (βλωγκ)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vyoeRnvVJ44",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vyoeRnvVJ44",
-          "publishedOn": "2024-01-19T23:05:11.000Z",
-          "wordCount": null,
-          "title": "Γκεκ - Βαλχάλλα",
           "imageUrl": null
         }
       ]
@@ -2905,6 +2915,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Yf9BAzoLsns",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Yf9BAzoLsns",
+          "publishedOn": "2024-04-18T16:21:50.000Z",
+          "wordCount": null,
+          "title": "Glove Taser #electricity #discharge #funny",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=opTFzn_yB38",
           "author": null,
           "description": "",
@@ -3042,16 +3062,6 @@
           "publishedOn": "2024-02-28T17:22:16.000Z",
           "wordCount": null,
           "title": "Always Use GFCI in Bathroom #electrical #funny #shock",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-lTdZFEQPn8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-lTdZFEQPn8",
-          "publishedOn": "2024-02-24T17:13:29.000Z",
-          "wordCount": null,
-          "title": "Getting in Shape by Sketchy Treadmill over 1 Year",
           "imageUrl": null
         }
       ]
