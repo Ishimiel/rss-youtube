@@ -52,7 +52,7 @@
           "link": "https://www.youtube.com/watch?v=IzSs_gJDVzI",
           "publishedOn": "2024-03-08T23:14:44.000Z",
           "wordCount": null,
-          "title": "How Vector Addition Systems Prevent Computer Crashes",
+          "title": "Why Is This Basic Computer Science Problem So Hard?",
           "imageUrl": null
         },
         {
@@ -551,7 +551,7 @@
           "link": "https://www.youtube.com/watch?v=nsp7i2Sr1ZA",
           "publishedOn": "2024-03-29T14:55:37.000Z",
           "wordCount": null,
-          "title": "Jonathan Nolan and Janna Levin on Interstellar’s Prescience on Black Holes",
+          "title": "Jonathan Nolan on Interstellar’s Prescience on Black Holes",
           "imageUrl": null
         },
         {
@@ -561,7 +561,7 @@
           "link": "https://www.youtube.com/watch?v=B4u74DxRqac",
           "publishedOn": "2024-03-29T14:55:33.000Z",
           "wordCount": null,
-          "title": "Jonathan Nolan on Panopticons, Control and Surveillance",
+          "title": "Jonathan Nolan on Police Surveillance in London in the 1980's",
           "imageUrl": null
         },
         {
@@ -642,6 +642,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KcbTbTxPMLc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KcbTbTxPMLc",
+          "publishedOn": "2024-04-19T20:00:06.000Z",
+          "wordCount": null,
+          "title": "Why a Forefather of AI Fears the Future",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=gZZan4JMwk4",
           "author": null,
           "description": "",
@@ -698,6 +708,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_7aK9PpYTqt08ERh1MewlQ",
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Fb3rwrtX0es",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Fb3rwrtX0es",
+          "publishedOn": "2024-04-19T13:00:10.000Z",
+          "wordCount": null,
+          "title": "WORLD FIRST! 3D Printed METAL Lego Lightsaber!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=uoET9DL27FU",
           "author": null,
@@ -836,16 +856,6 @@
           "publishedOn": "2024-02-16T14:00:28.000Z",
           "wordCount": null,
           "title": "Cocoa Press Prints are Edible :)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=94YAUo3wzTM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=94YAUo3wzTM",
-          "publishedOn": "2024-02-09T14:00:07.000Z",
-          "wordCount": null,
-          "title": "Innovating Pediatric Care: 3D Printing at Seattle Children's Hospital",
           "imageUrl": null
         }
       ]
@@ -1163,6 +1173,76 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=cUZhJmNDp8o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cUZhJmNDp8o",
+          "publishedOn": "2024-04-19T21:00:31.000Z",
+          "wordCount": null,
+          "title": "The Little Carrier Robot That Could",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=FX3X5T_7CJ0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FX3X5T_7CJ0",
+          "publishedOn": "2024-04-19T20:30:01.000Z",
+          "wordCount": null,
+          "title": "Robo-Tort - The Robotic Tortoise That Bites Back",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1ROj128c2OM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1ROj128c2OM",
+          "publishedOn": "2024-04-19T20:15:00.000Z",
+          "wordCount": null,
+          "title": "Robo-Tort - The Robotic Tortoise That Bites Back",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9Z5E5WyJHTU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9Z5E5WyJHTU",
+          "publishedOn": "2024-04-19T19:45:00.000Z",
+          "wordCount": null,
+          "title": "Drones Ensure Pesticide Effectiveness",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5UIaZqNHXtw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5UIaZqNHXtw",
+          "publishedOn": "2024-04-19T19:15:00.000Z",
+          "wordCount": null,
+          "title": "World's First Jet Suit Race in Dubai",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=8E8QTa4YTTY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8E8QTa4YTTY",
+          "publishedOn": "2024-04-19T19:00:04.000Z",
+          "wordCount": null,
+          "title": "World's First Jet Suit Race in Dubai",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=eZy_7EjnoeM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eZy_7EjnoeM",
+          "publishedOn": "2024-04-19T15:00:36.000Z",
+          "wordCount": null,
+          "title": "Minimum-Hassle PV Project Management",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fZaCOaCkCf8",
           "author": null,
           "description": "",
@@ -1240,76 +1320,6 @@
           "publishedOn": "2024-04-18T13:30:11.000Z",
           "wordCount": null,
           "title": "From Invisible Threats to Visible Solutions: Crafting a Brighter Safer Future",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=W2EXnPNr4ro",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=W2EXnPNr4ro",
-          "publishedOn": "2024-04-18T08:00:14.000Z",
-          "wordCount": null,
-          "title": "Dubai Hit by 75-Year Peak Rainstorm",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VbZUKJIeb1s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VbZUKJIeb1s",
-          "publishedOn": "2024-04-18T07:40:35.000Z",
-          "wordCount": null,
-          "title": "Dubai Hit by 75-Year Peak Rainstorm",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=G9nHhA7yLfI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=G9nHhA7yLfI",
-          "publishedOn": "2024-04-17T21:00:08.000Z",
-          "wordCount": null,
-          "title": "A New Age in Reusable Combat Drones?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=b7VGdKGqyF4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=b7VGdKGqyF4",
-          "publishedOn": "2024-04-17T20:30:02.000Z",
-          "wordCount": null,
-          "title": "DragonFire Laser Weapon Footage - Declassified!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DzstrKvE-Vc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DzstrKvE-Vc",
-          "publishedOn": "2024-04-17T20:00:04.000Z",
-          "wordCount": null,
-          "title": "Amazing Underwater Footage Captured by Drones",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=H7LQTu_NNA0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=H7LQTu_NNA0",
-          "publishedOn": "2024-04-17T19:45:00.000Z",
-          "wordCount": null,
-          "title": "Precision-Automating Ball Bearings",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Wxv2dwekeW8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Wxv2dwekeW8",
-          "publishedOn": "2024-04-17T19:15:01.000Z",
-          "wordCount": null,
-          "title": "Why Are Underwater Drones the Future of Inspection?",
           "imageUrl": null
         }
       ]
@@ -1788,6 +1798,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCj_XaV1ss-qdD-lPUtTEcXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4gurT7wcsr0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4gurT7wcsr0",
+          "publishedOn": "2024-04-19T14:29:24.000Z",
+          "wordCount": null,
+          "title": "QIDI Q1 3D Printer - Is it for you?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YMpHiBDRmG8",
           "author": null,
           "description": "",
@@ -1926,16 +1946,6 @@
           "wordCount": null,
           "title": "Stopping the Crazy Gybe",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=G3lcnaw6LcU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=G3lcnaw6LcU",
-          "publishedOn": "2024-01-29T03:54:30.000Z",
-          "wordCount": null,
-          "title": "Grand Lagoon Yacht Club Regatta  - Learn to Sail",
-          "imageUrl": null
         }
       ]
     },
@@ -2016,16 +2026,6 @@
           "wordCount": null,
           "title": "How MOSFET Works - Ultimate guide, understand like a PRO",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Xb-MZMoUtcQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Xb-MZMoUtcQ",
-          "publishedOn": "2024-01-21T12:00:25.000Z",
-          "wordCount": null,
-          "title": "How Potentiometer Works - Unravel the Mysteries of How potentiometers Work!",
-          "imageUrl": null
         }
       ]
     },
@@ -2081,7 +2081,7 @@
           "link": "https://www.youtube.com/watch?v=Tt6WQYtefXA",
           "publishedOn": "2024-03-21T20:56:45.000Z",
           "wordCount": null,
-          "title": "How The Most Expensive Swords In The World Are Made",
+          "title": "How Japanese Masters Turn Sand Into Swords",
           "imageUrl": null
         },
         {
@@ -2363,6 +2363,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=yV5vcn-7m1o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yV5vcn-7m1o",
+          "publishedOn": "2024-04-19T14:35:00.000Z",
+          "wordCount": null,
+          "title": "Machining Critical Parts For $10 Trillion Medical Industry",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=m_gX6LGbJxA",
           "author": null,
           "description": "",
@@ -2501,16 +2511,6 @@
           "wordCount": null,
           "title": "Machining the BIGGEST Part Yet on the Heller CP 6000",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Jqqr-krRuyE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Jqqr-krRuyE",
-          "publishedOn": "2024-04-07T13:00:15.000Z",
-          "wordCount": null,
-          "title": "Mesmerizing CNC Lathe Precision Cutting",
-          "imageUrl": null
         }
       ]
     },
@@ -2519,6 +2519,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=QWDmGXOsZ1s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QWDmGXOsZ1s",
+          "publishedOn": "2024-04-19T18:00:19.000Z",
+          "wordCount": null,
+          "title": "What it takes to farm #caviar in one of the poorest countries in #Africa. #luxuryfood",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=B6FVwNiR1XI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=B6FVwNiR1XI",
+          "publishedOn": "2024-04-19T15:00:17.000Z",
+          "wordCount": null,
+          "title": "Can Bamboo Replace Paper And Plastic? And Should It? | World Wide Waste | Business Insider",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=UM4uDu1iiP8",
           "author": null,
@@ -2647,26 +2667,6 @@
           "publishedOn": "2024-04-10T22:00:18.000Z",
           "wordCount": null,
           "title": "How Lionfish Invaded The Caribbean. Can We Spear And Eat Enough Of Them? | True Cost",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LimKuqki3qg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LimKuqki3qg",
-          "publishedOn": "2024-04-10T21:00:10.000Z",
-          "wordCount": null,
-          "title": "These traditional Mexican tortillas used to be made completely by hand. #corn #tortilla #Mexican",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OnsmTfZukb0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OnsmTfZukb0",
-          "publishedOn": "2024-04-10T19:00:11.000Z",
-          "wordCount": null,
-          "title": "Preparing a #SeeingEyeDog for its career requires multiple stages of training. #guidedog #blindness",
           "imageUrl": null
         }
       ]
@@ -2915,6 +2915,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ptfQGfThLKc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ptfQGfThLKc",
+          "publishedOn": "2024-04-19T22:20:16.000Z",
+          "wordCount": null,
+          "title": "Making a Fuse✗ Engraver✓ #engraver #DIY #electrical #funny",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Yf9BAzoLsns",
           "author": null,
           "description": "",
@@ -3052,16 +3062,6 @@
           "publishedOn": "2024-03-01T18:02:02.000Z",
           "wordCount": null,
           "title": "Charger Isolation Will Save You #charger #electronic #funny #safety",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QQaOYiQJ2pw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QQaOYiQJ2pw",
-          "publishedOn": "2024-02-28T17:22:16.000Z",
-          "wordCount": null,
-          "title": "Always Use GFCI in Bathroom #electrical #funny #shock",
           "imageUrl": null
         }
       ]
