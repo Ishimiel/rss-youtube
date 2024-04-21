@@ -52,7 +52,7 @@
           "link": "https://www.youtube.com/watch?v=IzSs_gJDVzI",
           "publishedOn": "2024-03-08T23:14:44.000Z",
           "wordCount": null,
-          "title": "Why Is This Basic Computer Science Problem So Hard?",
+          "title": "How Vector Addition Systems Prevent Computer Crashes",
           "imageUrl": null
         },
         {
@@ -172,16 +172,6 @@
           "publishedOn": "2024-01-24T06:00:26.000Z",
           "wordCount": null,
           "title": "How the Mandelbrot set is defined",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-ikRg-OfFHc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-ikRg-OfFHc",
-          "publishedOn": "2024-01-22T06:00:00.000Z",
-          "wordCount": null,
-          "title": "A challenging puzzle about subset sums",
           "imageUrl": null
         }
       ]
@@ -947,6 +937,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCiczXOhGpvoQGhOL16EZiTg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=CQ-N1fr4N0w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CQ-N1fr4N0w",
+          "publishedOn": "2024-04-20T15:00:08.000Z",
+          "wordCount": null,
+          "title": "I made custom 3D printing filament with my Logo inside!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=alwsRqh5W8M",
           "author": null,
           "description": "",
@@ -1173,6 +1173,46 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-RfOGHovgKY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-RfOGHovgKY",
+          "publishedOn": "2024-04-20T21:00:00.000Z",
+          "wordCount": null,
+          "title": "The ZIL-157 Truck Defying Gravity",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5Mu95EaYZSs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5Mu95EaYZSs",
+          "publishedOn": "2024-04-20T19:45:00.000Z",
+          "wordCount": null,
+          "title": "Clearing Snow with a Drone",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=izEq6Eda0k8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=izEq6Eda0k8",
+          "publishedOn": "2024-04-20T19:00:19.000Z",
+          "wordCount": null,
+          "title": "Euclid Telescope To Illuminate Dark Matter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1OaK_c9cLF4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1OaK_c9cLF4",
+          "publishedOn": "2024-04-20T19:00:00.000Z",
+          "wordCount": null,
+          "title": "Euclid Telescope To Illuminate Dark Matter",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cUZhJmNDp8o",
           "author": null,
           "description": "",
@@ -1280,46 +1320,6 @@
           "publishedOn": "2024-04-18T19:45:00.000Z",
           "wordCount": null,
           "title": "Teleoperation - The Key to Training Robots?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=o-FblNMg6TY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=o-FblNMg6TY",
-          "publishedOn": "2024-04-18T19:15:02.000Z",
-          "wordCount": null,
-          "title": "Why Send a Guitar into Space?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vmeBma7QBeo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vmeBma7QBeo",
-          "publishedOn": "2024-04-18T19:00:29.000Z",
-          "wordCount": null,
-          "title": "Why Send a Guitar into Space?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7s3U6jTLrlQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7s3U6jTLrlQ",
-          "publishedOn": "2024-04-18T15:00:10.000Z",
-          "wordCount": null,
-          "title": "Optimize Your Solar Plant Layouts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=W03xqqQtHSk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=W03xqqQtHSk",
-          "publishedOn": "2024-04-18T13:30:11.000Z",
-          "wordCount": null,
-          "title": "From Invisible Threats to Visible Solutions: Crafting a Brighter Safer Future",
           "imageUrl": null
         }
       ]
@@ -2081,7 +2081,7 @@
           "link": "https://www.youtube.com/watch?v=Tt6WQYtefXA",
           "publishedOn": "2024-03-21T20:56:45.000Z",
           "wordCount": null,
-          "title": "How Japanese Masters Turn Sand Into Swords",
+          "title": "Making A Japanese Sword From Sand",
           "imageUrl": null
         },
         {
@@ -2161,6 +2161,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "siteUrl": "https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=aAGvGbSoWVc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aAGvGbSoWVc",
+          "publishedOn": "2024-04-20T16:11:43.000Z",
+          "wordCount": null,
+          "title": "The Oldest Camera Photograph",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=U_Q-6USQxF8",
           "author": null,
@@ -2266,6 +2276,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCekQr9znsk2vWxBo3YiLq2w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=WNvV4-mgigo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WNvV4-mgigo",
+          "publishedOn": "2024-04-20T18:36:48.000Z",
+          "wordCount": null,
+          "title": "Crack Slaw - You Suck at Cooking (episode 169)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vSY36a2iwc0",
           "author": null,
           "description": "",
@@ -2362,6 +2382,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=7KljztbBnGs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7KljztbBnGs",
+          "publishedOn": "2024-04-20T15:09:22.000Z",
+          "wordCount": null,
+          "title": "Girl cuts MONSTER Chips for the first time on a CNC MACHINE",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=_JjxnPoZCjw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_JjxnPoZCjw",
+          "publishedOn": "2024-04-20T14:00:22.000Z",
+          "wordCount": null,
+          "title": "King of Breaking Tools",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=yV5vcn-7m1o",
           "author": null,
@@ -2491,26 +2531,6 @@
           "wordCount": null,
           "title": "Chatter is Scrapping My Parts, So I Made This…",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=djEag6Zk9nE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=djEag6Zk9nE",
-          "publishedOn": "2024-04-09T15:20:00.000Z",
-          "wordCount": null,
-          "title": "Solving Swiss Part Ejector Problem",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4JQdvifMLVg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4JQdvifMLVg",
-          "publishedOn": "2024-04-08T14:30:01.000Z",
-          "wordCount": null,
-          "title": "Machining the BIGGEST Part Yet on the Heller CP 6000",
-          "imageUrl": null
         }
       ]
     },
@@ -2519,6 +2539,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=VMzw6H38ZlM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VMzw6H38ZlM",
+          "publishedOn": "2024-04-20T15:00:31.000Z",
+          "wordCount": null,
+          "title": "Why Less Snow Is Threatening Japan's Expensive Kanzuri Chile Paste | So Expensive | Business Insider",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=QWDmGXOsZ1s",
           "author": null,
@@ -2657,16 +2687,6 @@
           "publishedOn": "2024-04-11T15:41:18.000Z",
           "wordCount": null,
           "title": "How To Invest In AI Stocks | Business Insider Explains | Business Insider",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_C1LIt-otsM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_C1LIt-otsM",
-          "publishedOn": "2024-04-10T22:00:18.000Z",
-          "wordCount": null,
-          "title": "How Lionfish Invaded The Caribbean. Can We Spear And Eat Enough Of Them? | True Cost",
           "imageUrl": null
         }
       ]
