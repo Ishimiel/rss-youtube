@@ -1,10 +1,127 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-22T00:32:19.040Z</id>
+    <id>urn:2024-04-23T00:31:07.272Z</id>
     <title>osmos::feed</title>
-    <updated>2024-04-22T00:32:19.040Z</updated>
+    <updated>2024-04-23T00:31:07.272Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What's this tram's secret safety surprise?]]></title>
+        <id>https://www.youtube.com/watch?v=nitOvxtYJnU</id>
+        <link href="https://www.youtube.com/watch?v=nitOvxtYJnU"/>
+        <updated>2024-04-22T21:00:32.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[... and why!]]></title>
+        <id>https://www.youtube.com/watch?v=fzHqQPwyQHQ</id>
+        <link href="https://www.youtube.com/watch?v=fzHqQPwyQHQ"/>
+        <updated>2024-04-22T20:43:12.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A trick that always works...]]></title>
+        <id>https://www.youtube.com/watch?v=Tx4qr9x1MrI</id>
+        <link href="https://www.youtube.com/watch?v=Tx4qr9x1MrI"/>
+        <updated>2024-04-22T20:42:44.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The World’s First Intercity Maglev Train]]></title>
+        <id>https://www.youtube.com/watch?v=72yYvLLryus</id>
+        <link href="https://www.youtube.com/watch?v=72yYvLLryus"/>
+        <updated>2024-04-22T20:32:26.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The First AI vs Human Dogfight]]></title>
+        <id>https://www.youtube.com/watch?v=FbYmpuAxpvg</id>
+        <link href="https://www.youtube.com/watch?v=FbYmpuAxpvg"/>
+        <updated>2024-04-22T20:30:02.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The First AI vs Human Dogfight]]></title>
+        <id>https://www.youtube.com/watch?v=w0c3tvVZWTI</id>
+        <link href="https://www.youtube.com/watch?v=w0c3tvVZWTI"/>
+        <updated>2024-04-22T20:15:02.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How do you use bushcraft engineering in the wild?]]></title>
+        <id>https://www.youtube.com/watch?v=bdzhzC8_ODw</id>
+        <link href="https://www.youtube.com/watch?v=bdzhzC8_ODw"/>
+        <updated>2024-04-22T19:45:01.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dead Spiders Used as Efficient Micro-Grabbers]]></title>
+        <id>https://www.youtube.com/watch?v=OtHQMik9ouk</id>
+        <link href="https://www.youtube.com/watch?v=OtHQMik9ouk"/>
+        <updated>2024-04-22T19:15:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dead Spiders Used as Efficient Micro-Grabbers]]></title>
+        <id>https://www.youtube.com/watch?v=B-Y-sQlUEbU</id>
+        <link href="https://www.youtube.com/watch?v=B-Y-sQlUEbU"/>
+        <updated>2024-04-22T18:48:40.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machining a Mold for a Perfect Sphere]]></title>
+        <id>https://www.youtube.com/watch?v=lhDSnFJFC1o</id>
+        <link href="https://www.youtube.com/watch?v=lhDSnFJFC1o"/>
+        <updated>2024-04-22T16:05:00.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Since 2014, #China has sold the most expensive #caviar. Africa wants to catch up. #luxuryfood]]></title>
+        <id>https://www.youtube.com/watch?v=hH8_E2sd0rc</id>
+        <link href="https://www.youtube.com/watch?v=hH8_E2sd0rc"/>
+        <updated>2024-04-22T16:00:36.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Cast Iron #cooking #castiron]]></title>
+        <id>https://www.youtube.com/watch?v=1ATNxsoWLqE</id>
+        <link href="https://www.youtube.com/watch?v=1ATNxsoWLqE"/>
+        <updated>2024-04-22T15:29:09.000Z</updated>
+        <author>
+            <name>You Suck At Cooking</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happens When The US Debt Reaches Critical Levels? | Business Insider Explains]]></title>
+        <id>https://www.youtube.com/watch?v=76S3iMfcZE8</id>
+        <link href="https://www.youtube.com/watch?v=76S3iMfcZE8"/>
+        <updated>2024-04-22T15:17:36.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why the Laser Lightshow in a Vineyard?]]></title>
         <id>https://www.youtube.com/watch?v=iC_smnRFXz0</id>
@@ -168,24 +285,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Robo-Tort - The Robotic Tortoise That Bites Back]]></title>
-        <id>https://www.youtube.com/watch?v=FX3X5T_7CJ0</id>
-        <link href="https://www.youtube.com/watch?v=FX3X5T_7CJ0"/>
-        <updated>2024-04-19T20:30:01.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robo-Tort - The Robotic Tortoise That Bites Back]]></title>
-        <id>https://www.youtube.com/watch?v=1ROj128c2OM</id>
-        <link href="https://www.youtube.com/watch?v=1ROj128c2OM"/>
-        <updated>2024-04-19T20:15:00.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why a Forefather of AI Fears the Future]]></title>
         <id>https://www.youtube.com/watch?v=KcbTbTxPMLc</id>
         <link href="https://www.youtube.com/watch?v=KcbTbTxPMLc"/>
@@ -195,48 +294,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Drones Ensure Pesticide Effectiveness]]></title>
-        <id>https://www.youtube.com/watch?v=9Z5E5WyJHTU</id>
-        <link href="https://www.youtube.com/watch?v=9Z5E5WyJHTU"/>
-        <updated>2024-04-19T19:45:00.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World's First Jet Suit Race in Dubai]]></title>
-        <id>https://www.youtube.com/watch?v=5UIaZqNHXtw</id>
-        <link href="https://www.youtube.com/watch?v=5UIaZqNHXtw"/>
-        <updated>2024-04-19T19:15:00.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World's First Jet Suit Race in Dubai]]></title>
-        <id>https://www.youtube.com/watch?v=8E8QTa4YTTY</id>
-        <link href="https://www.youtube.com/watch?v=8E8QTa4YTTY"/>
-        <updated>2024-04-19T19:00:04.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What it takes to farm #caviar in one of the poorest countries in #Africa. #luxuryfood]]></title>
         <id>https://www.youtube.com/watch?v=QWDmGXOsZ1s</id>
         <link href="https://www.youtube.com/watch?v=QWDmGXOsZ1s"/>
         <updated>2024-04-19T18:00:19.000Z</updated>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minimum-Hassle PV Project Management]]></title>
-        <id>https://www.youtube.com/watch?v=eZy_7EjnoeM</id>
-        <link href="https://www.youtube.com/watch?v=eZy_7EjnoeM"/>
-        <updated>2024-04-19T15:00:36.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -708,7 +771,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Make STL Files IN THE SLICER!]]></title>
+        <title type="html"><![CDATA[Cat Themed Logos are COOL]]></title>
         <id>https://www.youtube.com/watch?v=uoET9DL27FU</id>
         <link href="https://www.youtube.com/watch?v=uoET9DL27FU"/>
         <updated>2024-04-12T13:00:49.000Z</updated>
@@ -723,15 +786,6 @@
         <updated>2024-04-12T12:00:53.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This company created a compostable #coffee pod made from the leftovers of roasted beans. #keurig]]></title>
-        <id>https://www.youtube.com/watch?v=hC2eIwEiADY</id>
-        <link href="https://www.youtube.com/watch?v=hC2eIwEiADY"/>
-        <updated>2024-04-11T20:00:12.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -759,15 +813,6 @@
         <updated>2024-04-11T16:23:26.000Z</updated>
         <author>
             <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Invest In AI Stocks | Business Insider Explains | Business Insider]]></title>
-        <id>https://www.youtube.com/watch?v=H3RRDhEgqcM</id>
-        <link href="https://www.youtube.com/watch?v=H3RRDhEgqcM"/>
-        <updated>2024-04-11T15:41:18.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -825,15 +870,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Fastest Anyone Has Machined Steel?]]></title>
-        <id>https://www.youtube.com/watch?v=7eLqblOcNMc</id>
-        <link href="https://www.youtube.com/watch?v=7eLqblOcNMc"/>
-        <updated>2024-04-10T16:00:09.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Werner Herzog finds Joaquin Phoenix Upside Down in a Wrecked Car and advises: “Man, Relax”]]></title>
         <id>https://www.youtube.com/watch?v=WUdXCs0RvZE</id>
         <link href="https://www.youtube.com/watch?v=WUdXCs0RvZE"/>
@@ -843,7 +879,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lie algebras: the math of rotations]]></title>
+        <title type="html"><![CDATA[Lie algebras visualized: why are they defined like that? Why Jacobi identity?]]></title>
         <id>https://www.youtube.com/watch?v=gj4kvpy1eCE</id>
         <link href="https://www.youtube.com/watch?v=gj4kvpy1eCE"/>
         <updated>2024-04-09T14:00:36.000Z</updated>
@@ -1239,7 +1275,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jonathan Nolan on the Promise and Perils of AI | Science vs. Fiction]]></title>
+        <title type="html"><![CDATA[Fallout Director Jonathan Nolan on the Promise and Perils of Our Time]]></title>
         <id>https://www.youtube.com/watch?v=oS0MhG98jE4</id>
         <link href="https://www.youtube.com/watch?v=oS0MhG98jE4"/>
         <updated>2024-03-29T14:35:56.000Z</updated>
@@ -1374,7 +1410,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[High Frequency Vibrations for Resin?]]></title>
+        <title type="html"><![CDATA[Does the HeyGears PRM Work?]]></title>
         <id>https://www.youtube.com/watch?v=RP6zMDrQaQo</id>
         <link href="https://www.youtube.com/watch?v=RP6zMDrQaQo"/>
         <updated>2024-03-22T13:00:24.000Z</updated>
@@ -1410,7 +1446,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How The Most Expensive Swords In The World Are Made]]></title>
+        <title type="html"><![CDATA[How Japanese Masters Turn Sand Into Swords]]></title>
         <id>https://www.youtube.com/watch?v=Tt6WQYtefXA</id>
         <link href="https://www.youtube.com/watch?v=Tt6WQYtefXA"/>
         <updated>2024-03-21T20:56:45.000Z</updated>
@@ -1486,15 +1522,6 @@
         <id>https://www.youtube.com/watch?v=WMlZPHRImf0</id>
         <link href="https://www.youtube.com/watch?v=WMlZPHRImf0"/>
         <updated>2024-03-19T15:00:33.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the F-16 flies at extreme AOA]]></title>
-        <id>https://www.youtube.com/watch?v=ZmgpudUU7XQ</id>
-        <link href="https://www.youtube.com/watch?v=ZmgpudUU7XQ"/>
-        <updated>2024-03-18T15:00:29.000Z</updated>
         <author>
             <name>Real Engineering</name>
         </author>
@@ -1716,7 +1743,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Vector Addition Systems Prevent Computer Crashes]]></title>
+        <title type="html"><![CDATA[Why Is This Basic Computer Science Problem So Hard?]]></title>
         <id>https://www.youtube.com/watch?v=IzSs_gJDVzI</id>
         <link href="https://www.youtube.com/watch?v=IzSs_gJDVzI"/>
         <updated>2024-03-08T23:14:44.000Z</updated>
@@ -2496,24 +2523,6 @@
         <updated>2024-01-24T17:01:54.000Z</updated>
         <author>
             <name>NinjaCakeAssassin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Mandelbrot set is defined]]></title>
-        <id>https://www.youtube.com/watch?v=xJwkj25fFK4</id>
-        <link href="https://www.youtube.com/watch?v=xJwkj25fFK4"/>
-        <updated>2024-01-24T06:00:26.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Glorious Chaos of Sanjay Mortimer]]></title>
-        <id>https://www.youtube.com/watch?v=Mm8sz6CB9ys</id>
-        <link href="https://www.youtube.com/watch?v=Mm8sz6CB9ys"/>
-        <updated>2024-01-23T16:00:13.000Z</updated>
-        <author>
-            <name>Zack Freedman</name>
         </author>
     </entry>
 </feed>
