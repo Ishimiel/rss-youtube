@@ -52,7 +52,7 @@
           "link": "https://www.youtube.com/watch?v=IzSs_gJDVzI",
           "publishedOn": "2024-03-08T23:14:44.000Z",
           "wordCount": null,
-          "title": "How Vector Addition Systems Prevent Computer Crashes",
+          "title": "Why Is This Basic Computer Science Problem So Hard?",
           "imageUrl": null
         },
         {
@@ -326,6 +326,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GCz6afDVy5Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GCz6afDVy5Y",
+          "publishedOn": "2024-04-26T12:00:13.000Z",
+          "wordCount": null,
+          "title": "AI/ML+Physics: Recap and Summary [Physics Informed Machine Learning]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wHg72Tnp1Ek",
           "author": null,
           "description": "",
@@ -575,13 +585,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=Xcg2iCRv5Kc",
+          "id": "https://www.youtube.com/watch?v=rnLMzALrFXs",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=Xcg2iCRv5Kc",
-          "publishedOn": "2024-03-15T14:07:03.000Z",
+          "link": "https://www.youtube.com/watch?v=rnLMzALrFXs",
+          "publishedOn": "2024-03-22T12:44:28.000Z",
           "wordCount": null,
-          "title": "Pioneer Live: Caterina Barbieri",
+          "title": "Sid Sriram | Pioneer Sessions",
           "imageUrl": null
         }
       ]
@@ -658,6 +668,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_7aK9PpYTqt08ERh1MewlQ",
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=_eacwWlZ-ug",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_eacwWlZ-ug",
+          "publishedOn": "2024-04-26T13:00:27.000Z",
+          "wordCount": null,
+          "title": "Can 3D Printing SAVE the McLaren 600LT?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=8YV8r2O8epM",
           "author": null,
@@ -797,16 +817,6 @@
           "wordCount": null,
           "title": "Comgrow T300 LIVE! Out of the Box and Printing!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1gy3uvFM7F8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1gy3uvFM7F8",
-          "publishedOn": "2024-02-23T14:00:02.000Z",
-          "wordCount": null,
-          "title": "TRUE Multi Material 3D Printing on the Prusa XL!",
-          "imageUrl": null
         }
       ]
     },
@@ -935,16 +945,6 @@
           "wordCount": null,
           "title": "Brick Layers - Why did no one do this before?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=H7OsnMLDIMw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=H7OsnMLDIMw",
-          "publishedOn": "2024-01-27T16:30:03.000Z",
-          "wordCount": null,
-          "title": "Calibration Cubes: More Harm Than Good?",
-          "imageUrl": null
         }
       ]
     },
@@ -959,6 +959,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "siteUrl": "https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=UIe8e_LCN64",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UIe8e_LCN64",
+          "publishedOn": "2024-04-26T14:46:20.000Z",
+          "wordCount": null,
+          "title": "What is hot staging and why does SpaceX use it on Starship?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=OUdXFQtefqM",
           "author": null,
@@ -1098,16 +1108,6 @@
           "wordCount": null,
           "title": "Watch Rocket Lab launch and recover an Electron Booster!!!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IonNr5iLjH4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IonNr5iLjH4",
-          "publishedOn": "2024-01-30T18:26:03.000Z",
-          "wordCount": null,
-          "title": "Watch SpaceX launch the Cygnus Spacecraft to the ISS for NASA!",
-          "imageUrl": null
         }
       ]
     },
@@ -1122,6 +1122,76 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEuiOszNd6msGgqsD0f9YAQ",
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=TbyMz3y8ung",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TbyMz3y8ung",
+          "publishedOn": "2024-04-26T21:00:17.000Z",
+          "wordCount": null,
+          "title": "When Is a Stop Sign Not a Stop Sign?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=GOHEEPssZfA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GOHEEPssZfA",
+          "publishedOn": "2024-04-26T20:45:00.000Z",
+          "wordCount": null,
+          "title": "The World's First Face-and-Eye Transplant",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DpHIKa5_rIk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DpHIKa5_rIk",
+          "publishedOn": "2024-04-26T20:30:00.000Z",
+          "wordCount": null,
+          "title": "KleinVision AirCar Takes Famous First Passenger",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=To1ENlfuefs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=To1ENlfuefs",
+          "publishedOn": "2024-04-26T19:45:02.000Z",
+          "wordCount": null,
+          "title": "Space Junk Crashes Through Florida House",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Gqf8gM1vesI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Gqf8gM1vesI",
+          "publishedOn": "2024-04-26T19:15:00.000Z",
+          "wordCount": null,
+          "title": "The World's First Face-and-Eye Transplant",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=dLqSRU_m0vU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dLqSRU_m0vU",
+          "publishedOn": "2024-04-26T18:15:02.000Z",
+          "wordCount": null,
+          "title": "How Waste Plastic is Converted into Fuel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=e5EEAH773uw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=e5EEAH773uw",
+          "publishedOn": "2024-04-26T16:22:12.000Z",
+          "wordCount": null,
+          "title": "How Waste Plastic is Converted into Fuel",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=mFe7Bl7TBYA",
           "author": null,
@@ -1139,7 +1209,7 @@
           "link": "https://www.youtube.com/watch?v=mtLbZhmb5XA",
           "publishedOn": "2024-04-25T20:30:04.000Z",
           "wordCount": null,
-          "title": "New Microsoft AI, VASA-1, Launched",
+          "title": "Revolutionary AI or Deepfake Danger?",
           "imageUrl": null
         },
         {
@@ -1149,7 +1219,7 @@
           "link": "https://www.youtube.com/watch?v=o2GX1t2BF2s",
           "publishedOn": "2024-04-25T20:15:01.000Z",
           "wordCount": null,
-          "title": "New Microsoft AI, VASA-1, Launched",
+          "title": "Microsoft Unveils VASA-1: Revolutionary AI or Deepfake Danger?",
           "imageUrl": null
         },
         {
@@ -1179,7 +1249,7 @@
           "link": "https://www.youtube.com/watch?v=SAR3LNRnZYI",
           "publishedOn": "2024-04-25T19:00:18.000Z",
           "wordCount": null,
-          "title": "Personal EVTOL Craft to Beat Your Morning Commute",
+          "title": "Personal eVTOLs: The Future of Commuting?",
           "imageUrl": null
         },
         {
@@ -1200,76 +1270,6 @@
           "publishedOn": "2024-04-24T19:45:01.000Z",
           "wordCount": null,
           "title": "The Buick Riviera Purrs Like a Panther",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8fficvNAXGI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8fficvNAXGI",
-          "publishedOn": "2024-04-24T19:30:00.000Z",
-          "wordCount": null,
-          "title": "AI Influencers to Battle for Miss AI Title",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=igFkDPeo6G0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=igFkDPeo6G0",
-          "publishedOn": "2024-04-24T19:00:21.000Z",
-          "wordCount": null,
-          "title": "AI Influencers to Battle for Miss AI Title",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=h1uN_3QAu2Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=h1uN_3QAu2Q",
-          "publishedOn": "2024-04-24T16:30:08.000Z",
-          "wordCount": null,
-          "title": "Flamethrowing Robot Dogs Available in US",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=n_Godg2T_KY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=n_Godg2T_KY",
-          "publishedOn": "2024-04-24T16:00:42.000Z",
-          "wordCount": null,
-          "title": "Flamethrowing Robot Dogs Available in US - Meet 'The Thermonator'",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TIQZhUq9acQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TIQZhUq9acQ",
-          "publishedOn": "2024-04-23T21:00:13.000Z",
-          "wordCount": null,
-          "title": "Why Is There a Boat on the Highway?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ap2W5Q2MS6o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ap2W5Q2MS6o",
-          "publishedOn": "2024-04-23T20:15:01.000Z",
-          "wordCount": null,
-          "title": "Space Telescope Finds Carbon-based Molecules on Planet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IWLMdrEkM9Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IWLMdrEkM9Q",
-          "publishedOn": "2024-04-23T20:15:00.000Z",
-          "wordCount": null,
-          "title": "Building Blocks of Life Found on Habitable Zone Planet",
           "imageUrl": null
         }
       ]
@@ -1524,6 +1524,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC7DdEm33SyaTDtWYGO2CwdA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ZiOZ6s7Fmy0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZiOZ6s7Fmy0",
+          "publishedOn": "2024-04-26T21:14:54.000Z",
+          "wordCount": null,
+          "title": "You can pop a soda can with a Sharpie!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=VQ6qruT9VdU",
           "author": null,
           "description": "",
@@ -1758,6 +1768,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCj_XaV1ss-qdD-lPUtTEcXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=K9UEFYHSMWo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=K9UEFYHSMWo",
+          "publishedOn": "2024-04-26T13:05:55.000Z",
+          "wordCount": null,
+          "title": "Captain Exams and a Captain's Chair",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Y_zX4G4pIhU",
           "author": null,
           "description": "",
@@ -1895,16 +1915,6 @@
           "publishedOn": "2024-02-09T22:49:02.000Z",
           "wordCount": null,
           "title": "Crates and a Boat Load of Other Things",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KdKmxeMmI7Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KdKmxeMmI7Q",
-          "publishedOn": "2024-02-03T14:06:59.000Z",
-          "wordCount": null,
-          "title": "Sailing into Live Fire Exercises",
           "imageUrl": null
         }
       ]
@@ -2111,6 +2121,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "siteUrl": "https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=7ByBcO9w6QQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7ByBcO9w6QQ",
+          "publishedOn": "2024-04-26T18:10:57.000Z",
+          "wordCount": null,
+          "title": "Words That Look Similar ON YOUR LIPS",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=VWO6lbJX-h0",
           "author": null,
@@ -2363,6 +2383,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=c7b5PwcTusk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=c7b5PwcTusk",
+          "publishedOn": "2024-04-26T14:00:23.000Z",
+          "wordCount": null,
+          "title": "Is Making Money More Important Than Breaking Tools?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=NXNAJatejw0",
           "author": null,
           "description": "",
@@ -2501,16 +2531,6 @@
           "wordCount": null,
           "title": "Genius Technique for Zero Chatter",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=abrqX6v39I8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=abrqX6v39I8",
-          "publishedOn": "2024-04-14T14:00:01.000Z",
-          "wordCount": null,
-          "title": "Jade Endmill - Will It Cut?",
-          "imageUrl": null
         }
       ]
     },
@@ -2520,13 +2540,53 @@
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=hYIeVoRm3Ro",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hYIeVoRm3Ro",
+          "publishedOn": "2024-04-26T20:00:13.000Z",
+          "wordCount": null,
+          "title": "Even when dead, #lionfish are dangerous as they have 18 venomous spines. #foodsafety #seafood",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qyEu8aCqTD4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qyEu8aCqTD4",
+          "publishedOn": "2024-04-26T18:55:48.000Z",
+          "wordCount": null,
+          "title": "Only 200,000 tiny bottles of the six-year-aged #Kanzuri #ChilePaste are made every year. #Japan",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9KxVJBY6gKs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9KxVJBY6gKs",
+          "publishedOn": "2024-04-26T18:12:49.000Z",
+          "wordCount": null,
+          "title": "This artist is one of the last craftsmen still making #calligraphy inkstones by hand. #calligrapher",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YGewDi29C-A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YGewDi29C-A",
+          "publishedOn": "2024-04-26T15:00:35.000Z",
+          "wordCount": null,
+          "title": "Every Step Of Making A Japanese Iron Kettle From Start To Finish | Full Process | Business Insider",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DuPQhZa_JDw",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=DuPQhZa_JDw",
           "publishedOn": "2024-04-25T21:10:41.000Z",
           "wordCount": null,
-          "title": "The British Royal Family's Secret 'Operation Menai Bridge' Explained | Business Insider Explains",
+          "title": "What Happens When King Charles III Dies? | Business Insider Explains",
           "imageUrl": null
         },
         {
@@ -2628,46 +2688,6 @@
           "wordCount": null,
           "title": "Why Hunting For 20-Million-Year-Old Petrified Wood Is So Dangerous In Indonesia | Risky Business",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hH8_E2sd0rc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hH8_E2sd0rc",
-          "publishedOn": "2024-04-22T16:00:36.000Z",
-          "wordCount": null,
-          "title": "Since 2014, #China has sold the most expensive #caviar. Africa wants to catch up. #luxuryfood",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=76S3iMfcZE8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=76S3iMfcZE8",
-          "publishedOn": "2024-04-22T15:17:36.000Z",
-          "wordCount": null,
-          "title": "What Happens When The US Debt Reaches Critical Levels? | Business Insider Explains",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VMzw6H38ZlM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VMzw6H38ZlM",
-          "publishedOn": "2024-04-20T15:00:31.000Z",
-          "wordCount": null,
-          "title": "Why Japanese Kanzuri Chile Paste Is So Expensive | So Expensive | Business Insider",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QWDmGXOsZ1s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QWDmGXOsZ1s",
-          "publishedOn": "2024-04-19T18:00:19.000Z",
-          "wordCount": null,
-          "title": "What it takes to farm #caviar in one of the poorest countries in #Africa. #luxuryfood",
-          "imageUrl": null
         }
       ]
     },
@@ -2743,6 +2763,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCM15YNy8g-CaJ15YZCbq0Iw",
       "siteUrl": "https://www.youtube.com/channel/UCM15YNy8g-CaJ15YZCbq0Iw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=20k3tBlXCD8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=20k3tBlXCD8",
+          "publishedOn": "2024-04-26T15:00:02.000Z",
+          "wordCount": null,
+          "title": "I made a cyborg shark with a cannon for a mouth",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=vghV2LC0A5g",
           "author": null,
