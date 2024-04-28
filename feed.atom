@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-27T00:30:41.542Z</id>
+    <id>urn:2024-04-28T00:34:27.644Z</id>
     <title>osmos::feed</title>
-    <updated>2024-04-27T00:30:41.542Z</updated>
+    <updated>2024-04-28T00:34:27.644Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Japan Develops Easy-Deploy Earthquake Hats]]></title>
+        <id>https://www.youtube.com/watch?v=COhybTZIV5o</id>
+        <link href="https://www.youtube.com/watch?v=COhybTZIV5o"/>
+        <updated>2024-04-27T19:45:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ρώσικη ρουλέτα με το διάολο (με καραμπίνα)]]></title>
+        <id>https://www.youtube.com/watch?v=p1Erd5nlujs</id>
+        <link href="https://www.youtube.com/watch?v=p1Erd5nlujs"/>
+        <updated>2024-04-27T19:23:29.000Z</updated>
+        <author>
+            <name>NinjaCakeAssassin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caltech Turns Jellyfish into Climate Researchers]]></title>
+        <id>https://www.youtube.com/watch?v=I3SIrm6OgvQ</id>
+        <link href="https://www.youtube.com/watch?v=I3SIrm6OgvQ"/>
+        <updated>2024-04-27T19:00:07.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caltech Turns Jellyfish into Climate Researchers]]></title>
+        <id>https://www.youtube.com/watch?v=C5SFkgBjnpU</id>
+        <link href="https://www.youtube.com/watch?v=C5SFkgBjnpU"/>
+        <updated>2024-04-27T19:00:04.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How 1,200-Year-Old Keris Daggers Tradition Is Fighting To Survive | Still Standing]]></title>
+        <id>https://www.youtube.com/watch?v=juZryA0Y5C0</id>
+        <link href="https://www.youtube.com/watch?v=juZryA0Y5C0"/>
+        <updated>2024-04-27T15:00:38.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Most Complicated Parts We Ever Machined on a Swiss CNC Machine]]></title>
+        <id>https://www.youtube.com/watch?v=7-0WWdI58HY</id>
+        <link href="https://www.youtube.com/watch?v=7-0WWdI58HY"/>
+        <updated>2024-04-27T15:00:08.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biggest Thread Mill We've Ever Machined With]]></title>
+        <id>https://www.youtube.com/watch?v=JBL1-o4fEIo</id>
+        <link href="https://www.youtube.com/watch?v=JBL1-o4fEIo"/>
+        <updated>2024-04-27T14:00:19.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KleinVision AirCar Takes Famous First Passenger]]></title>
+        <id>https://www.youtube.com/watch?v=0jhRYyQ3xXQ</id>
+        <link href="https://www.youtube.com/watch?v=0jhRYyQ3xXQ"/>
+        <updated>2024-04-27T11:00:01.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[You can pop a soda can with a Sharpie!]]></title>
         <id>https://www.youtube.com/watch?v=ZiOZ6s7Fmy0</id>
@@ -249,24 +321,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Personal EVTOL Craft to Beat Your Morning Commute]]></title>
-        <id>https://www.youtube.com/watch?v=euVwJsOKvZ8</id>
-        <link href="https://www.youtube.com/watch?v=euVwJsOKvZ8"/>
-        <updated>2024-04-25T19:15:02.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Personal eVTOLs: The Future of Commuting?]]></title>
-        <id>https://www.youtube.com/watch?v=SAR3LNRnZYI</id>
-        <link href="https://www.youtube.com/watch?v=SAR3LNRnZYI"/>
-        <updated>2024-04-25T19:00:18.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Japanese #Kanzuri #chile paste gets its unique flavor from snow-bleaching the #peppers.]]></title>
         <id>https://www.youtube.com/watch?v=VTRd4Y_hVOE</id>
         <link href="https://www.youtube.com/watch?v=VTRd4Y_hVOE"/>
@@ -321,30 +375,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HVAC Cleaning - Now Done by Robot]]></title>
-        <id>https://www.youtube.com/watch?v=rKuDAqbUE7o</id>
-        <link href="https://www.youtube.com/watch?v=rKuDAqbUE7o"/>
-        <updated>2024-04-24T21:00:34.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How an invasive #lionfish species made its way to the #Carribean. #invasivespecies]]></title>
         <id>https://www.youtube.com/watch?v=t28R6RBqZtc</id>
         <link href="https://www.youtube.com/watch?v=t28R6RBqZtc"/>
         <updated>2024-04-24T20:00:16.000Z</updated>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Buick Riviera Purrs Like a Panther]]></title>
-        <id>https://www.youtube.com/watch?v=CnkqD0VhmlY</id>
-        <link href="https://www.youtube.com/watch?v=CnkqD0VhmlY"/>
-        <updated>2024-04-24T19:45:01.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -444,15 +480,6 @@
         <updated>2024-04-23T15:00:42.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Hunting For 20-Million-Year-Old Petrified Wood Is So Dangerous In Indonesia | Risky Business]]></title>
-        <id>https://www.youtube.com/watch?v=h6IZFP9_GSA</id>
-        <link href="https://www.youtube.com/watch?v=h6IZFP9_GSA"/>
-        <updated>2024-04-23T15:00:37.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -789,15 +816,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Thread Whirling Makes The MOST Difficult Threads Easy]]></title>
-        <id>https://www.youtube.com/watch?v=08poruGHSVM</id>
-        <link href="https://www.youtube.com/watch?v=08poruGHSVM"/>
-        <updated>2024-04-16T14:00:01.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Stop Wearing Shirts]]></title>
         <id>https://www.youtube.com/watch?v=0r7DmVdR5AA</id>
         <link href="https://www.youtube.com/watch?v=0r7DmVdR5AA"/>
@@ -867,15 +885,6 @@
         <updated>2024-04-15T14:16:37.000Z</updated>
         <author>
             <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genius Technique for Zero Chatter]]></title>
-        <id>https://www.youtube.com/watch?v=F5M-FXM-oF0</id>
-        <link href="https://www.youtube.com/watch?v=F5M-FXM-oF0"/>
-        <updated>2024-04-15T14:00:10.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1878,7 +1887,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Is This Basic Computer Science Problem So Hard?]]></title>
+        <title type="html"><![CDATA[How Vector Addition Systems Prevent Computer Crashes]]></title>
         <id>https://www.youtube.com/watch?v=IzSs_gJDVzI</id>
         <link href="https://www.youtube.com/watch?v=IzSs_gJDVzI"/>
         <updated>2024-03-08T23:14:44.000Z</updated>
