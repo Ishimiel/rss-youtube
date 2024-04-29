@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-28T00:34:27.644Z</id>
+    <id>urn:2024-04-29T00:32:02.431Z</id>
     <title>osmos::feed</title>
-    <updated>2024-04-28T00:34:27.644Z</updated>
+    <updated>2024-04-29T00:32:02.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Is This Pipe Magic?]]></title>
+        <id>https://www.youtube.com/watch?v=z4cqeTEJsKw</id>
+        <link href="https://www.youtube.com/watch?v=z4cqeTEJsKw"/>
+        <updated>2024-04-28T19:45:02.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of Design and Manufacturing]]></title>
+        <id>https://www.youtube.com/watch?v=wRucsSSH1LE</id>
+        <link href="https://www.youtube.com/watch?v=wRucsSSH1LE"/>
+        <updated>2024-04-28T19:00:31.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Cloud Computing is Transforming Supply Chains]]></title>
+        <id>https://www.youtube.com/watch?v=G4DFLtsk6IA</id>
+        <link href="https://www.youtube.com/watch?v=G4DFLtsk6IA"/>
+        <updated>2024-04-28T19:00:05.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Temperature in LLMs]]></title>
+        <id>https://www.youtube.com/watch?v=XsLK3tPy9SI</id>
+        <link href="https://www.youtube.com/watch?v=XsLK3tPy9SI"/>
+        <updated>2024-04-28T15:22:38.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Lab-Grown Products Around The World | Business Insider Marathon | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=uDhLlVVnvP8</id>
+        <link href="https://www.youtube.com/watch?v=uDhLlVVnvP8"/>
+        <updated>2024-04-28T15:00:52.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tool Battery Storage]]></title>
+        <id>https://www.youtube.com/watch?v=CkzAtOWtZv4</id>
+        <link href="https://www.youtube.com/watch?v=CkzAtOWtZv4"/>
+        <updated>2024-04-28T14:40:49.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mind Blowing Precision]]></title>
+        <id>https://www.youtube.com/watch?v=SM4SPN0JH7s</id>
+        <link href="https://www.youtube.com/watch?v=SM4SPN0JH7s"/>
+        <updated>2024-04-28T14:00:31.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Solid Nozzles Don’t Gimbal - Smarter Every Day 297]]></title>
+        <id>https://www.youtube.com/watch?v=Bh7Xf3Ox7K8</id>
+        <link href="https://www.youtube.com/watch?v=Bh7Xf3Ox7K8"/>
+        <updated>2024-04-28T14:00:05.000Z</updated>
+        <author>
+            <name>SmarterEveryDay</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japan Develops Easy-Deploy Earthquake Hats]]></title>
         <id>https://www.youtube.com/watch?v=COhybTZIV5o</id>
@@ -276,39 +348,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Revolutionary AI or Deepfake Danger?]]></title>
-        <id>https://www.youtube.com/watch?v=mtLbZhmb5XA</id>
-        <link href="https://www.youtube.com/watch?v=mtLbZhmb5XA"/>
-        <updated>2024-04-25T20:30:04.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Unveils VASA-1: Revolutionary AI or Deepfake Danger?]]></title>
-        <id>https://www.youtube.com/watch?v=o2GX1t2BF2s</id>
-        <link href="https://www.youtube.com/watch?v=o2GX1t2BF2s"/>
-        <updated>2024-04-25T20:15:01.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[An #inkstone with intricate designs requires extra labor and time, making them more expensive.]]></title>
         <id>https://www.youtube.com/watch?v=V9c288Bq8sw</id>
         <link href="https://www.youtube.com/watch?v=V9c288Bq8sw"/>
         <updated>2024-04-25T19:57:28.000Z</updated>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Which Technological Toy Could You Not Resist?]]></title>
-        <id>https://www.youtube.com/watch?v=vKI-YidKbyw</id>
-        <link href="https://www.youtube.com/watch?v=vKI-YidKbyw"/>
-        <updated>2024-04-25T19:45:01.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -462,15 +507,6 @@
         <updated>2024-04-23T17:47:35.000Z</updated>
         <author>
             <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why traditional #fishing methods don't work for invasive #lionfish.  #Colombia]]></title>
-        <id>https://www.youtube.com/watch?v=jGJme2UGYtg</id>
-        <link href="https://www.youtube.com/watch?v=jGJme2UGYtg"/>
-        <updated>2024-04-23T17:07:09.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -759,15 +795,6 @@
         <updated>2024-04-17T14:07:58.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Broken Tool Makes Unbelievable Deep Cut]]></title>
-        <id>https://www.youtube.com/watch?v=5jQEbpK9Whs</id>
-        <link href="https://www.youtube.com/watch?v=5jQEbpK9Whs"/>
-        <updated>2024-04-17T14:00:04.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1887,7 +1914,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Vector Addition Systems Prevent Computer Crashes]]></title>
+        <title type="html"><![CDATA[Why Is This Basic Computer Science Problem So Hard?]]></title>
         <id>https://www.youtube.com/watch?v=IzSs_gJDVzI</id>
         <link href="https://www.youtube.com/watch?v=IzSs_gJDVzI"/>
         <updated>2024-03-08T23:14:44.000Z</updated>
@@ -2364,15 +2391,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crates and a Boat Load of Other Things]]></title>
-        <id>https://www.youtube.com/watch?v=mxDrNyCk04E</id>
-        <link href="https://www.youtube.com/watch?v=mxDrNyCk04E"/>
-        <updated>2024-02-09T22:49:02.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Intelligent Thinking About Artificial Intelligence]]></title>
         <id>https://www.youtube.com/watch?v=caepEUi2IZ4</id>
         <link href="https://www.youtube.com/watch?v=caepEUi2IZ4"/>
@@ -2514,15 +2532,6 @@
         <updated>2024-01-30T15:00:03.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Catalan Numbers - Numberphile]]></title>
-        <id>https://www.youtube.com/watch?v=fczN0BCx0xs</id>
-        <link href="https://www.youtube.com/watch?v=fczN0BCx0xs"/>
-        <updated>2024-01-29T12:54:41.000Z</updated>
-        <author>
-            <name>Numberphile</name>
         </author>
     </entry>
 </feed>
