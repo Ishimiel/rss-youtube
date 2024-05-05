@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-04T00:30:30.636Z</id>
+    <id>urn:2024-05-05T00:34:02.787Z</id>
     <title>osmos::feed</title>
-    <updated>2024-05-04T00:30:30.636Z</updated>
+    <updated>2024-05-05T00:34:02.787Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Watch Out - The TEBER-35 is on Your Tail]]></title>
+        <id>https://www.youtube.com/watch?v=yL468TWcOmI</id>
+        <link href="https://www.youtube.com/watch?v=yL468TWcOmI"/>
+        <updated>2024-05-04T21:00:28.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will Groceries by Drone Become a New Norm?]]></title>
+        <id>https://www.youtube.com/watch?v=H_15xqD29XQ</id>
+        <link href="https://www.youtube.com/watch?v=H_15xqD29XQ"/>
+        <updated>2024-05-04T19:45:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are We in the Age of Curious Robots?]]></title>
+        <id>https://www.youtube.com/watch?v=JNFtz-Uh78k</id>
+        <link href="https://www.youtube.com/watch?v=JNFtz-Uh78k"/>
+        <updated>2024-05-04T19:00:12.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are We in the Age of Curious Robots?]]></title>
+        <id>https://www.youtube.com/watch?v=PiK5VZFk-Jc</id>
+        <link href="https://www.youtube.com/watch?v=PiK5VZFk-Jc"/>
+        <updated>2024-05-04T19:00:11.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poor Man's Graphite Soldering Iron #electronic #DIY #technology]]></title>
+        <id>https://www.youtube.com/watch?v=RTZ1e1mOZvQ</id>
+        <link href="https://www.youtube.com/watch?v=RTZ1e1mOZvQ"/>
+        <updated>2024-05-04T16:23:28.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Satisfying Swiss CNC Machining]]></title>
+        <id>https://www.youtube.com/watch?v=nbRiEJ1jntU</id>
+        <link href="https://www.youtube.com/watch?v=nbRiEJ1jntU"/>
+        <updated>2024-05-04T14:00:41.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Next World's Largest Airport: Dubai Al Maktoum]]></title>
         <id>https://www.youtube.com/watch?v=1Nzge3mmimM</id>
@@ -87,7 +141,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[These Are The Avalanches To Worry About]]></title>
+        <title type="html"><![CDATA[What Makes Avalanches So Deadly]]></title>
         <id>https://www.youtube.com/watch?v=Zce-V0YVzeI</id>
         <link href="https://www.youtube.com/watch?v=Zce-V0YVzeI"/>
         <updated>2024-05-03T16:12:18.000Z</updated>
@@ -105,7 +159,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HUGE Adapter Plate for BIGGEST Vise We've Ever Had]]></title>
+        <title type="html"><![CDATA[HUGE Adapter Plate for BIGGEST Chuck We've Ever Had]]></title>
         <id>https://www.youtube.com/watch?v=dG3SitFYorY</id>
         <link href="https://www.youtube.com/watch?v=dG3SitFYorY"/>
         <updated>2024-05-03T14:11:00.000Z</updated>
@@ -204,15 +258,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Does the Earth Carry the Remains of an Alien Planet?]]></title>
-        <id>https://www.youtube.com/watch?v=nbNcP4CAa34</id>
-        <link href="https://www.youtube.com/watch?v=nbNcP4CAa34"/>
-        <updated>2024-05-02T19:00:19.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Watch The First Boeing Starliner Launch with NASA Astronauts! #CFT1]]></title>
         <id>https://www.youtube.com/watch?v=Ez3bQSz_rLM</id>
         <link href="https://www.youtube.com/watch?v=Ez3bQSz_rLM"/>
@@ -228,24 +273,6 @@
         <updated>2024-05-02T16:42:37.000Z</updated>
         <author>
             <name>Stuff Made Here</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Catastrophic Brazil Floods Kill at Least Ten People]]></title>
-        <id>https://www.youtube.com/watch?v=acgDhewrtjQ</id>
-        <link href="https://www.youtube.com/watch?v=acgDhewrtjQ"/>
-        <updated>2024-05-02T15:00:01.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Catastrophic Brazil Floods Kill at Least Ten People]]></title>
-        <id>https://www.youtube.com/watch?v=8g0ljh0uv1s</id>
-        <link href="https://www.youtube.com/watch?v=8g0ljh0uv1s"/>
-        <updated>2024-05-02T14:45:21.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -273,15 +300,6 @@
         <updated>2024-05-01T23:07:37.000Z</updated>
         <author>
             <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Do Pizza Bases All Come Out the Same?]]></title>
-        <id>https://www.youtube.com/watch?v=uT0a6eZ7-xs</id>
-        <link href="https://www.youtube.com/watch?v=uT0a6eZ7-xs"/>
-        <updated>2024-05-01T21:00:34.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -813,15 +831,6 @@
         <updated>2024-04-21T18:43:09.000Z</updated>
         <author>
             <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is it Possible to Grind a Triangle with a Round Wheel?]]></title>
-        <id>https://www.youtube.com/watch?v=upce8FLLYnE</id>
-        <link href="https://www.youtube.com/watch?v=upce8FLLYnE"/>
-        <updated>2024-04-21T14:00:47.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1689,7 +1698,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Which Computational Universe Do We Live In?]]></title>
+        <title type="html"><![CDATA[The mathematical 'worlds' of cryptography: Which universe do we live In?]]></title>
         <id>https://www.youtube.com/watch?v=RjzSFa03i2U</id>
         <link href="https://www.youtube.com/watch?v=RjzSFa03i2U"/>
         <updated>2024-03-27T14:52:03.000Z</updated>
@@ -1965,15 +1974,6 @@
         <updated>2024-03-15T23:40:00.000Z</updated>
         <author>
             <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Replace Bulging Electrolytic Capacitors]]></title>
-        <id>https://www.youtube.com/watch?v=66Z0NINGfa0</id>
-        <link href="https://www.youtube.com/watch?v=66Z0NINGfa0"/>
-        <updated>2024-03-15T16:29:18.000Z</updated>
-        <author>
-            <name>ElectroBOOM</name>
         </author>
     </entry>
     <entry>
@@ -2595,15 +2595,6 @@
         <updated>2024-02-05T21:21:01.000Z</updated>
         <author>
             <name>Physics Girl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Anime Influenced Western Animation]]></title>
-        <id>https://www.youtube.com/watch?v=7kS1WgLnDsE</id>
-        <link href="https://www.youtube.com/watch?v=7kS1WgLnDsE"/>
-        <updated>2024-02-04T20:53:02.000Z</updated>
-        <author>
-            <name>Internet Pitstop</name>
         </author>
     </entry>
 </feed>
