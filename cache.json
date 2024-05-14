@@ -715,7 +715,7 @@
           "link": "https://www.youtube.com/watch?v=7DjjBLNN4LI",
           "publishedOn": "2024-05-10T13:00:06.000Z",
           "wordCount": null,
-          "title": "ASA or RESIN? Polymaker PolyDryer HACK!",
+          "title": "PolyDryer TWO AT ONCE!",
           "imageUrl": null
         },
         {
@@ -785,7 +785,7 @@
           "link": "https://www.youtube.com/watch?v=uoET9DL27FU",
           "publishedOn": "2024-04-12T13:00:49.000Z",
           "wordCount": null,
-          "title": "Cat Themed Logos are COOL",
+          "title": "CAT WITHOUT CAD - DevKitty Logo in Prusa Slicer!",
           "imageUrl": null
         },
         {
@@ -1032,7 +1032,18 @@
       "title": "Domain of Science",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxqAWLTk1CmBvZFPzeZMd9A",
       "siteUrl": "https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ihZXl33t8So",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ihZXl33t8So",
+          "publishedOn": "2024-05-13T11:29:45.000Z",
+          "wordCount": null,
+          "title": "A NEW Kind of Quantum Computer - The Map of Topological Quantum Computing",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Everyday Astronaut",
@@ -1203,6 +1214,96 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5ssN-ke-Xuo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5ssN-ke-Xuo",
+          "publishedOn": "2024-05-13T20:15:00.000Z",
+          "wordCount": null,
+          "title": "Is Package Inspection the Perfect Role for AI?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=4TszDmVx_Zs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4TszDmVx_Zs",
+          "publishedOn": "2024-05-13T19:00:01.000Z",
+          "wordCount": null,
+          "title": "Riding the Backwards-Bicycle",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=O4kXKdFHXQQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=O4kXKdFHXQQ",
+          "publishedOn": "2024-05-13T17:45:00.000Z",
+          "wordCount": null,
+          "title": "What Exactly Is the Three-Body Problem?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=AsWHliogpfg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AsWHliogpfg",
+          "publishedOn": "2024-05-13T17:30:01.000Z",
+          "wordCount": null,
+          "title": "What Exactly Is the Three-Body Problem?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5GIhoU3vTCs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5GIhoU3vTCs",
+          "publishedOn": "2024-05-13T16:30:00.000Z",
+          "wordCount": null,
+          "title": "Little Birds Certify Instructors To Support Marines",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=H1Ni75Fyyrw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=H1Ni75Fyyrw",
+          "publishedOn": "2024-05-13T16:00:22.000Z",
+          "wordCount": null,
+          "title": "Google DeepMind Invests in Robot Hand",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0CGPUUYSj5c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0CGPUUYSj5c",
+          "publishedOn": "2024-05-13T16:00:02.000Z",
+          "wordCount": null,
+          "title": "Google DeepMind Invests in Robot Hand",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jdgHcaMKzuo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jdgHcaMKzuo",
+          "publishedOn": "2024-05-13T13:00:44.000Z",
+          "wordCount": null,
+          "title": "Soft Robot Learns Human-Style Whole-Body Manipulation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=8LyIR8mzY08",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8LyIR8mzY08",
+          "publishedOn": "2024-05-13T13:00:13.000Z",
+          "wordCount": null,
+          "title": "Soft Robot Learns Human-Style Whole-Body Manipulation",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Ub4RVKlu4eQ",
           "author": null,
           "description": "",
@@ -1260,96 +1361,6 @@
           "publishedOn": "2024-05-11T16:00:22.000Z",
           "wordCount": null,
           "title": "Cleaning RAM on a Motherboard",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bjvfZfdmYvs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bjvfZfdmYvs",
-          "publishedOn": "2024-05-11T13:00:37.000Z",
-          "wordCount": null,
-          "title": "Athena Security Robot Adds Facial Recognition to its Arsenal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AHDV0ds9bgQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AHDV0ds9bgQ",
-          "publishedOn": "2024-05-11T13:00:07.000Z",
-          "wordCount": null,
-          "title": "Athena Security Robot Adds Facial Recognition to its Arsenal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4F5mOTTCWaQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4F5mOTTCWaQ",
-          "publishedOn": "2024-05-10T19:00:03.000Z",
-          "wordCount": null,
-          "title": "The Surfbench - Part Seat, Part Talking Point",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WbHrTkefELE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WbHrTkefELE",
-          "publishedOn": "2024-05-10T17:30:07.000Z",
-          "wordCount": null,
-          "title": "Smartwatch Health Monitoring - The Vintage Edition",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Uouija90odI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Uouija90odI",
-          "publishedOn": "2024-05-10T17:15:02.000Z",
-          "wordCount": null,
-          "title": "Record-Breaking Nuclear Fusion Advance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=y3bTsh7h3uI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=y3bTsh7h3uI",
-          "publishedOn": "2024-05-10T17:00:52.000Z",
-          "wordCount": null,
-          "title": "Record-Breaking Nuclear Fusion Advance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wj9GVkhGqhk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wj9GVkhGqhk",
-          "publishedOn": "2024-05-10T14:00:51.000Z",
-          "wordCount": null,
-          "title": "Acoustic Cavitation Delivers Cold Brew Coffee in Three Minutes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iRdbBc50UA8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iRdbBc50UA8",
-          "publishedOn": "2024-05-10T13:41:08.000Z",
-          "wordCount": null,
-          "title": "Cold Brew Coffee in 3 Minutes Through Acoustic Cavitation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RZ00-WNTNEQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RZ00-WNTNEQ",
-          "publishedOn": "2024-05-09T19:00:10.000Z",
-          "wordCount": null,
-          "title": "Speed Parquet with a Mechanical Twist",
           "imageUrl": null
         }
       ]
@@ -1610,7 +1621,7 @@
           "link": "https://www.youtube.com/watch?v=VQ6qruT9VdU",
           "publishedOn": "2024-04-17T23:35:12.000Z",
           "wordCount": null,
-          "title": "Laser Pointer Jell-O / AT-HOME EXPERIMENT",
+          "title": "Easy home experiment - laser bounces through Jello-O",
           "imageUrl": null
         },
         {
@@ -1991,7 +2002,7 @@
           "link": "https://www.youtube.com/watch?v=Bh7Xf3Ox7K8",
           "publishedOn": "2024-04-28T14:00:05.000Z",
           "wordCount": null,
-          "title": "Launching the Vulcan Rocket For the First Time - Smarter Every Day 297",
+          "title": "The Vulcan Rocket - Smarter Every Day 297",
           "imageUrl": null
         },
         {
@@ -2082,7 +2093,7 @@
           "link": "https://www.youtube.com/watch?v=Zce-V0YVzeI",
           "publishedOn": "2024-05-03T16:12:18.000Z",
           "wordCount": null,
-          "title": "What Makes Avalanches So Deadly",
+          "title": "The Terrifying Real Science Of Avalanches",
           "imageUrl": null
         },
         {
@@ -2202,6 +2213,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "siteUrl": "https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=4vbdDtbgkr8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4vbdDtbgkr8",
+          "publishedOn": "2024-05-13T22:39:33.000Z",
+          "wordCount": null,
+          "title": "Boob's Law",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=0_G7clP-vls",
           "author": null,
@@ -2358,16 +2379,6 @@
           "wordCount": null,
           "title": "The 3D Filament Tier List! Which Should YOU Use?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JlylupVEwRM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JlylupVEwRM",
-          "publishedOn": "2024-02-13T16:00:18.000Z",
-          "wordCount": null,
-          "title": "3D Printing a CHOCOLATE GRIDFINITY of LOVE!!",
-          "imageUrl": null
         }
       ]
     },
@@ -2503,6 +2514,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ICBmomFjEEk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ICBmomFjEEk",
+          "publishedOn": "2024-05-13T14:00:13.000Z",
+          "wordCount": null,
+          "title": "World's Greatest Machined Table",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=cMJh1ndIUPA",
           "author": null,
@@ -2642,16 +2663,6 @@
           "wordCount": null,
           "title": "Problem Solving - The Most Difficult Grind I've Ever Done",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LTnE9DQuxE4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LTnE9DQuxE4",
-          "publishedOn": "2024-04-30T14:00:12.000Z",
-          "wordCount": null,
-          "title": "Setting Up the SMALLEST Carbide Drill Ever",
-          "imageUrl": null
         }
       ]
     },
@@ -2660,6 +2671,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Qp-GwD9SfUw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Qp-GwD9SfUw",
+          "publishedOn": "2024-05-13T18:00:11.000Z",
+          "wordCount": null,
+          "title": "80% of workers who make handmade scissors in India have lung disease. #scissors #India #lungdisease",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YZpfVkj-fVA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YZpfVkj-fVA",
+          "publishedOn": "2024-05-13T16:03:58.000Z",
+          "wordCount": null,
+          "title": "#UltraProcessed foods are linked to diabetes, heart disease, and other #health complications. #Diet",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Eu6po8_sPco",
           "author": null,
@@ -2727,7 +2758,7 @@
           "link": "https://www.youtube.com/watch?v=eTOK6VCCg4Q",
           "publishedOn": "2024-05-10T15:00:40.000Z",
           "wordCount": null,
-          "title": "What Cryptocurrencies Are Worth Investing In, From Bitcoin To Alt Coins And Meme Coins",
+          "title": "From Bitcoin To Alt Coins And Meme Coins, What Crypto Are Worth The Hype And What's Not",
           "imageUrl": null
         },
         {
@@ -2788,26 +2819,6 @@
           "publishedOn": "2024-05-08T18:06:50.000Z",
           "wordCount": null,
           "title": "The Petrified Forest #NationalPark has #petrifiedwood over 200 million years old. #Arizona",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FuBFi3hNQ_c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FuBFi3hNQ_c",
-          "publishedOn": "2024-05-08T17:00:10.000Z",
-          "wordCount": null,
-          "title": "This style of #dagger is centuries old, and it's become a reminder of #Javanese history. #Indonesia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=duRy3d9fG1k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=duRy3d9fG1k",
-          "publishedOn": "2024-05-07T21:00:31.000Z",
-          "wordCount": null,
-          "title": "These #fossils came from 20 million-year-old trees. Now, they're being used to make #furniture.",
           "imageUrl": null
         }
       ]
