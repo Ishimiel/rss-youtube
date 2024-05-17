@@ -74,16 +74,6 @@
           "wordCount": null,
           "title": "Why Is This Basic Computer Science Problem So Hard?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KzuM8maf05Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KzuM8maf05Y",
-          "publishedOn": "2024-02-16T21:26:01.000Z",
-          "wordCount": null,
-          "title": "How to Hear Black Hole Echoes",
-          "imageUrl": null
         }
       ]
     },
@@ -168,6 +158,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=i8wAjC69ZuY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=i8wAjC69ZuY",
+          "publishedOn": "2024-05-16T14:00:29.000Z",
+          "wordCount": null,
+          "title": "Why Is the Night Sky Black? #shorts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=_rBPwu2uS-w",
           "author": null,
@@ -307,16 +307,6 @@
           "wordCount": null,
           "title": "The Paradox of an Infinite Universe",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LrIRuqr_Ozg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LrIRuqr_Ozg",
-          "publishedOn": "2024-02-20T15:00:02.000Z",
-          "wordCount": null,
-          "title": "What Happens AFTER Nuclear War?",
-          "imageUrl": null
         }
       ]
     },
@@ -325,6 +315,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=7Q8oNNsZGcA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7Q8oNNsZGcA",
+          "publishedOn": "2024-05-16T12:00:12.000Z",
+          "wordCount": null,
+          "title": "SINDy-RL: Interpretable and Efficient Model-Based Reinforcement Learning",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=_ObvDgPMWkU",
           "author": null,
@@ -1204,6 +1204,76 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=cY8-ylNR4NY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cY8-ylNR4NY",
+          "publishedOn": "2024-05-16T19:00:19.000Z",
+          "wordCount": null,
+          "title": "Can This Rescue Robot Save Lives?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=4gQoPPIaAyw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4gQoPPIaAyw",
+          "publishedOn": "2024-05-16T17:30:01.000Z",
+          "wordCount": null,
+          "title": "Make Your Ideas Fly with an Airplane Wing Desk",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=XzWyhAtJqgY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XzWyhAtJqgY",
+          "publishedOn": "2024-05-16T16:30:05.000Z",
+          "wordCount": null,
+          "title": "Charles de Gaulle Aircraft Carrier on NATO Operations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=KpdVJ-8VzBM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KpdVJ-8VzBM",
+          "publishedOn": "2024-05-16T16:15:00.000Z",
+          "wordCount": null,
+          "title": "Google's New Medical AI Beats GPT-4",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TJUGFvorYKE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TJUGFvorYKE",
+          "publishedOn": "2024-05-16T16:00:23.000Z",
+          "wordCount": null,
+          "title": "Google's New Medical AI Beats GPT-4",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=2yArg0fphGI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2yArg0fphGI",
+          "publishedOn": "2024-05-16T13:15:00.000Z",
+          "wordCount": null,
+          "title": "Could an Underwater Air-Based Battery Solve Energy Supply Problems?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=NfMayrGQpBA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NfMayrGQpBA",
+          "publishedOn": "2024-05-16T13:00:32.000Z",
+          "wordCount": null,
+          "title": "Could an Underwater Air-Based Battery Solve Energy Supply Problems?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=HDkgJzgqOVs",
           "author": null,
           "description": "",
@@ -1281,76 +1351,6 @@
           "publishedOn": "2024-05-14T19:00:10.000Z",
           "wordCount": null,
           "title": "The Rubik Cube - With Knobs On",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xG6TgT6inMM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xG6TgT6inMM",
-          "publishedOn": "2024-05-14T17:30:12.000Z",
-          "wordCount": null,
-          "title": "Mobile Flyover Smooths Out Road Maintenance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XZIPaWslsOs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XZIPaWslsOs",
-          "publishedOn": "2024-05-14T16:30:05.000Z",
-          "wordCount": null,
-          "title": "Hungry Horse Operation Builds Military Cohesion",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VkKNJ85AXoc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VkKNJ85AXoc",
-          "publishedOn": "2024-05-14T16:00:31.000Z",
-          "wordCount": null,
-          "title": "Is the Million-Qubit Silicon Chip in Sight?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4R2kfIWpzVw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4R2kfIWpzVw",
-          "publishedOn": "2024-05-14T16:00:06.000Z",
-          "wordCount": null,
-          "title": "Is the Million-Qubit Silicon Chip in Sight?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=T0i2gxXlTxU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=T0i2gxXlTxU",
-          "publishedOn": "2024-05-14T14:15:02.000Z",
-          "wordCount": null,
-          "title": "How Can a Haptic Device Let Robots Measure Softness?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WE0qab6mA5o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WE0qab6mA5o",
-          "publishedOn": "2024-05-14T14:15:02.000Z",
-          "wordCount": null,
-          "title": "How Can a Haptic Device Let Robots Measure Softness?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Nvqy4X6aUfk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Nvqy4X6aUfk",
-          "publishedOn": "2024-05-14T13:23:13.000Z",
-          "wordCount": null,
-          "title": "8 New Things ChatGPT-4o Can Do That Will Blow Your Mind",
           "imageUrl": null
         }
       ]
@@ -1658,7 +1658,7 @@
           "link": "https://www.youtube.com/watch?v=I1ixCSAc3bc",
           "publishedOn": "2024-05-06T14:05:09.000Z",
           "wordCount": null,
-          "title": "The Most Powerful Fire Truck Ever Created",
+          "title": "The Worst Oil Disaster Ever",
           "imageUrl": null
         },
         {
@@ -2063,7 +2063,7 @@
           "link": "https://www.youtube.com/watch?v=Zce-V0YVzeI",
           "publishedOn": "2024-05-03T16:12:18.000Z",
           "wordCount": null,
-          "title": "The Terrifying Real Science Of Avalanches",
+          "title": "Causing An Avalanche To Explain How They Work",
           "imageUrl": null
         },
         {
@@ -2183,6 +2183,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "siteUrl": "https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=2Kue118zBBU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2Kue118zBBU",
+          "publishedOn": "2024-05-16T19:32:57.000Z",
+          "wordCount": null,
+          "title": "Hexagonal Pythagoras",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=4vbdDtbgkr8",
           "author": null,
@@ -2327,7 +2337,7 @@
           "link": "https://www.youtube.com/watch?v=GobDWJS7haw",
           "publishedOn": "2024-05-15T15:00:11.000Z",
           "wordCount": null,
-          "title": "Five Bizarre Models YOU can 3D Print, from RMRRF 2024!",
+          "title": "Insanely Creative Models YOU can 3D Print, from RMRRF 2024!",
           "imageUrl": null
         },
         {
@@ -2515,6 +2525,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=hsqPmsOwe40",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hsqPmsOwe40",
+          "publishedOn": "2024-05-16T14:00:36.000Z",
+          "wordCount": null,
+          "title": "Machining the Center Pillar of Death",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cdvn11PA0pE",
           "author": null,
           "description": "",
@@ -2653,16 +2673,6 @@
           "wordCount": null,
           "title": "Satisfying Swiss CNC Machining",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dG3SitFYorY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dG3SitFYorY",
-          "publishedOn": "2024-05-03T14:11:00.000Z",
-          "wordCount": null,
-          "title": "HUGE Adapter Plate for BIGGEST Chuck We've Ever Had",
-          "imageUrl": null
         }
       ]
     },
@@ -2671,6 +2681,46 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=qobr_GX509k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qobr_GX509k",
+          "publishedOn": "2024-05-16T20:00:25.000Z",
+          "wordCount": null,
+          "title": "How did this dad sneaker turn into a billion-dollar enterprise? #hoka #runningshoes #sneakerhead",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=WT-d8ImXZvg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WT-d8ImXZvg",
+          "publishedOn": "2024-05-16T18:00:14.000Z",
+          "wordCount": null,
+          "title": "Despite the rise in price, #cement #tiles have only become more popular globally. #Art",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Ew4b0FoJdyw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ew4b0FoJdyw",
+          "publishedOn": "2024-05-16T17:00:10.000Z",
+          "wordCount": null,
+          "title": "Rising costs of raw materials and taxes are threatening the #scissor #industry in #India.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xaRRife6ntQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xaRRife6ntQ",
+          "publishedOn": "2024-05-16T15:00:48.000Z",
+          "wordCount": null,
+          "title": "Why Food Recalls Are On The Rise In The US | Business Insider Explains | Business Insider",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=RuFZDT1rJHw",
           "author": null,
@@ -2768,7 +2818,7 @@
           "link": "https://www.youtube.com/watch?v=pV2lSlpzrww",
           "publishedOn": "2024-05-11T15:00:50.000Z",
           "wordCount": null,
-          "title": "Cement Tiles Are More Expensive Than Ever. Why Can’t Some Artisans Stay In Business? | So Expensive",
+          "title": "Cement Tiles Almost Disappeared. Now They’re More Expensive Than Ever | So Expensive",
           "imageUrl": null
         },
         {
@@ -2779,46 +2829,6 @@
           "publishedOn": "2024-05-10T20:00:05.000Z",
           "wordCount": null,
           "title": "#Keris #dagger making is on the verge of disappearing despite efforts to keep the #art alive.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IjH5moA8QE4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IjH5moA8QE4",
-          "publishedOn": "2024-05-10T18:00:12.000Z",
-          "wordCount": null,
-          "title": "This is what makes #ultraprocessed #food so addicting and bad for your #health.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PZbKXKIsgdo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PZbKXKIsgdo",
-          "publishedOn": "2024-05-10T15:56:29.000Z",
-          "wordCount": null,
-          "title": "Why making #scissors by hand in #India is so dangerous. #ScissorMaking",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eTOK6VCCg4Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eTOK6VCCg4Q",
-          "publishedOn": "2024-05-10T15:00:40.000Z",
-          "wordCount": null,
-          "title": "From Bitcoin To Alt Coins And Meme Coins, What Crypto Are Worth The Hype And What's Not",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TPrOUzye2Lw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TPrOUzye2Lw",
-          "publishedOn": "2024-05-09T20:00:16.000Z",
-          "wordCount": null,
-          "title": "This company turns #bamboo into #sustainable straws, cutlery, and other fake #plastic products.",
           "imageUrl": null
         }
       ]
