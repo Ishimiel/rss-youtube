@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-18T00:32:01.491Z</id>
+    <id>urn:2024-05-19T00:35:02.428Z</id>
     <title>osmos::feed</title>
-    <updated>2024-05-18T00:32:01.491Z</updated>
+    <updated>2024-05-19T00:35:02.428Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[I DROPPED IT! #3dprinting #3dprinted]]></title>
+        <id>https://www.youtube.com/watch?v=xEcqC9_bUU4</id>
+        <link href="https://www.youtube.com/watch?v=xEcqC9_bUU4"/>
+        <updated>2024-05-18T20:11:09.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automatic Drain Cleaning - by Robot]]></title>
+        <id>https://www.youtube.com/watch?v=29eYB-VN16c</id>
+        <link href="https://www.youtube.com/watch?v=29eYB-VN16c"/>
+        <updated>2024-05-18T19:00:02.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can a Dyson Robot Cleaner Get Right to the Edge?]]></title>
+        <id>https://www.youtube.com/watch?v=9Cc1-ggX4vQ</id>
+        <link href="https://www.youtube.com/watch?v=9Cc1-ggX4vQ"/>
+        <updated>2024-05-18T16:00:11.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cutting ANY Metal with Sparks (DIY EDM) - RMRRF2024]]></title>
+        <id>https://www.youtube.com/watch?v=vEFb7B1Xozg</id>
+        <link href="https://www.youtube.com/watch?v=vEFb7B1Xozg"/>
+        <updated>2024-05-18T15:29:40.000Z</updated>
+        <author>
+            <name>CNC Kitchen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why These Giant Oak Barrels Are The Key To Making Some Of The World's Most Expensive Wine]]></title>
+        <id>https://www.youtube.com/watch?v=ug9IA4lE-3I</id>
+        <link href="https://www.youtube.com/watch?v=ug9IA4lE-3I"/>
+        <updated>2024-05-18T15:00:52.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What "Follow Your Dreams" Misses | Harvey Mudd Commencement Speech 2024]]></title>
+        <id>https://www.youtube.com/watch?v=W3I3kAg2J7w</id>
+        <link href="https://www.youtube.com/watch?v=W3I3kAg2J7w"/>
+        <updated>2024-05-18T14:50:47.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setting Up the MOST Complicated Tool in CNC MACHINING]]></title>
+        <id>https://www.youtube.com/watch?v=ww9ioPXod5Q</id>
+        <link href="https://www.youtube.com/watch?v=ww9ioPXod5Q"/>
+        <updated>2024-05-18T14:00:47.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You've NEVER Seen This Machining Technique]]></title>
+        <id>https://www.youtube.com/watch?v=SS7BzhLSNf0</id>
+        <link href="https://www.youtube.com/watch?v=SS7BzhLSNf0"/>
+        <updated>2024-05-18T14:00:17.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Have Robots Conquered the Awkward Package Problem?]]></title>
+        <id>https://www.youtube.com/watch?v=jU4gIqx_uTM</id>
+        <link href="https://www.youtube.com/watch?v=jU4gIqx_uTM"/>
+        <updated>2024-05-18T13:00:44.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Have Robots Conquered the Awkward Package Problem?]]></title>
+        <id>https://www.youtube.com/watch?v=Yvy-zHGPHzk</id>
+        <link href="https://www.youtube.com/watch?v=Yvy-zHGPHzk"/>
+        <updated>2024-05-18T13:00:32.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is Quantum Teleportation? | Podcast: Joy of Why]]></title>
         <id>https://www.youtube.com/watch?v=m_UeIh9TCGk</id>
@@ -258,24 +348,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Could an Underwater Air-Based Battery Solve Energy Supply Problems?]]></title>
-        <id>https://www.youtube.com/watch?v=2yArg0fphGI</id>
-        <link href="https://www.youtube.com/watch?v=2yArg0fphGI"/>
-        <updated>2024-05-16T13:15:00.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Could an Underwater Air-Based Battery Solve Energy Supply Problems?]]></title>
-        <id>https://www.youtube.com/watch?v=NfMayrGQpBA</id>
-        <link href="https://www.youtube.com/watch?v=NfMayrGQpBA"/>
-        <updated>2024-05-16T13:00:32.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SINDy-RL: Interpretable and Efficient Model-Based Reinforcement Learning]]></title>
         <id>https://www.youtube.com/watch?v=7Q8oNNsZGcA</id>
         <link href="https://www.youtube.com/watch?v=7Q8oNNsZGcA"/>
@@ -303,24 +375,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Harness Solar Power for your Camping Needs]]></title>
-        <id>https://www.youtube.com/watch?v=HDkgJzgqOVs</id>
-        <link href="https://www.youtube.com/watch?v=HDkgJzgqOVs"/>
-        <updated>2024-05-15T20:15:01.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Vertical Parking the Solution to Urban Congestion?]]></title>
-        <id>https://www.youtube.com/watch?v=Y-Hqxht_Ae0</id>
-        <link href="https://www.youtube.com/watch?v=Y-Hqxht_Ae0"/>
-        <updated>2024-05-15T19:00:29.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This master craftsman makes at least 600 scissors every day in hellish conditions. #india #metalwork]]></title>
         <id>https://www.youtube.com/watch?v=L6404bFy6sg</id>
         <link href="https://www.youtube.com/watch?v=L6404bFy6sg"/>
@@ -330,7 +384,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Insanely Creative Models YOU can 3D Print, from RMRRF 2024!]]></title>
+        <title type="html"><![CDATA[Five of RMRRF’s Most Insanely Creative Models YOU Can Print!]]></title>
         <id>https://www.youtube.com/watch?v=GobDWJS7haw</id>
         <link href="https://www.youtube.com/watch?v=GobDWJS7haw"/>
         <updated>2024-05-15T15:00:11.000Z</updated>
@@ -471,15 +525,6 @@
         <updated>2024-05-12T17:37:14.000Z</updated>
         <author>
             <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How This 300-Year-Old Pastel Stick Maker Creates Nearly 2,000 Colors — More Than Its Competitors]]></title>
-        <id>https://www.youtube.com/watch?v=Eu6po8_sPco</id>
-        <link href="https://www.youtube.com/watch?v=Eu6po8_sPco"/>
-        <updated>2024-05-12T15:00:11.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -717,30 +762,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can You Thread a Wire Submerged?]]></title>
-        <id>https://www.youtube.com/watch?v=4J-fxB1Eif4</id>
-        <link href="https://www.youtube.com/watch?v=4J-fxB1Eif4"/>
-        <updated>2024-05-06T14:00:03.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I made a Gundam AT ST out of clay]]></title>
         <id>https://www.youtube.com/watch?v=WmpfvyZkVTQ</id>
         <link href="https://www.youtube.com/watch?v=WmpfvyZkVTQ"/>
         <updated>2024-05-05T15:00:33.000Z</updated>
         <author>
             <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Holding MASSIVE 1700 LB Material with Dovetails]]></title>
-        <id>https://www.youtube.com/watch?v=p4g_IAiP_y0</id>
-        <link href="https://www.youtube.com/watch?v=p4g_IAiP_y0"/>
-        <updated>2024-05-05T14:00:38.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -960,7 +987,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Vulcan Rocket - Smarter Every Day 297]]></title>
+        <title type="html"><![CDATA[Liftoff of the Vulcan Rocket - Smarter Every Day 297]]></title>
         <id>https://www.youtube.com/watch?v=Bh7Xf3Ox7K8</id>
         <link href="https://www.youtube.com/watch?v=Bh7Xf3Ox7K8"/>
         <updated>2024-04-28T14:00:05.000Z</updated>
@@ -1185,7 +1212,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I made 1.75 mm Filament from 3 mm Filament!]]></title>
+        <title type="html"><![CDATA[I made custom 3D printing filament with my Logo inside!]]></title>
         <id>https://www.youtube.com/watch?v=CQ-N1fr4N0w</id>
         <link href="https://www.youtube.com/watch?v=CQ-N1fr4N0w"/>
         <updated>2024-04-20T15:00:08.000Z</updated>
@@ -1662,7 +1689,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Three-Body Problem: How to Predict Eclipses]]></title>
+        <title type="html"><![CDATA[How to Predict Eclipses: The Three-Body Problem]]></title>
         <id>https://www.youtube.com/watch?v=Gjbee3Bx_xs</id>
         <link href="https://www.youtube.com/watch?v=Gjbee3Bx_xs"/>
         <updated>2024-04-05T15:07:22.000Z</updated>
@@ -2109,15 +2136,6 @@
         <updated>2024-03-22T15:39:37.000Z</updated>
         <author>
             <name>The Engineering Mindset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does the HeyGears PRM Work?]]></title>
-        <id>https://www.youtube.com/watch?v=RP6zMDrQaQo</id>
-        <link href="https://www.youtube.com/watch?v=RP6zMDrQaQo"/>
-        <updated>2024-03-22T13:00:24.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
         </author>
     </entry>
     <entry>
@@ -2640,15 +2658,6 @@
         <updated>2024-02-19T15:30:49.000Z</updated>
         <author>
             <name>The Engineering Mindset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why don’t they launch rockets from on top of mountains? #rockets #rocketscience]]></title>
-        <id>https://www.youtube.com/watch?v=F4prIyQ0xvw</id>
-        <link href="https://www.youtube.com/watch?v=F4prIyQ0xvw"/>
-        <updated>2024-02-19T01:56:03.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
         </author>
     </entry>
 </feed>
