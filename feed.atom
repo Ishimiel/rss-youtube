@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-25T00:31:15.718Z</id>
+    <id>urn:2024-05-26T00:35:28.167Z</id>
     <title>osmos::feed</title>
-    <updated>2024-05-25T00:31:15.718Z</updated>
+    <updated>2024-05-26T00:35:28.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Do You Repair a Broken Windshield?]]></title>
+        <id>https://www.youtube.com/watch?v=iCI83285yKc</id>
+        <link href="https://www.youtube.com/watch?v=iCI83285yKc"/>
+        <updated>2024-05-25T21:00:17.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Shapes Would You Make with This Wire Bending Machine?]]></title>
+        <id>https://www.youtube.com/watch?v=JwR9FN961aA</id>
+        <link href="https://www.youtube.com/watch?v=JwR9FN961aA"/>
+        <updated>2024-05-25T19:00:11.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Now Transformers actually transform]]></title>
+        <id>https://www.youtube.com/watch?v=Z8oNH3b1g5A</id>
+        <link href="https://www.youtube.com/watch?v=Z8oNH3b1g5A"/>
+        <updated>2024-05-25T18:00:13.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can wheelchairs climb staircases?]]></title>
+        <id>https://www.youtube.com/watch?v=ffFcuexxTRI</id>
+        <link href="https://www.youtube.com/watch?v=ffFcuexxTRI"/>
+        <updated>2024-05-25T16:00:25.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japanese Trains Have Always Been One Step Ahead]]></title>
+        <id>https://www.youtube.com/watch?v=orLpzaqjr6o</id>
+        <link href="https://www.youtube.com/watch?v=orLpzaqjr6o"/>
+        <updated>2024-05-25T15:00:41.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixing Vibration with Extra Long Shell Mill]]></title>
+        <id>https://www.youtube.com/watch?v=WIAbFWCP91c</id>
+        <link href="https://www.youtube.com/watch?v=WIAbFWCP91c"/>
+        <updated>2024-05-25T14:00:31.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are family robots worth your time?]]></title>
+        <id>https://www.youtube.com/watch?v=0m4EiRKJaS8</id>
+        <link href="https://www.youtube.com/watch?v=0m4EiRKJaS8"/>
+        <updated>2024-05-25T14:00:01.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Airbus deliver its hydrogen jet?]]></title>
+        <id>https://www.youtube.com/watch?v=uZFoOpeA3k4</id>
+        <link href="https://www.youtube.com/watch?v=uZFoOpeA3k4"/>
+        <updated>2024-05-25T13:00:48.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Would you trust a robot waiter?]]></title>
+        <id>https://www.youtube.com/watch?v=eyV668lnE50</id>
+        <link href="https://www.youtube.com/watch?v=eyV668lnE50"/>
+        <updated>2024-05-25T11:30:18.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Make Mulch in Moments with Hardcore Machinery]]></title>
         <id>https://www.youtube.com/watch?v=zg8zWgyQ-b4</id>
@@ -168,15 +249,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Should we be interacting more with our robots?]]></title>
-        <id>https://www.youtube.com/watch?v=OXi4IF8Xbfs</id>
-        <link href="https://www.youtube.com/watch?v=OXi4IF8Xbfs"/>
-        <updated>2024-05-23T15:00:19.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why do my tools keep Breaking?]]></title>
         <id>https://www.youtube.com/watch?v=yQ3qAIssHCQ</id>
         <link href="https://www.youtube.com/watch?v=yQ3qAIssHCQ"/>
@@ -186,57 +258,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can stair-climbing wheelchairs break down social exclusion?]]></title>
-        <id>https://www.youtube.com/watch?v=lz4Mc6eyJjc</id>
-        <link href="https://www.youtube.com/watch?v=lz4Mc6eyJjc"/>
-        <updated>2024-05-23T13:15:03.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are wearable exoskeletons the new must-have for heavy lifting?]]></title>
-        <id>https://www.youtube.com/watch?v=EjkePggkSHk</id>
-        <link href="https://www.youtube.com/watch?v=EjkePggkSHk"/>
-        <updated>2024-05-23T12:45:01.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can firefighting robots keep people safer?]]></title>
-        <id>https://www.youtube.com/watch?v=nvNNTkw86f0</id>
-        <link href="https://www.youtube.com/watch?v=nvNNTkw86f0"/>
-        <updated>2024-05-23T09:39:14.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are Remote-Controlled Excavators a Sustainability Solution?]]></title>
-        <id>https://www.youtube.com/watch?v=glwRTx5GzP0</id>
-        <link href="https://www.youtube.com/watch?v=glwRTx5GzP0"/>
-        <updated>2024-05-22T21:00:23.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Woman gets stuck in CNC Machine]]></title>
         <id>https://www.youtube.com/watch?v=PeeHmUh8VVs</id>
         <link href="https://www.youtube.com/watch?v=PeeHmUh8VVs"/>
         <updated>2024-05-22T19:50:00.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Are Modern Flip Flops Made?]]></title>
-        <id>https://www.youtube.com/watch?v=LJZ-IeyF90k</id>
-        <link href="https://www.youtube.com/watch?v=LJZ-IeyF90k"/>
-        <updated>2024-05-22T19:00:10.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -255,15 +282,6 @@
         <updated>2024-05-22T17:01:13.000Z</updated>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Could Snail-Based Climbing Robots be on the Way Up?]]></title>
-        <id>https://www.youtube.com/watch?v=y6An88lMZP8</id>
-        <link href="https://www.youtube.com/watch?v=y6An88lMZP8"/>
-        <updated>2024-05-22T16:00:47.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -651,15 +669,6 @@
         <updated>2024-05-13T22:39:33.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World's Greatest Machined Table]]></title>
-        <id>https://www.youtube.com/watch?v=ICBmomFjEEk</id>
-        <link href="https://www.youtube.com/watch?v=ICBmomFjEEk"/>
-        <updated>2024-05-13T14:00:13.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1302,7 +1311,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I added TPU fibers to PLA to make it super tough!]]></title>
+        <title type="html"><![CDATA[I made 1.75 mm Filament from 3 mm Filament!]]></title>
         <id>https://www.youtube.com/watch?v=CQ-N1fr4N0w</id>
         <link href="https://www.youtube.com/watch?v=CQ-N1fr4N0w"/>
         <updated>2024-04-20T15:00:08.000Z</updated>
@@ -1770,7 +1779,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Predict Eclipses: The Three-Body Problem]]></title>
+        <title type="html"><![CDATA[The Three-Body Problem: How to Predict Eclipses]]></title>
         <id>https://www.youtube.com/watch?v=Gjbee3Bx_xs</id>
         <link href="https://www.youtube.com/watch?v=Gjbee3Bx_xs"/>
         <updated>2024-04-05T15:07:22.000Z</updated>
@@ -1911,15 +1920,6 @@
         <updated>2024-04-01T15:41:58.000Z</updated>
         <author>
             <name>minutephysics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F-35 vertical take off is incredible]]></title>
-        <id>https://www.youtube.com/watch?v=EXag4nsWYoU</id>
-        <link href="https://www.youtube.com/watch?v=EXag4nsWYoU"/>
-        <updated>2024-04-01T15:00:20.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
         </author>
     </entry>
     <entry>
@@ -2613,15 +2613,6 @@
         <updated>2024-02-27T15:46:59.000Z</updated>
         <author>
             <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[April 8, 2024 Total Solar Eclipse: Here's what you need to know -Smarter Every Day 295]]></title>
-        <id>https://www.youtube.com/watch?v=eNK2LI7VeX4</id>
-        <link href="https://www.youtube.com/watch?v=eNK2LI7VeX4"/>
-        <updated>2024-02-25T14:27:14.000Z</updated>
-        <author>
-            <name>SmarterEveryDay</name>
         </author>
     </entry>
 </feed>
