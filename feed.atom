@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-27T00:33:55.576Z</id>
+    <id>urn:2024-05-28T00:32:29.187Z</id>
     <title>osmos::feed</title>
-    <updated>2024-05-27T00:33:55.576Z</updated>
+    <updated>2024-05-28T00:32:29.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Can Robots Help Monitor Our Air Quality?]]></title>
+        <id>https://www.youtube.com/watch?v=QyeGjB4uJKU</id>
+        <link href="https://www.youtube.com/watch?v=QyeGjB4uJKU"/>
+        <updated>2024-05-27T22:00:22.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can a Laser Cleaner Make Old Bricks Look New?]]></title>
+        <id>https://www.youtube.com/watch?v=1fwtGdAy0Ao</id>
+        <link href="https://www.youtube.com/watch?v=1fwtGdAy0Ao"/>
+        <updated>2024-05-27T20:15:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does a Vibrating Screen Separate Stone from Dust?]]></title>
+        <id>https://www.youtube.com/watch?v=Lx7A2iBJKYA</id>
+        <link href="https://www.youtube.com/watch?v=Lx7A2iBJKYA"/>
+        <updated>2024-05-27T19:45:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are Electric Helicopter Taxis the Future of Hired Transport?]]></title>
+        <id>https://www.youtube.com/watch?v=_XoBxTLcAnI</id>
+        <link href="https://www.youtube.com/watch?v=_XoBxTLcAnI"/>
+        <updated>2024-05-27T18:00:23.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Dengue Fever Be Vanquished by a Guardian Toad?]]></title>
+        <id>https://www.youtube.com/watch?v=aTuBp-TBWz8</id>
+        <link href="https://www.youtube.com/watch?v=aTuBp-TBWz8"/>
+        <updated>2024-05-27T16:15:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Dengue Fever Be Vanquished by a Guardian Toad?]]></title>
+        <id>https://www.youtube.com/watch?v=9aOAD1tayUc</id>
+        <link href="https://www.youtube.com/watch?v=9aOAD1tayUc"/>
+        <updated>2024-05-27T16:00:11.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machining with the World's SMALLEST Tools]]></title>
+        <id>https://www.youtube.com/watch?v=E-Dz01wd0bM</id>
+        <link href="https://www.youtube.com/watch?v=E-Dz01wd0bM"/>
+        <updated>2024-05-27T14:00:15.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Could a Dune Stillsuit Really Work?]]></title>
+        <id>https://www.youtube.com/watch?v=_L_9jBlpAC8</id>
+        <link href="https://www.youtube.com/watch?v=_L_9jBlpAC8"/>
+        <updated>2024-05-27T13:15:02.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Could a Dune Stillsuit Really Work?]]></title>
+        <id>https://www.youtube.com/watch?v=fEVQ-buurFA</id>
+        <link href="https://www.youtube.com/watch?v=fEVQ-buurFA"/>
+        <updated>2024-05-27T13:00:38.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Can Generative AI Help Your Products Look Their Best?]]></title>
         <id>https://www.youtube.com/watch?v=GYr6cqOvaB4</id>
@@ -105,42 +186,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Do You Repair a Broken Windshield?]]></title>
-        <id>https://www.youtube.com/watch?v=iCI83285yKc</id>
-        <link href="https://www.youtube.com/watch?v=iCI83285yKc"/>
-        <updated>2024-05-25T21:00:17.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Shapes Would You Make with This Wire Bending Machine?]]></title>
-        <id>https://www.youtube.com/watch?v=JwR9FN961aA</id>
-        <link href="https://www.youtube.com/watch?v=JwR9FN961aA"/>
-        <updated>2024-05-25T19:00:11.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Now Transformers actually transform]]></title>
-        <id>https://www.youtube.com/watch?v=Z8oNH3b1g5A</id>
-        <link href="https://www.youtube.com/watch?v=Z8oNH3b1g5A"/>
-        <updated>2024-05-25T18:00:13.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can wheelchairs climb staircases?]]></title>
-        <id>https://www.youtube.com/watch?v=ffFcuexxTRI</id>
-        <link href="https://www.youtube.com/watch?v=ffFcuexxTRI"/>
-        <updated>2024-05-25T16:00:25.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Japanese Trains Have Always Been One Step Ahead]]></title>
         <id>https://www.youtube.com/watch?v=orLpzaqjr6o</id>
         <link href="https://www.youtube.com/watch?v=orLpzaqjr6o"/>
@@ -156,42 +201,6 @@
         <updated>2024-05-25T14:00:31.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are family robots worth your time?]]></title>
-        <id>https://www.youtube.com/watch?v=0m4EiRKJaS8</id>
-        <link href="https://www.youtube.com/watch?v=0m4EiRKJaS8"/>
-        <updated>2024-05-25T14:00:01.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can Airbus deliver its hydrogen jet?]]></title>
-        <id>https://www.youtube.com/watch?v=uZFoOpeA3k4</id>
-        <link href="https://www.youtube.com/watch?v=uZFoOpeA3k4"/>
-        <updated>2024-05-25T13:00:48.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Would you trust a robot waiter?]]></title>
-        <id>https://www.youtube.com/watch?v=eyV668lnE50</id>
-        <link href="https://www.youtube.com/watch?v=eyV668lnE50"/>
-        <updated>2024-05-25T11:30:18.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make Mulch in Moments with Hardcore Machinery]]></title>
-        <id>https://www.youtube.com/watch?v=zg8zWgyQ-b4</id>
-        <link href="https://www.youtube.com/watch?v=zg8zWgyQ-b4"/>
-        <updated>2024-05-24T21:00:38.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -651,15 +660,6 @@
         <updated>2024-05-15T15:00:11.000Z</updated>
         <author>
             <name>Zack Freedman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Glass End Mill vs Jade  End Mill]]></title>
-        <id>https://www.youtube.com/watch?v=cdvn11PA0pE</id>
-        <link href="https://www.youtube.com/watch?v=cdvn11PA0pE"/>
-        <updated>2024-05-15T14:00:36.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1338,7 +1338,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I made custom 3D printing filament with my Logo inside!]]></title>
+        <title type="html"><![CDATA[I added TPU fibers to PLA to make it super tough!]]></title>
         <id>https://www.youtube.com/watch?v=CQ-N1fr4N0w</id>
         <link href="https://www.youtube.com/watch?v=CQ-N1fr4N0w"/>
         <updated>2024-04-20T15:00:08.000Z</updated>
@@ -1806,7 +1806,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Predict Eclipses: The Three-Body Problem]]></title>
+        <title type="html"><![CDATA[The Three-Body Problem: How to Predict Eclipses]]></title>
         <id>https://www.youtube.com/watch?v=Gjbee3Bx_xs</id>
         <link href="https://www.youtube.com/watch?v=Gjbee3Bx_xs"/>
         <updated>2024-04-05T15:07:22.000Z</updated>
@@ -2595,24 +2595,6 @@
         <updated>2024-02-29T15:00:31.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ramen Hydraulic Lift #ramen #hydraulic #hack]]></title>
-        <id>https://www.youtube.com/watch?v=9B9G1HIIyEI</id>
-        <link href="https://www.youtube.com/watch?v=9B9G1HIIyEI"/>
-        <updated>2024-02-27T18:45:52.000Z</updated>
-        <author>
-            <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Trillion Dollar Equation]]></title>
-        <id>https://www.youtube.com/watch?v=A5w-dEgIU1M</id>
-        <link href="https://www.youtube.com/watch?v=A5w-dEgIU1M"/>
-        <updated>2024-02-27T15:46:59.000Z</updated>
-        <author>
-            <name>Veritasium</name>
         </author>
     </entry>
 </feed>
