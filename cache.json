@@ -52,7 +52,7 @@
           "link": "https://www.youtube.com/watch?v=Gjbee3Bx_xs",
           "publishedOn": "2024-04-05T15:07:22.000Z",
           "wordCount": null,
-          "title": "How to Predict Eclipses: The Three-Body Problem",
+          "title": "The Three-Body Problem: How to Predict Eclipses",
           "imageUrl": null
         },
         {
@@ -346,6 +346,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-zrY7P2dVC4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-zrY7P2dVC4",
+          "publishedOn": "2024-05-29T13:00:01.000Z",
+          "wordCount": null,
+          "title": "Physics Informed Neural Networks (PINNs) [Physics Informed Machine Learning]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7Q8oNNsZGcA",
           "author": null,
           "description": "",
@@ -433,16 +443,6 @@
           "publishedOn": "2024-03-08T11:00:39.000Z",
           "wordCount": null,
           "title": "AI/ML+Physics Part 3: Designing an Architecture [Physics Informed Machine Learning]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=g-S0m2zcKUg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=g-S0m2zcKUg",
-          "publishedOn": "2024-03-01T11:00:41.000Z",
-          "wordCount": null,
-          "title": "AI/ML+Physics Part 2: Curating Training Data [Physics Informed Machine Learning]",
           "imageUrl": null
         }
       ]
@@ -1013,7 +1013,7 @@
           "link": "https://www.youtube.com/watch?v=CQ-N1fr4N0w",
           "publishedOn": "2024-04-20T15:00:08.000Z",
           "wordCount": null,
-          "title": "I made 1.75 mm Filament from 3 mm Filament!",
+          "title": "I made custom 3D printing filament with my Logo inside!",
           "imageUrl": null
         },
         {
@@ -1206,13 +1206,114 @@
       "title": "Freya Holmér",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7M-Wz4zK8oikt6ATcoTwBA",
       "siteUrl": "https://www.youtube.com/channel/UC7M-Wz4zK8oikt6ATcoTwBA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=LSNQuFEDOyQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LSNQuFEDOyQ",
+          "publishedOn": "2024-05-29T19:00:07.000Z",
+          "wordCount": null,
+          "title": "Lerp smoothing is broken - a journey of decay and delta time",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Interesting Engineering",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEuiOszNd6msGgqsD0f9YAQ",
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=YusiIGzxV30",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YusiIGzxV30",
+          "publishedOn": "2024-05-29T21:00:31.000Z",
+          "wordCount": null,
+          "title": "One Ring Interface to Rule Them All?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=EW_uE6nGamA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EW_uE6nGamA",
+          "publishedOn": "2024-05-29T20:15:00.000Z",
+          "wordCount": null,
+          "title": "Can This Grass-Processing Machine Boost Cattle Value?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=s1AtTm6V_Sw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=s1AtTm6V_Sw",
+          "publishedOn": "2024-05-29T19:45:01.000Z",
+          "wordCount": null,
+          "title": "Could Smart Water Cannon Spell the End for Traditional Sprinkler Systems?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=PTck2MPtcss",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PTck2MPtcss",
+          "publishedOn": "2024-05-29T18:15:01.000Z",
+          "wordCount": null,
+          "title": "Billionaire Bunkers: The Rise of Doomsday Prepping Among the Super-Rich",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=OBOsOoOb7tY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OBOsOoOb7tY",
+          "publishedOn": "2024-05-29T18:00:10.000Z",
+          "wordCount": null,
+          "title": "Billionaire Bunkers: The Rise of Doomsday Prepping Among the Super-Rich",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=z9dBlJhNjUw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=z9dBlJhNjUw",
+          "publishedOn": "2024-05-29T16:00:59.000Z",
+          "wordCount": null,
+          "title": "Is Drone Herding Really Viable in Cattle Farming?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9QzSNNiJDHc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9QzSNNiJDHc",
+          "publishedOn": "2024-05-29T16:00:08.000Z",
+          "wordCount": null,
+          "title": "Is Drone Herding Really Viable in Cattle Farming?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9XEOQO9D8gQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9XEOQO9D8gQ",
+          "publishedOn": "2024-05-29T13:15:00.000Z",
+          "wordCount": null,
+          "title": "Is Space Set to Become a Giant Military Warehouse?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xspXlI9lTwE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xspXlI9lTwE",
+          "publishedOn": "2024-05-29T13:00:57.000Z",
+          "wordCount": null,
+          "title": "Is Space Set to Become a Giant Military Warehouse?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=I1WW7InLx6Y",
           "author": null,
@@ -1240,7 +1341,7 @@
           "link": "https://www.youtube.com/watch?v=tYQ4HX9AKo8",
           "publishedOn": "2024-05-28T18:00:25.000Z",
           "wordCount": null,
-          "title": "Robot Delivery Door to Door?",
+          "title": "The Future of Urban Delivery Robots",
           "imageUrl": null
         },
         {
@@ -1260,7 +1361,7 @@
           "link": "https://www.youtube.com/watch?v=OtkKxuxWewk",
           "publishedOn": "2024-05-28T16:00:15.000Z",
           "wordCount": null,
-          "title": "Can Airbus' Hybrid Helicopter-Plane Prove Its Worth?",
+          "title": "Can Airbus' Hybrid Helicopter-Plane Transform Search and Rescue?",
           "imageUrl": null
         },
         {
@@ -1271,96 +1372,6 @@
           "publishedOn": "2024-05-28T13:23:25.000Z",
           "wordCount": null,
           "title": "What Can We Do with All the Space Trash Above our Heads?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ColoUr36ERg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ColoUr36ERg",
-          "publishedOn": "2024-05-28T13:07:19.000Z",
-          "wordCount": null,
-          "title": "What Can We Do with All the Space Trash Above Our Heads?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QyeGjB4uJKU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QyeGjB4uJKU",
-          "publishedOn": "2024-05-27T22:00:22.000Z",
-          "wordCount": null,
-          "title": "Can Robots Help Monitor Our Air Quality?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1fwtGdAy0Ao",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1fwtGdAy0Ao",
-          "publishedOn": "2024-05-27T20:15:00.000Z",
-          "wordCount": null,
-          "title": "Can a Laser Cleaner Make Old Bricks Look New?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Lx7A2iBJKYA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Lx7A2iBJKYA",
-          "publishedOn": "2024-05-27T19:45:00.000Z",
-          "wordCount": null,
-          "title": "How Does a Vibrating Screen Separate Stone from Dust?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_XoBxTLcAnI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_XoBxTLcAnI",
-          "publishedOn": "2024-05-27T18:00:23.000Z",
-          "wordCount": null,
-          "title": "Are Electric Helicopter Taxis the Future of Hired Transport?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aTuBp-TBWz8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aTuBp-TBWz8",
-          "publishedOn": "2024-05-27T16:15:00.000Z",
-          "wordCount": null,
-          "title": "Can Dengue Fever Be Vanquished by a Guardian Toad?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9aOAD1tayUc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9aOAD1tayUc",
-          "publishedOn": "2024-05-27T16:00:11.000Z",
-          "wordCount": null,
-          "title": "Can Dengue Fever Be Vanquished by a Guardian Toad?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_L_9jBlpAC8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_L_9jBlpAC8",
-          "publishedOn": "2024-05-27T13:15:02.000Z",
-          "wordCount": null,
-          "title": "Could a Dune Stillsuit Really Work?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fEVQ-buurFA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fEVQ-buurFA",
-          "publishedOn": "2024-05-27T13:00:38.000Z",
-          "wordCount": null,
-          "title": "Could a Dune Stillsuit Really Work?",
           "imageUrl": null
         }
       ]
@@ -1642,16 +1653,6 @@
           "publishedOn": "2024-03-09T23:54:44.000Z",
           "wordCount": null,
           "title": "The bizarre physics of tops",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WyrVmfzJ2_w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WyrVmfzJ2_w",
-          "publishedOn": "2024-02-29T22:40:41.000Z",
-          "wordCount": null,
-          "title": "How to curve a soccer ball",
           "imageUrl": null
         }
       ]
@@ -2505,6 +2506,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=rH5rcYa-SJo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rH5rcYa-SJo",
+          "publishedOn": "2024-05-29T14:00:40.000Z",
+          "wordCount": null,
+          "title": "3D Printing 17-4 Stainless - Real Parts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DwsaNNgVWTg",
           "author": null,
           "description": "",
@@ -2643,16 +2654,6 @@
           "wordCount": null,
           "title": "Setting Up the MOST Complicated Tool in CNC MACHINING",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SS7BzhLSNf0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SS7BzhLSNf0",
-          "publishedOn": "2024-05-18T14:00:17.000Z",
-          "wordCount": null,
-          "title": "You've NEVER Seen This Machining Technique",
-          "imageUrl": null
         }
       ]
     },
@@ -2661,6 +2662,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=pk3ndRT7qnA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pk3ndRT7qnA",
+          "publishedOn": "2024-05-29T18:00:22.000Z",
+          "wordCount": null,
+          "title": "How the finest oak #barrels are made for #winemaking. #Wine",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=vGCYggtKSHM",
           "author": null,
@@ -2799,16 +2810,6 @@
           "publishedOn": "2024-05-20T17:59:16.000Z",
           "wordCount": null,
           "title": "The first step to making #scissors in #India is forging the blades. #Craft",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MPCFFVAfwYc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MPCFFVAfwYc",
-          "publishedOn": "2024-05-19T15:34:39.000Z",
-          "wordCount": null,
-          "title": "Why More US Banks Could Collapse | Business Insider Explains | Business Insider",
           "imageUrl": null
         }
       ]
