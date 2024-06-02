@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-01T00:35:38.753Z</id>
+    <id>urn:2024-06-02T00:35:47.555Z</id>
     <title>osmos::feed</title>
-    <updated>2024-06-01T00:35:38.753Z</updated>
+    <updated>2024-06-02T00:35:47.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why Would Anyone Need a Walking Drone Robot?]]></title>
+        <id>https://www.youtube.com/watch?v=8NytyyA0_wg</id>
+        <link href="https://www.youtube.com/watch?v=8NytyyA0_wg"/>
+        <updated>2024-06-01T19:00:05.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SCRUBBED] Watch The First Boeing Starliner Launch with NASA Astronauts! #CFT1]]></title>
+        <id>https://www.youtube.com/watch?v=Ez3bQSz_rLM</id>
+        <link href="https://www.youtube.com/watch?v=Ez3bQSz_rLM"/>
+        <updated>2024-06-01T16:38:41.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will Exercise Steadfast Defender Prove NATO Readiness?]]></title>
+        <id>https://www.youtube.com/watch?v=jRTlswzyo3Q</id>
+        <link href="https://www.youtube.com/watch?v=jRTlswzyo3Q"/>
+        <updated>2024-06-01T16:00:40.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One-Handed Controller makes Gaming more Accessible - RMRRF2024]]></title>
+        <id>https://www.youtube.com/watch?v=Aklj7mIf6cU</id>
+        <link href="https://www.youtube.com/watch?v=Aklj7mIf6cU"/>
+        <updated>2024-06-01T15:47:00.000Z</updated>
+        <author>
+            <name>CNC Kitchen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Every Shop Needs This Tool Crib]]></title>
+        <id>https://www.youtube.com/watch?v=PKt6dl2hhNg</id>
+        <link href="https://www.youtube.com/watch?v=PKt6dl2hhNg"/>
+        <updated>2024-06-01T14:00:30.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Precision Diggers Minimize the Impact of Finding Wells?]]></title>
+        <id>https://www.youtube.com/watch?v=qf-8JhTP2Do</id>
+        <link href="https://www.youtube.com/watch?v=qf-8JhTP2Do"/>
+        <updated>2024-06-01T13:00:50.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Mission - Everyday Astronaut [2024 Channel Trailer]]]></title>
+        <id>https://www.youtube.com/watch?v=TCXbDpMePl8</id>
+        <link href="https://www.youtube.com/watch?v=TCXbDpMePl8"/>
+        <updated>2024-06-01T04:31:52.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[It's been a year and a half...]]></title>
         <id>https://www.youtube.com/watch?v=_IAeZaBpJpw</id>
@@ -258,34 +321,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Does the Melting of the "Doomsday Glacier" Mean?]]></title>
-        <id>https://www.youtube.com/watch?v=_gRpHxUIg-c</id>
-        <link href="https://www.youtube.com/watch?v=_gRpHxUIg-c"/>
-        <updated>2024-05-30T13:00:29.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can Iceland Manage Its Erupting Volcano?]]></title>
-        <id>https://www.youtube.com/watch?v=By0cynl9_As</id>
-        <link href="https://www.youtube.com/watch?v=By0cynl9_As"/>
-        <updated>2024-05-30T11:48:24.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One AI Ring Interface to Rule Them All?]]></title>
-        <id>https://www.youtube.com/watch?v=YusiIGzxV30</id>
-        <link href="https://www.youtube.com/watch?v=YusiIGzxV30"/>
-        <updated>2024-05-29T21:00:31.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lerp smoothing is broken - a journey of decay and delta time]]></title>
+        <title type="html"><![CDATA[Lerp smoothing is broken]]></title>
         <id>https://www.youtube.com/watch?v=LSNQuFEDOyQ</id>
         <link href="https://www.youtube.com/watch?v=LSNQuFEDOyQ"/>
         <updated>2024-05-29T19:00:07.000Z</updated>
@@ -672,15 +708,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Machining The First AK-50 Ever Created]]></title>
-        <id>https://www.youtube.com/watch?v=BeKxfsC8GDM</id>
-        <link href="https://www.youtube.com/watch?v=BeKxfsC8GDM"/>
-        <updated>2024-05-21T14:05:00.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This Black Hole Could be Bigger Than The Universe]]></title>
         <id>https://www.youtube.com/watch?v=71eUes30gwc</id>
         <link href="https://www.youtube.com/watch?v=71eUes30gwc"/>
@@ -726,7 +753,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cutting ANY Metal with Sparks (DIY EDM) - RMRRF2024]]></title>
+        <title type="html"><![CDATA[The Affordable Micro Shredder for 3D Printing Waste - RMRRF2024]]></title>
         <id>https://www.youtube.com/watch?v=vEFb7B1Xozg</id>
         <link href="https://www.youtube.com/watch?v=vEFb7B1Xozg"/>
         <updated>2024-05-18T15:29:40.000Z</updated>
@@ -1167,15 +1194,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Watch The First Boeing Starliner Launch with NASA Astronauts! #CFT1]]></title>
-        <id>https://www.youtube.com/watch?v=Ez3bQSz_rLM</id>
-        <link href="https://www.youtube.com/watch?v=Ez3bQSz_rLM"/>
-        <updated>2024-05-02T18:29:48.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Precision guided launcher turns noobs into pros]]></title>
         <id>https://www.youtube.com/watch?v=t9rClZrbnrQ</id>
         <link href="https://www.youtube.com/watch?v=t9rClZrbnrQ"/>
@@ -1527,7 +1545,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I made 1.75 mm Filament from 3 mm Filament!]]></title>
+        <title type="html"><![CDATA[I made custom 3D printing filament with my Logo inside!]]></title>
         <id>https://www.youtube.com/watch?v=CQ-N1fr4N0w</id>
         <link href="https://www.youtube.com/watch?v=CQ-N1fr4N0w"/>
         <updated>2024-04-20T15:00:08.000Z</updated>
@@ -2499,15 +2517,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Starship Flight 3 PRE-LAUNCH PARTY Q&A!!!]]></title>
-        <id>https://www.youtube.com/watch?v=LKYlSdBMUG4</id>
-        <link href="https://www.youtube.com/watch?v=LKYlSdBMUG4"/>
-        <updated>2024-03-14T01:34:24.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I buried myself in concrete to explain how it works]]></title>
         <id>https://www.youtube.com/watch?v=dAik8EeDyEI</id>
         <link href="https://www.youtube.com/watch?v=dAik8EeDyEI"/>
@@ -2631,15 +2640,6 @@
         <updated>2024-03-04T20:48:04.000Z</updated>
         <author>
             <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Νεαρός Έλληνας - Final Fantasy 7]]></title>
-        <id>https://www.youtube.com/watch?v=ab148ss7RwY</id>
-        <link href="https://www.youtube.com/watch?v=ab148ss7RwY"/>
-        <updated>2024-03-03T14:00:46.000Z</updated>
-        <author>
-            <name>NinjaCakeAssassin</name>
         </author>
     </entry>
 </feed>
