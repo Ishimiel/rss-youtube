@@ -475,6 +475,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=iOS5K4S4GlE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iOS5K4S4GlE",
+          "publishedOn": "2024-06-03T14:52:58.000Z",
+          "wordCount": null,
+          "title": "Who's Afraid of Gender? Judith Butler and Jack Halberstam in Conversation",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wxI7F7eSbk0",
           "author": null,
           "description": "",
@@ -612,16 +622,6 @@
           "publishedOn": "2024-03-29T14:55:10.000Z",
           "wordCount": null,
           "title": "Jonathan Nolan on What’s Really Behind Generational Ire",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=agUQ3D3ej34",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=agUQ3D3ej34",
-          "publishedOn": "2024-03-29T14:55:07.000Z",
-          "wordCount": null,
-          "title": "Jonathan Nolan and Janna Levin on What It’s Like to Fall into a Black Hole",
           "imageUrl": null
         }
       ]
@@ -993,7 +993,7 @@
           "link": "https://www.youtube.com/watch?v=Aklj7mIf6cU",
           "publishedOn": "2024-06-01T15:47:00.000Z",
           "wordCount": null,
-          "title": "One-Handed Controller makes Gaming more Accessible - RMRRF2024",
+          "title": "3D Printed Mods: Revolutionizing Gaming for Everyone",
           "imageUrl": null
         },
         {
@@ -1003,7 +1003,7 @@
           "link": "https://www.youtube.com/watch?v=vEFb7B1Xozg",
           "publishedOn": "2024-05-18T15:29:40.000Z",
           "wordCount": null,
-          "title": "Cutting ANY Metal with Sparks (DIY EDM) - RMRRF2024",
+          "title": "The Affordable Micro Shredder for 3D Printing Waste - RMRRF2024",
           "imageUrl": null
         },
         {
@@ -1070,6 +1070,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "siteUrl": "https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=MOFGG6mzseI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MOFGG6mzseI",
+          "publishedOn": "2024-06-03T20:51:26.000Z",
+          "wordCount": null,
+          "title": "Watch The First Boeing Starliner Launch with NASA Astronauts! #CFT1",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Ez3bQSz_rLM",
           "author": null,
@@ -1209,16 +1219,6 @@
           "wordCount": null,
           "title": "[4K Slow-Mo] Starship Flight 3 Supercut w/ Incredible Audio",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ixZpBOxMopc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ixZpBOxMopc",
-          "publishedOn": "2024-03-14T15:56:43.000Z",
-          "wordCount": null,
-          "title": "[4K] Watch SpaceX launch Starship, LIVE up close and personal!",
-          "imageUrl": null
         }
       ]
     },
@@ -1244,6 +1244,36 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEuiOszNd6msGgqsD0f9YAQ",
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=KZJ8fKuifUc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KZJ8fKuifUc",
+          "publishedOn": "2024-06-03T19:00:14.000Z",
+          "wordCount": null,
+          "title": "Can This Manure Vacuum Maximize Agricultural Profit?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ZKZlP5kow5U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZKZlP5kow5U",
+          "publishedOn": "2024-06-03T16:00:35.000Z",
+          "wordCount": null,
+          "title": "How Would You Use a 27,000 Lumen Tower Light?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jDK4tl_KPvA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jDK4tl_KPvA",
+          "publishedOn": "2024-06-03T13:00:30.000Z",
+          "wordCount": null,
+          "title": "Why Add More Power to a Onewheel?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=7FE4MVr-sfQ",
           "author": null,
@@ -1362,36 +1392,6 @@
           "publishedOn": "2024-05-31T13:00:41.000Z",
           "wordCount": null,
           "title": "Can Coffee Waste Make Concrete?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_3InMVKeED0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_3InMVKeED0",
-          "publishedOn": "2024-05-30T20:15:01.000Z",
-          "wordCount": null,
-          "title": "Is This Building Two-Dimensional?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EGwmcrXLm_0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EGwmcrXLm_0",
-          "publishedOn": "2024-05-30T19:45:00.000Z",
-          "wordCount": null,
-          "title": "Can Autonomous Robots Boost Farmers' Profits?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=U3Qve9K6AwE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=U3Qve9K6AwE",
-          "publishedOn": "2024-05-30T18:00:12.000Z",
-          "wordCount": null,
-          "title": "Tesla Cybertruck, Formula-E and More: VivaTech 2024's Hottest Cars",
           "imageUrl": null
         }
       ]
@@ -2013,7 +2013,7 @@
           "link": "https://www.youtube.com/watch?v=TWc48iVC8u8",
           "publishedOn": "2024-06-02T14:04:50.000Z",
           "wordCount": null,
-          "title": "How Do Cicadas Make Noise? (I filmed one in ULTRA SlowMo at 110,000 fps) - Smarter Every Day 299",
+          "title": "Actual Clickbait - Smarter Every Day 299",
           "imageUrl": null
         },
         {
@@ -2271,7 +2271,7 @@
           "link": "https://www.youtube.com/watch?v=JsmE6OzVBm4",
           "publishedOn": "2024-05-21T17:54:25.000Z",
           "wordCount": null,
-          "title": "When Halley's Comet Returns",
+          "title": "Leaving On Halley's Comet",
           "imageUrl": null
         },
         {
@@ -2546,6 +2546,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VUthSpWCoLY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VUthSpWCoLY",
+          "publishedOn": "2024-06-03T14:00:19.000Z",
+          "wordCount": null,
+          "title": "This is Precision Machining",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=JKOeZqAUx9k",
           "author": null,
           "description": "",
@@ -2683,16 +2693,6 @@
           "publishedOn": "2024-05-23T14:00:44.000Z",
           "wordCount": null,
           "title": "Why do my tools keep Breaking?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PeeHmUh8VVs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PeeHmUh8VVs",
-          "publishedOn": "2024-05-22T19:50:00.000Z",
-          "wordCount": null,
-          "title": "Woman gets stuck in CNC Machine",
           "imageUrl": null
         }
       ]
