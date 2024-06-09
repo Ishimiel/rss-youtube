@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-08T00:33:29.989Z</id>
+    <id>urn:2024-06-09T00:37:19.922Z</id>
     <title>osmos::feed</title>
-    <updated>2024-06-08T00:33:29.989Z</updated>
+    <updated>2024-06-09T00:37:19.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Can a Pressurized Hose System Save You Water?]]></title>
+        <id>https://www.youtube.com/watch?v=LDUHRmDEOOg</id>
+        <link href="https://www.youtube.com/watch?v=LDUHRmDEOOg"/>
+        <updated>2024-06-08T19:00:16.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Put Metal in Microwave Oven?! #experiment #technology #funny]]></title>
+        <id>https://www.youtube.com/watch?v=2wuCJYVQC0k</id>
+        <link href="https://www.youtube.com/watch?v=2wuCJYVQC0k"/>
+        <updated>2024-06-08T17:12:33.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flying Car, or Modular Vehicle Solution?]]></title>
+        <id>https://www.youtube.com/watch?v=EJpGJTRchJw</id>
+        <link href="https://www.youtube.com/watch?v=EJpGJTRchJw"/>
+        <updated>2024-06-08T16:00:10.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Insane Engineering of the F-117 Nighthawk]]></title>
+        <id>https://www.youtube.com/watch?v=1zjcnnx7igc</id>
+        <link href="https://www.youtube.com/watch?v=1zjcnnx7igc"/>
+        <updated>2024-06-08T15:00:02.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eliminating Chips with Genius Solution]]></title>
+        <id>https://www.youtube.com/watch?v=-TET2hOLy2o</id>
+        <link href="https://www.youtube.com/watch?v=-TET2hOLy2o"/>
+        <updated>2024-06-08T14:00:00.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's the Impact of Automatic Tea Picking?]]></title>
+        <id>https://www.youtube.com/watch?v=-AaTmW-Y_NQ</id>
+        <link href="https://www.youtube.com/watch?v=-AaTmW-Y_NQ"/>
+        <updated>2024-06-08T13:00:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How America's Largest Buffet Survived The Death Of All-You-Can-Eats | Big Business]]></title>
         <id>https://www.youtube.com/watch?v=TXg1mYN2tbw</id>
@@ -69,7 +123,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[America's Failing Bridges: The US Infrastructure Nightmare]]></title>
+        <title type="html"><![CDATA[Why Do America’s Bridges Keep Collapsing?]]></title>
         <id>https://www.youtube.com/watch?v=URytvUh9Kpc</id>
         <link href="https://www.youtube.com/watch?v=URytvUh9Kpc"/>
         <updated>2024-06-07T14:54:00.000Z</updated>
@@ -339,39 +393,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Do Autonomous Vehicles Work?]]></title>
-        <id>https://www.youtube.com/watch?v=ovIKtAlZIlE</id>
-        <link href="https://www.youtube.com/watch?v=ovIKtAlZIlE"/>
-        <updated>2024-06-04T18:15:03.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Self-Driving Cars: How Autonomous Vehicles are Changing]]></title>
-        <id>https://www.youtube.com/watch?v=Y3aTCisvxYs</id>
-        <link href="https://www.youtube.com/watch?v=Y3aTCisvxYs"/>
-        <updated>2024-06-04T16:49:36.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How $50,000 #French oak barrels are made to age #wine. #Winemaking]]></title>
         <id>https://www.youtube.com/watch?v=DF0n8urtANo</id>
         <link href="https://www.youtube.com/watch?v=DF0n8urtANo"/>
         <updated>2024-06-04T16:00:17.000Z</updated>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Are Machines Better Suited to Precision Gluing?]]></title>
-        <id>https://www.youtube.com/watch?v=BOs0luhW5oA</id>
-        <link href="https://www.youtube.com/watch?v=BOs0luhW5oA"/>
-        <updated>2024-06-04T16:00:16.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -762,15 +789,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Making the Best Machinist Stones in the World]]></title>
-        <id>https://www.youtube.com/watch?v=4U76zL9GcFk</id>
-        <link href="https://www.youtube.com/watch?v=4U76zL9GcFk"/>
-        <updated>2024-05-28T14:00:07.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Your Hidden Superpower]]></title>
         <id>https://www.youtube.com/watch?v=itBBsQRv0EU</id>
         <link href="https://www.youtube.com/watch?v=itBBsQRv0EU"/>
@@ -1032,7 +1050,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Five of RMRRF’s Most Insanely Creative Models YOU Can Print!]]></title>
+        <title type="html"><![CDATA[YOU Can Print RMRRF’s Most Insane Models for FREE!]]></title>
         <id>https://www.youtube.com/watch?v=GobDWJS7haw</id>
         <link href="https://www.youtube.com/watch?v=GobDWJS7haw"/>
         <updated>2024-05-15T15:00:11.000Z</updated>
@@ -1491,7 +1509,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Liftoff of the Vulcan Rocket - Smarter Every Day 297]]></title>
+        <title type="html"><![CDATA[Why Only 2 of The Vulcan Rocket Nozzles Can Move - Smarter Every Day 297]]></title>
         <id>https://www.youtube.com/watch?v=Bh7Xf3Ox7K8</id>
         <link href="https://www.youtube.com/watch?v=Bh7Xf3Ox7K8"/>
         <updated>2024-04-28T14:00:05.000Z</updated>
@@ -1698,7 +1716,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I added TPU fibers to PLA to make it super tough!]]></title>
+        <title type="html"><![CDATA[I made custom 3D printing filament with my Logo inside!]]></title>
         <id>https://www.youtube.com/watch?v=CQ-N1fr4N0w</id>
         <link href="https://www.youtube.com/watch?v=CQ-N1fr4N0w"/>
         <updated>2024-04-20T15:00:08.000Z</updated>
@@ -2085,15 +2103,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Turkish Electricals Are Almost TOO CLEAN]]></title>
-        <id>https://www.youtube.com/watch?v=WwFuB1GRKz4</id>
-        <link href="https://www.youtube.com/watch?v=WwFuB1GRKz4"/>
-        <updated>2024-04-08T16:01:36.000Z</updated>
-        <author>
-            <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Interesting 666-digit Numbers - Numberphile]]></title>
         <id>https://www.youtube.com/watch?v=KXO2l7Kh60A</id>
         <link href="https://www.youtube.com/watch?v=KXO2l7Kh60A"/>
@@ -2154,15 +2163,6 @@
         <updated>2024-04-05T15:01:01.000Z</updated>
         <author>
             <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The F-35s Stealthy Radar is the key to its success]]></title>
-        <id>https://www.youtube.com/watch?v=Dr-HlIR481I</id>
-        <link href="https://www.youtube.com/watch?v=Dr-HlIR481I"/>
-        <updated>2024-04-05T15:00:18.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
         </author>
     </entry>
     <entry>
