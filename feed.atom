@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-10T00:34:47.434Z</id>
+    <id>urn:2024-06-11T00:33:24.680Z</id>
     <title>osmos::feed</title>
-    <updated>2024-06-10T00:34:47.434Z</updated>
+    <updated>2024-06-11T00:33:24.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Getting off the Couch and on the Water]]></title>
+        <id>https://www.youtube.com/watch?v=EhYCtp1g8sw</id>
+        <link href="https://www.youtube.com/watch?v=EhYCtp1g8sw"/>
+        <updated>2024-06-10T20:00:05.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Would You Ride the Sky Train?]]></title>
+        <id>https://www.youtube.com/watch?v=a2kGc8LdNtU</id>
+        <link href="https://www.youtube.com/watch?v=a2kGc8LdNtU"/>
+        <updated>2024-06-10T19:00:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jadeite is so rare that a single bangle can sell for over $3 million. #Jadeite #gemstone #Jade]]></title>
+        <id>https://www.youtube.com/watch?v=X0Z_bv2xF9Y</id>
+        <link href="https://www.youtube.com/watch?v=X0Z_bv2xF9Y"/>
+        <updated>2024-06-10T18:01:32.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starship Flight 4 // 4k Slow Mo & Clean Audio]]></title>
+        <id>https://www.youtube.com/watch?v=wZligwZMODU</id>
+        <link href="https://www.youtube.com/watch?v=wZligwZMODU"/>
+        <updated>2024-06-10T16:02:30.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Would You Ride the Pedal-Powered Monorail?]]></title>
+        <id>https://www.youtube.com/watch?v=aG8Lz6Bpv0E</id>
+        <link href="https://www.youtube.com/watch?v=aG8Lz6Bpv0E"/>
+        <updated>2024-06-10T16:00:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The final moments before launch]]></title>
+        <id>https://www.youtube.com/watch?v=SLdoQr2egkU</id>
+        <link href="https://www.youtube.com/watch?v=SLdoQr2egkU"/>
+        <updated>2024-06-10T15:00:21.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My First Screen-Acting Role. 2003]]></title>
+        <id>https://www.youtube.com/watch?v=kXeX8jjwtPU</id>
+        <link href="https://www.youtube.com/watch?v=kXeX8jjwtPU"/>
+        <updated>2024-06-10T14:55:06.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printing the Strongest Parts Possible]]></title>
+        <id>https://www.youtube.com/watch?v=FDcJfZH3Gb4</id>
+        <link href="https://www.youtube.com/watch?v=FDcJfZH3Gb4"/>
+        <updated>2024-06-10T14:00:18.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Can Laser Hair Bleaching be Safe?]]></title>
+        <id>https://www.youtube.com/watch?v=2lhKXTlURpc</id>
+        <link href="https://www.youtube.com/watch?v=2lhKXTlURpc"/>
+        <updated>2024-06-10T13:00:04.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We Are Making a VIDEO GAME]]></title>
         <id>https://www.youtube.com/watch?v=3DFE8gZe9bA</id>
@@ -258,15 +339,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can Karbike Electric Bikes Beat The Urban Sprawl?]]></title>
-        <id>https://www.youtube.com/watch?v=jS6LOBvhhfI</id>
-        <link href="https://www.youtube.com/watch?v=jS6LOBvhhfI"/>
-        <updated>2024-06-06T16:00:42.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[4K] Watch SpaceX Starship FLIGHT 4 launch and reenter LIVE!]]></title>
         <id>https://www.youtube.com/watch?v=8VESowgMbjA</id>
         <link href="https://www.youtube.com/watch?v=8VESowgMbjA"/>
@@ -312,15 +384,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is Smart Packaging Technology Better Than Humans?]]></title>
-        <id>https://www.youtube.com/watch?v=gEJaSGtVGlE</id>
-        <link href="https://www.youtube.com/watch?v=gEJaSGtVGlE"/>
-        <updated>2024-06-06T13:00:42.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Starship Flight 4 PRE-LAUNCH PARTY Q&A!!!]]></title>
         <id>https://www.youtube.com/watch?v=lCBxOYOhG74</id>
         <link href="https://www.youtube.com/watch?v=lCBxOYOhG74"/>
@@ -345,15 +408,6 @@
         <updated>2024-06-05T19:00:14.000Z</updated>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can the BolaWrap Provide Non-Lethal Incapacitation?]]></title>
-        <id>https://www.youtube.com/watch?v=IHYj606l0jo</id>
-        <link href="https://www.youtube.com/watch?v=IHYj606l0jo"/>
-        <updated>2024-06-05T19:00:08.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -726,15 +780,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D Printing 17-4 Stainless - Real Parts]]></title>
-        <id>https://www.youtube.com/watch?v=rH5rcYa-SJo</id>
-        <link href="https://www.youtube.com/watch?v=rH5rcYa-SJo"/>
-        <updated>2024-05-29T14:00:40.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Physics Informed Neural Networks (PINNs) [Physics Informed Machine Learning]]]></title>
         <id>https://www.youtube.com/watch?v=-zrY7P2dVC4</id>
         <link href="https://www.youtube.com/watch?v=-zrY7P2dVC4"/>
@@ -757,15 +802,6 @@
         <id>https://www.youtube.com/watch?v=_MDRatMgQog</id>
         <link href="https://www.youtube.com/watch?v=_MDRatMgQog"/>
         <updated>2024-05-28T20:00:20.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The #FDA #recalled more #food products last year than it had during the previous five years.]]></title>
-        <id>https://www.youtube.com/watch?v=sXvzxF-2GO8</id>
-        <link href="https://www.youtube.com/watch?v=sXvzxF-2GO8"/>
-        <updated>2024-05-28T18:50:27.000Z</updated>
         <author>
             <name>Business Insider</name>
         </author>
@@ -1689,15 +1725,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[... and why!]]></title>
-        <id>https://www.youtube.com/watch?v=fzHqQPwyQHQ</id>
-        <link href="https://www.youtube.com/watch?v=fzHqQPwyQHQ"/>
-        <updated>2024-04-22T20:43:12.000Z</updated>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The World’s First Intercity Maglev Train]]></title>
         <id>https://www.youtube.com/watch?v=72yYvLLryus</id>
         <link href="https://www.youtube.com/watch?v=72yYvLLryus"/>
@@ -1981,15 +2008,6 @@
         <id>https://www.youtube.com/watch?v=y9U8CyBD1wQ</id>
         <link href="https://www.youtube.com/watch?v=y9U8CyBD1wQ"/>
         <updated>2024-04-13T19:13:20.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Battle of Britain was Won]]></title>
-        <id>https://www.youtube.com/watch?v=U0u_QyurfXA</id>
-        <link href="https://www.youtube.com/watch?v=U0u_QyurfXA"/>
-        <updated>2024-04-13T18:45:31.000Z</updated>
         <author>
             <name>Real Engineering</name>
         </author>
@@ -2310,15 +2328,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build the Box from Pallets but Think Outside It]]></title>
-        <id>https://www.youtube.com/watch?v=ksUMK9Tk-Kk</id>
-        <link href="https://www.youtube.com/watch?v=ksUMK9Tk-Kk"/>
-        <updated>2024-03-30T16:59:13.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Jonathan Nolan on Interstellar’s Prescience on Black Holes]]></title>
         <id>https://www.youtube.com/watch?v=nsp7i2Sr1ZA</id>
         <link href="https://www.youtube.com/watch?v=nsp7i2Sr1ZA"/>
@@ -2505,15 +2514,6 @@
         <updated>2024-03-21T20:56:45.000Z</updated>
         <author>
             <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ANNOUNCEMENT! I have a new podcast!!! #Spacewalkpodcast]]></title>
-        <id>https://www.youtube.com/watch?v=vUFa-J0Z4Sw</id>
-        <link href="https://www.youtube.com/watch?v=vUFa-J0Z4Sw"/>
-        <updated>2024-03-20T16:14:18.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
         </author>
     </entry>
     <entry>
