@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-15T00:33:01.656Z</id>
+    <id>urn:2024-06-16T00:36:48.519Z</id>
     <title>osmos::feed</title>
-    <updated>2024-06-15T00:33:01.656Z</updated>
+    <updated>2024-06-16T00:36:48.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Easy Peanut Sauce                                #peanutsauce #peanutbutter #peanuts]]></title>
+        <id>https://www.youtube.com/watch?v=mw-RxmW4qdU</id>
+        <link href="https://www.youtube.com/watch?v=mw-RxmW4qdU"/>
+        <updated>2024-06-15T19:25:16.000Z</updated>
+        <author>
+            <name>You Suck At Cooking</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Do Plates Make Loading and Unloading Easier?]]></title>
+        <id>https://www.youtube.com/watch?v=Ey6AYTvHjbE</id>
+        <link href="https://www.youtube.com/watch?v=Ey6AYTvHjbE"/>
+        <updated>2024-06-15T19:00:09.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Dusty Robots Make Drywall a Breeze?]]></title>
+        <id>https://www.youtube.com/watch?v=RXFUsntiLvY</id>
+        <link href="https://www.youtube.com/watch?v=RXFUsntiLvY"/>
+        <updated>2024-06-15T16:00:22.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here’s What Went Down At WWDC | Business Insider Explains | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=2wtX5syA1ME</id>
+        <link href="https://www.youtube.com/watch?v=2wtX5syA1ME"/>
+        <updated>2024-06-15T15:00:02.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesmerizing Toolpath - 8 AXIS AT ONCE]]></title>
+        <id>https://www.youtube.com/watch?v=IWVA0hatQWM</id>
+        <link href="https://www.youtube.com/watch?v=IWVA0hatQWM"/>
+        <updated>2024-06-15T14:00:12.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maximizing Modular Van Space]]></title>
+        <id>https://www.youtube.com/watch?v=jUj53EdfS6o</id>
+        <link href="https://www.youtube.com/watch?v=jUj53EdfS6o"/>
+        <updated>2024-06-15T13:00:46.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bubble Gum Color Science]]></title>
+        <id>https://www.youtube.com/watch?v=cV1rhDVqB6E</id>
+        <link href="https://www.youtube.com/watch?v=cV1rhDVqB6E"/>
+        <updated>2024-06-15T09:13:28.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Modular Construction Opened Up]]></title>
         <id>https://www.youtube.com/watch?v=0WRGzuBSN_w</id>
@@ -348,15 +411,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Does the World Depend on Automated Lettuce?]]></title>
-        <id>https://www.youtube.com/watch?v=X-TtEuOFvrY</id>
-        <link href="https://www.youtube.com/watch?v=X-TtEuOFvrY"/>
-        <updated>2024-06-11T16:00:19.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[With #foodrecalls on the rise, here's how to protect yourself. #Health #FDA]]></title>
         <id>https://www.youtube.com/watch?v=L0Lz4_wsAHk</id>
         <link href="https://www.youtube.com/watch?v=L0Lz4_wsAHk"/>
@@ -381,24 +435,6 @@
         <updated>2024-06-11T15:00:05.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Next Evolution in Humanoid Robots]]></title>
-        <id>https://www.youtube.com/watch?v=yHJzq8gyZj4</id>
-        <link href="https://www.youtube.com/watch?v=yHJzq8gyZj4"/>
-        <updated>2024-06-11T14:57:41.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9 Humanoid Robots That Are Shaping the Future of Work]]></title>
-        <id>https://www.youtube.com/watch?v=NIjJ00HYCcM</id>
-        <link href="https://www.youtube.com/watch?v=NIjJ00HYCcM"/>
-        <updated>2024-06-11T14:36:04.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -627,15 +663,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How The Military Feeds Hungry Marines, Army Soldiers, West Point Cadets, And More | Marathon]]></title>
-        <id>https://www.youtube.com/watch?v=oYrsULo6K-I</id>
-        <link href="https://www.youtube.com/watch?v=oYrsULo6K-I"/>
-        <updated>2024-06-06T15:00:51.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Neural ODEs (NODEs) [Physics Informed Machine Learning]]]></title>
         <id>https://www.youtube.com/watch?v=nJphsM4obOk</id>
         <link href="https://www.youtube.com/watch?v=nJphsM4obOk"/>
@@ -741,15 +768,6 @@
         <updated>2024-06-04T15:30:28.000Z</updated>
         <author>
             <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Art of Precision Boring]]></title>
-        <id>https://www.youtube.com/watch?v=Agawge-UDcc</id>
-        <link href="https://www.youtube.com/watch?v=Agawge-UDcc"/>
-        <updated>2024-06-04T15:00:12.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1722,15 +1740,6 @@
         <updated>2024-04-26T21:14:54.000Z</updated>
         <author>
             <name>Physics Girl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Words That Look Similar ON YOUR LIPS]]></title>
-        <id>https://www.youtube.com/watch?v=7ByBcO9w6QQ</id>
-        <link href="https://www.youtube.com/watch?v=7ByBcO9w6QQ"/>
-        <updated>2024-04-26T18:10:57.000Z</updated>
-        <author>
-            <name>Vsauce</name>
         </author>
     </entry>
     <entry>
