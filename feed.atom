@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-23T00:36:23.260Z</id>
+    <id>urn:2024-06-24T00:35:16.281Z</id>
     <title>osmos::feed</title>
-    <updated>2024-06-23T00:36:23.260Z</updated>
+    <updated>2024-06-24T00:35:16.281Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Can a Rack and Pinion Sliding Table Help Manufacturers?]]></title>
+        <id>https://www.youtube.com/watch?v=Wfbwrhrz4oc</id>
+        <link href="https://www.youtube.com/watch?v=Wfbwrhrz4oc"/>
+        <updated>2024-06-23T19:00:19.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixing the Broken Battens]]></title>
+        <id>https://www.youtube.com/watch?v=H5aqMHuBfs8</id>
+        <link href="https://www.youtube.com/watch?v=H5aqMHuBfs8"/>
+        <updated>2024-06-23T18:39:01.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can a Wearable Inflatable Save Your Life?]]></title>
+        <id>https://www.youtube.com/watch?v=I0alBytsnVg</id>
+        <link href="https://www.youtube.com/watch?v=I0alBytsnVg"/>
+        <updated>2024-06-23T16:00:15.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monster Drilling a Monster Steel Part]]></title>
+        <id>https://www.youtube.com/watch?v=EC-6wYP1hfU</id>
+        <link href="https://www.youtube.com/watch?v=EC-6wYP1hfU"/>
+        <updated>2024-06-23T14:00:11.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's Next for Ride-Along Mowers?]]></title>
+        <id>https://www.youtube.com/watch?v=LIGqovnOEO8</id>
+        <link href="https://www.youtube.com/watch?v=LIGqovnOEO8"/>
+        <updated>2024-06-23T13:00:17.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is An Autonomous Robot the Solution to River Pollution?]]></title>
         <id>https://www.youtube.com/watch?v=j90LhuzIE0Q</id>
@@ -330,39 +375,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Would You Not Use Automatic Soft Grippers?]]></title>
-        <id>https://www.youtube.com/watch?v=baY6k9kricQ</id>
-        <link href="https://www.youtube.com/watch?v=baY6k9kricQ"/>
-        <updated>2024-06-19T16:00:29.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[5-Axis CNC Machining a Monster 1200lb Part]]></title>
         <id>https://www.youtube.com/watch?v=fMi5lJ2VSrQ</id>
         <link href="https://www.youtube.com/watch?v=fMi5lJ2VSrQ"/>
         <updated>2024-06-19T14:00:36.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Can the Contoro Automatic Unloading Robot Aid Logistics?]]></title>
-        <id>https://www.youtube.com/watch?v=T-y2fwE9S-E</id>
-        <link href="https://www.youtube.com/watch?v=T-y2fwE9S-E"/>
-        <updated>2024-06-19T13:00:33.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Do You Go About Repairing Wind Turbine Blades?]]></title>
-        <id>https://www.youtube.com/watch?v=-qBjitACkkg</id>
-        <link href="https://www.youtube.com/watch?v=-qBjitACkkg"/>
-        <updated>2024-06-18T19:00:00.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -669,15 +687,6 @@
         <updated>2024-06-11T18:20:33.000Z</updated>
         <author>
             <name>The Engineering Mindset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best CNC Workholding System?]]></title>
-        <id>https://www.youtube.com/watch?v=-L6u1Za8f8Q</id>
-        <link href="https://www.youtube.com/watch?v=-L6u1Za8f8Q"/>
-        <updated>2024-06-11T17:00:00.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1572,7 +1581,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New European rockets! Inside RFA & ISAR's Rocket Factories!]]></title>
+        <title type="html"><![CDATA[Inside RFA & ISAR's Incredible Rocket Factories!]]></title>
         <id>https://www.youtube.com/watch?v=LRFnGnJzRJQ</id>
         <link href="https://www.youtube.com/watch?v=LRFnGnJzRJQ"/>
         <updated>2024-05-07T16:00:11.000Z</updated>
@@ -1671,7 +1680,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Terrifying Real Science Of Avalanches]]></title>
+        <title type="html"><![CDATA[Why Snow Is So Deadly]]></title>
         <id>https://www.youtube.com/watch?v=Zce-V0YVzeI</id>
         <link href="https://www.youtube.com/watch?v=Zce-V0YVzeI"/>
         <updated>2024-05-03T16:12:18.000Z</updated>
@@ -2019,15 +2028,6 @@
         <updated>2024-04-19T20:00:06.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QIDI Q1 3D Printer - Is it for you?]]></title>
-        <id>https://www.youtube.com/watch?v=4gurT7wcsr0</id>
-        <link href="https://www.youtube.com/watch?v=4gurT7wcsr0"/>
-        <updated>2024-04-19T14:29:24.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
         </author>
     </entry>
     <entry>
@@ -2541,15 +2541,6 @@
         <updated>2024-03-27T14:52:03.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We aimed our tracking telescope at #SpaceX's #Starship... here's what we saw]]></title>
-        <id>https://www.youtube.com/watch?v=zTDeu8q6JzI</id>
-        <link href="https://www.youtube.com/watch?v=zTDeu8q6JzI"/>
-        <updated>2024-03-25T16:54:35.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
         </author>
     </entry>
 </feed>
