@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-24T00:35:16.281Z</id>
+    <id>urn:2024-06-25T00:33:16.960Z</id>
     <title>osmos::feed</title>
-    <updated>2024-06-24T00:35:16.281Z</updated>
+    <updated>2024-06-25T00:33:16.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Watch SpaceX Launch Falcon Heavy For GOES-U!]]></title>
+        <id>https://www.youtube.com/watch?v=227WGGFeDoc</id>
+        <link href="https://www.youtube.com/watch?v=227WGGFeDoc"/>
+        <updated>2024-06-24T22:42:57.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This kitchen serves 400,000 guests for the largest horse race in the US. #kentuckyderby #foodprep]]></title>
+        <id>https://www.youtube.com/watch?v=MlfFF_TX9Gs</id>
+        <link href="https://www.youtube.com/watch?v=MlfFF_TX9Gs"/>
+        <updated>2024-06-24T20:00:06.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Only Dog Still Alive From The 90s]]></title>
+        <id>https://www.youtube.com/watch?v=iV_VB05iT9k</id>
+        <link href="https://www.youtube.com/watch?v=iV_VB05iT9k"/>
+        <updated>2024-06-24T19:02:12.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's The Use of a Fire Extinguisher Ball?]]></title>
+        <id>https://www.youtube.com/watch?v=OyKjGmWSqJ0</id>
+        <link href="https://www.youtube.com/watch?v=OyKjGmWSqJ0"/>
+        <updated>2024-06-24T19:00:11.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customers travel from all over the US to try this #Pennsylvania #buffet #breakfast.]]></title>
+        <id>https://www.youtube.com/watch?v=7WAp8dB8kQU</id>
+        <link href="https://www.youtube.com/watch?v=7WAp8dB8kQU"/>
+        <updated>2024-06-24T16:11:20.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can You Beat the Frisbee Shooter?]]></title>
+        <id>https://www.youtube.com/watch?v=k_ndKl45kdI</id>
+        <link href="https://www.youtube.com/watch?v=k_ndKl45kdI"/>
+        <updated>2024-06-24T16:00:46.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efficiently Roughing 7050 Aluminum]]></title>
+        <id>https://www.youtube.com/watch?v=EIgQqS7l2ok</id>
+        <link href="https://www.youtube.com/watch?v=EIgQqS7l2ok"/>
+        <updated>2024-06-24T14:00:10.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who Needs a State-of-the-Art Stone Crusher?]]></title>
+        <id>https://www.youtube.com/watch?v=RjXhcaORHj8</id>
+        <link href="https://www.youtube.com/watch?v=RjXhcaORHj8"/>
+        <updated>2024-06-24T13:00:24.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Can a Rack and Pinion Sliding Table Help Manufacturers?]]></title>
         <id>https://www.youtube.com/watch?v=Wfbwrhrz4oc</id>
@@ -87,7 +159,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Korea's Mossy Seaweed (Gamtae) Won Over Michelin-Starred Chefs Around The World | So Expensive]]></title>
+        <title type="html"><![CDATA[Why Michelin-Starred Chefs Are Paying Premium For One Of Korea's Rarest Seaweeds | So Expensive]]></title>
         <id>https://www.youtube.com/watch?v=uSEOfPg0Ki4</id>
         <link href="https://www.youtube.com/watch?v=uSEOfPg0Ki4"/>
         <updated>2024-06-22T15:00:50.000Z</updated>
@@ -303,15 +375,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Do You Effectively Test a Third Thumb?]]></title>
-        <id>https://www.youtube.com/watch?v=AvGlFy2Uc8U</id>
-        <link href="https://www.youtube.com/watch?v=AvGlFy2Uc8U"/>
-        <updated>2024-06-20T16:00:07.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[INCREDIBLE Techniques Behind Machining Long Spline Shafts]]></title>
         <id>https://www.youtube.com/watch?v=sIAi12urtXA</id>
         <link href="https://www.youtube.com/watch?v=sIAi12urtXA"/>
@@ -339,30 +402,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Does The L-UMTAS System Add To Your Defence Posture?]]></title>
-        <id>https://www.youtube.com/watch?v=XU3RorBkpoU</id>
-        <link href="https://www.youtube.com/watch?v=XU3RorBkpoU"/>
-        <updated>2024-06-20T13:00:30.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rotational Recomposition]]></title>
         <id>https://www.youtube.com/watch?v=X7UpfTooZMU</id>
         <link href="https://www.youtube.com/watch?v=X7UpfTooZMU"/>
         <updated>2024-06-19T22:51:05.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automatic Pallet Management Is Key to Modern Logistics]]></title>
-        <id>https://www.youtube.com/watch?v=ciynLuvfUdE</id>
-        <link href="https://www.youtube.com/watch?v=ciynLuvfUdE"/>
-        <updated>2024-06-19T19:00:26.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -528,15 +573,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Le Maison du Pastel has been making these pastels the same way for 300 years. #Pastel #Handcrafted]]></title>
-        <id>https://www.youtube.com/watch?v=5vG2M_sodLQ</id>
-        <link href="https://www.youtube.com/watch?v=5vG2M_sodLQ"/>
-        <updated>2024-06-14T17:00:03.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I made a realistic Peppa Pig]]></title>
         <id>https://www.youtube.com/watch?v=YtvUKdP0X0s</id>
         <link href="https://www.youtube.com/watch?v=YtvUKdP0X0s"/>
@@ -552,15 +588,6 @@
         <updated>2024-06-14T14:00:00.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This stone is rarer than a diamond and the hunt for it is so deadly. #bloodjade #mining #jadeite]]></title>
-        <id>https://www.youtube.com/watch?v=tUdsCb76ZnE</id>
-        <link href="https://www.youtube.com/watch?v=tUdsCb76ZnE"/>
-        <updated>2024-06-13T17:00:41.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -669,15 +696,6 @@
         <updated>2024-06-12T14:40:29.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machining Fails Part 2 - Machinist Reacts]]></title>
-        <id>https://www.youtube.com/watch?v=npT9Ir6vTQA</id>
-        <link href="https://www.youtube.com/watch?v=npT9Ir6vTQA"/>
-        <updated>2024-06-12T14:00:48.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1446,15 +1464,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Funny Epigrams]]></title>
-        <id>https://www.youtube.com/watch?v=4vbdDtbgkr8</id>
-        <link href="https://www.youtube.com/watch?v=4vbdDtbgkr8"/>
-        <updated>2024-05-13T22:39:33.000Z</updated>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Radical Map of Topological Quantum Computing]]></title>
         <id>https://www.youtube.com/watch?v=ihZXl33t8So</id>
         <link href="https://www.youtube.com/watch?v=ihZXl33t8So"/>
@@ -1680,7 +1689,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Snow Is So Deadly]]></title>
+        <title type="html"><![CDATA[How To Survive An Avalanche]]></title>
         <id>https://www.youtube.com/watch?v=Zce-V0YVzeI</id>
         <link href="https://www.youtube.com/watch?v=Zce-V0YVzeI"/>
         <updated>2024-05-03T16:12:18.000Z</updated>
@@ -2346,7 +2355,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Three-Body Problem: How to Predict Eclipses]]></title>
+        <title type="html"><![CDATA[How to Predict Eclipses: The Three-Body Problem]]></title>
         <id>https://www.youtube.com/watch?v=Gjbee3Bx_xs</id>
         <link href="https://www.youtube.com/watch?v=Gjbee3Bx_xs"/>
         <updated>2024-04-05T15:07:22.000Z</updated>
