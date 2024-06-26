@@ -1,17 +1,125 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-25T00:33:16.960Z</id>
+    <id>urn:2024-06-26T00:33:19.574Z</id>
     <title>osmos::feed</title>
-    <updated>2024-06-25T00:33:16.960Z</updated>
+    <updated>2024-06-26T00:33:19.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Watch SpaceX Launch Falcon Heavy For GOES-U!]]></title>
         <id>https://www.youtube.com/watch?v=227WGGFeDoc</id>
         <link href="https://www.youtube.com/watch?v=227WGGFeDoc"/>
-        <updated>2024-06-24T22:42:57.000Z</updated>
+        <updated>2024-06-25T22:25:56.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why People Prefer More Pain]]></title>
+        <id>https://www.youtube.com/watch?v=v4r71kEdYME</id>
+        <link href="https://www.youtube.com/watch?v=v4r71kEdYME"/>
+        <updated>2024-06-25T20:23:20.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Can Automatic Chest Compression Help Paramedics - and Patients?]]></title>
+        <id>https://www.youtube.com/watch?v=CfziIL8hVyQ</id>
+        <link href="https://www.youtube.com/watch?v=CfziIL8hVyQ"/>
+        <updated>2024-06-25T19:00:05.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Amazing Reason We See Faces in Objects: Pareidolia]]></title>
+        <id>https://www.youtube.com/watch?v=JzibO7C6Pjw</id>
+        <link href="https://www.youtube.com/watch?v=JzibO7C6Pjw"/>
+        <updated>2024-06-25T18:00:10.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can a Laser Cleaner Change Your Workflow?]]></title>
+        <id>https://www.youtube.com/watch?v=y7bFBMALc5M</id>
+        <link href="https://www.youtube.com/watch?v=y7bFBMALc5M"/>
+        <updated>2024-06-25T16:01:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Pareidolia Works!]]></title>
+        <id>https://www.youtube.com/watch?v=IS53NYAWO6k</id>
+        <link href="https://www.youtube.com/watch?v=IS53NYAWO6k"/>
+        <updated>2024-06-25T15:58:56.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the #KentuckyDerby started. #USHistory #HorseRacing]]></title>
+        <id>https://www.youtube.com/watch?v=xT5C_XAusn4</id>
+        <link href="https://www.youtube.com/watch?v=xT5C_XAusn4"/>
+        <updated>2024-06-25T15:57:11.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solving Seven - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=Ki-M1DJIZsk</id>
+        <link href="https://www.youtube.com/watch?v=Ki-M1DJIZsk"/>
+        <updated>2024-06-25T15:51:42.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Incredible Spline Shaft Machining]]></title>
+        <id>https://www.youtube.com/watch?v=qQtZIg3C4o4</id>
+        <link href="https://www.youtube.com/watch?v=qQtZIg3C4o4"/>
+        <updated>2024-06-25T14:00:43.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brilliantly Complex CNC Machining Cell Produces PERFECT Parts]]></title>
+        <id>https://www.youtube.com/watch?v=cARpDl8PaCE</id>
+        <link href="https://www.youtube.com/watch?v=cARpDl8PaCE"/>
+        <updated>2024-06-25T14:00:34.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Disease is Deadlier Than The Plague]]></title>
+        <id>https://www.youtube.com/watch?v=GFLb5h2O2Ww</id>
+        <link href="https://www.youtube.com/watch?v=GFLb5h2O2Ww"/>
+        <updated>2024-06-25T14:00:01.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[See Starship and the Orbital Launch Pad w/ Elon Musk]]></title>
+        <id>https://www.youtube.com/watch?v=InJOlT6WdHc</id>
+        <link href="https://www.youtube.com/watch?v=InJOlT6WdHc"/>
+        <updated>2024-06-25T13:56:12.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Should You Invest in an Escape Ladder?]]></title>
+        <id>https://www.youtube.com/watch?v=3Yc3GJk9QqE</id>
+        <link href="https://www.youtube.com/watch?v=3Yc3GJk9QqE"/>
+        <updated>2024-06-25T13:00:07.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -204,30 +312,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Would You Ride the Waterfall Swing?]]></title>
-        <id>https://www.youtube.com/watch?v=YdivXY3OI5g</id>
-        <link href="https://www.youtube.com/watch?v=YdivXY3OI5g"/>
-        <updated>2024-06-21T19:45:00.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What it costs to enter a #race #horse in the #KentuckyDerby.]]></title>
         <id>https://www.youtube.com/watch?v=8-AyR80xR6o</id>
         <link href="https://www.youtube.com/watch?v=8-AyR80xR6o"/>
         <updated>2024-06-21T17:56:39.000Z</updated>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is This the Skyscraper of New York's Future?]]></title>
-        <id>https://www.youtube.com/watch?v=OB1_HvOthxQ</id>
-        <link href="https://www.youtube.com/watch?v=OB1_HvOthxQ"/>
-        <updated>2024-06-21T17:00:17.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -294,15 +384,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why is the Line Failing?]]></title>
-        <id>https://www.youtube.com/watch?v=DtZn4MDgfes</id>
-        <link href="https://www.youtube.com/watch?v=DtZn4MDgfes"/>
-        <updated>2024-06-21T13:15:01.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Transparent 3D Printing!]]></title>
         <id>https://www.youtube.com/watch?v=8KRk4RCi29o</id>
         <link href="https://www.youtube.com/watch?v=8KRk4RCi29o"/>
@@ -312,30 +393,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[End of The Line? Why Saudi Arabia's Linear City Isn't Working]]></title>
-        <id>https://www.youtube.com/watch?v=pRYxyuGMDaw</id>
-        <link href="https://www.youtube.com/watch?v=pRYxyuGMDaw"/>
-        <updated>2024-06-21T12:51:44.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Make Stupid Decisions Win Stupid Prizes]]></title>
         <id>https://www.youtube.com/watch?v=QUr_QSzlIl0</id>
         <link href="https://www.youtube.com/watch?v=QUr_QSzlIl0"/>
         <updated>2024-06-21T11:03:34.000Z</updated>
         <author>
             <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can a Push-Button Lifting Platform Reduce Workplace Injury?]]></title>
-        <id>https://www.youtube.com/watch?v=i5t3Iugj-X0</id>
-        <link href="https://www.youtube.com/watch?v=i5t3Iugj-X0"/>
-        <updated>2024-06-20T19:00:19.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -564,15 +627,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can India's Rare Toddy Liquor Become The Next Mezcal? | Big Business]]></title>
-        <id>https://www.youtube.com/watch?v=CnuVykT0CT4</id>
-        <link href="https://www.youtube.com/watch?v=CnuVykT0CT4"/>
-        <updated>2024-06-14T18:23:37.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I made a realistic Peppa Pig]]></title>
         <id>https://www.youtube.com/watch?v=YtvUKdP0X0s</id>
         <link href="https://www.youtube.com/watch?v=YtvUKdP0X0s"/>
@@ -597,24 +651,6 @@
         <updated>2024-06-13T16:01:04.000Z</updated>
         <author>
             <name>Internet Pitstop</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extreme Rigidity Without a Vise]]></title>
-        <id>https://www.youtube.com/watch?v=ormrawHGryc</id>
-        <link href="https://www.youtube.com/watch?v=ormrawHGryc"/>
-        <updated>2024-06-13T14:00:44.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Biggest 3D Printing Machine We Have Ever Had]]></title>
-        <id>https://www.youtube.com/watch?v=YeVkTvPkIpc</id>
-        <link href="https://www.youtube.com/watch?v=YeVkTvPkIpc"/>
-        <updated>2024-06-13T14:00:24.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1689,7 +1725,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Survive An Avalanche]]></title>
+        <title type="html"><![CDATA[Avalanche Expert Explains How To Survive One]]></title>
         <id>https://www.youtube.com/watch?v=Zce-V0YVzeI</id>
         <link href="https://www.youtube.com/watch?v=Zce-V0YVzeI"/>
         <updated>2024-05-03T16:12:18.000Z</updated>
@@ -2148,15 +2184,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[There Are Thousands of Alien Empires in The Milky Way]]></title>
-        <id>https://www.youtube.com/watch?v=L_JQOH1tEEA</id>
-        <link href="https://www.youtube.com/watch?v=L_JQOH1tEEA"/>
-        <updated>2024-04-16T14:00:03.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why Circuit Breakers DON'T Protect People (electric shocks)]]></title>
         <id>https://www.youtube.com/watch?v=gqEu9t8HwW0</id>
         <link href="https://www.youtube.com/watch?v=gqEu9t8HwW0"/>
@@ -2526,30 +2553,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[SCRUBBED] Watch the LAST Delta IV Heavy launch EVER!]]></title>
-        <id>https://www.youtube.com/watch?v=dViXwBU6ncA</id>
-        <link href="https://www.youtube.com/watch?v=dViXwBU6ncA"/>
-        <updated>2024-03-28T19:01:43.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why is this number everywhere?]]></title>
         <id>https://www.youtube.com/watch?v=d6iQrh2TK98</id>
         <link href="https://www.youtube.com/watch?v=d6iQrh2TK98"/>
         <updated>2024-03-28T18:48:10.000Z</updated>
         <author>
             <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cryptography's Mathematical 'Worlds': Which One Do We Live In?]]></title>
-        <id>https://www.youtube.com/watch?v=RjzSFa03i2U</id>
-        <link href="https://www.youtube.com/watch?v=RjzSFa03i2U"/>
-        <updated>2024-03-27T14:52:03.000Z</updated>
-        <author>
-            <name>Quanta Magazine</name>
         </author>
     </entry>
 </feed>
