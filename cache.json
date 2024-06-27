@@ -669,6 +669,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vItztAgaMCg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vItztAgaMCg",
+          "publishedOn": "2024-06-26T13:01:03.000Z",
+          "wordCount": null,
+          "title": "Sara Dietschy Gets a 3D Printer!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8KRk4RCi29o",
           "author": null,
           "description": "",
@@ -806,16 +816,6 @@
           "publishedOn": "2024-05-09T03:53:33.000Z",
           "wordCount": null,
           "title": "Pantheon HS3 IN STUDIO LIVE!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Zhv-FfBKino",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Zhv-FfBKino",
-          "publishedOn": "2024-05-03T13:00:25.000Z",
-          "wordCount": null,
-          "title": "My OrangeStorm Giga is Dead",
           "imageUrl": null
         }
       ]
@@ -1027,7 +1027,7 @@
           "link": "https://www.youtube.com/watch?v=InJOlT6WdHc",
           "publishedOn": "2024-06-25T13:56:12.000Z",
           "wordCount": null,
-          "title": "See Starship and the Orbital Launch Pad w/ Elon Musk",
+          "title": "Interview w/ Elon Musk under world’s largest rocket, Starship, with post launch follow up!",
           "imageUrl": null
         },
         {
@@ -1185,6 +1185,36 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=IA7cDGNqMW8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IA7cDGNqMW8",
+          "publishedOn": "2024-06-26T19:00:07.000Z",
+          "wordCount": null,
+          "title": "What Are the Advantages of an Autonomously-Balanced EV?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TQGmsEZSR2c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TQGmsEZSR2c",
+          "publishedOn": "2024-06-26T16:00:26.000Z",
+          "wordCount": null,
+          "title": "How Can You Get Instant Insulation?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=3fwyV5tKye8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3fwyV5tKye8",
+          "publishedOn": "2024-06-26T13:00:05.000Z",
+          "wordCount": null,
+          "title": "What's The SpaceX Escape Slide Like?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=CfziIL8hVyQ",
           "author": null,
           "description": "",
@@ -1302,36 +1332,6 @@
           "publishedOn": "2024-06-22T19:00:17.000Z",
           "wordCount": null,
           "title": "Is An Autonomous Robot the Solution to River Pollution?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=699etGj4rTM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=699etGj4rTM",
-          "publishedOn": "2024-06-22T16:00:05.000Z",
-          "wordCount": null,
-          "title": "Would You Use an Olive Beater to Harvest Your Fruits?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CoN-MAcbQS8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CoN-MAcbQS8",
-          "publishedOn": "2024-06-22T13:00:11.000Z",
-          "wordCount": null,
-          "title": "Do You Need a Multi-Range Sprinkler?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4p7V054lbJQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4p7V054lbJQ",
-          "publishedOn": "2024-06-21T21:00:04.000Z",
-          "wordCount": null,
-          "title": "Is the John Deere 1270G Harvester the Only Tool You Need for Forest Efficiency?",
           "imageUrl": null
         }
       ]
@@ -1603,16 +1603,6 @@
           "publishedOn": "2024-04-17T23:35:12.000Z",
           "wordCount": null,
           "title": "Easy home experiment - laser bounces through Jello-O",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ah3TW101YLo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ah3TW101YLo",
-          "publishedOn": "2024-03-28T20:35:15.000Z",
-          "wordCount": null,
-          "title": "Do microwaves leak radiation?",
           "imageUrl": null
         }
       ]
@@ -2064,7 +2054,7 @@
           "link": "https://www.youtube.com/watch?v=Zce-V0YVzeI",
           "publishedOn": "2024-05-03T16:12:18.000Z",
           "wordCount": null,
-          "title": "Avalanche Expert Explains How To Survive One",
+          "title": "The Terrifying Real Science Of Avalanches",
           "imageUrl": null
         },
         {
@@ -2116,16 +2106,6 @@
           "wordCount": null,
           "title": "Congress is about to make a huge mistake for astronomy #SaveChandra",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=d6iQrh2TK98",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=d6iQrh2TK98",
-          "publishedOn": "2024-03-28T18:48:10.000Z",
-          "wordCount": null,
-          "title": "Why is this number everywhere?",
-          "imageUrl": null
         }
       ]
     },
@@ -2134,6 +2114,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "siteUrl": "https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=FHB8Bn3tYdY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FHB8Bn3tYdY",
+          "publishedOn": "2024-06-26T15:32:21.000Z",
+          "wordCount": null,
+          "title": "The Sizes Of History",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=iV_VB05iT9k",
           "author": null,
@@ -2273,16 +2263,6 @@
           "wordCount": null,
           "title": "Leaving On Halley's Comet",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2Kue118zBBU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2Kue118zBBU",
-          "publishedOn": "2024-05-16T19:32:57.000Z",
-          "wordCount": null,
-          "title": "Hexagonal Pythagoras",
-          "imageUrl": null
         }
       ]
     },
@@ -2298,7 +2278,7 @@
           "link": "https://www.youtube.com/watch?v=FE88IaYwkl8",
           "publishedOn": "2024-06-09T16:00:10.000Z",
           "wordCount": null,
-          "title": "I 3D Printed a Nerf Blaster in SOLID CHOCOLATE - Will it EXPLODE?",
+          "title": "I 3D Printed Nerf Blasters in Solid Chocolate - Will they EXPLODE?",
           "imageUrl": null
         },
         {
@@ -2466,6 +2446,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=oUbIFJ5zA_4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oUbIFJ5zA_4",
+          "publishedOn": "2024-06-26T14:15:07.000Z",
+          "wordCount": null,
+          "title": "Is this the Most Efficient Way to Machine this Part?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qQtZIg3C4o4",
           "author": null,
           "description": "",
@@ -2604,16 +2594,6 @@
           "wordCount": null,
           "title": "Mesmerizing Toolpath - 8 AXIS AT ONCE",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-Z4rzurSePs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-Z4rzurSePs",
-          "publishedOn": "2024-06-14T14:00:00.000Z",
-          "wordCount": null,
-          "title": "Turn & Mill in a Dual Turret Lathe? Unconventional Machining",
-          "imageUrl": null
         }
       ]
     },
@@ -2622,6 +2602,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=WYsu8IgIOD8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WYsu8IgIOD8",
+          "publishedOn": "2024-06-26T18:58:40.000Z",
+          "wordCount": null,
+          "title": "It takes 24 to 36 hours to make one of the most expensive #cricket bats. #india #woodwork",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ABl6KwmgSII",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ABl6KwmgSII",
+          "publishedOn": "2024-06-26T16:28:25.000Z",
+          "wordCount": null,
+          "title": "How a 300-year-old #pastel maker has stayed in business. #Art #LaMaison",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=xT5C_XAusn4",
           "author": null,
@@ -2699,7 +2699,7 @@
           "link": "https://www.youtube.com/watch?v=8Rs4SswSQkA",
           "publishedOn": "2024-06-21T15:00:12.000Z",
           "wordCount": null,
-          "title": "Why The Deadliest Job In The World Is Essential To Keep Bridges And Piers Standing | Risky Business",
+          "title": "Why Underwater Welding  Is The Deadliest Job In The World | Risky Business",
           "imageUrl": null
         },
         {
@@ -2750,26 +2750,6 @@
           "publishedOn": "2024-06-17T23:17:09.000Z",
           "wordCount": null,
           "title": "7 Of The Most Faked Seafoods In The World | Big Business | Business Insider",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2wtX5syA1ME",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2wtX5syA1ME",
-          "publishedOn": "2024-06-15T15:00:02.000Z",
-          "wordCount": null,
-          "title": "Here’s What Went Down At WWDC | Business Insider Explains | Business Insider",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uaU2D1OCTXI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uaU2D1OCTXI",
-          "publishedOn": "2024-06-14T19:00:30.000Z",
-          "wordCount": null,
-          "title": "90% of the #jade mined in Myanmar is smuggled into #China, where it's considered a sacred stone.",
           "imageUrl": null
         }
       ]
