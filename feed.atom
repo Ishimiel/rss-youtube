@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-30T00:37:39.707Z</id>
+    <id>urn:2024-07-01T00:38:56.721Z</id>
     <title>osmos::feed</title>
-    <updated>2024-06-30T00:37:39.707Z</updated>
+    <updated>2024-07-01T00:38:56.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Secret Ritual of the Apparrotini             #carrot #apple #zucchini #guys]]></title>
+        <id>https://www.youtube.com/watch?v=Jr8sb1M2jKg</id>
+        <link href="https://www.youtube.com/watch?v=Jr8sb1M2jKg"/>
+        <updated>2024-06-30T21:21:50.000Z</updated>
+        <author>
+            <name>You Suck At Cooking</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does the Mechanization of Ayran Work?]]></title>
+        <id>https://www.youtube.com/watch?v=PCAcDhN2ZQA</id>
+        <link href="https://www.youtube.com/watch?v=PCAcDhN2ZQA"/>
+        <updated>2024-06-30T19:00:11.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Do You Grow the Most Technological Tomatoes?]]></title>
+        <id>https://www.youtube.com/watch?v=kD8yyzNK_H4</id>
+        <link href="https://www.youtube.com/watch?v=kD8yyzNK_H4"/>
+        <updated>2024-06-30T16:00:39.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Japan's Priciest Shiitake Mushrooms Fuel The $740 Million Global Shiitake Industry]]></title>
+        <id>https://www.youtube.com/watch?v=XuJ5HsV8mlQ</id>
+        <link href="https://www.youtube.com/watch?v=XuJ5HsV8mlQ"/>
+        <updated>2024-06-30T15:00:34.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNC Machining Complex Aerospace Parts]]></title>
+        <id>https://www.youtube.com/watch?v=V6sRJXs3p2Q</id>
+        <link href="https://www.youtube.com/watch?v=V6sRJXs3p2Q"/>
+        <updated>2024-06-30T14:00:20.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Erdős–Woods Numbers - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=uJtxlErlx0U</id>
+        <link href="https://www.youtube.com/watch?v=uJtxlErlx0U"/>
+        <updated>2024-06-30T13:17:49.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's the Best Way to Get Long-Distance Fertilization?]]></title>
+        <id>https://www.youtube.com/watch?v=AAuIpXV07FM</id>
+        <link href="https://www.youtube.com/watch?v=AAuIpXV07FM"/>
+        <updated>2024-06-30T13:00:08.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Does a Portable Laser Engraver Work?]]></title>
         <id>https://www.youtube.com/watch?v=esv3muX0aBQ</id>
@@ -33,7 +96,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SLS 3D Printing for the Masses - Micronics]]></title>
+        <title type="html"><![CDATA[Affordable SLS 3D Printing! Is Micronics Machine for You?]]></title>
         <id>https://www.youtube.com/watch?v=qWtcxYk0LCA</id>
         <link href="https://www.youtube.com/watch?v=qWtcxYk0LCA"/>
         <updated>2024-06-29T15:29:51.000Z</updated>
@@ -447,15 +510,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Can You Get Instant Insulation?]]></title>
-        <id>https://www.youtube.com/watch?v=TQGmsEZSR2c</id>
-        <link href="https://www.youtube.com/watch?v=TQGmsEZSR2c"/>
-        <updated>2024-06-26T16:00:26.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Sizes Of History]]></title>
         <id>https://www.youtube.com/watch?v=FHB8Bn3tYdY</id>
         <link href="https://www.youtube.com/watch?v=FHB8Bn3tYdY"/>
@@ -483,15 +537,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What's The SpaceX Escape Slide Like?]]></title>
-        <id>https://www.youtube.com/watch?v=3fwyV5tKye8</id>
-        <link href="https://www.youtube.com/watch?v=3fwyV5tKye8"/>
-        <updated>2024-06-26T13:00:05.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Watch SpaceX Launch Falcon Heavy For GOES-U!]]></title>
         <id>https://www.youtube.com/watch?v=227WGGFeDoc</id>
         <link href="https://www.youtube.com/watch?v=227WGGFeDoc"/>
@@ -507,15 +552,6 @@
         <updated>2024-06-25T20:23:20.000Z</updated>
         <author>
             <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Can Automatic Chest Compression Help Paramedics - and Patients?]]></title>
-        <id>https://www.youtube.com/watch?v=CfziIL8hVyQ</id>
-        <link href="https://www.youtube.com/watch?v=CfziIL8hVyQ"/>
-        <updated>2024-06-25T19:00:05.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -708,15 +744,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Underwater Welding  Is The Deadliest Job In The World | Risky Business]]></title>
-        <id>https://www.youtube.com/watch?v=8Rs4SswSQkA</id>
-        <link href="https://www.youtube.com/watch?v=8Rs4SswSQkA"/>
-        <updated>2024-06-21T15:00:12.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I made a Realistic Pacman]]></title>
         <id>https://www.youtube.com/watch?v=BzXwxgykflY</id>
         <link href="https://www.youtube.com/watch?v=BzXwxgykflY"/>
@@ -820,15 +847,6 @@
         <id>https://www.youtube.com/watch?v=fMi5lJ2VSrQ</id>
         <link href="https://www.youtube.com/watch?v=fMi5lJ2VSrQ"/>
         <updated>2024-06-19T14:00:36.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Precision Matters... Advanced Tool Inspection for Precision Machining]]></title>
-        <id>https://www.youtube.com/watch?v=2uQNWZMCFyk</id>
-        <link href="https://www.youtube.com/watch?v=2uQNWZMCFyk"/>
-        <updated>2024-06-18T15:03:21.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
         </author>
@@ -1896,7 +1914,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Avalanche Expert Explains How To Survive One]]></title>
+        <title type="html"><![CDATA[The Terrifying Real Science Of Avalanches]]></title>
         <id>https://www.youtube.com/watch?v=Zce-V0YVzeI</id>
         <link href="https://www.youtube.com/watch?v=Zce-V0YVzeI"/>
         <updated>2024-05-03T16:12:18.000Z</updated>
@@ -2514,33 +2532,6 @@
         <updated>2024-04-04T10:00:42.000Z</updated>
         <author>
             <name>AlphaPhoenix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[But what is a GPT?  Visual intro to transformers | Chapter 5, Deep Learning]]></title>
-        <id>https://www.youtube.com/watch?v=wjZofJX0v4M</id>
-        <link href="https://www.youtube.com/watch?v=wjZofJX0v4M"/>
-        <updated>2024-04-01T19:13:57.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Do Eclipses Travel WEST to EAST?]]></title>
-        <id>https://www.youtube.com/watch?v=ujYYlXP12m4</id>
-        <link href="https://www.youtube.com/watch?v=ujYYlXP12m4"/>
-        <updated>2024-04-01T15:41:58.000Z</updated>
-        <author>
-            <name>minutephysics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magic Chess Tours (with Knights and Kings) - Numberphile]]></title>
-        <id>https://www.youtube.com/watch?v=RytNZ2btZxE</id>
-        <link href="https://www.youtube.com/watch?v=RytNZ2btZxE"/>
-        <updated>2024-04-01T14:50:09.000Z</updated>
-        <author>
-            <name>Numberphile</name>
         </author>
     </entry>
 </feed>
