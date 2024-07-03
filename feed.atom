@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-02T00:33:58.691Z</id>
+    <id>urn:2024-07-03T00:33:59.466Z</id>
     <title>osmos::feed</title>
-    <updated>2024-07-02T00:33:58.691Z</updated>
+    <updated>2024-07-03T00:33:59.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Worst Book I've Read So Far This Year]]></title>
+        <id>https://www.youtube.com/watch?v=jDjJdJSvyBg</id>
+        <link href="https://www.youtube.com/watch?v=jDjJdJSvyBg"/>
+        <updated>2024-07-02T21:36:41.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solid 60 with Felicia Day LIVE!]]></title>
+        <id>https://www.youtube.com/watch?v=s-qwCIlddqE</id>
+        <link href="https://www.youtube.com/watch?v=s-qwCIlddqE"/>
+        <updated>2024-07-02T19:35:37.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Can You Do with 3D Renders of Futuristic Buildings?]]></title>
+        <id>https://www.youtube.com/watch?v=FuYjuQ8Tlq4</id>
+        <link href="https://www.youtube.com/watch?v=FuYjuQ8Tlq4"/>
+        <updated>2024-07-02T19:00:05.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feni #liquor is prepared in only one part of #India. #alcohol]]></title>
+        <id>https://www.youtube.com/watch?v=mYNUkMvZ3Qk</id>
+        <link href="https://www.youtube.com/watch?v=mYNUkMvZ3Qk"/>
+        <updated>2024-07-02T17:05:07.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Falkirk Wheel Takes Ingenious Engineering to the Next Level]]></title>
+        <id>https://www.youtube.com/watch?v=cdj99Lw2pm4</id>
+        <link href="https://www.youtube.com/watch?v=cdj99Lw2pm4"/>
+        <updated>2024-07-02T16:00:36.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNC Grinding Titanium with Silicon Carbide]]></title>
+        <id>https://www.youtube.com/watch?v=eRCyH9Xdkrw</id>
+        <link href="https://www.youtube.com/watch?v=eRCyH9Xdkrw"/>
+        <updated>2024-07-02T15:19:26.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winnie the Math Whiz (with Danica McKellar) - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=rbuByrFTDBs</id>
+        <link href="https://www.youtube.com/watch?v=rbuByrFTDBs"/>
+        <updated>2024-07-02T14:07:53.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machining Large Parts to Perfect Spec in Minutes | HELLER HF5500]]></title>
+        <id>https://www.youtube.com/watch?v=UaBzmZiGONg</id>
+        <link href="https://www.youtube.com/watch?v=UaBzmZiGONg"/>
+        <updated>2024-07-02T14:00:22.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are the Benefits of Vertical Farming?]]></title>
+        <id>https://www.youtube.com/watch?v=tKuJAExfsso</id>
+        <link href="https://www.youtube.com/watch?v=tKuJAExfsso"/>
+        <updated>2024-07-02T13:01:01.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BMW's Figure 01: Partnering with or Replacing Human Workers?]]></title>
+        <id>https://www.youtube.com/watch?v=8cgrmU4rSTU</id>
+        <link href="https://www.youtube.com/watch?v=8cgrmU4rSTU"/>
+        <updated>2024-07-02T08:48:57.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How do #KentuckyDerby #horses train for the big #race?]]></title>
         <id>https://www.youtube.com/watch?v=C-Vlco2BL1M</id>
@@ -285,33 +375,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Making Boats Fly]]></title>
-        <id>https://www.youtube.com/watch?v=IDUAkQ3_lkU</id>
-        <link href="https://www.youtube.com/watch?v=IDUAkQ3_lkU"/>
-        <updated>2024-06-28T13:45:02.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Hydrofoils are Making a Comeback]]></title>
-        <id>https://www.youtube.com/watch?v=W2fxbeQ6Vdw</id>
-        <link href="https://www.youtube.com/watch?v=W2fxbeQ6Vdw"/>
-        <updated>2024-06-28T13:30:15.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Does an Automatic Log-Turner Change Your Wooden Posts?]]></title>
-        <id>https://www.youtube.com/watch?v=b_kS6rHU3YM</id>
-        <link href="https://www.youtube.com/watch?v=b_kS6rHU3YM"/>
-        <updated>2024-06-28T13:00:40.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWESOME Project on the Anycubic Kobra 3!]]></title>
         <id>https://www.youtube.com/watch?v=6cFOOzAoupo</id>
         <link href="https://www.youtube.com/watch?v=6cFOOzAoupo"/>
@@ -417,15 +480,6 @@
         <updated>2024-06-27T20:01:52.000Z</updated>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Does Laser Tattoo Removal Work?]]></title>
-        <id>https://www.youtube.com/watch?v=CoDN-CcO48E</id>
-        <link href="https://www.youtube.com/watch?v=CoDN-CcO48E"/>
-        <updated>2024-06-27T19:00:05.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -717,15 +771,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Michelin-Starred Chefs Are Paying Premium For One Of Korea's Rarest Seaweeds | So Expensive]]></title>
-        <id>https://www.youtube.com/watch?v=uSEOfPg0Ki4</id>
-        <link href="https://www.youtube.com/watch?v=uSEOfPg0Ki4"/>
-        <updated>2024-06-22T15:00:50.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[First Look Inside SpaceX's Starfactory w/ Elon Musk]]></title>
         <id>https://www.youtube.com/watch?v=aFqjoCbZ4ik</id>
         <link href="https://www.youtube.com/watch?v=aFqjoCbZ4ik"/>
@@ -807,30 +852,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[INCREDIBLE Techniques Behind Machining Long Spline Shafts]]></title>
-        <id>https://www.youtube.com/watch?v=sIAi12urtXA</id>
-        <link href="https://www.youtube.com/watch?v=sIAi12urtXA"/>
-        <updated>2024-06-20T14:00:47.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Our Brains Are Not Special. But Why Are We? #shorts]]></title>
         <id>https://www.youtube.com/watch?v=_z7DkeP5WNg</id>
         <link href="https://www.youtube.com/watch?v=_z7DkeP5WNg"/>
         <updated>2024-06-20T14:00:29.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CNC Machining Dice]]></title>
-        <id>https://www.youtube.com/watch?v=E4IDzJ9j7IM</id>
-        <link href="https://www.youtube.com/watch?v=E4IDzJ9j7IM"/>
-        <updated>2024-06-20T14:00:16.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1500,15 +1527,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Puzzle I Was Never Able To Solve]]></title>
-        <id>https://www.youtube.com/watch?v=r57QMWdG1Uo</id>
-        <link href="https://www.youtube.com/watch?v=r57QMWdG1Uo"/>
-        <updated>2024-05-23T20:32:23.000Z</updated>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why This Japanese Train is Revolutionary]]></title>
         <id>https://www.youtube.com/watch?v=XtUQo-tN3Ps</id>
         <link href="https://www.youtube.com/watch?v=XtUQo-tN3Ps"/>
@@ -1770,15 +1788,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SOVOL SV08 - First Print LIVE!]]></title>
-        <id>https://www.youtube.com/watch?v=Mu4QJiGaR-g</id>
-        <link href="https://www.youtube.com/watch?v=Mu4QJiGaR-g"/>
-        <updated>2024-05-10T01:14:43.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This German rocket company is building rocket engines with car parts!]]></title>
         <id>https://www.youtube.com/watch?v=2fl09-WlGuA</id>
         <link href="https://www.youtube.com/watch?v=2fl09-WlGuA"/>
@@ -1914,7 +1923,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Snow Is So Deadly]]></title>
+        <title type="html"><![CDATA[How To Survive An Avalanche]]></title>
         <id>https://www.youtube.com/watch?v=Zce-V0YVzeI</id>
         <link href="https://www.youtube.com/watch?v=Zce-V0YVzeI"/>
         <updated>2024-05-03T16:12:18.000Z</updated>
@@ -2523,15 +2532,6 @@
         <updated>2024-04-04T20:28:58.000Z</updated>
         <author>
             <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How do fluids actually mix?]]></title>
-        <id>https://www.youtube.com/watch?v=qm5AHAb0SmY</id>
-        <link href="https://www.youtube.com/watch?v=qm5AHAb0SmY"/>
-        <updated>2024-04-04T10:00:42.000Z</updated>
-        <author>
-            <name>AlphaPhoenix</name>
         </author>
     </entry>
 </feed>
