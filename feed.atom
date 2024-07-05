@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-04T00:33:43.398Z</id>
+    <id>urn:2024-07-05T00:33:51.240Z</id>
     <title>osmos::feed</title>
-    <updated>2024-07-04T00:33:43.398Z</updated>
+    <updated>2024-07-05T00:33:51.240Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Do You Need to Deploy the Infamous Back Scratcher?]]></title>
+        <id>https://www.youtube.com/watch?v=RdaHsnCl_K4</id>
+        <link href="https://www.youtube.com/watch?v=RdaHsnCl_K4"/>
+        <updated>2024-07-04T19:00:09.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some Surprising Eponyms]]></title>
+        <id>https://www.youtube.com/watch?v=6uCop3Ug5OQ</id>
+        <link href="https://www.youtube.com/watch?v=6uCop3Ug5OQ"/>
+        <updated>2024-07-04T17:57:58.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are Fruit Picker Drones Always a Good Idea?]]></title>
+        <id>https://www.youtube.com/watch?v=5okv_6H0JTQ</id>
+        <link href="https://www.youtube.com/watch?v=5okv_6H0JTQ"/>
+        <updated>2024-07-04T16:00:04.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Axis Finishing Propeller]]></title>
+        <id>https://www.youtube.com/watch?v=feKk2tjLcXs</id>
+        <link href="https://www.youtube.com/watch?v=feKk2tjLcXs"/>
+        <updated>2024-07-04T15:00:43.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why the F-117’s has Weird Exhausts]]></title>
+        <id>https://www.youtube.com/watch?v=IjJXHGZ2yTA</id>
+        <link href="https://www.youtube.com/watch?v=IjJXHGZ2yTA"/>
+        <updated>2024-07-04T15:00:15.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grinding a CUSTOM Multi-Slot Tool | Deburs Edges Automatically]]></title>
+        <id>https://www.youtube.com/watch?v=zz8z9kjIAfg</id>
+        <link href="https://www.youtube.com/watch?v=zz8z9kjIAfg"/>
+        <updated>2024-07-04T14:00:51.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Deadly Power of a Coin-Sized Black Hole #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=n2sn4kkkGQM</id>
+        <link href="https://www.youtube.com/watch?v=n2sn4kkkGQM"/>
+        <updated>2024-07-04T14:00:42.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Amazing Engineering of the Largest Vessel Ever]]></title>
+        <id>https://www.youtube.com/watch?v=GjirqIuf2zE</id>
+        <link href="https://www.youtube.com/watch?v=GjirqIuf2zE"/>
+        <updated>2024-07-04T13:45:02.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[To What Extent Is 3D Rendering Believable?]]></title>
+        <id>https://www.youtube.com/watch?v=_z58Tf3QfXU</id>
+        <link href="https://www.youtube.com/watch?v=_z58Tf3QfXU"/>
+        <updated>2024-07-04T13:00:41.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Big X - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=21Ho32fAEEM</id>
+        <link href="https://www.youtube.com/watch?v=21Ho32fAEEM"/>
+        <updated>2024-07-04T12:06:44.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is the Nature of Consciousness? | Podcast: The Joy of Why]]></title>
         <id>https://www.youtube.com/watch?v=Jd0b3Mf5580</id>
@@ -303,24 +393,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Does the Mechanization of Ayran Work?]]></title>
-        <id>https://www.youtube.com/watch?v=PCAcDhN2ZQA</id>
-        <link href="https://www.youtube.com/watch?v=PCAcDhN2ZQA"/>
-        <updated>2024-06-30T19:00:11.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Do You Grow the Most Technological Tomatoes?]]></title>
-        <id>https://www.youtube.com/watch?v=kD8yyzNK_H4</id>
-        <link href="https://www.youtube.com/watch?v=kD8yyzNK_H4"/>
-        <updated>2024-06-30T16:00:39.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Japan's Priciest Shiitake Mushrooms Fuel The $740 Million Global Shiitake Industry]]></title>
         <id>https://www.youtube.com/watch?v=XuJ5HsV8mlQ</id>
         <link href="https://www.youtube.com/watch?v=XuJ5HsV8mlQ"/>
@@ -345,24 +417,6 @@
         <updated>2024-06-30T13:17:49.000Z</updated>
         <author>
             <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's the Best Way to Get Long-Distance Fertilization?]]></title>
-        <id>https://www.youtube.com/watch?v=AAuIpXV07FM</id>
-        <link href="https://www.youtube.com/watch?v=AAuIpXV07FM"/>
-        <updated>2024-06-30T13:00:08.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Does a Portable Laser Engraver Work?]]></title>
-        <id>https://www.youtube.com/watch?v=esv3muX0aBQ</id>
-        <link href="https://www.youtube.com/watch?v=esv3muX0aBQ"/>
-        <updated>2024-06-29T19:00:17.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -717,7 +771,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I caused people more pain. And they preferred it.]]></title>
+        <title type="html"><![CDATA[Why People Prefer More Pain]]></title>
         <id>https://www.youtube.com/watch?v=v4r71kEdYME</id>
         <link href="https://www.youtube.com/watch?v=v4r71kEdYME"/>
         <updated>2024-06-25T20:23:20.000Z</updated>
@@ -798,15 +852,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Monster Drilling a Monster Steel Part]]></title>
-        <id>https://www.youtube.com/watch?v=EC-6wYP1hfU</id>
-        <link href="https://www.youtube.com/watch?v=EC-6wYP1hfU"/>
-        <updated>2024-06-23T14:00:11.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Making Oil Fly #electronic #technology #experiment #funny]]></title>
         <id>https://www.youtube.com/watch?v=ItP0tstTKbo</id>
         <link href="https://www.youtube.com/watch?v=ItP0tstTKbo"/>
@@ -831,15 +876,6 @@
         <updated>2024-06-22T14:03:50.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Insane Depth of Cut on Swiss Lathe]]></title>
-        <id>https://www.youtube.com/watch?v=UC91pidyK5Q</id>
-        <link href="https://www.youtube.com/watch?v=UC91pidyK5Q"/>
-        <updated>2024-06-22T14:00:29.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1500,15 +1536,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Got The Terrible Maps Book]]></title>
-        <id>https://www.youtube.com/watch?v=wG27fUgUe60</id>
-        <link href="https://www.youtube.com/watch?v=wG27fUgUe60"/>
-        <updated>2024-05-28T11:31:02.000Z</updated>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Memorial Day - Get out and exercise your Freedom]]></title>
         <id>https://www.youtube.com/watch?v=7VUdvsWQc1Q</id>
         <link href="https://www.youtube.com/watch?v=7VUdvsWQc1Q"/>
@@ -1968,7 +1995,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Avalanche Expert Explains How To Survive One]]></title>
+        <title type="html"><![CDATA[The Terrifying Real Science Of Avalanches]]></title>
         <id>https://www.youtube.com/watch?v=Zce-V0YVzeI</id>
         <link href="https://www.youtube.com/watch?v=Zce-V0YVzeI"/>
         <updated>2024-05-03T16:12:18.000Z</updated>
@@ -2247,15 +2274,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The World’s First Intercity Maglev Train]]></title>
-        <id>https://www.youtube.com/watch?v=72yYvLLryus</id>
-        <link href="https://www.youtube.com/watch?v=72yYvLLryus"/>
-        <updated>2024-04-22T20:32:26.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Cast Iron #cooking #castiron]]></title>
         <id>https://www.youtube.com/watch?v=1ATNxsoWLqE</id>
         <link href="https://www.youtube.com/watch?v=1ATNxsoWLqE"/>
@@ -2307,15 +2325,6 @@
         <updated>2024-04-18T18:37:55.000Z</updated>
         <author>
             <name>NinjaCakeAssassin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let’s Go on a Fantastical Journey #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=S-gRXjKUnVs</id>
-        <link href="https://www.youtube.com/watch?v=S-gRXjKUnVs"/>
-        <updated>2024-04-18T14:00:30.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
     <entry>
@@ -2496,42 +2505,6 @@
         <updated>2024-04-07T12:53:54.000Z</updated>
         <author>
             <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apocalyptic Numbers - Numberphile]]></title>
-        <id>https://www.youtube.com/watch?v=0LkBwCSMsX4</id>
-        <link href="https://www.youtube.com/watch?v=0LkBwCSMsX4"/>
-        <updated>2024-04-06T11:35:57.000Z</updated>
-        <author>
-            <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI and Quantum Computing: Glimpsing the Near Future]]></title>
-        <id>https://www.youtube.com/watch?v=gZZan4JMwk4</id>
-        <link href="https://www.youtube.com/watch?v=gZZan4JMwk4"/>
-        <updated>2024-04-05T20:00:06.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Predict Eclipses: The Three-Body Problem]]></title>
-        <id>https://www.youtube.com/watch?v=Gjbee3Bx_xs</id>
-        <link href="https://www.youtube.com/watch?v=Gjbee3Bx_xs"/>
-        <updated>2024-04-05T15:07:22.000Z</updated>
-        <author>
-            <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I made a Deathclaw floating in a Cloning Vat]]></title>
-        <id>https://www.youtube.com/watch?v=v-K9fSrLa7w</id>
-        <link href="https://www.youtube.com/watch?v=v-K9fSrLa7w"/>
-        <updated>2024-04-05T15:01:01.000Z</updated>
-        <author>
-            <name>North of the Border</name>
         </author>
     </entry>
 </feed>
