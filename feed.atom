@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-05T00:33:51.240Z</id>
+    <id>urn:2024-07-06T00:32:41.321Z</id>
     <title>osmos::feed</title>
-    <updated>2024-07-05T00:33:51.240Z</updated>
+    <updated>2024-07-06T00:32:41.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Can You Spot This Ingenious Hidden Door?]]></title>
+        <id>https://www.youtube.com/watch?v=sd49TgoLGLw</id>
+        <link href="https://www.youtube.com/watch?v=sd49TgoLGLw"/>
+        <updated>2024-07-05T21:00:36.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Humanoid Robot Is Just Doing It]]></title>
+        <id>https://www.youtube.com/watch?v=TAXj4dEgEg4</id>
+        <link href="https://www.youtube.com/watch?v=TAXj4dEgEg4"/>
+        <updated>2024-07-05T19:00:11.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the F-117s Weapons Work]]></title>
+        <id>https://www.youtube.com/watch?v=KB4mH03feN4</id>
+        <link href="https://www.youtube.com/watch?v=KB4mH03feN4"/>
+        <updated>2024-07-05T15:00:17.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I made Elmo escaping Sesame Street AND COMING FOR YOU]]></title>
+        <id>https://www.youtube.com/watch?v=8MyiJkdhjp4</id>
+        <link href="https://www.youtube.com/watch?v=8MyiJkdhjp4"/>
+        <updated>2024-07-05T15:00:07.000Z</updated>
+        <author>
+            <name>North of the Border</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNC Grinding Custom Slotting Tool]]></title>
+        <id>https://www.youtube.com/watch?v=m_ivpLDt3Gc</id>
+        <link href="https://www.youtube.com/watch?v=m_ivpLDt3Gc"/>
+        <updated>2024-07-05T14:00:39.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happened to The Great Man-Made River Project?]]></title>
+        <id>https://www.youtube.com/watch?v=F2ExUP1BuTw</id>
+        <link href="https://www.youtube.com/watch?v=F2ExUP1BuTw"/>
+        <updated>2024-07-05T14:00:21.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happened to Libya's Great Man-Made River Project?]]></title>
+        <id>https://www.youtube.com/watch?v=DSzVrlNsaXM</id>
+        <link href="https://www.youtube.com/watch?v=DSzVrlNsaXM"/>
+        <updated>2024-07-05T13:39:27.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The FUTURE of 3D Printing? Computed Axial Lithography!]]></title>
+        <id>https://www.youtube.com/watch?v=oHPrnYMdLow</id>
+        <link href="https://www.youtube.com/watch?v=oHPrnYMdLow"/>
+        <updated>2024-07-05T13:01:01.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Progtech s.r.l. Safety Projectors]]></title>
+        <id>https://www.youtube.com/watch?v=5zk5mH7KZtw</id>
+        <link href="https://www.youtube.com/watch?v=5zk5mH7KZtw"/>
+        <updated>2024-07-05T13:00:06.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dianna will be Live-streaming this Saturday]]></title>
+        <id>https://www.youtube.com/watch?v=gZfg-KUPtMc</id>
+        <link href="https://www.youtube.com/watch?v=gZfg-KUPtMc"/>
+        <updated>2024-07-05T00:30:22.000Z</updated>
+        <author>
+            <name>Physics Girl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Do You Need to Deploy the Infamous Back Scratcher?]]></title>
         <id>https://www.youtube.com/watch?v=RdaHsnCl_K4</id>
@@ -303,39 +393,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Are the Benefits of Vertical Farming?]]></title>
-        <id>https://www.youtube.com/watch?v=tKuJAExfsso</id>
-        <link href="https://www.youtube.com/watch?v=tKuJAExfsso"/>
-        <updated>2024-07-02T13:01:01.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BMW's Figure 01: Partnering with or Replacing Human Workers?]]></title>
-        <id>https://www.youtube.com/watch?v=8cgrmU4rSTU</id>
-        <link href="https://www.youtube.com/watch?v=8cgrmU4rSTU"/>
-        <updated>2024-07-02T08:48:57.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How do #KentuckyDerby #horses train for the big #race?]]></title>
         <id>https://www.youtube.com/watch?v=C-Vlco2BL1M</id>
         <link href="https://www.youtube.com/watch?v=C-Vlco2BL1M"/>
         <updated>2024-07-01T20:00:05.000Z</updated>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do You Want to Chill in a Push-Pull Sunroom?]]></title>
-        <id>https://www.youtube.com/watch?v=VipHd5qddr8</id>
-        <link href="https://www.youtube.com/watch?v=VipHd5qddr8"/>
-        <updated>2024-07-01T19:00:15.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -357,30 +420,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Do You Deliver Expert Tree Cutting Against the Odds?]]></title>
-        <id>https://www.youtube.com/watch?v=Hlz_hIezW_8</id>
-        <link href="https://www.youtube.com/watch?v=Hlz_hIezW_8"/>
-        <updated>2024-07-01T16:00:22.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Easy CAM Programming on Swiss Machine]]></title>
         <id>https://www.youtube.com/watch?v=FdwMhsLWDw4</id>
         <link href="https://www.youtube.com/watch?v=FdwMhsLWDw4"/>
         <updated>2024-07-01T14:00:19.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Can an Automatic Spot Welder Save You Time?]]></title>
-        <id>https://www.youtube.com/watch?v=F7_cvMvihlI</id>
-        <link href="https://www.youtube.com/watch?v=F7_cvMvihlI"/>
-        <updated>2024-07-01T13:00:12.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -831,15 +876,6 @@
         <updated>2024-06-24T19:02:12.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Efficiently Roughing 7050 Aluminum]]></title>
-        <id>https://www.youtube.com/watch?v=EIgQqS7l2ok</id>
-        <link href="https://www.youtube.com/watch?v=EIgQqS7l2ok"/>
-        <updated>2024-06-24T14:00:10.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1851,15 +1887,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PolyDryer TWO AT ONCE!]]></title>
-        <id>https://www.youtube.com/watch?v=7DjjBLNN4LI</id>
-        <link href="https://www.youtube.com/watch?v=7DjjBLNN4LI"/>
-        <updated>2024-05-10T13:00:06.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This German rocket company is building rocket engines with car parts!]]></title>
         <id>https://www.youtube.com/watch?v=2fl09-WlGuA</id>
         <link href="https://www.youtube.com/watch?v=2fl09-WlGuA"/>
@@ -1995,7 +2022,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Terrifying Real Science Of Avalanches]]></title>
+        <title type="html"><![CDATA[Why Snow Is So Deadly]]></title>
         <id>https://www.youtube.com/watch?v=Zce-V0YVzeI</id>
         <link href="https://www.youtube.com/watch?v=Zce-V0YVzeI"/>
         <updated>2024-05-03T16:12:18.000Z</updated>
@@ -2262,15 +2289,6 @@
         <updated>2024-04-23T17:47:35.000Z</updated>
         <author>
             <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Airport Security Suddenly Got Better]]></title>
-        <id>https://www.youtube.com/watch?v=nyG8XAmtYeQ</id>
-        <link href="https://www.youtube.com/watch?v=nyG8XAmtYeQ"/>
-        <updated>2024-04-23T15:00:42.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
         </author>
     </entry>
     <entry>
