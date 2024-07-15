@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-14T00:38:34.105Z</id>
+    <id>urn:2024-07-15T00:36:17.780Z</id>
     <title>osmos::feed</title>
-    <updated>2024-07-14T00:38:34.105Z</updated>
+    <updated>2024-07-15T00:36:17.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing Quick Oven Transfer Ladder]]></title>
+        <id>https://www.youtube.com/watch?v=AqnjIhS87wE</id>
+        <link href="https://www.youtube.com/watch?v=AqnjIhS87wE"/>
+        <updated>2024-07-14T19:00:11.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discover How Wines are Preserved]]></title>
+        <id>https://www.youtube.com/watch?v=0lzUVrELGuY</id>
+        <link href="https://www.youtube.com/watch?v=0lzUVrELGuY"/>
+        <updated>2024-07-14T16:00:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15 Surprising Billion-Dollar American Industries | Business Insider Marathon]]></title>
+        <id>https://www.youtube.com/watch?v=sR8ADZOcPho</id>
+        <link href="https://www.youtube.com/watch?v=sR8ADZOcPho"/>
+        <updated>2024-07-14T15:00:55.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insane Drilling Performance]]></title>
+        <id>https://www.youtube.com/watch?v=EjcaW_UNMNY</id>
+        <link href="https://www.youtube.com/watch?v=EjcaW_UNMNY"/>
+        <updated>2024-07-14T15:00:10.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SHOCKING Things that Happen in Machine Shops]]></title>
+        <id>https://www.youtube.com/watch?v=UfxKSL8qzJI</id>
+        <link href="https://www.youtube.com/watch?v=UfxKSL8qzJI"/>
+        <updated>2024-07-14T14:00:22.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3-Minute Spotless Car Wash with 360° Foam and High-Pressure Spray]]></title>
+        <id>https://www.youtube.com/watch?v=Rq2SZMNYr-Y</id>
+        <link href="https://www.youtube.com/watch?v=Rq2SZMNYr-Y"/>
+        <updated>2024-07-14T13:00:31.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exploring the Book Cutting Machine]]></title>
         <id>https://www.youtube.com/watch?v=noWPpvseWTg</id>
@@ -168,7 +222,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Seawise Giant: The Legendary Super Tanker that Refused to Sink]]></title>
+        <title type="html"><![CDATA[Seawise Giant: The World's BIGGEST Ship's Incredible Story]]></title>
         <id>https://www.youtube.com/watch?v=sKY_zFdlwgM</id>
         <link href="https://www.youtube.com/watch?v=sKY_zFdlwgM"/>
         <updated>2024-07-12T14:58:44.000Z</updated>
@@ -345,33 +399,6 @@
         <updated>2024-07-10T16:03:47.000Z</updated>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grinding Corn Has Never Been So Easy!]]></title>
-        <id>https://www.youtube.com/watch?v=2Gi8yaD5vAU</id>
-        <link href="https://www.youtube.com/watch?v=2Gi8yaD5vAU"/>
-        <updated>2024-07-10T16:00:01.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Apple's New Camera Could Revolutionize 3D and Vision Pro]]></title>
-        <id>https://www.youtube.com/watch?v=korly5G2Ls4</id>
-        <link href="https://www.youtube.com/watch?v=korly5G2Ls4"/>
-        <updated>2024-07-10T15:47:42.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple's New Camera Could Revolutionize 3D and Vision Pro]]></title>
-        <id>https://www.youtube.com/watch?v=m2D4LHdDPwg</id>
-        <link href="https://www.youtube.com/watch?v=m2D4LHdDPwg"/>
-        <updated>2024-07-10T15:12:09.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -654,15 +681,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How #pastel makers in #France invent new #colors following traditional methods.]]></title>
-        <id>https://www.youtube.com/watch?v=hMoa2oRomaA</id>
-        <link href="https://www.youtube.com/watch?v=hMoa2oRomaA"/>
-        <updated>2024-07-03T17:03:01.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Keep GFCI Healthy #electronic #safety #technology #funny]]></title>
         <id>https://www.youtube.com/watch?v=IfDR8OsJzD4</id>
         <link href="https://www.youtube.com/watch?v=IfDR8OsJzD4"/>
@@ -678,15 +696,6 @@
         <updated>2024-07-03T15:00:27.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EPIC CNC Machining on the Heller HF5500]]></title>
-        <id>https://www.youtube.com/watch?v=0a9kcAiOotE</id>
-        <link href="https://www.youtube.com/watch?v=0a9kcAiOotE"/>
-        <updated>2024-07-03T14:00:52.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -714,15 +723,6 @@
         <updated>2024-07-02T19:35:37.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CNC Grinding Titanium with Silicon Carbide]]></title>
-        <id>https://www.youtube.com/watch?v=eRCyH9Xdkrw</id>
-        <link href="https://www.youtube.com/watch?v=eRCyH9Xdkrw"/>
-        <updated>2024-07-02T15:19:26.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2478,24 +2478,6 @@
         <updated>2024-04-16T17:27:38.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Circuit Breakers DON'T Protect People (electric shocks)]]></title>
-        <id>https://www.youtube.com/watch?v=gqEu9t8HwW0</id>
-        <link href="https://www.youtube.com/watch?v=gqEu9t8HwW0"/>
-        <updated>2024-04-15T20:10:05.000Z</updated>
-        <author>
-            <name>The Engineering Mindset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carrot Disassembly Hack #carrot]]></title>
-        <id>https://www.youtube.com/watch?v=vSY36a2iwc0</id>
-        <link href="https://www.youtube.com/watch?v=vSY36a2iwc0"/>
-        <updated>2024-04-15T14:16:37.000Z</updated>
-        <author>
-            <name>You Suck At Cooking</name>
         </author>
     </entry>
 </feed>
