@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-18T00:34:34.443Z</id>
+    <id>urn:2024-07-19T00:43:46.865Z</id>
     <title>osmos::feed</title>
-    <updated>2024-07-18T00:34:34.443Z</updated>
+    <updated>2024-07-19T00:43:46.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Vineyard Cleaner]]></title>
+        <id>https://www.youtube.com/watch?v=DHv_M9D1Ik4</id>
+        <link href="https://www.youtube.com/watch?v=DHv_M9D1Ik4"/>
+        <updated>2024-07-18T21:00:09.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This #Michelin -starred chef uses one of Korea's rarest seaweeds in his signature dish. #pasta #chef]]></title>
+        <id>https://www.youtube.com/watch?v=_ahir4HVOHM</id>
+        <link href="https://www.youtube.com/watch?v=_ahir4HVOHM"/>
+        <updated>2024-07-18T19:00:30.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welding Tool]]></title>
+        <id>https://www.youtube.com/watch?v=QCp65P6xmTs</id>
+        <link href="https://www.youtube.com/watch?v=QCp65P6xmTs"/>
+        <updated>2024-07-18T19:00:21.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to avoid #microplastics in your #food. #health]]></title>
+        <id>https://www.youtube.com/watch?v=Y-58152x6JY</id>
+        <link href="https://www.youtube.com/watch?v=Y-58152x6JY"/>
+        <updated>2024-07-18T17:51:16.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Before joining the #SecretService, recruits must graduate from a six-month training program. #trump]]></title>
+        <id>https://www.youtube.com/watch?v=QXCfGFzYF6c</id>
+        <link href="https://www.youtube.com/watch?v=QXCfGFzYF6c"/>
+        <updated>2024-07-18T17:30:05.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roof Panel]]></title>
+        <id>https://www.youtube.com/watch?v=MUPHrknWtqQ</id>
+        <link href="https://www.youtube.com/watch?v=MUPHrknWtqQ"/>
+        <updated>2024-07-18T16:00:18.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monster 3D Printer Prints HUGE Parts FAST]]></title>
+        <id>https://www.youtube.com/watch?v=O32rKrtnkWw</id>
+        <link href="https://www.youtube.com/watch?v=O32rKrtnkWw"/>
+        <updated>2024-07-18T15:00:21.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How The CNC Machining Empire Was Built]]></title>
+        <id>https://www.youtube.com/watch?v=ybqi5t6w__k</id>
+        <link href="https://www.youtube.com/watch?v=ybqi5t6w__k"/>
+        <updated>2024-07-18T14:00:59.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This Is A Light-Nanosecond!]]></title>
         <id>https://www.youtube.com/watch?v=78VvWv6G3z0</id>
@@ -78,7 +150,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Ingenious Hydrogen-Powered Trains Are Transforming Rail Travel]]></title>
+        <title type="html"><![CDATA[This Record-Breaking Train Could Transform Rail Travel.]]></title>
         <id>https://www.youtube.com/watch?v=0d0h42IZlWU</id>
         <link href="https://www.youtube.com/watch?v=0d0h42IZlWU"/>
         <updated>2024-07-17T16:08:32.000Z</updated>
@@ -96,7 +168,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OM | Live at Pioneer Works]]></title>
+        <title type="html"><![CDATA[Om Live at Pioneer Works]]></title>
         <id>https://www.youtube.com/watch?v=IwnDKcoVHmY</id>
         <link href="https://www.youtube.com/watch?v=IwnDKcoVHmY"/>
         <updated>2024-07-17T14:35:01.000Z</updated>
@@ -321,15 +393,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Discover How Wines are Preserved]]></title>
-        <id>https://www.youtube.com/watch?v=0lzUVrELGuY</id>
-        <link href="https://www.youtube.com/watch?v=0lzUVrELGuY"/>
-        <updated>2024-07-14T16:00:00.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[15 Surprising, Billion-Dollar American Industries | Business Insider Marathon]]></title>
         <id>https://www.youtube.com/watch?v=sR8ADZOcPho</id>
         <link href="https://www.youtube.com/watch?v=sR8ADZOcPho"/>
@@ -357,39 +420,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3-Minute Spotless Car Wash with 360° Foam and High-Pressure Spray]]></title>
-        <id>https://www.youtube.com/watch?v=Rq2SZMNYr-Y</id>
-        <link href="https://www.youtube.com/watch?v=Rq2SZMNYr-Y"/>
-        <updated>2024-07-14T13:00:31.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring the Book Cutting Machine]]></title>
-        <id>https://www.youtube.com/watch?v=noWPpvseWTg</id>
-        <link href="https://www.youtube.com/watch?v=noWPpvseWTg"/>
-        <updated>2024-07-13T19:00:31.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sloppy Onion Smash Burger - AKA Flying Dutchman]]></title>
         <id>https://www.youtube.com/watch?v=bAdnYJfBHmg</id>
         <link href="https://www.youtube.com/watch?v=bAdnYJfBHmg"/>
         <updated>2024-07-13T18:44:35.000Z</updated>
         <author>
             <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Indian company turns plastic bottles into clothing. #india #ecofashion #recycle]]></title>
-        <id>https://www.youtube.com/watch?v=m8rDhS8y46g</id>
-        <link href="https://www.youtube.com/watch?v=m8rDhS8y46g"/>
-        <updated>2024-07-13T18:00:17.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -429,15 +465,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10 Of The World's Most Expensive Items | So Expensive Season 13 | Business Insider Marathon]]></title>
-        <id>https://www.youtube.com/watch?v=nrB6AJOhpeY</id>
-        <link href="https://www.youtube.com/watch?v=nrB6AJOhpeY"/>
-        <updated>2024-07-12T21:18:05.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cosmology in Crisis? Confronting the Hubble Tension]]></title>
         <id>https://www.youtube.com/watch?v=CQ-4-MWa7Xw</id>
         <link href="https://www.youtube.com/watch?v=CQ-4-MWa7Xw"/>
@@ -453,15 +480,6 @@
         <updated>2024-07-12T17:35:58.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's why white flower shiitake mushrooms are so expensive. #shiitake #mushroom #japan]]></title>
-        <id>https://www.youtube.com/watch?v=M9twYdhUrFQ</id>
-        <link href="https://www.youtube.com/watch?v=M9twYdhUrFQ"/>
-        <updated>2024-07-12T17:00:14.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -609,15 +627,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Changing a Chuck on our Studer S41 CNC Grinder]]></title>
-        <id>https://www.youtube.com/watch?v=bJGU3wBCP5o</id>
-        <link href="https://www.youtube.com/watch?v=bJGU3wBCP5o"/>
-        <updated>2024-07-08T14:00:32.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lagrangian Neural Network (LNN) [Physics Informed Machine Learning]]]></title>
         <id>https://www.youtube.com/watch?v=HLUIx6FqAvg</id>
         <link href="https://www.youtube.com/watch?v=HLUIx6FqAvg"/>
@@ -633,15 +642,6 @@
         <updated>2024-07-07T16:02:02.000Z</updated>
         <author>
             <name>Physics Girl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving Problems with 3D Printing]]></title>
-        <id>https://www.youtube.com/watch?v=T1z9gl8GgtA</id>
-        <link href="https://www.youtube.com/watch?v=T1z9gl8GgtA"/>
-        <updated>2024-07-07T14:00:23.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2433,15 +2433,6 @@
         <updated>2024-04-20T15:00:08.000Z</updated>
         <author>
             <name>CNC Kitchen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why a Forefather of AI Fears the Future]]></title>
-        <id>https://www.youtube.com/watch?v=KcbTbTxPMLc</id>
-        <link href="https://www.youtube.com/watch?v=KcbTbTxPMLc"/>
-        <updated>2024-04-19T20:00:06.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
         </author>
     </entry>
 </feed>
