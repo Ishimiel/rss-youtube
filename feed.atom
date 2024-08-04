@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-03T00:34:28.228Z</id>
+    <id>urn:2024-08-04T00:38:34.761Z</id>
     <title>osmos::feed</title>
-    <updated>2024-08-03T00:34:28.228Z</updated>
+    <updated>2024-08-04T00:38:34.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Grass and Herb Grinding]]></title>
+        <id>https://www.youtube.com/watch?v=2U8J5ohcTBc</id>
+        <link href="https://www.youtube.com/watch?v=2U8J5ohcTBc"/>
+        <updated>2024-08-03T19:00:01.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't Poke High Voltage #electronic #shock #experiment #funny]]></title>
+        <id>https://www.youtube.com/watch?v=Dkiq1gxw3RU</id>
+        <link href="https://www.youtube.com/watch?v=Dkiq1gxw3RU"/>
+        <updated>2024-08-03T16:44:58.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hamster Ride]]></title>
+        <id>https://www.youtube.com/watch?v=ob9glMUOmI4</id>
+        <link href="https://www.youtube.com/watch?v=ob9glMUOmI4"/>
+        <updated>2024-08-03T16:00:44.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Satisfying CNC Milling]]></title>
+        <id>https://www.youtube.com/watch?v=fASeYEARDGU</id>
+        <link href="https://www.youtube.com/watch?v=fASeYEARDGU"/>
+        <updated>2024-08-03T15:00:39.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Only 40 Benin Bronze Makers Are Left In Nigeria As Country Fights To Have Stolen Bronzes Returned]]></title>
+        <id>https://www.youtube.com/watch?v=FPxzNEL8nzk</id>
+        <link href="https://www.youtube.com/watch?v=FPxzNEL8nzk"/>
+        <updated>2024-08-03T15:00:20.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can You Fake It Until You Make It in CNC Machining?]]></title>
+        <id>https://www.youtube.com/watch?v=ACKJyWO-4Oo</id>
+        <link href="https://www.youtube.com/watch?v=ACKJyWO-4Oo"/>
+        <updated>2024-08-03T14:00:07.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discover Kesbeke's Pickled]]></title>
+        <id>https://www.youtube.com/watch?v=i41kKWtjaY0</id>
+        <link href="https://www.youtube.com/watch?v=i41kKWtjaY0"/>
+        <updated>2024-08-03T13:00:46.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixing a DC Electrical Short in LED Lights]]></title>
+        <id>https://www.youtube.com/watch?v=JwT89kYYN_U</id>
+        <link href="https://www.youtube.com/watch?v=JwT89kYYN_U"/>
+        <updated>2024-08-03T12:18:38.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mass Production]]></title>
         <id>https://www.youtube.com/watch?v=CxIPaJYCcBk</id>
@@ -123,7 +195,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How mathematicians describe curvature of surfaces]]></title>
+        <title type="html"><![CDATA[Describing curvature is surprisingly tricky]]></title>
         <id>https://www.youtube.com/watch?v=UYiAlYlSwBo</id>
         <link href="https://www.youtube.com/watch?v=UYiAlYlSwBo"/>
         <updated>2024-08-02T14:00:33.000Z</updated>
@@ -366,15 +438,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Hidden Story Behind Boeing and the 737 MAX]]></title>
-        <id>https://www.youtube.com/watch?v=uTyCi2zo7_E</id>
-        <link href="https://www.youtube.com/watch?v=uTyCi2zo7_E"/>
-        <updated>2024-07-31T14:10:05.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Clever Way to Count Tanks - Numberphile]]></title>
         <id>https://www.youtube.com/watch?v=WLCwMRJBhuI</id>
         <link href="https://www.youtube.com/watch?v=WLCwMRJBhuI"/>
@@ -399,24 +462,6 @@
         <updated>2024-07-31T13:30:28.000Z</updated>
         <author>
             <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple's URSA Cine]]></title>
-        <id>https://www.youtube.com/watch?v=antgbsanWXU</id>
-        <link href="https://www.youtube.com/watch?v=antgbsanWXU"/>
-        <updated>2024-07-31T12:16:56.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Nature Shapes Cutting-Edge Robots]]></title>
-        <id>https://www.youtube.com/watch?v=Dbi9_v2Y6qE</id>
-        <link href="https://www.youtube.com/watch?v=Dbi9_v2Y6qE"/>
-        <updated>2024-07-31T09:35:11.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -480,15 +525,6 @@
         <updated>2024-07-29T21:24:10.000Z</updated>
         <author>
             <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is what King Charles III's funeral will look like. #kingcharles #royalfamily #monarchy]]></title>
-        <id>https://www.youtube.com/watch?v=s8PLSGxWVbA</id>
-        <link href="https://www.youtube.com/watch?v=s8PLSGxWVbA"/>
-        <updated>2024-07-29T20:00:30.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -744,30 +780,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Achieve Perfect Coolant Placement]]></title>
-        <id>https://www.youtube.com/watch?v=a1Od70Wuw3Q</id>
-        <link href="https://www.youtube.com/watch?v=a1Od70Wuw3Q"/>
-        <updated>2024-07-24T14:00:01.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Deriving Euler's Formula]]></title>
         <id>https://www.youtube.com/watch?v=kuv0P3h920k</id>
         <link href="https://www.youtube.com/watch?v=kuv0P3h920k"/>
         <updated>2024-07-23T18:50:48.000Z</updated>
         <author>
             <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simultaneous Drilling on 2 Spindles]]></title>
-        <id>https://www.youtube.com/watch?v=kiusSQd4R0o</id>
-        <link href="https://www.youtube.com/watch?v=kiusSQd4R0o"/>
-        <updated>2024-07-23T15:00:54.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1230,7 +1248,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Physics Of Associative Memory]]></title>
+        <title type="html"><![CDATA[A Brain-Inspired Algorithm For Memory]]></title>
         <id>https://www.youtube.com/watch?v=1WPJdAW-sFo</id>
         <link href="https://www.youtube.com/watch?v=1WPJdAW-sFo"/>
         <updated>2024-07-03T04:44:07.000Z</updated>
@@ -2175,15 +2193,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Home Weather Station   ...on a boat]]></title>
-        <id>https://www.youtube.com/watch?v=6g95GrxgqIo</id>
-        <link href="https://www.youtube.com/watch?v=6g95GrxgqIo"/>
-        <updated>2024-05-26T13:41:22.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Japanese Trains Have Always Been One Step Ahead]]></title>
         <id>https://www.youtube.com/watch?v=orLpzaqjr6o</id>
         <link href="https://www.youtube.com/watch?v=orLpzaqjr6o"/>
@@ -2355,15 +2364,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USB in USB #charger #technology #electronic #funny]]></title>
-        <id>https://www.youtube.com/watch?v=KArch4rjU_0</id>
-        <link href="https://www.youtube.com/watch?v=KArch4rjU_0"/>
-        <updated>2024-05-12T17:37:14.000Z</updated>
-        <author>
-            <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[We are not prepared...]]></title>
         <id>https://www.youtube.com/watch?v=Z3aodMViqJI</id>
         <link href="https://www.youtube.com/watch?v=Z3aodMViqJI"/>
@@ -2442,15 +2442,6 @@
         <updated>2024-05-06T16:02:32.000Z</updated>
         <author>
             <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I made a Gundam AT ST out of clay]]></title>
-        <id>https://www.youtube.com/watch?v=WmpfvyZkVTQ</id>
-        <link href="https://www.youtube.com/watch?v=WmpfvyZkVTQ"/>
-        <updated>2024-05-05T15:00:33.000Z</updated>
-        <author>
-            <name>North of the Border</name>
         </author>
     </entry>
 </feed>
