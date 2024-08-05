@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-04T00:38:34.761Z</id>
+    <id>urn:2024-08-05T00:37:20.589Z</id>
     <title>osmos::feed</title>
-    <updated>2024-08-04T00:38:34.761Z</updated>
+    <updated>2024-08-05T00:37:20.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to make Béchamel sauce                #bechamel #italy #baywatch]]></title>
+        <id>https://www.youtube.com/watch?v=UrDHNOr-wrk</id>
+        <link href="https://www.youtube.com/watch?v=UrDHNOr-wrk"/>
+        <updated>2024-08-04T19:12:41.000Z</updated>
+        <author>
+            <name>You Suck At Cooking</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Pizza Dough is Made with Automation]]></title>
+        <id>https://www.youtube.com/watch?v=RE8QsujnSOk</id>
+        <link href="https://www.youtube.com/watch?v=RE8QsujnSOk"/>
+        <updated>2024-08-04T19:00:12.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Can Boeing be Saved?!]]></title>
+        <id>https://www.youtube.com/watch?v=DJvT8Ct1xwk</id>
+        <link href="https://www.youtube.com/watch?v=DJvT8Ct1xwk"/>
+        <updated>2024-08-04T17:52:58.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Green Hydrogen too Expensive for Train Use]]></title>
+        <id>https://www.youtube.com/watch?v=LIxVtsph9bk</id>
+        <link href="https://www.youtube.com/watch?v=LIxVtsph9bk"/>
+        <updated>2024-08-04T16:30:03.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shaping Iron with a Progressive Die]]></title>
+        <id>https://www.youtube.com/watch?v=QVA8_XvYlks</id>
+        <link href="https://www.youtube.com/watch?v=QVA8_XvYlks"/>
+        <updated>2024-08-04T16:00:20.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How America Spent Over $100 Billion Defending Ukraine | Business Insider Marathon]]></title>
+        <id>https://www.youtube.com/watch?v=WhhovQ7HW4k</id>
+        <link href="https://www.youtube.com/watch?v=WhhovQ7HW4k"/>
+        <updated>2024-08-04T15:00:25.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Change Your Mindset and Make More Money]]></title>
+        <id>https://www.youtube.com/watch?v=LeUYEUE1X18</id>
+        <link href="https://www.youtube.com/watch?v=LeUYEUE1X18"/>
+        <updated>2024-08-04T14:00:14.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maximize Service with Real-Time Insight]]></title>
+        <id>https://www.youtube.com/watch?v=adnpprfgH48</id>
+        <link href="https://www.youtube.com/watch?v=adnpprfgH48"/>
+        <updated>2024-08-04T13:00:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grass and Herb Grinding]]></title>
         <id>https://www.youtube.com/watch?v=2U8J5ohcTBc</id>
@@ -195,7 +267,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Describing curvature is surprisingly tricky]]></title>
+        <title type="html"><![CDATA[The clever way curvature is described in math]]></title>
         <id>https://www.youtube.com/watch?v=UYiAlYlSwBo</id>
         <link href="https://www.youtube.com/watch?v=UYiAlYlSwBo"/>
         <updated>2024-08-02T14:00:33.000Z</updated>
@@ -294,15 +366,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Helmet Mask Shield Farm Workers from Bird Flu]]></title>
-        <id>https://www.youtube.com/watch?v=GvIUuP1rFog</id>
-        <link href="https://www.youtube.com/watch?v=GvIUuP1rFog"/>
-        <updated>2024-08-01T16:00:17.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Incredible Tool Grinding System]]></title>
         <id>https://www.youtube.com/watch?v=4AMv72BFFXU</id>
         <link href="https://www.youtube.com/watch?v=4AMv72BFFXU"/>
@@ -330,24 +393,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smart Robot]]></title>
-        <id>https://www.youtube.com/watch?v=3g3L1XiL8YQ</id>
-        <link href="https://www.youtube.com/watch?v=3g3L1XiL8YQ"/>
-        <updated>2024-08-01T13:00:05.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Went Wrong With The Boeing 737 MAX?]]></title>
-        <id>https://www.youtube.com/watch?v=oTA_zX8lzWY</id>
-        <link href="https://www.youtube.com/watch?v=oTA_zX8lzWY"/>
-        <updated>2024-08-01T08:20:41.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Whaly Upgrades]]></title>
         <id>https://www.youtube.com/watch?v=k9OC7x7y43w</id>
         <link href="https://www.youtube.com/watch?v=k9OC7x7y43w"/>
@@ -363,15 +408,6 @@
         <updated>2024-07-31T23:16:49.000Z</updated>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revolving Stone Doors]]></title>
-        <id>https://www.youtube.com/watch?v=vOAyDFou9aU</id>
-        <link href="https://www.youtube.com/watch?v=vOAyDFou9aU"/>
-        <updated>2024-07-31T21:00:43.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -399,15 +435,6 @@
         <updated>2024-07-31T18:55:46.000Z</updated>
         <author>
             <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ultimate Sweat-Free Solution with 15-Hour Battery Life]]></title>
-        <id>https://www.youtube.com/watch?v=23Rtx99r4QY</id>
-        <link href="https://www.youtube.com/watch?v=23Rtx99r4QY"/>
-        <updated>2024-07-31T17:00:04.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -487,15 +514,6 @@
         <id>https://www.youtube.com/watch?v=Ygez4GCkDZU</id>
         <link href="https://www.youtube.com/watch?v=Ygez4GCkDZU"/>
         <updated>2024-07-30T18:00:17.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This family has been making Nyonya kueh for almost 80 years. #singapore #sweet #cake]]></title>
-        <id>https://www.youtube.com/watch?v=h6-RAHA0gdE</id>
-        <link href="https://www.youtube.com/watch?v=h6-RAHA0gdE"/>
-        <updated>2024-07-30T17:41:09.000Z</updated>
         <author>
             <name>Business Insider</name>
         </author>
@@ -741,15 +759,6 @@
         <updated>2024-07-25T14:00:54.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Haynes 188: Hardest Material to CNC Machine?]]></title>
-        <id>https://www.youtube.com/watch?v=333UZj4r9ws</id>
-        <link href="https://www.youtube.com/watch?v=333UZj4r9ws"/>
-        <updated>2024-07-25T14:00:02.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2424,24 +2433,6 @@
         <updated>2024-05-07T16:00:11.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Typical Sungazer Audience]]></title>
-        <id>https://www.youtube.com/watch?v=D1wgVZBfM-8</id>
-        <link href="https://www.youtube.com/watch?v=D1wgVZBfM-8"/>
-        <updated>2024-05-06T21:02:06.000Z</updated>
-        <author>
-            <name>Adam Neely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jurassic Celery Physics #jurassicworld #celery #physics]]></title>
-        <id>https://www.youtube.com/watch?v=h-7mZOtpx3U</id>
-        <link href="https://www.youtube.com/watch?v=h-7mZOtpx3U"/>
-        <updated>2024-05-06T16:02:32.000Z</updated>
-        <author>
-            <name>You Suck At Cooking</name>
         </author>
     </entry>
 </feed>
