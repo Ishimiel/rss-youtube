@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-07T00:35:45.550Z</id>
+    <id>urn:2024-08-08T00:35:27.274Z</id>
     <title>osmos::feed</title>
-    <updated>2024-08-07T00:35:45.550Z</updated>
+    <updated>2024-08-08T00:35:27.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[This Book Has No Words]]></title>
+        <id>https://www.youtube.com/watch?v=PoY0InCTRlg</id>
+        <link href="https://www.youtube.com/watch?v=PoY0InCTRlg"/>
+        <updated>2024-08-07T22:08:28.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The white oak trees used to make Maker's Mark barrels are at risk. #makersmark #tree #environment]]></title>
+        <id>https://www.youtube.com/watch?v=TM4ZDL60_F8</id>
+        <link href="https://www.youtube.com/watch?v=TM4ZDL60_F8"/>
+        <updated>2024-08-07T21:00:15.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In #Nigeria, Fred keeps the craft of #Benin Bronze alive. #art]]></title>
+        <id>https://www.youtube.com/watch?v=cG51q6CRRyw</id>
+        <link href="https://www.youtube.com/watch?v=cG51q6CRRyw"/>
+        <updated>2024-08-07T20:00:15.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Playing a #harp is an expensive profession, and can cost over $70,000. #music #harptok]]></title>
+        <id>https://www.youtube.com/watch?v=cHJ9btr1QJI</id>
+        <link href="https://www.youtube.com/watch?v=cHJ9btr1QJI"/>
+        <updated>2024-08-07T17:56:27.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Road Improvements]]></title>
+        <id>https://www.youtube.com/watch?v=PXCIbyY-Iuo</id>
+        <link href="https://www.youtube.com/watch?v=PXCIbyY-Iuo"/>
+        <updated>2024-08-07T16:00:20.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Death Defying Storm Tanks Collect Valuable Information]]></title>
+        <id>https://www.youtube.com/watch?v=u0IqqrkAa2A</id>
+        <link href="https://www.youtube.com/watch?v=u0IqqrkAa2A"/>
+        <updated>2024-08-07T15:27:17.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolutionizing the Logistics of Spaceflight - Firefly Aerospace]]></title>
+        <id>https://www.youtube.com/watch?v=tCDY1k1JGqw</id>
+        <link href="https://www.youtube.com/watch?v=tCDY1k1JGqw"/>
+        <updated>2024-08-07T14:30:30.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Meteoric History of Tornado Chasing Tanks]]></title>
+        <id>https://www.youtube.com/watch?v=yhF2bsyGsi8</id>
+        <link href="https://www.youtube.com/watch?v=yhF2bsyGsi8"/>
+        <updated>2024-08-07T14:13:04.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEW Computers from Titans of CNC for CAD / CAM]]></title>
+        <id>https://www.youtube.com/watch?v=O3Aah_iIx08</id>
+        <link href="https://www.youtube.com/watch?v=O3Aah_iIx08"/>
+        <updated>2024-08-07T14:00:32.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agricultural Plane]]></title>
+        <id>https://www.youtube.com/watch?v=bjuttT---OQ</id>
+        <link href="https://www.youtube.com/watch?v=bjuttT---OQ"/>
+        <updated>2024-08-07T13:00:45.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Hagoromo chalk lore keeps Hagoromo heads coming back for more. #chalk #hagoromo #math]]></title>
         <id>https://www.youtube.com/watch?v=SZyBcsGvBYM</id>
@@ -258,7 +348,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How American Weapons Aid Ukraine | Business Insider Marathon]]></title>
+        <title type="html"><![CDATA[How America Makes Ukraine’s Most Important Weapons | Business Insider Marathon]]></title>
         <id>https://www.youtube.com/watch?v=WhhovQ7HW4k</id>
         <link href="https://www.youtube.com/watch?v=WhhovQ7HW4k"/>
         <updated>2024-08-04T15:00:25.000Z</updated>
@@ -276,39 +366,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Maximize Service with Real-Time Insight]]></title>
-        <id>https://www.youtube.com/watch?v=adnpprfgH48</id>
-        <link href="https://www.youtube.com/watch?v=adnpprfgH48"/>
-        <updated>2024-08-04T13:00:00.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grass and Herb Grinding]]></title>
-        <id>https://www.youtube.com/watch?v=2U8J5ohcTBc</id>
-        <link href="https://www.youtube.com/watch?v=2U8J5ohcTBc"/>
-        <updated>2024-08-03T19:00:01.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Don't Poke High Voltage #electronic #shock #experiment #funny]]></title>
         <id>https://www.youtube.com/watch?v=Dkiq1gxw3RU</id>
         <link href="https://www.youtube.com/watch?v=Dkiq1gxw3RU"/>
         <updated>2024-08-03T16:44:58.000Z</updated>
         <author>
             <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hamster Ride]]></title>
-        <id>https://www.youtube.com/watch?v=ob9glMUOmI4</id>
-        <link href="https://www.youtube.com/watch?v=ob9glMUOmI4"/>
-        <updated>2024-08-03T16:00:44.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -321,7 +384,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Benin Bronze Casting Is Still Standing]]></title>
+        <title type="html"><![CDATA[How Benin Bronze Casting Is Still Standing | Still Standing | Business Insider]]></title>
         <id>https://www.youtube.com/watch?v=FPxzNEL8nzk</id>
         <link href="https://www.youtube.com/watch?v=FPxzNEL8nzk"/>
         <updated>2024-08-03T15:00:20.000Z</updated>
@@ -336,15 +399,6 @@
         <updated>2024-08-03T14:00:07.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discover Kesbeke's Pickled]]></title>
-        <id>https://www.youtube.com/watch?v=i41kKWtjaY0</id>
-        <link href="https://www.youtube.com/watch?v=i41kKWtjaY0"/>
-        <updated>2024-08-03T13:00:46.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -492,15 +546,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Water Polo Is The Hardest Olympic Sport. Here's How Team USA Trains To Win | Second To None]]></title>
-        <id>https://www.youtube.com/watch?v=8W1c4XnO4qk</id>
-        <link href="https://www.youtube.com/watch?v=8W1c4XnO4qk"/>
-        <updated>2024-08-01T16:29:50.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Incredible Tool Grinding System]]></title>
         <id>https://www.youtube.com/watch?v=4AMv72BFFXU</id>
         <link href="https://www.youtube.com/watch?v=4AMv72BFFXU"/>
@@ -534,24 +579,6 @@
         <updated>2024-08-01T01:42:50.000Z</updated>
         <author>
             <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experts say sand mining is taking a toll on local fishing villages. #africa #mining #fishing]]></title>
-        <id>https://www.youtube.com/watch?v=7PPctNhe99E</id>
-        <link href="https://www.youtube.com/watch?v=7PPctNhe99E"/>
-        <updated>2024-07-31T20:58:31.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is how wind turbines are turned into public benches. #recycle #upcycle #windturbine]]></title>
-        <id>https://www.youtube.com/watch?v=9UiKdm2Yqd0</id>
-        <link href="https://www.youtube.com/watch?v=9UiKdm2Yqd0"/>
-        <updated>2024-07-31T19:00:05.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -672,21 +699,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Most Underrated 3D Printing Filament!]]></title>
+        <title type="html"><![CDATA[Why aren't more people 3D Printing this Indestructable Filament?]]></title>
         <id>https://www.youtube.com/watch?v=4InFd5DoZa4</id>
         <link href="https://www.youtube.com/watch?v=4InFd5DoZa4"/>
         <updated>2024-07-28T16:20:28.000Z</updated>
         <author>
             <name>CNC Kitchen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Printing Copper Electrode for Sinker EDM]]></title>
-        <id>https://www.youtube.com/watch?v=pX-dSsE4w0Q</id>
-        <link href="https://www.youtube.com/watch?v=pX-dSsE4w0Q"/>
-        <updated>2024-07-28T14:00:39.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1317,15 +1335,6 @@
         <updated>2024-07-03T04:44:07.000Z</updated>
         <author>
             <name>Artem Kirsanov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Worst Book I've Read So Far This Year]]></title>
-        <id>https://www.youtube.com/watch?v=jDjJdJSvyBg</id>
-        <link href="https://www.youtube.com/watch?v=jDjJdJSvyBg"/>
-        <updated>2024-07-02T21:36:41.000Z</updated>
-        <author>
-            <name>Vsauce</name>
         </author>
     </entry>
     <entry>
@@ -2247,15 +2256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why This Maglev Train is Unstable]]></title>
-        <id>https://www.youtube.com/watch?v=TyUUm7PjTKs</id>
-        <link href="https://www.youtube.com/watch?v=TyUUm7PjTKs"/>
-        <updated>2024-05-24T15:00:34.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[In the vector space of all advice...]]></title>
         <id>https://www.youtube.com/watch?v=rjVY7HXN6qA</id>
         <link href="https://www.youtube.com/watch?v=rjVY7HXN6qA"/>
@@ -2415,24 +2415,6 @@
         <updated>2024-05-10T20:00:06.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This German rocket company is building rocket engines with car parts!]]></title>
-        <id>https://www.youtube.com/watch?v=2fl09-WlGuA</id>
-        <link href="https://www.youtube.com/watch?v=2fl09-WlGuA"/>
-        <updated>2024-05-09T19:04:48.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Polaris Dawn Will Do The First Commercial Spacewalk!]]></title>
-        <id>https://www.youtube.com/watch?v=zWJA_zH5Nvg</id>
-        <link href="https://www.youtube.com/watch?v=zWJA_zH5Nvg"/>
-        <updated>2024-05-09T13:59:54.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
         </author>
     </entry>
 </feed>
