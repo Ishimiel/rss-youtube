@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-11T00:39:18.917Z</id>
+    <id>urn:2024-08-12T00:37:07.825Z</id>
     <title>osmos::feed</title>
-    <updated>2024-08-11T00:39:18.917Z</updated>
+    <updated>2024-08-12T00:37:07.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Plan To Make The Deserts Flower]]></title>
+        <id>https://www.youtube.com/watch?v=39ZjBjODdfo</id>
+        <link href="https://www.youtube.com/watch?v=39ZjBjODdfo"/>
+        <updated>2024-08-11T21:00:02.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beach Cleaning Machine]]></title>
+        <id>https://www.youtube.com/watch?v=uTk9GU8ScAU</id>
+        <link href="https://www.youtube.com/watch?v=uTk9GU8ScAU"/>
+        <updated>2024-08-11T19:00:28.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printing]]></title>
+        <id>https://www.youtube.com/watch?v=a-B32bOIVOY</id>
+        <link href="https://www.youtube.com/watch?v=a-B32bOIVOY"/>
+        <updated>2024-08-11T16:00:01.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15 Jobs That Take A Lifetime To Master | Business Insider Marathon]]></title>
+        <id>https://www.youtube.com/watch?v=GK_X4jiR7WM</id>
+        <link href="https://www.youtube.com/watch?v=GK_X4jiR7WM"/>
+        <updated>2024-08-11T15:00:14.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Candy Shaping and Cutting Process]]></title>
+        <id>https://www.youtube.com/watch?v=_ueHukCA5hY</id>
+        <link href="https://www.youtube.com/watch?v=_ueHukCA5hY"/>
+        <updated>2024-08-11T13:00:36.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Aluminum Window Design]]></title>
         <id>https://www.youtube.com/watch?v=x9zioJdlSeM</id>
@@ -231,7 +276,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I made a pocket sized bike]]></title>
+        <title type="html"><![CDATA[After 100+ parts and 45 hours of practice, I did it]]></title>
         <id>https://www.youtube.com/watch?v=YqywL9PkM2s</id>
         <link href="https://www.youtube.com/watch?v=YqywL9PkM2s"/>
         <updated>2024-08-09T03:42:19.000Z</updated>
@@ -303,15 +348,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Future of Cosmetics: AI Lash Tech]]></title>
-        <id>https://www.youtube.com/watch?v=ffHHyim22fE</id>
-        <link href="https://www.youtube.com/watch?v=ffHHyim22fE"/>
-        <updated>2024-08-08T16:00:40.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[World Class TITANIUM Spikes for Running Shoes]]></title>
         <id>https://www.youtube.com/watch?v=VWXXQvcrR4o</id>
         <link href="https://www.youtube.com/watch?v=VWXXQvcrR4o"/>
@@ -336,15 +372,6 @@
         <updated>2024-08-08T14:00:13.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Era of Lightweight Casts]]></title>
-        <id>https://www.youtube.com/watch?v=I3hdQx6-HUM</id>
-        <link href="https://www.youtube.com/watch?v=I3hdQx6-HUM"/>
-        <updated>2024-08-08T13:00:20.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -384,24 +411,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quick Road Improvements]]></title>
-        <id>https://www.youtube.com/watch?v=PXCIbyY-Iuo</id>
-        <link href="https://www.youtube.com/watch?v=PXCIbyY-Iuo"/>
-        <updated>2024-08-07T16:00:20.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Death Defying Storm Tanks Collect Valuable Information]]></title>
-        <id>https://www.youtube.com/watch?v=u0IqqrkAa2A</id>
-        <link href="https://www.youtube.com/watch?v=u0IqqrkAa2A"/>
-        <updated>2024-08-07T15:27:17.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Revolutionizing the Logistics of Spaceflight - Firefly Aerospace]]></title>
         <id>https://www.youtube.com/watch?v=tCDY1k1JGqw</id>
         <link href="https://www.youtube.com/watch?v=tCDY1k1JGqw"/>
@@ -417,15 +426,6 @@
         <updated>2024-08-07T14:00:32.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Hagoromo chalk lore keeps Hagoromo heads coming back for more. #chalk #hagoromo #math]]></title>
-        <id>https://www.youtube.com/watch?v=SZyBcsGvBYM</id>
-        <link href="https://www.youtube.com/watch?v=SZyBcsGvBYM"/>
-        <updated>2024-08-06T23:00:12.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -834,7 +834,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Outlet to Which Circuit Breaker / Fuse]]></title>
+        <title type="html"><![CDATA[Find What Outlet to Which Circuit Breaker / Fuse]]></title>
         <id>https://www.youtube.com/watch?v=MkMc5t02A64</id>
         <link href="https://www.youtube.com/watch?v=MkMc5t02A64"/>
         <updated>2024-07-26T16:00:12.000Z</updated>
