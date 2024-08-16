@@ -54,16 +54,6 @@
           "wordCount": null,
           "title": "A Shot in the Dark for Dark Matter",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=m_UeIh9TCGk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=m_UeIh9TCGk",
-          "publishedOn": "2024-05-17T23:12:02.000Z",
-          "wordCount": null,
-          "title": "What Is Quantum Teleportation? | Podcast: The Joy of Why",
-          "imageUrl": null
         }
       ]
     },
@@ -874,7 +864,18 @@
       "title": "AlphaPhoenix",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCWeRTgd79JL0ilH0ZywSJA",
       "siteUrl": "https://www.youtube.com/channel/UCCWeRTgd79JL0ilH0ZywSJA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=8i9WMD6xbuA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8i9WMD6xbuA",
+          "publishedOn": "2024-08-15T10:00:09.000Z",
+          "wordCount": null,
+          "title": "Dragonflies hunt by predicting the future",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Artem Kirsanov",
@@ -971,6 +972,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "siteUrl": "https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=rsuqSn7ifpU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rsuqSn7ifpU",
+          "publishedOn": "2024-08-15T15:30:01.000Z",
+          "wordCount": null,
+          "title": "First Look Inside Blue Origin's New Glenn Factory w/ Jeff Bezos!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=z1WGk5XSNXk",
           "author": null,
@@ -1116,6 +1127,46 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UEq_2VyGs1s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UEq_2VyGs1s",
+          "publishedOn": "2024-08-15T19:00:19.000Z",
+          "wordCount": null,
+          "title": "Laser Marking Machine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=nbMvuR6KgvA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nbMvuR6KgvA",
+          "publishedOn": "2024-08-15T16:00:48.000Z",
+          "wordCount": null,
+          "title": "Mouth Tape",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=2gr3OHT-H4U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2gr3OHT-H4U",
+          "publishedOn": "2024-08-15T15:10:35.000Z",
+          "wordCount": null,
+          "title": "Surf Loch Engineers Waves with Siemens Tech",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bP6Bu1SwcMY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bP6Bu1SwcMY",
+          "publishedOn": "2024-08-15T13:00:40.000Z",
+          "wordCount": null,
+          "title": "Impenetrable Turbo Blanket",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lPUGcgFH4MI",
           "author": null,
           "description": "",
@@ -1223,46 +1274,6 @@
           "publishedOn": "2024-08-12T13:12:13.000Z",
           "wordCount": null,
           "title": "3D-Printed Dentures",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=39ZjBjODdfo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=39ZjBjODdfo",
-          "publishedOn": "2024-08-11T21:00:02.000Z",
-          "wordCount": null,
-          "title": "The Plan To Make The Deserts Flower",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uTk9GU8ScAU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uTk9GU8ScAU",
-          "publishedOn": "2024-08-11T19:00:28.000Z",
-          "wordCount": null,
-          "title": "Beach Cleaning Machine",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=a-B32bOIVOY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=a-B32bOIVOY",
-          "publishedOn": "2024-08-11T16:00:01.000Z",
-          "wordCount": null,
-          "title": "3D Printing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_ueHukCA5hY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_ueHukCA5hY",
-          "publishedOn": "2024-08-11T13:00:36.000Z",
-          "wordCount": null,
-          "title": "Candy Shaping and Cutting Process",
           "imageUrl": null
         }
       ]
@@ -1964,7 +1975,7 @@
           "link": "https://www.youtube.com/watch?v=Sn07AMCfaAI",
           "publishedOn": "2024-08-14T17:05:19.000Z",
           "wordCount": null,
-          "title": "Does this sound illusion fool you?",
+          "title": "These sound illusions fool almost everyone",
           "imageUrl": null
         },
         {
@@ -1995,16 +2006,6 @@
           "publishedOn": "2024-05-30T19:24:55.000Z",
           "wordCount": null,
           "title": "What Jumping Spiders Teach Us About Color",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WKvAsz3RoRE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WKvAsz3RoRE",
-          "publishedOn": "2024-05-17T15:39:46.000Z",
-          "wordCount": null,
-          "title": "This phone trick is IMPOSSIBLE",
           "imageUrl": null
         }
       ]
@@ -2219,6 +2220,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCekQr9znsk2vWxBo3YiLq2w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KQO86OAZVJ0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KQO86OAZVJ0",
+          "publishedOn": "2024-08-15T17:34:19.000Z",
+          "wordCount": null,
+          "title": "Making Music with Apples                        #apple #music #audio",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UrDHNOr-wrk",
           "author": null,
           "description": "",
@@ -2325,6 +2336,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=PJZq1bRYM68",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PJZq1bRYM68",
+          "publishedOn": "2024-08-15T15:30:08.000Z",
+          "wordCount": null,
+          "title": "When Ultimate Precision Matters",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kUoOnEUX1_E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kUoOnEUX1_E",
+          "publishedOn": "2024-08-15T11:00:48.000Z",
+          "wordCount": null,
+          "title": "Grinding Process: Achieving a 3 Ra Finish & Dimensional Brilliance",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=f-6YQLOijYo",
           "author": null,
@@ -2454,26 +2485,6 @@
           "wordCount": null,
           "title": "Mastering CNC Machining: Rise to the Top",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=K31fh4uEVb0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=K31fh4uEVb0",
-          "publishedOn": "2024-08-05T14:00:18.000Z",
-          "wordCount": null,
-          "title": "Only Thing That Matters - MRR",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LeUYEUE1X18",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LeUYEUE1X18",
-          "publishedOn": "2024-08-04T14:00:14.000Z",
-          "wordCount": null,
-          "title": "Change Your Mindset and Make More Money",
-          "imageUrl": null
         }
       ]
     },
@@ -2482,6 +2493,46 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=sjKqFTBjpw8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sjKqFTBjpw8",
+          "publishedOn": "2024-08-15T23:02:31.000Z",
+          "wordCount": null,
+          "title": "There are entire criminal rings of people smuggling fish across the world. #seafood #fish #fishing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DWiZGlNxoOA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DWiZGlNxoOA",
+          "publishedOn": "2024-08-15T22:33:51.000Z",
+          "wordCount": null,
+          "title": "3D printing homes might need just three people. #housing #3dprinting #construction",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YCzqSUR3l30",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YCzqSUR3l30",
+          "publishedOn": "2024-08-15T21:00:20.000Z",
+          "wordCount": null,
+          "title": "Indonesia produces nearly 7 million tons of plastic waste each year. #indonesia #waste #plastic",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YyLcD7_vt0Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YyLcD7_vt0Q",
+          "publishedOn": "2024-08-15T15:00:35.000Z",
+          "wordCount": null,
+          "title": "How A $1 Billion Gold Kiwi Breed Saved New Zealand's Industry | Big Business | Business Insider",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=f5XBlzi9-mI",
           "author": null,
@@ -2591,46 +2642,6 @@
           "wordCount": null,
           "title": "3D printing eliminates the need for multiple specialized crews. #3dprinting #housing #construction",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UuU1ZrsNIO4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UuU1ZrsNIO4",
-          "publishedOn": "2024-08-12T15:00:25.000Z",
-          "wordCount": null,
-          "title": "Musk Lawsuits Explained | Business Insider Explains | Business Insider",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GK_X4jiR7WM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GK_X4jiR7WM",
-          "publishedOn": "2024-08-11T15:00:14.000Z",
-          "wordCount": null,
-          "title": "15 Jobs That Take A Lifetime To Master | Business Insider Marathon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sbgWwg2Ykew",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sbgWwg2Ykew",
-          "publishedOn": "2024-08-10T15:00:49.000Z",
-          "wordCount": null,
-          "title": "6 Of The Most Smuggled Foods In The World | So Expensive Marathon | Business Insider",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rMDRIGWolQA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rMDRIGWolQA",
-          "publishedOn": "2024-08-09T20:01:19.000Z",
-          "wordCount": null,
-          "title": "Beginner pedal harp models start at about $14,000, but prices can exceed $70,000. #handmade #harp",
-          "imageUrl": null
         }
       ]
     },
@@ -2667,16 +2678,6 @@
           "publishedOn": "2024-06-20T18:06:24.000Z",
           "wordCount": null,
           "title": "Γάτος",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sZ9OkbYRlBY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sZ9OkbYRlBY",
-          "publishedOn": "2024-05-17T19:08:59.000Z",
-          "wordCount": null,
-          "title": "ΓΚΕΚDIVERS",
           "imageUrl": null
         }
       ]
@@ -2794,16 +2795,6 @@
           "publishedOn": "2024-05-24T15:00:53.000Z",
           "wordCount": null,
           "title": "I made all three Catnaps Realistic",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9-uO4EgPGq8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9-uO4EgPGq8",
-          "publishedOn": "2024-05-17T15:00:08.000Z",
-          "wordCount": null,
-          "title": "I made my own Lego Zombies",
           "imageUrl": null
         }
       ]
