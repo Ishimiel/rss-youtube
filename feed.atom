@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-19T00:36:33.605Z</id>
+    <id>urn:2024-08-20T00:35:32.503Z</id>
     <title>osmos::feed</title>
-    <updated>2024-08-19T00:36:33.605Z</updated>
+    <updated>2024-08-20T00:35:32.503Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Caviar comes from the eggs of sturgeon, the majority of which are endangered. #farming #caviar #fish]]></title>
+        <id>https://www.youtube.com/watch?v=CPcNNzePZh4</id>
+        <link href="https://www.youtube.com/watch?v=CPcNNzePZh4"/>
+        <updated>2024-08-19T23:00:05.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fishermen face 20-hour workdays, withheld passports, and abuse. #fishing #humanrights #fairlabor]]></title>
+        <id>https://www.youtube.com/watch?v=qhCnB5QsEPM</id>
+        <link href="https://www.youtube.com/watch?v=qhCnB5QsEPM"/>
+        <updated>2024-08-19T21:02:57.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[For almost 80 years, this family has been making a 500-year-old bite-size #treat. #singapore #cake]]></title>
+        <id>https://www.youtube.com/watch?v=Ec-ZTHgUF5A</id>
+        <link href="https://www.youtube.com/watch?v=Ec-ZTHgUF5A"/>
+        <updated>2024-08-19T20:00:05.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smooth Wall Corners]]></title>
+        <id>https://www.youtube.com/watch?v=ufbxO69Zqdw</id>
+        <link href="https://www.youtube.com/watch?v=ufbxO69Zqdw"/>
+        <updated>2024-08-19T19:00:30.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The O-Bahn Busway]]></title>
+        <id>https://www.youtube.com/watch?v=TlYoMmCXCd8</id>
+        <link href="https://www.youtube.com/watch?v=TlYoMmCXCd8"/>
+        <updated>2024-08-19T16:00:33.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Did You Make Today?]]></title>
+        <id>https://www.youtube.com/watch?v=rVB4FuF9v58</id>
+        <link href="https://www.youtube.com/watch?v=rVB4FuF9v58"/>
+        <updated>2024-08-19T15:08:33.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peloton, The Fitness Craze That Couldn't Last | Business Insider Explains | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=-toUdF5wWq4</id>
+        <link href="https://www.youtube.com/watch?v=-toUdF5wWq4"/>
+        <updated>2024-08-19T15:00:00.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNC Machining My First Part]]></title>
+        <id>https://www.youtube.com/watch?v=of6-ClIIMWM</id>
+        <link href="https://www.youtube.com/watch?v=of6-ClIIMWM"/>
+        <updated>2024-08-19T14:00:45.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Jenga Tower]]></title>
+        <id>https://www.youtube.com/watch?v=MORR8YlDw9U</id>
+        <link href="https://www.youtube.com/watch?v=MORR8YlDw9U"/>
+        <updated>2024-08-19T13:00:20.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Finally Found One!]]></title>
+        <id>https://www.youtube.com/watch?v=ycYniNvZuoQ</id>
+        <link href="https://www.youtube.com/watch?v=ycYniNvZuoQ"/>
+        <updated>2024-08-19T02:29:58.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fire Resistant Coating]]></title>
         <id>https://www.youtube.com/watch?v=fakpXj495C8</id>
@@ -330,15 +420,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Impenetrable Turbo Blanket]]></title>
-        <id>https://www.youtube.com/watch?v=bP6Bu1SwcMY</id>
-        <link href="https://www.youtube.com/watch?v=bP6Bu1SwcMY"/>
-        <updated>2024-08-15T13:00:40.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Grinding Process: Achieving a 3 Ra Finish & Dimensional Brilliance]]></title>
         <id>https://www.youtube.com/watch?v=kUoOnEUX1_E</id>
         <link href="https://www.youtube.com/watch?v=kUoOnEUX1_E"/>
@@ -357,37 +438,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Goes Into Mixing Paint]]></title>
-        <id>https://www.youtube.com/watch?v=lPUGcgFH4MI</id>
-        <link href="https://www.youtube.com/watch?v=lPUGcgFH4MI"/>
-        <updated>2024-08-14T21:00:36.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[More than half of Peru's exported scallops come from Satura Bay. #peru #scallop #fishing]]></title>
         <id>https://www.youtube.com/watch?v=f5XBlzi9-mI</id>
         <link href="https://www.youtube.com/watch?v=f5XBlzi9-mI"/>
         <updated>2024-08-14T19:00:32.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Taffy Is Dyed]]></title>
-        <id>https://www.youtube.com/watch?v=r9j0bHhKEWc</id>
-        <link href="https://www.youtube.com/watch?v=r9j0bHhKEWc"/>
-        <updated>2024-08-14T19:00:25.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Companies are spending billions on 3D printing homes. #housing #3dprinting #construction]]></title>
-        <id>https://www.youtube.com/watch?v=U6Hi4vbekME</id>
-        <link href="https://www.youtube.com/watch?v=U6Hi4vbekME"/>
-        <updated>2024-08-14T18:11:46.000Z</updated>
         <author>
             <name>Business Insider</name>
         </author>
@@ -402,15 +456,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#Bali generates over 300,000 metric tons of plastic waste annually. #plasticwaste #environment]]></title>
-        <id>https://www.youtube.com/watch?v=ZUQhxv7Anwo</id>
-        <link href="https://www.youtube.com/watch?v=ZUQhxv7Anwo"/>
-        <updated>2024-08-14T16:56:41.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Colin Stetson Live at Greenwood Cemetery]]></title>
         <id>https://www.youtube.com/watch?v=kbAgT1vCP6w</id>
         <link href="https://www.youtube.com/watch?v=kbAgT1vCP6w"/>
@@ -420,30 +465,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Army Artillery Soldiers Train To Fire $4.3 Million Howitzers — The "King Of Battle" | Boot Camp]]></title>
-        <id>https://www.youtube.com/watch?v=nPE0GkSESU4</id>
-        <link href="https://www.youtube.com/watch?v=nPE0GkSESU4"/>
-        <updated>2024-08-14T16:31:24.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[3D Printing Custom Metal End of Arm Grippers]]></title>
         <id>https://www.youtube.com/watch?v=f-6YQLOijYo</id>
         <link href="https://www.youtube.com/watch?v=f-6YQLOijYo"/>
         <updated>2024-08-14T14:30:20.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's how 3D-printed homes are built. #3Dprinting #home #architecture]]></title>
-        <id>https://www.youtube.com/watch?v=cNwnDW_9-3c</id>
-        <link href="https://www.youtube.com/watch?v=cNwnDW_9-3c"/>
-        <updated>2024-08-14T00:00:30.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -649,15 +676,6 @@
         <id>https://www.youtube.com/watch?v=VWXXQvcrR4o</id>
         <link href="https://www.youtube.com/watch?v=VWXXQvcrR4o"/>
         <updated>2024-08-08T15:00:36.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CNC Machining 5.3 Million Parts Per Year]]></title>
-        <id>https://www.youtube.com/watch?v=ebiP2wquZTw</id>
-        <link href="https://www.youtube.com/watch?v=ebiP2wquZTw"/>
-        <updated>2024-08-08T14:00:37.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
         </author>
@@ -1344,15 +1362,6 @@
         <updated>2024-07-12T20:00:06.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Does Earth Look 'Drippy'?]]></title>
-        <id>https://www.youtube.com/watch?v=4bmrcZHi-0s</id>
-        <link href="https://www.youtube.com/watch?v=4bmrcZHi-0s"/>
-        <updated>2024-07-12T17:35:58.000Z</updated>
-        <author>
-            <name>Vsauce</name>
         </author>
     </entry>
     <entry>
@@ -2235,15 +2244,6 @@
         <updated>2024-06-05T15:01:05.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anchor Up. Come along for the ride.]]></title>
-        <id>https://www.youtube.com/watch?v=WsrkYF28VxU</id>
-        <link href="https://www.youtube.com/watch?v=WsrkYF28VxU"/>
-        <updated>2024-06-05T14:37:47.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
         </author>
     </entry>
     <entry>
