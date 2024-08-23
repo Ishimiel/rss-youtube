@@ -140,6 +140,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=W-x9d-nhal4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=W-x9d-nhal4",
+          "publishedOn": "2024-08-22T14:00:28.000Z",
+          "wordCount": null,
+          "title": "Fentanyl Explained #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cRZOUcpiOxY",
           "author": null,
           "description": "",
@@ -278,16 +288,6 @@
           "wordCount": null,
           "title": "Something Travels Faster than Light #shorts",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BLW4hCFwSXE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BLW4hCFwSXE",
-          "publishedOn": "2024-05-30T14:00:07.000Z",
-          "wordCount": null,
-          "title": "How Old Can You Get? #shorts",
-          "imageUrl": null
         }
       ]
     },
@@ -396,7 +396,7 @@
           "link": "https://www.youtube.com/watch?v=ZrixRt-JTo8",
           "publishedOn": "2024-08-22T00:06:02.000Z",
           "wordCount": null,
-          "title": "Introducing the Frenet-Serret Formulas | Differential Geometry",
+          "title": "The Frenet-Serret Formulas | Differential Geometry",
           "imageUrl": null
         },
         {
@@ -466,6 +466,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvz10aafWdDEvO_4ehcr0jQ",
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Mdlv19T8cRA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Mdlv19T8cRA",
+          "publishedOn": "2024-08-22T15:02:46.000Z",
+          "wordCount": null,
+          "title": "L'Rain performs \"5 to 8 Hours a Day (WWwaG)\" Live at Pioneer Works",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=kbAgT1vCP6w",
           "author": null,
@@ -604,16 +614,6 @@
           "publishedOn": "2024-06-27T15:33:33.000Z",
           "wordCount": null,
           "title": "Supruli | Ragas Live Festival 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sJEWQ_IWBp4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sJEWQ_IWBp4",
-          "publishedOn": "2024-06-27T15:33:28.000Z",
-          "wordCount": null,
-          "title": "Ramakrishnan Murthy | Ragas Live Festival 2023",
           "imageUrl": null
         }
       ]
@@ -918,7 +918,7 @@
           "link": "https://www.youtube.com/watch?v=_bqa_I5hNAo",
           "publishedOn": "2024-08-13T04:50:08.000Z",
           "wordCount": null,
-          "title": "When AI Learns to Dream",
+          "title": "The Grandfather Of Generative Models",
           "imageUrl": null
         },
         {
@@ -1156,6 +1156,46 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7Vh0Ch-g2CY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7Vh0Ch-g2CY",
+          "publishedOn": "2024-08-22T19:00:03.000Z",
+          "wordCount": null,
+          "title": "3D-Printed Everything",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=VpXejRfY2aI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VpXejRfY2aI",
+          "publishedOn": "2024-08-22T17:00:24.000Z",
+          "wordCount": null,
+          "title": "This Teenager Built A Nuclear Reactor For School",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xoagBUX0PEQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xoagBUX0PEQ",
+          "publishedOn": "2024-08-22T16:01:06.000Z",
+          "wordCount": null,
+          "title": "Antique Elevator Table",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=QfdOROzZsH0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QfdOROzZsH0",
+          "publishedOn": "2024-08-22T13:00:34.000Z",
+          "wordCount": null,
+          "title": "CGI Tree Paintings",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pnUAQN22u_c",
           "author": null,
           "description": "",
@@ -1192,7 +1232,7 @@
           "link": "https://www.youtube.com/watch?v=JRuCy-z7FYI",
           "publishedOn": "2024-08-21T13:24:15.000Z",
           "wordCount": null,
-          "title": "The Flood Threatening London",
+          "title": "London's Last Line of Defence Against the Flood!",
           "imageUrl": null
         },
         {
@@ -1263,46 +1303,6 @@
           "publishedOn": "2024-08-19T16:00:33.000Z",
           "wordCount": null,
           "title": "The O-Bahn Busway",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MORR8YlDw9U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MORR8YlDw9U",
-          "publishedOn": "2024-08-19T13:00:20.000Z",
-          "wordCount": null,
-          "title": "The Jenga Tower",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fakpXj495C8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fakpXj495C8",
-          "publishedOn": "2024-08-18T19:00:26.000Z",
-          "wordCount": null,
-          "title": "Fire Resistant Coating",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=q0zXVliD6sE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=q0zXVliD6sE",
-          "publishedOn": "2024-08-18T16:00:45.000Z",
-          "wordCount": null,
-          "title": "Tattoo Glasses",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HihO-Pa_TuY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HihO-Pa_TuY",
-          "publishedOn": "2024-08-18T13:00:14.000Z",
-          "wordCount": null,
-          "title": "Automatic Pool Cover",
           "imageUrl": null
         }
       ]
@@ -2356,6 +2356,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=R3HtKzXxr3Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=R3HtKzXxr3Q",
+          "publishedOn": "2024-08-22T16:55:00.000Z",
+          "wordCount": null,
+          "title": "3D Printing a Custom CMM Fixture",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=T8LzrLzdkFU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=T8LzrLzdkFU",
+          "publishedOn": "2024-08-22T14:00:31.000Z",
+          "wordCount": null,
+          "title": "YouTube Trained Machinist Opens High Perfomance Machine Shop",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=r7MQxLGGuig",
           "author": null,
           "description": "",
@@ -2484,26 +2504,6 @@
           "wordCount": null,
           "title": "The SECRETS of German Engineering & Manufacturing",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TtW07KnlyF4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TtW07KnlyF4",
-          "publishedOn": "2024-08-12T14:30:14.000Z",
-          "wordCount": null,
-          "title": "Setting Up Most Complex Part We've Ever Machined",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Cv5632SicU0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Cv5632SicU0",
-          "publishedOn": "2024-08-10T14:00:14.000Z",
-          "wordCount": null,
-          "title": "Revolutionary CNC Tool Measuring Technology",
-          "imageUrl": null
         }
       ]
     },
@@ -2512,6 +2512,66 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=LgXHIfGsEnw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LgXHIfGsEnw",
+          "publishedOn": "2024-08-22T19:30:21.000Z",
+          "wordCount": null,
+          "title": "Our global banana industry is built on one kind: the Cavendish. #banana #fruit #colombia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=PlaQGL3VVBc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PlaQGL3VVBc",
+          "publishedOn": "2024-08-22T17:20:17.000Z",
+          "wordCount": null,
+          "title": "Smugglers exploit high-demand products to create black markets. #blackmarket #kiwi #lobster",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1T-lBDKXTV8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1T-lBDKXTV8",
+          "publishedOn": "2024-08-22T15:06:26.000Z",
+          "wordCount": null,
+          "title": "A New Era Of Business: Is AI The Key To Juggling The Demands Of Running A Small Business?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=n2TxR3bDrVk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=n2TxR3bDrVk",
+          "publishedOn": "2024-08-22T15:06:23.000Z",
+          "wordCount": null,
+          "title": "A New Era Of Business: How A Retail Tech Cofounder Transformed His Work Life With AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=FBRSiSjDOSU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FBRSiSjDOSU",
+          "publishedOn": "2024-08-22T15:06:20.000Z",
+          "wordCount": null,
+          "title": "A New Era Of Business: How One Beauty Founder Uses AI To Increase Productivity",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=thXstqQcdQ4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=thXstqQcdQ4",
+          "publishedOn": "2024-08-22T15:01:03.000Z",
+          "wordCount": null,
+          "title": "How Brazil Dominates Sugar Production Without Burning Fields | Big Business | Business Insider",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=zl6BuEwLyLE",
           "author": null,
@@ -2600,66 +2660,6 @@
           "publishedOn": "2024-08-19T23:00:05.000Z",
           "wordCount": null,
           "title": "Caviar comes from the eggs of sturgeon, the majority of which are endangered. #farming #caviar #fish",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qhCnB5QsEPM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qhCnB5QsEPM",
-          "publishedOn": "2024-08-19T21:02:57.000Z",
-          "wordCount": null,
-          "title": "Fishermen face 20-hour workdays, withheld passports, and abuse. #fishing #humanrights #fairlabor",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ec-ZTHgUF5A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ec-ZTHgUF5A",
-          "publishedOn": "2024-08-19T20:00:05.000Z",
-          "wordCount": null,
-          "title": "For almost 80 years, this family has been making a 500-year-old bite-size #treat. #singapore #cake",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-toUdF5wWq4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-toUdF5wWq4",
-          "publishedOn": "2024-08-19T15:00:00.000Z",
-          "wordCount": null,
-          "title": "Peloton, The Fitness Craze That Couldn't Last | Business Insider Explains | Business Insider",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=q1PBDoRgiMQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=q1PBDoRgiMQ",
-          "publishedOn": "2024-08-18T15:00:52.000Z",
-          "wordCount": null,
-          "title": "How The World’s Hungriest Crowds Are Fed | Business Insider Marathon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-d8sNML3WT8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-d8sNML3WT8",
-          "publishedOn": "2024-08-17T17:00:00.000Z",
-          "wordCount": null,
-          "title": "Why Lego Is So Expensive | So Expensive | Business Insider",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=icJ9WNDWTSo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=icJ9WNDWTSo",
-          "publishedOn": "2024-08-16T22:32:26.000Z",
-          "wordCount": null,
-          "title": "Criminals are cutting skate or whitefish to fake #scallops, which is illegal. #restaurant #seafood",
           "imageUrl": null
         }
       ]
@@ -2814,16 +2814,6 @@
           "publishedOn": "2024-05-31T15:00:02.000Z",
           "wordCount": null,
           "title": "I made DogDay hanging out in prison",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xxm7RSB4VDg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xxm7RSB4VDg",
-          "publishedOn": "2024-05-24T15:00:53.000Z",
-          "wordCount": null,
-          "title": "I made all three Catnaps Realistic",
           "imageUrl": null
         }
       ]
