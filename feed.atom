@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-25T00:39:21.988Z</id>
+    <id>urn:2024-08-26T00:36:42.245Z</id>
     <title>osmos::feed</title>
-    <updated>2024-08-25T00:39:21.988Z</updated>
+    <updated>2024-08-26T00:36:42.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Variations Lighting Installation]]></title>
+        <id>https://www.youtube.com/watch?v=sMBmdPOQ6W4</id>
+        <link href="https://www.youtube.com/watch?v=sMBmdPOQ6W4"/>
+        <updated>2024-08-25T19:00:32.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fuel Polishing and Tank Maintenance on a Boat]]></title>
+        <id>https://www.youtube.com/watch?v=L_rdqh45CZw</id>
+        <link href="https://www.youtube.com/watch?v=L_rdqh45CZw"/>
+        <updated>2024-08-25T16:15:39.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World's First Underwater Jetpack]]></title>
+        <id>https://www.youtube.com/watch?v=eGulxZaY7Xs</id>
+        <link href="https://www.youtube.com/watch?v=eGulxZaY7Xs"/>
+        <updated>2024-08-25T16:00:37.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 26 Most Expensive Liquids We've Ever Covered | Business Insider Marathon]]></title>
+        <id>https://www.youtube.com/watch?v=UHOIaYOxKlI</id>
+        <link href="https://www.youtube.com/watch?v=UHOIaYOxKlI"/>
+        <updated>2024-08-25T15:00:29.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cutting Machining Time Down From Over 1 Hour to Under 5 Minutes]]></title>
+        <id>https://www.youtube.com/watch?v=HiMv14xDcDk</id>
+        <link href="https://www.youtube.com/watch?v=HiMv14xDcDk"/>
+        <updated>2024-08-25T14:00:13.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Beautiful Budderscopes]]></title>
+        <id>https://www.youtube.com/watch?v=nrBJBNLH1fw</id>
+        <link href="https://www.youtube.com/watch?v=nrBJBNLH1fw"/>
+        <updated>2024-08-25T13:00:54.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blast From The Past]]></title>
         <id>https://www.youtube.com/watch?v=dPcC5pCa9ao</id>
@@ -339,15 +393,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crosshatch Paint]]></title>
-        <id>https://www.youtube.com/watch?v=pnUAQN22u_c</id>
-        <link href="https://www.youtube.com/watch?v=pnUAQN22u_c"/>
-        <updated>2024-08-21T21:00:28.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lobstermen can empty up to 300 traps a day for about 900 pounds of #lobster. #fishing #shellfish]]></title>
         <id>https://www.youtube.com/watch?v=zl6BuEwLyLE</id>
         <link href="https://www.youtube.com/watch?v=zl6BuEwLyLE"/>
@@ -363,15 +408,6 @@
         <updated>2024-08-21T19:30:00.000Z</updated>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Narrowest Elevator]]></title>
-        <id>https://www.youtube.com/watch?v=V1O4Z-w-0Vw</id>
-        <link href="https://www.youtube.com/watch?v=V1O4Z-w-0Vw"/>
-        <updated>2024-08-21T19:00:15.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -402,15 +438,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can The Thames Barrier Still Protect London?]]></title>
-        <id>https://www.youtube.com/watch?v=vfng7i2ZIQ8</id>
-        <link href="https://www.youtube.com/watch?v=vfng7i2ZIQ8"/>
-        <updated>2024-08-21T15:52:42.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Grinding a Perfect ID on the Studer S33]]></title>
         <id>https://www.youtube.com/watch?v=r7MQxLGGuig</id>
         <link href="https://www.youtube.com/watch?v=r7MQxLGGuig"/>
@@ -420,21 +447,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How physics creates surfaces with least area (and solves 3D graphics problem)]]></title>
+        <title type="html"><![CDATA[How physics solves a math problem (and a 3D graphics problem)]]></title>
         <id>https://www.youtube.com/watch?v=Cvs8iRqG6lg</id>
         <link href="https://www.youtube.com/watch?v=Cvs8iRqG6lg"/>
         <updated>2024-08-21T14:00:11.000Z</updated>
         <author>
             <name>Mathemaniac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Caviar is one of the most commonly faked foods on the planet. #caviar #sturgeon #fish]]></title>
-        <id>https://www.youtube.com/watch?v=LzrYwbFxkIc</id>
-        <link href="https://www.youtube.com/watch?v=LzrYwbFxkIc"/>
-        <updated>2024-08-20T22:00:13.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -642,15 +660,6 @@
         <updated>2024-08-14T16:32:16.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Printing Custom Metal End of Arm Grippers]]></title>
-        <id>https://www.youtube.com/watch?v=f-6YQLOijYo</id>
-        <link href="https://www.youtube.com/watch?v=f-6YQLOijYo"/>
-        <updated>2024-08-14T14:30:20.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1014,7 +1023,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Real Reason Robots Shouldn’t Look Like Humans | Compilation]]></title>
+        <title type="html"><![CDATA[The Real Reason Robots Shouldn’t Look Like Humans | Documentary]]></title>
         <id>https://www.youtube.com/watch?v=eLVAMG_3fLg</id>
         <link href="https://www.youtube.com/watch?v=eLVAMG_3fLg"/>
         <updated>2024-07-31T18:55:46.000Z</updated>
@@ -1965,15 +1974,6 @@
         <updated>2024-06-25T13:56:12.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fixing the Broken Battens]]></title>
-        <id>https://www.youtube.com/watch?v=H5aqMHuBfs8</id>
-        <link href="https://www.youtube.com/watch?v=H5aqMHuBfs8"/>
-        <updated>2024-06-23T18:39:01.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
         </author>
     </entry>
     <entry>
