@@ -105,7 +105,18 @@
       "title": "3Blue1Brown",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw",
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=9-Jl0dxWQs8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9-Jl0dxWQs8",
+          "publishedOn": "2024-08-31T12:11:19.000Z",
+          "wordCount": null,
+          "title": "How might LLMs store facts | Chapter 7, Deep Learning",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Mathemaniac",
@@ -731,6 +742,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=AZUw0XM8wMM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AZUw0XM8wMM",
+          "publishedOn": "2024-08-31T13:00:08.000Z",
+          "wordCount": null,
+          "title": "Mastering 3D Printing Tricks for Stunning Kinetic Sculptures!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=hx851FUao4w",
           "author": null,
           "description": "",
@@ -869,16 +890,6 @@
           "wordCount": null,
           "title": "3D Printing Armor w/ Felicia Day!!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Q8QplzpB_Mo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Q8QplzpB_Mo",
-          "publishedOn": "2024-07-12T13:00:21.000Z",
-          "wordCount": null,
-          "title": "Stablebot Pro at RAPID + TCT 2024: INDUSTRIAL 3D Printing from Luke's Laboratory!",
-          "imageUrl": null
         }
       ]
     },
@@ -934,6 +945,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCWeRTgd79JL0ilH0ZywSJA",
       "siteUrl": "https://www.youtube.com/channel/UCCWeRTgd79JL0ilH0ZywSJA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=AoessrdH6w4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AoessrdH6w4",
+          "publishedOn": "2024-08-31T18:14:36.000Z",
+          "wordCount": null,
+          "title": "Dragonfly eats a gnat #slowmotion",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=8i9WMD6xbuA",
           "author": null,
@@ -1166,6 +1187,56 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QflLv4vJBUs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QflLv4vJBUs",
+          "publishedOn": "2024-08-31T19:00:14.000Z",
+          "wordCount": null,
+          "title": "Mobile Spike",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=86zFyUgUyTY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=86zFyUgUyTY",
+          "publishedOn": "2024-08-31T16:00:13.000Z",
+          "wordCount": null,
+          "title": "Colour Rain",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=cILyQ1Wc0nA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cILyQ1Wc0nA",
+          "publishedOn": "2024-08-31T14:00:28.000Z",
+          "wordCount": null,
+          "title": "NIR-Illuminated Veins",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Vg_q2hRwE7E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Vg_q2hRwE7E",
+          "publishedOn": "2024-08-31T10:00:27.000Z",
+          "wordCount": null,
+          "title": "We Forgot How to Make Concrete",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=prszskLQrR4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=prszskLQrR4",
+          "publishedOn": "2024-08-31T09:15:02.000Z",
+          "wordCount": null,
+          "title": "We Forgot How to Make Concrete",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pDR7UDznYRs",
           "author": null,
           "description": "",
@@ -1264,56 +1335,6 @@
           "wordCount": null,
           "title": "The UK's Biggest Infrastructure Blunder",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PyDB8c1llRs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PyDB8c1llRs",
-          "publishedOn": "2024-08-28T14:37:06.000Z",
-          "wordCount": null,
-          "title": "How HS2 Got Derailed",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lsqDcD_aqR4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lsqDcD_aqR4",
-          "publishedOn": "2024-08-28T13:00:53.000Z",
-          "wordCount": null,
-          "title": "Portable Vacuum Seal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Pa2-8EKPkTA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Pa2-8EKPkTA",
-          "publishedOn": "2024-08-27T19:00:15.000Z",
-          "wordCount": null,
-          "title": "Smart Film Transforms Windows",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MgbVe4b6XRY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MgbVe4b6XRY",
-          "publishedOn": "2024-08-27T16:00:19.000Z",
-          "wordCount": null,
-          "title": "Epoxy-Crafted Shiny Chessboard",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Y9RhpqAYsMM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Y9RhpqAYsMM",
-          "publishedOn": "2024-08-27T14:15:03.000Z",
-          "wordCount": null,
-          "title": "Zero Emission Cement",
-          "imageUrl": null
         }
       ]
     },
@@ -1401,7 +1422,18 @@
       "title": "NileRed",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFhXFikryT4aFcLkLw2LBLA",
       "siteUrl": "https://www.youtube.com/channel/UCFhXFikryT4aFcLkLw2LBLA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=jLX1-tNnvEo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jLX1-tNnvEo",
+          "publishedOn": "2024-08-31T00:37:47.000Z",
+          "wordCount": null,
+          "title": "Making an atomic trampoline",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Numberphile",
@@ -1721,16 +1753,6 @@
           "wordCount": null,
           "title": "NASA has plans to build an even bigger space telescope",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EOJzpZ__9s8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EOJzpZ__9s8",
-          "publishedOn": "2024-06-02T18:38:45.000Z",
-          "wordCount": null,
-          "title": "Why the GameBoy won",
-          "imageUrl": null
         }
       ]
     },
@@ -1739,6 +1761,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj_XaV1ss-qdD-lPUtTEcXw",
       "siteUrl": "https://www.youtube.com/channel/UCj_XaV1ss-qdD-lPUtTEcXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=lKf-z4TS3Os",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lKf-z4TS3Os",
+          "publishedOn": "2024-08-31T21:39:10.000Z",
+          "wordCount": null,
+          "title": "Kedge Anchor Rescue for IRG",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=gUxLNo6eMMI",
           "author": null,
@@ -1878,16 +1910,6 @@
           "wordCount": null,
           "title": "Fort Myers and Key West Florida",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1dMcDxlen5k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1dMcDxlen5k",
-          "publishedOn": "2024-07-07T01:40:39.000Z",
-          "wordCount": null,
-          "title": "Making Better Junk and Sailing to Ft Myers",
-          "imageUrl": null
         }
       ]
     },
@@ -1904,16 +1926,6 @@
           "publishedOn": "2024-07-28T14:00:19.000Z",
           "wordCount": null,
           "title": "Nature's Incredible ROTATING MOTOR (It’s Electric!) - Smarter Every Day 300",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TWc48iVC8u8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TWc48iVC8u8",
-          "publishedOn": "2024-06-02T14:04:50.000Z",
-          "wordCount": null,
-          "title": "Actual Clickbait - Smarter Every Day 299",
           "imageUrl": null
         }
       ]
@@ -1968,6 +1980,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vjDYfvPW4mA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vjDYfvPW4mA",
+          "publishedOn": "2024-08-31T23:50:38.000Z",
+          "wordCount": null,
+          "title": "What Everyone Gets Wrong About Planes",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qf7ws2DF-zk",
           "author": null,
           "description": "",
@@ -2004,7 +2026,7 @@
           "link": "https://www.youtube.com/watch?v=eLVAMG_3fLg",
           "publishedOn": "2024-07-31T18:55:46.000Z",
           "wordCount": null,
-          "title": "The Real Reason Robots Shouldn’t Look Like Humans",
+          "title": "The Real Reason Robots Shouldn’t Look Like Humans | Supercut",
           "imageUrl": null
         },
         {
@@ -2376,6 +2398,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=g_wYNFZOJZI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=g_wYNFZOJZI",
+          "publishedOn": "2024-08-31T15:00:48.000Z",
+          "wordCount": null,
+          "title": "Simultaneous Synchronized Machining",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xU5PFifmptU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xU5PFifmptU",
+          "publishedOn": "2024-08-31T14:00:58.000Z",
+          "wordCount": null,
+          "title": "The Secret Language of Elite CNC Machinists",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=hTnhZSCeQHc",
           "author": null,
           "description": "",
@@ -2503,26 +2545,6 @@
           "publishedOn": "2024-08-21T14:00:50.000Z",
           "wordCount": null,
           "title": "Grinding a Perfect ID on the Studer S33",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=22YnYKek2Qs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=22YnYKek2Qs",
-          "publishedOn": "2024-08-20T15:00:02.000Z",
-          "wordCount": null,
-          "title": "Unboxing the Best Chip & Coolant Management Solutions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7Awl4h4K61c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7Awl4h4K61c",
-          "publishedOn": "2024-08-20T14:00:10.000Z",
-          "wordCount": null,
-          "title": "This is the Greatest CNC Machine I Have Ever Seen",
           "imageUrl": null
         }
       ]
