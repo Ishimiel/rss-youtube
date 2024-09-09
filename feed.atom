@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-08T00:41:31.974Z</id>
+    <id>urn:2024-09-09T00:40:01.348Z</id>
     <title>osmos::feed</title>
-    <updated>2024-09-08T00:41:31.974Z</updated>
+    <updated>2024-09-09T00:40:01.348Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Catching Squirrels]]></title>
+        <id>https://www.youtube.com/watch?v=i8s_aI8lgVw</id>
+        <link href="https://www.youtube.com/watch?v=i8s_aI8lgVw"/>
+        <updated>2024-09-08T19:00:32.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Herringbone Style Path]]></title>
+        <id>https://www.youtube.com/watch?v=V9M4CI0sjvY</id>
+        <link href="https://www.youtube.com/watch?v=V9M4CI0sjvY"/>
+        <updated>2024-09-08T16:00:23.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where Michelin-Starred Restaurants Get Ingredients | Business Insider Marathon]]></title>
+        <id>https://www.youtube.com/watch?v=1rXC2JJyHiw</id>
+        <link href="https://www.youtube.com/watch?v=1rXC2JJyHiw"/>
+        <updated>2024-09-08T15:00:03.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Polygonal Turning?]]></title>
+        <id>https://www.youtube.com/watch?v=HJx8CkU9XOw</id>
+        <link href="https://www.youtube.com/watch?v=HJx8CkU9XOw"/>
+        <updated>2024-09-08T14:00:11.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automated Tank Painting]]></title>
+        <id>https://www.youtube.com/watch?v=ZfC8ZGiN_V4</id>
+        <link href="https://www.youtube.com/watch?v=ZfC8ZGiN_V4"/>
+        <updated>2024-09-08T13:00:39.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cooking An Egg In My Hot Car]]></title>
+        <id>https://www.youtube.com/watch?v=lSe73vslNJI</id>
+        <link href="https://www.youtube.com/watch?v=lSe73vslNJI"/>
+        <updated>2024-09-08T01:29:46.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Electric Lifting Scaffold]]></title>
         <id>https://www.youtube.com/watch?v=Cy_5UbCBKak</id>
@@ -339,15 +393,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Portable Electric Car Charger]]></title>
-        <id>https://www.youtube.com/watch?v=KespJNofjjU</id>
-        <link href="https://www.youtube.com/watch?v=KespJNofjjU"/>
-        <updated>2024-09-04T19:00:18.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This move is worth the most in a routine. #artisticswimming #olympics #swimming]]></title>
         <id>https://www.youtube.com/watch?v=FKO51klKNQw</id>
         <link href="https://www.youtube.com/watch?v=FKO51klKNQw"/>
@@ -357,30 +402,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Looming EV Charging Crisis]]></title>
-        <id>https://www.youtube.com/watch?v=MjHTcTav6Oo</id>
-        <link href="https://www.youtube.com/watch?v=MjHTcTav6Oo"/>
-        <updated>2024-09-04T16:17:32.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[BIG ANNOUNCEMENT! #HD3 #technology #keysight #scope]]></title>
         <id>https://www.youtube.com/watch?v=822II6b7UR8</id>
         <link href="https://www.youtube.com/watch?v=822II6b7UR8"/>
         <updated>2024-09-04T16:04:05.000Z</updated>
         <author>
             <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Don't Have Enough Power for Electric Vehicles]]></title>
-        <id>https://www.youtube.com/watch?v=-bVjC7bSTw0</id>
-        <link href="https://www.youtube.com/watch?v=-bVjC7bSTw0"/>
-        <updated>2024-09-04T14:47:02.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -399,15 +426,6 @@
         <updated>2024-09-03T23:47:15.000Z</updated>
         <author>
             <name>Physics Girl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some swimmers can hold their breath for five minutes. #swimming #artisticswimming #olympics]]></title>
-        <id>https://www.youtube.com/watch?v=cFB_p7Xif9M</id>
-        <link href="https://www.youtube.com/watch?v=cFB_p7Xif9M"/>
-        <updated>2024-09-03T22:08:48.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -768,15 +786,6 @@
         <updated>2024-08-28T15:05:45.000Z</updated>
         <author>
             <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full Process - Carbide Tool Grinding]]></title>
-        <id>https://www.youtube.com/watch?v=7Q1osTgFkcw</id>
-        <link href="https://www.youtube.com/watch?v=7Q1osTgFkcw"/>
-        <updated>2024-08-28T14:02:42.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1473,7 +1482,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Real Reason Robots Shouldn’t Look Like Humans]]></title>
+        <title type="html"><![CDATA[The Real Reason Robots Shouldn’t Look Like Humans | Supercut]]></title>
         <id>https://www.youtube.com/watch?v=eLVAMG_3fLg</id>
         <link href="https://www.youtube.com/watch?v=eLVAMG_3fLg"/>
         <updated>2024-07-31T18:55:46.000Z</updated>
@@ -1677,15 +1686,6 @@
         <updated>2024-07-25T14:00:54.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Neon Brown Possible?]]></title>
-        <id>https://www.youtube.com/watch?v=vnpOGuvZsX0</id>
-        <link href="https://www.youtube.com/watch?v=vnpOGuvZsX0"/>
-        <updated>2024-07-24T17:29:05.000Z</updated>
-        <author>
-            <name>Vsauce</name>
         </author>
     </entry>
     <entry>
@@ -2458,24 +2458,6 @@
         <id>https://www.youtube.com/watch?v=69MgN2j7Jwc</id>
         <link href="https://www.youtube.com/watch?v=69MgN2j7Jwc"/>
         <updated>2024-06-11T15:00:05.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starship Flight 4 // 4k Slow Mo & Clean Audio]]></title>
-        <id>https://www.youtube.com/watch?v=wZligwZMODU</id>
-        <link href="https://www.youtube.com/watch?v=wZligwZMODU"/>
-        <updated>2024-06-10T16:02:30.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The final moments before launch]]></title>
-        <id>https://www.youtube.com/watch?v=SLdoQr2egkU</id>
-        <link href="https://www.youtube.com/watch?v=SLdoQr2egkU"/>
-        <updated>2024-06-10T15:00:21.000Z</updated>
         <author>
             <name>Real Engineering</name>
         </author>
