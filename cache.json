@@ -231,16 +231,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=By_bTBjJBKc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=By_bTBjJBKc",
-          "publishedOn": "2024-08-08T14:00:13.000Z",
-          "wordCount": null,
-          "title": "You're Not Ready",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=fa8k8IQ1_X0",
           "author": null,
           "description": "",
@@ -319,16 +309,6 @@
           "wordCount": null,
           "title": "Our Brains Are Not Special. But Why Are We? #shorts",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fcIWyctZVTM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fcIWyctZVTM",
-          "publishedOn": "2024-06-13T13:00:47.000Z",
-          "wordCount": null,
-          "title": "We Are Making a VIDEO GAME #shorts",
-          "imageUrl": null
         }
       ]
     },
@@ -337,6 +317,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=df43V4OjMVs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=df43V4OjMVs",
+          "publishedOn": "2024-09-11T13:00:54.000Z",
+          "wordCount": null,
+          "title": "Python Symbolic Regression (PySR) [Physics Informed Machine Learning]",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=y-s1oECkbuU",
           "author": null,
@@ -1197,6 +1187,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Zc2_DVWP3Go",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Zc2_DVWP3Go",
+          "publishedOn": "2024-09-11T16:00:41.000Z",
+          "wordCount": null,
+          "title": "DJI E-Bikes at IFA 2024",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=a6O5ncYjlIo",
           "author": null,
           "description": "",
@@ -1335,16 +1335,6 @@
           "wordCount": null,
           "title": "Nervous-System-Driven Prosthesis",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BQXNBehW3Js",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BQXNBehW3Js",
-          "publishedOn": "2024-09-06T16:00:16.000Z",
-          "wordCount": null,
-          "title": "Laser Printer",
-          "imageUrl": null
         }
       ]
     },
@@ -1381,16 +1371,6 @@
           "publishedOn": "2024-07-22T15:26:06.000Z",
           "wordCount": null,
           "title": "Do You Remember Parasyte?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8ZDlnt43x34",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8ZDlnt43x34",
-          "publishedOn": "2024-06-13T16:01:04.000Z",
-          "wordCount": null,
-          "title": "Thank You Dragon Ball",
           "imageUrl": null
         }
       ]
@@ -1559,16 +1539,6 @@
           "wordCount": null,
           "title": "Caboose Numbers - Numberphile",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=K79aOe-F0Mk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=K79aOe-F0Mk",
-          "publishedOn": "2024-06-13T13:09:54.000Z",
-          "wordCount": null,
-          "title": "Pokémon and Geometric Distributions - Numberphile",
-          "imageUrl": null
         }
       ]
     },
@@ -1651,7 +1621,7 @@
           "link": "https://www.youtube.com/watch?v=QsYYNk-EeJA",
           "publishedOn": "2024-09-07T15:00:25.000Z",
           "wordCount": null,
-          "title": "Meet the LC-130 Hercules: The Arctic Rocket Plane",
+          "title": "Meet the LC-130: The Arctic Rocket Plane",
           "imageUrl": null
         },
         {
@@ -2026,7 +1996,7 @@
           "link": "https://www.youtube.com/watch?v=eLVAMG_3fLg",
           "publishedOn": "2024-07-31T18:55:46.000Z",
           "wordCount": null,
-          "title": "The Real Reason Robots Shouldn’t Look Like Humans | Documentary",
+          "title": "The Real Reason Robots Shouldn’t Look Like Humans",
           "imageUrl": null
         },
         {
@@ -2388,6 +2358,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=WUhlWJWPys0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WUhlWJWPys0",
+          "publishedOn": "2024-09-11T14:00:44.000Z",
+          "wordCount": null,
+          "title": "Threading Tool on a Dual Turret Lathe!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=hhfRxXHDOSE",
           "author": null,
           "description": "",
@@ -2526,16 +2506,6 @@
           "wordCount": null,
           "title": "The Secret Language of Elite CNC Machinists",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hTnhZSCeQHc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hTnhZSCeQHc",
-          "publishedOn": "2024-08-30T14:00:46.000Z",
-          "wordCount": null,
-          "title": "Machining Fails",
-          "imageUrl": null
         }
       ]
     },
@@ -2544,6 +2514,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ozhVcXVv9QQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ozhVcXVv9QQ",
+          "publishedOn": "2024-09-11T15:01:39.000Z",
+          "wordCount": null,
+          "title": "The Rivalry Between Tech Billionaires Bill Gates And Steve Jobs | Business Insider Explains",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=MTCkfcPlGOA",
           "author": null,
@@ -2682,16 +2662,6 @@
           "publishedOn": "2024-09-06T15:01:07.000Z",
           "wordCount": null,
           "title": "Why Musicians Pay Over $15K For John Coltrane’s Favorite Saxophone | So Expensive | Business Insider",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4iHiPrjeVcI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4iHiPrjeVcI",
-          "publishedOn": "2024-09-05T21:02:07.000Z",
-          "wordCount": null,
-          "title": "Smugglers created a black market for #stockfish to avoid import duties. #nigeria #norway",
           "imageUrl": null
         }
       ]
