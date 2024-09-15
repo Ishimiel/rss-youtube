@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-14T00:37:23.729Z</id>
+    <id>urn:2024-09-15T00:43:08.312Z</id>
     <title>osmos::feed</title>
-    <updated>2024-09-14T00:37:23.729Z</updated>
+    <updated>2024-09-15T00:43:08.312Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Metric Tensor: Definition and Properties]]></title>
+        <id>https://www.youtube.com/watch?v=2lqE9my0ch8</id>
+        <link href="https://www.youtube.com/watch?v=2lqE9my0ch8"/>
+        <updated>2024-09-14T22:58:18.000Z</updated>
+        <author>
+            <name>Faculty of Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your 3D Scans Suck? Try this! (feat. Creality Raptor)]]></title>
+        <id>https://www.youtube.com/watch?v=IOiQwhGSrJc</id>
+        <link href="https://www.youtube.com/watch?v=IOiQwhGSrJc"/>
+        <updated>2024-09-14T15:39:33.000Z</updated>
+        <author>
+            <name>CNC Kitchen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNC Machining the Hardest Material!]]></title>
+        <id>https://www.youtube.com/watch?v=utMqLc9qr6E</id>
+        <link href="https://www.youtube.com/watch?v=utMqLc9qr6E"/>
+        <updated>2024-09-14T15:01:01.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Climbing Mount Everest Is So Expensive | So Expensive | Business Insider Marathon]]></title>
+        <id>https://www.youtube.com/watch?v=Yxigd9dlsd8</id>
+        <link href="https://www.youtube.com/watch?v=Yxigd9dlsd8"/>
+        <updated>2024-09-14T15:00:27.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Govee Smart Lights]]></title>
+        <id>https://www.youtube.com/watch?v=RpzycSZYuao</id>
+        <link href="https://www.youtube.com/watch?v=RpzycSZYuao"/>
+        <updated>2024-09-14T14:30:11.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goldbach Conjecture (but with TWIN PRIMES)  - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=Gojd8mTl3Do</id>
+        <link href="https://www.youtube.com/watch?v=Gojd8mTl3Do"/>
+        <updated>2024-09-14T14:05:18.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Farming Robots Saving the Food Industry]]></title>
+        <id>https://www.youtube.com/watch?v=oCmn7oo9DAU</id>
+        <link href="https://www.youtube.com/watch?v=oCmn7oo9DAU"/>
+        <updated>2024-09-14T09:00:48.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Farming Robots Can Fix Agriculture]]></title>
+        <id>https://www.youtube.com/watch?v=aVcQp-WQbF0</id>
+        <link href="https://www.youtube.com/watch?v=aVcQp-WQbF0"/>
+        <updated>2024-09-14T09:00:02.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#Peloton still has 3 million subscribers, but can it last? #fitness #business]]></title>
         <id>https://www.youtube.com/watch?v=fq4RoLsa5gw</id>
@@ -330,15 +402,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Road to IPO | Insider Events]]></title>
-        <id>https://www.youtube.com/watch?v=aR6_cG7D5c8</id>
-        <link href="https://www.youtube.com/watch?v=aR6_cG7D5c8"/>
-        <updated>2024-09-09T21:38:08.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Neo Beta Robot]]></title>
         <id>https://www.youtube.com/watch?v=AMV6f1xT9w8</id>
         <link href="https://www.youtube.com/watch?v=AMV6f1xT9w8"/>
@@ -480,33 +543,6 @@
         <updated>2024-09-07T14:00:01.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hydrating Jelly Drops]]></title>
-        <id>https://www.youtube.com/watch?v=lTdyYWvyQiQ</id>
-        <link href="https://www.youtube.com/watch?v=lTdyYWvyQiQ"/>
-        <updated>2024-09-07T13:01:01.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does the iPhone have a Future?]]></title>
-        <id>https://www.youtube.com/watch?v=aHJvqjC5LHY</id>
-        <link href="https://www.youtube.com/watch?v=aHJvqjC5LHY"/>
-        <updated>2024-09-07T09:01:15.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does the iPhone have a Future?]]></title>
-        <id>https://www.youtube.com/watch?v=GNjTgD0-3z4</id>
-        <link href="https://www.youtube.com/watch?v=GNjTgD0-3z4"/>
-        <updated>2024-09-07T09:01:08.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -669,15 +705,6 @@
         <updated>2024-09-02T18:48:19.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Closer Look at the 3.5 Dia FBX Drill]]></title>
-        <id>https://www.youtube.com/watch?v=kesiChfhFuw</id>
-        <link href="https://www.youtube.com/watch?v=kesiChfhFuw"/>
-        <updated>2024-09-02T14:00:41.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1590,7 +1617,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Real Reason Robots Shouldn’t Look Like Humans | Compilation]]></title>
+        <title type="html"><![CDATA[The Real Reason Robots Shouldn’t Look Like Humans | Documentary]]></title>
         <id>https://www.youtube.com/watch?v=eLVAMG_3fLg</id>
         <link href="https://www.youtube.com/watch?v=eLVAMG_3fLg"/>
         <updated>2024-07-31T18:55:46.000Z</updated>
@@ -2346,7 +2373,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why People Prefer More Pain]]></title>
+        <title type="html"><![CDATA[The Science Behind Why We Choose Pain]]></title>
         <id>https://www.youtube.com/watch?v=v4r71kEdYME</id>
         <link href="https://www.youtube.com/watch?v=v4r71kEdYME"/>
         <updated>2024-06-25T20:23:20.000Z</updated>
@@ -2451,15 +2478,6 @@
         <updated>2024-06-18T12:49:23.000Z</updated>
         <author>
             <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Residual Networks (ResNet) [Physics Informed Machine Learning]]]></title>
-        <id>https://www.youtube.com/watch?v=w1UsKanMatM</id>
-        <link href="https://www.youtube.com/watch?v=w1UsKanMatM"/>
-        <updated>2024-06-16T13:00:51.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
 </feed>
