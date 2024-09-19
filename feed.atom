@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-18T00:38:00.413Z</id>
+    <id>urn:2024-09-19T00:38:41.945Z</id>
     <title>osmos::feed</title>
-    <updated>2024-09-18T00:38:00.413Z</updated>
+    <updated>2024-09-19T00:38:41.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Integration by Parts in a Nutshell #mathematics]]></title>
+        <id>https://www.youtube.com/watch?v=GmaeTSekGl8</id>
+        <link href="https://www.youtube.com/watch?v=GmaeTSekGl8"/>
+        <updated>2024-09-18T16:56:46.000Z</updated>
+        <author>
+            <name>Faculty of Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 'Lego' Tunnel of Denmark]]></title>
+        <id>https://www.youtube.com/watch?v=9oQgVPKAdKk</id>
+        <link href="https://www.youtube.com/watch?v=9oQgVPKAdKk"/>
+        <updated>2024-09-18T15:56:23.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Η τραγωδία του Star Wars Outlaws]]></title>
+        <id>https://www.youtube.com/watch?v=3KyWoHjYL9k</id>
+        <link href="https://www.youtube.com/watch?v=3KyWoHjYL9k"/>
+        <updated>2024-09-18T15:21:42.000Z</updated>
+        <author>
+            <name>NinjaCakeAssassin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazing Engineering of the Lego Like Fehmarnbelt Tunnel]]></title>
+        <id>https://www.youtube.com/watch?v=YwAnmY--W4Q</id>
+        <link href="https://www.youtube.com/watch?v=YwAnmY--W4Q"/>
+        <updated>2024-09-18T14:34:49.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Destroying Metal on Heller CP 6000!]]></title>
+        <id>https://www.youtube.com/watch?v=YoFr2A_TeKw</id>
+        <link href="https://www.youtube.com/watch?v=YoFr2A_TeKw"/>
+        <updated>2024-09-18T14:00:37.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alison Haislip LIVE for a Solid 60!]]></title>
+        <id>https://www.youtube.com/watch?v=Toy0qohqxPQ</id>
+        <link href="https://www.youtube.com/watch?v=Toy0qohqxPQ"/>
+        <updated>2024-09-18T04:31:37.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#California started fighting the #fruit #fly in the 60s, and things have only worsened since then.]]></title>
         <id>https://www.youtube.com/watch?v=lhGSR1iSsCY</id>
@@ -573,30 +627,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Automated Tank Painting]]></title>
-        <id>https://www.youtube.com/watch?v=ZfC8ZGiN_V4</id>
-        <link href="https://www.youtube.com/watch?v=ZfC8ZGiN_V4"/>
-        <updated>2024-09-08T13:00:39.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cooking An Egg In My Hot Car]]></title>
         <id>https://www.youtube.com/watch?v=lSe73vslNJI</id>
         <link href="https://www.youtube.com/watch?v=lSe73vslNJI"/>
         <updated>2024-09-08T01:29:46.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electric Lifting Scaffold]]></title>
-        <id>https://www.youtube.com/watch?v=Cy_5UbCBKak</id>
-        <link href="https://www.youtube.com/watch?v=Cy_5UbCBKak"/>
-        <updated>2024-09-07T19:00:11.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -687,15 +723,6 @@
         <updated>2024-09-05T14:00:37.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Process of Finish Grinding Parts]]></title>
-        <id>https://www.youtube.com/watch?v=3zATdQLOlsA</id>
-        <link href="https://www.youtube.com/watch?v=3zATdQLOlsA"/>
-        <updated>2024-09-05T14:00:03.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1617,15 +1644,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Micro Glass 3D Printing!]]></title>
-        <id>https://www.youtube.com/watch?v=pkBP_eO-Pug</id>
-        <link href="https://www.youtube.com/watch?v=pkBP_eO-Pug"/>
-        <updated>2024-08-02T13:01:04.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[We did it! $150k to research Long COVID]]></title>
         <id>https://www.youtube.com/watch?v=WDUNqYXWbMg</id>
         <link href="https://www.youtube.com/watch?v=WDUNqYXWbMg"/>
@@ -1671,7 +1689,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Real Reason Robots Shouldn’t Look Like Humans | Compilation]]></title>
+        <title type="html"><![CDATA[The Real Reason Robots Shouldn’t Look Like Humans | Documentary]]></title>
         <id>https://www.youtube.com/watch?v=eLVAMG_3fLg</id>
         <link href="https://www.youtube.com/watch?v=eLVAMG_3fLg"/>
         <updated>2024-07-31T18:55:46.000Z</updated>
@@ -2400,7 +2418,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why People Prefer More Pain]]></title>
+        <title type="html"><![CDATA[The Science Behind Why We Choose Pain]]></title>
         <id>https://www.youtube.com/watch?v=v4r71kEdYME</id>
         <link href="https://www.youtube.com/watch?v=v4r71kEdYME"/>
         <updated>2024-06-25T20:23:20.000Z</updated>
@@ -2469,24 +2487,6 @@
         <updated>2024-06-21T15:00:09.000Z</updated>
         <author>
             <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Γάτος]]></title>
-        <id>https://www.youtube.com/watch?v=wFa07GrLlpw</id>
-        <link href="https://www.youtube.com/watch?v=wFa07GrLlpw"/>
-        <updated>2024-06-20T18:06:24.000Z</updated>
-        <author>
-            <name>NinjaCakeAssassin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our Brains Are Not Special. But Why Are We? #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=_z7DkeP5WNg</id>
-        <link href="https://www.youtube.com/watch?v=_z7DkeP5WNg"/>
-        <updated>2024-06-20T14:00:29.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>
