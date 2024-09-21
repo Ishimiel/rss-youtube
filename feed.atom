@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-20T00:38:41.436Z</id>
+    <id>urn:2024-09-21T00:37:52.941Z</id>
     <title>osmos::feed</title>
-    <updated>2024-09-20T00:38:41.436Z</updated>
+    <updated>2024-09-21T00:37:52.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Roger Penrose: Time, Black Holes, and the Cosmos]]></title>
+        <id>https://www.youtube.com/watch?v=fMV2cphelx0</id>
+        <link href="https://www.youtube.com/watch?v=fMV2cphelx0"/>
+        <updated>2024-09-20T20:00:08.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I made a full sized Tyranid to fight my Space Marine]]></title>
+        <id>https://www.youtube.com/watch?v=_XlL9B67Y10</id>
+        <link href="https://www.youtube.com/watch?v=_XlL9B67Y10"/>
+        <updated>2024-09-20T15:00:41.000Z</updated>
+        <author>
+            <name>North of the Border</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacking the Hacksmith: Wolverine]]></title>
+        <id>https://www.youtube.com/watch?v=027iovWBcY4</id>
+        <link href="https://www.youtube.com/watch?v=027iovWBcY4"/>
+        <updated>2024-09-20T13:00:02.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Are axion particles dark matter?]]></title>
         <id>https://www.youtube.com/watch?v=f1s4fB1SH04</id>
@@ -66,15 +93,6 @@
         <updated>2024-09-19T14:00:15.000Z</updated>
         <author>
             <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will This Video be Deleted in 24 Hours?]]></title>
-        <id>https://www.youtube.com/watch?v=_BUi1YpRmjo</id>
-        <link href="https://www.youtube.com/watch?v=_BUi1YpRmjo"/>
-        <updated>2024-09-19T14:00:01.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
     <entry>
@@ -1554,15 +1572,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nothing CMF Phone 1 MakerWorld Design Contest!  #3dprinting]]></title>
-        <id>https://www.youtube.com/watch?v=eWU81XWwN0w</id>
-        <link href="https://www.youtube.com/watch?v=eWU81XWwN0w"/>
-        <updated>2024-08-06T08:19:43.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Introducing Torsion and Special Planes | Differential Geometry]]></title>
         <id>https://www.youtube.com/watch?v=VgKbxVSbDqI</id>
         <link href="https://www.youtube.com/watch?v=VgKbxVSbDqI"/>
@@ -1716,7 +1725,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Real Reason Robots Shouldn’t Look Like Humans]]></title>
+        <title type="html"><![CDATA[The Real Reason Robots Shouldn’t Look Like Humans | Supercut]]></title>
         <id>https://www.youtube.com/watch?v=eLVAMG_3fLg</id>
         <link href="https://www.youtube.com/watch?v=eLVAMG_3fLg"/>
         <updated>2024-07-31T18:55:46.000Z</updated>
@@ -2436,7 +2445,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why People Prefer More Pain]]></title>
+        <title type="html"><![CDATA[The Science Behind Why We Choose Pain]]></title>
         <id>https://www.youtube.com/watch?v=v4r71kEdYME</id>
         <link href="https://www.youtube.com/watch?v=v4r71kEdYME"/>
         <updated>2024-06-25T20:23:20.000Z</updated>
@@ -2467,24 +2476,6 @@
         <id>https://www.youtube.com/watch?v=InJOlT6WdHc</id>
         <link href="https://www.youtube.com/watch?v=InJOlT6WdHc"/>
         <updated>2024-06-25T13:56:12.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I tried Injection Molding using a 3D Printer!]]></title>
-        <id>https://www.youtube.com/watch?v=4xXs9go-Ieg</id>
-        <link href="https://www.youtube.com/watch?v=4xXs9go-Ieg"/>
-        <updated>2024-06-22T16:53:00.000Z</updated>
-        <author>
-            <name>CNC Kitchen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Look Inside SpaceX's Starfactory w/ Elon Musk]]></title>
-        <id>https://www.youtube.com/watch?v=aFqjoCbZ4ik</id>
-        <link href="https://www.youtube.com/watch?v=aFqjoCbZ4ik"/>
-        <updated>2024-06-22T14:03:50.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
         </author>
