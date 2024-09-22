@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-21T00:37:52.941Z</id>
+    <id>urn:2024-09-22T00:43:12.940Z</id>
     <title>osmos::feed</title>
-    <updated>2024-09-21T00:37:52.941Z</updated>
+    <updated>2024-09-22T00:43:12.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[I Hacked My Friend's Phone to Show How Easy It Is]]></title>
+        <id>https://www.youtube.com/watch?v=wVyu7NB7W6Y</id>
+        <link href="https://www.youtube.com/watch?v=wVyu7NB7W6Y"/>
+        <updated>2024-09-21T23:10:47.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Staggered Inserts to Machine a PTO Shaft]]></title>
+        <id>https://www.youtube.com/watch?v=HbILMGGtUf8</id>
+        <link href="https://www.youtube.com/watch?v=HbILMGGtUf8"/>
+        <updated>2024-09-21T15:00:31.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Indonesia’s Last Foot-Pressed Kejek Tea Factory Is Still Standing | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=Q0px4Qwyrk0</id>
+        <link href="https://www.youtube.com/watch?v=Q0px4Qwyrk0"/>
+        <updated>2024-09-21T15:00:22.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stormy Sailing North to St Augustine]]></title>
+        <id>https://www.youtube.com/watch?v=H6K3OPDUFPM</id>
+        <link href="https://www.youtube.com/watch?v=H6K3OPDUFPM"/>
+        <updated>2024-09-21T13:28:26.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Carmakers are Worried about China]]></title>
+        <id>https://www.youtube.com/watch?v=NBTNFxSbYF8</id>
+        <link href="https://www.youtube.com/watch?v=NBTNFxSbYF8"/>
+        <updated>2024-09-21T09:11:05.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Carmakers Are Worried About China]]></title>
+        <id>https://www.youtube.com/watch?v=_laWbMJUfOo</id>
+        <link href="https://www.youtube.com/watch?v=_laWbMJUfOo"/>
+        <updated>2024-09-21T08:57:14.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thin Film Interference]]></title>
+        <id>https://www.youtube.com/watch?v=XJ4wul0qEuQ</id>
+        <link href="https://www.youtube.com/watch?v=XJ4wul0qEuQ"/>
+        <updated>2024-09-21T07:09:18.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Roger Penrose: Time, Black Holes, and the Cosmos]]></title>
         <id>https://www.youtube.com/watch?v=fMV2cphelx0</id>
@@ -456,15 +519,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peloton was once valued at $50 billion. What happened? #peloton #stockmarket #covid]]></title>
-        <id>https://www.youtube.com/watch?v=oERM7trctT8</id>
-        <link href="https://www.youtube.com/watch?v=oERM7trctT8"/>
-        <updated>2024-09-12T18:18:42.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[THE BIG HD3! (and GIVEAWAYS)]]></title>
         <id>https://www.youtube.com/watch?v=7zbl2cjE3W4</id>
         <link href="https://www.youtube.com/watch?v=7zbl2cjE3W4"/>
@@ -663,24 +717,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Color-Changing Jelly]]></title>
-        <id>https://www.youtube.com/watch?v=fQ12Obm1bvs</id>
-        <link href="https://www.youtube.com/watch?v=fQ12Obm1bvs"/>
-        <updated>2024-09-09T12:48:24.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Catching Squirrels]]></title>
-        <id>https://www.youtube.com/watch?v=i8s_aI8lgVw</id>
-        <link href="https://www.youtube.com/watch?v=i8s_aI8lgVw"/>
-        <updated>2024-09-08T19:00:32.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What is Polygonal Turning?]]></title>
         <id>https://www.youtube.com/watch?v=HJx8CkU9XOw</id>
         <link href="https://www.youtube.com/watch?v=HJx8CkU9XOw"/>
@@ -705,15 +741,6 @@
         <updated>2024-09-07T15:00:25.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machining Titanium on 5 Axis Machine]]></title>
-        <id>https://www.youtube.com/watch?v=Aj8cDuIiYSk</id>
-        <link href="https://www.youtube.com/watch?v=Aj8cDuIiYSk"/>
-        <updated>2024-09-07T15:00:15.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1635,15 +1662,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[there is no music out there]]></title>
-        <id>https://www.youtube.com/watch?v=YiEkUxt9BF8</id>
-        <link href="https://www.youtube.com/watch?v=YiEkUxt9BF8"/>
-        <updated>2024-08-02T18:15:53.000Z</updated>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I built a whole computer out of RGB (and Jeff Bezos paid for it)]]></title>
         <id>https://www.youtube.com/watch?v=YkSMSlhVRnw</id>
         <link href="https://www.youtube.com/watch?v=YkSMSlhVRnw"/>
@@ -1725,7 +1743,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Real Reason Robots Shouldn’t Look Like Humans | Supercut]]></title>
+        <title type="html"><![CDATA[The Real Reason Robots Shouldn’t Look Like Humans | Compilation]]></title>
         <id>https://www.youtube.com/watch?v=eLVAMG_3fLg</id>
         <link href="https://www.youtube.com/watch?v=eLVAMG_3fLg"/>
         <updated>2024-07-31T18:55:46.000Z</updated>
@@ -1767,15 +1785,6 @@
         <updated>2024-07-29T21:24:10.000Z</updated>
         <author>
             <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dragon Surgery]]></title>
-        <id>https://www.youtube.com/watch?v=KfTqnRdkW44</id>
-        <link href="https://www.youtube.com/watch?v=KfTqnRdkW44"/>
-        <updated>2024-07-28T18:00:55.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
         </author>
     </entry>
     <entry>
