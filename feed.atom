@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-24T00:39:54.257Z</id>
+    <id>urn:2024-09-25T00:40:08.561Z</id>
     <title>osmos::feed</title>
-    <updated>2024-09-24T00:39:54.257Z</updated>
+    <updated>2024-09-25T00:40:08.561Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Polyrhythmic Dancing…made EASY! (pulse morphing technique)]]></title>
+        <id>https://www.youtube.com/watch?v=pM-e_csNupM</id>
+        <link href="https://www.youtube.com/watch?v=pM-e_csNupM"/>
+        <updated>2024-09-24T16:12:58.000Z</updated>
+        <author>
+            <name>Adam Neely</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Thread Rolling?]]></title>
+        <id>https://www.youtube.com/watch?v=RBM_k1qVPwM</id>
+        <link href="https://www.youtube.com/watch?v=RBM_k1qVPwM"/>
+        <updated>2024-09-24T15:00:27.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[...Will Save Your Life Next Week]]></title>
+        <id>https://www.youtube.com/watch?v=oTx-GSF3cts</id>
+        <link href="https://www.youtube.com/watch?v=oTx-GSF3cts"/>
+        <updated>2024-09-24T15:00:04.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reverse-Engineering an Incredibly Difficult to Machine Hand Grip!]]></title>
+        <id>https://www.youtube.com/watch?v=b1EQoIK76fc</id>
+        <link href="https://www.youtube.com/watch?v=b1EQoIK76fc"/>
+        <updated>2024-09-24T14:00:36.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to the Faculty of Khan!]]></title>
+        <id>https://www.youtube.com/watch?v=Faw9FQ2TidQ</id>
+        <link href="https://www.youtube.com/watch?v=Faw9FQ2TidQ"/>
+        <updated>2024-09-24T04:03:08.000Z</updated>
+        <author>
+            <name>Faculty of Khan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This metal is too bouncy]]></title>
         <id>https://www.youtube.com/watch?v=PCU6g9mfRIk</id>
@@ -645,15 +690,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Threading Tool on a Dual Turret Lathe!]]></title>
-        <id>https://www.youtube.com/watch?v=WUhlWJWPys0</id>
-        <link href="https://www.youtube.com/watch?v=WUhlWJWPys0"/>
-        <updated>2024-09-11T14:00:44.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Python Symbolic Regression (PySR) [Physics Informed Machine Learning]]]></title>
         <id>https://www.youtube.com/watch?v=df43V4OjMVs</id>
         <link href="https://www.youtube.com/watch?v=df43V4OjMVs"/>
@@ -687,15 +723,6 @@
         <updated>2024-09-10T15:42:23.000Z</updated>
         <author>
             <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Game-Changer in CNC Machining]]></title>
-        <id>https://www.youtube.com/watch?v=hhfRxXHDOSE</id>
-        <link href="https://www.youtube.com/watch?v=hhfRxXHDOSE"/>
-        <updated>2024-09-10T14:00:41.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1761,7 +1788,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Real Reason Robots Shouldn’t Look Like Humans]]></title>
+        <title type="html"><![CDATA[The Real Reason Robots Shouldn’t Look Like Humans | Supercut]]></title>
         <id>https://www.youtube.com/watch?v=eLVAMG_3fLg</id>
         <link href="https://www.youtube.com/watch?v=eLVAMG_3fLg"/>
         <updated>2024-07-31T18:55:46.000Z</updated>
