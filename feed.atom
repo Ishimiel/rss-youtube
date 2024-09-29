@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-28T00:39:31.470Z</id>
+    <id>urn:2024-09-29T00:44:00.421Z</id>
     <title>osmos::feed</title>
-    <updated>2024-09-28T00:39:31.470Z</updated>
+    <updated>2024-09-29T00:44:00.421Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Forsaken Card]]></title>
+        <id>https://www.youtube.com/watch?v=uZy3pA8904g</id>
+        <link href="https://www.youtube.com/watch?v=uZy3pA8904g"/>
+        <updated>2024-09-28T21:20:47.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tensor Calculus: the Derivative of a Tensor]]></title>
+        <id>https://www.youtube.com/watch?v=cF2X7G0couw</id>
+        <link href="https://www.youtube.com/watch?v=cF2X7G0couw"/>
+        <updated>2024-09-28T20:38:18.000Z</updated>
+        <author>
+            <name>Faculty of Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch SpaceX launch Crew-9, returning w/ the Boeing Crew!]]></title>
+        <id>https://www.youtube.com/watch?v=X67-Y-jJx40</id>
+        <link href="https://www.youtube.com/watch?v=X67-Y-jJx40"/>
+        <updated>2024-09-28T18:14:50.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Incredible Swiss Machining]]></title>
+        <id>https://www.youtube.com/watch?v=OJehkf9U5SQ</id>
+        <link href="https://www.youtube.com/watch?v=OJehkf9U5SQ"/>
+        <updated>2024-09-28T15:00:32.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Healthy And Tasty Are New Frozen 'Ozempic' Meals? | Business Insider Explains | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=MbDBr6j6sIQ</id>
+        <link href="https://www.youtube.com/watch?v=MbDBr6j6sIQ"/>
+        <updated>2024-09-28T15:00:31.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Most COMPLEX CNC Machining Process]]></title>
+        <id>https://www.youtube.com/watch?v=hqnXrI7DsDA</id>
+        <link href="https://www.youtube.com/watch?v=hqnXrI7DsDA"/>
+        <updated>2024-09-28T14:00:45.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saint Augustine Repairs]]></title>
+        <id>https://www.youtube.com/watch?v=HOBNOhaxCYg</id>
+        <link href="https://www.youtube.com/watch?v=HOBNOhaxCYg"/>
+        <updated>2024-09-28T12:48:11.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Apple In Decline?]]></title>
+        <id>https://www.youtube.com/watch?v=4PnIatbdzKY</id>
+        <link href="https://www.youtube.com/watch?v=4PnIatbdzKY"/>
+        <updated>2024-09-28T09:00:05.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Problem With Apple]]></title>
+        <id>https://www.youtube.com/watch?v=a1XKmXL2dUQ</id>
+        <link href="https://www.youtube.com/watch?v=a1XKmXL2dUQ"/>
+        <updated>2024-09-28T09:00:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#Navy cooks must master #culinary math as part of their training. #military]]></title>
         <id>https://www.youtube.com/watch?v=gLtC3a-sIkU</id>
@@ -39,15 +120,6 @@
         <updated>2024-09-27T19:48:37.000Z</updated>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch SpaceX launch Crew-9, returning w/ the Boeing Crew!]]></title>
-        <id>https://www.youtube.com/watch?v=X67-Y-jJx40</id>
-        <link href="https://www.youtube.com/watch?v=X67-Y-jJx40"/>
-        <updated>2024-09-27T19:16:54.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
         </author>
     </entry>
     <entry>
@@ -456,15 +528,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Selma sound has been immortalized by #jazz titans like #JohnColtrane. #saxophone]]></title>
-        <id>https://www.youtube.com/watch?v=9eUoIuGJepg</id>
-        <link href="https://www.youtube.com/watch?v=9eUoIuGJepg"/>
-        <updated>2024-09-19T18:00:04.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Boss watches employee Crash CNC Machines]]></title>
         <id>https://www.youtube.com/watch?v=Svk9QKJCFRI</id>
         <link href="https://www.youtube.com/watch?v=Svk9QKJCFRI"/>
@@ -618,30 +681,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Material Destruction in Slow Motion]]></title>
-        <id>https://www.youtube.com/watch?v=DU4Yp235VaU</id>
-        <link href="https://www.youtube.com/watch?v=DU4Yp235VaU"/>
-        <updated>2024-09-16T15:15:00.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Magnetic Aluminum Keyboards at IFA 2024]]></title>
         <id>https://www.youtube.com/watch?v=AV24SIK5aH4</id>
         <link href="https://www.youtube.com/watch?v=AV24SIK5aH4"/>
         <updated>2024-09-16T08:08:44.000Z</updated>
         <author>
             <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Incredible Technique…  Polygonal Turning!]]></title>
-        <id>https://www.youtube.com/watch?v=saVCFgzUcPk</id>
-        <link href="https://www.youtube.com/watch?v=saVCFgzUcPk"/>
-        <updated>2024-09-15T14:00:55.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -807,15 +852,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Helping Farming Go Vertical with Siemens]]></title>
-        <id>https://www.youtube.com/watch?v=a6O5ncYjlIo</id>
-        <link href="https://www.youtube.com/watch?v=a6O5ncYjlIo"/>
-        <updated>2024-09-10T14:00:00.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[5 Ways to Pesto Eggs - You Suck at Cooking (episode 174)]]></title>
         <id>https://www.youtube.com/watch?v=TVYybVI3MLw</id>
         <link href="https://www.youtube.com/watch?v=TVYybVI3MLw"/>
@@ -840,15 +876,6 @@
         <updated>2024-09-10T01:08:12.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neo Beta Robot]]></title>
-        <id>https://www.youtube.com/watch?v=AMV6f1xT9w8</id>
-        <link href="https://www.youtube.com/watch?v=AMV6f1xT9w8"/>
-        <updated>2024-09-09T19:00:03.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -1680,15 +1707,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Book Has No Words]]></title>
-        <id>https://www.youtube.com/watch?v=PoY0InCTRlg</id>
-        <link href="https://www.youtube.com/watch?v=PoY0InCTRlg"/>
-        <updated>2024-08-07T22:08:28.000Z</updated>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Revolutionizing the Logistics of Spaceflight - Firefly Aerospace]]></title>
         <id>https://www.youtube.com/watch?v=tCDY1k1JGqw</id>
         <link href="https://www.youtube.com/watch?v=tCDY1k1JGqw"/>
@@ -1704,15 +1722,6 @@
         <updated>2024-08-06T14:00:09.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Simple Solution for Mobile Internet on your Boat or RV - MoFi 6500]]></title>
-        <id>https://www.youtube.com/watch?v=vJ9tH7JS03s</id>
-        <link href="https://www.youtube.com/watch?v=vJ9tH7JS03s"/>
-        <updated>2024-08-06T12:45:44.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
         </author>
     </entry>
     <entry>
@@ -2341,24 +2350,6 @@
         <id>https://www.youtube.com/watch?v=rbuByrFTDBs</id>
         <link href="https://www.youtube.com/watch?v=rbuByrFTDBs"/>
         <updated>2024-07-02T14:07:53.000Z</updated>
-        <author>
-            <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Secret Ritual of the Apparrotini             #carrot #apple #zucchini #guys]]></title>
-        <id>https://www.youtube.com/watch?v=Jr8sb1M2jKg</id>
-        <link href="https://www.youtube.com/watch?v=Jr8sb1M2jKg"/>
-        <updated>2024-06-30T21:21:50.000Z</updated>
-        <author>
-            <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Erdős–Woods Numbers - Numberphile]]></title>
-        <id>https://www.youtube.com/watch?v=uJtxlErlx0U</id>
-        <link href="https://www.youtube.com/watch?v=uJtxlErlx0U"/>
-        <updated>2024-06-30T13:17:49.000Z</updated>
         <author>
             <name>Numberphile</name>
         </author>
