@@ -1,12 +1,102 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-05T00:39:20.921Z</id>
+    <id>urn:2024-10-06T00:43:34.972Z</id>
     <title>osmos::feed</title>
-    <updated>2024-10-05T00:39:20.921Z</updated>
+    <updated>2024-10-06T00:43:34.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Can you improve your internal clock without a metronome? Q+A]]></title>
+        <title type="html"><![CDATA[The Wondrous World of Thermite]]></title>
+        <id>https://www.youtube.com/watch?v=cUBz04LlLVk</id>
+        <link href="https://www.youtube.com/watch?v=cUBz04LlLVk"/>
+        <updated>2024-10-05T17:27:38.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Holograms are wild]]></title>
+        <id>https://www.youtube.com/watch?v=DnjATyPuFFk</id>
+        <link href="https://www.youtube.com/watch?v=DnjATyPuFFk"/>
+        <updated>2024-10-05T15:35:00.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How are holograms possible? | Optics puzzles 5]]></title>
+        <id>https://www.youtube.com/watch?v=EmKQsSDlaa4</id>
+        <link href="https://www.youtube.com/watch?v=EmKQsSDlaa4"/>
+        <updated>2024-10-05T15:31:58.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Problems with China's Space Program]]></title>
+        <id>https://www.youtube.com/watch?v=Dsk0aIRrHb4</id>
+        <link href="https://www.youtube.com/watch?v=Dsk0aIRrHb4"/>
+        <updated>2024-10-05T15:05:00.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Mangosteen, The Viral TikTok Fruit, Is So Expensive | So Expensive | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=E20Ljm5D7yU</id>
+        <link href="https://www.youtube.com/watch?v=E20Ljm5D7yU"/>
+        <updated>2024-10-05T15:00:20.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complex Swiss Toolpath Made Easy]]></title>
+        <id>https://www.youtube.com/watch?v=7W9lQimGyuo</id>
+        <link href="https://www.youtube.com/watch?v=7W9lQimGyuo"/>
+        <updated>2024-10-05T15:00:11.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hurricane Helene Pulling Our Chain]]></title>
+        <id>https://www.youtube.com/watch?v=jGKbTVWM_x8</id>
+        <link href="https://www.youtube.com/watch?v=jGKbTVWM_x8"/>
+        <updated>2024-10-05T14:38:48.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unboxing The Most Advanced Coolant System]]></title>
+        <id>https://www.youtube.com/watch?v=4ms_nAEJ_9w</id>
+        <link href="https://www.youtube.com/watch?v=4ms_nAEJ_9w"/>
+        <updated>2024-10-05T14:00:03.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Liverpool's Secret Tunnels]]></title>
+        <id>https://www.youtube.com/watch?v=NfgJPOO1dzU</id>
+        <link href="https://www.youtube.com/watch?v=NfgJPOO1dzU"/>
+        <updated>2024-10-05T09:56:55.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Victorian Bunker Network Under Liverpool]]></title>
+        <id>https://www.youtube.com/watch?v=p5odl-wNABo</id>
+        <link href="https://www.youtube.com/watch?v=p5odl-wNABo"/>
+        <updated>2024-10-05T09:13:38.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can you improve your rhythm WITHOUT a metronome? Q+A]]></title>
         <id>https://www.youtube.com/watch?v=klZxfUWBBm8</id>
         <link href="https://www.youtube.com/watch?v=klZxfUWBBm8"/>
         <updated>2024-10-04T21:08:44.000Z</updated>
@@ -537,15 +627,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#Navy cooks must master #culinary math as part of their training. #military]]></title>
-        <id>https://www.youtube.com/watch?v=gLtC3a-sIkU</id>
-        <link href="https://www.youtube.com/watch?v=gLtC3a-sIkU"/>
-        <updated>2024-09-27T21:02:18.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AI Creativity: Genius or Gimmick?]]></title>
         <id>https://www.youtube.com/watch?v=wU49MKIhMRU</id>
         <link href="https://www.youtube.com/watch?v=wU49MKIhMRU"/>
@@ -627,15 +708,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Epic MRR Using Deep Slot Machining Technique]]></title>
-        <id>https://www.youtube.com/watch?v=nKMeavrvSP8</id>
-        <link href="https://www.youtube.com/watch?v=nKMeavrvSP8"/>
-        <updated>2024-09-25T14:30:20.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Redesigning Planes for the Future, with Siemens]]></title>
         <id>https://www.youtube.com/watch?v=lvFJTuU0t1g</id>
         <link href="https://www.youtube.com/watch?v=lvFJTuU0t1g"/>
@@ -669,15 +741,6 @@
         <updated>2024-09-24T16:12:58.000Z</updated>
         <author>
             <name>Adam Neely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Thread Rolling?]]></title>
-        <id>https://www.youtube.com/watch?v=RBM_k1qVPwM</id>
-        <link href="https://www.youtube.com/watch?v=RBM_k1qVPwM"/>
-        <updated>2024-09-24T15:00:27.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -996,30 +1059,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How AI Farming Robots Can Fix Agriculture]]></title>
-        <id>https://www.youtube.com/watch?v=aVcQp-WQbF0</id>
-        <link href="https://www.youtube.com/watch?v=aVcQp-WQbF0"/>
-        <updated>2024-09-14T09:00:02.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Coding Consciousness: An Algorithm for Awareness?]]></title>
         <id>https://www.youtube.com/watch?v=Vqe5TmTHU9E</id>
         <link href="https://www.youtube.com/watch?v=Vqe5TmTHU9E"/>
         <updated>2024-09-13T20:00:08.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Balcony Farm]]></title>
-        <id>https://www.youtube.com/watch?v=kAgp7d7NtKs</id>
-        <link href="https://www.youtube.com/watch?v=kAgp7d7NtKs"/>
-        <updated>2024-09-13T18:00:32.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -1596,15 +1641,6 @@
         <updated>2024-08-24T15:19:19.000Z</updated>
         <author>
             <name>CNC Kitchen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mullet Migration Mayhem]]></title>
-        <id>https://www.youtube.com/watch?v=I1jyJogbL10</id>
-        <link href="https://www.youtube.com/watch?v=I1jyJogbL10"/>
-        <updated>2024-08-23T21:27:44.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
         </author>
     </entry>
     <entry>
@@ -2424,24 +2460,6 @@
         <updated>2024-07-09T17:11:13.000Z</updated>
         <author>
             <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lagrangian Neural Network (LNN) [Physics Informed Machine Learning]]]></title>
-        <id>https://www.youtube.com/watch?v=HLUIx6FqAvg</id>
-        <link href="https://www.youtube.com/watch?v=HLUIx6FqAvg"/>
-        <updated>2024-07-08T12:00:14.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Physics Girl LIVE with long Covid]]></title>
-        <id>https://www.youtube.com/watch?v=v8HWt9g4L0k</id>
-        <link href="https://www.youtube.com/watch?v=v8HWt9g4L0k"/>
-        <updated>2024-07-07T16:02:02.000Z</updated>
-        <author>
-            <name>Physics Girl</name>
         </author>
     </entry>
 </feed>
