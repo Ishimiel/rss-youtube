@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-06T00:43:34.972Z</id>
+    <id>urn:2024-10-07T00:41:52.290Z</id>
     <title>osmos::feed</title>
-    <updated>2024-10-06T00:43:34.973Z</updated>
+    <updated>2024-10-07T00:41:52.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[The Wondrous World of Thermite]]></title>
+        <title type="html"><![CDATA[14 Fascinating Businesses Behind The Scenes | Business Insider Marathon]]></title>
+        <id>https://www.youtube.com/watch?v=cKn4i2dvya0</id>
+        <link href="https://www.youtube.com/watch?v=cKn4i2dvya0"/>
+        <updated>2024-10-06T15:00:37.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Precision Cutting Tools]]></title>
+        <id>https://www.youtube.com/watch?v=3AzXiGG3rZk</id>
+        <link href="https://www.youtube.com/watch?v=3AzXiGG3rZk"/>
+        <updated>2024-10-06T14:00:02.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Prime Constant - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=c066hLi78B0</id>
+        <link href="https://www.youtube.com/watch?v=c066hLi78B0"/>
+        <updated>2024-10-06T11:10:42.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[People said this experiment was impossible, so I tried it]]></title>
         <id>https://www.youtube.com/watch?v=cUBz04LlLVk</id>
         <link href="https://www.youtube.com/watch?v=cUBz04LlLVk"/>
         <updated>2024-10-05T17:27:38.000Z</updated>
@@ -96,7 +123,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can you improve your rhythm WITHOUT a metronome? Q+A]]></title>
+        <title type="html"><![CDATA[Can you Improve your Internal Clock WITHOUT a metronome? | Q+A]]></title>
         <id>https://www.youtube.com/watch?v=klZxfUWBBm8</id>
         <link href="https://www.youtube.com/watch?v=klZxfUWBBm8"/>
         <updated>2024-10-04T21:08:44.000Z</updated>
@@ -582,15 +609,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Food Giants Are Jumping On The Ozempic Game With Frozen Meals | Business Insider Explains]]></title>
-        <id>https://www.youtube.com/watch?v=MbDBr6j6sIQ</id>
-        <link href="https://www.youtube.com/watch?v=MbDBr6j6sIQ"/>
-        <updated>2024-09-28T15:00:31.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Most COMPLEX CNC Machining Process]]></title>
         <id>https://www.youtube.com/watch?v=hqnXrI7DsDA</id>
         <link href="https://www.youtube.com/watch?v=hqnXrI7DsDA"/>
@@ -678,15 +696,6 @@
         <updated>2024-09-26T22:37:09.000Z</updated>
         <author>
             <name>Physics Girl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Efficient Spline Cutting on Dual Turret Lathe]]></title>
-        <id>https://www.youtube.com/watch?v=zBW7_SOUFW0</id>
-        <link href="https://www.youtube.com/watch?v=zBW7_SOUFW0"/>
-        <updated>2024-09-26T15:30:30.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
