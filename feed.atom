@@ -1,15 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-08T00:39:42.514Z</id>
+    <id>urn:2024-10-09T00:39:49.583Z</id>
     <title>osmos::feed</title>
-    <updated>2024-10-08T00:39:42.514Z</updated>
+    <updated>2024-10-09T00:39:49.583Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ground faults - Short circuits - Arc faults - EXPLAINED]]></title>
+        <id>https://www.youtube.com/watch?v=Qi0ynSQw-wc</id>
+        <link href="https://www.youtube.com/watch?v=Qi0ynSQw-wc"/>
+        <updated>2024-10-08T19:50:10.000Z</updated>
+        <author>
+            <name>The Engineering Mindset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celery Strength Test                               #celery #science #jet]]></title>
+        <id>https://www.youtube.com/watch?v=GHmvA3UNzlk</id>
+        <link href="https://www.youtube.com/watch?v=GHmvA3UNzlk"/>
+        <updated>2024-10-08T18:03:25.000Z</updated>
+        <author>
+            <name>You Suck At Cooking</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The area of #tea plantations in #Asia have decreased by 14%. #indonesia]]></title>
+        <id>https://www.youtube.com/watch?v=43wx5y6OYTI</id>
+        <link href="https://www.youtube.com/watch?v=43wx5y6OYTI"/>
+        <updated>2024-10-08T17:20:21.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Face Grinding with Magnetic Work-Holding 🧲]]></title>
+        <id>https://www.youtube.com/watch?v=yvcmk35mjjo</id>
+        <link href="https://www.youtube.com/watch?v=yvcmk35mjjo"/>
+        <updated>2024-10-08T15:01:07.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is This the Future of Product Design?]]></title>
+        <id>https://www.youtube.com/watch?v=wUM3gZxzW54</id>
+        <link href="https://www.youtube.com/watch?v=wUM3gZxzW54"/>
+        <updated>2024-10-08T14:01:01.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grinding One Of The Most Critical Tools in Machining]]></title>
+        <id>https://www.youtube.com/watch?v=IRVoRatbBDY</id>
+        <link href="https://www.youtube.com/watch?v=IRVoRatbBDY"/>
+        <updated>2024-10-08T14:00:29.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Our World Broken?]]></title>
+        <id>https://www.youtube.com/watch?v=c1nYtX-NUsc</id>
+        <link href="https://www.youtube.com/watch?v=c1nYtX-NUsc"/>
+        <updated>2024-10-08T13:59:36.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Differential Equations: The Language of Change]]></title>
+        <id>https://www.youtube.com/watch?v=vTTlzmCRwU4</id>
+        <link href="https://www.youtube.com/watch?v=vTTlzmCRwU4"/>
+        <updated>2024-10-08T06:14:18.000Z</updated>
+        <author>
+            <name>Artem Kirsanov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What If You Were 620 Miles Long?]]></title>
+        <id>https://www.youtube.com/watch?v=vZqw6Nosgu0</id>
+        <link href="https://www.youtube.com/watch?v=vZqw6Nosgu0"/>
+        <updated>2024-10-08T01:26:54.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Magneto X LIVE with Dan from LTT!]]></title>
         <id>https://www.youtube.com/watch?v=JhvCvnpuNxo</id>
         <link href="https://www.youtube.com/watch?v=JhvCvnpuNxo"/>
-        <updated>2024-10-07T21:41:15.000Z</updated>
+        <updated>2024-10-08T01:12:34.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
         </author>
@@ -519,15 +600,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What #Navy students learn in the first four weeks lead up to this week. #military #food]]></title>
-        <id>https://www.youtube.com/watch?v=yQT_TmfUzb8</id>
-        <link href="https://www.youtube.com/watch?v=yQT_TmfUzb8"/>
-        <updated>2024-09-30T19:33:32.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How do QR codes work? (I built one myself to find out)]]></title>
         <id>https://www.youtube.com/watch?v=w5ebcowAJD8</id>
         <link href="https://www.youtube.com/watch?v=w5ebcowAJD8"/>
@@ -555,7 +627,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Had to Climb Kilimanjaro to Perform This Experiment- Smarter Every Day 302]]></title>
+        <title type="html"><![CDATA[I Performed an Experiment on the Peak of Kilimanjaro - Smarter Every Day 302]]></title>
         <id>https://www.youtube.com/watch?v=sEK6wZWMbCY</id>
         <link href="https://www.youtube.com/watch?v=sEK6wZWMbCY"/>
         <updated>2024-09-30T14:00:09.000Z</updated>
@@ -573,7 +645,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I underestimated a CS puzzle...again. (Backwards Conway's Game of Life)]]></title>
+        <title type="html"><![CDATA[This puzzle took me three years and required thinking in 3721 dimensions]]></title>
         <id>https://www.youtube.com/watch?v=g8pjrVbdafY</id>
         <link href="https://www.youtube.com/watch?v=g8pjrVbdafY"/>
         <updated>2024-09-30T10:00:44.000Z</updated>
@@ -645,15 +717,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Most COMPLEX CNC Machining Process]]></title>
-        <id>https://www.youtube.com/watch?v=hqnXrI7DsDA</id>
-        <link href="https://www.youtube.com/watch?v=hqnXrI7DsDA"/>
-        <updated>2024-09-28T14:00:45.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Saint Augustine Repairs]]></title>
         <id>https://www.youtube.com/watch?v=HOBNOhaxCYg</id>
         <link href="https://www.youtube.com/watch?v=HOBNOhaxCYg"/>
@@ -696,15 +759,6 @@
         <updated>2024-09-27T15:00:54.000Z</updated>
         <author>
             <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Printing Jaws for Tricky 3 Axis Setup]]></title>
-        <id>https://www.youtube.com/watch?v=VvEryRq0S4E</id>
-        <link href="https://www.youtube.com/watch?v=VvEryRq0S4E"/>
-        <updated>2024-09-27T15:00:37.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1083,15 +1137,6 @@
         <updated>2024-09-14T14:05:18.000Z</updated>
         <author>
             <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Farming Robots Saving the Food Industry]]></title>
-        <id>https://www.youtube.com/watch?v=oCmn7oo9DAU</id>
-        <link href="https://www.youtube.com/watch?v=oCmn7oo9DAU"/>
-        <updated>2024-09-14T09:00:48.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -1860,15 +1905,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Trick With TWO Cuts]]></title>
-        <id>https://www.youtube.com/watch?v=AGWl6evhDYI</id>
-        <link href="https://www.youtube.com/watch?v=AGWl6evhDYI"/>
-        <updated>2024-08-13T23:15:56.000Z</updated>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to use a multimeter like a pro - Clamp meter]]></title>
         <id>https://www.youtube.com/watch?v=J3kKNNizARc</id>
         <link href="https://www.youtube.com/watch?v=J3kKNNizARc"/>
@@ -1896,7 +1932,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Grandfather Of Generative Models]]></title>
+        <title type="html"><![CDATA[Generative Model That Won 2024 Nobel Prize]]></title>
         <id>https://www.youtube.com/watch?v=_bqa_I5hNAo</id>
         <link href="https://www.youtube.com/watch?v=_bqa_I5hNAo"/>
         <updated>2024-08-13T04:50:08.000Z</updated>
@@ -2451,24 +2487,6 @@
         <updated>2024-07-11T14:00:13.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lemon Juice Hack.                                 #lemon #lemonade #hack]]></title>
-        <id>https://www.youtube.com/watch?v=O684UdN9Z-8</id>
-        <link href="https://www.youtube.com/watch?v=O684UdN9Z-8"/>
-        <updated>2024-07-10T21:13:36.000Z</updated>
-        <author>
-            <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Clock Helped Win the Battle of Britain]]></title>
-        <id>https://www.youtube.com/watch?v=EWtrzytNOTk</id>
-        <link href="https://www.youtube.com/watch?v=EWtrzytNOTk"/>
-        <updated>2024-07-10T19:47:55.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
         </author>
     </entry>
 </feed>
