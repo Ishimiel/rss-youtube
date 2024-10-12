@@ -71,28 +71,7 @@
       "title": "Primer",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKzJFdi57J53Vr_BkTfN3uQ",
       "siteUrl": "https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=tCoEYFbDVoI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tCoEYFbDVoI",
-          "publishedOn": "2024-07-13T13:38:40.000Z",
-          "wordCount": null,
-          "title": "Simulating the Evolution of Rock, Paper, Scissors",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TNnc4T9m9tA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TNnc4T9m9tA",
-          "publishedOn": "2024-07-13T13:38:35.000Z",
-          "wordCount": null,
-          "title": "Evolving Rock Paper Scissors",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Reducible",
@@ -117,13 +96,23 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=W3-kpRz-e1Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=W3-kpRz-e1Q",
+          "publishedOn": "2024-10-11T14:00:27.000Z",
+          "wordCount": null,
+          "title": "Hologram preview",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DnjATyPuFFk",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=DnjATyPuFFk",
           "publishedOn": "2024-10-05T15:35:00.000Z",
           "wordCount": null,
-          "title": "Holograms are wild (link above explains how this works)",
+          "title": "Holograms are wild (Link above explains how this works)",
           "imageUrl": null
         },
         {
@@ -645,6 +634,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=WSTk1vAill8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WSTk1vAill8",
+          "publishedOn": "2024-10-11T20:00:07.000Z",
+          "wordCount": null,
+          "title": "Beyond Planets: The Quest for Exomoons",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=NZcEFjEANnI",
           "author": null,
           "description": "",
@@ -772,6 +771,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=fxACftDu2-w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fxACftDu2-w",
+          "publishedOn": "2024-10-11T13:00:53.000Z",
+          "wordCount": null,
+          "title": "Is PLA actually Strong?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=s5PZWZ0s-AM",
           "author": null,
           "description": "",
@@ -798,7 +807,7 @@
           "link": "https://www.youtube.com/watch?v=nZjmKJmkRco",
           "publishedOn": "2024-10-04T13:01:03.000Z",
           "wordCount": null,
-          "title": "DAY OF THE (3D Printed) TENTACLES!",
+          "title": "3D Printed Custom Wall Installation!",
           "imageUrl": null
         },
         {
@@ -909,16 +918,6 @@
           "publishedOn": "2024-08-29T22:23:02.000Z",
           "wordCount": null,
           "title": "Hacksmith LIVE for a Solid 60!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ocDQnvpylQo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ocDQnvpylQo",
-          "publishedOn": "2024-08-28T03:46:41.000Z",
-          "wordCount": null,
-          "title": "GMAX 2 with Nero3D LIVE!",
           "imageUrl": null
         }
       ]
@@ -1134,6 +1133,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pIKI7y3DTXk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pIKI7y3DTXk",
+          "publishedOn": "2024-10-11T17:35:10.000Z",
+          "wordCount": null,
+          "title": "[4K] Watch SpaceX Try To Catch A Rocket From Space! #IFT5",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=pAPt5vbr-YU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pAPt5vbr-YU",
+          "publishedOn": "2024-10-11T17:30:15.000Z",
+          "wordCount": null,
+          "title": "How SpaceX Plans To CATCH A Rocket From Space!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=X67-Y-jJx40",
           "author": null,
           "description": "",
@@ -1207,6 +1226,36 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEuiOszNd6msGgqsD0f9YAQ",
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=3xBA7TdRKpA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3xBA7TdRKpA",
+          "publishedOn": "2024-10-11T15:33:46.000Z",
+          "wordCount": null,
+          "title": "Tesla Cybercab",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jLKGMPiEFOw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jLKGMPiEFOw",
+          "publishedOn": "2024-10-11T12:32:05.000Z",
+          "wordCount": null,
+          "title": "Tesla Optimus",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=iuJgVGZNT88",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iuJgVGZNT88",
+          "publishedOn": "2024-10-11T11:00:37.000Z",
+          "wordCount": null,
+          "title": "Tesla Robovan",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=KxzvCAbnXD8",
           "author": null,
@@ -1325,36 +1374,6 @@
           "publishedOn": "2024-09-23T18:00:12.000Z",
           "wordCount": null,
           "title": "Made-To-Order Homes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NBTNFxSbYF8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NBTNFxSbYF8",
-          "publishedOn": "2024-09-21T09:11:05.000Z",
-          "wordCount": null,
-          "title": "Why Carmakers are Worried about China",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_laWbMJUfOo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_laWbMJUfOo",
-          "publishedOn": "2024-09-21T08:57:14.000Z",
-          "wordCount": null,
-          "title": "Why Carmakers Are Worried About China",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JB3Bpt8eKfM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JB3Bpt8eKfM",
-          "publishedOn": "2024-09-19T14:00:15.000Z",
-          "wordCount": null,
-          "title": "AI Car Check",
           "imageUrl": null
         }
       ]
@@ -1713,6 +1732,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCj_XaV1ss-qdD-lPUtTEcXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=r6NBHPy4Rzo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=r6NBHPy4Rzo",
+          "publishedOn": "2024-10-11T17:57:27.000Z",
+          "wordCount": null,
+          "title": "No Running Away - Hurricane Milton",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=doy1nFlAUaE",
           "author": null,
           "description": "",
@@ -1851,16 +1880,6 @@
           "wordCount": null,
           "title": "If You Can't Do the Little Things Right, You Will Never Do The Big Things Right",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lKf-z4TS3Os",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lKf-z4TS3Os",
-          "publishedOn": "2024-08-31T21:39:10.000Z",
-          "wordCount": null,
-          "title": "Kedge Anchor Rescue for IRG",
-          "imageUrl": null
         }
       ]
     },
@@ -1960,6 +1979,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
       "siteUrl": "https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=DJO_9auJhJQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DJO_9auJhJQ",
+          "publishedOn": "2024-10-11T18:25:50.000Z",
+          "wordCount": null,
+          "title": "NASA’s Search For Life in a Radiation Death Zone | Europa Clipper",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=cUBz04LlLVk",
           "author": null,
@@ -2360,16 +2389,6 @@
           "wordCount": null,
           "title": "Jam Jar Salad Dressing Hack               #jam #salad #cleaning",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bAdnYJfBHmg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bAdnYJfBHmg",
-          "publishedOn": "2024-07-13T18:44:35.000Z",
-          "wordCount": null,
-          "title": "Sloppy Onion Smash Burger - AKA Flying Dutchman",
-          "imageUrl": null
         }
       ]
     },
@@ -2378,6 +2397,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=o94a7GWs0Wo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=o94a7GWs0Wo",
+          "publishedOn": "2024-10-11T14:00:56.000Z",
+          "wordCount": null,
+          "title": "This Drill Destroys Any Material",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=HOk3CmOagfI",
           "author": null,
@@ -2517,16 +2546,6 @@
           "wordCount": null,
           "title": "This is Why Coolant Matters",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=G7lbxWV_1wA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=G7lbxWV_1wA",
-          "publishedOn": "2024-10-01T14:00:24.000Z",
-          "wordCount": null,
-          "title": "MONSTER Machining in SPAIN",
-          "imageUrl": null
         }
       ]
     },
@@ -2535,6 +2554,36 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=F0RbvnNWgk4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=F0RbvnNWgk4",
+          "publishedOn": "2024-10-11T20:30:02.000Z",
+          "wordCount": null,
+          "title": "One feature of #RollsRoyce is its starlight rooftop. #cars #engineering",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=oE4rCB9snAs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oE4rCB9snAs",
+          "publishedOn": "2024-10-11T20:00:55.000Z",
+          "wordCount": null,
+          "title": "The head chef bought 300 pounds of #garlic for the event. #california",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=CbQ6fS8KumE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CbQ6fS8KumE",
+          "publishedOn": "2024-10-11T13:09:37.000Z",
+          "wordCount": null,
+          "title": "Here's how traditional #Indonesian #tea is prepared. #Sudanese",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=5VoR9JNSuNw",
           "author": null,
@@ -2573,16 +2622,6 @@
           "publishedOn": "2024-10-09T17:30:00.000Z",
           "wordCount": null,
           "title": "Tony farms walnuts, but everyone knows him as the guy who saved the #Garlic Festival in #California.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=X8O1XijZZdc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=X8O1XijZZdc",
-          "publishedOn": "2024-10-09T16:50:06.000Z",
-          "wordCount": null,
-          "title": "New #caviar companies are popping up on #Instagram, but they're not all the same. #business",
           "imageUrl": null
         },
         {
@@ -2663,26 +2702,6 @@
           "publishedOn": "2024-10-04T20:00:10.000Z",
           "wordCount": null,
           "title": "Here's an inside look at Louisana's $1.3B #shrimp industry. #louisana #fishing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eyyho2-ErL8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eyyho2-ErL8",
-          "publishedOn": "2024-10-04T03:54:45.000Z",
-          "wordCount": null,
-          "title": "It takes hundreds of tea leaves and some skilled footwork to make #kejek #tea. #indonesia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iBpU9idmeVM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iBpU9idmeVM",
-          "publishedOn": "2024-10-03T19:55:09.000Z",
-          "wordCount": null,
-          "title": "Here's how #sewage sludge can bring #microplastics into our #food supply.",
           "imageUrl": null
         }
       ]
@@ -2878,6 +2897,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ0-OtVpF0wOKEqT2Z1HEtA",
       "siteUrl": "https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=011JikH38ck",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=011JikH38ck",
+          "publishedOn": "2024-10-11T18:28:22.000Z",
+          "wordCount": null,
+          "title": "Mexico City Travel Diary #travel #electrical #experiment #funny",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=hWVHlbS6tiY",
           "author": null,
