@@ -1,17 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-14T00:41:50.061Z</id>
+    <id>urn:2024-10-15T00:40:38.843Z</id>
     <title>osmos::feed</title>
-    <updated>2024-10-14T00:41:50.062Z</updated>
+    <updated>2024-10-15T00:40:38.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Did you know the intricate paintwork on #RollsRoyce #cars is hand-painted by one person? #luxury]]></title>
+        <id>https://www.youtube.com/watch?v=3sfGC7BcTSM</id>
+        <link href="https://www.youtube.com/watch?v=3sfGC7BcTSM"/>
+        <updated>2024-10-14T20:50:07.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There have been thousands of import disclosure violations in #Louisiana #restaurants. #shrimp]]></title>
+        <id>https://www.youtube.com/watch?v=jPOoSz4Ab1A</id>
+        <link href="https://www.youtube.com/watch?v=jPOoSz4Ab1A"/>
+        <updated>2024-10-14T17:18:33.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Watch SpaceX Launch NASA's Europa Clipper to Jupiter / Europa!]]></title>
         <id>https://www.youtube.com/watch?v=IAixoyE78rE</id>
         <link href="https://www.youtube.com/watch?v=IAixoyE78rE"/>
-        <updated>2024-10-13T21:00:47.000Z</updated>
+        <updated>2024-10-14T16:54:27.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is Wringing Gauge Blocks]]></title>
+        <id>https://www.youtube.com/watch?v=nyFZ4evshuk</id>
+        <link href="https://www.youtube.com/watch?v=nyFZ4evshuk"/>
+        <updated>2024-10-14T15:01:01.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anagram Land]]></title>
+        <id>https://www.youtube.com/watch?v=jX9YzpypH1g</id>
+        <link href="https://www.youtube.com/watch?v=jX9YzpypH1g"/>
+        <updated>2024-10-14T03:21:44.000Z</updated>
+        <author>
+            <name>Vsauce</name>
         </author>
     </entry>
     <entry>
@@ -177,7 +213,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NASA’s Search for Life in a Radiation Death Zone Starts in 16 Hours | Europa Clipper]]></title>
+        <title type="html"><![CDATA[NASA's Search for Life in a Radiation Death Zone | Europa Clipper]]></title>
         <id>https://www.youtube.com/watch?v=DJO_9auJhJQ</id>
         <link href="https://www.youtube.com/watch?v=DJO_9auJhJQ"/>
         <updated>2024-10-11T18:25:50.000Z</updated>
@@ -537,15 +573,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The true cost of a bespoke Rolls Royce has no limits. #rollsroyce #car #luxury]]></title>
-        <id>https://www.youtube.com/watch?v=-pWALFCg3Og</id>
-        <link href="https://www.youtube.com/watch?v=-pWALFCg3Og"/>
-        <updated>2024-10-07T17:51:18.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Degraded Capacitor is Bad #technology #experiment #electronic #funny]]></title>
         <id>https://www.youtube.com/watch?v=hWVHlbS6tiY</id>
         <link href="https://www.youtube.com/watch?v=hWVHlbS6tiY"/>
@@ -570,15 +597,6 @@
         <updated>2024-10-07T15:00:54.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[14 Fascinating Businesses Behind The Scenes | Business Insider Marathon]]></title>
-        <id>https://www.youtube.com/watch?v=cKn4i2dvya0</id>
-        <link href="https://www.youtube.com/watch?v=cKn4i2dvya0"/>
-        <updated>2024-10-06T15:00:37.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -780,15 +798,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Double End Mill Synchronized Milling]]></title>
-        <id>https://www.youtube.com/watch?v=M3TJ7JO_I-g</id>
-        <link href="https://www.youtube.com/watch?v=M3TJ7JO_I-g"/>
-        <updated>2024-10-03T15:00:31.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[There Is Something Hiding Inside Earth]]></title>
         <id>https://www.youtube.com/watch?v=VD6xJq8NguY</id>
         <link href="https://www.youtube.com/watch?v=VD6xJq8NguY"/>
@@ -852,7 +861,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Made a Board Game for Halloween!]]></title>
+        <title type="html"><![CDATA[A Perfect Party Game for Halloween?  Stabbin' in the Cabin]]></title>
         <id>https://www.youtube.com/watch?v=1_t69Yeqfqc</id>
         <link href="https://www.youtube.com/watch?v=1_t69Yeqfqc"/>
         <updated>2024-10-01T18:05:15.000Z</updated>
@@ -1923,15 +1932,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Finally Found One!]]></title>
-        <id>https://www.youtube.com/watch?v=ycYniNvZuoQ</id>
-        <link href="https://www.youtube.com/watch?v=ycYniNvZuoQ"/>
-        <updated>2024-08-19T02:29:58.000Z</updated>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What Do You Hear?]]></title>
         <id>https://www.youtube.com/watch?v=nhW0FLEqUkk</id>
         <link href="https://www.youtube.com/watch?v=nhW0FLEqUkk"/>
@@ -2496,24 +2496,6 @@
         <updated>2024-07-17T14:35:01.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Χώρισα και τερμάτισα το Dark Souls]]></title>
-        <id>https://www.youtube.com/watch?v=EDkzH7-ibfw</id>
-        <link href="https://www.youtube.com/watch?v=EDkzH7-ibfw"/>
-        <updated>2024-07-16T16:24:10.000Z</updated>
-        <author>
-            <name>NinjaCakeAssassin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DON'T EAT THE BATTERY #electronics #battery #technology #funny]]></title>
-        <id>https://www.youtube.com/watch?v=B5UKShUCx_Y</id>
-        <link href="https://www.youtube.com/watch?v=B5UKShUCx_Y"/>
-        <updated>2024-07-16T16:06:11.000Z</updated>
-        <author>
-            <name>ElectroBOOM</name>
         </author>
     </entry>
 </feed>
