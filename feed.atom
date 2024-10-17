@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-16T00:40:20.480Z</id>
+    <id>urn:2024-10-17T00:40:04.645Z</id>
     <title>osmos::feed</title>
-    <updated>2024-10-16T00:40:20.480Z</updated>
+    <updated>2024-10-17T00:40:04.645Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Last Photograph We Took Of Earth]]></title>
+        <id>https://www.youtube.com/watch?v=YKax1HA4vHg</id>
+        <link href="https://www.youtube.com/watch?v=YKax1HA4vHg"/>
+        <updated>2024-10-16T22:47:35.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How PVC pipes are woven into baskets. #sustainability #recycling #environmentalism #plastic #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=yxu5ZfiZHSw</id>
+        <link href="https://www.youtube.com/watch?v=yxu5ZfiZHSw"/>
+        <updated>2024-10-16T19:59:49.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fire from an Orange                                #fire #orange #survival]]></title>
+        <id>https://www.youtube.com/watch?v=X17jdvIpWL8</id>
+        <link href="https://www.youtube.com/watch?v=X17jdvIpWL8"/>
+        <updated>2024-10-16T17:47:14.000Z</updated>
+        <author>
+            <name>You Suck At Cooking</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transforming the Christoffel Symbols | Tensor Calculus]]></title>
+        <id>https://www.youtube.com/watch?v=gu_bgpINNlo</id>
+        <link href="https://www.youtube.com/watch?v=gu_bgpINNlo"/>
+        <updated>2024-10-16T17:21:19.000Z</updated>
+        <author>
+            <name>Faculty of Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The real science of black holes]]></title>
+        <id>https://www.youtube.com/watch?v=ORxKf1FN3ro</id>
+        <link href="https://www.youtube.com/watch?v=ORxKf1FN3ro"/>
+        <updated>2024-10-16T15:05:39.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s Actually Happening In The South China Sea? | View From Above | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=yRzpanrzrK4</id>
+        <link href="https://www.youtube.com/watch?v=yRzpanrzrK4"/>
+        <updated>2024-10-16T15:01:14.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machinist Reacts to Machine Shop Destruction]]></title>
+        <id>https://www.youtube.com/watch?v=Ci_gNysJCOE</id>
+        <link href="https://www.youtube.com/watch?v=Ci_gNysJCOE"/>
+        <updated>2024-10-16T14:10:00.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wait for the sonic booms! SpaceX #Starship Super Heavy catch! #ift5 #flight5 @CosmicPerspective]]></title>
+        <id>https://www.youtube.com/watch?v=y-a-aP1a7yA</id>
+        <link href="https://www.youtube.com/watch?v=y-a-aP1a7yA"/>
+        <updated>2024-10-16T03:00:55.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Here's why a Canadian company wants to mine the deep #sea. #canada #mining]]></title>
         <id>https://www.youtube.com/watch?v=ihQE_G_-PH8</id>
@@ -474,15 +546,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Descendants Of Taj Mahal Artisans Are Keeping Marble Inlay Work Alive | Still Standing]]></title>
-        <id>https://www.youtube.com/watch?v=Yz8-j2hWYbo</id>
-        <link href="https://www.youtube.com/watch?v=Yz8-j2hWYbo"/>
-        <updated>2024-10-09T15:00:38.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Creator of Bitcoin's Identity Found?]]></title>
         <id>https://www.youtube.com/watch?v=BS9rK92sy2I</id>
         <link href="https://www.youtube.com/watch?v=BS9rK92sy2I"/>
@@ -510,7 +573,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ground Faults vs Short Circuits Which is MORE DANGEROUS?]]></title>
+        <title type="html"><![CDATA[How electrical short circuit and ground faults trip breakers]]></title>
         <id>https://www.youtube.com/watch?v=Qi0ynSQw-wc</id>
         <link href="https://www.youtube.com/watch?v=Qi0ynSQw-wc"/>
         <updated>2024-10-08T19:50:10.000Z</updated>
@@ -525,15 +588,6 @@
         <updated>2024-10-08T18:03:25.000Z</updated>
         <author>
             <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The area of #tea plantations in #Asia have decreased by 14%. #indonesia]]></title>
-        <id>https://www.youtube.com/watch?v=43wx5y6OYTI</id>
-        <link href="https://www.youtube.com/watch?v=43wx5y6OYTI"/>
-        <updated>2024-10-08T17:20:21.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -696,15 +750,6 @@
         <updated>2024-10-05T14:38:48.000Z</updated>
         <author>
             <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unboxing The Most Advanced Coolant System]]></title>
-        <id>https://www.youtube.com/watch?v=4ms_nAEJ_9w</id>
-        <link href="https://www.youtube.com/watch?v=4ms_nAEJ_9w"/>
-        <updated>2024-10-05T14:00:03.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -879,7 +924,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Perfect Party Game for Halloween?  Stabbin' in the Cabin]]></title>
+        <title type="html"><![CDATA[The Perfect Halloween Party Game? Stabbin' in the Cabin]]></title>
         <id>https://www.youtube.com/watch?v=1_t69Yeqfqc</id>
         <link href="https://www.youtube.com/watch?v=1_t69Yeqfqc"/>
         <updated>2024-10-01T18:05:15.000Z</updated>
@@ -1896,15 +1941,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Last Person To Know The World Before Photography]]></title>
-        <id>https://www.youtube.com/watch?v=__oyrf33O8M</id>
-        <link href="https://www.youtube.com/watch?v=__oyrf33O8M"/>
-        <updated>2024-08-23T03:26:21.000Z</updated>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Key Equation Behind Probability]]></title>
         <id>https://www.youtube.com/watch?v=KHVR587oW8I</id>
         <link href="https://www.youtube.com/watch?v=KHVR587oW8I"/>
@@ -2442,15 +2478,6 @@
         <updated>2024-07-24T14:26:33.000Z</updated>
         <author>
             <name>minutephysics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deriving Euler's Formula]]></title>
-        <id>https://www.youtube.com/watch?v=kuv0P3h920k</id>
-        <link href="https://www.youtube.com/watch?v=kuv0P3h920k"/>
-        <updated>2024-07-23T18:50:48.000Z</updated>
-        <author>
-            <name>Faculty of Khan</name>
         </author>
     </entry>
     <entry>
