@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-19T00:39:44.944Z</id>
+    <id>urn:2024-10-20T00:44:11.495Z</id>
     <title>osmos::feed</title>
-    <updated>2024-10-19T00:39:44.944Z</updated>
+    <updated>2024-10-20T00:44:11.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Multistreaming with Restream.io]]></title>
+        <id>https://www.youtube.com/watch?v=MCw7dba21Zw</id>
+        <link href="https://www.youtube.com/watch?v=MCw7dba21Zw"/>
+        <updated>2024-10-19T20:43:10.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multistreaming with Restream.io]]></title>
+        <id>https://www.youtube.com/watch?v=PqWMQQQ9EkA</id>
+        <link href="https://www.youtube.com/watch?v=PqWMQQQ9EkA"/>
+        <updated>2024-10-19T20:43:10.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s the best way to dry desiccant?]]></title>
+        <id>https://www.youtube.com/watch?v=6tHInlFfMcM</id>
+        <link href="https://www.youtube.com/watch?v=6tHInlFfMcM"/>
+        <updated>2024-10-19T15:30:03.000Z</updated>
+        <author>
+            <name>CNC Kitchen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazing 5 Axis Machining - MONSTER Part]]></title>
+        <id>https://www.youtube.com/watch?v=eh8VPsj-x1w</id>
+        <link href="https://www.youtube.com/watch?v=eh8VPsj-x1w"/>
+        <updated>2024-10-19T15:00:44.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Ultra-Processed Baby Food Gets Kids Hooked On Sugar | Ultra-Processed Life | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=cRykZDnJbW4</id>
+        <link href="https://www.youtube.com/watch?v=cRykZDnJbW4"/>
+        <updated>2024-10-19T15:00:43.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INCREDIBLE 9-Axis CNC Machining Process in Stainless]]></title>
+        <id>https://www.youtube.com/watch?v=ENmc6MiKMkg</id>
+        <link href="https://www.youtube.com/watch?v=ENmc6MiKMkg"/>
+        <updated>2024-10-19T14:00:13.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The $5 Billion Mega Dam Creating Tension on the Nile]]></title>
+        <id>https://www.youtube.com/watch?v=Ew6F8rXlLUM</id>
+        <link href="https://www.youtube.com/watch?v=Ew6F8rXlLUM"/>
+        <updated>2024-10-19T09:58:17.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Our telescope tracking footage of #Starship’s #SuperHeavy reentry! #IFT5 @CosmicPerspective]]></title>
         <id>https://www.youtube.com/watch?v=Hlj_PkYvfnc</id>
@@ -474,15 +537,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The head chef bought 300 pounds of #garlic for the event. #california]]></title>
-        <id>https://www.youtube.com/watch?v=oE4rCB9snAs</id>
-        <link href="https://www.youtube.com/watch?v=oE4rCB9snAs"/>
-        <updated>2024-10-11T20:00:55.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Beyond Planets: The Quest for Exomoons]]></title>
         <id>https://www.youtube.com/watch?v=WSTk1vAill8</id>
         <link href="https://www.youtube.com/watch?v=WSTk1vAill8"/>
@@ -501,7 +555,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NASA's Search For Life In A Radiation Death Zone]]></title>
+        <title type="html"><![CDATA[We Might Find Alien Life In 7 Years]]></title>
         <id>https://www.youtube.com/watch?v=DJO_9auJhJQ</id>
         <link href="https://www.youtube.com/watch?v=DJO_9auJhJQ"/>
         <updated>2024-10-11T18:25:50.000Z</updated>
@@ -717,30 +771,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Face Grinding with Magnetic Work-Holding 🧲]]></title>
-        <id>https://www.youtube.com/watch?v=yvcmk35mjjo</id>
-        <link href="https://www.youtube.com/watch?v=yvcmk35mjjo"/>
-        <updated>2024-10-08T15:01:07.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Is This the Future of Product Design?]]></title>
         <id>https://www.youtube.com/watch?v=wUM3gZxzW54</id>
         <link href="https://www.youtube.com/watch?v=wUM3gZxzW54"/>
         <updated>2024-10-08T14:01:01.000Z</updated>
         <author>
             <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grinding One Of The Most Critical Tools in Machining]]></title>
-        <id>https://www.youtube.com/watch?v=IRVoRatbBDY</id>
-        <link href="https://www.youtube.com/watch?v=IRVoRatbBDY"/>
-        <updated>2024-10-08T14:00:29.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -807,7 +843,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[People said this experiment was impossible, so I tried it]]></title>
+        <title type="html"><![CDATA[The Wondrous World of Thermite]]></title>
         <id>https://www.youtube.com/watch?v=cUBz04LlLVk</id>
         <link href="https://www.youtube.com/watch?v=cUBz04LlLVk"/>
         <updated>2024-10-05T17:27:38.000Z</updated>
@@ -1171,15 +1207,6 @@
         <id>https://www.youtube.com/watch?v=4PnIatbdzKY</id>
         <link href="https://www.youtube.com/watch?v=4PnIatbdzKY"/>
         <updated>2024-09-28T09:00:05.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Problem With Apple]]></title>
-        <id>https://www.youtube.com/watch?v=a1XKmXL2dUQ</id>
-        <link href="https://www.youtube.com/watch?v=a1XKmXL2dUQ"/>
-        <updated>2024-09-28T09:00:00.000Z</updated>
         <author>
             <name>Interesting Engineering</name>
         </author>
@@ -2148,7 +2175,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Audio Illusions Trick Your Brain]]></title>
+        <title type="html"><![CDATA[These Audio Illusions Fool Almost Everyone]]></title>
         <id>https://www.youtube.com/watch?v=Sn07AMCfaAI</id>
         <link href="https://www.youtube.com/watch?v=Sn07AMCfaAI"/>
         <updated>2024-08-14T17:05:19.000Z</updated>
@@ -2568,24 +2595,6 @@
         <updated>2024-07-22T15:26:06.000Z</updated>
         <author>
             <name>Internet Pitstop</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pi-oneers (interview with Sinha & Saha) - Numberphile]]></title>
-        <id>https://www.youtube.com/watch?v=2lvTjEZ-bbw</id>
-        <link href="https://www.youtube.com/watch?v=2lvTjEZ-bbw"/>
-        <updated>2024-07-22T10:01:55.000Z</updated>
-        <author>
-            <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jam Jar Salad Dressing Hack               #jam #salad #cleaning]]></title>
-        <id>https://www.youtube.com/watch?v=qquBEmoGuNE</id>
-        <link href="https://www.youtube.com/watch?v=qquBEmoGuNE"/>
-        <updated>2024-07-21T21:46:16.000Z</updated>
-        <author>
-            <name>You Suck At Cooking</name>
         </author>
     </entry>
 </feed>
