@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-20T00:44:11.495Z</id>
+    <id>urn:2024-10-21T00:42:13.804Z</id>
     <title>osmos::feed</title>
-    <updated>2024-10-20T00:44:11.495Z</updated>
+    <updated>2024-10-21T00:42:13.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Αττικό πάρκο (χόρορ)]]></title>
+        <id>https://www.youtube.com/watch?v=7VSMY3UXLik</id>
+        <link href="https://www.youtube.com/watch?v=7VSMY3UXLik"/>
+        <updated>2024-10-20T18:08:57.000Z</updated>
+        <author>
+            <name>NinjaCakeAssassin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transistors are Tricky #technology #experiment #test #funny]]></title>
+        <id>https://www.youtube.com/watch?v=q89gyAlhUN0</id>
+        <link href="https://www.youtube.com/watch?v=q89gyAlhUN0"/>
+        <updated>2024-10-20T15:59:56.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 Deep Sea Jobs Around the World | Business Insider Marathon | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=lC4e8Uh_C-o</id>
+        <link href="https://www.youtube.com/watch?v=lC4e8Uh_C-o"/>
+        <updated>2024-10-20T15:00:47.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Managing Chips While Using Magnet Table]]></title>
+        <id>https://www.youtube.com/watch?v=hJLGwn9_2m0</id>
+        <link href="https://www.youtube.com/watch?v=hJLGwn9_2m0"/>
+        <updated>2024-10-20T14:00:40.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Odd Property of the Sierpiński Triangle - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=Cboz9IFvuJQ</id>
+        <link href="https://www.youtube.com/watch?v=Cboz9IFvuJQ"/>
+        <updated>2024-10-20T11:34:54.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multistreaming with Restream.io]]></title>
         <id>https://www.youtube.com/watch?v=MCw7dba21Zw</id>
@@ -24,7 +69,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What’s the best way to dry desiccant?]]></title>
+        <title type="html"><![CDATA[Don’t use desiccant bags unless you do this!]]></title>
         <id>https://www.youtube.com/watch?v=6tHInlFfMcM</id>
         <link href="https://www.youtube.com/watch?v=6tHInlFfMcM"/>
         <updated>2024-10-19T15:30:03.000Z</updated>
@@ -321,15 +366,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ragas Live Festival 2024 | Live at Pioneer Works]]></title>
-        <id>https://www.youtube.com/watch?v=ZNBLMJJp360</id>
-        <link href="https://www.youtube.com/watch?v=ZNBLMJJp360"/>
-        <updated>2024-10-15T15:49:41.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Machining MOST Complicated Part Ever!]]></title>
         <id>https://www.youtube.com/watch?v=N1HN61OpNdU</id>
         <link href="https://www.youtube.com/watch?v=N1HN61OpNdU"/>
@@ -528,15 +564,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One feature of #RollsRoyce is its starlight rooftop. #cars #engineering]]></title>
-        <id>https://www.youtube.com/watch?v=F0RbvnNWgk4</id>
-        <link href="https://www.youtube.com/watch?v=F0RbvnNWgk4"/>
-        <updated>2024-10-11T20:30:02.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Beyond Planets: The Quest for Exomoons]]></title>
         <id>https://www.youtube.com/watch?v=WSTk1vAill8</id>
         <link href="https://www.youtube.com/watch?v=WSTk1vAill8"/>
@@ -609,7 +636,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is PLA actually Strong?]]></title>
+        <title type="html"><![CDATA[Father & Daughter vs. PLA at Microsoft!]]></title>
         <id>https://www.youtube.com/watch?v=fxACftDu2-w</id>
         <link href="https://www.youtube.com/watch?v=fxACftDu2-w"/>
         <updated>2024-10-11T13:00:53.000Z</updated>
@@ -735,15 +762,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lightning Fast Setup for Thread Rolling]]></title>
-        <id>https://www.youtube.com/watch?v=NI5UjZDvDFY</id>
-        <link href="https://www.youtube.com/watch?v=NI5UjZDvDFY"/>
-        <updated>2024-10-09T14:00:19.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Introducing the Christoffel Symbols | Tensor Calculus]]></title>
         <id>https://www.youtube.com/watch?v=iZz1wRYEDck</id>
         <link href="https://www.youtube.com/watch?v=iZz1wRYEDck"/>
@@ -843,7 +861,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Wondrous World of Thermite]]></title>
+        <title type="html"><![CDATA[What Happens Inside a Thermite Reaction?]]></title>
         <id>https://www.youtube.com/watch?v=cUBz04LlLVk</id>
         <link href="https://www.youtube.com/watch?v=cUBz04LlLVk"/>
         <updated>2024-10-05T17:27:38.000Z</updated>
@@ -2175,7 +2193,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[These Audio Illusions Fool Almost Everyone]]></title>
+        <title type="html"><![CDATA[These Illusions Fool Almost Everyone]]></title>
         <id>https://www.youtube.com/watch?v=Sn07AMCfaAI</id>
         <link href="https://www.youtube.com/watch?v=Sn07AMCfaAI"/>
         <updated>2024-08-14T17:05:19.000Z</updated>
@@ -2586,15 +2604,6 @@
         <updated>2024-07-24T14:26:33.000Z</updated>
         <author>
             <name>minutephysics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do You Remember Parasyte?]]></title>
-        <id>https://www.youtube.com/watch?v=7_KNlfJmx-U</id>
-        <link href="https://www.youtube.com/watch?v=7_KNlfJmx-U"/>
-        <updated>2024-07-22T15:26:06.000Z</updated>
-        <author>
-            <name>Internet Pitstop</name>
         </author>
     </entry>
 </feed>
