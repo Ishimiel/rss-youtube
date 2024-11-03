@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-02T00:39:41.392Z</id>
+    <id>urn:2024-11-03T00:44:32.825Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-02T00:39:41.392Z</updated>
+    <updated>2024-11-03T00:44:32.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Musical Tesla Coil #Experiment #science #technology #funny]]></title>
+        <id>https://www.youtube.com/watch?v=8c9lXFjI8P4</id>
+        <link href="https://www.youtube.com/watch?v=8c9lXFjI8P4"/>
+        <updated>2024-11-02T19:25:34.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Elon Musk is Reshaping American Politics As 2024 Elections Heat Up | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=0ewPOycZLR4</id>
+        <link href="https://www.youtube.com/watch?v=0ewPOycZLR4"/>
+        <updated>2024-11-02T17:54:22.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Nightmare Just Happened in Our CNC Shop]]></title>
+        <id>https://www.youtube.com/watch?v=93LsWn74ZD8</id>
+        <link href="https://www.youtube.com/watch?v=93LsWn74ZD8"/>
+        <updated>2024-11-02T15:00:12.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printer is a Boat's Best Friend]]></title>
+        <id>https://www.youtube.com/watch?v=X-1xAshShC4</id>
+        <link href="https://www.youtube.com/watch?v=X-1xAshShC4"/>
+        <updated>2024-11-02T14:25:48.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Magic of Induction - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=DhZORrqL3xI</id>
+        <link href="https://www.youtube.com/watch?v=DhZORrqL3xI"/>
+        <updated>2024-11-02T14:00:12.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extreme CNC Machining | Full Part Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=5OHetoITdXo</id>
+        <link href="https://www.youtube.com/watch?v=5OHetoITdXo"/>
+        <updated>2024-11-02T13:00:07.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30 Years Without Refuelling: Is the Future of Ships Nuclear?]]></title>
+        <id>https://www.youtube.com/watch?v=zWW7WWw0E5g</id>
+        <link href="https://www.youtube.com/watch?v=zWW7WWw0E5g"/>
+        <updated>2024-11-02T09:01:01.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Core Equation Of Neuroscience]]></title>
+        <id>https://www.youtube.com/watch?v=zOmhHE2xctw</id>
+        <link href="https://www.youtube.com/watch?v=zOmhHE2xctw"/>
+        <updated>2024-11-02T01:04:36.000Z</updated>
+        <author>
+            <name>Artem Kirsanov</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Infinite Beginnings? Time in Cutting Edge Cosmology]]></title>
         <id>https://www.youtube.com/watch?v=_DMbOtpRSk0</id>
@@ -15,7 +87,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I'm giving away 14 years of MinutePhysics drawings]]></title>
+        <title type="html"><![CDATA[I'm giving away 14 years of drawings]]></title>
         <id>https://www.youtube.com/watch?v=-gWHh1a5FOA</id>
         <link href="https://www.youtube.com/watch?v=-gWHh1a5FOA"/>
         <updated>2024-11-01T17:21:19.000Z</updated>
@@ -235,15 +307,6 @@
         <id>https://www.youtube.com/watch?v=vkOPJHnfibs</id>
         <link href="https://www.youtube.com/watch?v=vkOPJHnfibs"/>
         <updated>2024-10-29T20:31:56.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Baby food emerged in the 1920s and was ultra-processed from the get go. #baby #food #processedfood]]></title>
-        <id>https://www.youtube.com/watch?v=YV6UUvp35Mc</id>
-        <link href="https://www.youtube.com/watch?v=YV6UUvp35Mc"/>
-        <updated>2024-10-29T19:00:26.000Z</updated>
         <author>
             <name>Business Insider</name>
         </author>
@@ -582,15 +645,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Most Advanced Tool Holder Setup for MultiSwiss]]></title>
-        <id>https://www.youtube.com/watch?v=WpdY_uPKdxA</id>
-        <link href="https://www.youtube.com/watch?v=WpdY_uPKdxA"/>
-        <updated>2024-10-23T14:00:26.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Covariant Derivative of a Tensor]]></title>
         <id>https://www.youtube.com/watch?v=CAcSEbdBQN0</id>
         <link href="https://www.youtube.com/watch?v=CAcSEbdBQN0"/>
@@ -624,15 +678,6 @@
         <updated>2024-10-22T16:00:39.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attempting the IMPOSSIBLE Cut]]></title>
-        <id>https://www.youtube.com/watch?v=BokGj0dWi40</id>
-        <link href="https://www.youtube.com/watch?v=BokGj0dWi40"/>
-        <updated>2024-10-22T14:00:18.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -987,7 +1032,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We Might Find Alien Life In 2330 Days]]></title>
+        <title type="html"><![CDATA[We Might Find Alien Life In 2339 Days]]></title>
         <id>https://www.youtube.com/watch?v=DJO_9auJhJQ</id>
         <link href="https://www.youtube.com/watch?v=DJO_9auJhJQ"/>
         <updated>2024-10-11T18:25:50.000Z</updated>
@@ -1239,7 +1284,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Happens Inside a Thermite Reaction?]]></title>
+        <title type="html"><![CDATA[Seeing Inside a Thermite Reaction]]></title>
         <id>https://www.youtube.com/watch?v=cUBz04LlLVk</id>
         <link href="https://www.youtube.com/watch?v=cUBz04LlLVk"/>
         <updated>2024-10-05T17:27:38.000Z</updated>
@@ -1281,15 +1326,6 @@
         <updated>2024-10-05T14:38:48.000Z</updated>
         <author>
             <name>SV Seeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liverpool's Secret Tunnels]]></title>
-        <id>https://www.youtube.com/watch?v=NfgJPOO1dzU</id>
-        <link href="https://www.youtube.com/watch?v=NfgJPOO1dzU"/>
-        <updated>2024-10-05T09:56:55.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -1569,15 +1605,6 @@
         <updated>2024-09-28T18:14:50.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saint Augustine Repairs]]></title>
-        <id>https://www.youtube.com/watch?v=HOBNOhaxCYg</id>
-        <link href="https://www.youtube.com/watch?v=HOBNOhaxCYg"/>
-        <updated>2024-09-28T12:48:11.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
         </author>
     </entry>
     <entry>
@@ -2418,7 +2445,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You Won't Believe Your Ears]]></title>
+        <title type="html"><![CDATA[You Can't Trust Your Ears]]></title>
         <id>https://www.youtube.com/watch?v=Sn07AMCfaAI</id>
         <link href="https://www.youtube.com/watch?v=Sn07AMCfaAI"/>
         <updated>2024-08-14T17:05:19.000Z</updated>
@@ -2568,15 +2595,6 @@
         <updated>2024-08-05T14:18:46.000Z</updated>
         <author>
             <name>NinjaCakeAssassin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to make Béchamel sauce                #bechamel #italy #baywatch]]></title>
-        <id>https://www.youtube.com/watch?v=UrDHNOr-wrk</id>
-        <link href="https://www.youtube.com/watch?v=UrDHNOr-wrk"/>
-        <updated>2024-08-04T19:12:41.000Z</updated>
-        <author>
-            <name>You Suck At Cooking</name>
         </author>
     </entry>
 </feed>
