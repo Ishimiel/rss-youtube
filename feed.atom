@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-03T00:44:32.825Z</id>
+    <id>urn:2024-11-04T00:42:08.783Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-03T00:44:32.825Z</updated>
+    <updated>2024-11-04T00:42:08.783Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Shipwrecked by Hurricane Milton - Part 2]]></title>
+        <id>https://www.youtube.com/watch?v=QSDoUT7uXPI</id>
+        <link href="https://www.youtube.com/watch?v=QSDoUT7uXPI"/>
+        <updated>2024-11-03T19:00:06.000Z</updated>
+        <author>
+            <name>SV Seeker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is It Time To Change The Supreme Court And Can It Happen? | Business Insider Explains]]></title>
+        <id>https://www.youtube.com/watch?v=Bgj4Fw-6kWA</id>
+        <link href="https://www.youtube.com/watch?v=Bgj4Fw-6kWA"/>
+        <updated>2024-11-03T16:00:12.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can you CNC Grind Black Marble?]]></title>
+        <id>https://www.youtube.com/watch?v=FqvS2ZjLzJI</id>
+        <link href="https://www.youtube.com/watch?v=FqvS2ZjLzJI"/>
+        <updated>2024-11-03T15:00:17.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Musical Tesla Coil #Experiment #science #technology #funny]]></title>
         <id>https://www.youtube.com/watch?v=8c9lXFjI8P4</id>
@@ -298,15 +325,6 @@
         <id>https://www.youtube.com/watch?v=BjCjePdowFc</id>
         <link href="https://www.youtube.com/watch?v=BjCjePdowFc"/>
         <updated>2024-10-29T20:48:02.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here’s how the Michigan scrap yard processes millions of tons of #aluminum. #recycling #landfill]]></title>
-        <id>https://www.youtube.com/watch?v=vkOPJHnfibs</id>
-        <link href="https://www.youtube.com/watch?v=vkOPJHnfibs"/>
-        <updated>2024-10-29T20:31:56.000Z</updated>
         <author>
             <name>Business Insider</name>
         </author>
@@ -615,15 +633,6 @@
         <updated>2024-10-24T14:04:05.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can The $38K SYIL X7 Machine a MIRROR Finish?]]></title>
-        <id>https://www.youtube.com/watch?v=m0ejeitfu7o</id>
-        <link href="https://www.youtube.com/watch?v=m0ejeitfu7o"/>
-        <updated>2024-10-24T14:00:52.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1284,7 +1293,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Seeing Inside a Thermite Reaction]]></title>
+        <title type="html"><![CDATA[People said this experiment was impossible, so I tried it]]></title>
         <id>https://www.youtube.com/watch?v=cUBz04LlLVk</id>
         <link href="https://www.youtube.com/watch?v=cUBz04LlLVk"/>
         <updated>2024-10-05T17:27:38.000Z</updated>
@@ -1569,15 +1578,6 @@
         <updated>2024-09-29T16:00:02.000Z</updated>
         <author>
             <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Propeller Drive Line Upgrade - Dealing with Stress]]></title>
-        <id>https://www.youtube.com/watch?v=HC5If0dA9tE</id>
-        <link href="https://www.youtube.com/watch?v=HC5If0dA9tE"/>
-        <updated>2024-09-29T11:31:10.000Z</updated>
-        <author>
-            <name>SV Seeker</name>
         </author>
     </entry>
     <entry>
@@ -2445,7 +2445,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You Can't Trust Your Ears]]></title>
+        <title type="html"><![CDATA[What You Hear Might Not Be What You See]]></title>
         <id>https://www.youtube.com/watch?v=Sn07AMCfaAI</id>
         <link href="https://www.youtube.com/watch?v=Sn07AMCfaAI"/>
         <updated>2024-08-14T17:05:19.000Z</updated>
@@ -2577,24 +2577,6 @@
         <updated>2024-08-07T14:30:30.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Torsion and Special Planes | Differential Geometry]]></title>
-        <id>https://www.youtube.com/watch?v=VgKbxVSbDqI</id>
-        <link href="https://www.youtube.com/watch?v=VgKbxVSbDqI"/>
-        <updated>2024-08-06T02:44:39.000Z</updated>
-        <author>
-            <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Το νέο Elden Ring DLC είναι εύκολο]]></title>
-        <id>https://www.youtube.com/watch?v=jJSQYI546UQ</id>
-        <link href="https://www.youtube.com/watch?v=jJSQYI546UQ"/>
-        <updated>2024-08-05T14:18:46.000Z</updated>
-        <author>
-            <name>NinjaCakeAssassin</name>
         </author>
     </entry>
 </feed>
