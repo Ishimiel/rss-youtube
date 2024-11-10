@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-09T00:38:39.315Z</id>
+    <id>urn:2024-11-10T00:42:48.168Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-09T00:38:39.315Z</updated>
+    <updated>2024-11-10T00:42:48.168Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Transform Spacetime Diagrams | Special Relativity]]></title>
+        <id>https://www.youtube.com/watch?v=MOz2q0jdWZo</id>
+        <link href="https://www.youtube.com/watch?v=MOz2q0jdWZo"/>
+        <updated>2024-11-09T23:42:38.000Z</updated>
+        <author>
+            <name>Faculty of Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Professional Colored Pencils Are So Expensive | So Expensive | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=FTnX0hFew6Q</id>
+        <link href="https://www.youtube.com/watch?v=FTnX0hFew6Q"/>
+        <updated>2024-11-09T16:00:11.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wire EDM Solves Tooling Problem]]></title>
+        <id>https://www.youtube.com/watch?v=2DNv8tkowto</id>
+        <link href="https://www.youtube.com/watch?v=2DNv8tkowto"/>
+        <updated>2024-11-09T16:00:02.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We CNC Machined Peanut the Squirrel]]></title>
+        <id>https://www.youtube.com/watch?v=q2hbZiP5VwE</id>
+        <link href="https://www.youtube.com/watch?v=q2hbZiP5VwE"/>
+        <updated>2024-11-09T15:00:53.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why doesn't resonance always build to infinity?]]></title>
+        <id>https://www.youtube.com/watch?v=WCKt405t9V8</id>
+        <link href="https://www.youtube.com/watch?v=WCKt405t9V8"/>
+        <updated>2024-11-09T11:00:39.000Z</updated>
+        <author>
+            <name>AlphaPhoenix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX is So Far Ahead]]></title>
+        <id>https://www.youtube.com/watch?v=xGF2gUrv0WA</id>
+        <link href="https://www.youtube.com/watch?v=xGF2gUrv0WA"/>
+        <updated>2024-11-09T09:01:01.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What SpaceX's Starship Booster Catch Means For The World]]></title>
+        <id>https://www.youtube.com/watch?v=OrH6EHmoQDY</id>
+        <link href="https://www.youtube.com/watch?v=OrH6EHmoQDY"/>
+        <updated>2024-11-09T09:00:24.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crafting Qubits: Harnessing Quantum Mechanics for Computation]]></title>
         <id>https://www.youtube.com/watch?v=_DoLnmkGpSI</id>
@@ -285,15 +348,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sonic the Hedgehog movies have grossed over $700M at the box office. #videogames #hollywood]]></title>
-        <id>https://www.youtube.com/watch?v=QZGrvJujDUo</id>
-        <link href="https://www.youtube.com/watch?v=QZGrvJujDUo"/>
-        <updated>2024-11-05T18:14:28.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ElectroBOOM Failures #3 #experiment #funny #electronic]]></title>
         <id>https://www.youtube.com/watch?v=vaWKjzU2toI</id>
         <link href="https://www.youtube.com/watch?v=vaWKjzU2toI"/>
@@ -555,15 +609,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is Gallium Metal?]]></title>
-        <id>https://www.youtube.com/watch?v=OJZpKUcfqqI</id>
-        <link href="https://www.youtube.com/watch?v=OJZpKUcfqqI"/>
-        <updated>2024-10-30T14:00:18.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Is DOWSING Real?! #experiment #tehcnology #fake #funny]]></title>
         <id>https://www.youtube.com/watch?v=RozXw4PHeDY</id>
         <link href="https://www.youtube.com/watch?v=RozXw4PHeDY"/>
@@ -579,15 +624,6 @@
         <updated>2024-10-29T15:32:00.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CNC Machining a Custom Lightweight Component]]></title>
-        <id>https://www.youtube.com/watch?v=zHpv7zoc64A</id>
-        <link href="https://www.youtube.com/watch?v=zHpv7zoc64A"/>
-        <updated>2024-10-29T15:01:13.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1275,30 +1311,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tesla Robovan]]></title>
-        <id>https://www.youtube.com/watch?v=iuJgVGZNT88</id>
-        <link href="https://www.youtube.com/watch?v=iuJgVGZNT88"/>
-        <updated>2024-10-11T11:00:37.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Crazy 3D Printed Bunny! Mimaki Wekster!]]></title>
         <id>https://www.youtube.com/watch?v=s5PZWZ0s-AM</id>
         <link href="https://www.youtube.com/watch?v=s5PZWZ0s-AM"/>
         <updated>2024-10-11T00:04:39.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Internet Archive Down]]></title>
-        <id>https://www.youtube.com/watch?v=KxzvCAbnXD8</id>
-        <link href="https://www.youtube.com/watch?v=KxzvCAbnXD8"/>
-        <updated>2024-10-10T16:00:25.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -1428,7 +1446,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Wondrous World of Thermite]]></title>
+        <title type="html"><![CDATA[What Happens Inside a Thermite Reaction?]]></title>
         <id>https://www.youtube.com/watch?v=cUBz04LlLVk</id>
         <link href="https://www.youtube.com/watch?v=cUBz04LlLVk"/>
         <updated>2024-10-05T17:27:38.000Z</updated>
@@ -2544,7 +2562,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[These Illusions Fool Almost Everyone]]></title>
+        <title type="html"><![CDATA[You Won't Believe Your Ears]]></title>
         <id>https://www.youtube.com/watch?v=Sn07AMCfaAI</id>
         <link href="https://www.youtube.com/watch?v=Sn07AMCfaAI"/>
         <updated>2024-08-14T17:05:19.000Z</updated>
@@ -2604,15 +2622,6 @@
         <updated>2024-08-12T14:20:16.000Z</updated>
         <author>
             <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to Fractional Calculus: the Fractional Derivative]]></title>
-        <id>https://www.youtube.com/watch?v=fZ5e2EeJVgk</id>
-        <link href="https://www.youtube.com/watch?v=fZ5e2EeJVgk"/>
-        <updated>2024-08-12T01:58:43.000Z</updated>
-        <author>
-            <name>Faculty of Khan</name>
         </author>
     </entry>
 </feed>
