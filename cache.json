@@ -366,6 +366,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UzEPJEQF4W0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UzEPJEQF4W0",
+          "publishedOn": "2024-11-14T15:45:01.000Z",
+          "wordCount": null,
+          "title": "The Law of Total Probability",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=KjdS_o5HNII",
           "author": null,
           "description": "",
@@ -811,16 +821,6 @@
           "wordCount": null,
           "title": "Visual Arts in the Age of AI",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rqTl-livoRo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rqTl-livoRo",
-          "publishedOn": "2024-08-16T20:00:09.000Z",
-          "wordCount": null,
-          "title": "Do We Owe it All to Asteroids?",
-          "imageUrl": null
         }
       ]
     },
@@ -1035,16 +1035,6 @@
           "wordCount": null,
           "title": "Wait, it's all just in 4/4?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iSiJMlKzORE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iSiJMlKzORE",
-          "publishedOn": "2024-08-16T20:14:42.000Z",
-          "wordCount": null,
-          "title": "Mom, can we have 4/4?",
-          "imageUrl": null
         }
       ]
     },
@@ -1164,6 +1154,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxqAWLTk1CmBvZFPzeZMd9A",
       "siteUrl": "https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=fH4MaSJ8gXU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fH4MaSJ8gXU",
+          "publishedOn": "2024-11-14T16:20:26.000Z",
+          "wordCount": null,
+          "title": "The Map of Board Games",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=1_t69Yeqfqc",
           "author": null,
@@ -1482,13 +1482,23 @@
       "siteUrl": "https://www.youtube.com/channel/UC2SVUGk_kWw62xkFxOGI7Ig",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=s00493i6y7A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=s00493i6y7A",
+          "publishedOn": "2024-11-14T20:32:32.000Z",
+          "wordCount": null,
+          "title": "The Haunting Ps1 Horror Of Silent Hill  #silenthill #retrogaming #ps1 #psx #playstation #psclassic",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cD8AD1o3qUI",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=cD8AD1o3qUI",
           "publishedOn": "2024-11-12T16:22:15.000Z",
           "wordCount": null,
-          "title": "The Haunting Atmosphere Of Silent Hill Games",
+          "title": "The Atmosphere Of Silent Hill",
           "imageUrl": null
         },
         {
@@ -1508,7 +1518,7 @@
           "link": "https://www.youtube.com/watch?v=DbU1ekrwoPU",
           "publishedOn": "2024-08-26T17:37:01.000Z",
           "wordCount": null,
-          "title": "Atmosphere In Pokémon",
+          "title": "The Vibes In Pokémon",
           "imageUrl": null
         }
       ]
@@ -1705,6 +1715,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7DdEm33SyaTDtWYGO2CwdA",
       "siteUrl": "https://www.youtube.com/channel/UC7DdEm33SyaTDtWYGO2CwdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=diHw58JM2Zc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=diHw58JM2Zc",
+          "publishedOn": "2024-11-14T18:30:06.000Z",
+          "wordCount": null,
+          "title": "We did it! Levitation is REAL",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=VKZtlELBGfU",
           "author": null,
@@ -2113,7 +2133,7 @@
           "link": "https://www.youtube.com/watch?v=DJO_9auJhJQ",
           "publishedOn": "2024-10-11T18:25:50.000Z",
           "wordCount": null,
-          "title": "We Might Find Alien Life In 2318 Days",
+          "title": "We Might Find Alien Life In 2317 Days",
           "imageUrl": null
         },
         {
@@ -2123,7 +2143,7 @@
           "link": "https://www.youtube.com/watch?v=cUBz04LlLVk",
           "publishedOn": "2024-10-05T17:27:38.000Z",
           "wordCount": null,
-          "title": "What Happens Inside a Thermite Reaction?",
+          "title": "Seeing Inside a Thermite Reaction",
           "imageUrl": null
         },
         {
@@ -2164,16 +2184,6 @@
           "publishedOn": "2024-08-27T21:04:56.000Z",
           "wordCount": null,
           "title": "Why Democracy Is Mathematically Impossible",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nhW0FLEqUkk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nhW0FLEqUkk",
-          "publishedOn": "2024-08-16T20:38:04.000Z",
-          "wordCount": null,
-          "title": "What Do You Hear?",
           "imageUrl": null
         }
       ]
@@ -2475,6 +2485,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=kwuI_ybyRl8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kwuI_ybyRl8",
+          "publishedOn": "2024-11-14T16:25:00.000Z",
+          "wordCount": null,
+          "title": "This Tool Holder's Coolant Placement is Genius",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=iYvBEXYOdiM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iYvBEXYOdiM",
+          "publishedOn": "2024-11-14T15:00:58.000Z",
+          "wordCount": null,
+          "title": "How I Charge $40 for a $370 Part",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=3t_WBaIjIFc",
           "author": null,
           "description": "",
@@ -2603,26 +2633,6 @@
           "wordCount": null,
           "title": "Can you CNC Grind Black Marble?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=93LsWn74ZD8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=93LsWn74ZD8",
-          "publishedOn": "2024-11-02T15:00:12.000Z",
-          "wordCount": null,
-          "title": "This Nightmare Just Happened in Our CNC Shop",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5OHetoITdXo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5OHetoITdXo",
-          "publishedOn": "2024-11-02T13:00:07.000Z",
-          "wordCount": null,
-          "title": "Extreme CNC Machining | Full Part Tutorial",
-          "imageUrl": null
         }
       ]
     },
@@ -2631,6 +2641,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=MLNDxyyL-AI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MLNDxyyL-AI",
+          "publishedOn": "2024-11-14T17:18:38.000Z",
+          "wordCount": null,
+          "title": "Not all pigments are created equal. #coloredpencils #art #fabercastell",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Mj4GIUSl7-c",
           "author": null,
@@ -2769,16 +2789,6 @@
           "publishedOn": "2024-11-08T18:01:41.000Z",
           "wordCount": null,
           "title": "The #SouthChinaSea is bristling with artificial islands and egos. #china #worldnews",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ADHzilNFA3A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ADHzilNFA3A",
-          "publishedOn": "2024-11-07T22:53:45.000Z",
-          "wordCount": null,
-          "title": "#Trump vowed to rescind #Biden's executive order on #AI.",
           "imageUrl": null
         }
       ]
@@ -2974,16 +2984,6 @@
           "wordCount": null,
           "title": "I made a big Fire Elemental erupting from a Volcano",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fa5K7z7XxHQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fa5K7z7XxHQ",
-          "publishedOn": "2024-08-16T15:00:47.000Z",
-          "wordCount": null,
-          "title": "I made a Giant Water Elemental Tearing a Ship in Half",
-          "imageUrl": null
         }
       ]
     },
@@ -3031,7 +3031,7 @@
           "link": "https://www.youtube.com/watch?v=eyVDMJN0sa8",
           "publishedOn": "2024-11-08T17:00:23.000Z",
           "wordCount": null,
-          "title": "Sausage Arc Speaker (AM Demodulator)",
+          "title": "DIY Arc Speaker (AM Demodulator)",
           "imageUrl": null
         },
         {
