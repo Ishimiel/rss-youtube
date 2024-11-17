@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Qmia00lOvSw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Qmia00lOvSw",
+          "publishedOn": "2024-11-16T15:14:10.000Z",
+          "wordCount": null,
+          "title": "The mysterious edge of the Mandelbrot Set",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DjhAgIJ5J5g",
           "author": null,
           "description": "",
@@ -94,6 +104,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw",
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=LOulCFdVOGY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LOulCFdVOGY",
+          "publishedOn": "2024-11-16T16:53:52.000Z",
+          "wordCount": null,
+          "title": "Newton’s Fractal is beautiful",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=JNVZK4ofW-Y",
           "author": null,
@@ -191,7 +211,7 @@
           "link": "https://www.youtube.com/watch?v=9-Jl0dxWQs8",
           "publishedOn": "2024-08-31T12:11:19.000Z",
           "wordCount": null,
-          "title": "How might LLMs store facts | Chapter 7, Deep Learning",
+          "title": "How might LLMs store facts | DL7",
           "imageUrl": null
         }
       ]
@@ -1435,6 +1455,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FIoigVUxE5E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FIoigVUxE5E",
+          "publishedOn": "2024-11-16T09:00:13.000Z",
+          "wordCount": null,
+          "title": "Apple Makes $Billions From Your Health Data",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0SPRDDEAHWo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0SPRDDEAHWo",
+          "publishedOn": "2024-11-16T09:00:01.000Z",
+          "wordCount": null,
+          "title": "5 Ways Apple's Products Save Lives",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=TI16W16vAfg",
           "author": null,
           "description": "",
@@ -1562,26 +1602,6 @@
           "publishedOn": "2024-10-12T09:30:22.000Z",
           "wordCount": null,
           "title": "Sea-Steading: The Next Frontier",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EB4ztHPSuGQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EB4ztHPSuGQ",
-          "publishedOn": "2024-10-12T09:00:19.000Z",
-          "wordCount": null,
-          "title": "Is Sea-Steading a Reality or Libertarian Fantasy?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3xBA7TdRKpA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3xBA7TdRKpA",
-          "publishedOn": "2024-10-11T15:33:46.000Z",
-          "wordCount": null,
-          "title": "Tesla Cybercab",
           "imageUrl": null
         }
       ]
@@ -2207,6 +2227,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=0MX-5BDeEnA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0MX-5BDeEnA",
+          "publishedOn": "2024-11-16T15:01:57.000Z",
+          "wordCount": null,
+          "title": "The BEST way to tie your shoelaces",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2oDXbFcHliM",
           "author": null,
           "description": "",
@@ -2253,7 +2283,7 @@
           "link": "https://www.youtube.com/watch?v=DJO_9auJhJQ",
           "publishedOn": "2024-10-11T18:25:50.000Z",
           "wordCount": null,
-          "title": "We Might Find Alien Life In 2316 Days",
+          "title": "We Might Find Alien Life In 2315 Days",
           "imageUrl": null
         },
         {
@@ -2263,7 +2293,7 @@
           "link": "https://www.youtube.com/watch?v=cUBz04LlLVk",
           "publishedOn": "2024-10-05T17:27:38.000Z",
           "wordCount": null,
-          "title": "People said this experiment was impossible, so I tried it",
+          "title": "The Wondrous World of Thermite",
           "imageUrl": null
         },
         {
@@ -2273,7 +2303,7 @@
           "link": "https://www.youtube.com/watch?v=w5ebcowAJD8",
           "publishedOn": "2024-09-30T18:51:21.000Z",
           "wordCount": null,
-          "title": "I used to hate QR codes. But they're actually genius",
+          "title": "How do QR codes work? (I built one myself to find out)",
           "imageUrl": null
         },
         {
@@ -2605,6 +2635,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=eT_wp3N2gw0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eT_wp3N2gw0",
+          "publishedOn": "2024-11-16T16:00:37.000Z",
+          "wordCount": null,
+          "title": "Grinding with 2 Wheels at Once",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=AHEr8K4LWMQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AHEr8K4LWMQ",
+          "publishedOn": "2024-11-16T15:00:09.000Z",
+          "wordCount": null,
+          "title": "The TERRIFYING Process Of Machining Vespel",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=70akMK01Rp8",
           "author": null,
           "description": "",
@@ -2732,26 +2782,6 @@
           "publishedOn": "2024-11-05T16:00:26.000Z",
           "wordCount": null,
           "title": "CNC Machining a Difficult Stainless Part on a 9 Axis",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UWW5bUvycYA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UWW5bUvycYA",
-          "publishedOn": "2024-11-05T15:00:36.000Z",
-          "wordCount": null,
-          "title": "Unbelievable: .000039 Accuracy for 10 Years Guaranteed",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JG3VTj6-b4s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JG3VTj6-b4s",
-          "publishedOn": "2024-11-04T15:00:31.000Z",
-          "wordCount": null,
-          "title": "Brass Drill vs. Reality: How Tough Is It Really?",
           "imageUrl": null
         }
       ]
