@@ -696,6 +696,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvz10aafWdDEvO_4ehcr0jQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=NN30f18dtAY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NN30f18dtAY",
+          "publishedOn": "2024-11-19T00:33:06.000Z",
+          "wordCount": null,
+          "title": "Artist Profile: Le'Andra LeSeur on Monument Eternal",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=QqaKaQifc_s",
           "author": null,
           "description": "",
@@ -950,6 +960,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=NQx7D60FakM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NQx7D60FakM",
+          "publishedOn": "2024-11-18T20:43:28.000Z",
+          "wordCount": null,
+          "title": "Formnext 2024 LIVE! Show & Telling from the Show Floor!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DlPeJHGXqwI",
           "author": null,
           "description": "",
@@ -1087,16 +1107,6 @@
           "publishedOn": "2024-09-27T13:01:05.000Z",
           "wordCount": null,
           "title": "PERFECT Resin Prints - HeyGears Reflex RS FIRST LOOK!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=027iovWBcY4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=027iovWBcY4",
-          "publishedOn": "2024-09-20T13:00:02.000Z",
-          "wordCount": null,
-          "title": "Hacking the Hacksmith: Wolverine",
           "imageUrl": null
         }
       ]
@@ -1292,16 +1302,6 @@
           "publishedOn": "2024-11-14T16:20:26.000Z",
           "wordCount": null,
           "title": "The Map of Board Games",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1_t69Yeqfqc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1_t69Yeqfqc",
-          "publishedOn": "2024-10-01T18:05:15.000Z",
-          "wordCount": null,
-          "title": "The Perfect Halloween Party Game? Stabbin' in the Cabin",
           "imageUrl": null
         },
         {
@@ -2293,7 +2293,7 @@
           "link": "https://www.youtube.com/watch?v=DJO_9auJhJQ",
           "publishedOn": "2024-10-11T18:25:50.000Z",
           "wordCount": null,
-          "title": "We Might Find Alien Life In 2315 Days",
+          "title": "We Might Find Alien Life In 2314 Days",
           "imageUrl": null
         },
         {
@@ -2313,7 +2313,7 @@
           "link": "https://www.youtube.com/watch?v=w5ebcowAJD8",
           "publishedOn": "2024-09-30T18:51:21.000Z",
           "wordCount": null,
-          "title": "I used to hate QR codes. But they're actually genius",
+          "title": "How do QR codes work? (I built one myself to find out)",
           "imageUrl": null
         },
         {
@@ -2802,13 +2802,63 @@
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=i4Afqq2_O7k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=i4Afqq2_O7k",
+          "publishedOn": "2024-11-18T22:44:55.000Z",
+          "wordCount": null,
+          "title": "Why Wagyu cattle is so expensive #wagyu #steak #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=p-r_TXqXGZQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=p-r_TXqXGZQ",
+          "publishedOn": "2024-11-18T22:37:06.000Z",
+          "wordCount": null,
+          "title": "Making a high-quality colored pencil is more of a #science than #art. #fabercastell",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=V9JsAX2MIyg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=V9JsAX2MIyg",
+          "publishedOn": "2024-11-18T22:02:45.000Z",
+          "wordCount": null,
+          "title": "Despite security and cost concerns, #Microsoft plans to move forward with #AI tool #Copilot.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DFWtYetoP_I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DFWtYetoP_I",
+          "publishedOn": "2024-11-18T20:36:45.000Z",
+          "wordCount": null,
+          "title": "Young Mexicans are flocking to #pulque as a way to connect to their roots. #mexico #alcohol",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=RhkFxvAvvd0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RhkFxvAvvd0",
+          "publishedOn": "2024-11-18T15:00:29.000Z",
+          "wordCount": null,
+          "title": "Microsoft Is Betting Big On AI. Company Insiders Have Serious Doubts. | Business Insider",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fMx7-5EDErQ",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=fMx7-5EDErQ",
           "publishedOn": "2024-11-17T16:00:33.000Z",
           "wordCount": null,
-          "title": "13 Rare Art Businesses Fighting To Survive | Business Insider Marathon | Business Insider",
+          "title": "13 Rare Art Businesses Behind The Scenes | Business Insider Marathon | Business Insider",
           "imageUrl": null
         },
         {
@@ -2899,56 +2949,6 @@
           "publishedOn": "2024-11-13T23:31:19.000Z",
           "wordCount": null,
           "title": "Reflective metal mirrors used to be for kings and queens. #artisan #metalwork #handcrafted",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1M3tIKXCkUs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1M3tIKXCkUs",
-          "publishedOn": "2024-11-13T21:15:29.000Z",
-          "wordCount": null,
-          "title": "Some brands price these colored pencil sets for over $500. #crayola #fabercastell #art",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SoUH5V67qLg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SoUH5V67qLg",
-          "publishedOn": "2024-11-13T20:17:45.000Z",
-          "wordCount": null,
-          "title": "The #beer industry spread rumors about #pulque, damaging its popularity. #alcohol",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=g6oCHJtLOOo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=g6oCHJtLOOo",
-          "publishedOn": "2024-11-13T19:40:38.000Z",
-          "wordCount": null,
-          "title": "Here’s how #China went from having no #navy to having the world’s second-largest. #military",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_GPtQbeWW5Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_GPtQbeWW5Q",
-          "publishedOn": "2024-11-13T16:00:35.000Z",
-          "wordCount": null,
-          "title": "You're Being Lied To About Ozempic | Truth Complex | Business Insider",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pwpI3gL8SYw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pwpI3gL8SYw",
-          "publishedOn": "2024-11-12T18:29:58.000Z",
-          "wordCount": null,
-          "title": "Here's what the ultra-rich are #investing in to live longer. #longevity #billionaire",
           "imageUrl": null
         }
       ]
@@ -3185,6 +3185,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gKRlNPe_7o0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gKRlNPe_7o0",
+          "publishedOn": "2024-11-18T17:01:36.000Z",
+          "wordCount": null,
+          "title": "Chain Mail Faraday Suit #technology #experiment #science #funny",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=TD-cBQKIrKE",
           "author": null,
           "description": "",
@@ -3322,16 +3332,6 @@
           "publishedOn": "2024-09-29T16:00:02.000Z",
           "wordCount": null,
           "title": "SKIN EFFECT! Why Current Doesn’t Run Inside",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KNlY1invtcQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KNlY1invtcQ",
-          "publishedOn": "2024-09-03T21:11:33.000Z",
-          "wordCount": null,
-          "title": "ElectroBOOM Failures #2 #electrical #test #technology #funny",
           "imageUrl": null
         }
       ]
