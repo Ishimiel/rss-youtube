@@ -105,6 +105,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nAT-MCsJeik",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nAT-MCsJeik",
+          "publishedOn": "2024-11-19T19:06:45.000Z",
+          "wordCount": null,
+          "title": "This puzzle is trickier than it seems",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=EPDZTLavmcg",
           "author": null,
           "description": "",
@@ -230,24 +240,23 @@
       "title": "Mathemaniac",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrlZs71h3mTR45FgQNINfrg",
       "siteUrl": "https://www.youtube.com/channel/UCrlZs71h3mTR45FgQNINfrg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=Cvs8iRqG6lg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Cvs8iRqG6lg",
-          "publishedOn": "2024-08-21T14:00:11.000Z",
-          "wordCount": null,
-          "title": "How physics solves a math problem (and a 3D graphics problem)",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Kurzgesagt – In a Nutshell",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=cHEOsKddURQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cHEOsKddURQ",
+          "publishedOn": "2024-11-19T15:00:01.000Z",
+          "wordCount": null,
+          "title": "Vaping Is Too Good To Be True",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=qBRaI0ZeAf8",
           "author": null,
@@ -386,16 +395,6 @@
           "publishedOn": "2024-08-29T14:00:05.000Z",
           "wordCount": null,
           "title": "This Happens When You Get a Tattoo #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dBxxi5XAm3U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dBxxi5XAm3U",
-          "publishedOn": "2024-08-27T14:00:00.000Z",
-          "wordCount": null,
-          "title": "We Traveled Back in Time. Now Physicists Are Angry.",
           "imageUrl": null
         }
       ]
@@ -964,7 +963,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=NQx7D60FakM",
-          "publishedOn": "2024-11-18T20:43:28.000Z",
+          "publishedOn": "2024-11-19T18:19:05.000Z",
           "wordCount": null,
           "title": "Formnext 2024 LIVE! Show & Telling from the Show Floor!",
           "imageUrl": null
@@ -1322,6 +1321,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Ow18oqH_4_c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ow18oqH_4_c",
+          "publishedOn": "2024-11-19T04:42:03.000Z",
+          "wordCount": null,
+          "title": "Humans for scale! It’s easy to forget how massive #Starship is!!!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DjDFirLcQDM",
           "author": null,
           "description": "",
@@ -1465,13 +1474,23 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=CVkLZNbFkCs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CVkLZNbFkCs",
+          "publishedOn": "2024-11-19T15:00:10.000Z",
+          "wordCount": null,
+          "title": "Donald Trump’s Crypto Promises: What’s Ahead?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=FIoigVUxE5E",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=FIoigVUxE5E",
           "publishedOn": "2024-11-16T09:00:13.000Z",
           "wordCount": null,
-          "title": "Apple's New Way of Making Billions",
+          "title": "The New Tech Making Apple Billions!",
           "imageUrl": null
         },
         {
@@ -1602,16 +1621,6 @@
           "publishedOn": "2024-10-19T09:58:17.000Z",
           "wordCount": null,
           "title": "The $5 Billion Mega Dam Creating Tension on the Nile",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zlBMtskNXuI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zlBMtskNXuI",
-          "publishedOn": "2024-10-12T09:30:22.000Z",
-          "wordCount": null,
-          "title": "Sea-Steading: The Next Frontier",
           "imageUrl": null
         }
       ]
@@ -2253,7 +2262,7 @@
           "link": "https://www.youtube.com/watch?v=2oDXbFcHliM",
           "publishedOn": "2024-11-13T20:21:24.000Z",
           "wordCount": null,
-          "title": "The Quest To Make Unbreakable Glass",
+          "title": "The Most Important Material Ever Made",
           "imageUrl": null
         },
         {
@@ -2313,7 +2322,7 @@
           "link": "https://www.youtube.com/watch?v=w5ebcowAJD8",
           "publishedOn": "2024-09-30T18:51:21.000Z",
           "wordCount": null,
-          "title": "How do QR codes work? (I built one myself to find out)",
+          "title": "I used to hate QR codes. But they're actually genius",
           "imageUrl": null
         },
         {
@@ -2645,6 +2654,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=yRAYNJnkKUY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yRAYNJnkKUY",
+          "publishedOn": "2024-11-19T16:00:51.000Z",
+          "wordCount": null,
+          "title": "Secret business technique to secure huge CNC machining contracts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fTQYB3Wqpm0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fTQYB3Wqpm0",
+          "publishedOn": "2024-11-19T15:00:43.000Z",
+          "wordCount": null,
+          "title": "CNC Machining Complicated 304 Stainless Steel Part",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Ino_LJA5oSo",
           "author": null,
           "description": "",
@@ -2773,26 +2802,6 @@
           "wordCount": null,
           "title": "Overlooked Technique Reduces Chatter while Grinding",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=K53Aeq1czQM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=K53Aeq1czQM",
-          "publishedOn": "2024-11-07T15:00:18.000Z",
-          "wordCount": null,
-          "title": "HIGH SPEED: 70,400 Nozzles 3D Printing Simultaneously",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8FEOFh3Zj5Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8FEOFh3Zj5Q",
-          "publishedOn": "2024-11-06T16:30:02.000Z",
-          "wordCount": null,
-          "title": "CNC Machining a Critical Engine Component",
-          "imageUrl": null
         }
       ]
     },
@@ -2801,6 +2810,36 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=3-Rb7l5FLZU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3-Rb7l5FLZU",
+          "publishedOn": "2024-11-20T00:06:53.000Z",
+          "wordCount": null,
+          "title": "Here’s why sea urchins are so expensive. #delicacy #expensivefood #seafood",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jb91cFnlVkg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jb91cFnlVkg",
+          "publishedOn": "2024-11-19T23:29:57.000Z",
+          "wordCount": null,
+          "title": "#Trump Media #stock has soared ever since Trump won the election. #crypto",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=i-uD2AZbuZs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=i-uD2AZbuZs",
+          "publishedOn": "2024-11-19T22:42:01.000Z",
+          "wordCount": null,
+          "title": "#SpiritAirlines has filed for #bankruptcy, but that doesn't mean they're going to disappear. #travel",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=i4Afqq2_O7k",
           "author": null,
@@ -2920,36 +2959,6 @@
           "wordCount": null,
           "title": "How The US Voted In Every Election, From George Washington To Donald Trump | Business Insider",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_7x-RvBAA1M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_7x-RvBAA1M",
-          "publishedOn": "2024-11-15T02:45:10.000Z",
-          "wordCount": null,
-          "title": "How these #farmers use foil and unique harvest methods to produce white asparagus. #Food #Asparagus",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MLNDxyyL-AI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MLNDxyyL-AI",
-          "publishedOn": "2024-11-14T17:18:38.000Z",
-          "wordCount": null,
-          "title": "Not all pigments are created equal. #coloredpencils #art #fabercastell",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Mj4GIUSl7-c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Mj4GIUSl7-c",
-          "publishedOn": "2024-11-13T23:31:19.000Z",
-          "wordCount": null,
-          "title": "Reflective metal mirrors used to be for kings and queens. #artisan #metalwork #handcrafted",
-          "imageUrl": null
         }
       ]
     },
@@ -2958,6 +2967,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUJexeVabymyw7G-rxdjUDw",
       "siteUrl": "https://www.youtube.com/channel/UCUJexeVabymyw7G-rxdjUDw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=cgxZYl4xWco",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cgxZYl4xWco",
+          "publishedOn": "2024-11-19T18:13:53.000Z",
+          "wordCount": null,
+          "title": "Εάν μιλήσω, φορολογούμαι (ASMR Horror)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=14x2Ie1s17A",
           "author": null,
