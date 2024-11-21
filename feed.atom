@@ -1,10 +1,136 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-20T00:42:06.877Z</id>
+    <id>urn:2024-11-21T00:42:23.367Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-20T00:42:06.877Z</updated>
+    <updated>2024-11-21T00:42:23.367Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hello from Dianna! - Two years in bed]]></title>
+        <id>https://www.youtube.com/watch?v=euCkKszuWDQ</id>
+        <link href="https://www.youtube.com/watch?v=euCkKszuWDQ"/>
+        <updated>2024-11-20T23:15:28.000Z</updated>
+        <author>
+            <name>Physics Girl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here’s how kimonos are dyed using an ancient Japanese technique. #silk #kimonos #Japan #style]]></title>
+        <id>https://www.youtube.com/watch?v=o2bc38WwBvQ</id>
+        <link href="https://www.youtube.com/watch?v=o2bc38WwBvQ"/>
+        <updated>2024-11-20T22:06:23.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Each color has a unique and secret formula. #coloredpencils #art #fabercastell]]></title>
+        <id>https://www.youtube.com/watch?v=oGeoVigaw08</id>
+        <link href="https://www.youtube.com/watch?v=oGeoVigaw08"/>
+        <updated>2024-11-20T20:49:45.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#ElonMusk wants to turn #government budgeting into a game. #politics]]></title>
+        <id>https://www.youtube.com/watch?v=4Rj2f_18bo4</id>
+        <link href="https://www.youtube.com/watch?v=4Rj2f_18bo4"/>
+        <updated>2024-11-20T19:41:05.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4/4, but weird]]></title>
+        <id>https://www.youtube.com/watch?v=WxJqIBP3UB4</id>
+        <link href="https://www.youtube.com/watch?v=WxJqIBP3UB4"/>
+        <updated>2024-11-20T19:39:05.000Z</updated>
+        <author>
+            <name>Adam Neely</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Physics Doomed Amelia Earhart]]></title>
+        <id>https://www.youtube.com/watch?v=zTDFhWWPZ4Q</id>
+        <link href="https://www.youtube.com/watch?v=zTDFhWWPZ4Q"/>
+        <updated>2024-11-20T18:27:03.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measure DC current with a clamp meter #electrical #electrician #electric #electricity]]></title>
+        <id>https://www.youtube.com/watch?v=5hWFH3j2cCk</id>
+        <link href="https://www.youtube.com/watch?v=5hWFH3j2cCk"/>
+        <updated>2024-11-20T17:54:59.000Z</updated>
+        <author>
+            <name>The Engineering Mindset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can India’s 5,000-Year-Old Disposable Clay Tea Cups Compete With Single-Use Plastic?]]></title>
+        <id>https://www.youtube.com/watch?v=Z_VGwnxcQtY</id>
+        <link href="https://www.youtube.com/watch?v=Z_VGwnxcQtY"/>
+        <updated>2024-11-20T16:00:30.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The scale of training LLMs]]></title>
+        <id>https://www.youtube.com/watch?v=qSn8dVI9V5I</id>
+        <link href="https://www.youtube.com/watch?v=qSn8dVI9V5I"/>
+        <updated>2024-11-20T15:07:29.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Large Language Models explained briefly]]></title>
+        <id>https://www.youtube.com/watch?v=LPZh9BOjkQs</id>
+        <link href="https://www.youtube.com/watch?v=LPZh9BOjkQs"/>
+        <updated>2024-11-20T15:07:15.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How an End Mill is Made]]></title>
+        <id>https://www.youtube.com/watch?v=A9DQ-9750rI</id>
+        <link href="https://www.youtube.com/watch?v=A9DQ-9750rI"/>
+        <updated>2024-11-20T15:00:19.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D PRINTING at the WONDER LAB!]]></title>
+        <id>https://www.youtube.com/watch?v=JAJSyQujzaM</id>
+        <link href="https://www.youtube.com/watch?v=JAJSyQujzaM"/>
+        <updated>2024-11-20T14:00:22.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Thick Urine]]></title>
+        <id>https://www.youtube.com/watch?v=b71He4uepM4</id>
+        <link href="https://www.youtube.com/watch?v=b71He4uepM4"/>
+        <updated>2024-11-20T01:11:45.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[4K] Starship Flight 6: Watch SpaceX launch Starship!]]></title>
+        <id>https://www.youtube.com/watch?v=DjDFirLcQDM</id>
+        <link href="https://www.youtube.com/watch?v=DjDFirLcQDM"/>
+        <updated>2024-11-20T00:47:28.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Here’s why sea urchins are so expensive. #delicacy #expensivefood #seafood]]></title>
         <id>https://www.youtube.com/watch?v=3-Rb7l5FLZU</id>
@@ -303,24 +429,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[These drinks are all made from the #agave plant but are very different. #pulque #mexico]]></title>
-        <id>https://www.youtube.com/watch?v=6kxg7jlaNo8</id>
-        <link href="https://www.youtube.com/watch?v=6kxg7jlaNo8"/>
-        <updated>2024-11-15T21:49:00.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There seems to be a greater willingness to stand up to #China. #Philippines #SoutheastAsia]]></title>
-        <id>https://www.youtube.com/watch?v=Ck3BgVGwHpo</id>
-        <link href="https://www.youtube.com/watch?v=Ck3BgVGwHpo"/>
-        <updated>2024-11-15T21:11:35.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Is the Cosmos a Vast Computation?]]></title>
         <id>https://www.youtube.com/watch?v=GLUMuN1jhds</id>
         <link href="https://www.youtube.com/watch?v=GLUMuN1jhds"/>
@@ -339,15 +447,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What you need to know about RFK Jr.’s bold (and controversial) #health plan. #fda #policy]]></title>
-        <id>https://www.youtube.com/watch?v=eCbDfH8Oni4</id>
-        <link href="https://www.youtube.com/watch?v=eCbDfH8Oni4"/>
-        <updated>2024-11-15T17:41:42.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I made Big Bird as a dinosaur chasing Elmo]]></title>
         <id>https://www.youtube.com/watch?v=NfxOChs6EgI</id>
         <link href="https://www.youtube.com/watch?v=NfxOChs6EgI"/>
@@ -363,15 +462,6 @@
         <updated>2024-11-15T15:58:23.000Z</updated>
         <author>
             <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How The US Voted In Every Election, From George Washington To Donald Trump | Business Insider]]></title>
-        <id>https://www.youtube.com/watch?v=Gr0iLB59BxU</id>
-        <link href="https://www.youtube.com/watch?v=Gr0iLB59BxU"/>
-        <updated>2024-11-15T15:00:30.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -471,15 +561,6 @@
         <updated>2024-11-15T11:51:28.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4K] Starship Flight 6: Watch SpaceX Catch Super Heavy!]]></title>
-        <id>https://www.youtube.com/watch?v=DjDFirLcQDM</id>
-        <link href="https://www.youtube.com/watch?v=DjDFirLcQDM"/>
-        <updated>2024-11-15T02:23:53.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
         </author>
     </entry>
     <entry>
@@ -831,15 +912,6 @@
         <updated>2024-11-07T17:30:11.000Z</updated>
         <author>
             <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overlooked Technique Reduces Chatter while Grinding]]></title>
-        <id>https://www.youtube.com/watch?v=5M8PM8wh0H4</id>
-        <link href="https://www.youtube.com/watch?v=5M8PM8wh0H4"/>
-        <updated>2024-11-07T16:00:05.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1464,7 +1536,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The MOSFET that Changes the WORLD! (ElectroBOOM101 - 012)]]></title>
+        <title type="html"><![CDATA[This CHIP Changed the WORLD! (ElectroBOOM101 - 012)]]></title>
         <id>https://www.youtube.com/watch?v=lyfx8CL7AkI</id>
         <link href="https://www.youtube.com/watch?v=lyfx8CL7AkI"/>
         <updated>2024-10-18T16:05:01.000Z</updated>
@@ -1689,7 +1761,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We Might Find Alien Life In 2314 Days]]></title>
+        <title type="html"><![CDATA[We Might Find Alien Life In 2312 Days]]></title>
         <id>https://www.youtube.com/watch?v=DJO_9auJhJQ</id>
         <link href="https://www.youtube.com/watch?v=DJO_9auJhJQ"/>
         <updated>2024-10-11T18:25:50.000Z</updated>
@@ -1869,7 +1941,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Wondrous World of Thermite]]></title>
+        <title type="html"><![CDATA[People said this experiment was impossible, so I tried it]]></title>
         <id>https://www.youtube.com/watch?v=cUBz04LlLVk</id>
         <link href="https://www.youtube.com/watch?v=cUBz04LlLVk"/>
         <updated>2024-10-05T17:27:38.000Z</updated>
@@ -2067,7 +2139,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I used to hate QR codes. But they're actually genius]]></title>
+        <title type="html"><![CDATA[How do QR codes work? (I built one myself to find out)]]></title>
         <id>https://www.youtube.com/watch?v=w5ebcowAJD8</id>
         <link href="https://www.youtube.com/watch?v=w5ebcowAJD8"/>
         <updated>2024-09-30T18:51:21.000Z</updated>
@@ -2163,15 +2235,6 @@
         <updated>2024-09-27T15:00:54.000Z</updated>
         <author>
             <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PERFECT Resin Prints - HeyGears Reflex RS FIRST LOOK!]]></title>
-        <id>https://www.youtube.com/watch?v=tBkK8ikqmI8</id>
-        <link href="https://www.youtube.com/watch?v=tBkK8ikqmI8"/>
-        <updated>2024-09-27T13:01:05.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
         </author>
     </entry>
     <entry>
@@ -2271,15 +2334,6 @@
         <updated>2024-09-21T23:10:47.000Z</updated>
         <author>
             <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thin Film Interference]]></title>
-        <id>https://www.youtube.com/watch?v=XJ4wul0qEuQ</id>
-        <link href="https://www.youtube.com/watch?v=XJ4wul0qEuQ"/>
-        <updated>2024-09-21T07:09:18.000Z</updated>
-        <author>
-            <name>Vsauce</name>
         </author>
     </entry>
     <entry>
@@ -2697,7 +2751,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Vibes In Pokémon]]></title>
+        <title type="html"><![CDATA[Atmosphere In Pokémon]]></title>
         <id>https://www.youtube.com/watch?v=DbU1ekrwoPU</id>
         <link href="https://www.youtube.com/watch?v=DbU1ekrwoPU"/>
         <updated>2024-08-26T17:37:01.000Z</updated>
@@ -2748,24 +2802,6 @@
         <updated>2024-08-23T15:00:34.000Z</updated>
         <author>
             <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Key Equation Behind Probability]]></title>
-        <id>https://www.youtube.com/watch?v=KHVR587oW8I</id>
-        <link href="https://www.youtube.com/watch?v=KHVR587oW8I"/>
-        <updated>2024-08-23T02:33:33.000Z</updated>
-        <author>
-            <name>Artem Kirsanov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L'Rain performs "5 to 8 Hours a Day (WWwaG)" Live at Pioneer Works]]></title>
-        <id>https://www.youtube.com/watch?v=Mdlv19T8cRA</id>
-        <link href="https://www.youtube.com/watch?v=Mdlv19T8cRA"/>
-        <updated>2024-08-22T15:02:46.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
         </author>
     </entry>
 </feed>
