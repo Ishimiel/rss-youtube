@@ -115,6 +115,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=y9BK--OxZpY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=y9BK--OxZpY",
+          "publishedOn": "2024-11-24T17:00:57.000Z",
+          "wordCount": null,
+          "title": "The meaning within the Mandelbrot set",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qSn8dVI9V5I",
           "author": null,
           "description": "",
@@ -252,16 +262,6 @@
           "publishedOn": "2024-10-05T15:31:58.000Z",
           "wordCount": null,
           "title": "How are holograms possible? | Optics puzzles 5",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9-Jl0dxWQs8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9-Jl0dxWQs8",
-          "publishedOn": "2024-08-31T12:11:19.000Z",
-          "wordCount": null,
-          "title": "How might LLMs store facts | DL7",
           "imageUrl": null
         }
       ]
@@ -979,6 +979,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=NWcPwVoZAGg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NWcPwVoZAGg",
+          "publishedOn": "2024-11-24T21:57:20.000Z",
+          "wordCount": null,
+          "title": "Cheaper Full Color Prints with Flashforge! @pcbway @flashforge3d",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4x07JdaQuJw",
           "author": null,
           "description": "",
@@ -1117,16 +1127,6 @@
           "wordCount": null,
           "title": "Crazy 3D Printed Bunny! Mimaki Wekster!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JhvCvnpuNxo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JhvCvnpuNxo",
-          "publishedOn": "2024-10-08T01:12:34.000Z",
-          "wordCount": null,
-          "title": "Magneto X LIVE with Dan from LTT!",
-          "imageUrl": null
         }
       ]
     },
@@ -1193,16 +1193,6 @@
           "publishedOn": "2024-08-30T21:49:14.000Z",
           "wordCount": null,
           "title": "4/4 (for nerds)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=W4hWmZSOQjM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=W4hWmZSOQjM",
-          "publishedOn": "2024-08-26T15:06:21.000Z",
-          "wordCount": null,
-          "title": "Wait, it's all just in 4/4?",
           "imageUrl": null
         }
       ]
@@ -1277,6 +1267,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCiczXOhGpvoQGhOL16EZiTg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=sn-6_JQX5Wk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sn-6_JQX5Wk",
+          "publishedOn": "2024-11-24T19:59:58.000Z",
+          "wordCount": null,
+          "title": "This was Long Overdue.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6tHInlFfMcM",
           "author": null,
           "description": "",
@@ -1330,6 +1330,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "siteUrl": "https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=pqxKKDBLEdk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pqxKKDBLEdk",
+          "publishedOn": "2024-11-24T18:10:50.000Z",
+          "wordCount": null,
+          "title": "[4K Slow-Mo] Starship Flight 6 Supercut w/ Clean Audio",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Y7vad5aWoWU",
           "author": null,
@@ -1469,16 +1479,6 @@
           "wordCount": null,
           "title": "Watch SpaceX launch Crew-9, returning w/ the Boeing Crew!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RaztA75ge1A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RaztA75ge1A",
-          "publishedOn": "2024-09-16T20:30:21.000Z",
-          "wordCount": null,
-          "title": "I interviewed #polarisdawn while they were in space! Check out the full convo on “Spacewalk Podcast”",
-          "imageUrl": null
         }
       ]
     },
@@ -1510,7 +1510,7 @@
           "link": "https://www.youtube.com/watch?v=uK7VgEKiJ7c",
           "publishedOn": "2024-11-23T09:00:59.000Z",
           "wordCount": null,
-          "title": "Are Kamikaze Drones a Threat to America?",
+          "title": "The Terrorist Threat of Kamikaze Drones",
           "imageUrl": null
         },
         {
@@ -1679,16 +1679,6 @@
           "wordCount": null,
           "title": "The Beauty Of Character Creators",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DbU1ekrwoPU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DbU1ekrwoPU",
-          "publishedOn": "2024-08-26T17:37:01.000Z",
-          "wordCount": null,
-          "title": "Atmosphere In Pokémon",
-          "imageUrl": null
         }
       ]
     },
@@ -1741,16 +1731,6 @@
           "publishedOn": "2024-10-02T18:05:35.000Z",
           "wordCount": null,
           "title": "The Moon's Orbit is WEIRD",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=c2wafIzuvlI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=c2wafIzuvlI",
-          "publishedOn": "2024-08-26T16:09:38.000Z",
-          "wordCount": null,
-          "title": "Does Pressure Keep the Deep Ocean From Freezing?",
           "imageUrl": null
         }
       ]
@@ -2236,13 +2216,23 @@
       "siteUrl": "https://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=jDusS--bZZA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jDusS--bZZA",
+          "publishedOn": "2024-11-24T20:00:31.000Z",
+          "wordCount": null,
+          "title": "Why this Pistol with THREE BARRELS is Almost Impossible to Aim - Smarter Every Day 304",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=JJofuF2zcTE",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=JJofuF2zcTE",
           "publishedOn": "2024-10-27T14:04:59.000Z",
           "wordCount": null,
-          "title": "Exploring \"The Cupola\" - Smarter Every Day 303",
+          "title": "Chatting with the Astronauts - Smarter Every Day 303",
           "imageUrl": null
         },
         {
@@ -2315,6 +2305,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
       "siteUrl": "https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=NKG0pRwTC5A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NKG0pRwTC5A",
+          "publishedOn": "2024-11-24T20:22:23.000Z",
+          "wordCount": null,
+          "title": "How Dishwashers Actually Work",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=zTDFhWWPZ4Q",
           "author": null,
@@ -2402,7 +2402,7 @@
           "link": "https://www.youtube.com/watch?v=w5ebcowAJD8",
           "publishedOn": "2024-09-30T18:51:21.000Z",
           "wordCount": null,
-          "title": "I used to hate QR codes. But they're actually genius",
+          "title": "How do QR codes work? (I built one myself to find out)",
           "imageUrl": null
         },
         {
@@ -2627,6 +2627,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCekQr9znsk2vWxBo3YiLq2w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=T5k88w_UMsI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=T5k88w_UMsI",
+          "publishedOn": "2024-11-24T15:25:41.000Z",
+          "wordCount": null,
+          "title": "Twice Baked Potato: Jalapeño Bacon - You Suck at Cooking (episode 175)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=RRe_BWNXvwE",
           "author": null,
           "description": "",
@@ -2733,6 +2743,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=KhDPbxaUlEs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KhDPbxaUlEs",
+          "publishedOn": "2024-11-24T15:00:29.000Z",
+          "wordCount": null,
+          "title": "Resurfacing Magnetic Chuck on CNC Grinder",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=9TJvUM3S05g",
           "author": null,
@@ -2872,16 +2892,6 @@
           "wordCount": null,
           "title": "This Tool Holder's Coolant Placement is Genius",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iYvBEXYOdiM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iYvBEXYOdiM",
-          "publishedOn": "2024-11-14T15:00:58.000Z",
-          "wordCount": null,
-          "title": "How I Charge $40 for a $370 Part",
-          "imageUrl": null
         }
       ]
     },
@@ -2890,6 +2900,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Kx34V9RE59s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Kx34V9RE59s",
+          "publishedOn": "2024-11-24T16:00:22.000Z",
+          "wordCount": null,
+          "title": "7 Of The Most Dangerous Military Jobs | Boot Camp Marathon | Business Insider",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=sdWeEhvqLBc",
           "author": null,
@@ -3028,16 +3048,6 @@
           "publishedOn": "2024-11-20T00:06:53.000Z",
           "wordCount": null,
           "title": "Here’s why sea urchins are so expensive. #delicacy #expensivefood #seafood",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jb91cFnlVkg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jb91cFnlVkg",
-          "publishedOn": "2024-11-19T23:29:57.000Z",
-          "wordCount": null,
-          "title": "#Trump Media #stock has soared ever since Trump won the election. #crypto",
           "imageUrl": null
         }
       ]
