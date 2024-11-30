@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-29T00:43:33.351Z</id>
+    <id>urn:2024-11-30T00:42:18.295Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-29T00:43:33.351Z</updated>
+    <updated>2024-11-30T00:42:18.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why does everyone sing it like THAT?]]></title>
+        <id>https://www.youtube.com/watch?v=Q1m9S6K-Kr4</id>
+        <link href="https://www.youtube.com/watch?v=Q1m9S6K-Kr4"/>
+        <updated>2024-11-29T18:44:18.000Z</updated>
+        <author>
+            <name>Adam Neely</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I made a cursed snowman that eats children]]></title>
+        <id>https://www.youtube.com/watch?v=AdIrOdU1FEo</id>
+        <link href="https://www.youtube.com/watch?v=AdIrOdU1FEo"/>
+        <updated>2024-11-29T16:00:21.000Z</updated>
+        <author>
+            <name>North of the Border</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNC Machining Most Expensive Plastic Material]]></title>
+        <id>https://www.youtube.com/watch?v=K5My-t1M4Os</id>
+        <link href="https://www.youtube.com/watch?v=K5My-t1M4Os"/>
+        <updated>2024-11-29T15:00:19.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lewis Hamilton: Future Astronaut?! A conversation about space with an icon!]]></title>
+        <id>https://www.youtube.com/watch?v=3ch5V6CxVBU</id>
+        <link href="https://www.youtube.com/watch?v=3ch5V6CxVBU"/>
+        <updated>2024-11-29T14:30:04.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hit It With A Hammer?]]></title>
         <id>https://www.youtube.com/watch?v=aczxjmQ6Lx4</id>
@@ -645,7 +681,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Real Reason Amelia Earhart’s Plane Crashed]]></title>
+        <title type="html"><![CDATA[What Actually Happened To Amelia Earhart?]]></title>
         <id>https://www.youtube.com/watch?v=zTDFhWWPZ4Q</id>
         <link href="https://www.youtube.com/watch?v=zTDFhWWPZ4Q"/>
         <updated>2024-11-20T18:27:03.000Z</updated>
@@ -822,15 +858,6 @@
         <updated>2024-11-17T16:00:10.000Z</updated>
         <author>
             <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Satisfying Cut on Monster Part]]></title>
-        <id>https://www.youtube.com/watch?v=Ino_LJA5oSo</id>
-        <link href="https://www.youtube.com/watch?v=Ino_LJA5oSo"/>
-        <updated>2024-11-17T15:00:25.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1968,7 +1995,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We Might Find Alien Life In 2303 Days]]></title>
+        <title type="html"><![CDATA[We Might Find Alien Life In 2302 Days]]></title>
         <id>https://www.youtube.com/watch?v=DJO_9auJhJQ</id>
         <link href="https://www.youtube.com/watch?v=DJO_9auJhJQ"/>
         <updated>2024-10-11T18:25:50.000Z</updated>
@@ -2274,7 +2301,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How do QR codes work? (I built one myself to find out)]]></title>
+        <title type="html"><![CDATA[I used to hate QR codes. But they're actually genius]]></title>
         <id>https://www.youtube.com/watch?v=w5ebcowAJD8</id>
         <link href="https://www.youtube.com/watch?v=w5ebcowAJD8"/>
         <updated>2024-09-30T18:51:21.000Z</updated>
@@ -2325,15 +2352,6 @@
         <updated>2024-09-28T20:38:18.000Z</updated>
         <author>
             <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch SpaceX launch Crew-9, returning w/ the Boeing Crew!]]></title>
-        <id>https://www.youtube.com/watch?v=X67-Y-jJx40</id>
-        <link href="https://www.youtube.com/watch?v=X67-Y-jJx40"/>
-        <updated>2024-09-28T18:14:50.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
         </author>
     </entry>
     <entry>
@@ -2685,24 +2703,6 @@
         <updated>2024-09-01T13:34:07.000Z</updated>
         <author>
             <name>SmarterEveryDay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Everyone Gets Wrong About Planes]]></title>
-        <id>https://www.youtube.com/watch?v=vjDYfvPW4mA</id>
-        <link href="https://www.youtube.com/watch?v=vjDYfvPW4mA"/>
-        <updated>2024-08-31T23:50:38.000Z</updated>
-        <author>
-            <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dragonfly eats a gnat #slowmotion]]></title>
-        <id>https://www.youtube.com/watch?v=AoessrdH6w4</id>
-        <link href="https://www.youtube.com/watch?v=AoessrdH6w4"/>
-        <updated>2024-08-31T18:14:36.000Z</updated>
-        <author>
-            <name>AlphaPhoenix</name>
         </author>
     </entry>
 </feed>
