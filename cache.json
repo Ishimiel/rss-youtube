@@ -832,6 +832,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=uOmJaJdEHdI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uOmJaJdEHdI",
+          "publishedOn": "2024-12-04T18:16:06.000Z",
+          "wordCount": null,
+          "title": "Will conscious AI beings one day live among us? #ai #conciousness #artificialintelligence",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=H0Oc-94PyJQ",
           "author": null,
           "description": "",
@@ -970,16 +980,6 @@
           "wordCount": null,
           "title": "AI Creativity: Genius or Gimmick?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fMV2cphelx0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fMV2cphelx0",
-          "publishedOn": "2024-09-20T20:00:08.000Z",
-          "wordCount": null,
-          "title": "Roger Penrose: Time, Black Holes, and the Cosmos",
-          "imageUrl": null
         }
       ]
     },
@@ -988,6 +988,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_7aK9PpYTqt08ERh1MewlQ",
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=BqqInb7mk3I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BqqInb7mk3I",
+          "publishedOn": "2024-12-04T14:00:18.000Z",
+          "wordCount": null,
+          "title": "Elegoo Centauri Carbon FIRST LOOK! // Formnext 2024!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=g7p1uTS7dAw",
           "author": null,
@@ -1126,16 +1136,6 @@
           "publishedOn": "2024-11-01T13:00:54.000Z",
           "wordCount": null,
           "title": "RAD PRINTS in 60 SECONDS! NERDS RULE!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HhW0WLf0u-Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HhW0WLf0u-Y",
-          "publishedOn": "2024-10-29T04:29:24.000Z",
-          "wordCount": null,
-          "title": "The @SUNLU Filament Connector preview - @PCBWay #3dprinting #3dprintingnerd",
           "imageUrl": null
         }
       ]
@@ -1494,6 +1494,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Ouo2D_s_5G0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ouo2D_s_5G0",
+          "publishedOn": "2024-12-04T18:00:13.000Z",
+          "wordCount": null,
+          "title": "Pro-Coal Trump vs Clean Energy Musk",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=AHCkFMXq4Uc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AHCkFMXq4Uc",
+          "publishedOn": "2024-12-04T16:00:07.000Z",
+          "wordCount": null,
+          "title": "Land Aircraft Carrier",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mVYfUWy0W5U",
           "author": null,
           "description": "",
@@ -1530,7 +1550,7 @@
           "link": "https://www.youtube.com/watch?v=bh7oV4K5BHk",
           "publishedOn": "2024-11-30T09:14:00.000Z",
           "wordCount": null,
-          "title": "Trump & Musk: is This a Problematic Partnership?",
+          "title": "How Trump's Policies Will Impact Tesla?",
           "imageUrl": null
         },
         {
@@ -1621,26 +1641,6 @@
           "publishedOn": "2024-11-16T09:00:13.000Z",
           "wordCount": null,
           "title": "The New Tech Making Apple Billions!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0SPRDDEAHWo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0SPRDDEAHWo",
-          "publishedOn": "2024-11-16T09:00:01.000Z",
-          "wordCount": null,
-          "title": "5 Ways Apple's Products Save Lives",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TI16W16vAfg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TI16W16vAfg",
-          "publishedOn": "2024-11-13T08:42:14.000Z",
-          "wordCount": null,
-          "title": "California Dust Storm",
           "imageUrl": null
         }
       ]
@@ -2154,13 +2154,34 @@
       "title": "Stuff Made Here",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj1VqrHhDte54oLgPG4xpuQ",
       "siteUrl": "https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=aXfTgCCsRSg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aXfTgCCsRSg",
+          "publishedOn": "2024-12-04T14:43:59.000Z",
+          "wordCount": null,
+          "title": "What if we made a camera that sees in reverse?",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "The Engineering Mindset",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCk0fGHsCEzGig-rSzkfCjMw",
       "siteUrl": "https://www.youtube.com/channel/UCk0fGHsCEzGig-rSzkfCjMw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=lCq9fMO2_Vs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lCq9fMO2_Vs",
+          "publishedOn": "2024-12-04T16:48:21.000Z",
+          "wordCount": null,
+          "title": "AC current - how to measure #electrician #electrical #electric #electricity #diy",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=5hWFH3j2cCk",
           "author": null,
@@ -2255,7 +2276,7 @@
           "link": "https://www.youtube.com/watch?v=Q10_srZ-pbs",
           "publishedOn": "2024-10-29T12:09:04.000Z",
           "wordCount": null,
-          "title": "The Strange Physics Principle That Shapes Reality",
+          "title": "Proof That Nature is Optimally Lazy",
           "imageUrl": null
         },
         {
@@ -2275,7 +2296,7 @@
           "link": "https://www.youtube.com/watch?v=DJO_9auJhJQ",
           "publishedOn": "2024-10-11T18:25:50.000Z",
           "wordCount": null,
-          "title": "We Might Find Alien Life In 2299 Days",
+          "title": "We Might Find Alien Life In 2297 Days",
           "imageUrl": null
         },
         {
@@ -2587,6 +2608,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=iUjJfsMIN9Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iUjJfsMIN9Y",
+          "publishedOn": "2024-12-04T15:35:00.000Z",
+          "wordCount": null,
+          "title": "Bolt Cutting After Machine Removal",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=CFa6iZdqV-w",
           "author": null,
           "description": "",
@@ -2725,16 +2756,6 @@
           "wordCount": null,
           "title": "Check this out… GREATNESS",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QyqkwnBnFZk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QyqkwnBnFZk",
-          "publishedOn": "2024-11-22T15:00:24.000Z",
-          "wordCount": null,
-          "title": "You're thinking about it wrong",
-          "imageUrl": null
         }
       ]
     },
@@ -2743,6 +2764,46 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=CpYKlg16D58",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CpYKlg16D58",
+          "publishedOn": "2024-12-04T22:34:59.000Z",
+          "wordCount": null,
+          "title": "Pineapple scraps can be recycled to make yarn and fabric. #ecofriendly #fiber #recycle",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=SIE1_sGzsN8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SIE1_sGzsN8",
+          "publishedOn": "2024-12-04T21:43:14.000Z",
+          "wordCount": null,
+          "title": "Experts believe #Trump's campaign promises are inflationary for the housing #market. #homeowner",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=hHi4vAiA5lo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hHi4vAiA5lo",
+          "publishedOn": "2024-12-04T21:01:26.000Z",
+          "wordCount": null,
+          "title": "This is how kulhads are still standing despite the rise of paper and #plastic cups. #artisan #india",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xTVXY_nn6ug",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xTVXY_nn6ug",
+          "publishedOn": "2024-12-04T20:41:33.000Z",
+          "wordCount": null,
+          "title": "#Xiaomi is working double shifts to produce a #car every 75 seconds after selling out in days. #ev",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=oXO7y0JaAzk",
           "author": null,
@@ -2851,46 +2912,6 @@
           "publishedOn": "2024-11-27T23:42:55.000Z",
           "wordCount": null,
           "title": "Why Rolex watches are so expensive. #rolex #watches #luxury #style",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CPnJHdCJ24I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CPnJHdCJ24I",
-          "publishedOn": "2024-11-27T22:15:31.000Z",
-          "wordCount": null,
-          "title": "#Cocoa beans reached a record price of $12,000 per metric ton. #chocolate #africa",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Wu_Sb_jkr0s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Wu_Sb_jkr0s",
-          "publishedOn": "2024-11-27T21:07:09.000Z",
-          "wordCount": null,
-          "title": "Taste buds change while you're up in the air. #airplane #food #qatarairways",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Rp5QRKqrUAo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Rp5QRKqrUAo",
-          "publishedOn": "2024-11-27T20:46:27.000Z",
-          "wordCount": null,
-          "title": "The Department of Defense will provide another $275 million in #military aid to #Ukraine. #Russia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ugaGvXNdmhw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ugaGvXNdmhw",
-          "publishedOn": "2024-11-27T20:02:14.000Z",
-          "wordCount": null,
-          "title": "Is #Patagonia straying from its original message and core values? #workplace #clothing",
           "imageUrl": null
         }
       ]
@@ -3147,6 +3168,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gJRCRkST1rE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gJRCRkST1rE",
+          "publishedOn": "2024-12-04T17:00:01.000Z",
+          "wordCount": null,
+          "title": "Is Talking on CHARGING CELLPHONE Bad?! ElectroBOOM Crew EXPOSED!!! (REUPLOAD of LATITY-004)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=HJYLROgd6IA",
           "author": null,
           "description": "",
@@ -3284,16 +3315,6 @@
           "publishedOn": "2024-10-04T16:26:21.000Z",
           "wordCount": null,
           "title": "Bulging Capacitors is Bad #technology #experiment #electronic #funny",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VFZFfDcQM8k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VFZFfDcQM8k",
-          "publishedOn": "2024-10-01T18:09:51.000Z",
-          "wordCount": null,
-          "title": "Shower Voltage is not Terrible #experiment #electric #technology #funny",
           "imageUrl": null
         }
       ]
