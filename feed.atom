@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-07T00:43:34.304Z</id>
+    <id>urn:2024-12-08T00:49:10.302Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-07T00:43:34.304Z</updated>
+    <updated>2024-12-08T00:49:10.302Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Carnivore Cookies                                  #carnivore #cookies #recipe]]></title>
+        <id>https://www.youtube.com/watch?v=X0-6fbuy7eQ</id>
+        <link href="https://www.youtube.com/watch?v=X0-6fbuy7eQ"/>
+        <updated>2024-12-07T21:21:01.000Z</updated>
+        <author>
+            <name>You Suck At Cooking</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dual Vector Properties and Raising/Lowering the Index: Introducing the Metric Tensor]]></title>
+        <id>https://www.youtube.com/watch?v=7msPp55a8Mk</id>
+        <link href="https://www.youtube.com/watch?v=7msPp55a8Mk"/>
+        <updated>2024-12-07T20:59:20.000Z</updated>
+        <author>
+            <name>Faculty of Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machinist Reacts]]></title>
+        <id>https://www.youtube.com/watch?v=4W_EJj9QYg4</id>
+        <link href="https://www.youtube.com/watch?v=4W_EJj9QYg4"/>
+        <updated>2024-12-07T16:00:05.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEXT OP | MOST Complicated Part of the 5 Axis Machining Process]]></title>
+        <id>https://www.youtube.com/watch?v=aWo9Gz2TlSQ</id>
+        <link href="https://www.youtube.com/watch?v=aWo9Gz2TlSQ"/>
+        <updated>2024-12-07T15:00:01.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Megaprojects: Saudi Arabia's 100bn Ghost City]]></title>
+        <id>https://www.youtube.com/watch?v=v0NjGYV6Ebg</id>
+        <link href="https://www.youtube.com/watch?v=v0NjGYV6Ebg"/>
+        <updated>2024-12-07T09:15:08.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built An Emordnilap Machine]]></title>
+        <id>https://www.youtube.com/watch?v=65_8t1OEZSc</id>
+        <link href="https://www.youtube.com/watch?v=65_8t1OEZSc"/>
+        <updated>2024-12-07T02:42:20.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12,419 Days Of Strandbeest Evolution]]></title>
+        <id>https://www.youtube.com/watch?v=IFaAjR_RRJs</id>
+        <link href="https://www.youtube.com/watch?v=IFaAjR_RRJs"/>
+        <updated>2024-12-07T00:58:14.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[These disposable cups made of #clay go back 5,000 years. #india #disposable]]></title>
         <id>https://www.youtube.com/watch?v=psM7zXvdg2s</id>
@@ -843,15 +906,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Machinist Fakes it to become Shop Supervisor]]></title>
-        <id>https://www.youtube.com/watch?v=3tN4Q6JwEa8</id>
-        <link href="https://www.youtube.com/watch?v=3tN4Q6JwEa8"/>
-        <updated>2024-11-25T15:00:03.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bambu Lab’s Dr. Tao at Formnext 2024]]></title>
         <id>https://www.youtube.com/watch?v=ciXH8Kl_inA</id>
         <link href="https://www.youtube.com/watch?v=ciXH8Kl_inA"/>
@@ -921,15 +975,6 @@
         <updated>2024-11-24T15:25:41.000Z</updated>
         <author>
             <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resurfacing Magnetic Chuck on CNC Grinder]]></title>
-        <id>https://www.youtube.com/watch?v=KhDPbxaUlEs</id>
-        <link href="https://www.youtube.com/watch?v=KhDPbxaUlEs"/>
-        <updated>2024-11-24T15:00:29.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1020,15 +1065,6 @@
         <updated>2024-11-22T14:00:04.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Tesla's Mini-Optimus Sold Out]]></title>
-        <id>https://www.youtube.com/watch?v=Gb83-t_H1KM</id>
-        <link href="https://www.youtube.com/watch?v=Gb83-t_H1KM"/>
-        <updated>2024-11-22T12:19:11.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -1815,7 +1851,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Strange Physics Principle That Shapes Reality]]></title>
+        <title type="html"><![CDATA[The Simple Math Problem That Revolutionized Physics]]></title>
         <id>https://www.youtube.com/watch?v=Q10_srZ-pbs</id>
         <link href="https://www.youtube.com/watch?v=Q10_srZ-pbs"/>
         <updated>2024-10-29T12:09:04.000Z</updated>
@@ -2274,15 +2310,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Funeral For A Species]]></title>
-        <id>https://www.youtube.com/watch?v=VZIUL5Kmtgs</id>
-        <link href="https://www.youtube.com/watch?v=VZIUL5Kmtgs"/>
-        <updated>2024-10-10T01:12:06.000Z</updated>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hurricane Milton Has Put NASA’s Next Mission in Danger]]></title>
         <id>https://www.youtube.com/watch?v=u3Iqp1tzBJg</id>
         <link href="https://www.youtube.com/watch?v=u3Iqp1tzBJg"/>
@@ -2526,7 +2553,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a QR code with my own hands to find out how it works]]></title>
+        <title type="html"><![CDATA[I built a QR code with my bare hands to see how it works]]></title>
         <id>https://www.youtube.com/watch?v=w5ebcowAJD8</id>
         <link href="https://www.youtube.com/watch?v=w5ebcowAJD8"/>
         <updated>2024-09-30T18:51:21.000Z</updated>
@@ -2793,15 +2820,6 @@
         <updated>2024-09-10T13:00:24.000Z</updated>
         <author>
             <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Beta Function Explained (and why it's useful)]]></title>
-        <id>https://www.youtube.com/watch?v=tdHznCufTzw</id>
-        <link href="https://www.youtube.com/watch?v=tdHznCufTzw"/>
-        <updated>2024-09-09T14:59:26.000Z</updated>
-        <author>
-            <name>Faculty of Khan</name>
         </author>
     </entry>
 </feed>
