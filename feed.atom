@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-13T00:44:53.729Z</id>
+    <id>urn:2024-12-14T00:42:54.945Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-13T00:44:53.729Z</updated>
+    <updated>2024-12-14T00:42:54.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A #Cleveland program gives people with criminal records a chance at a #culinary #career and success.]]></title>
+        <id>https://www.youtube.com/watch?v=-UbhrfPaZwI</id>
+        <link href="https://www.youtube.com/watch?v=-UbhrfPaZwI"/>
+        <updated>2024-12-13T21:55:57.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Oil wells set up by Dutch colonists still pollute #Indonesia, harming #agriculture decades later.]]></title>
+        <id>https://www.youtube.com/watch?v=bwJEF0HFTdg</id>
+        <link href="https://www.youtube.com/watch?v=bwJEF0HFTdg"/>
+        <updated>2024-12-13T21:21:41.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are the best (and most dangerous) uses for artificial intelligence? #artificialintelligence #ai]]></title>
+        <id>https://www.youtube.com/watch?v=TAPcMTiRiMw</id>
+        <link href="https://www.youtube.com/watch?v=TAPcMTiRiMw"/>
+        <updated>2024-12-13T21:19:05.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The World's Smartest Mind: Exploring the Extremes of Thought with Benjamin Labatut]]></title>
+        <id>https://www.youtube.com/watch?v=1ujf8rqAqU8</id>
+        <link href="https://www.youtube.com/watch?v=1ujf8rqAqU8"/>
+        <updated>2024-12-13T21:00:07.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Pointe Shoes Cost the NYC Ballet Nearly $1 Million A Year | Big Business | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=tn1rN0tu1Ro</id>
+        <link href="https://www.youtube.com/watch?v=tn1rN0tu1Ro"/>
+        <updated>2024-12-13T16:01:00.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I made Santa firing Knife Wielding Elves from a Cannon]]></title>
+        <id>https://www.youtube.com/watch?v=0qjTe19eCho</id>
+        <link href="https://www.youtube.com/watch?v=0qjTe19eCho"/>
+        <updated>2024-12-13T16:00:01.000Z</updated>
+        <author>
+            <name>North of the Border</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This CNC Machine Has NO Power]]></title>
+        <id>https://www.youtube.com/watch?v=qgFnm9sk2ng</id>
+        <link href="https://www.youtube.com/watch?v=qgFnm9sk2ng"/>
+        <updated>2024-12-13T15:00:55.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D PRINTING WIRE and TERMINATING IT?! - Fraunhofer Formnext 2024]]></title>
+        <id>https://www.youtube.com/watch?v=Zm4B82Wplgg</id>
+        <link href="https://www.youtube.com/watch?v=Zm4B82Wplgg"/>
+        <updated>2024-12-13T14:00:29.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring Greenhouse Gases from Space]]></title>
+        <id>https://www.youtube.com/watch?v=7zbce-Lo3O0</id>
+        <link href="https://www.youtube.com/watch?v=7zbce-Lo3O0"/>
+        <updated>2024-12-13T14:00:28.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Need Gifts? 3D-Print 10 Board Games Too Silly for Stores]]></title>
+        <id>https://www.youtube.com/watch?v=o78L0DPMGQg</id>
+        <link href="https://www.youtube.com/watch?v=o78L0DPMGQg"/>
+        <updated>2024-12-13T00:40:54.000Z</updated>
+        <author>
+            <name>Zack Freedman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This is how cashew fruit liquor is made in India. #cashews #alcohol #India]]></title>
         <id>https://www.youtube.com/watch?v=r0NrtWCux8g</id>
@@ -69,7 +159,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How This Prawn Can Kill You - Allergies Explained]]></title>
+        <title type="html"><![CDATA[The Unbelievable Story Behind Your Allergies]]></title>
         <id>https://www.youtube.com/watch?v=9zCH37330f8</id>
         <link href="https://www.youtube.com/watch?v=9zCH37330f8"/>
         <updated>2024-12-12T15:00:04.000Z</updated>
@@ -267,15 +357,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Qatar Airways Moves 500,000 Animals And Radioactive Cargo In Scorching Heat | Big Business]]></title>
-        <id>https://www.youtube.com/watch?v=Y1JGY7ooEgQ</id>
-        <link href="https://www.youtube.com/watch?v=Y1JGY7ooEgQ"/>
-        <updated>2024-12-09T16:00:29.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[3D Printing a Precision Inspection Fixture]]></title>
         <id>https://www.youtube.com/watch?v=fSaJ3o6skVU</id>
         <link href="https://www.youtube.com/watch?v=fSaJ3o6skVU"/>
@@ -390,24 +471,6 @@
         <updated>2024-12-07T00:58:14.000Z</updated>
         <author>
             <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[These disposable cups made of #clay go back 5,000 years. #india #disposable]]></title>
-        <id>https://www.youtube.com/watch?v=psM7zXvdg2s</id>
-        <link href="https://www.youtube.com/watch?v=psM7zXvdg2s"/>
-        <updated>2024-12-06T21:59:20.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is how army culinary specialists cook for 800 soldiers. #army #cooking #armyfood]]></title>
-        <id>https://www.youtube.com/watch?v=h7CdnR8KIQk</id>
-        <link href="https://www.youtube.com/watch?v=h7CdnR8KIQk"/>
-        <updated>2024-12-06T21:42:31.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -798,15 +861,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Restoring a Rusty Gear back to Perfection]]></title>
-        <id>https://www.youtube.com/watch?v=MfRKnQrDngk</id>
-        <link href="https://www.youtube.com/watch?v=MfRKnQrDngk"/>
-        <updated>2024-12-01T15:00:22.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[You're Probably Wrong About Rainbows]]></title>
         <id>https://www.youtube.com/watch?v=24GfgNtnjXc</id>
         <link href="https://www.youtube.com/watch?v=24GfgNtnjXc"/>
@@ -838,15 +892,6 @@
         <id>https://www.youtube.com/watch?v=bh7oV4K5BHk</id>
         <link href="https://www.youtube.com/watch?v=bh7oV4K5BHk"/>
         <updated>2024-11-30T09:14:00.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Business Dynamics Between Musk and Trump]]></title>
-        <id>https://www.youtube.com/watch?v=AZegeGEC1wk</id>
-        <link href="https://www.youtube.com/watch?v=AZegeGEC1wk"/>
-        <updated>2024-11-30T09:00:14.000Z</updated>
         <author>
             <name>Interesting Engineering</name>
         </author>
@@ -1464,15 +1509,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Does the Sunlu Filament Connector Work?]]></title>
-        <id>https://www.youtube.com/watch?v=DlPeJHGXqwI</id>
-        <link href="https://www.youtube.com/watch?v=DlPeJHGXqwI"/>
-        <updated>2024-11-15T14:00:22.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Harmonic Functions and Harmonic Conjugates | Complex Variables]]></title>
         <id>https://www.youtube.com/watch?v=7XHah5XF7L4</id>
         <link href="https://www.youtube.com/watch?v=7XHah5XF7L4"/>
@@ -1542,15 +1578,6 @@
         <updated>2024-11-15T11:51:28.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ps1 Horror Of Silent Hill  #silenthill #retrogaming #ps1 #psx #playstation #psclassic]]></title>
-        <id>https://www.youtube.com/watch?v=s00493i6y7A</id>
-        <link href="https://www.youtube.com/watch?v=s00493i6y7A"/>
-        <updated>2024-11-14T20:32:32.000Z</updated>
-        <author>
-            <name>Internet Pitstop</name>
         </author>
     </entry>
     <entry>
@@ -2004,15 +2031,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Consciousness, Free Will, and Psychedelics: Exploring Mysteries of the Mind]]></title>
-        <id>https://www.youtube.com/watch?v=C9bqa8hRonE</id>
-        <link href="https://www.youtube.com/watch?v=C9bqa8hRonE"/>
-        <updated>2024-10-25T20:00:06.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Planet Pi - Numberphile]]></title>
         <id>https://www.youtube.com/watch?v=n9lKcs-h7fg</id>
         <link href="https://www.youtube.com/watch?v=n9lKcs-h7fg"/>
@@ -2172,15 +2190,6 @@
         <updated>2024-10-18T23:11:54.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Straight Talk on Quantum Computing]]></title>
-        <id>https://www.youtube.com/watch?v=AVYRW9Qdp7Q</id>
-        <link href="https://www.youtube.com/watch?v=AVYRW9Qdp7Q"/>
-        <updated>2024-10-18T20:00:06.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
         </author>
     </entry>
     <entry>
@@ -2634,7 +2643,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a QR code with my own hands to find out how it works]]></title>
+        <title type="html"><![CDATA[I built a QR code with my bare hands to see how it works]]></title>
         <id>https://www.youtube.com/watch?v=w5ebcowAJD8</id>
         <link href="https://www.youtube.com/watch?v=w5ebcowAJD8"/>
         <updated>2024-09-30T18:51:21.000Z</updated>
@@ -2829,33 +2838,6 @@
         <updated>2024-09-17T00:10:13.000Z</updated>
         <author>
             <name>Physics Girl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Metric Tensor: Definition and Properties]]></title>
-        <id>https://www.youtube.com/watch?v=2lqE9my0ch8</id>
-        <link href="https://www.youtube.com/watch?v=2lqE9my0ch8"/>
-        <updated>2024-09-14T22:58:18.000Z</updated>
-        <author>
-            <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your 3D Scans Suck? Try this! (feat. Creality Raptor)]]></title>
-        <id>https://www.youtube.com/watch?v=IOiQwhGSrJc</id>
-        <link href="https://www.youtube.com/watch?v=IOiQwhGSrJc"/>
-        <updated>2024-09-14T15:39:33.000Z</updated>
-        <author>
-            <name>CNC Kitchen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goldbach Conjecture (but with TWIN PRIMES)  - Numberphile]]></title>
-        <id>https://www.youtube.com/watch?v=Gojd8mTl3Do</id>
-        <link href="https://www.youtube.com/watch?v=Gojd8mTl3Do"/>
-        <updated>2024-09-14T14:05:18.000Z</updated>
-        <author>
-            <name>Numberphile</name>
         </author>
     </entry>
 </feed>
