@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-22T00:44:34.356Z</id>
+    <id>urn:2024-12-23T00:42:16.626Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-22T00:44:34.356Z</updated>
+    <updated>2024-12-23T00:42:16.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Making astronaut ice cream]]></title>
+        <id>https://www.youtube.com/watch?v=pMqmk1YFm3k</id>
+        <link href="https://www.youtube.com/watch?v=pMqmk1YFm3k"/>
+        <updated>2024-12-22T20:25:18.000Z</updated>
+        <author>
+            <name>NileRed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live by the Electric Power Lines/Centers]]></title>
+        <id>https://www.youtube.com/watch?v=NQE6uNrSd-4</id>
+        <link href="https://www.youtube.com/watch?v=NQE6uNrSd-4"/>
+        <updated>2024-12-22T17:00:03.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Grand Antique Marble Is So Expensive | So Expensive | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=6f2jANwqhJE</id>
+        <link href="https://www.youtube.com/watch?v=6f2jANwqhJE"/>
+        <updated>2024-12-22T16:00:05.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insane Material Removal.. Will it Break?]]></title>
+        <id>https://www.youtube.com/watch?v=sSgnRURCl4w</id>
+        <link href="https://www.youtube.com/watch?v=sSgnRURCl4w"/>
+        <updated>2024-12-22T15:00:54.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[These artisans keep the art of Ajrak alive. #Ajrak #blockprinting #Pakistan]]></title>
+        <id>https://www.youtube.com/watch?v=4j9gWS1ZrpQ</id>
+        <link href="https://www.youtube.com/watch?v=4j9gWS1ZrpQ"/>
+        <updated>2024-12-22T04:28:14.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Homebuilt Lightspeed Camera #physics #light #engineering]]></title>
+        <id>https://www.youtube.com/watch?v=txej3KQ05b0</id>
+        <link href="https://www.youtube.com/watch?v=txej3KQ05b0"/>
+        <updated>2024-12-22T04:26:01.000Z</updated>
+        <author>
+            <name>AlphaPhoenix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3D Printed SPEAKERS]]></title>
         <id>https://www.youtube.com/watch?v=pC-dw3Bh2OM</id>
@@ -69,7 +123,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Train Could Revolutionize Cross-state Travel, but Why is It Taking So Long?]]></title>
+        <title type="html"><![CDATA[$128 Billion & 3 Decades! What's Going on With California's High Speed Rail?]]></title>
         <id>https://www.youtube.com/watch?v=62ASoWkTcdo</id>
         <link href="https://www.youtube.com/watch?v=62ASoWkTcdo"/>
         <updated>2024-12-21T06:06:23.000Z</updated>
@@ -330,7 +384,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Turning pennies golden]]></title>
+        <title type="html"><![CDATA[The golden penny experiment]]></title>
         <id>https://www.youtube.com/watch?v=7FKOicBjYqs</id>
         <link href="https://www.youtube.com/watch?v=7FKOicBjYqs"/>
         <updated>2024-12-18T16:53:53.000Z</updated>
@@ -366,15 +420,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Here's how #musicians billed #taxpayers for #shopping sprees, private jets, and big paychecks.]]></title>
-        <id>https://www.youtube.com/watch?v=yb2zeW-mtYA</id>
-        <link href="https://www.youtube.com/watch?v=yb2zeW-mtYA"/>
-        <updated>2024-12-18T10:01:12.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Experiment We Didn't Show]]></title>
         <id>https://www.youtube.com/watch?v=Hb-w7qpWNsE</id>
         <link href="https://www.youtube.com/watch?v=Hb-w7qpWNsE"/>
@@ -390,15 +435,6 @@
         <updated>2024-12-18T01:08:52.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientists can analyze findings in real time with #AI. Sponsored by the Toyota Crown Family #ad]]></title>
-        <id>https://www.youtube.com/watch?v=yXB82Ib3Evs</id>
-        <link href="https://www.youtube.com/watch?v=yXB82Ib3Evs"/>
-        <updated>2024-12-17T23:38:18.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -483,7 +519,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Backwards Brain Tractor - Smarter Every Day 305]]></title>
+        <title type="html"><![CDATA[The Tricky Tractor - Smarter Every Day 305]]></title>
         <id>https://www.youtube.com/watch?v=lylCYkgC63Q</id>
         <link href="https://www.youtube.com/watch?v=lylCYkgC63Q"/>
         <updated>2024-12-15T15:19:27.000Z</updated>
@@ -705,15 +741,6 @@
         <updated>2024-12-12T15:00:04.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machining Titanium Shoe Spikes]]></title>
-        <id>https://www.youtube.com/watch?v=ubTtmNfpkHM</id>
-        <link href="https://www.youtube.com/watch?v=ubTtmNfpkHM"/>
-        <updated>2024-12-11T15:01:09.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1428,7 +1455,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[It’s a Triple Barreled Pistol, and we Shot it - Smarter Every Day 304]]></title>
+        <title type="html"><![CDATA[It's Hard to Believe This Is A Real Thing - Smarter Every Day 304]]></title>
         <id>https://www.youtube.com/watch?v=jDusS--bZZA</id>
         <link href="https://www.youtube.com/watch?v=jDusS--bZZA"/>
         <updated>2024-11-24T20:00:31.000Z</updated>
@@ -2625,15 +2652,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mexico City Travel Diary #travel #electrical #experiment #funny]]></title>
-        <id>https://www.youtube.com/watch?v=011JikH38ck</id>
-        <link href="https://www.youtube.com/watch?v=011JikH38ck"/>
-        <updated>2024-10-11T18:28:22.000Z</updated>
-        <author>
-            <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[We Might Find Alien Life In 2284 Days]]></title>
         <id>https://www.youtube.com/watch?v=DJO_9auJhJQ</id>
         <link href="https://www.youtube.com/watch?v=DJO_9auJhJQ"/>
@@ -2982,24 +3000,6 @@
         <updated>2024-09-24T16:12:58.000Z</updated>
         <author>
             <name>Adam Neely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcome to the Faculty of Khan!]]></title>
-        <id>https://www.youtube.com/watch?v=Faw9FQ2TidQ</id>
-        <link href="https://www.youtube.com/watch?v=Faw9FQ2TidQ"/>
-        <updated>2024-09-24T04:03:08.000Z</updated>
-        <author>
-            <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This metal is too bouncy]]></title>
-        <id>https://www.youtube.com/watch?v=PCU6g9mfRIk</id>
-        <link href="https://www.youtube.com/watch?v=PCU6g9mfRIk"/>
-        <updated>2024-09-23T23:11:17.000Z</updated>
-        <author>
-            <name>NileRed</name>
         </author>
     </entry>
 </feed>
