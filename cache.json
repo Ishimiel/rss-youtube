@@ -104,16 +104,6 @@
           "wordCount": null,
           "title": "The Mathematical Structure That Describes Our Universe",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RIqVnFtOSr4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RIqVnFtOSr4",
-          "publishedOn": "2024-09-25T16:00:23.000Z",
-          "wordCount": null,
-          "title": "Space-Time: The Biggest Problem in Physics",
-          "imageUrl": null
         }
       ]
     },
@@ -134,6 +124,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw",
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=LuVUnd0C07U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LuVUnd0C07U",
+          "publishedOn": "2024-12-24T18:46:12.000Z",
+          "wordCount": null,
+          "title": "The inscribed square problem",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=IQqtsm-bBRU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IQqtsm-bBRU",
+          "publishedOn": "2024-12-24T17:50:32.000Z",
+          "wordCount": null,
+          "title": "This open problem taught me what topology is",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=y9BK--OxZpY",
           "author": null,
@@ -263,26 +273,6 @@
           "wordCount": null,
           "title": "Hologram preview",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DnjATyPuFFk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DnjATyPuFFk",
-          "publishedOn": "2024-10-05T15:35:00.000Z",
-          "wordCount": null,
-          "title": "Holograms are wild (full video linked above)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EmKQsSDlaa4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EmKQsSDlaa4",
-          "publishedOn": "2024-10-05T15:31:58.000Z",
-          "wordCount": null,
-          "title": "How are holograms possible? | Optics puzzles 5",
-          "imageUrl": null
         }
       ]
     },
@@ -298,7 +288,7 @@
           "link": "https://www.youtube.com/watch?v=m2Ba6Mlv1LY",
           "publishedOn": "2024-12-23T15:01:01.000Z",
           "wordCount": null,
-          "title": "The most important theorem in differential geometry: Gauss-Bonnet theorem",
+          "title": "Linking topology and geometry: Gauss-Bonnet theorem",
           "imageUrl": null
         },
         {
@@ -318,7 +308,7 @@
           "link": "https://www.youtube.com/watch?v=H6YofGjvZIQ",
           "publishedOn": "2024-12-16T15:00:15.000Z",
           "wordCount": null,
-          "title": "I thought Euler characteristic is easy...",
+          "title": "Euler's formula is an inequality!",
           "imageUrl": null
         }
       ]
@@ -1061,11 +1051,21 @@
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=j5fl9TW5PmE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=j5fl9TW5PmE",
+          "publishedOn": "2024-12-24T21:19:15.000Z",
+          "wordCount": null,
+          "title": "Santa is a SPACE MARINE @MimakiUSASuwanee @wekster @PCBWay",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=WCnbJnIgfKk",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=WCnbJnIgfKk",
-          "publishedOn": "2024-12-23T19:28:18.000Z",
+          "publishedOn": "2024-12-24T05:27:04.000Z",
           "wordCount": null,
           "title": "FLSUN S1 Pro LIVE!",
           "imageUrl": null
@@ -1199,16 +1199,6 @@
           "wordCount": null,
           "title": "3D Printing and Fire! @Z-PolymersInc",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ciXH8Kl_inA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ciXH8Kl_inA",
-          "publishedOn": "2024-11-25T14:00:37.000Z",
-          "wordCount": null,
-          "title": "Bambu Lab’s Dr. Tao at Formnext 2024",
-          "imageUrl": null
         }
       ]
     },
@@ -1265,16 +1255,6 @@
           "publishedOn": "2024-10-04T21:08:44.000Z",
           "wordCount": null,
           "title": "Can you Improve your Internal Clock WITHOUT a metronome? | Q+A",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=u2PXSEbvpS4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=u2PXSEbvpS4",
-          "publishedOn": "2024-09-25T15:11:48.000Z",
-          "wordCount": null,
-          "title": "Pulse Morphing Technique",
           "imageUrl": null
         }
       ]
@@ -1449,7 +1429,7 @@
           "link": "https://www.youtube.com/watch?v=_4uWeWO997w",
           "publishedOn": "2024-12-20T21:00:49.000Z",
           "wordCount": null,
-          "title": "Building and Testing TERRIBLE Rockets Designed By AI",
+          "title": "Building TERRIBLE Rockets Designed By AI",
           "imageUrl": null
         },
         {
@@ -1606,6 +1586,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5x-kCrUSYW4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5x-kCrUSYW4",
+          "publishedOn": "2024-12-24T17:30:00.000Z",
+          "wordCount": null,
+          "title": "2024 in IE: AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=OmgV0V7E9EA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OmgV0V7E9EA",
+          "publishedOn": "2024-12-24T16:42:48.000Z",
+          "wordCount": null,
+          "title": "These 2024 Innovations Will Change the World!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=frqXmosD_JI",
           "author": null,
           "description": "",
@@ -1733,26 +1733,6 @@
           "publishedOn": "2024-12-05T18:00:08.000Z",
           "wordCount": null,
           "title": "Elon Musk's Cybertruck Stopped Production",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=USwLBKAe4tw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=USwLBKAe4tw",
-          "publishedOn": "2024-12-05T16:00:59.000Z",
-          "wordCount": null,
-          "title": "Yamaha Y/AI: Superbike of the Future",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ouo2D_s_5G0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ouo2D_s_5G0",
-          "publishedOn": "2024-12-04T18:00:13.000Z",
-          "wordCount": null,
-          "title": "Pro-Coal Trump vs Clean Energy Musk",
           "imageUrl": null
         }
       ]
@@ -2890,6 +2870,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FUihntVSQjc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FUihntVSQjc",
+          "publishedOn": "2024-12-24T16:00:10.000Z",
+          "wordCount": null,
+          "title": "Micro Machining with Tiny Tools",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=guf2lx4rQIE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=guf2lx4rQIE",
+          "publishedOn": "2024-12-24T15:00:51.000Z",
+          "wordCount": null,
+          "title": "Raw Machining, Aston Martin DB 12 | No Edits, Pure Skill",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=T7Tl2bVHkJM",
           "author": null,
           "description": "",
@@ -3018,26 +3018,6 @@
           "wordCount": null,
           "title": "Own a CNC Shop? This Machine Makes It Possible",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qgFnm9sk2ng",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qgFnm9sk2ng",
-          "publishedOn": "2024-12-13T15:00:55.000Z",
-          "wordCount": null,
-          "title": "This CNC Machine Has NO Power",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=huu3GbC_qqo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=huu3GbC_qqo",
-          "publishedOn": "2024-12-12T16:00:40.000Z",
-          "wordCount": null,
-          "title": "CNC Machining Money?",
-          "imageUrl": null
         }
       ]
     },
@@ -3046,6 +3026,56 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=wJ72yG5kkzQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wJ72yG5kkzQ",
+          "publishedOn": "2024-12-24T18:15:55.000Z",
+          "wordCount": null,
+          "title": "Workers in #Indonesia can't dig new wells on their land, despite its large #oil reserves. #news",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=_WvIWADgdQk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_WvIWADgdQk",
+          "publishedOn": "2024-12-24T16:38:45.000Z",
+          "wordCount": null,
+          "title": "What are the differences between a ghost gun and a real gun? #LuigiMangione #UnitedHealthcare #news",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=NpjdeX6Krgg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NpjdeX6Krgg",
+          "publishedOn": "2024-12-24T14:58:41.000Z",
+          "wordCount": null,
+          "title": "We talked to nine #Tesla employees to see what they think of #Musk and his relationship with #Trump.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=hUsI8fGBEJw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hUsI8fGBEJw",
+          "publishedOn": "2024-12-24T13:50:56.000Z",
+          "wordCount": null,
+          "title": "Dhokra is a 4,500-year-old Indian craft that takes nearly a week to make. #artisancrafts #indianart",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=h9qmpVEFmX4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=h9qmpVEFmX4",
+          "publishedOn": "2024-12-24T00:42:46.000Z",
+          "wordCount": null,
+          "title": "Traditional parchment paper was made from animal hides. #Papermaking #Parchment #Artisan",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=pne2gfr-kA8",
           "author": null,
@@ -3144,56 +3174,6 @@
           "publishedOn": "2024-12-20T15:05:32.000Z",
           "wordCount": null,
           "title": "Rich musicians pocketed millions of COVID relief #money. #entertainmentnews #music",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1QD98TOWw-U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1QD98TOWw-U",
-          "publishedOn": "2024-12-20T00:38:19.000Z",
-          "wordCount": null,
-          "title": "Here's which #industries could be hit the hardest by #Trump's #deportation plan.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=m5sminFcRKQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=m5sminFcRKQ",
-          "publishedOn": "2024-12-19T19:08:40.000Z",
-          "wordCount": null,
-          "title": "Here's how #oil is refined in #Indonesia. #asia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8W4bLxQAQgQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8W4bLxQAQgQ",
-          "publishedOn": "2024-12-19T16:00:06.000Z",
-          "wordCount": null,
-          "title": "How Bryan Johnson Is Building A Business Empire Around His Body | Life Extended | Business Insider",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hZfgUUKqAXk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hZfgUUKqAXk",
-          "publishedOn": "2024-12-19T14:00:52.000Z",
-          "wordCount": null,
-          "title": "Here's how #LilWayne spent $8.9 million of #COVID relief on private jets, #Balenciaga, and more.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ehj7EWO2uLE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ehj7EWO2uLE",
-          "publishedOn": "2024-12-19T00:00:32.000Z",
-          "wordCount": null,
-          "title": "This year, the #cocoa beans needed to make #chocolate have gotten a lot more #expensive.",
           "imageUrl": null
         }
       ]
