@@ -125,6 +125,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=zxOK2vKVfQM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zxOK2vKVfQM",
+          "publishedOn": "2024-12-29T16:00:54.000Z",
+          "wordCount": null,
+          "title": "Monge's Theorem",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DgMhayP2NPU",
           "author": null,
           "description": "",
@@ -262,16 +272,6 @@
           "publishedOn": "2024-11-04T15:24:37.000Z",
           "wordCount": null,
           "title": "LLMs are next-word predictors",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rbu7Zu5X1zI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rbu7Zu5X1zI",
-          "publishedOn": "2024-10-12T13:00:39.000Z",
-          "wordCount": null,
-          "title": "How I animate 3Blue1Brown | A Manim demo with Ben Sparks",
           "imageUrl": null
         }
       ]
@@ -1384,16 +1384,6 @@
           "wordCount": null,
           "title": "The Map of Board Games",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=beS4rhyZLL0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=beS4rhyZLL0",
-          "publishedOn": "2024-09-30T17:24:22.000Z",
-          "wordCount": null,
-          "title": "Working on Something New...",
-          "imageUrl": null
         }
       ]
     },
@@ -1566,6 +1556,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tJfdtlI3bVU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tJfdtlI3bVU",
+          "publishedOn": "2024-12-29T10:41:39.000Z",
+          "wordCount": null,
+          "title": "Plane Crash at Muan Airport",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=whpMxUs4OGg",
           "author": null,
           "description": "",
@@ -1582,7 +1582,7 @@
           "link": "https://www.youtube.com/watch?v=1_rp28wsN0E",
           "publishedOn": "2024-12-28T10:00:01.000Z",
           "wordCount": null,
-          "title": "$180 Billion & 100 Years to Clear Britain's Biggest Nuclear Disaster!",
+          "title": "Why it Will Take 100 Years to Clear Britain's Biggest Nuclear Disaster?",
           "imageUrl": null
         },
         {
@@ -1703,16 +1703,6 @@
           "publishedOn": "2024-12-11T13:52:04.000Z",
           "wordCount": null,
           "title": "How OpenAI's Sora Works",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3lFstXir16c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3lFstXir16c",
-          "publishedOn": "2024-12-11T13:05:49.000Z",
-          "wordCount": null,
-          "title": "Do 3D Printed Firearms Pose a Threat for the World?",
           "imageUrl": null
         }
       ]
@@ -2098,16 +2088,6 @@
           "wordCount": null,
           "title": "The Prime Constant - Numberphile",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JBkmR3rzz5M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JBkmR3rzz5M",
-          "publishedOn": "2024-09-30T13:43:55.000Z",
-          "wordCount": null,
-          "title": "A Fascinating Frog Problem - Numberphile",
-          "imageUrl": null
         }
       ]
     },
@@ -2329,16 +2309,6 @@
           "wordCount": null,
           "title": "Chatting with The International Space Station - Smarter Every Day 303",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sEK6wZWMbCY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sEK6wZWMbCY",
-          "publishedOn": "2024-09-30T14:00:09.000Z",
-          "wordCount": null,
-          "title": "Climbing Kilimanjaro - Smarter Every Day 302",
-          "imageUrl": null
         }
       ]
     },
@@ -2418,7 +2388,7 @@
           "link": "https://www.youtube.com/watch?v=zaXKQ70q4KQ",
           "publishedOn": "2024-12-26T14:11:09.000Z",
           "wordCount": null,
-          "title": "How one man exposed your DNA",
+          "title": "The Simple Trick That Rules Biology",
           "imageUrl": null
         },
         {
@@ -2549,16 +2519,6 @@
           "publishedOn": "2024-10-05T17:27:38.000Z",
           "wordCount": null,
           "title": "People said this experiment was impossible, so I tried it",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=w5ebcowAJD8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=w5ebcowAJD8",
-          "publishedOn": "2024-09-30T18:51:21.000Z",
-          "wordCount": null,
-          "title": "I built a QR code with my bare hands to see how it works",
           "imageUrl": null
         }
       ]
@@ -2860,6 +2820,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=LThJLpCGsxk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LThJLpCGsxk",
+          "publishedOn": "2024-12-29T15:00:21.000Z",
+          "wordCount": null,
+          "title": "Gluing an ID Grinding Wheel?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=b9lZjI6t384",
           "author": null,
           "description": "",
@@ -2876,7 +2846,7 @@
           "link": "https://www.youtube.com/watch?v=M91gjDVq0ts",
           "publishedOn": "2024-12-28T15:00:32.000Z",
           "wordCount": null,
-          "title": "The Most Advanced Sinker EDM CNC Machine on the Market",
+          "title": "Unboxing the SODICK AL40G Sinker EDM Machine",
           "imageUrl": null
         },
         {
@@ -2998,16 +2968,6 @@
           "wordCount": null,
           "title": "Ultimate Soft Jaws?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rFAoKV5kFKY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rFAoKV5kFKY",
-          "publishedOn": "2024-12-19T15:00:58.000Z",
-          "wordCount": null,
-          "title": "Avoid CRASHING a CNC Machine",
-          "imageUrl": null
         }
       ]
     },
@@ -3016,6 +2976,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=P1iHAm3pppM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=P1iHAm3pppM",
+          "publishedOn": "2024-12-29T16:00:30.000Z",
+          "wordCount": null,
+          "title": "13 Fascinating Sports Jobs Keeping Traditions Alive | Business Insider Marathon | Business Insider",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=lnIxGL_fP9E",
           "author": null,
@@ -3154,16 +3124,6 @@
           "publishedOn": "2024-12-23T22:14:00.000Z",
           "wordCount": null,
           "title": "#BlakeLively has filed a legal complaint against #JustinBaldoni. Here's the timeline. #ItEndsWithUs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iEFZMeuPc_8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iEFZMeuPc_8",
-          "publishedOn": "2024-12-23T18:25:53.000Z",
-          "wordCount": null,
-          "title": "#LuigiMangione pleads not guilty to the murder charge of the #UnitedHealthcare CEO. #news",
           "imageUrl": null
         }
       ]
