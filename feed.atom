@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-30T00:42:27.300Z</id>
+    <id>urn:2024-12-31T00:40:27.701Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-30T00:42:27.300Z</updated>
+    <updated>2024-12-31T00:40:27.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Did you know all Olympic curling stones come from one island? #Olympics #curling #howitsmade]]></title>
+        <id>https://www.youtube.com/watch?v=uonZ359GS9k</id>
+        <link href="https://www.youtube.com/watch?v=uonZ359GS9k"/>
+        <updated>2024-12-30T18:00:38.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machu Picchu]]></title>
+        <id>https://www.youtube.com/watch?v=AgpheqUVqMU</id>
+        <link href="https://www.youtube.com/watch?v=AgpheqUVqMU"/>
+        <updated>2024-12-30T16:09:23.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Construct3D is Doing Something Different...]]></title>
+        <id>https://www.youtube.com/watch?v=rfMy8LEVRm4</id>
+        <link href="https://www.youtube.com/watch?v=rfMy8LEVRm4"/>
+        <updated>2024-12-30T14:00:57.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Monge's Theorem]]></title>
         <id>https://www.youtube.com/watch?v=zxOK2vKVfQM</id>
@@ -15,7 +42,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[13 Fascinating Sports Jobs Keeping Traditions Alive | Business Insider Marathon | Business Insider]]></title>
+        <title type="html"><![CDATA[How F1 Racing Helmets Are Crash Tested, Plus 12 More Cool Sports Jobs | Business Insider Marathon]]></title>
         <id>https://www.youtube.com/watch?v=P1iHAm3pppM</id>
         <link href="https://www.youtube.com/watch?v=P1iHAm3pppM"/>
         <updated>2024-12-29T16:00:30.000Z</updated>
@@ -258,7 +285,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Simple Trick That Rules Biology]]></title>
+        <title type="html"><![CDATA[The Curious Life of Kary Mullis and His Infinite DNA Glitch]]></title>
         <id>https://www.youtube.com/watch?v=zaXKQ70q4KQ</id>
         <link href="https://www.youtube.com/watch?v=zaXKQ70q4KQ"/>
         <updated>2024-12-26T14:11:09.000Z</updated>
@@ -415,15 +442,6 @@
         <id>https://www.youtube.com/watch?v=h9qmpVEFmX4</id>
         <link href="https://www.youtube.com/watch?v=h9qmpVEFmX4"/>
         <updated>2024-12-24T00:42:46.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#BlakeLively has filed a legal complaint against #JustinBaldoni. Here's the timeline. #ItEndsWithUs]]></title>
-        <id>https://www.youtube.com/watch?v=pne2gfr-kA8</id>
-        <link href="https://www.youtube.com/watch?v=pne2gfr-kA8"/>
-        <updated>2024-12-23T22:14:00.000Z</updated>
         <author>
             <name>Business Insider</name>
         </author>
@@ -1005,15 +1023,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How OpenAI's Sora Works]]></title>
-        <id>https://www.youtube.com/watch?v=emH2uTzqJVM</id>
-        <link href="https://www.youtube.com/watch?v=emH2uTzqJVM"/>
-        <updated>2024-12-11T13:52:04.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Independence in Probability]]></title>
         <id>https://www.youtube.com/watch?v=2nDYX8IKrwo</id>
         <link href="https://www.youtube.com/watch?v=2nDYX8IKrwo"/>
@@ -1414,15 +1423,6 @@
         <id>https://www.youtube.com/watch?v=_7XnXzV32LA</id>
         <link href="https://www.youtube.com/watch?v=_7XnXzV32LA"/>
         <updated>2024-11-30T23:42:27.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stronger Than Steel!]]></title>
-        <id>https://www.youtube.com/watch?v=a519R6Zo6G0</id>
-        <link href="https://www.youtube.com/watch?v=a519R6Zo6G0"/>
-        <updated>2024-11-30T05:35:36.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
         </author>
@@ -2409,7 +2409,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chatting with The International Space Station - Smarter Every Day 303]]></title>
+        <title type="html"><![CDATA[Taking Pictures from The International Space Station - Smarter Every Day 303]]></title>
         <id>https://www.youtube.com/watch?v=JJofuF2zcTE</id>
         <link href="https://www.youtube.com/watch?v=JJofuF2zcTE"/>
         <updated>2024-10-27T14:04:59.000Z</updated>
@@ -2733,7 +2733,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We Might Find Alien Life In 2274 Days]]></title>
+        <title type="html"><![CDATA[We Might Find Alien Life In 2271 Days]]></title>
         <id>https://www.youtube.com/watch?v=DJO_9auJhJQ</id>
         <link href="https://www.youtube.com/watch?v=DJO_9auJhJQ"/>
         <updated>2024-10-11T18:25:50.000Z</updated>
@@ -2910,33 +2910,6 @@
         <updated>2024-10-02T17:01:18.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Με βάλανε στο fortnite (κοτζίμα πέλμα)]]></title>
-        <id>https://www.youtube.com/watch?v=Q0H16hFWV20</id>
-        <link href="https://www.youtube.com/watch?v=Q0H16hFWV20"/>
-        <updated>2024-10-01T20:10:47.000Z</updated>
-        <author>
-            <name>NinjaCakeAssassin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tomato Lemon Chemistry                       #tomato #lemon #chemistry]]></title>
-        <id>https://www.youtube.com/watch?v=p0zOsBcwQQ0</id>
-        <link href="https://www.youtube.com/watch?v=p0zOsBcwQQ0"/>
-        <updated>2024-10-01T16:55:36.000Z</updated>
-        <author>
-            <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is the Craziest Plane I Have Ever Seen]]></title>
-        <id>https://www.youtube.com/watch?v=FGf6ab8fcyw</id>
-        <link href="https://www.youtube.com/watch?v=FGf6ab8fcyw"/>
-        <updated>2024-10-01T14:43:47.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
         </author>
     </entry>
 </feed>
