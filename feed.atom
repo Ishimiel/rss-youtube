@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-01T00:45:09.713Z</id>
+    <id>urn:2025-01-02T00:40:07.865Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-01T00:45:09.713Z</updated>
+    <updated>2025-01-02T00:40:07.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[There Are Cathedrals Everywhere]]></title>
+        <id>https://www.youtube.com/watch?v=OFVa1LelZN4</id>
+        <link href="https://www.youtube.com/watch?v=OFVa1LelZN4"/>
+        <updated>2025-01-01T23:05:23.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How'd we do predicting 2024's spaceflight milestones?]]></title>
+        <id>https://www.youtube.com/watch?v=r1eQOwkTuFE</id>
+        <link href="https://www.youtube.com/watch?v=r1eQOwkTuFE"/>
+        <updated>2025-01-01T18:20:28.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grinding a Custom Carbide Burr Tool]]></title>
+        <id>https://www.youtube.com/watch?v=ARnHdLBPx2Y</id>
+        <link href="https://www.youtube.com/watch?v=ARnHdLBPx2Y"/>
+        <updated>2025-01-01T15:00:20.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Don’t Railroads Need Expansion Joints?]]></title>
+        <id>https://www.youtube.com/watch?v=Rdj5-6t6QI8</id>
+        <link href="https://www.youtube.com/watch?v=Rdj5-6t6QI8"/>
+        <updated>2025-01-01T07:00:06.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PRACTICAL PRINTING! #3dprinting @PCBWay @BambuLab]]></title>
+        <id>https://www.youtube.com/watch?v=CyZxf4YYJjY</id>
+        <link href="https://www.youtube.com/watch?v=CyZxf4YYJjY"/>
+        <updated>2025-01-01T01:58:19.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This #marble was lost for over 70 years until one man tracked it down. #quarry #france]]></title>
         <id>https://www.youtube.com/watch?v=BejhVLFW4Jc</id>
@@ -12,15 +57,6 @@
         <updated>2024-12-31T21:45:55.000Z</updated>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How'd we do predicting 2024's spaceflight milestones?]]></title>
-        <id>https://www.youtube.com/watch?v=r1eQOwkTuFE</id>
-        <link href="https://www.youtube.com/watch?v=r1eQOwkTuFE"/>
-        <updated>2024-12-31T20:47:32.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
         </author>
     </entry>
     <entry>
@@ -615,15 +651,6 @@
         <updated>2024-12-21T15:00:51.000Z</updated>
         <author>
             <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machining Mistakes That Will Get You FIRED]]></title>
-        <id>https://www.youtube.com/watch?v=Qjjy9UL__aA</id>
-        <link href="https://www.youtube.com/watch?v=Qjjy9UL__aA"/>
-        <updated>2024-12-21T15:00:22.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1434,15 +1461,6 @@
         <updated>2024-12-01T02:17:09.000Z</updated>
         <author>
             <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CREEPY SNOWMAN. 3d printed! #3dprinting @PCBWay]]></title>
-        <id>https://www.youtube.com/watch?v=_7XnXzV32LA</id>
-        <link href="https://www.youtube.com/watch?v=_7XnXzV32LA"/>
-        <updated>2024-11-30T23:42:27.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
         </author>
     </entry>
     <entry>
@@ -2274,15 +2292,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Abraham Lincoln Simulator]]></title>
-        <id>https://www.youtube.com/watch?v=rwNYwOLtJ4k</id>
-        <link href="https://www.youtube.com/watch?v=rwNYwOLtJ4k"/>
-        <updated>2024-11-04T20:03:41.000Z</updated>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[On These Questions, Smarter People Do Worse]]></title>
         <id>https://www.youtube.com/watch?v=zB_OApdxcno</id>
         <link href="https://www.youtube.com/watch?v=zB_OApdxcno"/>
@@ -2874,24 +2883,6 @@
         <updated>2024-10-04T16:17:06.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Probability and Statistics: Overview]]></title>
-        <id>https://www.youtube.com/watch?v=sQqniayndb4</id>
-        <link href="https://www.youtube.com/watch?v=sQqniayndb4"/>
-        <updated>2024-10-04T12:30:51.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cu-man Centipede                                #cucumber #human #humancentipede #recipe]]></title>
-        <id>https://www.youtube.com/watch?v=qehLKYurj3A</id>
-        <link href="https://www.youtube.com/watch?v=qehLKYurj3A"/>
-        <updated>2024-10-03T21:33:51.000Z</updated>
-        <author>
-            <name>You Suck At Cooking</name>
         </author>
     </entry>
 </feed>
