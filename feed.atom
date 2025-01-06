@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-05T00:44:41.393Z</id>
+    <id>urn:2025-01-06T00:43:11.225Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-05T00:44:41.393Z</updated>
+    <updated>2025-01-06T00:43:11.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[13 Traditional Crafts Fighting To Survive | Still Standing | Business Insider Marathon]]></title>
+        <id>https://www.youtube.com/watch?v=DNCggFRtFjU</id>
+        <link href="https://www.youtube.com/watch?v=DNCggFRtFjU"/>
+        <updated>2025-01-05T16:00:10.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Satisfying Metal Removal]]></title>
+        <id>https://www.youtube.com/watch?v=R7FejNN1kpg</id>
+        <link href="https://www.youtube.com/watch?v=R7FejNN1kpg"/>
+        <updated>2025-01-05T15:00:27.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Free Energy with Hidden Capacitor #experiment #science #fake #funny]]></title>
         <id>https://www.youtube.com/watch?v=_tkA9pyZofU</id>
@@ -33,7 +51,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coffee Makers to Cars: How the Chip Industry is Under Threat and Why It Will Affect EVERYTHING!!]]></title>
+        <title type="html"><![CDATA[How the Chip Industry is Under Threat in America]]></title>
         <id>https://www.youtube.com/watch?v=C30vjC7zoj4</id>
         <link href="https://www.youtube.com/watch?v=C30vjC7zoj4"/>
         <updated>2025-01-04T12:00:20.000Z</updated>
@@ -573,15 +591,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The #Nutcracker is the New York City #Ballet's Super Bowl, bringing in about $20M per season. #nyc]]></title>
-        <id>https://www.youtube.com/watch?v=agGfgPjHPqY</id>
-        <link href="https://www.youtube.com/watch?v=agGfgPjHPqY"/>
-        <updated>2024-12-25T15:00:04.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2024 in IE: Robotics]]></title>
         <id>https://www.youtube.com/watch?v=A0rOCaJ5WHI</id>
         <link href="https://www.youtube.com/watch?v=A0rOCaJ5WHI"/>
@@ -640,15 +649,6 @@
         <id>https://www.youtube.com/watch?v=FUihntVSQjc</id>
         <link href="https://www.youtube.com/watch?v=FUihntVSQjc"/>
         <updated>2024-12-24T16:00:10.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raw Machining, Aston Martin DB 12 | No Edits, Pure Skill]]></title>
-        <id>https://www.youtube.com/watch?v=guf2lx4rQIE</id>
-        <link href="https://www.youtube.com/watch?v=guf2lx4rQIE"/>
-        <updated>2024-12-24T15:00:51.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
         </author>
@@ -2829,24 +2829,6 @@
         <updated>2024-10-08T18:03:25.000Z</updated>
         <author>
             <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Differential Equations: The Language of Change]]></title>
-        <id>https://www.youtube.com/watch?v=vTTlzmCRwU4</id>
-        <link href="https://www.youtube.com/watch?v=vTTlzmCRwU4"/>
-        <updated>2024-10-08T06:14:18.000Z</updated>
-        <author>
-            <name>Artem Kirsanov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Παίζω βιντεογκέμς μέχρι να κουρευτώ]]></title>
-        <id>https://www.youtube.com/watch?v=aeIIKEEbHaA</id>
-        <link href="https://www.youtube.com/watch?v=aeIIKEEbHaA"/>
-        <updated>2024-10-07T15:36:53.000Z</updated>
-        <author>
-            <name>NinjaCakeAssassin</name>
         </author>
     </entry>
 </feed>
