@@ -1225,6 +1225,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCCWeRTgd79JL0ilH0ZywSJA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VSMGcDRGLeI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VSMGcDRGLeI",
+          "publishedOn": "2025-01-07T23:38:35.000Z",
+          "wordCount": null,
+          "title": "Slomo of my resonance machine #physics #slowmo",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=txej3KQ05b0",
           "author": null,
           "description": "",
@@ -1251,7 +1261,7 @@
           "link": "https://www.youtube.com/watch?v=WCKt405t9V8",
           "publishedOn": "2024-11-09T11:00:39.000Z",
           "wordCount": null,
-          "title": "Why doesn’t resonance build to infinity?",
+          "title": "Resonance is more than just standing waves",
           "imageUrl": null
         }
       ]
@@ -1547,6 +1557,56 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QYQx0NJKpuo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QYQx0NJKpuo",
+          "publishedOn": "2025-01-07T23:54:48.000Z",
+          "wordCount": null,
+          "title": "Unitree's Humanoid Robot at CES 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=OrnnqqsZ63o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OrnnqqsZ63o",
+          "publishedOn": "2025-01-07T23:15:54.000Z",
+          "wordCount": null,
+          "title": "STARDUST's Robotic Hands at CES 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ljtaChEfu-g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ljtaChEfu-g",
+          "publishedOn": "2025-01-07T07:36:33.000Z",
+          "wordCount": null,
+          "title": "NVIDIA Release New RTX 50 Series GPU's",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6zyKfFe3u_s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6zyKfFe3u_s",
+          "publishedOn": "2025-01-07T03:50:52.000Z",
+          "wordCount": null,
+          "title": "Sony Unveils Afeela 1 at CES 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=JXhrLThzl6Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JXhrLThzl6Y",
+          "publishedOn": "2025-01-07T03:23:27.000Z",
+          "wordCount": null,
+          "title": "Sony Unveils Xyn XR Headset at CES 2025",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wxHnD7Eevg8",
           "author": null,
           "description": "",
@@ -1644,56 +1704,6 @@
           "publishedOn": "2024-12-28T15:01:07.000Z",
           "wordCount": null,
           "title": "From Windscale to Sellafield: A Tale of Nuclear Responsibility",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1_rp28wsN0E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1_rp28wsN0E",
-          "publishedOn": "2024-12-28T10:00:01.000Z",
-          "wordCount": null,
-          "title": "Why Britain's Biggest Nuclear Disaster Will Take 100 Years to Clear",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=m9LNvdMYCNk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=m9LNvdMYCNk",
-          "publishedOn": "2024-12-27T14:00:53.000Z",
-          "wordCount": null,
-          "title": "2024 in IE: Space",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=R-R-_WXGHLQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=R-R-_WXGHLQ",
-          "publishedOn": "2024-12-26T14:31:36.000Z",
-          "wordCount": null,
-          "title": "2024 in IE: Transportation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=A0rOCaJ5WHI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=A0rOCaJ5WHI",
-          "publishedOn": "2024-12-25T14:00:12.000Z",
-          "wordCount": null,
-          "title": "2024 in IE: Robotics",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5x-kCrUSYW4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5x-kCrUSYW4",
-          "publishedOn": "2024-12-24T17:30:00.000Z",
-          "wordCount": null,
-          "title": "2024 in IE: AI",
           "imageUrl": null
         }
       ]
@@ -2213,16 +2223,6 @@
           "wordCount": null,
           "title": "The Insane Engineering of Europa Clipper",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=u3Iqp1tzBJg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=u3Iqp1tzBJg",
-          "publishedOn": "2024-10-09T18:33:44.000Z",
-          "wordCount": null,
-          "title": "Hurricane Milton Has Put NASA’s Next Mission in Danger",
-          "imageUrl": null
         }
       ]
     },
@@ -2329,7 +2329,7 @@
           "link": "https://www.youtube.com/watch?v=Rdj5-6t6QI8",
           "publishedOn": "2025-01-01T07:00:06.000Z",
           "wordCount": null,
-          "title": "Why Don’t Railroads Need Expansion Joints?",
+          "title": "Why Don’t Railroads Need Expansion Joints? - Thermite Part 2",
           "imageUrl": null
         },
         {
@@ -2459,7 +2459,7 @@
           "link": "https://www.youtube.com/watch?v=DJO_9auJhJQ",
           "publishedOn": "2024-10-11T18:25:50.000Z",
           "wordCount": null,
-          "title": "We Might Find Alien Life In 2264 Days",
+          "title": "We Might Find Alien Life In 2263 Days",
           "imageUrl": null
         }
       ]
@@ -2469,6 +2469,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "siteUrl": "https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=BLKRcQR12oM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BLKRcQR12oM",
+          "publishedOn": "2025-01-07T02:03:01.000Z",
+          "wordCount": null,
+          "title": "How To Destroy The Sun",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=D4qXsq7g6-k",
           "author": null,
@@ -2608,16 +2618,6 @@
           "wordCount": null,
           "title": "History Is Accumulating",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dZXJnmhGd2k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dZXJnmhGd2k",
-          "publishedOn": "2024-11-12T02:15:28.000Z",
-          "wordCount": null,
-          "title": "Geography They Didn't Teach You In School",
-          "imageUrl": null
         }
       ]
     },
@@ -2740,6 +2740,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=JZdCOMr6dNc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JZdCOMr6dNc",
+          "publishedOn": "2025-01-07T15:00:20.000Z",
+          "wordCount": null,
+          "title": "Want it? Solve Problems and Go Get IT",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=tdAFTCazWfk",
           "author": null,
@@ -2879,16 +2889,6 @@
           "wordCount": null,
           "title": "Most Advanced CNC Tooling | HAIMER INNOVATIONS",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CEciEIjUwmo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CEciEIjUwmo",
-          "publishedOn": "2024-12-25T15:00:15.000Z",
-          "wordCount": null,
-          "title": "Magnificent Christmas Tree Machined on a 5 Axis",
-          "imageUrl": null
         }
       ]
     },
@@ -2897,6 +2897,36 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=HMHS5hZSttY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HMHS5hZSttY",
+          "publishedOn": "2025-01-07T23:30:16.000Z",
+          "wordCount": null,
+          "title": "It's not hard to see this as a sort of concession to the #Trump administration.#meta #MarkZuckerberg",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Sg_CpXW_jyQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Sg_CpXW_jyQ",
+          "publishedOn": "2025-01-07T18:00:17.000Z",
+          "wordCount": null,
+          "title": "Here's why these brushes can cost three times their weight in gold. #art #expensive #howitsmade",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ySqUSxiIWjU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ySqUSxiIWjU",
+          "publishedOn": "2025-01-07T16:56:43.000Z",
+          "wordCount": null,
+          "title": "These are the financial lessons #boomers have learned over the years. #personalfinance #advice",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=3gnarKigGUk",
           "author": null,
@@ -3015,36 +3045,6 @@
           "publishedOn": "2024-12-27T19:00:07.000Z",
           "wordCount": null,
           "title": "The NYC #Ballet spends nearly $1 million a year buying #pointe shoes. #ballerina",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GmptOlRBWAQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GmptOlRBWAQ",
-          "publishedOn": "2024-12-26T21:14:52.000Z",
-          "wordCount": null,
-          "title": "Here's how Native American lacrosse sticks are carved. #lacrosse #crafts #lacrossesticks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nVFNYlu3wUY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nVFNYlu3wUY",
-          "publishedOn": "2024-12-26T20:30:08.000Z",
-          "wordCount": null,
-          "title": "For #TheNutcracker, #ballerinas will likely break in a new pair of #pointe shoes daily for the show.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UqjGBhdBQB4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UqjGBhdBQB4",
-          "publishedOn": "2024-12-26T19:48:27.000Z",
-          "wordCount": null,
-          "title": "US 4th graders' #reading proficiency hit record lows last year. #genalpha #education",
           "imageUrl": null
         }
       ]
