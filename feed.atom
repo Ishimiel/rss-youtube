@@ -1,15 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-12T00:45:27.534Z</id>
+    <id>urn:2025-01-13T00:43:56.973Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-12T00:45:27.534Z</updated>
+    <updated>2025-01-13T00:43:56.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
+        <title type="html"><![CDATA[John Myung at home]]></title>
+        <id>https://www.youtube.com/watch?v=tE-8-P5gFII</id>
+        <link href="https://www.youtube.com/watch?v=tE-8-P5gFII"/>
+        <updated>2025-01-12T19:00:54.000Z</updated>
+        <author>
+            <name>Adam Neely</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Euler's Disk]]></title>
+        <id>https://www.youtube.com/watch?v=Q8M3Il0Zv68</id>
+        <link href="https://www.youtube.com/watch?v=Q8M3Il0Zv68"/>
+        <updated>2025-01-12T18:59:33.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moon Crane: The Komatsu Moon Construction Model]]></title>
+        <id>https://www.youtube.com/watch?v=Q7RrxRicYBY</id>
+        <link href="https://www.youtube.com/watch?v=Q7RrxRicYBY"/>
+        <updated>2025-01-12T16:00:31.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machining Perfect Blue Chips]]></title>
+        <id>https://www.youtube.com/watch?v=WnypxAKwb6M</id>
+        <link href="https://www.youtube.com/watch?v=WnypxAKwb6M"/>
+        <updated>2025-01-12T15:00:39.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This blanket is woven with a centuries-old technique. #artisan #weaving #ukrainian]]></title>
+        <id>https://www.youtube.com/watch?v=RLHD31lL30k</id>
+        <link href="https://www.youtube.com/watch?v=RLHD31lL30k"/>
+        <updated>2025-01-12T15:00:34.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What's new with Flight 7's massively upgraded Starship?!?]]></title>
-        <id>https://www.youtube.com/watch?v=umU6Ww-oohQ</id>
-        <link href="https://www.youtube.com/watch?v=umU6Ww-oohQ"/>
-        <updated>2025-01-12T00:16:26.000Z</updated>
+        <id>https://www.youtube.com/watch?v=eQZbi8HBRcQ</id>
+        <link href="https://www.youtube.com/watch?v=eQZbi8HBRcQ"/>
+        <updated>2025-01-12T14:30:00.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Komatsu is Making Machinery for the Moon]]></title>
+        <id>https://www.youtube.com/watch?v=MCxF7d8jEEY</id>
+        <link href="https://www.youtube.com/watch?v=MCxF7d8jEEY"/>
+        <updated>2025-01-12T11:30:25.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s new and different on #Starship #Flight7 featuring the new version of Starship!]]></title>
+        <id>https://www.youtube.com/watch?v=6BxiDdAQGWY</id>
+        <link href="https://www.youtube.com/watch?v=6BxiDdAQGWY"/>
+        <updated>2025-01-12T04:11:08.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
         </author>
@@ -69,7 +132,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Italdesign's Quintessenza: Pickup Truck of the Future]]></title>
+        <title type="html"><![CDATA[If Italy Designed the Cybertruck! This Would Be Amazing!]]></title>
         <id>https://www.youtube.com/watch?v=sj1uwVl_Vgs</id>
         <link href="https://www.youtube.com/watch?v=sj1uwVl_Vgs"/>
         <updated>2025-01-11T11:01:07.000Z</updated>
@@ -87,7 +150,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The AI-powered Portable Toilet That Can Change People's Lives]]></title>
+        <title type="html"><![CDATA[Do You Need An AI-powered Toilet?]]></title>
         <id>https://www.youtube.com/watch?v=R4g2VajsVsc</id>
         <link href="https://www.youtube.com/watch?v=R4g2VajsVsc"/>
         <updated>2025-01-11T07:00:28.000Z</updated>
@@ -300,24 +363,6 @@
         <updated>2025-01-10T13:00:49.000Z</updated>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Injection]]></title>
-        <id>https://www.youtube.com/watch?v=29t-ZnVL5Qw</id>
-        <link href="https://www.youtube.com/watch?v=29t-ZnVL5Qw"/>
-        <updated>2025-01-10T09:46:01.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA Cosmos and Omniverse: Simulating The World For AI Brains]]></title>
-        <id>https://www.youtube.com/watch?v=QxXEuc4K1Rk</id>
-        <link href="https://www.youtube.com/watch?v=QxXEuc4K1Rk"/>
-        <updated>2025-01-10T09:00:32.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -609,15 +654,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New evidence is showing a strong link between #alcohol and #cancer. #news]]></title>
-        <id>https://www.youtube.com/watch?v=3NzTtNd-3ps</id>
-        <link href="https://www.youtube.com/watch?v=3NzTtNd-3ps"/>
-        <updated>2025-01-03T21:31:46.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Quantum Quandaries: When Philosophy Drives Physics]]></title>
         <id>https://www.youtube.com/watch?v=A7r9XTEAimI</id>
         <link href="https://www.youtube.com/watch?v=A7r9XTEAimI"/>
@@ -757,15 +793,6 @@
         <id>https://www.youtube.com/watch?v=W7IOOIXhwIM</id>
         <link href="https://www.youtube.com/watch?v=W7IOOIXhwIM"/>
         <updated>2024-12-31T16:00:35.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PUSHING CNC MACHINING LIMITS]]></title>
-        <id>https://www.youtube.com/watch?v=DpDf3mhJtCI</id>
-        <link href="https://www.youtube.com/watch?v=DpDf3mhJtCI"/>
-        <updated>2024-12-31T15:00:19.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
         </author>
@@ -2058,15 +2085,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Making Thick Urine]]></title>
-        <id>https://www.youtube.com/watch?v=b71He4uepM4</id>
-        <link href="https://www.youtube.com/watch?v=b71He4uepM4"/>
-        <updated>2024-11-20T01:11:45.000Z</updated>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[4K] Starship Flight 6: Watch SpaceX launch Starship!]]></title>
         <id>https://www.youtube.com/watch?v=DjDFirLcQDM</id>
         <link href="https://www.youtube.com/watch?v=DjDFirLcQDM"/>
@@ -2784,15 +2802,6 @@
         <updated>2024-10-18T15:01:10.000Z</updated>
         <author>
             <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#SpaceX’s #Starship Super Heavy Booster falling from space and being caught by the launch tower!]]></title>
-        <id>https://www.youtube.com/watch?v=9yii_nvXaPM</id>
-        <link href="https://www.youtube.com/watch?v=9yii_nvXaPM"/>
-        <updated>2024-10-18T14:46:26.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
         </author>
     </entry>
     <entry>
