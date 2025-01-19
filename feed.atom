@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-18T00:38:15.222Z</id>
+    <id>urn:2025-01-19T00:43:11.643Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-18T00:38:15.222Z</updated>
+    <updated>2025-01-19T00:43:11.643Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What it’s like to stand next to #Starship’s Super Heavy booster when it’s being caught by the tower!]]></title>
+        <id>https://www.youtube.com/watch?v=B59wQAhq1Qw</id>
+        <link href="https://www.youtube.com/watch?v=B59wQAhq1Qw"/>
+        <updated>2025-01-18T22:21:57.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Saver SCAM #technology #science #experiment #funny]]></title>
+        <id>https://www.youtube.com/watch?v=wBX5sniPBQw</id>
+        <link href="https://www.youtube.com/watch?v=wBX5sniPBQw"/>
+        <updated>2025-01-18T21:06:42.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch the grass get hit by the sonic boom of SpaceX’s Super Heavy booster! #starship ​⁠]]></title>
+        <id>https://www.youtube.com/watch?v=GQZf_TfAKSc</id>
+        <link href="https://www.youtube.com/watch?v=GQZf_TfAKSc"/>
+        <updated>2025-01-18T16:50:54.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Iron Dome Works: Israel's Greatest Defense System]]></title>
+        <id>https://www.youtube.com/watch?v=VYvR3T3HQ3Y</id>
+        <link href="https://www.youtube.com/watch?v=VYvR3T3HQ3Y"/>
+        <updated>2025-01-18T16:15:02.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Iron Dome Works: Israel's Greatest Defense System]]></title>
+        <id>https://www.youtube.com/watch?v=GeExBiFQVSI</id>
+        <link href="https://www.youtube.com/watch?v=GeExBiFQVSI"/>
+        <updated>2025-01-18T16:00:22.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machinist Keeps BREAKING Tools]]></title>
+        <id>https://www.youtube.com/watch?v=PjG1VATIkw8</id>
+        <link href="https://www.youtube.com/watch?v=PjG1VATIkw8"/>
+        <updated>2025-01-18T15:00:25.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solving the Sphere Packing Problem]]></title>
         <id>https://www.youtube.com/watch?v=uZHVPGx1nVA</id>
@@ -465,24 +519,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TCL AiMe: Cute Companion Robots of The Future]]></title>
-        <id>https://www.youtube.com/watch?v=JjEtPVFdYh4</id>
-        <link href="https://www.youtube.com/watch?v=JjEtPVFdYh4"/>
-        <updated>2025-01-11T02:30:10.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced AR With the XReal One Pro]]></title>
-        <id>https://www.youtube.com/watch?v=pR-ShRdk6_Y</id>
-        <link href="https://www.youtube.com/watch?v=pR-ShRdk6_Y"/>
-        <updated>2025-01-11T01:45:04.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Introducing 4-vectors in Special Relativity]]></title>
         <id>https://www.youtube.com/watch?v=D3dGFW4nM3s</id>
         <link href="https://www.youtube.com/watch?v=D3dGFW4nM3s"/>
@@ -651,15 +687,6 @@
         <updated>2025-01-07T23:38:35.000Z</updated>
         <author>
             <name>AlphaPhoenix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Want it? Solve Problems and Go Get IT]]></title>
-        <id>https://www.youtube.com/watch?v=JZdCOMr6dNc</id>
-        <link href="https://www.youtube.com/watch?v=JZdCOMr6dNc"/>
-        <updated>2025-01-07T15:00:20.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2157,15 +2184,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Humans for scale! It’s easy to forget how massive #Starship is!!!]]></title>
-        <id>https://www.youtube.com/watch?v=Ow18oqH_4_c</id>
-        <link href="https://www.youtube.com/watch?v=Ow18oqH_4_c"/>
-        <updated>2024-11-19T04:42:03.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Artist Profile: Le'Andra LeSeur on Monument Eternal]]></title>
         <id>https://www.youtube.com/watch?v=NN30f18dtAY</id>
         <link href="https://www.youtube.com/watch?v=NN30f18dtAY"/>
@@ -2544,15 +2562,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ElectroBOOM Failures #3 #experiment #funny #electronic]]></title>
-        <id>https://www.youtube.com/watch?v=vaWKjzU2toI</id>
-        <link href="https://www.youtube.com/watch?v=vaWKjzU2toI"/>
-        <updated>2024-11-05T17:13:44.000Z</updated>
-        <author>
-            <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Most Insane Weapon You Never Heard About]]></title>
         <id>https://www.youtube.com/watch?v=E55uSCO5D2w</id>
         <link href="https://www.youtube.com/watch?v=E55uSCO5D2w"/>
@@ -2604,15 +2613,6 @@
         <updated>2024-11-01T15:17:43.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The weirdest rocket ever?! The SM-64 Navaho!]]></title>
-        <id>https://www.youtube.com/watch?v=T9NiLWUV0UA</id>
-        <link href="https://www.youtube.com/watch?v=T9NiLWUV0UA"/>
-        <updated>2024-11-01T14:00:25.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
         </author>
     </entry>
     <entry>
@@ -2773,15 +2773,6 @@
         <id>https://www.youtube.com/watch?v=9qKFDav0G08</id>
         <link href="https://www.youtube.com/watch?v=9qKFDav0G08"/>
         <updated>2024-10-21T15:43:16.000Z</updated>
-        <author>
-            <name>NinjaCakeAssassin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Αττικό πάρκο (χόρορ)]]></title>
-        <id>https://www.youtube.com/watch?v=7VSMY3UXLik</id>
-        <link href="https://www.youtube.com/watch?v=7VSMY3UXLik"/>
-        <updated>2024-10-20T18:08:57.000Z</updated>
         <author>
             <name>NinjaCakeAssassin</name>
         </author>
