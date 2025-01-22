@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-21T00:39:33.095Z</id>
+    <id>urn:2025-01-22T00:40:27.141Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-21T00:39:33.095Z</updated>
+    <updated>2025-01-22T00:40:27.141Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Donald Trump has launched his own meme coin. #crypto #donaldtrump #bullish]]></title>
+        <id>https://www.youtube.com/watch?v=_GqIdUaZ9jw</id>
+        <link href="https://www.youtube.com/watch?v=_GqIdUaZ9jw"/>
+        <updated>2025-01-21T22:47:54.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla, Amazon, Meta Behind Trump: What's Next?]]></title>
+        <id>https://www.youtube.com/watch?v=jTtNaOBuJZI</id>
+        <link href="https://www.youtube.com/watch?v=jTtNaOBuJZI"/>
+        <updated>2025-01-21T18:00:29.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Are Scientists Making Robot Insects?]]></title>
+        <id>https://www.youtube.com/watch?v=H6q6pYZ9Fho</id>
+        <link href="https://www.youtube.com/watch?v=H6q6pYZ9Fho"/>
+        <updated>2025-01-21T16:58:06.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Handed Pot Roast - You Suck at Cooking (episode 176)]]></title>
+        <id>https://www.youtube.com/watch?v=pgye_T3qI3I</id>
+        <link href="https://www.youtube.com/watch?v=pgye_T3qI3I"/>
+        <updated>2025-01-21T16:00:19.000Z</updated>
+        <author>
+            <name>You Suck At Cooking</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok's Dramatic Comeback!]]></title>
+        <id>https://www.youtube.com/watch?v=coJPORCCKoQ</id>
+        <link href="https://www.youtube.com/watch?v=coJPORCCKoQ"/>
+        <updated>2025-01-21T15:53:01.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Swiss Machine is INSANE]]></title>
+        <id>https://www.youtube.com/watch?v=eUSs0Sf4uVk</id>
+        <link href="https://www.youtube.com/watch?v=eUSs0Sf4uVk"/>
+        <updated>2025-01-21T15:01:00.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Who’s fueling Trump’s record-breaking inaugural donations? #donaldtrump #inauguration]]></title>
         <id>https://www.youtube.com/watch?v=nw1AI9RjiWQ</id>
@@ -447,15 +501,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This blanket is woven with a centuries-old technique. #artisan #weaving #ukrainian]]></title>
-        <id>https://www.youtube.com/watch?v=RLHD31lL30k</id>
-        <link href="https://www.youtube.com/watch?v=RLHD31lL30k"/>
-        <updated>2025-01-12T15:00:34.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What's new with Flight 7's massively upgraded Starship?!?]]></title>
         <id>https://www.youtube.com/watch?v=eQZbi8HBRcQ</id>
         <link href="https://www.youtube.com/watch?v=eQZbi8HBRcQ"/>
@@ -555,24 +600,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Full Body VR with the bHaptics TactSuit]]></title>
-        <id>https://www.youtube.com/watch?v=u1N8Pjr37KA</id>
-        <link href="https://www.youtube.com/watch?v=u1N8Pjr37KA"/>
-        <updated>2025-01-11T04:30:26.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flying Electric Motorcycle Debuts at CES 2025]]></title>
-        <id>https://www.youtube.com/watch?v=cAJoH73BlQU</id>
-        <link href="https://www.youtube.com/watch?v=cAJoH73BlQU"/>
-        <updated>2025-01-11T03:00:29.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Introducing 4-vectors in Special Relativity]]></title>
         <id>https://www.youtube.com/watch?v=D3dGFW4nM3s</id>
         <link href="https://www.youtube.com/watch?v=D3dGFW4nM3s"/>
@@ -624,15 +651,6 @@
         <updated>2025-01-10T16:00:47.000Z</updated>
         <author>
             <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CNC Grinding a Glass End Mill]]></title>
-        <id>https://www.youtube.com/watch?v=1zW_aWdOvnQ</id>
-        <link href="https://www.youtube.com/watch?v=1zW_aWdOvnQ"/>
-        <updated>2025-01-10T15:00:04.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2679,7 +2697,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Strange Physics Principle That Shapes Reality]]></title>
+        <title type="html"><![CDATA[The Closest Thing We Have To The Theory of Everything]]></title>
         <id>https://www.youtube.com/watch?v=Q10_srZ-pbs</id>
         <link href="https://www.youtube.com/watch?v=Q10_srZ-pbs"/>
         <updated>2024-10-29T12:09:04.000Z</updated>
@@ -2748,24 +2766,6 @@
         <updated>2024-10-24T14:04:05.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI Cracked the Protein Folding Code and Won a Nobel Prize]]></title>
-        <id>https://www.youtube.com/watch?v=cx7l9ZGFZkw</id>
-        <link href="https://www.youtube.com/watch?v=cx7l9ZGFZkw"/>
-        <updated>2024-10-23T20:43:39.000Z</updated>
-        <author>
-            <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Covariant Derivative of a Tensor]]></title>
-        <id>https://www.youtube.com/watch?v=CAcSEbdBQN0</id>
-        <link href="https://www.youtube.com/watch?v=CAcSEbdBQN0"/>
-        <updated>2024-10-23T13:28:41.000Z</updated>
-        <author>
-            <name>Faculty of Khan</name>
         </author>
     </entry>
 </feed>
