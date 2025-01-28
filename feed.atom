@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-27T00:41:13.396Z</id>
+    <id>urn:2025-01-28T00:40:02.744Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-27T00:41:13.396Z</updated>
+    <updated>2025-01-28T00:40:02.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CNC Machining PRESIDENT TRUMP]]></title>
+        <id>https://www.youtube.com/watch?v=Sgf7yApd0u8</id>
+        <link href="https://www.youtube.com/watch?v=Sgf7yApd0u8"/>
+        <updated>2025-01-27T15:00:36.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Styrofoam dangerous? #styrofoam #plastics #carcinogens]]></title>
+        <id>https://www.youtube.com/watch?v=7jlgwe33El8</id>
+        <link href="https://www.youtube.com/watch?v=7jlgwe33El8"/>
+        <updated>2025-01-27T13:00:12.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deriving the Relativistic Doppler Effect and Relativistic Aberration of Light]]></title>
         <id>https://www.youtube.com/watch?v=VlhgVMnmrdE</id>
@@ -96,7 +114,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Did This 1.7 billion Liter Water Highway Transformed Israel?]]></title>
+        <title type="html"><![CDATA[The 1.7 Billion Liter Water Project That Built Israel]]></title>
         <id>https://www.youtube.com/watch?v=5CQx_L0bRmU</id>
         <link href="https://www.youtube.com/watch?v=5CQx_L0bRmU"/>
         <updated>2025-01-25T10:00:05.000Z</updated>
@@ -627,15 +645,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Here's why it took decades to ban Red No. 3 in America. #reddye #fda #ultraprocessed]]></title>
-        <id>https://www.youtube.com/watch?v=N7oJFUvJJEE</id>
-        <link href="https://www.youtube.com/watch?v=N7oJFUvJJEE"/>
-        <updated>2025-01-16T19:31:25.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Thread Whirling Made Easy]]></title>
         <id>https://www.youtube.com/watch?v=BUiBkeRCQfw</id>
         <link href="https://www.youtube.com/watch?v=BUiBkeRCQfw"/>
@@ -651,15 +660,6 @@
         <updated>2025-01-16T15:01:09.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terrifying Choices That Redefined my CNC Machining Business]]></title>
-        <id>https://www.youtube.com/watch?v=BN55CScJKa8</id>
-        <link href="https://www.youtube.com/watch?v=BN55CScJKa8"/>
-        <updated>2025-01-16T15:00:16.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2802,33 +2802,6 @@
         <updated>2024-10-31T15:45:04.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mode Sensitivity for Fluid Flows via Lagrangian Coherent Structures]]></title>
-        <id>https://www.youtube.com/watch?v=vHVNUqzzmCI</id>
-        <link href="https://www.youtube.com/watch?v=vHVNUqzzmCI"/>
-        <updated>2024-10-29T15:32:00.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Most INSANE Gridfinity You Can Print]]></title>
-        <id>https://www.youtube.com/watch?v=MrkGsgbomjY</id>
-        <link href="https://www.youtube.com/watch?v=MrkGsgbomjY"/>
-        <updated>2024-10-29T15:00:28.000Z</updated>
-        <author>
-            <name>Zack Freedman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Fell For The Oldest Lie On The Internet]]></title>
-        <id>https://www.youtube.com/watch?v=bgo7rm5Maqg</id>
-        <link href="https://www.youtube.com/watch?v=bgo7rm5Maqg"/>
-        <updated>2024-10-29T15:00:09.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>
