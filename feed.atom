@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-29T00:39:59.852Z</id>
+    <id>urn:2025-01-30T00:39:09.709Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-29T00:39:59.852Z</updated>
+    <updated>2025-01-30T00:39:09.709Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Here's why #America might be partially to blame for #DeepSeek's success. #ai]]></title>
+        <id>https://www.youtube.com/watch?v=lbL9jhRW4gI</id>
+        <link href="https://www.youtube.com/watch?v=lbL9jhRW4gI"/>
+        <updated>2025-01-29T18:22:15.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Random Variables and Probability Distributions]]></title>
+        <id>https://www.youtube.com/watch?v=-7QG2itL1u4</id>
+        <link href="https://www.youtube.com/watch?v=-7QG2itL1u4"/>
+        <updated>2025-01-29T16:15:00.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Will The Billionaires Worth $450 Billion Help Trump Run America | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=x1Ev_MOGavU</id>
+        <link href="https://www.youtube.com/watch?v=x1Ev_MOGavU"/>
+        <updated>2025-01-29T16:01:04.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNC Machining Custom Arrowhead]]></title>
+        <id>https://www.youtube.com/watch?v=BjYj8KU8qO4</id>
+        <link href="https://www.youtube.com/watch?v=BjYj8KU8qO4"/>
+        <updated>2025-01-29T15:00:14.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Do you know why #oxtail is so #expensive? #meat]]></title>
         <id>https://www.youtube.com/watch?v=OvXwSbqC5-8</id>
@@ -528,15 +564,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Who’s fueling Trump’s record-breaking inaugural donations? #donaldtrump #inauguration]]></title>
-        <id>https://www.youtube.com/watch?v=nw1AI9RjiWQ</id>
-        <link href="https://www.youtube.com/watch?v=nw1AI9RjiWQ"/>
-        <updated>2025-01-20T18:21:41.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CNC Machine Opens Locked Safe]]></title>
         <id>https://www.youtube.com/watch?v=nHSGh6kYRK4</id>
         <link href="https://www.youtube.com/watch?v=nHSGh6kYRK4"/>
@@ -579,15 +606,6 @@
         <updated>2025-01-19T23:36:32.000Z</updated>
         <author>
             <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is how companies mine rocks from the sea floor. 🪨 #rockmining #sea #minerals]]></title>
-        <id>https://www.youtube.com/watch?v=GTKiFIIAcYY</id>
-        <link href="https://www.youtube.com/watch?v=GTKiFIIAcYY"/>
-        <updated>2025-01-19T17:01:06.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -642,15 +660,6 @@
         <updated>2025-01-18T16:00:22.000Z</updated>
         <author>
             <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machinist Keeps BREAKING Tools]]></title>
-        <id>https://www.youtube.com/watch?v=PjG1VATIkw8</id>
-        <link href="https://www.youtube.com/watch?v=PjG1VATIkw8"/>
-        <updated>2025-01-18T15:00:25.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2802,24 +2811,6 @@
         <updated>2024-11-01T15:17:43.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I made a creepy pumpkin]]></title>
-        <id>https://www.youtube.com/watch?v=sklWaIrs6uE</id>
-        <link href="https://www.youtube.com/watch?v=sklWaIrs6uE"/>
-        <updated>2024-10-31T16:00:56.000Z</updated>
-        <author>
-            <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quality Control, Non-Destructive Inspection, and the Multinomial Distribution]]></title>
-        <id>https://www.youtube.com/watch?v=e7RAK_iQBp0</id>
-        <link href="https://www.youtube.com/watch?v=e7RAK_iQBp0"/>
-        <updated>2024-10-31T15:45:04.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
 </feed>
