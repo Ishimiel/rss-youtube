@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-03T00:41:26.534Z</id>
+    <id>urn:2025-02-04T00:40:08.975Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-03T00:41:26.534Z</updated>
+    <updated>2025-02-04T00:40:08.975Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[World's most secret mystery EXPLAINED]]></title>
+        <id>https://www.youtube.com/watch?v=-4e__1PtOhE</id>
+        <link href="https://www.youtube.com/watch?v=-4e__1PtOhE"/>
+        <updated>2025-02-04T00:07:52.000Z</updated>
+        <author>
+            <name>Physics Girl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cesium is scary]]></title>
+        <id>https://www.youtube.com/watch?v=hL9j6CEnVnc</id>
+        <link href="https://www.youtube.com/watch?v=hL9j6CEnVnc"/>
+        <updated>2025-02-03T17:32:18.000Z</updated>
+        <author>
+            <name>NileRed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Is Europe Obsessed With Destroying Dams?]]></title>
+        <id>https://www.youtube.com/watch?v=mJf-5_ADhXo</id>
+        <link href="https://www.youtube.com/watch?v=mJf-5_ADhXo"/>
+        <updated>2025-02-03T15:00:58.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lathe Trick for Chatter Free Parts]]></title>
+        <id>https://www.youtube.com/watch?v=TMAGySIcCxY</id>
+        <link href="https://www.youtube.com/watch?v=TMAGySIcCxY"/>
+        <updated>2025-02-03T15:00:38.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TOTEM: TOkenized Time Series EMbeddings for General Time Series Analysis]]></title>
+        <id>https://www.youtube.com/watch?v=AH2_Aq9_4R8</id>
+        <link href="https://www.youtube.com/watch?v=AH2_Aq9_4R8"/>
+        <updated>2025-02-03T14:00:16.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How New York City disposes of trash. 🗑️ #trash #NewYork #energy]]></title>
+        <id>https://www.youtube.com/watch?v=vAFvvFxgpeo</id>
+        <link href="https://www.youtube.com/watch?v=vAFvvFxgpeo"/>
+        <updated>2025-02-03T13:01:12.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Man VS Fish: The Many, Many Negative Effects of a Dam on Nature]]></title>
+        <id>https://www.youtube.com/watch?v=bVlP0zL6Rj8</id>
+        <link href="https://www.youtube.com/watch?v=bVlP0zL6Rj8"/>
+        <updated>2025-02-03T08:32:59.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prusa Core One LIVE from Hawaii!]]></title>
+        <id>https://www.youtube.com/watch?v=gouq4JrjKXk</id>
+        <link href="https://www.youtube.com/watch?v=gouq4JrjKXk"/>
+        <updated>2025-02-03T02:46:50.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Navy Submarine Cooks Feed 150 Sailors At Sea | Boot Camp | Business Insider]]></title>
         <id>https://www.youtube.com/watch?v=vDr74_wV3qo</id>
@@ -510,15 +582,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Here's a quick rundown of the drama between #ElonMusk, #DonaldTrump, and #OpenAI CEO Sam Altman.]]></title>
-        <id>https://www.youtube.com/watch?v=ui8HQg7dKWo</id>
-        <link href="https://www.youtube.com/watch?v=ui8HQg7dKWo"/>
-        <updated>2025-01-24T22:14:52.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dianna stands for the first time in 2 years!]]></title>
         <id>https://www.youtube.com/watch?v=2ntx91cOYEc</id>
         <link href="https://www.youtube.com/watch?v=2ntx91cOYEc"/>
@@ -570,15 +633,6 @@
         <updated>2025-01-24T14:00:13.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swiss Machining TINY Parts]]></title>
-        <id>https://www.youtube.com/watch?v=TmuIJtv6nFc</id>
-        <link href="https://www.youtube.com/watch?v=TmuIJtv6nFc"/>
-        <updated>2025-01-23T16:00:24.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -942,30 +996,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Moon Crane: The Komatsu Moon Construction Model]]></title>
-        <id>https://www.youtube.com/watch?v=Q7RrxRicYBY</id>
-        <link href="https://www.youtube.com/watch?v=Q7RrxRicYBY"/>
-        <updated>2025-01-12T16:00:31.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What's new with Flight 7's massively upgraded Starship?!?]]></title>
         <id>https://www.youtube.com/watch?v=eQZbi8HBRcQ</id>
         <link href="https://www.youtube.com/watch?v=eQZbi8HBRcQ"/>
         <updated>2025-01-12T14:30:00.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Komatsu is Making Machinery for the Moon]]></title>
-        <id>https://www.youtube.com/watch?v=MCxF7d8jEEY</id>
-        <link href="https://www.youtube.com/watch?v=MCxF7d8jEEY"/>
-        <updated>2025-01-12T11:30:25.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -1587,15 +1623,6 @@
         <updated>2024-12-20T16:00:20.000Z</updated>
         <author>
             <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THESE SOUND AMAZING!!!]]></title>
-        <id>https://www.youtube.com/watch?v=GmoNP2t7Kvg</id>
-        <link href="https://www.youtube.com/watch?v=GmoNP2t7Kvg"/>
-        <updated>2024-12-20T14:00:26.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
         </author>
     </entry>
     <entry>
@@ -2445,15 +2472,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bromine vs aluminum is insane!]]></title>
-        <id>https://www.youtube.com/watch?v=XrH7eJl1wQc</id>
-        <link href="https://www.youtube.com/watch?v=XrH7eJl1wQc"/>
-        <updated>2024-11-21T18:25:33.000Z</updated>
-        <author>
-            <name>NileRed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What is the protein folding problem?]]></title>
         <id>https://www.youtube.com/watch?v=VrO9uAHN0po</id>
         <link href="https://www.youtube.com/watch?v=VrO9uAHN0po"/>
@@ -2856,15 +2874,6 @@
         <updated>2024-11-06T17:05:15.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Most Insane Weapon You Never Heard About]]></title>
-        <id>https://www.youtube.com/watch?v=E55uSCO5D2w</id>
-        <link href="https://www.youtube.com/watch?v=E55uSCO5D2w"/>
-        <updated>2024-11-05T15:00:02.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>
