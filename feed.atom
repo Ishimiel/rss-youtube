@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-08T00:39:28.639Z</id>
+    <id>urn:2025-02-09T00:43:21.304Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-08T00:39:28.639Z</updated>
+    <updated>2025-02-09T00:43:21.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[This is what it takes to make it to the NFL. #football #NFL #athlete]]></title>
+        <id>https://www.youtube.com/watch?v=KKs20kxrva8</id>
+        <link href="https://www.youtube.com/watch?v=KKs20kxrva8"/>
+        <updated>2025-02-09T00:00:12.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Europe Just Got Stronger]]></title>
+        <id>https://www.youtube.com/watch?v=u87dj9UAhGY</id>
+        <link href="https://www.youtube.com/watch?v=u87dj9UAhGY"/>
+        <updated>2025-02-08T22:58:08.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crashing 2 Machines at the Same Time]]></title>
+        <id>https://www.youtube.com/watch?v=fCkcFpz1IDg</id>
+        <link href="https://www.youtube.com/watch?v=fCkcFpz1IDg"/>
+        <updated>2025-02-08T16:00:40.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fight For The $150 Million Emerald Industry In Colombia | So Expensive | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=2cO3SSN1-qc</id>
+        <link href="https://www.youtube.com/watch?v=2cO3SSN1-qc"/>
+        <updated>2025-02-08T16:00:06.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use Ai in CNC Machining]]></title>
+        <id>https://www.youtube.com/watch?v=_bPe7V5y97Y</id>
+        <link href="https://www.youtube.com/watch?v=_bPe7V5y97Y"/>
+        <updated>2025-02-08T15:00:50.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terence Tao on how we measure the cosmos | Part 1]]></title>
+        <id>https://www.youtube.com/watch?v=YdOXS_9_P4U</id>
+        <link href="https://www.youtube.com/watch?v=YdOXS_9_P4U"/>
+        <updated>2025-02-08T13:35:15.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring the earth with Terence Tao]]></title>
+        <id>https://www.youtube.com/watch?v=uT4-WVa-YfU</id>
+        <link href="https://www.youtube.com/watch?v=uT4-WVa-YfU"/>
+        <updated>2025-02-08T13:35:06.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Each tooth on these porcelain veneers costs $4,000. #porcelain #dental #veneers]]></title>
         <id>https://www.youtube.com/watch?v=hnZWslNgyVI</id>
@@ -402,15 +465,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How New York City disposes of trash. 🗑️ #trash #NewYork #energy]]></title>
-        <id>https://www.youtube.com/watch?v=vAFvvFxgpeo</id>
-        <link href="https://www.youtube.com/watch?v=vAFvvFxgpeo"/>
-        <updated>2025-02-03T13:01:12.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Man VS Fish: The Many, Many Negative Effects of a Dam on Nature]]></title>
         <id>https://www.youtube.com/watch?v=bVlP0zL6Rj8</id>
         <link href="https://www.youtube.com/watch?v=bVlP0zL6Rj8"/>
@@ -426,15 +480,6 @@
         <updated>2025-02-03T02:46:50.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Navy Submarine Cooks Feed 150 Sailors At Sea | Boot Camp | Business Insider]]></title>
-        <id>https://www.youtube.com/watch?v=vDr74_wV3qo</id>
-        <link href="https://www.youtube.com/watch?v=vDr74_wV3qo"/>
-        <updated>2025-02-02T16:00:57.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -654,15 +699,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CNC Machining Custom Arrowhead]]></title>
-        <id>https://www.youtube.com/watch?v=BjYj8KU8qO4</id>
-        <link href="https://www.youtube.com/watch?v=BjYj8KU8qO4"/>
-        <updated>2025-01-29T15:00:14.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Zucchini Love                                           #relatable #zucchini #love]]></title>
         <id>https://www.youtube.com/watch?v=vFEoRu84Gho</id>
         <link href="https://www.youtube.com/watch?v=vFEoRu84Gho"/>
@@ -678,15 +714,6 @@
         <updated>2025-01-28T19:17:22.000Z</updated>
         <author>
             <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drilling Hardened INCONEL 718]]></title>
-        <id>https://www.youtube.com/watch?v=GZU9vIgnqQo</id>
-        <link href="https://www.youtube.com/watch?v=GZU9vIgnqQo"/>
-        <updated>2025-01-28T16:00:22.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -933,7 +960,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why is MIT making robot insects?]]></title>
+        <title type="html"><![CDATA[Why Is MIT Making Robot Insects?]]></title>
         <id>https://www.youtube.com/watch?v=H6q6pYZ9Fho</id>
         <link href="https://www.youtube.com/watch?v=H6q6pYZ9Fho"/>
         <updated>2025-01-21T16:58:06.000Z</updated>
@@ -2805,30 +2832,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The twirling tiles puzzle]]></title>
-        <id>https://www.youtube.com/watch?v=0W243LGSJFU</id>
-        <link href="https://www.youtube.com/watch?v=0W243LGSJFU"/>
-        <updated>2024-11-13T18:01:06.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Conditional Probabilities]]></title>
         <id>https://www.youtube.com/watch?v=KjdS_o5HNII</id>
         <link href="https://www.youtube.com/watch?v=KjdS_o5HNII"/>
         <updated>2024-11-13T17:00:18.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A bizarre probability fact]]></title>
-        <id>https://www.youtube.com/watch?v=Pny70rNPJLk</id>
-        <link href="https://www.youtube.com/watch?v=Pny70rNPJLk"/>
-        <updated>2024-11-12T23:09:05.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
         </author>
     </entry>
     <entry>
@@ -2874,15 +2883,6 @@
         <updated>2024-11-11T15:35:59.000Z</updated>
         <author>
             <name>NinjaCakeAssassin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Binomial Distribution and the Multinomial Distribution]]></title>
-        <id>https://www.youtube.com/watch?v=UXB9eeMZfwo</id>
-        <link href="https://www.youtube.com/watch?v=UXB9eeMZfwo"/>
-        <updated>2024-11-10T14:00:31.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
 </feed>
