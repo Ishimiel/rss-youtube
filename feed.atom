@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-09T00:43:21.304Z</id>
+    <id>urn:2025-02-10T00:41:55.177Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-09T00:43:21.304Z</updated>
+    <updated>2025-02-10T00:41:55.177Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[This is how a field gets painted for the Super Bowl. #superbowl #football #sports]]></title>
+        <id>https://www.youtube.com/watch?v=T4_a2Qy9OWs</id>
+        <link href="https://www.youtube.com/watch?v=T4_a2Qy9OWs"/>
+        <updated>2025-02-09T23:30:40.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Gravity alters Time and Frequency: Gravitational Redshift and Time Dilation]]></title>
+        <id>https://www.youtube.com/watch?v=3OGXdUY9Ho4</id>
+        <link href="https://www.youtube.com/watch?v=3OGXdUY9Ho4"/>
+        <updated>2025-02-09T21:44:48.000Z</updated>
+        <author>
+            <name>Faculty of Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X1 vs XL: AMS vs Toolchanger - What's better?]]></title>
+        <id>https://www.youtube.com/watch?v=oO8XnWPwyjA</id>
+        <link href="https://www.youtube.com/watch?v=oO8XnWPwyjA"/>
+        <updated>2025-02-09T16:31:39.000Z</updated>
+        <author>
+            <name>CNC Kitchen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Magic Square Breakthrough - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=stpiBy6gWOA</id>
+        <link href="https://www.youtube.com/watch?v=stpiBy6gWOA"/>
+        <updated>2025-02-09T15:17:55.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Favorite Thing About 5 Axis Machining]]></title>
+        <id>https://www.youtube.com/watch?v=kkNqHVdwFgk</id>
+        <link href="https://www.youtube.com/watch?v=kkNqHVdwFgk"/>
+        <updated>2025-02-09T15:00:54.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How custom log homes are built. #LogHomes #Homes #Construction]]></title>
+        <id>https://www.youtube.com/watch?v=l52e3qmwXFU</id>
+        <link href="https://www.youtube.com/watch?v=l52e3qmwXFU"/>
+        <updated>2025-02-09T02:00:33.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This is what it takes to make it to the NFL. #football #NFL #athlete]]></title>
         <id>https://www.youtube.com/watch?v=KKs20kxrva8</id>
@@ -375,15 +429,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Here’s an inside look at how thousands of pounds of #Maine #lobster meat are processed daily.]]></title>
-        <id>https://www.youtube.com/watch?v=JzI7zLqQovo</id>
-        <link href="https://www.youtube.com/watch?v=JzI7zLqQovo"/>
-        <updated>2025-02-04T21:12:50.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Machinist Blames Programmer for Crashed Machines]]></title>
         <id>https://www.youtube.com/watch?v=8LwhMB5DH2Q</id>
         <link href="https://www.youtube.com/watch?v=8LwhMB5DH2Q"/>
@@ -408,15 +453,6 @@
         <updated>2025-02-04T15:00:01.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tickets range from a couple hundred to thousands of dollars, depending on the animal's needs. #qatar]]></title>
-        <id>https://www.youtube.com/watch?v=4sVuul5S51c</id>
-        <link href="https://www.youtube.com/watch?v=4sVuul5S51c"/>
-        <updated>2025-02-04T02:01:40.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -492,7 +528,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Physics YouTuber uses FACTS and LOGIC to ANNIHILATE Classical Gravity: Newton Fanboys in SHAMBLES!]]></title>
+        <title type="html"><![CDATA[Gravity is Geometry: why Newtonian Gravity is not enough | General Relativity]]></title>
         <id>https://www.youtube.com/watch?v=P4kDyWs_IuI</id>
         <link href="https://www.youtube.com/watch?v=P4kDyWs_IuI"/>
         <updated>2025-02-01T20:05:30.000Z</updated>
@@ -640,15 +676,6 @@
         <id>https://www.youtube.com/watch?v=KFbdydNyjQA</id>
         <link href="https://www.youtube.com/watch?v=KFbdydNyjQA"/>
         <updated>2025-01-30T16:00:16.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CloudNC’s AI Just Programmed this Part]]></title>
-        <id>https://www.youtube.com/watch?v=cNbgIg48dhw</id>
-        <link href="https://www.youtube.com/watch?v=cNbgIg48dhw"/>
-        <updated>2025-01-30T15:00:54.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
         </author>
@@ -960,7 +987,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Is MIT Making Robot Insects?]]></title>
+        <title type="html"><![CDATA[Why is MIT making robot insects?]]></title>
         <id>https://www.youtube.com/watch?v=H6q6pYZ9Fho</id>
         <link href="https://www.youtube.com/watch?v=H6q6pYZ9Fho"/>
         <updated>2025-01-21T16:58:06.000Z</updated>
@@ -2856,33 +2883,6 @@
         <updated>2024-11-12T14:59:35.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easy Dinner                                                #easydinner #dinner #mushroom]]></title>
-        <id>https://www.youtube.com/watch?v=RRe_BWNXvwE</id>
-        <link href="https://www.youtube.com/watch?v=RRe_BWNXvwE"/>
-        <updated>2024-11-12T00:31:06.000Z</updated>
-        <author>
-            <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Spacetime Interval and Causality | Special Relativity]]></title>
-        <id>https://www.youtube.com/watch?v=SZd3bE_7nNI</id>
-        <link href="https://www.youtube.com/watch?v=SZd3bE_7nNI"/>
-        <updated>2024-11-11T21:45:16.000Z</updated>
-        <author>
-            <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Silent Γκεκ]]></title>
-        <id>https://www.youtube.com/watch?v=WbjYYmmfTsw</id>
-        <link href="https://www.youtube.com/watch?v=WbjYYmmfTsw"/>
-        <updated>2024-11-11T15:35:59.000Z</updated>
-        <author>
-            <name>NinjaCakeAssassin</name>
         </author>
     </entry>
 </feed>
