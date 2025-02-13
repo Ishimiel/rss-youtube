@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-12T00:40:52.489Z</id>
+    <id>urn:2025-02-13T00:41:03.292Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-12T00:40:52.489Z</updated>
+    <updated>2025-02-13T00:41:03.292Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Here's why #eggs are so #expensive right now. #groceries]]></title>
+        <id>https://www.youtube.com/watch?v=ezKt8ftUykg</id>
+        <link href="https://www.youtube.com/watch?v=ezKt8ftUykg"/>
+        <updated>2025-02-12T22:56:56.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In five hours, #Navy culinary specialists serve 150 #sailors fresh meals under the sea. #armychefs]]></title>
+        <id>https://www.youtube.com/watch?v=HloDI_4I4XE</id>
+        <link href="https://www.youtube.com/watch?v=HloDI_4I4XE"/>
+        <updated>2025-02-12T22:10:07.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Intel is seeing a big #stock move as the biggest owner of chip-making foundries in the US. #ai]]></title>
+        <id>https://www.youtube.com/watch?v=gjcHNjq4rQU</id>
+        <link href="https://www.youtube.com/watch?v=gjcHNjq4rQU"/>
+        <updated>2025-02-12T22:04:18.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is how competitive eaters maintain their health. #womensports #competitiveeating #sportshealth]]></title>
+        <id>https://www.youtube.com/watch?v=B5XsWpmM3mQ</id>
+        <link href="https://www.youtube.com/watch?v=B5XsWpmM3mQ"/>
+        <updated>2025-02-12T21:52:23.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Surprising Way Your Brain Is Wired]]></title>
+        <id>https://www.youtube.com/watch?v=Ecqff-9Upjw</id>
+        <link href="https://www.youtube.com/watch?v=Ecqff-9Upjw"/>
+        <updated>2025-02-12T21:37:24.000Z</updated>
+        <author>
+            <name>Artem Kirsanov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machining Gone Wrong 😳]]></title>
+        <id>https://www.youtube.com/watch?v=szoj1lnycDU</id>
+        <link href="https://www.youtube.com/watch?v=szoj1lnycDU"/>
+        <updated>2025-02-12T15:01:19.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Earth's size was computed by Eratosthenes]]></title>
+        <id>https://www.youtube.com/watch?v=9s0srZneJ38</id>
+        <link href="https://www.youtube.com/watch?v=9s0srZneJ38"/>
+        <updated>2025-02-12T15:00:17.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#Trump said his goal is to "restore names that honor #American greatness." #gulfofamerica]]></title>
         <id>https://www.youtube.com/watch?v=Q7e5SS3lw1s</id>
@@ -141,7 +204,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What if all the world's biggest problems have the same solution?]]></title>
+        <title type="html"><![CDATA[The Most Useful Thing AI Has Done]]></title>
         <id>https://www.youtube.com/watch?v=P_fHJIYENdI</id>
         <link href="https://www.youtube.com/watch?v=P_fHJIYENdI"/>
         <updated>2025-02-10T14:03:41.000Z</updated>
@@ -330,33 +393,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Today, the Hunt family has a net worth of $24.8 billion. #kansascitychiefs #chiefs #football]]></title>
-        <id>https://www.youtube.com/watch?v=sE37HS0YkSU</id>
-        <link href="https://www.youtube.com/watch?v=sE37HS0YkSU"/>
-        <updated>2025-02-07T18:57:52.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here’s why NFL and college teams pay money to have muddy footballs. #SuperBowl #football #nfl]]></title>
-        <id>https://www.youtube.com/watch?v=hWmhjRTeH8E</id>
-        <link href="https://www.youtube.com/watch?v=hWmhjRTeH8E"/>
-        <updated>2025-02-07T18:41:20.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How A Man Turned Muddy Footballs Into A Business For Super Bowl And College Teams | Big Business]]></title>
-        <id>https://www.youtube.com/watch?v=ukqw6uw6Khw</id>
-        <link href="https://www.youtube.com/watch?v=ukqw6uw6Khw"/>
-        <updated>2025-02-07T16:53:56.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Simon Critchley and Dr. Cornel West on the Violence and Beauty of Fire]]></title>
         <id>https://www.youtube.com/watch?v=EtCFcTqCMHM</id>
         <link href="https://www.youtube.com/watch?v=EtCFcTqCMHM"/>
@@ -417,15 +453,6 @@
         <updated>2025-02-07T16:03:23.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's how NFL stadiums are prepped for games. #football #nfl #superbowl]]></title>
-        <id>https://www.youtube.com/watch?v=Ih9g3L6EIXI</id>
-        <link href="https://www.youtube.com/watch?v=Ih9g3L6EIXI"/>
-        <updated>2025-02-07T16:00:15.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -501,7 +528,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Power Factor Explained – Why they issue penalty charges (Reactive Power)]]></title>
+        <title type="html"><![CDATA[Power Factor Explained – Your Electricity Bill Money Drain (Reactive Power)]]></title>
         <id>https://www.youtube.com/watch?v=NIrKOVZrqnU</id>
         <link href="https://www.youtube.com/watch?v=NIrKOVZrqnU"/>
         <updated>2025-02-05T19:19:33.000Z</updated>
@@ -678,15 +705,6 @@
         <updated>2025-02-01T16:13:13.000Z</updated>
         <author>
             <name>Internet Pitstop</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CMM Checks Flatness]]></title>
-        <id>https://www.youtube.com/watch?v=2BlC-Cfx5ok</id>
-        <link href="https://www.youtube.com/watch?v=2BlC-Cfx5ok"/>
-        <updated>2025-02-01T16:00:01.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1068,7 +1086,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why is MIT making robot insects?]]></title>
+        <title type="html"><![CDATA[Why Is MIT Making Robot Insects?]]></title>
         <id>https://www.youtube.com/watch?v=H6q6pYZ9Fho</id>
         <link href="https://www.youtube.com/watch?v=H6q6pYZ9Fho"/>
         <updated>2025-01-21T16:58:06.000Z</updated>
@@ -1707,7 +1725,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What if you put your DNA under a microscope?]]></title>
+        <title type="html"><![CDATA[The Man Who Took LSD and Changed The World]]></title>
         <id>https://www.youtube.com/watch?v=zaXKQ70q4KQ</id>
         <link href="https://www.youtube.com/watch?v=zaXKQ70q4KQ"/>
         <updated>2024-12-26T14:11:09.000Z</updated>
@@ -2823,57 +2841,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Triangle Of Power]]></title>
-        <id>https://www.youtube.com/watch?v=JNVZK4ofW-Y</id>
-        <link href="https://www.youtube.com/watch?v=JNVZK4ofW-Y"/>
-        <updated>2024-11-15T15:58:23.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Knot Surfaces - Numberphile]]></title>
         <id>https://www.youtube.com/watch?v=OqjFylGwAj8</id>
         <link href="https://www.youtube.com/watch?v=OqjFylGwAj8"/>
         <updated>2024-11-15T14:54:51.000Z</updated>
         <author>
             <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harmonic Functions and Harmonic Conjugates | Complex Variables]]></title>
-        <id>https://www.youtube.com/watch?v=7XHah5XF7L4</id>
-        <link href="https://www.youtube.com/watch?v=7XHah5XF7L4"/>
-        <updated>2024-11-15T12:00:09.000Z</updated>
-        <author>
-            <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We did it! Levitation is REAL]]></title>
-        <id>https://www.youtube.com/watch?v=diHw58JM2Zc</id>
-        <link href="https://www.youtube.com/watch?v=diHw58JM2Zc"/>
-        <updated>2024-11-14T18:30:06.000Z</updated>
-        <author>
-            <name>Physics Girl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Map of Board Games]]></title>
-        <id>https://www.youtube.com/watch?v=fH4MaSJ8gXU</id>
-        <link href="https://www.youtube.com/watch?v=fH4MaSJ8gXU"/>
-        <updated>2024-11-14T16:20:26.000Z</updated>
-        <author>
-            <name>Domain of Science</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Law of Total Probability]]></title>
-        <id>https://www.youtube.com/watch?v=UzEPJEQF4W0</id>
-        <link href="https://www.youtube.com/watch?v=UzEPJEQF4W0"/>
-        <updated>2024-11-14T15:45:01.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
 </feed>
