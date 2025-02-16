@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-15T00:40:08.852Z</id>
+    <id>urn:2025-02-16T00:44:37.442Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-15T00:40:08.852Z</updated>
+    <updated>2025-02-16T00:44:37.442Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Not Lasagna (low carb) - You Suck at Cooking (episode 177)]]></title>
+        <id>https://www.youtube.com/watch?v=aU3MEbMPj5M</id>
+        <link href="https://www.youtube.com/watch?v=aU3MEbMPj5M"/>
+        <updated>2025-02-15T19:20:38.000Z</updated>
+        <author>
+            <name>You Suck At Cooking</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accidental Reversal #circuit #experiment #technology #funny]]></title>
+        <id>https://www.youtube.com/watch?v=08ET5Wwg57w</id>
+        <link href="https://www.youtube.com/watch?v=08ET5Wwg57w"/>
+        <updated>2025-02-15T17:21:25.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Standard Unit Normal and Probability Computations]]></title>
+        <id>https://www.youtube.com/watch?v=X9Pkzaw0SpE</id>
+        <link href="https://www.youtube.com/watch?v=X9Pkzaw0SpE"/>
+        <updated>2025-02-15T17:00:36.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Bringing Back Supersonic Is Almost Impossible | The Limit | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=sLm9zbGoli4</id>
+        <link href="https://www.youtube.com/watch?v=sLm9zbGoli4"/>
+        <updated>2025-02-15T16:00:56.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wire EDM makes precision punches for a stamping die]]></title>
+        <id>https://www.youtube.com/watch?v=62wxuMuiBI8</id>
+        <link href="https://www.youtube.com/watch?v=62wxuMuiBI8"/>
+        <updated>2025-02-15T16:00:08.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Science is a journey for truth that doesn’t always lead where you expect #science  #cosmology]]></title>
+        <id>https://www.youtube.com/watch?v=VaFP7let540</id>
+        <link href="https://www.youtube.com/watch?v=VaFP7let540"/>
+        <updated>2025-02-15T15:01:44.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wrong Technique? Addressing the Comments]]></title>
+        <id>https://www.youtube.com/watch?v=zYKUF7EZqkM</id>
+        <link href="https://www.youtube.com/watch?v=zYKUF7EZqkM"/>
+        <updated>2025-02-15T15:01:18.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Working on my 3D modeling app - Half-Edge (UI panel resizing stuff today)]]></title>
         <id>https://www.youtube.com/watch?v=mNNjAu2AxQ4</id>
@@ -105,7 +168,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why is there a "CREATOR" resin? // Formlabs CES 2025!]]></title>
+        <title type="html"><![CDATA[Incredible Transparent Print! // Formlabs Creator Series at CES 2025!]]></title>
         <id>https://www.youtube.com/watch?v=LL64IBKt7sU</id>
         <link href="https://www.youtube.com/watch?v=LL64IBKt7sU"/>
         <updated>2025-02-14T14:00:32.000Z</updated>
@@ -379,15 +442,6 @@
         <id>https://www.youtube.com/watch?v=dKVmBTMZ-Eo</id>
         <link href="https://www.youtube.com/watch?v=dKVmBTMZ-Eo"/>
         <updated>2025-02-10T04:15:02.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is how a field gets painted for the Super Bowl. #superbowl #football #sports]]></title>
-        <id>https://www.youtube.com/watch?v=T4_a2Qy9OWs</id>
-        <link href="https://www.youtube.com/watch?v=T4_a2Qy9OWs"/>
-        <updated>2025-02-09T23:30:40.000Z</updated>
         <author>
             <name>Business Insider</name>
         </author>
@@ -669,24 +723,6 @@
         <updated>2025-02-05T15:02:34.000Z</updated>
         <author>
             <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CNC Machining Mastery]]></title>
-        <id>https://www.youtube.com/watch?v=wWYG0l9MAzM</id>
-        <link href="https://www.youtube.com/watch?v=wWYG0l9MAzM"/>
-        <updated>2025-02-05T15:01:19.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machinist Blames Programmer for Crashed Machines]]></title>
-        <id>https://www.youtube.com/watch?v=8LwhMB5DH2Q</id>
-        <link href="https://www.youtube.com/watch?v=8LwhMB5DH2Q"/>
-        <updated>2025-02-04T16:00:06.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1176,7 +1212,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Is MIT Making Robot Insects?]]></title>
+        <title type="html"><![CDATA[Why is MIT making robot insects?]]></title>
         <id>https://www.youtube.com/watch?v=H6q6pYZ9Fho</id>
         <link href="https://www.youtube.com/watch?v=H6q6pYZ9Fho"/>
         <updated>2025-01-21T16:58:06.000Z</updated>
@@ -1779,15 +1815,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Challenging Conventional Cosmology]]></title>
-        <id>https://www.youtube.com/watch?v=J72Z2piH1hM</id>
-        <link href="https://www.youtube.com/watch?v=J72Z2piH1hM"/>
-        <updated>2024-12-27T21:00:06.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MULTI COLOR TPU!]]></title>
         <id>https://www.youtube.com/watch?v=gauka42Jhpo</id>
         <link href="https://www.youtube.com/watch?v=gauka42Jhpo"/>
@@ -1995,7 +2022,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Musical Instrument Took Eons To Make]]></title>
+        <title type="html"><![CDATA[This Is the Oldest, Weirdest Instrument On Earth]]></title>
         <id>https://www.youtube.com/watch?v=rjXZzB5bUAo</id>
         <link href="https://www.youtube.com/watch?v=rjXZzB5bUAo"/>
         <updated>2024-12-19T18:40:28.000Z</updated>
@@ -2370,15 +2397,6 @@
         <updated>2024-12-05T18:53:19.000Z</updated>
         <author>
             <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discharge Capacitor to Oven #experiment #review #funny]]></title>
-        <id>https://www.youtube.com/watch?v=-NsNS1iqUWQ</id>
-        <link href="https://www.youtube.com/watch?v=-NsNS1iqUWQ"/>
-        <updated>2024-12-05T16:45:23.000Z</updated>
-        <author>
-            <name>ElectroBOOM</name>
         </author>
     </entry>
     <entry>
@@ -2838,24 +2856,6 @@
         <updated>2024-11-19T15:00:01.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[League of Γκεκ - Το δίλημμα]]></title>
-        <id>https://www.youtube.com/watch?v=14x2Ie1s17A</id>
-        <link href="https://www.youtube.com/watch?v=14x2Ie1s17A"/>
-        <updated>2024-11-17T18:33:59.000Z</updated>
-        <author>
-            <name>NinjaCakeAssassin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sphere surface area proof sketch]]></title>
-        <id>https://www.youtube.com/watch?v=EPDZTLavmcg</id>
-        <link href="https://www.youtube.com/watch?v=EPDZTLavmcg"/>
-        <updated>2024-11-17T16:00:10.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
         </author>
     </entry>
 </feed>
