@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-17T00:43:07.577Z</id>
+    <id>urn:2025-02-18T00:40:35.859Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-17T00:43:07.577Z</updated>
+    <updated>2025-02-18T00:40:35.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The F-14’s worst feature]]></title>
+        <id>https://www.youtube.com/watch?v=5nyqjg09GiM</id>
+        <link href="https://www.youtube.com/watch?v=5nyqjg09GiM"/>
+        <updated>2025-02-17T18:40:08.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Never Crash a Machine Again]]></title>
+        <id>https://www.youtube.com/watch?v=4I67fwnEwzc</id>
+        <link href="https://www.youtube.com/watch?v=4I67fwnEwzc"/>
+        <updated>2025-02-17T15:00:09.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Singapore Needs to Drink Seawater, But How Do They Make it Safe?]]></title>
+        <id>https://www.youtube.com/watch?v=c-6xaKd94uM</id>
+        <link href="https://www.youtube.com/watch?v=c-6xaKd94uM"/>
+        <updated>2025-02-17T14:00:43.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[They Blew it Up!!]]></title>
         <id>https://www.youtube.com/watch?v=jKR3uFL9cIc</id>
@@ -42,7 +69,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[They Blew-Up Historic Vegas for $Billion Dollar Mega-Tack! Here's Why.]]></title>
+        <title type="html"><![CDATA[From Old to New Vegas: How Mega Casinos Changed the Las Vegas Strip Forever]]></title>
         <id>https://www.youtube.com/watch?v=bHBdMte5trI</id>
         <link href="https://www.youtube.com/watch?v=bHBdMte5trI"/>
         <updated>2025-02-16T10:00:29.000Z</updated>
@@ -690,15 +717,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5 Axis Machining Incredible Grip]]></title>
-        <id>https://www.youtube.com/watch?v=zezg9VjCEJU</id>
-        <link href="https://www.youtube.com/watch?v=zezg9VjCEJU"/>
-        <updated>2025-02-06T16:01:05.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why This V-22 Osprey Crashed]]></title>
         <id>https://www.youtube.com/watch?v=9Wd1faJcZ2M</id>
         <link href="https://www.youtube.com/watch?v=9Wd1faJcZ2M"/>
@@ -708,7 +726,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Elegoo Centauri Carbon LIVE!]]></title>
+        <title type="html"><![CDATA[$299 Elegoo Centauri Carbon LIVE!]]></title>
         <id>https://www.youtube.com/watch?v=Xr2BkG_ZZ1s</id>
         <link href="https://www.youtube.com/watch?v=Xr2BkG_ZZ1s"/>
         <updated>2025-02-06T05:33:09.000Z</updated>
@@ -1239,7 +1257,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Is MIT Making Robot Insects?]]></title>
+        <title type="html"><![CDATA[Why is MIT making robot insects?]]></title>
         <id>https://www.youtube.com/watch?v=H6q6pYZ9Fho</id>
         <link href="https://www.youtube.com/watch?v=H6q6pYZ9Fho"/>
         <updated>2025-01-21T16:58:06.000Z</updated>
@@ -1317,15 +1335,6 @@
         <updated>2025-01-18T16:50:54.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Iron Dome Works: Israel's Greatest Defense System]]></title>
-        <id>https://www.youtube.com/watch?v=VYvR3T3HQ3Y</id>
-        <link href="https://www.youtube.com/watch?v=VYvR3T3HQ3Y"/>
-        <updated>2025-01-18T16:15:02.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -1851,7 +1860,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What if you put your DNA under a microscope?]]></title>
+        <title type="html"><![CDATA[The Man Who Took LSD and Changed The World]]></title>
         <id>https://www.youtube.com/watch?v=zaXKQ70q4KQ</id>
         <link href="https://www.youtube.com/watch?v=zaXKQ70q4KQ"/>
         <updated>2024-12-26T14:11:09.000Z</updated>
@@ -2031,7 +2040,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[World's Strangest Instrument!]]></title>
+        <title type="html"><![CDATA[Playing The World's Oldest, Weirdest Instrument]]></title>
         <id>https://www.youtube.com/watch?v=rjXZzB5bUAo</id>
         <link href="https://www.youtube.com/watch?v=rjXZzB5bUAo"/>
         <updated>2024-12-19T18:40:28.000Z</updated>
@@ -2544,7 +2553,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why can't you see a rainbow looking at the Sun?]]></title>
+        <title type="html"><![CDATA[Why no two people see the same rainbow]]></title>
         <id>https://www.youtube.com/watch?v=24GfgNtnjXc</id>
         <link href="https://www.youtube.com/watch?v=24GfgNtnjXc"/>
         <updated>2024-12-01T11:19:12.000Z</updated>
@@ -2838,33 +2847,6 @@
         <updated>2024-11-20T15:07:15.000Z</updated>
         <author>
             <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This puzzle is trickier than it seems]]></title>
-        <id>https://www.youtube.com/watch?v=nAT-MCsJeik</id>
-        <link href="https://www.youtube.com/watch?v=nAT-MCsJeik"/>
-        <updated>2024-11-19T19:06:45.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Εάν μιλήσω, φορολογούμαι (ASMR Horror)]]></title>
-        <id>https://www.youtube.com/watch?v=cgxZYl4xWco</id>
-        <link href="https://www.youtube.com/watch?v=cgxZYl4xWco"/>
-        <updated>2024-11-19T18:13:53.000Z</updated>
-        <author>
-            <name>NinjaCakeAssassin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vaping Is Too Good To Be True]]></title>
-        <id>https://www.youtube.com/watch?v=cHEOsKddURQ</id>
-        <link href="https://www.youtube.com/watch?v=cHEOsKddURQ"/>
-        <updated>2024-11-19T15:00:01.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>
