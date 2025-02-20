@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-19T00:41:01.825Z</id>
+    <id>urn:2025-02-20T00:41:18.952Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-19T00:41:01.825Z</updated>
+    <updated>2025-02-20T00:41:18.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Where Have All of Vegas' Neon Signs Gone?]]></title>
+        <id>https://www.youtube.com/watch?v=gAIvyFSGTK8</id>
+        <link href="https://www.youtube.com/watch?v=gAIvyFSGTK8"/>
+        <updated>2025-02-19T23:15:02.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft’s Majorana 1: A Quantum Leap]]></title>
+        <id>https://www.youtube.com/watch?v=IdMYT0feCOE</id>
+        <link href="https://www.youtube.com/watch?v=IdMYT0feCOE"/>
+        <updated>2025-02-19T23:12:58.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This technology made the f-14 possible]]></title>
+        <id>https://www.youtube.com/watch?v=Q7wjB-UQywk</id>
+        <link href="https://www.youtube.com/watch?v=Q7wjB-UQywk"/>
+        <updated>2025-02-19T16:39:13.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Satellite Images Reveal The Reality Of Saudi Arabia's $2 Trillion Megacity In The Desert]]></title>
+        <id>https://www.youtube.com/watch?v=gi24Xl2PJIc</id>
+        <link href="https://www.youtube.com/watch?v=gi24Xl2PJIc"/>
+        <updated>2025-02-19T16:00:50.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Announces First Topological Qubit for Quantum Computing #ad #quantumcomputing  #science]]></title>
+        <id>https://www.youtube.com/watch?v=6qFzY2HEDVI</id>
+        <link href="https://www.youtube.com/watch?v=6qFzY2HEDVI"/>
+        <updated>2025-02-19T16:00:11.000Z</updated>
+        <author>
+            <name>Domain of Science</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Buy Cheap Tools]]></title>
+        <id>https://www.youtube.com/watch?v=0TWp_V-Za7g</id>
+        <link href="https://www.youtube.com/watch?v=0TWp_V-Za7g"/>
+        <updated>2025-02-19T15:00:04.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We found MUD VOLCANOS!]]></title>
         <id>https://www.youtube.com/watch?v=gxY4k-pubbo</id>
@@ -483,15 +537,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#Gold is up nearly 10% in 2025. #trump #tariffs]]></title>
-        <id>https://www.youtube.com/watch?v=Dqg9-cZqVw0</id>
-        <link href="https://www.youtube.com/watch?v=Dqg9-cZqVw0"/>
-        <updated>2025-02-10T22:44:18.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SpaceX VP of Starship Engineering, Bill Riley’s description of catching the Super Heavy Booster!]]></title>
         <id>https://www.youtube.com/watch?v=FfvKpevnLng</id>
         <link href="https://www.youtube.com/watch?v=FfvKpevnLng"/>
@@ -597,15 +642,6 @@
         <updated>2025-02-08T22:58:08.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crashing 2 Machines at the Same Time]]></title>
-        <id>https://www.youtube.com/watch?v=fCkcFpz1IDg</id>
-        <link href="https://www.youtube.com/watch?v=fCkcFpz1IDg"/>
-        <updated>2025-02-08T16:00:40.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1275,16 +1311,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tesla, Amazon, Meta Behind Trump: What's Next?]]></title>
-        <id>https://www.youtube.com/watch?v=jTtNaOBuJZI</id>
-        <link href="https://www.youtube.com/watch?v=jTtNaOBuJZI"/>
-        <updated>2025-01-21T18:00:29.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Is MIT Making Robot Insects?]]></title>
+        <title type="html"><![CDATA[Why is MIT making robot insects?]]></title>
         <id>https://www.youtube.com/watch?v=H6q6pYZ9Fho</id>
         <link href="https://www.youtube.com/watch?v=H6q6pYZ9Fho"/>
         <updated>2025-01-21T16:58:06.000Z</updated>
@@ -1299,15 +1326,6 @@
         <updated>2025-01-21T16:00:19.000Z</updated>
         <author>
             <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok's Dramatic Comeback!]]></title>
-        <id>https://www.youtube.com/watch?v=coJPORCCKoQ</id>
-        <link href="https://www.youtube.com/watch?v=coJPORCCKoQ"/>
-        <updated>2025-01-21T15:53:01.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -2067,7 +2085,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Musical Instrument Took Eons To Make]]></title>
+        <title type="html"><![CDATA[This Is the Oldest, Weirdest Instrument On Earth]]></title>
         <id>https://www.youtube.com/watch?v=rjXZzB5bUAo</id>
         <link href="https://www.youtube.com/watch?v=rjXZzB5bUAo"/>
         <updated>2024-12-19T18:40:28.000Z</updated>
@@ -2571,7 +2589,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why no two people see the same rainbow]]></title>
+        <title type="html"><![CDATA[Why can't you see a rainbow looking at the Sun?]]></title>
         <id>https://www.youtube.com/watch?v=24GfgNtnjXc</id>
         <link href="https://www.youtube.com/watch?v=24GfgNtnjXc"/>
         <updated>2024-12-01T11:19:12.000Z</updated>
@@ -2793,24 +2811,6 @@
         <updated>2024-11-22T14:20:45.000Z</updated>
         <author>
             <name>NinjaCakeAssassin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Did Yankee Doodle Call This Macaroni??]]></title>
-        <id>https://www.youtube.com/watch?v=guwSz7ieOqQ</id>
-        <link href="https://www.youtube.com/watch?v=guwSz7ieOqQ"/>
-        <updated>2024-11-21T20:52:41.000Z</updated>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the protein folding problem?]]></title>
-        <id>https://www.youtube.com/watch?v=VrO9uAHN0po</id>
-        <link href="https://www.youtube.com/watch?v=VrO9uAHN0po"/>
-        <updated>2024-11-21T16:01:52.000Z</updated>
-        <author>
-            <name>Quanta Magazine</name>
         </author>
     </entry>
 </feed>
