@@ -224,16 +224,6 @@
           "wordCount": null,
           "title": "This open problem taught me what topology is",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=y9BK--OxZpY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=y9BK--OxZpY",
-          "publishedOn": "2024-11-24T17:00:57.000Z",
-          "wordCount": null,
-          "title": "The meaning within the Mandelbrot set",
-          "imageUrl": null
         }
       ]
     },
@@ -249,7 +239,7 @@
           "link": "https://www.youtube.com/watch?v=m2Ba6Mlv1LY",
           "publishedOn": "2024-12-23T15:01:01.000Z",
           "wordCount": null,
-          "title": "The most important theorem in differential geometry: Gauss-Bonnet theorem",
+          "title": "Gauss-Bonnet theorem - topology from differential geometry | Euler characteristic #3",
           "imageUrl": null
         },
         {
@@ -259,7 +249,7 @@
           "link": "https://www.youtube.com/watch?v=tAEZlKVa3Ok",
           "publishedOn": "2024-12-19T15:00:57.000Z",
           "wordCount": null,
-          "title": "Why is 4-color theorem easier on a torus?",
+          "title": "Why is 7-colour theorem on torus easier than 4-colour theorem? | Euler characteristic #2",
           "imageUrl": null
         },
         {
@@ -269,7 +259,7 @@
           "link": "https://www.youtube.com/watch?v=H6YofGjvZIQ",
           "publishedOn": "2024-12-16T15:00:15.000Z",
           "wordCount": null,
-          "title": "You are probably wrong about Euler's formula (it's an inequality!)",
+          "title": "The \"textbook exercise\" on Euler characteristic | Euler characteristic #1",
           "imageUrl": null
         }
       ]
@@ -1269,7 +1259,7 @@
           "link": "https://www.youtube.com/watch?v=Ay3_D7VgzZs",
           "publishedOn": "2025-02-21T21:27:26.000Z",
           "wordCount": null,
-          "title": "Are There Limits What Brains Can Learn?",
+          "title": "Brain’s Hidden Learning Limits",
           "imageUrl": null
         },
         {
@@ -1357,16 +1347,6 @@
           "publishedOn": "2024-12-21T16:28:50.000Z",
           "wordCount": null,
           "title": "12 3D Printing Innovations at FORMNEXT 2024",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sn-6_JQX5Wk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sn-6_JQX5Wk",
-          "publishedOn": "2024-11-24T19:59:58.000Z",
-          "wordCount": null,
-          "title": "This was Long Overdue.",
           "imageUrl": null
         }
       ]
@@ -1531,16 +1511,6 @@
           "publishedOn": "2024-11-29T14:30:04.000Z",
           "wordCount": null,
           "title": "Lewis Hamilton: Future Astronaut?! A conversation about space with an icon!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pqxKKDBLEdk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pqxKKDBLEdk",
-          "publishedOn": "2024-11-24T18:10:50.000Z",
-          "wordCount": null,
-          "title": "[4K Slow-Mo] Starship Flight 6 Supercut w/ Clean Audio",
           "imageUrl": null
         }
       ]
@@ -1805,6 +1775,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCFhXFikryT4aFcLkLw2LBLA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=BJUqekp5qwc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BJUqekp5qwc",
+          "publishedOn": "2025-02-22T17:29:28.000Z",
+          "wordCount": null,
+          "title": "This chemical reaction looks like magic",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=bfIBLROsfKQ",
           "author": null,
           "description": "",
@@ -1942,16 +1922,6 @@
           "publishedOn": "2024-12-01T17:21:20.000Z",
           "wordCount": null,
           "title": "This is the world's smokiest ball",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SomVrg951-Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SomVrg951-Q",
-          "publishedOn": "2024-11-28T18:18:09.000Z",
-          "wordCount": null,
-          "title": "Vaporizing a hot dog in acid",
           "imageUrl": null
         }
       ]
@@ -2291,16 +2261,6 @@
           "wordCount": null,
           "title": "The Backwards Brain Tractor - Smarter Every Day 305",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jDusS--bZZA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jDusS--bZZA",
-          "publishedOn": "2024-11-24T20:00:31.000Z",
-          "wordCount": null,
-          "title": "How Does 1 Percussion Cap Fire 3 Barrels? - Smarter Every Day 304",
-          "imageUrl": null
         }
       ]
     },
@@ -2450,7 +2410,7 @@
           "link": "https://www.youtube.com/watch?v=rjXZzB5bUAo",
           "publishedOn": "2024-12-19T18:40:28.000Z",
           "wordCount": null,
-          "title": "Playing The World's Oldest, Weirdest Instrument",
+          "title": "This Musical Instrument Took Eons To Make",
           "imageUrl": null
         },
         {
@@ -2480,17 +2440,7 @@
           "link": "https://www.youtube.com/watch?v=24GfgNtnjXc",
           "publishedOn": "2024-12-01T11:19:12.000Z",
           "wordCount": null,
-          "title": "Why no two people see the same rainbow",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NKG0pRwTC5A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NKG0pRwTC5A",
-          "publishedOn": "2024-11-24T20:22:23.000Z",
-          "wordCount": null,
-          "title": "How Dishwashers Actually Work",
+          "title": "Why can't you see a rainbow looking at the Sun?",
           "imageUrl": null
         }
       ]
@@ -2685,6 +2635,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCekQr9znsk2vWxBo3YiLq2w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pqbd3T_ZtnE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pqbd3T_ZtnE",
+          "publishedOn": "2025-02-22T19:20:52.000Z",
+          "wordCount": null,
+          "title": "Sous vide spaghetti                              #recipe #sousvide",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=aU3MEbMPj5M",
           "author": null,
           "description": "",
@@ -2773,16 +2733,6 @@
           "wordCount": null,
           "title": "Simple Dinner                                           #potato #dinner #pork #seaweed",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=T5k88w_UMsI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=T5k88w_UMsI",
-          "publishedOn": "2024-11-24T15:25:41.000Z",
-          "wordCount": null,
-          "title": "Twice Baked Potato: Jalapeño Bacon - You Suck at Cooking (episode 175)",
-          "imageUrl": null
         }
       ]
     },
@@ -2791,6 +2741,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=1eI9D2vvHSE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1eI9D2vvHSE",
+          "publishedOn": "2025-02-22T16:00:02.000Z",
+          "wordCount": null,
+          "title": "Amazing Wire EDM Technology",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=RAlg433lcJk",
           "author": null,
@@ -2930,16 +2890,6 @@
           "wordCount": null,
           "title": "Machining Gone Wrong 😳",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oUV-ps81lOM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oUV-ps81lOM",
-          "publishedOn": "2025-02-11T16:00:53.000Z",
-          "wordCount": null,
-          "title": "New Mitutoyo Micrometers Unboxing",
-          "imageUrl": null
         }
       ]
     },
@@ -2948,6 +2898,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=k2U6TBdVpYg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=k2U6TBdVpYg",
+          "publishedOn": "2025-02-22T22:00:27.000Z",
+          "wordCount": null,
+          "title": "The deep sea is where both people and other species must tread carefully. #deepsea #whales #ocean",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=GKcsRvT5-QE",
           "author": null,
@@ -3086,16 +3046,6 @@
           "publishedOn": "2025-02-12T22:10:07.000Z",
           "wordCount": null,
           "title": "In five hours, #Navy culinary specialists serve 150 #sailors fresh meals under the sea. #armychefs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gjcHNjq4rQU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gjcHNjq4rQU",
-          "publishedOn": "2025-02-12T22:04:18.000Z",
-          "wordCount": null,
-          "title": "#Intel is seeing a big #stock move as the biggest owner of chip-making foundries in the US. #ai",
           "imageUrl": null
         }
       ]
