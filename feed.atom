@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-25T00:41:58.813Z</id>
+    <id>urn:2025-02-26T00:41:39.857Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-25T00:41:58.813Z</updated>
+    <updated>2025-02-26T00:41:39.857Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Fastest Way To Lose]]></title>
+        <id>https://www.youtube.com/watch?v=HdX6dNIlCQI</id>
+        <link href="https://www.youtube.com/watch?v=HdX6dNIlCQI"/>
+        <updated>2025-02-26T00:28:30.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Colombian #emerald miners scavenge for tiny stones while foreign #investors reap the profits.]]></title>
+        <id>https://www.youtube.com/watch?v=3d7DB4SXiO4</id>
+        <link href="https://www.youtube.com/watch?v=3d7DB4SXiO4"/>
+        <updated>2025-02-25T22:12:36.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printed, Self Folding Origami - Thermorph]]></title>
+        <id>https://www.youtube.com/watch?v=5rnD4DyFmNs</id>
+        <link href="https://www.youtube.com/watch?v=5rnD4DyFmNs"/>
+        <updated>2025-02-25T16:39:47.000Z</updated>
+        <author>
+            <name>CNC Kitchen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNC Machine Sharpens Pencil]]></title>
+        <id>https://www.youtube.com/watch?v=blU4lk66Th8</id>
+        <link href="https://www.youtube.com/watch?v=blU4lk66Th8"/>
+        <updated>2025-02-25T16:00:40.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft's Topological Superconductor]]></title>
+        <id>https://www.youtube.com/watch?v=YvPMw6Hu5sg</id>
+        <link href="https://www.youtube.com/watch?v=YvPMw6Hu5sg"/>
+        <updated>2025-02-25T16:00:36.000Z</updated>
+        <author>
+            <name>Domain of Science</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World First as Flying Car Takes Off in City Streets]]></title>
+        <id>https://www.youtube.com/watch?v=p20oOAwgur0</id>
+        <link href="https://www.youtube.com/watch?v=p20oOAwgur0"/>
+        <updated>2025-02-25T15:01:09.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Aristarchus deduced the distance to the moon]]></title>
+        <id>https://www.youtube.com/watch?v=drmphB3rdHY</id>
+        <link href="https://www.youtube.com/watch?v=drmphB3rdHY"/>
+        <updated>2025-02-25T15:00:57.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Old-School Machinists Hate This: The Mindset That’s Revolutionizing Machining!]]></title>
+        <id>https://www.youtube.com/watch?v=HacvKrLBXYA</id>
+        <link href="https://www.youtube.com/watch?v=HacvKrLBXYA"/>
+        <updated>2025-02-25T15:00:19.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Is NOT An Anti Meat Video]]></title>
+        <id>https://www.youtube.com/watch?v=5sVfTPaxRwk</id>
+        <link href="https://www.youtube.com/watch?v=5sVfTPaxRwk"/>
+        <updated>2025-02-25T15:00:01.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[These biodegradable menstrual pads can save India from accumulating trash. #banana #menstruation]]></title>
         <id>https://www.youtube.com/watch?v=z5COibJdyXE</id>
@@ -177,7 +258,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Birdbrains Are Brilliant. Neuroscientists Agree]]></title>
+        <title type="html"><![CDATA[Birdbrains Are Brilliant. Neuroscientists Agree.]]></title>
         <id>https://www.youtube.com/watch?v=b9wyVB3rGns</id>
         <link href="https://www.youtube.com/watch?v=b9wyVB3rGns"/>
         <updated>2025-02-21T14:52:43.000Z</updated>
@@ -348,7 +429,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Announces First Topological Qubit for Quantum Computing #ad #quantumcomputing  #science]]></title>
+        <title type="html"><![CDATA[The First Topological Qubit from Microsoft]]></title>
         <id>https://www.youtube.com/watch?v=6qFzY2HEDVI</id>
         <link href="https://www.youtube.com/watch?v=6qFzY2HEDVI"/>
         <updated>2025-02-19T16:00:11.000Z</updated>
@@ -645,15 +726,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chip & Coolant Separation Made EASY]]></title>
-        <id>https://www.youtube.com/watch?v=wQw7FF2RVG4</id>
-        <link href="https://www.youtube.com/watch?v=wQw7FF2RVG4"/>
-        <updated>2025-02-14T15:01:31.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What Falling in Love Does to You #shorts]]></title>
         <id>https://www.youtube.com/watch?v=KmgRBiRMmAU</id>
         <link href="https://www.youtube.com/watch?v=KmgRBiRMmAU"/>
@@ -669,24 +741,6 @@
         <updated>2025-02-14T14:00:32.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#Robinhood #stock soars 20% on strong earnings. #crypto]]></title>
-        <id>https://www.youtube.com/watch?v=Drq9bG2Is3M</id>
-        <link href="https://www.youtube.com/watch?v=Drq9bG2Is3M"/>
-        <updated>2025-02-13T21:50:48.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SYIL X9 Arrives at TITANS of CNC]]></title>
-        <id>https://www.youtube.com/watch?v=PfO1SrR4bH8</id>
-        <link href="https://www.youtube.com/watch?v=PfO1SrR4bH8"/>
-        <updated>2025-02-13T16:00:33.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1315,15 +1369,6 @@
         <id>https://www.youtube.com/watch?v=8pEt_Z5Rizc</id>
         <link href="https://www.youtube.com/watch?v=8pEt_Z5Rizc"/>
         <updated>2025-01-25T13:00:18.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 1.7 Billion Liter Water Project That Built Israel]]></title>
-        <id>https://www.youtube.com/watch?v=5CQx_L0bRmU</id>
-        <link href="https://www.youtube.com/watch?v=5CQx_L0bRmU"/>
-        <updated>2025-01-25T10:00:05.000Z</updated>
         <author>
             <name>Interesting Engineering</name>
         </author>
@@ -2166,7 +2211,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[World's Strangest Instrument!]]></title>
+        <title type="html"><![CDATA[Playing The World's Oldest, Weirdest Instrument]]></title>
         <id>https://www.youtube.com/watch?v=rjXZzB5bUAo</id>
         <link href="https://www.youtube.com/watch?v=rjXZzB5bUAo"/>
         <updated>2024-12-19T18:40:28.000Z</updated>
@@ -2337,7 +2382,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google's New Quantum Computer Breakthrough #quantumcomputing #quantumphysics #quantum]]></title>
+        <title type="html"><![CDATA[Google's New Quantum Computer Breakthrough]]></title>
         <id>https://www.youtube.com/watch?v=PBAY_9zKusA</id>
         <link href="https://www.youtube.com/watch?v=PBAY_9zKusA"/>
         <updated>2024-12-14T13:05:28.000Z</updated>
@@ -2670,7 +2715,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why no two people see the same rainbow]]></title>
+        <title type="html"><![CDATA[Why can't you see a rainbow looking at the Sun?]]></title>
         <id>https://www.youtube.com/watch?v=24GfgNtnjXc</id>
         <link href="https://www.youtube.com/watch?v=24GfgNtnjXc"/>
         <updated>2024-12-01T11:19:12.000Z</updated>
@@ -2721,15 +2766,6 @@
         <updated>2024-11-28T18:34:32.000Z</updated>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's Climb a Ladder to Space – Will We Float or Fall? #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=ecIwfilIkTY</id>
-        <link href="https://www.youtube.com/watch?v=ecIwfilIkTY"/>
-        <updated>2024-11-28T15:00:44.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>
