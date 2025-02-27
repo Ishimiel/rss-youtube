@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-26T00:41:39.857Z</id>
+    <id>urn:2025-02-27T00:41:53.759Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-26T00:41:39.857Z</updated>
+    <updated>2025-02-27T00:41:53.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#Tesla's valuation fell below $1 trillion on Tuesday. #stocks #elonmusk]]></title>
+        <id>https://www.youtube.com/watch?v=1ppKfF7dCnU</id>
+        <link href="https://www.youtube.com/watch?v=1ppKfF7dCnU"/>
+        <updated>2025-02-26T23:08:12.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turning lead into gold (lead iodide)]]></title>
+        <id>https://www.youtube.com/watch?v=F8VYpIJjkoI</id>
+        <link href="https://www.youtube.com/watch?v=F8VYpIJjkoI"/>
+        <updated>2025-02-26T18:18:30.000Z</updated>
+        <author>
+            <name>NileRed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Dark Truth Behind Syria's Deadliest Prison | Insider Docs | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=SMqewkANMEg</id>
+        <link href="https://www.youtube.com/watch?v=SMqewkANMEg"/>
+        <updated>2025-02-26T16:00:29.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Microsoft's Exotic New Material is Made]]></title>
+        <id>https://www.youtube.com/watch?v=GPgRfe_riFI</id>
+        <link href="https://www.youtube.com/watch?v=GPgRfe_riFI"/>
+        <updated>2025-02-26T15:15:01.000Z</updated>
+        <author>
+            <name>Domain of Science</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNC Machining a $30k Custom Grill]]></title>
+        <id>https://www.youtube.com/watch?v=kwYBqT77Xjg</id>
+        <link href="https://www.youtube.com/watch?v=kwYBqT77Xjg"/>
+        <updated>2025-02-26T15:01:10.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to estimate the distance to the sun]]></title>
+        <id>https://www.youtube.com/watch?v=gzbFNnTCkqQ</id>
+        <link href="https://www.youtube.com/watch?v=gzbFNnTCkqQ"/>
+        <updated>2025-02-26T15:01:03.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Fastest Way To Lose]]></title>
         <id>https://www.youtube.com/watch?v=HdX6dNIlCQI</id>
@@ -24,7 +78,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D Printed, Self Folding Origami - Thermorph]]></title>
+        <title type="html"><![CDATA[How to 3D Print Origami That Morphs Before Your Eyes]]></title>
         <id>https://www.youtube.com/watch?v=5rnD4DyFmNs</id>
         <link href="https://www.youtube.com/watch?v=5rnD4DyFmNs"/>
         <updated>2025-02-25T16:39:47.000Z</updated>
@@ -42,7 +96,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft's Topological Superconductor]]></title>
+        <title type="html"><![CDATA[Microsoft Made a New Material to Science]]></title>
         <id>https://www.youtube.com/watch?v=YvPMw6Hu5sg</id>
         <link href="https://www.youtube.com/watch?v=YvPMw6Hu5sg"/>
         <updated>2025-02-25T16:00:36.000Z</updated>
@@ -78,7 +132,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Is NOT An Anti Meat Video]]></title>
+        <title type="html"><![CDATA[Let's Talk About Meat (Again)]]></title>
         <id>https://www.youtube.com/watch?v=5sVfTPaxRwk</id>
         <link href="https://www.youtube.com/watch?v=5sVfTPaxRwk"/>
         <updated>2025-02-25T15:00:01.000Z</updated>
@@ -609,15 +663,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Bringing Back Supersonic Is Almost Impossible | The Limit | Business Insider]]></title>
-        <id>https://www.youtube.com/watch?v=sLm9zbGoli4</id>
-        <link href="https://www.youtube.com/watch?v=sLm9zbGoli4"/>
-        <updated>2025-02-15T16:00:56.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Wire EDM makes precision punches for a stamping die]]></title>
         <id>https://www.youtube.com/watch?v=62wxuMuiBI8</id>
         <link href="https://www.youtube.com/watch?v=62wxuMuiBI8"/>
@@ -636,15 +681,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wrong Technique? Addressing the Comments]]></title>
-        <id>https://www.youtube.com/watch?v=zYKUF7EZqkM</id>
-        <link href="https://www.youtube.com/watch?v=zYKUF7EZqkM"/>
-        <updated>2025-02-15T15:01:18.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Working on my 3D modeling app - Half-Edge (UI panel resizing stuff today)]]></title>
         <id>https://www.youtube.com/watch?v=mNNjAu2AxQ4</id>
         <link href="https://www.youtube.com/watch?v=mNNjAu2AxQ4"/>
@@ -660,15 +696,6 @@
         <updated>2025-02-14T23:33:50.000Z</updated>
         <author>
             <name>Freya Holmér</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#Ancient luxury marble Grand Antique, prized by #Roman emperors, resurfaced after #centuries.]]></title>
-        <id>https://www.youtube.com/watch?v=AtfiRS8TWIw</id>
-        <link href="https://www.youtube.com/watch?v=AtfiRS8TWIw"/>
-        <updated>2025-02-14T22:58:19.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -699,7 +726,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to bowl perfectly]]></title>
+        <title type="html"><![CDATA[This Is The Perfect Bowling Strategy]]></title>
         <id>https://www.youtube.com/watch?v=mqo1lQL59VI</id>
         <link href="https://www.youtube.com/watch?v=mqo1lQL59VI"/>
         <updated>2025-02-14T16:49:48.000Z</updated>
@@ -2211,7 +2238,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Playing The World's Oldest, Weirdest Instrument]]></title>
+        <title type="html"><![CDATA[This Musical Instrument Took Eons To Make]]></title>
         <id>https://www.youtube.com/watch?v=rjXZzB5bUAo</id>
         <link href="https://www.youtube.com/watch?v=rjXZzB5bUAo"/>
         <updated>2024-12-19T18:40:28.000Z</updated>
@@ -2706,16 +2733,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This is the world's smokiest ball]]></title>
-        <id>https://www.youtube.com/watch?v=CEfYet7ogwU</id>
-        <link href="https://www.youtube.com/watch?v=CEfYet7ogwU"/>
-        <updated>2024-12-01T17:21:20.000Z</updated>
-        <author>
-            <name>NileRed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why can't you see a rainbow looking at the Sun?]]></title>
+        <title type="html"><![CDATA[Why no two people see the same rainbow]]></title>
         <id>https://www.youtube.com/watch?v=24GfgNtnjXc</id>
         <link href="https://www.youtube.com/watch?v=24GfgNtnjXc"/>
         <updated>2024-12-01T11:19:12.000Z</updated>
@@ -2757,15 +2775,6 @@
         <updated>2024-11-29T14:30:04.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Walt Disney's Hands]]></title>
-        <id>https://www.youtube.com/watch?v=fWFwArI8jZQ</id>
-        <link href="https://www.youtube.com/watch?v=fWFwArI8jZQ"/>
-        <updated>2024-11-28T18:34:32.000Z</updated>
-        <author>
-            <name>Vsauce</name>
         </author>
     </entry>
 </feed>
