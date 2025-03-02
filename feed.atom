@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-01T00:45:34.129Z</id>
+    <id>urn:2025-03-02T00:44:58.506Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-01T00:45:34.129Z</updated>
+    <updated>2025-03-02T00:44:58.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Geothermal Energy is Changing]]></title>
+        <id>https://www.youtube.com/watch?v=b_EoZzE7KJ0</id>
+        <link href="https://www.youtube.com/watch?v=b_EoZzE7KJ0"/>
+        <updated>2025-03-01T16:00:38.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Tools in 1]]></title>
+        <id>https://www.youtube.com/watch?v=TyZvHsY5-EI</id>
+        <link href="https://www.youtube.com/watch?v=TyZvHsY5-EI"/>
+        <updated>2025-03-01T16:00:29.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#Trump and #Vance got into a heated argument with #Ukraine's President Zelenskyy.]]></title>
         <id>https://www.youtube.com/watch?v=VhENu8yLgVo</id>
@@ -775,15 +793,6 @@
         <id>https://www.youtube.com/watch?v=WsKG9j09aJ0</id>
         <link href="https://www.youtube.com/watch?v=WsKG9j09aJ0"/>
         <updated>2025-02-18T16:00:35.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Mesmerizing Gear-Making Process Will Blow Your Mind]]></title>
-        <id>https://www.youtube.com/watch?v=m7D6OYAyK3E</id>
-        <link href="https://www.youtube.com/watch?v=m7D6OYAyK3E"/>
-        <updated>2025-02-18T15:01:07.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
         </author>
@@ -2310,7 +2319,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[World's Strangest Instrument!]]></title>
+        <title type="html"><![CDATA[Playing The World's Oldest, Weirdest Instrument]]></title>
         <id>https://www.youtube.com/watch?v=rjXZzB5bUAo</id>
         <link href="https://www.youtube.com/watch?v=rjXZzB5bUAo"/>
         <updated>2024-12-19T18:40:28.000Z</updated>
@@ -2784,15 +2793,6 @@
         <updated>2024-12-02T18:44:38.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Man Who Saved The World]]></title>
-        <id>https://www.youtube.com/watch?v=JyJ6K_n5bIM</id>
-        <link href="https://www.youtube.com/watch?v=JyJ6K_n5bIM"/>
-        <updated>2024-12-02T02:07:47.000Z</updated>
-        <author>
-            <name>Vsauce</name>
         </author>
     </entry>
 </feed>
