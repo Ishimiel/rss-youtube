@@ -1,17 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-03T00:43:55.255Z</id>
+    <id>urn:2025-03-04T00:42:46.687Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-03T00:43:55.255Z</updated>
+    <updated>2025-03-04T00:42:46.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[[4K] Watch Starship Flight 8, booster catch and Starship 2 test.]]></title>
+        <title type="html"><![CDATA[[SCRUBBED] [4K] Watch Starship Flight 8, booster catch and Starship 2 test.]]></title>
         <id>https://www.youtube.com/watch?v=L_4gAtrfi6w</id>
         <link href="https://www.youtube.com/watch?v=L_4gAtrfi6w"/>
-        <updated>2025-03-02T22:51:18.000Z</updated>
+        <updated>2025-03-04T00:29:20.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Saudi's "The Line" #megacity faces criticism with #carbon emissions equal to 4 years of UK output.]]></title>
+        <id>https://www.youtube.com/watch?v=PXsn8WkEonc</id>
+        <link href="https://www.youtube.com/watch?v=PXsn8WkEonc"/>
+        <updated>2025-03-03T21:00:21.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MONSTER Chuck Holds Massive Part]]></title>
+        <id>https://www.youtube.com/watch?v=o1P29MsAVF0</id>
+        <link href="https://www.youtube.com/watch?v=o1P29MsAVF0"/>
+        <updated>2025-03-03T15:01:11.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -591,15 +609,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Inside a two Michelin star restaurant. #finedining #michelinstar #themenu #thebear #losangeles]]></title>
-        <id>https://www.youtube.com/watch?v=5iaGHMbBag0</id>
-        <link href="https://www.youtube.com/watch?v=5iaGHMbBag0"/>
-        <updated>2025-02-24T00:00:04.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Creep Feed Grinding Saw Teeth]]></title>
         <id>https://www.youtube.com/watch?v=PDJTp5p4NgU</id>
         <link href="https://www.youtube.com/watch?v=PDJTp5p4NgU"/>
@@ -786,15 +795,6 @@
         <updated>2025-02-19T16:00:11.000Z</updated>
         <author>
             <name>Domain of Science</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Should Buy Cheap Tools]]></title>
-        <id>https://www.youtube.com/watch?v=0TWp_V-Za7g</id>
-        <link href="https://www.youtube.com/watch?v=0TWp_V-Za7g"/>
-        <updated>2025-02-19T15:00:04.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2328,7 +2328,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Musical Instrument Took Eons To Make]]></title>
+        <title type="html"><![CDATA[This Is the Oldest, Weirdest Instrument On Earth]]></title>
         <id>https://www.youtube.com/watch?v=rjXZzB5bUAo</id>
         <link href="https://www.youtube.com/watch?v=rjXZzB5bUAo"/>
         <updated>2024-12-19T18:40:28.000Z</updated>
@@ -2748,33 +2748,6 @@
         <updated>2024-12-04T14:43:59.000Z</updated>
         <author>
             <name>Stuff Made Here</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Plane Uses SHOCKWAVES for Lift]]></title>
-        <id>https://www.youtube.com/watch?v=aCIeMl4PL3Y</id>
-        <link href="https://www.youtube.com/watch?v=aCIeMl4PL3Y"/>
-        <updated>2024-12-03T18:30:52.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pulling the slimy DNA out of strawberries]]></title>
-        <id>https://www.youtube.com/watch?v=_94SnzaRtWc</id>
-        <link href="https://www.youtube.com/watch?v=_94SnzaRtWc"/>
-        <updated>2024-12-03T16:43:20.000Z</updated>
-        <author>
-            <name>NileRed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black Hole's Evil Twin - Gravastars Explained]]></title>
-        <id>https://www.youtube.com/watch?v=BmUZ2wp1lM8</id>
-        <link href="https://www.youtube.com/watch?v=BmUZ2wp1lM8"/>
-        <updated>2024-12-03T15:00:04.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>
