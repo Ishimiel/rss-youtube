@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-08T00:33:48.173Z</id>
+    <id>urn:2025-03-09T00:37:40.674Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-08T00:33:48.173Z</updated>
+    <updated>2025-03-09T00:37:40.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Here’s the hardest step in making a hat. #artisan #hatmaking #howitsmade]]></title>
+        <id>https://www.youtube.com/watch?v=kjJva6Gf0VQ</id>
+        <link href="https://www.youtube.com/watch?v=kjJva6Gf0VQ"/>
+        <updated>2025-03-09T00:00:37.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rollforming Roof Panels]]></title>
+        <id>https://www.youtube.com/watch?v=TSJSaDFZLTo</id>
+        <link href="https://www.youtube.com/watch?v=TSJSaDFZLTo"/>
+        <updated>2025-03-08T23:00:21.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shaping a Leather Wallet ASMR]]></title>
+        <id>https://www.youtube.com/watch?v=3HOofWdNsIY</id>
+        <link href="https://www.youtube.com/watch?v=3HOofWdNsIY"/>
+        <updated>2025-03-08T21:00:02.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What a Little Vibration Can Do]]></title>
+        <id>https://www.youtube.com/watch?v=81HJqcqYG9s</id>
+        <link href="https://www.youtube.com/watch?v=81HJqcqYG9s"/>
+        <updated>2025-03-08T19:00:04.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fried Chicken Conveyor Belt]]></title>
+        <id>https://www.youtube.com/watch?v=w8xHStCsbYM</id>
+        <link href="https://www.youtube.com/watch?v=w8xHStCsbYM"/>
+        <updated>2025-03-08T16:01:04.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Geoducks Are So Expensive | So Expensive | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=dTXT7qORWJo</id>
+        <link href="https://www.youtube.com/watch?v=dTXT7qORWJo"/>
+        <updated>2025-03-08T16:00:45.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing New HORN Insert on a Swiss Machine]]></title>
+        <id>https://www.youtube.com/watch?v=GumeE9Wl0TA</id>
+        <link href="https://www.youtube.com/watch?v=GumeE9Wl0TA"/>
+        <updated>2025-03-08T16:00:16.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ready For The Exhibition]]></title>
+        <id>https://www.youtube.com/watch?v=vVtghcKsb_E</id>
+        <link href="https://www.youtube.com/watch?v=vVtghcKsb_E"/>
+        <updated>2025-03-08T13:01:22.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A supermassive black hole at the center of our galaxy? #blackhole #physics #womeninstem]]></title>
+        <id>https://www.youtube.com/watch?v=ZmhfOfR55lw</id>
+        <link href="https://www.youtube.com/watch?v=ZmhfOfR55lw"/>
+        <updated>2025-03-08T12:37:33.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#Canada's Prime Minister said the country would impose a #tariff on American goods. #trump]]></title>
         <id>https://www.youtube.com/watch?v=hTFcQYI2miY</id>
@@ -87,7 +168,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LASERS + COPPER!]]></title>
+        <title type="html"><![CDATA[METAL! 3D Printing Copper with EOS!]]></title>
         <id>https://www.youtube.com/watch?v=qyvYGcmL_D8</id>
         <link href="https://www.youtube.com/watch?v=qyvYGcmL_D8"/>
         <updated>2025-03-07T14:01:06.000Z</updated>
@@ -393,30 +474,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#Saudi's "The Line" #megacity faces criticism with #carbon emissions equal to 4 years of UK output.]]></title>
-        <id>https://www.youtube.com/watch?v=PXsn8WkEonc</id>
-        <link href="https://www.youtube.com/watch?v=PXsn8WkEonc"/>
-        <updated>2025-03-03T21:00:21.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MONSTER Chuck Holds Massive Part]]></title>
         <id>https://www.youtube.com/watch?v=o1P29MsAVF0</id>
         <link href="https://www.youtube.com/watch?v=o1P29MsAVF0"/>
         <updated>2025-03-03T15:01:11.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Army Mountain Soldier Breaks Down Every Piece Of Gear He Takes On A Mission | Loadout]]></title>
-        <id>https://www.youtube.com/watch?v=Hc1Bdai4GA0</id>
-        <link href="https://www.youtube.com/watch?v=Hc1Bdai4GA0"/>
-        <updated>2025-03-02T16:00:26.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -807,30 +870,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[World First as Flying Car Takes Off in City Streets]]></title>
-        <id>https://www.youtube.com/watch?v=p20oOAwgur0</id>
-        <link href="https://www.youtube.com/watch?v=p20oOAwgur0"/>
-        <updated>2025-02-25T15:01:09.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Aristarchus deduced the distance to the moon]]></title>
         <id>https://www.youtube.com/watch?v=drmphB3rdHY</id>
         <link href="https://www.youtube.com/watch?v=drmphB3rdHY"/>
         <updated>2025-02-25T15:00:57.000Z</updated>
         <author>
             <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Old-School Machinists Hate This: The Mindset That’s Revolutionizing Machining!]]></title>
-        <id>https://www.youtube.com/watch?v=HacvKrLBXYA</id>
-        <link href="https://www.youtube.com/watch?v=HacvKrLBXYA"/>
-        <updated>2025-02-25T15:00:19.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -924,15 +969,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft’s Majorana 1: A Quantum Leap]]></title>
-        <id>https://www.youtube.com/watch?v=Y_uVpT2M_UM</id>
-        <link href="https://www.youtube.com/watch?v=Y_uVpT2M_UM"/>
-        <updated>2025-02-20T17:59:05.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[POV we fell in love in 2003]]></title>
         <id>https://www.youtube.com/watch?v=uyKhCeDoK4Q</id>
         <link href="https://www.youtube.com/watch?v=uyKhCeDoK4Q"/>
@@ -957,24 +993,6 @@
         <updated>2025-02-20T01:24:06.000Z</updated>
         <author>
             <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How The Strip Killed Old Vegas]]></title>
-        <id>https://www.youtube.com/watch?v=gAIvyFSGTK8</id>
-        <link href="https://www.youtube.com/watch?v=gAIvyFSGTK8"/>
-        <updated>2025-02-19T23:15:02.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft’s Majorana 1: A Quantum Leap]]></title>
-        <id>https://www.youtube.com/watch?v=IdMYT0feCOE</id>
-        <link href="https://www.youtube.com/watch?v=IdMYT0feCOE"/>
-        <updated>2025-02-19T23:12:58.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -1029,15 +1047,6 @@
         <updated>2025-02-17T18:40:08.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Singapore Needs to Drink Seawater, But How Do They Make it Safe?]]></title>
-        <id>https://www.youtube.com/watch?v=c-6xaKd94uM</id>
-        <link href="https://www.youtube.com/watch?v=c-6xaKd94uM"/>
-        <updated>2025-02-17T14:00:43.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -1968,15 +1977,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quantum Quandaries: When Philosophy Drives Physics #philosophy #physics #quantum]]></title>
-        <id>https://www.youtube.com/watch?v=300Ta4TuXjc</id>
-        <link href="https://www.youtube.com/watch?v=300Ta4TuXjc"/>
-        <updated>2025-01-10T17:24:59.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fun with Magnetism #science #technology #experiment #electrical]]></title>
         <id>https://www.youtube.com/watch?v=EQHuOwCGuy8</id>
         <link href="https://www.youtube.com/watch?v=EQHuOwCGuy8"/>
@@ -2676,15 +2676,6 @@
         <updated>2024-12-10T00:56:21.000Z</updated>
         <author>
             <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making this is gross but satisfying]]></title>
-        <id>https://www.youtube.com/watch?v=DtZdE1P45yQ</id>
-        <link href="https://www.youtube.com/watch?v=DtZdE1P45yQ"/>
-        <updated>2024-12-08T19:30:38.000Z</updated>
-        <author>
-            <name>NileRed</name>
         </author>
     </entry>
 </feed>
