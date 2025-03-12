@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-11T00:42:53.858Z</id>
+    <id>urn:2025-03-12T00:42:27.974Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-11T00:42:53.858Z</updated>
+    <updated>2025-03-12T00:42:27.974Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#Tesla #stock plunges 15% as investors worry #Musk's divided focus hurts the company.]]></title>
+        <id>https://www.youtube.com/watch?v=mNXRbs2hA5o</id>
+        <link href="https://www.youtube.com/watch?v=mNXRbs2hA5o"/>
+        <updated>2025-03-11T21:04:42.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here's how you can improve your #gut #health. #wellness]]></title>
+        <id>https://www.youtube.com/watch?v=gp-J9du6PhI</id>
+        <link href="https://www.youtube.com/watch?v=gp-J9du6PhI"/>
+        <updated>2025-03-11T19:59:49.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wire EDM Runs Parts Fully Unattended]]></title>
+        <id>https://www.youtube.com/watch?v=a3yrNz7F3ek</id>
+        <link href="https://www.youtube.com/watch?v=a3yrNz7F3ek"/>
+        <updated>2025-03-11T15:00:00.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's So EXPENSIVE to be in CNC Machining | The Real Cost]]></title>
+        <id>https://www.youtube.com/watch?v=LC6nWlqe6xE</id>
+        <link href="https://www.youtube.com/watch?v=LC6nWlqe6xE"/>
+        <updated>2025-03-11T14:00:18.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A #Louisiana #law reclassifies the pills as controlled substances. #health]]></title>
         <id>https://www.youtube.com/watch?v=PqnM4WcU71g</id>
@@ -69,7 +105,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Unexpected Mix of Anime and Hip Hop]]></title>
+        <title type="html"><![CDATA[Samurai Champloo & Hip Hop]]></title>
         <id>https://www.youtube.com/watch?v=hd-8H0sMv3U</id>
         <link href="https://www.youtube.com/watch?v=hd-8H0sMv3U"/>
         <updated>2025-03-09T18:01:31.000Z</updated>
@@ -321,15 +357,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Watch the key moments from #Trump's speech to #Congress. #politics]]></title>
-        <id>https://www.youtube.com/watch?v=9id6rG_EcDo</id>
-        <link href="https://www.youtube.com/watch?v=9id6rG_EcDo"/>
-        <updated>2025-03-05T19:41:54.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How ABB’s Technology is Powering Industries & Automating Success]]></title>
         <id>https://www.youtube.com/watch?v=IgIV-enY3bw</id>
         <link href="https://www.youtube.com/watch?v=IgIV-enY3bw"/>
@@ -381,15 +408,6 @@
         <updated>2025-03-05T02:11:10.000Z</updated>
         <author>
             <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cuba's cigar making culture hasn't changed in 200 years. #cubancigars #cigars #cuba #cubanhistory]]></title>
-        <id>https://www.youtube.com/watch?v=0ulZcOCA1kQ</id>
-        <link href="https://www.youtube.com/watch?v=0ulZcOCA1kQ"/>
-        <updated>2025-03-05T00:28:48.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -741,24 +759,6 @@
         <updated>2025-02-27T17:00:02.000Z</updated>
         <author>
             <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hammer vs Angle Grinder]]></title>
-        <id>https://www.youtube.com/watch?v=BLarla2kOL0</id>
-        <link href="https://www.youtube.com/watch?v=BLarla2kOL0"/>
-        <updated>2025-02-27T16:00:15.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Murdering Material & Hitting Tolerances of .0001? For $53K…]]></title>
-        <id>https://www.youtube.com/watch?v=m-icchyDuaA</id>
-        <link href="https://www.youtube.com/watch?v=m-icchyDuaA"/>
-        <updated>2025-02-27T15:01:07.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2667,24 +2667,6 @@
         <updated>2024-12-12T15:00:04.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Explaining Pi With Pizza]]></title>
-        <id>https://www.youtube.com/watch?v=pgGrQjYcm5A</id>
-        <link href="https://www.youtube.com/watch?v=pgGrQjYcm5A"/>
-        <updated>2024-12-11T15:00:36.000Z</updated>
-        <author>
-            <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Independence in Probability]]></title>
-        <id>https://www.youtube.com/watch?v=2nDYX8IKrwo</id>
-        <link href="https://www.youtube.com/watch?v=2nDYX8IKrwo"/>
-        <updated>2024-12-11T13:30:01.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
 </feed>
