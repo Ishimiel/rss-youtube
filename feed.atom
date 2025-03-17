@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-16T00:47:05.586Z</id>
+    <id>urn:2025-03-17T00:44:54.678Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-16T00:47:05.586Z</updated>
+    <updated>2025-03-17T00:44:54.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[I should have Organized my Workshop Years ago! (feat. Elegoo Centauri Carbon)]]></title>
+        <title type="html"><![CDATA[TINY Gauge Pin Inspection]]></title>
+        <id>https://www.youtube.com/watch?v=Xxhn1WVIF1M</id>
+        <link href="https://www.youtube.com/watch?v=Xxhn1WVIF1M"/>
+        <updated>2025-03-16T14:00:38.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Organized my Workshop with 3D Printing]]></title>
         <id>https://www.youtube.com/watch?v=RyDUATvnfA0</id>
         <link href="https://www.youtube.com/watch?v=RyDUATvnfA0"/>
         <updated>2025-03-15T16:29:22.000Z</updated>
@@ -651,15 +660,6 @@
         <updated>2025-03-05T02:11:10.000Z</updated>
         <author>
             <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polygonal Turning on a Swiss Machine]]></title>
-        <id>https://www.youtube.com/watch?v=bgMOjNItgts</id>
-        <link href="https://www.youtube.com/watch?v=bgMOjNItgts"/>
-        <updated>2025-03-04T17:15:05.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2604,42 +2604,6 @@
         <updated>2024-12-17T13:14:01.000Z</updated>
         <author>
             <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I was there! At David Blaine's newest stunt!]]></title>
-        <id>https://www.youtube.com/watch?v=iwaQaVbPjWU</id>
-        <link href="https://www.youtube.com/watch?v=iwaQaVbPjWU"/>
-        <updated>2024-12-17T03:52:09.000Z</updated>
-        <author>
-            <name>Physics Girl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024's Biggest Breakthroughs in Math]]></title>
-        <id>https://www.youtube.com/watch?v=lwVSeXswWZY</id>
-        <link href="https://www.youtube.com/watch?v=lwVSeXswWZY"/>
-        <updated>2024-12-16T17:44:01.000Z</updated>
-        <author>
-            <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Burning iron and sulfur is so satisfying]]></title>
-        <id>https://www.youtube.com/watch?v=TOAAbrWedUg</id>
-        <link href="https://www.youtube.com/watch?v=TOAAbrWedUg"/>
-        <updated>2024-12-16T17:20:00.000Z</updated>
-        <author>
-            <name>NileRed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The "textbook exercise" on Euler characteristic | Euler characteristic #1]]></title>
-        <id>https://www.youtube.com/watch?v=H6YofGjvZIQ</id>
-        <link href="https://www.youtube.com/watch?v=H6YofGjvZIQ"/>
-        <updated>2024-12-16T15:00:15.000Z</updated>
-        <author>
-            <name>Mathemaniac</name>
         </author>
     </entry>
 </feed>
