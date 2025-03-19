@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=T_2ZoMNzqHQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=T_2ZoMNzqHQ",
+          "publishedOn": "2025-03-18T16:32:36.000Z",
+          "wordCount": null,
+          "title": "The Scientist Building an 'Artificial Scientist'",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5POZT8m2FZ0",
           "author": null,
           "description": "",
@@ -93,16 +103,6 @@
           "publishedOn": "2024-12-19T15:56:38.000Z",
           "wordCount": null,
           "title": "2024's Biggest Breakthroughs in Computer Science",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=p9XHI_26cPE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=p9XHI_26cPE",
-          "publishedOn": "2024-12-19T00:37:16.000Z",
-          "wordCount": null,
-          "title": "2024's Biggest Breakthroughs in Biology and Neuroscience",
           "imageUrl": null
         }
       ]
@@ -319,6 +319,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
       "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=wo_e0EvEZn8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wo_e0EvEZn8",
+          "publishedOn": "2025-03-18T15:00:01.000Z",
+          "wordCount": null,
+          "title": "Why Your Brain Blinds You For 2 Hours Every Day",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=joYJahY4FUI",
           "author": null,
@@ -1226,6 +1236,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCCWeRTgd79JL0ilH0ZywSJA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=zp-Fk_ZiV8Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zp-Fk_ZiV8Y",
+          "publishedOn": "2025-03-18T11:01:23.000Z",
+          "wordCount": null,
+          "title": "Exploring the incredible aerodynamics of playing cards (with fog and a slomo camera)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qMArmldPId4",
           "author": null,
           "description": "",
@@ -1272,6 +1292,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR2uRTQ53V_egXKFflMMaaw",
       "siteUrl": "https://www.youtube.com/channel/UCR2uRTQ53V_egXKFflMMaaw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=laaBLUxJUMY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=laaBLUxJUMY",
+          "publishedOn": "2025-03-18T19:58:09.000Z",
+          "wordCount": null,
+          "title": "How Brains & Machines Master Probability",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Ay3_D7VgzZs",
           "author": null,
@@ -1628,13 +1658,53 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=dJ_a-hPbaKs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dJ_a-hPbaKs",
+          "publishedOn": "2025-03-18T18:00:26.000Z",
+          "wordCount": null,
+          "title": "MMT: Game-Changing Machine Gun",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vm6L1IdkUbM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vm6L1IdkUbM",
+          "publishedOn": "2025-03-18T15:01:32.000Z",
+          "wordCount": null,
+          "title": "Modern Battlefield Artillery: 155mm M777 Howitzer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6wnGapII6qk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6wnGapII6qk",
+          "publishedOn": "2025-03-18T15:00:11.000Z",
+          "wordCount": null,
+          "title": "Is Manus AI China’s Next DeepSeek Moment?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zvHO2L4-QZc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zvHO2L4-QZc",
+          "publishedOn": "2025-03-18T11:01:25.000Z",
+          "wordCount": null,
+          "title": "The Staggering Amounts of Power Needed For Stargate",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xuuo4qWhK6I",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=xuuo4qWhK6I",
           "publishedOn": "2025-03-15T16:12:19.000Z",
           "wordCount": null,
-          "title": "The True Energy Cost of AI",
+          "title": "The Hidden Power Cost of AI",
           "imageUrl": null
         },
         {
@@ -1735,46 +1805,6 @@
           "publishedOn": "2025-02-27T18:30:44.000Z",
           "wordCount": null,
           "title": "Robot Attacks Crowd",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=p20oOAwgur0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=p20oOAwgur0",
-          "publishedOn": "2025-02-25T15:01:09.000Z",
-          "wordCount": null,
-          "title": "World First as Flying Car Takes Off in City Streets",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Y_uVpT2M_UM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Y_uVpT2M_UM",
-          "publishedOn": "2025-02-20T17:59:05.000Z",
-          "wordCount": null,
-          "title": "Microsoft’s Majorana 1: A Quantum Leap",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gAIvyFSGTK8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gAIvyFSGTK8",
-          "publishedOn": "2025-02-19T23:15:02.000Z",
-          "wordCount": null,
-          "title": "How The Strip Killed Old Vegas",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IdMYT0feCOE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IdMYT0feCOE",
-          "publishedOn": "2025-02-19T23:12:58.000Z",
-          "wordCount": null,
-          "title": "Microsoft’s Majorana 1: A Quantum Leap",
           "imageUrl": null
         }
       ]
@@ -1962,16 +1992,6 @@
           "publishedOn": "2024-12-22T20:25:18.000Z",
           "wordCount": null,
           "title": "Making astronaut ice cream",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7FKOicBjYqs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7FKOicBjYqs",
-          "publishedOn": "2024-12-18T16:53:53.000Z",
-          "wordCount": null,
-          "title": "The golden penny experiment",
           "imageUrl": null
         }
       ]
@@ -2562,6 +2582,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=zllifet2GDE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zllifet2GDE",
+          "publishedOn": "2025-03-18T15:15:09.000Z",
+          "wordCount": null,
+          "title": "Why We Always Machine Dry",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1ucIlVctnVo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1ucIlVctnVo",
+          "publishedOn": "2025-03-18T14:00:01.000Z",
+          "wordCount": null,
+          "title": "World’s Toughest CNC Machines Hit Tolerances of 3 Microns (.0001)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6qZFiitZSVg",
           "author": null,
           "description": "",
@@ -2690,26 +2730,6 @@
           "wordCount": null,
           "title": "Calibrating Studer Favorit CNC Grinder",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lsiUkEyOLYE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lsiUkEyOLYE",
-          "publishedOn": "2025-03-06T16:00:50.000Z",
-          "wordCount": null,
-          "title": "Incredible Swiss Tooling",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=w90zzofWsiM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=w90zzofWsiM",
-          "publishedOn": "2025-03-06T15:01:20.000Z",
-          "wordCount": null,
-          "title": "Masterful Macro Technique for Internal Keyway Broaching",
-          "imageUrl": null
         }
       ]
     },
@@ -2718,6 +2738,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=d2TF6YdnTrU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=d2TF6YdnTrU",
+          "publishedOn": "2025-03-18T19:24:18.000Z",
+          "wordCount": null,
+          "title": "#Google buys #cybersecurity startup Wiz for $32B to boost cloud security amid #AI risks.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DY6xVKmN41U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DY6xVKmN41U",
+          "publishedOn": "2025-03-18T19:08:19.000Z",
+          "wordCount": null,
+          "title": "Here's how #Amazon's return to office policy is going. #rto #returntooffice",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=NRxJ3hHt4Ek",
           "author": null,
@@ -2846,26 +2886,6 @@
           "publishedOn": "2025-03-11T21:04:42.000Z",
           "wordCount": null,
           "title": "#Tesla #stock plunges 15% as investors worry #Musk's divided focus hurts the company.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gp-J9du6PhI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gp-J9du6PhI",
-          "publishedOn": "2025-03-11T19:59:49.000Z",
-          "wordCount": null,
-          "title": "Here's how you can improve your #gut #health. #wellness",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PqnM4WcU71g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PqnM4WcU71g",
-          "publishedOn": "2025-03-10T21:43:39.000Z",
-          "wordCount": null,
-          "title": "A #Louisiana #law reclassifies the pills as controlled substances. #health",
           "imageUrl": null
         }
       ]
