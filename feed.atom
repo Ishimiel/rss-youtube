@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-19T00:43:23.894Z</id>
+    <id>urn:2025-03-20T00:42:43.942Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-19T00:43:23.894Z</updated>
+    <updated>2025-03-20T00:42:43.942Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[How Brains & Machines Master Probability]]></title>
+        <title type="html"><![CDATA[#Supersonic #planes were banned after public outcry over the 105-decibel #sonic booms it caused.]]></title>
+        <id>https://www.youtube.com/watch?v=AIuiN-Gy81E</id>
+        <link href="https://www.youtube.com/watch?v=AIuiN-Gy81E"/>
+        <updated>2025-03-19T21:00:11.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Secret of the SCOBY]]></title>
+        <id>https://www.youtube.com/watch?v=nCZ7RoehoTU</id>
+        <link href="https://www.youtube.com/watch?v=nCZ7RoehoTU"/>
+        <updated>2025-03-19T15:01:10.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern Marvels in 3D Printing Metal]]></title>
+        <id>https://www.youtube.com/watch?v=jrzPjGVXSX4</id>
+        <link href="https://www.youtube.com/watch?v=jrzPjGVXSX4"/>
+        <updated>2025-03-19T14:15:04.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hidden Beauty Behind Generative AI]]></title>
         <id>https://www.youtube.com/watch?v=laaBLUxJUMY</id>
         <link href="https://www.youtube.com/watch?v=laaBLUxJUMY"/>
         <updated>2025-03-18T19:58:09.000Z</updated>
@@ -33,15 +60,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MMT: Game-Changing Machine Gun]]></title>
-        <id>https://www.youtube.com/watch?v=dJ_a-hPbaKs</id>
-        <link href="https://www.youtube.com/watch?v=dJ_a-hPbaKs"/>
-        <updated>2025-03-18T18:00:26.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Scientist Building an 'Artificial Scientist']]></title>
         <id>https://www.youtube.com/watch?v=T_2ZoMNzqHQ</id>
         <link href="https://www.youtube.com/watch?v=T_2ZoMNzqHQ"/>
@@ -57,15 +75,6 @@
         <updated>2025-03-18T15:15:09.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modern Battlefield Artillery: 155mm M777 Howitzer]]></title>
-        <id>https://www.youtube.com/watch?v=vm6L1IdkUbM</id>
-        <link href="https://www.youtube.com/watch?v=vm6L1IdkUbM"/>
-        <updated>2025-03-18T15:01:32.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -105,7 +114,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Exploring the incredible aerodynamics of playing cards (with fog and a slomo camera)]]></title>
+        <title type="html"><![CDATA[The surprising aerodynamics of playing cards (in super slow-mo)]]></title>
         <id>https://www.youtube.com/watch?v=zp-Fk_ZiV8Y</id>
         <link href="https://www.youtube.com/watch?v=zp-Fk_ZiV8Y"/>
         <updated>2025-03-18T11:01:23.000Z</updated>
@@ -186,7 +195,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Best 3D Printed Organizers for your Workshop]]></title>
+        <title type="html"><![CDATA[The Best 3D Printed Organizers for your Workshop (feat. Elegoo Centauri Carbon)]]></title>
         <id>https://www.youtube.com/watch?v=RyDUATvnfA0</id>
         <link href="https://www.youtube.com/watch?v=RyDUATvnfA0"/>
         <updated>2025-03-15T16:29:22.000Z</updated>
@@ -195,7 +204,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Hidden Power Cost of AI]]></title>
+        <title type="html"><![CDATA[Do We Have Enough Energy for AI?]]></title>
         <id>https://www.youtube.com/watch?v=xuuo4qWhK6I</id>
         <link href="https://www.youtube.com/watch?v=xuuo4qWhK6I"/>
         <updated>2025-03-15T16:12:19.000Z</updated>
@@ -501,15 +510,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#Tesla #stock plunges 15% as investors worry #Musk's divided focus hurts the company.]]></title>
-        <id>https://www.youtube.com/watch?v=mNXRbs2hA5o</id>
-        <link href="https://www.youtube.com/watch?v=mNXRbs2hA5o"/>
-        <updated>2025-03-11T21:04:42.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Wire EDM Runs Parts Fully Unattended]]></title>
         <id>https://www.youtube.com/watch?v=a3yrNz7F3ek</id>
         <link href="https://www.youtube.com/watch?v=a3yrNz7F3ek"/>
@@ -642,15 +642,6 @@
         <updated>2025-03-07T15:20:53.000Z</updated>
         <author>
             <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calibrating Studer Favorit CNC Grinder]]></title>
-        <id>https://www.youtube.com/watch?v=LDiadNL4_FU</id>
-        <link href="https://www.youtube.com/watch?v=LDiadNL4_FU"/>
-        <updated>2025-03-07T15:00:26.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1065,6 +1056,15 @@
         <updated>2025-02-25T16:00:36.000Z</updated>
         <author>
             <name>Domain of Science</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World First as Flying Car Takes Off in City Streets]]></title>
+        <id>https://www.youtube.com/watch?v=p20oOAwgur0</id>
+        <link href="https://www.youtube.com/watch?v=p20oOAwgur0"/>
+        <updated>2025-02-25T15:01:09.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -2550,60 +2550,6 @@
         <updated>2024-12-20T16:00:20.000Z</updated>
         <author>
             <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I built a 1,000,000,000 fps video camera to watch light move]]></title>
-        <id>https://www.youtube.com/watch?v=IaXdSGkh8Ww</id>
-        <link href="https://www.youtube.com/watch?v=IaXdSGkh8Ww"/>
-        <updated>2024-12-20T11:00:19.000Z</updated>
-        <author>
-            <name>AlphaPhoenix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eggbeater Jesus]]></title>
-        <id>https://www.youtube.com/watch?v=Pv9HuVH9BbY</id>
-        <link href="https://www.youtube.com/watch?v=Pv9HuVH9BbY"/>
-        <updated>2024-12-20T02:04:22.000Z</updated>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Is the Oldest, Weirdest Instrument On Earth]]></title>
-        <id>https://www.youtube.com/watch?v=rjXZzB5bUAo</id>
-        <link href="https://www.youtube.com/watch?v=rjXZzB5bUAo"/>
-        <updated>2024-12-19T18:40:28.000Z</updated>
-        <author>
-            <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024's Biggest Breakthroughs in Computer Science]]></title>
-        <id>https://www.youtube.com/watch?v=fTMMsreAqX0</id>
-        <link href="https://www.youtube.com/watch?v=fTMMsreAqX0"/>
-        <updated>2024-12-19T15:56:38.000Z</updated>
-        <author>
-            <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do We See the Same Colors? #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=vC9BeyIlcYo</id>
-        <link href="https://www.youtube.com/watch?v=vC9BeyIlcYo"/>
-        <updated>2024-12-19T15:01:08.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why is the "4-color theorem" easier on the torus? | Euler characteristic #2]]></title>
-        <id>https://www.youtube.com/watch?v=tAEZlKVa3Ok</id>
-        <link href="https://www.youtube.com/watch?v=tAEZlKVa3Ok"/>
-        <updated>2024-12-19T15:00:57.000Z</updated>
-        <author>
-            <name>Mathemaniac</name>
         </author>
     </entry>
 </feed>
