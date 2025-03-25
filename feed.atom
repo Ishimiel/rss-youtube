@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-24T00:45:20.718Z</id>
+    <id>urn:2025-03-25T00:44:00.360Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-24T00:45:20.718Z</updated>
+    <updated>2025-03-25T00:44:00.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Everything is in 4/4 if you try hard enough]]></title>
+        <id>https://www.youtube.com/watch?v=SZ2Q_skcBn0</id>
+        <link href="https://www.youtube.com/watch?v=SZ2Q_skcBn0"/>
+        <updated>2025-03-25T00:24:21.000Z</updated>
+        <author>
+            <name>Adam Neely</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is #SiliconValley's newest #workout trend. #rucking]]></title>
+        <id>https://www.youtube.com/watch?v=6n03S6XEZAM</id>
+        <link href="https://www.youtube.com/watch?v=6n03S6XEZAM"/>
+        <updated>2025-03-24T23:22:40.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not surprisingly, workers are not thrilled about this. #tech #techjobs #siliconvalley]]></title>
+        <id>https://www.youtube.com/watch?v=hnMZm-Dgrk8</id>
+        <link href="https://www.youtube.com/watch?v=hnMZm-Dgrk8"/>
+        <updated>2025-03-24T22:32:41.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Insider #defense reporter Jake Epstein met with an air defense unit in #Ukraine. #military]]></title>
+        <id>https://www.youtube.com/watch?v=XLYd_QGQS1U</id>
+        <link href="https://www.youtube.com/watch?v=XLYd_QGQS1U"/>
+        <updated>2025-03-24T21:11:50.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A #NewZealand cheese-maker discovers a unique blue #mold, inventing a new type of #cheese.]]></title>
+        <id>https://www.youtube.com/watch?v=jriyXjT1ofE</id>
+        <link href="https://www.youtube.com/watch?v=jriyXjT1ofE"/>
+        <updated>2025-03-24T21:07:30.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This business owner crafts custom game #footballs for the #NFL. #sports]]></title>
+        <id>https://www.youtube.com/watch?v=5DTOjpibz58</id>
+        <link href="https://www.youtube.com/watch?v=5DTOjpibz58"/>
+        <updated>2025-03-24T20:24:29.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CONSPIRACY | contrapoints]]></title>
+        <id>https://www.youtube.com/watch?v=teqkK0RLNkI</id>
+        <link href="https://www.youtube.com/watch?v=teqkK0RLNkI"/>
+        <updated>2025-03-24T18:34:09.000Z</updated>
+        <author>
+            <name>ContraPoints</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Colon #cancer is rising in young #adults. Here's are signs to look out for.]]></title>
+        <id>https://www.youtube.com/watch?v=EVnUiEV8hO8</id>
+        <link href="https://www.youtube.com/watch?v=EVnUiEV8hO8"/>
+        <updated>2025-03-24T18:17:52.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Riddle That Seems Impossible Even If You Know The Answer]]></title>
+        <id>https://www.youtube.com/watch?v=DCiPrr-dQyw</id>
+        <link href="https://www.youtube.com/watch?v=DCiPrr-dQyw"/>
+        <updated>2025-03-24T15:46:32.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNC Machining Greatness]]></title>
+        <id>https://www.youtube.com/watch?v=zUHGQXJ3nd4</id>
+        <link href="https://www.youtube.com/watch?v=zUHGQXJ3nd4"/>
+        <updated>2025-03-24T14:01:23.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Conformal Mappings and the Local Inverse | Complex Variables]]></title>
         <id>https://www.youtube.com/watch?v=sTjZZaLwhkE</id>
@@ -249,15 +339,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Here's how #Amazon's return to office policy is going. #rto #returntooffice]]></title>
-        <id>https://www.youtube.com/watch?v=DY6xVKmN41U</id>
-        <link href="https://www.youtube.com/watch?v=DY6xVKmN41U"/>
-        <updated>2025-03-18T19:08:19.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Build an 'Artificial Scientist']]></title>
         <id>https://www.youtube.com/watch?v=T_2ZoMNzqHQ</id>
         <link href="https://www.youtube.com/watch?v=T_2ZoMNzqHQ"/>
@@ -321,42 +402,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[At this #Pakistan #shipyard, workers risk death dismantling toxic #cruise ships.]]></title>
-        <id>https://www.youtube.com/watch?v=NRxJ3hHt4Ek</id>
-        <link href="https://www.youtube.com/watch?v=NRxJ3hHt4Ek"/>
-        <updated>2025-03-17T22:12:49.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A #French scientist warns a vital #cheese mold nears #extinction after century of cloning.]]></title>
-        <id>https://www.youtube.com/watch?v=9TVB8s6zjdI</id>
-        <link href="https://www.youtube.com/watch?v=9TVB8s6zjdI"/>
-        <updated>2025-03-17T22:04:31.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#Trump places 1,300+ #Voice of #America staff on leave.]]></title>
-        <id>https://www.youtube.com/watch?v=o_d3hR4XlBU</id>
-        <link href="https://www.youtube.com/watch?v=o_d3hR4XlBU"/>
-        <updated>2025-03-17T21:53:57.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The strikes were ordered in retaliation to #Houthi attacks on American ships. #military #yemen]]></title>
-        <id>https://www.youtube.com/watch?v=29YZRG35oPE</id>
-        <link href="https://www.youtube.com/watch?v=29YZRG35oPE"/>
-        <updated>2025-03-17T20:20:02.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[3D Printing EYEBALLS with MIMAKI!]]></title>
         <id>https://www.youtube.com/watch?v=2vxpNmBn85M</id>
         <link href="https://www.youtube.com/watch?v=2vxpNmBn85M"/>
@@ -417,15 +462,6 @@
         <updated>2025-03-15T15:00:54.000Z</updated>
         <author>
             <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You're Being Lied To About 5G | Truth Complex | Business Insider]]></title>
-        <id>https://www.youtube.com/watch?v=bP66ZPXIFP4</id>
-        <link href="https://www.youtube.com/watch?v=bP66ZPXIFP4"/>
-        <updated>2025-03-15T15:00:48.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -640,15 +676,6 @@
         <id>https://www.youtube.com/watch?v=yjOtBYCpPZg</id>
         <link href="https://www.youtube.com/watch?v=yjOtBYCpPZg"/>
         <updated>2025-03-12T14:01:13.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wire EDM Runs Parts Fully Unattended]]></title>
-        <id>https://www.youtube.com/watch?v=a3yrNz7F3ek</id>
-        <link href="https://www.youtube.com/watch?v=a3yrNz7F3ek"/>
-        <updated>2025-03-11T15:00:00.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
         </author>
@@ -2487,24 +2514,6 @@
         <updated>2024-12-26T14:11:09.000Z</updated>
         <author>
             <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The inscribed square problem]]></title>
-        <id>https://www.youtube.com/watch?v=LuVUnd0C07U</id>
-        <link href="https://www.youtube.com/watch?v=LuVUnd0C07U"/>
-        <updated>2024-12-24T18:46:12.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This open problem taught me what topology is]]></title>
-        <id>https://www.youtube.com/watch?v=IQqtsm-bBRU</id>
-        <link href="https://www.youtube.com/watch?v=IQqtsm-bBRU"/>
-        <updated>2024-12-24T17:50:32.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
         </author>
     </entry>
 </feed>
