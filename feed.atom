@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-29T00:43:25.432Z</id>
+    <id>urn:2025-03-30T00:48:57.352Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-29T00:43:25.433Z</updated>
+    <updated>2025-03-30T00:48:57.352Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Turning children's glue into drinkable alcohol]]></title>
+        <id>https://www.youtube.com/watch?v=QzP3vx8XadU</id>
+        <link href="https://www.youtube.com/watch?v=QzP3vx8XadU"/>
+        <updated>2025-03-29T21:33:19.000Z</updated>
+        <author>
+            <name>NileRed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visualizing High Voltage #experiment #science #electronics #funny]]></title>
+        <id>https://www.youtube.com/watch?v=Z_ubhyYgu5Y</id>
+        <link href="https://www.youtube.com/watch?v=Z_ubhyYgu5Y"/>
+        <updated>2025-03-29T15:51:23.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EATING 304 Stainless Steel]]></title>
+        <id>https://www.youtube.com/watch?v=oiE82a9LM88</id>
+        <link href="https://www.youtube.com/watch?v=oiE82a9LM88"/>
+        <updated>2025-03-29T14:01:02.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Follow An Adventurer To Vail As She Carves Her Path Through Colorado’s Iconic Ski Slopes]]></title>
         <id>https://www.youtube.com/watch?v=GbPUgTN-paY</id>
@@ -384,7 +411,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bambu Lab H2D Review – The 3D Printer That’s Not Just a 3D Printer!]]></title>
+        <title type="html"><![CDATA[I Tested the Bambu Lab H2D – And It’s More Than I Expected…]]></title>
         <id>https://www.youtube.com/watch?v=dYJNZ4euuFk</id>
         <link href="https://www.youtube.com/watch?v=dYJNZ4euuFk"/>
         <updated>2025-03-25T14:21:13.000Z</updated>
@@ -678,15 +705,6 @@
         <updated>2025-03-17T19:00:01.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy St. Patrick's Day ☘️]]></title>
-        <id>https://www.youtube.com/watch?v=6qZFiitZSVg</id>
-        <link href="https://www.youtube.com/watch?v=6qZFiitZSVg"/>
-        <updated>2025-03-17T14:00:13.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2391,15 +2409,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Astable Multi Vibrator #science #experiment #Funny]]></title>
-        <id>https://www.youtube.com/watch?v=RC2lR0Rle5k</id>
-        <link href="https://www.youtube.com/watch?v=RC2lR0Rle5k"/>
-        <updated>2025-01-08T17:11:37.000Z</updated>
-        <author>
-            <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Slomo of my resonance machine #physics #slowmo]]></title>
         <id>https://www.youtube.com/watch?v=VSMGcDRGLeI</id>
         <link href="https://www.youtube.com/watch?v=VSMGcDRGLeI"/>
@@ -2523,15 +2532,6 @@
         <updated>2024-12-31T20:35:29.000Z</updated>
         <author>
             <name>Adam Neely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monge's Theorem]]></title>
-        <id>https://www.youtube.com/watch?v=zxOK2vKVfQM</id>
-        <link href="https://www.youtube.com/watch?v=zxOK2vKVfQM"/>
-        <updated>2024-12-29T16:00:54.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
         </author>
     </entry>
 </feed>
