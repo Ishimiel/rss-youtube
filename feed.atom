@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-03T00:43:53.049Z</id>
+    <id>urn:2025-04-04T00:43:55.380Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-03T00:43:53.049Z</updated>
+    <updated>2025-04-04T00:43:55.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Experts say #Trump's #tariffs are fueling fears of a #recession.]]></title>
+        <id>https://www.youtube.com/watch?v=r4diT2073mM</id>
+        <link href="https://www.youtube.com/watch?v=r4diT2073mM"/>
+        <updated>2025-04-03T22:32:02.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hobby Cooking]]></title>
+        <id>https://www.youtube.com/watch?v=M26uz0BayDw</id>
+        <link href="https://www.youtube.com/watch?v=M26uz0BayDw"/>
+        <updated>2025-04-03T21:44:48.000Z</updated>
+        <author>
+            <name>You Suck At Cooking</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The #Ghibli AI trend boosted #Microsoft's profits as #ChatGPT gained 1 million users in an hour.]]></title>
+        <id>https://www.youtube.com/watch?v=lV3pF1BWec4</id>
+        <link href="https://www.youtube.com/watch?v=lV3pF1BWec4"/>
+        <updated>2025-04-03T21:06:29.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here's the real reason egg prices have reached a record average of $6 a dozen. #birdflu #eggs #cows]]></title>
+        <id>https://www.youtube.com/watch?v=k0JZBqnTUoQ</id>
+        <link href="https://www.youtube.com/watch?v=k0JZBqnTUoQ"/>
+        <updated>2025-04-03T18:48:12.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measure + Fail #experiment #electronics #science #funny]]></title>
+        <id>https://www.youtube.com/watch?v=czgTn7UK7A0</id>
+        <link href="https://www.youtube.com/watch?v=czgTn7UK7A0"/>
+        <updated>2025-04-03T15:59:05.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Most Useful Wire EDM Upgrade?]]></title>
+        <id>https://www.youtube.com/watch?v=XGjo6LyVIBs</id>
+        <link href="https://www.youtube.com/watch?v=XGjo6LyVIBs"/>
+        <updated>2025-04-03T15:00:46.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Real Reason Eggs Are More Expensive Than Ever | So Expensive | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=O-j2dhQdk44</id>
+        <link href="https://www.youtube.com/watch?v=O-j2dhQdk44"/>
+        <updated>2025-04-03T15:00:24.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Human Programmer vs AI CNC Programmer]]></title>
+        <id>https://www.youtube.com/watch?v=C-jsM9LvbQQ</id>
+        <link href="https://www.youtube.com/watch?v=C-jsM9LvbQQ"/>
+        <updated>2025-04-03T14:00:13.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AC Shadows - Ιερά Εξέταση]]></title>
+        <id>https://www.youtube.com/watch?v=Bhad5CiyliM</id>
+        <link href="https://www.youtube.com/watch?v=Bhad5CiyliM"/>
+        <updated>2025-04-03T11:41:44.000Z</updated>
+        <author>
+            <name>NinjaCakeAssassin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PioCreat3D Halot-X1 LIVE!]]></title>
+        <id>https://www.youtube.com/watch?v=i6qeeZ0ATTA</id>
+        <link href="https://www.youtube.com/watch?v=i6qeeZ0ATTA"/>
+        <updated>2025-04-03T06:16:14.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#Tesla said the decline is due to changes in production lines ahead of the new #ModelY. #elonmusk]]></title>
         <id>https://www.youtube.com/watch?v=2SNwsfc6RVo</id>
@@ -21,15 +111,6 @@
         <updated>2025-04-02T21:49:06.000Z</updated>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PioCreat3D Halot-X1 LIVE!]]></title>
-        <id>https://www.youtube.com/watch?v=i6qeeZ0ATTA</id>
-        <link href="https://www.youtube.com/watch?v=i6qeeZ0ATTA"/>
-        <updated>2025-04-02T21:11:20.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
         </author>
     </entry>
     <entry>
@@ -195,7 +276,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Mystery of Impact Flashes - Smarter Every Day 307]]></title>
+        <title type="html"><![CDATA[The Unsolved Mystery of Impact Flashes - Smarter Every Day 307]]></title>
         <id>https://www.youtube.com/watch?v=8nilP--GFLY</id>
         <link href="https://www.youtube.com/watch?v=8nilP--GFLY"/>
         <updated>2025-03-31T15:19:15.000Z</updated>
@@ -204,7 +285,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I finally find action principle satisfying]]></title>
+        <title type="html"><![CDATA[Action principle and Noether's theorem are finally satisfying]]></title>
         <id>https://www.youtube.com/watch?v=Ohrl3S2wcBU</id>
         <link href="https://www.youtube.com/watch?v=Ohrl3S2wcBU"/>
         <updated>2025-03-31T14:00:32.000Z</updated>
@@ -222,7 +303,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Adults Got Hooked On Toys | Big Business | Business Insider]]></title>
+        <title type="html"><![CDATA[How Toys Are Designed For Adult Collectors | Big Business | Business Insider]]></title>
         <id>https://www.youtube.com/watch?v=B4OnUQEfDhA</id>
         <link href="https://www.youtube.com/watch?v=B4OnUQEfDhA"/>
         <updated>2025-03-30T15:00:16.000Z</updated>
@@ -303,48 +384,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Here's what happened when we tried the #viral #AshtonHall morning routine. #morningroutine]]></title>
-        <id>https://www.youtube.com/watch?v=AQ2IC6KoCio</id>
-        <link href="https://www.youtube.com/watch?v=AQ2IC6KoCio"/>
-        <updated>2025-03-28T21:49:16.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Average Person Attempts The Viral Ashton Hall Morning Routine | Business Insider]]></title>
-        <id>https://www.youtube.com/watch?v=FzSTJq_fpv0</id>
-        <link href="https://www.youtube.com/watch?v=FzSTJq_fpv0"/>
-        <updated>2025-03-28T21:30:09.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Are Space and Time Created by Quantum Error Correction?]]></title>
         <id>https://www.youtube.com/watch?v=XbL64sz8dQI</id>
         <link href="https://www.youtube.com/watch?v=XbL64sz8dQI"/>
         <updated>2025-03-28T20:00:06.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A 7.7-magnitude #earthquake hit #Myanmar and #Thailand.]]></title>
-        <id>https://www.youtube.com/watch?v=OUHXHhlymWw</id>
-        <link href="https://www.youtube.com/watch?v=OUHXHhlymWw"/>
-        <updated>2025-03-28T18:51:15.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#WarrenBuffett is now the sixth #richest person on the planet. #finance]]></title>
-        <id>https://www.youtube.com/watch?v=0hoetbRTmr8</id>
-        <link href="https://www.youtube.com/watch?v=0hoetbRTmr8"/>
-        <updated>2025-03-28T16:09:04.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -636,15 +681,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CNC Machining Super Duplex 2507]]></title>
-        <id>https://www.youtube.com/watch?v=LyxS0rEHik0</id>
-        <link href="https://www.youtube.com/watch?v=LyxS0rEHik0"/>
-        <updated>2025-03-23T14:00:30.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Exponential Distribution: Time Between Poisson Events]]></title>
         <id>https://www.youtube.com/watch?v=C7V3d2yB58U</id>
         <link href="https://www.youtube.com/watch?v=C7V3d2yB58U"/>
@@ -669,15 +705,6 @@
         <updated>2025-03-22T14:31:36.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unboxing Quick Change Live Tools]]></title>
-        <id>https://www.youtube.com/watch?v=mIOp-txcFEs</id>
-        <link href="https://www.youtube.com/watch?v=mIOp-txcFEs"/>
-        <updated>2025-03-22T14:00:54.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2427,15 +2454,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fun with Magnetism #science #technology #experiment #electrical]]></title>
-        <id>https://www.youtube.com/watch?v=EQHuOwCGuy8</id>
-        <link href="https://www.youtube.com/watch?v=EQHuOwCGuy8"/>
-        <updated>2025-01-10T17:19:50.000Z</updated>
-        <author>
-            <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I made a glowing radioactive alligator]]></title>
         <id>https://www.youtube.com/watch?v=egYGL1yCrS4</id>
         <link href="https://www.youtube.com/watch?v=egYGL1yCrS4"/>
@@ -2523,33 +2541,6 @@
         <updated>2025-01-06T15:37:38.000Z</updated>
         <author>
             <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Your Brain Chooses What to Remember]]></title>
-        <id>https://www.youtube.com/watch?v=ceFFEmkxTLg</id>
-        <link href="https://www.youtube.com/watch?v=ceFFEmkxTLg"/>
-        <updated>2025-01-04T07:28:22.000Z</updated>
-        <author>
-            <name>Artem Kirsanov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Long Could You Live In The ISS If Earth Was Destroyed?]]></title>
-        <id>https://www.youtube.com/watch?v=D4qXsq7g6-k</id>
-        <link href="https://www.youtube.com/watch?v=D4qXsq7g6-k"/>
-        <updated>2025-01-03T22:59:26.000Z</updated>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sungazer - Paydushko Horo [Bass Play-through]]]></title>
-        <id>https://www.youtube.com/watch?v=0_ao2g8jfQs</id>
-        <link href="https://www.youtube.com/watch?v=0_ao2g8jfQs"/>
-        <updated>2025-01-03T16:25:14.000Z</updated>
-        <author>
-            <name>Adam Neely</name>
         </author>
     </entry>
 </feed>
