@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-04T00:43:55.380Z</id>
+    <id>urn:2025-04-05T00:43:16.204Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-04T00:43:55.380Z</updated>
+    <updated>2025-04-05T00:43:16.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Man Who Flew Before The Wright Brothers]]></title>
+        <id>https://www.youtube.com/watch?v=4LDZCpCNGxM</id>
+        <link href="https://www.youtube.com/watch?v=4LDZCpCNGxM"/>
+        <updated>2025-04-05T00:30:01.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World's Fastest Civilian Plane Breaks Sound Barrier]]></title>
+        <id>https://www.youtube.com/watch?v=l3_o5oCJVe8</id>
+        <link href="https://www.youtube.com/watch?v=l3_o5oCJVe8"/>
+        <updated>2025-04-04T21:00:42.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magigoo and Drywise LIVE!]]></title>
+        <id>https://www.youtube.com/watch?v=hur1tWEnRzI</id>
+        <link href="https://www.youtube.com/watch?v=hur1tWEnRzI"/>
+        <updated>2025-04-04T20:06:40.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Once #cheap at 25 cents, #geoducks now cost $30 per pound, with millions spent shipping to #China.]]></title>
+        <id>https://www.youtube.com/watch?v=JcDcCh0jJq0</id>
+        <link href="https://www.youtube.com/watch?v=JcDcCh0jJq0"/>
+        <updated>2025-04-04T16:12:35.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fennesz & Charles Atlas: The Mathematics of Consciousness Closing Performance]]></title>
+        <id>https://www.youtube.com/watch?v=6QNZKv5gOTM</id>
+        <link href="https://www.youtube.com/watch?v=6QNZKv5gOTM"/>
+        <updated>2025-04-04T14:05:07.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNC Grinding Custom Cutting Tools]]></title>
+        <id>https://www.youtube.com/watch?v=8D31kTA0bRA</id>
+        <link href="https://www.youtube.com/watch?v=8D31kTA0bRA"/>
+        <updated>2025-04-04T14:00:13.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Experts say #Trump's #tariffs are fueling fears of a #recession.]]></title>
         <id>https://www.youtube.com/watch?v=r4diT2073mM</id>
@@ -60,7 +114,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Real Reason Eggs Are More Expensive Than Ever | So Expensive | Business Insider]]></title>
+        <title type="html"><![CDATA[Why Cows Are Making Eggs More Expensive | So Expensive | Business Insider]]></title>
         <id>https://www.youtube.com/watch?v=O-j2dhQdk44</id>
         <link href="https://www.youtube.com/watch?v=O-j2dhQdk44"/>
         <updated>2025-04-03T15:00:24.000Z</updated>
@@ -285,7 +339,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Action principle and Noether's theorem are finally satisfying]]></title>
+        <title type="html"><![CDATA[I finally find least action principle satisfying]]></title>
         <id>https://www.youtube.com/watch?v=Ohrl3S2wcBU</id>
         <link href="https://www.youtube.com/watch?v=Ohrl3S2wcBU"/>
         <updated>2025-03-31T14:00:32.000Z</updated>
@@ -303,7 +357,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Toys Are Designed For Adult Collectors | Big Business | Business Insider]]></title>
+        <title type="html"><![CDATA[Why Adults Are Spending Billions On Toys For Themselves | Big Business | Business Insider]]></title>
         <id>https://www.youtube.com/watch?v=B4OnUQEfDhA</id>
         <link href="https://www.youtube.com/watch?v=B4OnUQEfDhA"/>
         <updated>2025-03-30T15:00:16.000Z</updated>
@@ -363,15 +417,6 @@
         <updated>2025-03-29T14:01:02.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Follow An Adventurer To Vail As She Carves Her Path Through Colorado’s Iconic Ski Slopes]]></title>
-        <id>https://www.youtube.com/watch?v=GbPUgTN-paY</id>
-        <link href="https://www.youtube.com/watch?v=GbPUgTN-paY"/>
-        <updated>2025-03-28T23:10:19.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -663,15 +708,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CNC Machining Greatness]]></title>
-        <id>https://www.youtube.com/watch?v=zUHGQXJ3nd4</id>
-        <link href="https://www.youtube.com/watch?v=zUHGQXJ3nd4"/>
-        <updated>2025-03-24T14:01:23.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Conformal Mappings and the Local Inverse | Complex Variables]]></title>
         <id>https://www.youtube.com/watch?v=sTjZZaLwhkE</id>
         <link href="https://www.youtube.com/watch?v=sTjZZaLwhkE"/>
@@ -816,15 +852,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Staggering Amounts of Power Needed For Stargate]]></title>
-        <id>https://www.youtube.com/watch?v=zvHO2L4-QZc</id>
-        <link href="https://www.youtube.com/watch?v=zvHO2L4-QZc"/>
-        <updated>2025-03-18T11:01:25.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What makes a flying card STOP flying?]]></title>
         <id>https://www.youtube.com/watch?v=zp-Fk_ZiV8Y</id>
         <link href="https://www.youtube.com/watch?v=zp-Fk_ZiV8Y"/>
@@ -858,15 +885,6 @@
         <updated>2025-03-15T16:29:22.000Z</updated>
         <author>
             <name>CNC Kitchen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI vs Climate: The Biggest Problem with AI!]]></title>
-        <id>https://www.youtube.com/watch?v=xuuo4qWhK6I</id>
-        <link href="https://www.youtube.com/watch?v=xuuo4qWhK6I"/>
-        <updated>2025-03-15T16:12:19.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -1261,15 +1279,6 @@
         <id>https://www.youtube.com/watch?v=16_84SMPmTw</id>
         <link href="https://www.youtube.com/watch?v=16_84SMPmTw"/>
         <updated>2025-02-28T18:09:54.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slowspin | Ragas Live Festival 2024]]></title>
-        <id>https://www.youtube.com/watch?v=-AprQ3x9-44</id>
-        <link href="https://www.youtube.com/watch?v=-AprQ3x9-44"/>
-        <updated>2025-02-28T18:09:46.000Z</updated>
         <author>
             <name>Pioneer Works</name>
         </author>
@@ -1992,15 +2001,6 @@
         <updated>2025-02-03T14:00:16.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prusa Core One LIVE from Hawaii!]]></title>
-        <id>https://www.youtube.com/watch?v=gouq4JrjKXk</id>
-        <link href="https://www.youtube.com/watch?v=gouq4JrjKXk"/>
-        <updated>2025-02-03T02:46:50.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
         </author>
     </entry>
     <entry>
