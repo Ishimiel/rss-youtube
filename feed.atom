@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-12T00:43:39.454Z</id>
+    <id>urn:2025-04-13T02:11:25.619Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-12T00:43:39.454Z</updated>
+    <updated>2025-04-13T02:11:25.619Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#TomBrady and others convinced #NFL to change the rules to use their own broken in #footballs.]]></title>
+        <id>https://www.youtube.com/watch?v=_YprkiR8wBA</id>
+        <link href="https://www.youtube.com/watch?v=_YprkiR8wBA"/>
+        <updated>2025-04-12T16:00:47.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Story of the Ingenious Engineering behind the H2D w/ Dr. Tao]]></title>
+        <id>https://www.youtube.com/watch?v=dGP-pr3tEts</id>
+        <link href="https://www.youtube.com/watch?v=dGP-pr3tEts"/>
+        <updated>2025-04-12T15:29:29.000Z</updated>
+        <author>
+            <name>CNC Kitchen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Fresh Yuzu Is So Expensive In The US | So Expensive | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=rBA6jcA_1Y4</id>
+        <link href="https://www.youtube.com/watch?v=rBA6jcA_1Y4"/>
+        <updated>2025-04-12T15:01:15.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In-Process Laser Checks CNC Parts while Machining]]></title>
+        <id>https://www.youtube.com/watch?v=PloRvUabCe8</id>
+        <link href="https://www.youtube.com/watch?v=PloRvUabCe8"/>
+        <updated>2025-04-12T14:00:27.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Sewing Machine War of the 1850s]]></title>
         <id>https://www.youtube.com/watch?v=MF43N2gvMYk</id>
@@ -330,24 +366,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This #titanium SR-71 broke records, making it one of the #fastest #aircraft of all time.]]></title>
-        <id>https://www.youtube.com/watch?v=AD5-xyS5zKs</id>
-        <link href="https://www.youtube.com/watch?v=AD5-xyS5zKs"/>
-        <updated>2025-04-07T22:30:00.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Five #financial influencers share practical tips for staying calm during a #recession. #money]]></title>
-        <id>https://www.youtube.com/watch?v=kVMdXPHmnPQ</id>
-        <link href="https://www.youtube.com/watch?v=kVMdXPHmnPQ"/>
-        <updated>2025-04-07T22:03:32.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Introducing the Fractional Derivative: the Caputo definition]]></title>
         <id>https://www.youtube.com/watch?v=5zH1MAeBcqg</id>
         <link href="https://www.youtube.com/watch?v=5zH1MAeBcqg"/>
@@ -568,15 +586,6 @@
         <id>https://www.youtube.com/watch?v=f-fkm0M4V5Q</id>
         <link href="https://www.youtube.com/watch?v=f-fkm0M4V5Q"/>
         <updated>2025-04-01T15:05:00.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tiny Part Trick: Bigger Material, Huge Savings]]></title>
-        <id>https://www.youtube.com/watch?v=APpFe7AYung</id>
-        <link href="https://www.youtube.com/watch?v=APpFe7AYung"/>
-        <updated>2025-04-01T14:00:09.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
         </author>
@@ -2469,42 +2478,6 @@
         <updated>2025-01-13T15:04:38.000Z</updated>
         <author>
             <name>NinjaCakeAssassin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SCRUBBED] Watch Blue Origin Launch New Glenn For The First Time!]]></title>
-        <id>https://www.youtube.com/watch?v=1D8ymH0cHoQ</id>
-        <link href="https://www.youtube.com/watch?v=1D8ymH0cHoQ"/>
-        <updated>2025-01-13T08:30:42.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[John Myung at home]]></title>
-        <id>https://www.youtube.com/watch?v=tE-8-P5gFII</id>
-        <link href="https://www.youtube.com/watch?v=tE-8-P5gFII"/>
-        <updated>2025-01-12T19:00:54.000Z</updated>
-        <author>
-            <name>Adam Neely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Euler's Disk]]></title>
-        <id>https://www.youtube.com/watch?v=Q8M3Il0Zv68</id>
-        <link href="https://www.youtube.com/watch?v=Q8M3Il0Zv68"/>
-        <updated>2025-01-12T18:59:33.000Z</updated>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's new with Flight 7's massively upgraded Starship?!?]]></title>
-        <id>https://www.youtube.com/watch?v=eQZbi8HBRcQ</id>
-        <link href="https://www.youtube.com/watch?v=eQZbi8HBRcQ"/>
-        <updated>2025-01-12T14:30:00.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
         </author>
     </entry>
 </feed>
