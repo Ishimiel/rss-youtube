@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-19T00:42:52.800Z</id>
+    <id>urn:2025-04-20T00:50:15.943Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-19T00:42:52.800Z</updated>
+    <updated>2025-04-20T00:50:15.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Many #Americans are worried about the #economy. Here's the #psychology behind our financial fears.]]></title>
+        <id>https://www.youtube.com/watch?v=wqMF9V_mDVk</id>
+        <link href="https://www.youtube.com/watch?v=wqMF9V_mDVk"/>
+        <updated>2025-04-19T23:21:39.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Pantone Colors Are So Expensive | So Expensive | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=xnpyTNK4U9U</id>
+        <link href="https://www.youtube.com/watch?v=xnpyTNK4U9U"/>
+        <updated>2025-04-19T15:01:31.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Americans are gearing up for #Easter. Here's how much they're #spending.]]></title>
+        <id>https://www.youtube.com/watch?v=sm3y7UoGf1k</id>
+        <link href="https://www.youtube.com/watch?v=sm3y7UoGf1k"/>
+        <updated>2025-04-19T14:09:57.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Precision Surface Check]]></title>
+        <id>https://www.youtube.com/watch?v=oVZU6xQA_FA</id>
+        <link href="https://www.youtube.com/watch?v=oVZU6xQA_FA"/>
+        <updated>2025-04-19T14:01:24.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Stop a Submarine]]></title>
+        <id>https://www.youtube.com/watch?v=jiWtrVL4tmA</id>
+        <link href="https://www.youtube.com/watch?v=jiWtrVL4tmA"/>
+        <updated>2025-04-19T14:01:00.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I SCARED iJustine!]]></title>
+        <id>https://www.youtube.com/watch?v=2DLQGX2n7jQ</id>
+        <link href="https://www.youtube.com/watch?v=2DLQGX2n7jQ"/>
+        <updated>2025-04-19T01:01:18.000Z</updated>
+        <author>
+            <name>Physics Girl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Did NASA really lose the original tapes of the first Apollo moon landing?!?]]></title>
         <id>https://www.youtube.com/watch?v=KKNNS-PlRyc</id>
@@ -303,15 +357,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Here's what surprised our #food reporter about visiting #Hooters post-bankruptcy. #restaurant]]></title>
-        <id>https://www.youtube.com/watch?v=b1t5W9LLih8</id>
-        <link href="https://www.youtube.com/watch?v=b1t5W9LLih8"/>
-        <updated>2025-04-14T18:52:13.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to ACTUALLY Use an Oscilloscope (Beginner-Friendly Guide!)]]></title>
         <id>https://www.youtube.com/watch?v=LaY47Qrfs0c</id>
         <link href="https://www.youtube.com/watch?v=LaY47Qrfs0c"/>
@@ -339,30 +384,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#Oil used to be called black gold. Now, it's cathode active material. #electricvehicle #evs]]></title>
-        <id>https://www.youtube.com/watch?v=qnZhf1crV9U</id>
-        <link href="https://www.youtube.com/watch?v=qnZhf1crV9U"/>
-        <updated>2025-04-14T13:31:50.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DO NOT PRINT THIS on the Bambu H2D]]></title>
         <id>https://www.youtube.com/watch?v=W4Pmj-nDIX8</id>
         <link href="https://www.youtube.com/watch?v=W4Pmj-nDIX8"/>
         <updated>2025-04-14T13:00:50.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Truck Drivers In India Navigate One Of The Most Dangerous Roads In The World | Risky Business]]></title>
-        <id>https://www.youtube.com/watch?v=ITZpJY6K4wk</id>
-        <link href="https://www.youtube.com/watch?v=ITZpJY6K4wk"/>
-        <updated>2025-04-13T15:00:21.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -393,7 +420,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Ingenious Engineering behind the H2D /w Dr. Tao]]></title>
+        <title type="html"><![CDATA[Why did Bambu Lab put a Laser on their 3D printer]]></title>
         <id>https://www.youtube.com/watch?v=dGP-pr3tEts</id>
         <link href="https://www.youtube.com/watch?v=dGP-pr3tEts"/>
         <updated>2025-04-12T15:29:29.000Z</updated>
@@ -633,15 +660,6 @@
         <updated>2025-04-07T15:57:13.000Z</updated>
         <author>
             <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are G & M Codes?]]></title>
-        <id>https://www.youtube.com/watch?v=RINcgjmhhvs</id>
-        <link href="https://www.youtube.com/watch?v=RINcgjmhhvs"/>
-        <updated>2025-04-07T14:00:27.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2469,15 +2487,6 @@
         <updated>2025-01-20T15:00:12.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4-Momentum and Mass-Energy Equivalence | Special Relativity]]></title>
-        <id>https://www.youtube.com/watch?v=exhukNb2AuU</id>
-        <link href="https://www.youtube.com/watch?v=exhukNb2AuU"/>
-        <updated>2025-01-19T23:36:32.000Z</updated>
-        <author>
-            <name>Faculty of Khan</name>
         </author>
     </entry>
 </feed>
