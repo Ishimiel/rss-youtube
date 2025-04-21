@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-20T00:50:15.943Z</id>
+    <id>urn:2025-04-21T00:49:16.620Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-20T00:50:15.943Z</updated>
+    <updated>2025-04-21T00:49:16.620Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to measure nearby galaxies]]></title>
+        <id>https://www.youtube.com/watch?v=aQwEJKWATlE</id>
+        <link href="https://www.youtube.com/watch?v=aQwEJKWATlE"/>
+        <updated>2025-04-20T19:36:10.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crystal Clear Grinding Oil]]></title>
+        <id>https://www.youtube.com/watch?v=gw-eMDO0awg</id>
+        <link href="https://www.youtube.com/watch?v=gw-eMDO0awg"/>
+        <updated>2025-04-20T14:01:02.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardioids in Coffee Cups - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=hKpa9ntjgeo</id>
+        <link href="https://www.youtube.com/watch?v=hKpa9ntjgeo"/>
+        <updated>2025-04-20T13:01:10.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Many #Americans are worried about the #economy. Here's the #psychology behind our financial fears.]]></title>
         <id>https://www.youtube.com/watch?v=wqMF9V_mDVk</id>
@@ -420,7 +447,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why did Bambu Lab put a Laser on their 3D printer]]></title>
+        <title type="html"><![CDATA[Why is the Bambu Lab H2D not bigger?]]></title>
         <id>https://www.youtube.com/watch?v=dGP-pr3tEts</id>
         <link href="https://www.youtube.com/watch?v=dGP-pr3tEts"/>
         <updated>2025-04-12T15:29:29.000Z</updated>
@@ -613,15 +640,6 @@
         <id>https://www.youtube.com/watch?v=gxpc9rrZKqs</id>
         <link href="https://www.youtube.com/watch?v=gxpc9rrZKqs"/>
         <updated>2025-04-08T15:01:02.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside Italy’s Factory of 5-Axis CNC Giants]]></title>
-        <id>https://www.youtube.com/watch?v=RK16c0by0mE</id>
-        <link href="https://www.youtube.com/watch?v=RK16c0by0mE"/>
-        <updated>2025-04-08T14:04:02.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
         </author>
@@ -2469,24 +2487,6 @@
         <updated>2025-01-21T16:00:19.000Z</updated>
         <author>
             <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Snakey Hexomino (unsolved Tic-Tac-Toe problem) - Numberphile]]></title>
-        <id>https://www.youtube.com/watch?v=ouTE-GYGIA8</id>
-        <link href="https://www.youtube.com/watch?v=ouTE-GYGIA8"/>
-        <updated>2025-01-20T15:49:09.000Z</updated>
-        <author>
-            <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4K Slow-Mo] Starship Flight 7 Launch & Catch // Clean Audio SUPER CUT!]]></title>
-        <id>https://www.youtube.com/watch?v=C1XAbl19quk</id>
-        <link href="https://www.youtube.com/watch?v=C1XAbl19quk"/>
-        <updated>2025-01-20T15:00:12.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
         </author>
     </entry>
 </feed>
