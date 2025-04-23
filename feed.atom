@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-22T00:45:21.584Z</id>
+    <id>urn:2025-04-23T00:45:17.549Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-22T00:45:21.584Z</updated>
+    <updated>2025-04-23T00:45:17.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Here are 6 things to look out for after the Tesla earnings drop. #tesla #earnings #elonmusk]]></title>
+        <id>https://www.youtube.com/watch?v=9oFoAN0-8P8</id>
+        <link href="https://www.youtube.com/watch?v=9oFoAN0-8P8"/>
+        <updated>2025-04-22T18:33:23.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why we put spiders on soccer balls]]></title>
+        <id>https://www.youtube.com/watch?v=4LYlMqBXTJI</id>
+        <link href="https://www.youtube.com/watch?v=4LYlMqBXTJI"/>
+        <updated>2025-04-22T16:41:43.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feel The Pulse Of Houston's Afrobeats Scene With An Emerging Artist | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=a4RxLqT384c</id>
+        <link href="https://www.youtube.com/watch?v=a4RxLqT384c"/>
+        <updated>2025-04-22T16:00:00.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secret Machinist Stone Cleaning Hack]]></title>
+        <id>https://www.youtube.com/watch?v=G5_9NWXqN7g</id>
+        <link href="https://www.youtube.com/watch?v=G5_9NWXqN7g"/>
+        <updated>2025-04-22T15:00:20.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Certificate and Masters Degree in Machine Learning and Artificial Intelligence for Engineering!!]]></title>
+        <id>https://www.youtube.com/watch?v=_BFM-tJ0W30</id>
+        <link href="https://www.youtube.com/watch?v=_BFM-tJ0W30"/>
+        <updated>2025-04-22T14:01:02.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlock Lightning-Fast Machining with These Unknown G-Codes]]></title>
+        <id>https://www.youtube.com/watch?v=YRXo54p2TZs</id>
+        <link href="https://www.youtube.com/watch?v=YRXo54p2TZs"/>
+        <updated>2025-04-22T14:00:49.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Time Machine Broke - At The Worst Time In History]]></title>
+        <id>https://www.youtube.com/watch?v=NYNBAxDfgrY</id>
+        <link href="https://www.youtube.com/watch?v=NYNBAxDfgrY"/>
+        <updated>2025-04-22T14:00:01.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pope Francis died just over 12 years after assuming the papacy. #popefrancis #pope #vatican]]></title>
         <id>https://www.youtube.com/watch?v=4UhCFi9G-ig</id>
@@ -357,24 +420,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Here are nutrient-rich foods you can add to your grocery list. #groceries #brainhealth #budget]]></title>
-        <id>https://www.youtube.com/watch?v=0gH9qNaHHJE</id>
-        <link href="https://www.youtube.com/watch?v=0gH9qNaHHJE"/>
-        <updated>2025-04-15T21:15:58.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How #Mattel's #Barbie faced challenges in the #toy market.]]></title>
-        <id>https://www.youtube.com/watch?v=y55_KgFts2Q</id>
-        <link href="https://www.youtube.com/watch?v=y55_KgFts2Q"/>
-        <updated>2025-04-15T16:01:30.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Making glowing nylon goo]]></title>
         <id>https://www.youtube.com/watch?v=zqa4QQLn17g</id>
         <link href="https://www.youtube.com/watch?v=zqa4QQLn17g"/>
@@ -420,7 +465,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Biggest Misconception In Physics]]></title>
+        <title type="html"><![CDATA[The Biggest Misconception in Physics]]></title>
         <id>https://www.youtube.com/watch?v=lcjdwSY2AzM</id>
         <link href="https://www.youtube.com/watch?v=lcjdwSY2AzM"/>
         <updated>2025-04-14T16:31:04.000Z</updated>
@@ -465,7 +510,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Happens Inside a Nuclear Meltdown?]]></title>
+        <title type="html"><![CDATA[Why a Nuclear Meltdown Can't Be Stopped!]]></title>
         <id>https://www.youtube.com/watch?v=gH3Wlhwy_2E</id>
         <link href="https://www.youtube.com/watch?v=gH3Wlhwy_2E"/>
         <updated>2025-04-13T08:00:51.000Z</updated>
@@ -591,15 +636,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MIND BLOWING Infinite B Axis  Next Generation Technology]]></title>
-        <id>https://www.youtube.com/watch?v=iVo5Ea6yc8g</id>
-        <link href="https://www.youtube.com/watch?v=iVo5Ea6yc8g"/>
-        <updated>2025-04-10T14:01:06.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Your Spacesuit Fails – What Now? #shorts]]></title>
         <id>https://www.youtube.com/watch?v=eGU9Bvl7VvQ</id>
         <link href="https://www.youtube.com/watch?v=eGU9Bvl7VvQ"/>
@@ -624,15 +660,6 @@
         <updated>2025-04-09T21:00:15.000Z</updated>
         <author>
             <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CNC Mill Destroys Broken Copycat Vise]]></title>
-        <id>https://www.youtube.com/watch?v=5sUVJ1kW2JM</id>
-        <link href="https://www.youtube.com/watch?v=5sUVJ1kW2JM"/>
-        <updated>2025-04-09T14:00:06.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2469,15 +2496,6 @@
         <updated>2025-01-23T15:00:40.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Freezing my hand in hot ice]]></title>
-        <id>https://www.youtube.com/watch?v=8up289SwkCY</id>
-        <link href="https://www.youtube.com/watch?v=8up289SwkCY"/>
-        <updated>2025-01-22T18:17:55.000Z</updated>
-        <author>
-            <name>NileRed</name>
         </author>
     </entry>
 </feed>
