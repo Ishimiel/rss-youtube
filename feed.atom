@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-24T00:45:37.534Z</id>
+    <id>urn:2025-04-25T00:45:58.400Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-24T00:45:37.534Z</updated>
+    <updated>2025-04-25T00:45:58.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Future of Life, Death, and Genetic Engineering]]></title>
+        <id>https://www.youtube.com/watch?v=YLZkP0ro1TA</id>
+        <link href="https://www.youtube.com/watch?v=YLZkP0ro1TA"/>
+        <updated>2025-04-24T22:25:02.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robot Hand With A Sense of Touch]]></title>
+        <id>https://www.youtube.com/watch?v=wf6RryukffE</id>
+        <link href="https://www.youtube.com/watch?v=wf6RryukffE"/>
+        <updated>2025-04-24T21:00:56.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Microsoft offers #employees a choice: take a 16-week payout or risk #termination.]]></title>
+        <id>https://www.youtube.com/watch?v=jWB0JU0uF8M</id>
+        <link href="https://www.youtube.com/watch?v=jWB0JU0uF8M"/>
+        <updated>2025-04-24T20:28:12.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Chinese factories are going viral claiming to be #luxury brands' manufacturers as #tariffs rise.]]></title>
+        <id>https://www.youtube.com/watch?v=W7OmksuiIpU</id>
+        <link href="https://www.youtube.com/watch?v=W7OmksuiIpU"/>
+        <updated>2025-04-24T19:44:46.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How ThredUp Resells 17 Million Garments Every Year | AI in Action | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=MdaP0HnzGuo</id>
+        <link href="https://www.youtube.com/watch?v=MdaP0HnzGuo"/>
+        <updated>2025-04-24T17:00:33.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Connection Between the Exponential Distribution and the Poisson Process]]></title>
+        <id>https://www.youtube.com/watch?v=OWYGlwy0lkI</id>
+        <link href="https://www.youtube.com/watch?v=OWYGlwy0lkI"/>
+        <updated>2025-04-24T15:30:12.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Internal power struggles among Pete Hegseth's team create chaos at the #Pentagon. #government]]></title>
+        <id>https://www.youtube.com/watch?v=Z_WKV6oTnyc</id>
+        <link href="https://www.youtube.com/watch?v=Z_WKV6oTnyc"/>
+        <updated>2025-04-24T15:03:34.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNC Machining a Part Ejector for a Swiss Machine]]></title>
+        <id>https://www.youtube.com/watch?v=pPl8bqNZkfM</id>
+        <link href="https://www.youtube.com/watch?v=pPl8bqNZkfM"/>
+        <updated>2025-04-24T15:01:22.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Legendary Drummer Plays World's First 1-Piece Machined Snare Drum]]></title>
+        <id>https://www.youtube.com/watch?v=t8coS4cduTY</id>
+        <link href="https://www.youtube.com/watch?v=t8coS4cduTY"/>
+        <updated>2025-04-24T14:01:20.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#LEGO rebuilt it's success by reconnecting with #fans of all ages. #toy]]></title>
         <id>https://www.youtube.com/watch?v=p01M6SbjXas</id>
@@ -24,7 +105,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The EVIL Shining on Sunscreen]]></title>
+        <title type="html"><![CDATA[Did You Know that Sunscreen....]]></title>
         <id>https://www.youtube.com/watch?v=4I5XzbkNx7o</id>
         <link href="https://www.youtube.com/watch?v=4I5XzbkNx7o"/>
         <updated>2025-04-23T17:15:00.000Z</updated>
@@ -240,7 +321,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[China’s Plan to Dominate the Sea]]></title>
+        <title type="html"><![CDATA[China’s Plan to Block All Submarines]]></title>
         <id>https://www.youtube.com/watch?v=jiWtrVL4tmA</id>
         <link href="https://www.youtube.com/watch?v=jiWtrVL4tmA"/>
         <updated>2025-04-19T14:01:00.000Z</updated>
@@ -280,15 +361,6 @@
         <id>https://www.youtube.com/watch?v=qkxk__t5lkU</id>
         <link href="https://www.youtube.com/watch?v=qkxk__t5lkU"/>
         <updated>2025-04-18T18:59:10.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is what happens when #Marine #recruits fall short during boot camp. #marines]]></title>
-        <id>https://www.youtube.com/watch?v=RDBDQA6En60</id>
-        <link href="https://www.youtube.com/watch?v=RDBDQA6En60"/>
-        <updated>2025-04-18T16:01:07.000Z</updated>
         <author>
             <name>Business Insider</name>
         </author>
@@ -366,24 +438,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#SonnyAngel buyers have less than a 1% chance of finding the rarest figures. #toys #blindboxes]]></title>
-        <id>https://www.youtube.com/watch?v=mY6U8VN5dIo</id>
-        <link href="https://www.youtube.com/watch?v=mY6U8VN5dIo"/>
-        <updated>2025-04-17T20:00:25.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#TikTok faces an uncertain future as #Chinese leadership tightens grip despite #US pressure to sell.]]></title>
-        <id>https://www.youtube.com/watch?v=8SrHac0ykxk</id>
-        <link href="https://www.youtube.com/watch?v=8SrHac0ykxk"/>
-        <updated>2025-04-17T19:16:53.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ballast Operation Failures #experiment #electrical #funny]]></title>
         <id>https://www.youtube.com/watch?v=uASY_3OWFPY</id>
         <link href="https://www.youtube.com/watch?v=uASY_3OWFPY"/>
@@ -399,15 +453,6 @@
         <updated>2025-04-17T18:57:26.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Marine Recruits Survive Boot Camp In San Diego | Boot Camp | Business Insider]]></title>
-        <id>https://www.youtube.com/watch?v=8LoaGxCFsGQ</id>
-        <link href="https://www.youtube.com/watch?v=8LoaGxCFsGQ"/>
-        <updated>2025-04-17T18:00:05.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -573,15 +618,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In-Process Laser Checks CNC Parts while Machining]]></title>
-        <id>https://www.youtube.com/watch?v=PloRvUabCe8</id>
-        <link href="https://www.youtube.com/watch?v=PloRvUabCe8"/>
-        <updated>2025-04-12T14:00:27.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Sewing Machine War of the 1850s]]></title>
         <id>https://www.youtube.com/watch?v=MF43N2gvMYk</id>
         <link href="https://www.youtube.com/watch?v=MF43N2gvMYk"/>
@@ -615,15 +651,6 @@
         <updated>2025-04-11T15:01:01.000Z</updated>
         <author>
             <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machining 15 Operations in 11 Seconds]]></title>
-        <id>https://www.youtube.com/watch?v=0z0T0XH-UIY</id>
-        <link href="https://www.youtube.com/watch?v=0z0T0XH-UIY"/>
-        <updated>2025-04-11T14:00:02.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -942,15 +969,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Have Humanoid Robots Gone Too Far?]]></title>
-        <id>https://www.youtube.com/watch?v=zRfEhPnkfHE</id>
-        <link href="https://www.youtube.com/watch?v=zRfEhPnkfHE"/>
-        <updated>2025-03-30T08:00:52.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Turning children's glue into drinkable alcohol]]></title>
         <id>https://www.youtube.com/watch?v=QzP3vx8XadU</id>
         <link href="https://www.youtube.com/watch?v=QzP3vx8XadU"/>
@@ -1027,15 +1045,6 @@
         <id>https://www.youtube.com/watch?v=bI6jXdl5HUg</id>
         <link href="https://www.youtube.com/watch?v=bI6jXdl5HUg"/>
         <updated>2025-03-28T14:00:46.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When It Comes to AI, the Facts Won’t Save Us, but Imagination Might]]></title>
-        <id>https://www.youtube.com/watch?v=PJ_govk_vlg</id>
-        <link href="https://www.youtube.com/watch?v=PJ_govk_vlg"/>
-        <updated>2025-03-28T14:00:34.000Z</updated>
         <author>
             <name>Pioneer Works</name>
         </author>
@@ -2478,24 +2487,6 @@
         <updated>2025-01-26T13:12:06.000Z</updated>
         <author>
             <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dianna stands for the first time in 2 years!]]></title>
-        <id>https://www.youtube.com/watch?v=2ntx91cOYEc</id>
-        <link href="https://www.youtube.com/watch?v=2ntx91cOYEc"/>
-        <updated>2025-01-24T22:05:50.000Z</updated>
-        <author>
-            <name>Physics Girl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I made 2 crabs fighting on earth]]></title>
-        <id>https://www.youtube.com/watch?v=ybWxnluucrE</id>
-        <link href="https://www.youtube.com/watch?v=ybWxnluucrE"/>
-        <updated>2025-01-24T16:01:04.000Z</updated>
-        <author>
-            <name>North of the Border</name>
         </author>
     </entry>
 </feed>
