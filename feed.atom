@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-26T00:44:11.804Z</id>
+    <id>urn:2025-04-27T00:50:24.504Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-26T00:44:11.804Z</updated>
+    <updated>2025-04-27T00:50:24.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Most Dangerous Building in Manhattan]]></title>
+        <id>https://www.youtube.com/watch?v=Q56PMJbCFXQ</id>
+        <link href="https://www.youtube.com/watch?v=Q56PMJbCFXQ"/>
+        <updated>2025-04-26T20:07:58.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Παίζω Dark Souls 3 για να νιώσω κάτι]]></title>
+        <id>https://www.youtube.com/watch?v=11xUpAmrLf0</id>
+        <link href="https://www.youtube.com/watch?v=11xUpAmrLf0"/>
+        <updated>2025-04-26T15:46:57.000Z</updated>
+        <author>
+            <name>NinjaCakeAssassin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machinist Drops Grinding Wheel and Grinds Mirror Finish]]></title>
+        <id>https://www.youtube.com/watch?v=Npp-mw7yS9A</id>
+        <link href="https://www.youtube.com/watch?v=Npp-mw7yS9A"/>
+        <updated>2025-04-26T14:00:36.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calculus of Variations: an Animated Introduction!]]></title>
+        <id>https://www.youtube.com/watch?v=W2-EbTdxJe8</id>
+        <link href="https://www.youtube.com/watch?v=W2-EbTdxJe8"/>
+        <updated>2025-04-26T12:10:38.000Z</updated>
+        <author>
+            <name>Faculty of Khan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Where the Sea Ends, the Sky Begins: Navigating Cosmic Mysteries]]></title>
         <id>https://www.youtube.com/watch?v=OIOuOViHB5M</id>
@@ -577,15 +613,6 @@
         <id>https://www.youtube.com/watch?v=pYkGYR8D5Rs</id>
         <link href="https://www.youtube.com/watch?v=pYkGYR8D5Rs"/>
         <updated>2025-04-15T15:25:01.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Technique Changed Mold Making Forever]]></title>
-        <id>https://www.youtube.com/watch?v=Ar7kCPSYz98</id>
-        <link href="https://www.youtube.com/watch?v=Ar7kCPSYz98"/>
-        <updated>2025-04-15T14:00:11.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
         </author>
@@ -1311,7 +1338,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I spent weeks throwing cards into smoke to understand flight]]></title>
+        <title type="html"><![CDATA[The surprising aerodynamics of playing cards (super slomo)]]></title>
         <id>https://www.youtube.com/watch?v=zp-Fk_ZiV8Y</id>
         <link href="https://www.youtube.com/watch?v=zp-Fk_ZiV8Y"/>
         <updated>2025-03-18T11:01:23.000Z</updated>
@@ -2469,33 +2496,6 @@
         <updated>2025-01-28T19:17:22.000Z</updated>
         <author>
             <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deriving the Relativistic Doppler Effect and Relativistic Aberration of Light]]></title>
-        <id>https://www.youtube.com/watch?v=VlhgVMnmrdE</id>
-        <link href="https://www.youtube.com/watch?v=VlhgVMnmrdE"/>
-        <updated>2025-01-26T19:26:28.000Z</updated>
-        <author>
-            <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everyone's WRONG about the BENCHY BAN! (Printables #3DBenchy takedowns explained)]]></title>
-        <id>https://www.youtube.com/watch?v=P7BhMKqIkig</id>
-        <link href="https://www.youtube.com/watch?v=P7BhMKqIkig"/>
-        <updated>2025-01-26T16:00:18.000Z</updated>
-        <author>
-            <name>Zack Freedman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Slightly Bungled Mersenne Prime Origin Story - Numberphile]]></title>
-        <id>https://www.youtube.com/watch?v=IFTBOUaUClE</id>
-        <link href="https://www.youtube.com/watch?v=IFTBOUaUClE"/>
-        <updated>2025-01-26T13:12:06.000Z</updated>
-        <author>
-            <name>Numberphile</name>
         </author>
     </entry>
 </feed>
