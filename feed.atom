@@ -1,12 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-28T00:48:26.441Z</id>
+    <id>urn:2025-04-29T00:45:57.839Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-28T00:48:26.441Z</updated>
+    <updated>2025-04-29T00:45:57.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[This Startup Says It's Made The First Biodegradable Sneaker — And Most Others Are Fake]]></title>
+        <title type="html"><![CDATA[Watch The FIRST Batch of Amazon Kuiper Satellites Launch!]]></title>
+        <id>https://www.youtube.com/watch?v=_he20zjJZTw</id>
+        <link href="https://www.youtube.com/watch?v=_he20zjJZTw"/>
+        <updated>2025-04-28T23:39:37.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The #blackout disrupted #Spain's #economy, bringing public transportation and businesses to a halt.]]></title>
+        <id>https://www.youtube.com/watch?v=wmzm81vp09M</id>
+        <link href="https://www.youtube.com/watch?v=wmzm81vp09M"/>
+        <updated>2025-04-28T20:33:50.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Flight Attendants Are Trained for Fires, Disasters, and Chaos | Big Business | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=B76i7EaKtWA</id>
+        <link href="https://www.youtube.com/watch?v=B76i7EaKtWA"/>
+        <updated>2025-04-28T15:48:27.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machinist Reacts to Machine Crash]]></title>
+        <id>https://www.youtube.com/watch?v=jkGPTlxdWVI</id>
+        <link href="https://www.youtube.com/watch?v=jkGPTlxdWVI"/>
+        <updated>2025-04-28T14:01:10.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Most "Biodegradable" Products Are Probably Fake | World Wide Waste | Business Insider]]></title>
         <id>https://www.youtube.com/watch?v=SxUkMG2Io4w</id>
         <link href="https://www.youtube.com/watch?v=SxUkMG2Io4w"/>
         <updated>2025-04-27T15:00:44.000Z</updated>
@@ -33,7 +69,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We've Started Digging Deep!]]></title>
+        <title type="html"><![CDATA[How Deep Drilling Could Solve the Energy Crisis Forever]]></title>
         <id>https://www.youtube.com/watch?v=zc51xDAuPYk</id>
         <link href="https://www.youtube.com/watch?v=zc51xDAuPYk"/>
         <updated>2025-04-27T08:01:00.000Z</updated>
@@ -150,7 +186,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Future of Life, Death, and Genetic Engineering]]></title>
+        <title type="html"><![CDATA[Scientific Controversies: Engineering A Cure]]></title>
         <id>https://www.youtube.com/watch?v=YLZkP0ro1TA</id>
         <link href="https://www.youtube.com/watch?v=YLZkP0ro1TA"/>
         <updated>2025-04-24T22:25:02.000Z</updated>
@@ -438,24 +474,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Pantone Colors Are So Expensive | So Expensive | Business Insider]]></title>
-        <id>https://www.youtube.com/watch?v=xnpyTNK4U9U</id>
-        <link href="https://www.youtube.com/watch?v=xnpyTNK4U9U"/>
-        <updated>2025-04-19T15:01:31.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#Americans are gearing up for #Easter. Here's how much they're #spending.]]></title>
-        <id>https://www.youtube.com/watch?v=sm3y7UoGf1k</id>
-        <link href="https://www.youtube.com/watch?v=sm3y7UoGf1k"/>
-        <updated>2025-04-19T14:09:57.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Precision Surface Check]]></title>
         <id>https://www.youtube.com/watch?v=oVZU6xQA_FA</id>
         <link href="https://www.youtube.com/watch?v=oVZU6xQA_FA"/>
@@ -586,15 +604,6 @@
         <id>https://www.youtube.com/watch?v=P8-c2rwupJQ</id>
         <link href="https://www.youtube.com/watch?v=P8-c2rwupJQ"/>
         <updated>2025-04-17T15:00:41.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built a Waterjet Facility, Because They Couldn’t Get Parts]]></title>
-        <id>https://www.youtube.com/watch?v=gj0vWpt843w</id>
-        <link href="https://www.youtube.com/watch?v=gj0vWpt843w"/>
-        <updated>2025-04-17T14:01:03.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
         </author>
@@ -1347,7 +1356,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The surprising aerodynamics of playing cards (super slomo)]]></title>
+        <title type="html"><![CDATA[Making a playing card FLY (ultra slomo)]]></title>
         <id>https://www.youtube.com/watch?v=zp-Fk_ZiV8Y</id>
         <link href="https://www.youtube.com/watch?v=zp-Fk_ZiV8Y"/>
         <updated>2025-03-18T11:01:23.000Z</updated>
@@ -2487,24 +2496,6 @@
         <updated>2025-01-29T16:15:00.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zucchini Love                                           #relatable #zucchini #love]]></title>
-        <id>https://www.youtube.com/watch?v=vFEoRu84Gho</id>
-        <link href="https://www.youtube.com/watch?v=vFEoRu84Gho"/>
-        <updated>2025-01-28T19:18:09.000Z</updated>
-        <author>
-            <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Super Glue Is Perfect For Gluing Skin]]></title>
-        <id>https://www.youtube.com/watch?v=Ni82f1-cAXg</id>
-        <link href="https://www.youtube.com/watch?v=Ni82f1-cAXg"/>
-        <updated>2025-01-28T19:17:22.000Z</updated>
-        <author>
-            <name>Veritasium</name>
         </author>
     </entry>
 </feed>
