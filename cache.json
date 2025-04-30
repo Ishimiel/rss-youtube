@@ -306,7 +306,7 @@
           "link": "https://www.youtube.com/watch?v=UjAJ2jKH_QM",
           "publishedOn": "2025-04-17T14:00:44.000Z",
           "wordCount": null,
-          "title": "Why Do We Itch? #shorts",
+          "title": "Why Do We Itch?",
           "imageUrl": null
         },
         {
@@ -316,7 +316,7 @@
           "link": "https://www.youtube.com/watch?v=eGU9Bvl7VvQ",
           "publishedOn": "2025-04-10T14:01:02.000Z",
           "wordCount": null,
-          "title": "Your Spacesuit Fails – What Now? #shorts",
+          "title": "Your Spacesuit Fails – What Now?",
           "imageUrl": null
         },
         {
@@ -336,7 +336,7 @@
           "link": "https://www.youtube.com/watch?v=PHI07XtbfVA",
           "publishedOn": "2025-03-27T15:00:36.000Z",
           "wordCount": null,
-          "title": "Bird Flu Simulator #shorts",
+          "title": "Bird Flu Simulator",
           "imageUrl": null
         },
         {
@@ -356,7 +356,7 @@
           "link": "https://www.youtube.com/watch?v=joYJahY4FUI",
           "publishedOn": "2025-03-13T15:01:01.000Z",
           "wordCount": null,
-          "title": "What If Continents and Oceans Switched Places? #shorts",
+          "title": "What If Continents and Oceans Switched Places?",
           "imageUrl": null
         },
         {
@@ -366,7 +366,7 @@
           "link": "https://www.youtube.com/watch?v=FPZuklD9eRg",
           "publishedOn": "2025-03-06T15:00:30.000Z",
           "wordCount": null,
-          "title": "How Radioactive Are Your Teeth? #shorts",
+          "title": "How Radioactive Are Your Teeth?",
           "imageUrl": null
         },
         {
@@ -386,7 +386,7 @@
           "link": "https://www.youtube.com/watch?v=XQQkHLW8b3Y",
           "publishedOn": "2025-02-20T15:00:44.000Z",
           "wordCount": null,
-          "title": "How to Clean Up Space Debris #shorts",
+          "title": "How to Clean Up Space Debris",
           "imageUrl": null
         },
         {
@@ -396,7 +396,7 @@
           "link": "https://www.youtube.com/watch?v=KmgRBiRMmAU",
           "publishedOn": "2025-02-14T15:00:23.000Z",
           "wordCount": null,
-          "title": "What Falling in Love Does to You #shorts",
+          "title": "What Falling in Love Does to You",
           "imageUrl": null
         },
         {
@@ -416,7 +416,7 @@
           "link": "https://www.youtube.com/watch?v=RLEvo3I5C6w",
           "publishedOn": "2025-01-30T15:00:35.000Z",
           "wordCount": null,
-          "title": "How Chicken Heads Stopped Rabies #shorts",
+          "title": "How Chicken Heads Stopped Rabies",
           "imageUrl": null
         }
       ]
@@ -426,6 +426,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
       "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=9IIcHAJlcWc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9IIcHAJlcWc",
+          "publishedOn": "2025-04-29T17:30:04.000Z",
+          "wordCount": null,
+          "title": "The Gamma Distribution",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=OWYGlwy0lkI",
           "author": null,
@@ -524,16 +534,6 @@
           "publishedOn": "2025-02-01T18:45:01.000Z",
           "wordCount": null,
           "title": "Bernoulli and Binomial Random Variables",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-7QG2itL1u4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-7QG2itL1u4",
-          "publishedOn": "2025-01-29T16:15:00.000Z",
-          "wordCount": null,
-          "title": "Random Variables and Probability Distributions",
           "imageUrl": null
         }
       ]
@@ -677,16 +677,6 @@
           "publishedOn": "2025-02-01T20:05:30.000Z",
           "wordCount": null,
           "title": "Why Gravity is Spacetime Curvature: Introducing General Relativity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Bmz0PmTSTCM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Bmz0PmTSTCM",
-          "publishedOn": "2025-01-30T03:13:05.000Z",
-          "wordCount": null,
-          "title": "Introduction to General Relativity",
           "imageUrl": null
         }
       ]
@@ -1518,16 +1508,6 @@
           "wordCount": null,
           "title": "Working on my 3D modeling app - Half-Edge (UI panel resizing stuff today)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cNXHgTMmSoc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cNXHgTMmSoc",
-          "publishedOn": "2025-01-30T00:59:40.000Z",
-          "wordCount": null,
-          "title": "yapping about my 3D modeling tool, Half-Edge, for 4 hours",
-          "imageUrl": null
         }
       ]
     },
@@ -1537,13 +1517,23 @@
       "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=hEDPQ4uBUVU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hEDPQ4uBUVU",
+          "publishedOn": "2025-04-29T21:00:52.000Z",
+          "wordCount": null,
+          "title": "Is Unitree Getting Ready To Mass Produce Robots?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zc51xDAuPYk",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=zc51xDAuPYk",
           "publishedOn": "2025-04-27T08:01:00.000Z",
           "wordCount": null,
-          "title": "How Deep Drilling Could Solve the Energy Crisis Forever",
+          "title": "How Deep Drilling Could Solve the Energy Crisis Forever!",
           "imageUrl": null
         },
         {
@@ -1674,16 +1664,6 @@
           "publishedOn": "2025-04-04T21:00:42.000Z",
           "wordCount": null,
           "title": "World's Fastest Civilian Plane Breaks Sound Barrier",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QNNJml7wlew",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QNNJml7wlew",
-          "publishedOn": "2025-04-02T21:00:21.000Z",
-          "wordCount": null,
-          "title": "Who REALLY invented the steam engine?",
           "imageUrl": null
         }
       ]
@@ -2451,6 +2431,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nm3XXdxfRVM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nm3XXdxfRVM",
+          "publishedOn": "2025-04-29T15:00:56.000Z",
+          "wordCount": null,
+          "title": "World's First 1-Piece Brass Snare Drum!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=rA2vRwCFC3M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rA2vRwCFC3M",
+          "publishedOn": "2025-04-29T14:01:26.000Z",
+          "wordCount": null,
+          "title": "CNC Trick to Machine a Massive 60” Part",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=jkGPTlxdWVI",
           "author": null,
           "description": "",
@@ -2579,26 +2579,6 @@
           "wordCount": null,
           "title": "Precision Surface Check",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZKE7qjPFDSw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZKE7qjPFDSw",
-          "publishedOn": "2025-04-18T14:00:52.000Z",
-          "wordCount": null,
-          "title": "Machining a Mold Cavity with a Sinker EDM",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=P8-c2rwupJQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=P8-c2rwupJQ",
-          "publishedOn": "2025-04-17T15:00:41.000Z",
-          "wordCount": null,
-          "title": "Peeling Away Metal with Internal Keyway Broaching",
-          "imageUrl": null
         }
       ]
     },
@@ -2607,6 +2587,46 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Gnz7KlYHQz0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Gnz7KlYHQz0",
+          "publishedOn": "2025-04-29T22:05:28.000Z",
+          "wordCount": null,
+          "title": "#Army Secretary Driscoll says he wants #soldiers out in the world figuring out what the #army needs.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=OY5SiJAw6fk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OY5SiJAw6fk",
+          "publishedOn": "2025-04-29T21:38:50.000Z",
+          "wordCount": null,
+          "title": "#UPS is cutting 20,000 #jobs and closing 73 facilities to save $3.5B amid #tariff concerns.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Hd2BphcqEpI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Hd2BphcqEpI",
+          "publishedOn": "2025-04-29T21:17:10.000Z",
+          "wordCount": null,
+          "title": "Deep #sea rocks could power our green #energy future, but mining them risks #ecosystems.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=LphR3ITSHAg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LphR3ITSHAg",
+          "publishedOn": "2025-04-29T20:34:33.000Z",
+          "wordCount": null,
+          "title": "Here’s why rising premium frozen pizza sales worry economists. #frozenpizza #pizza #recession",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=wmzm81vp09M",
           "author": null,
@@ -2624,7 +2644,7 @@
           "link": "https://www.youtube.com/watch?v=B76i7EaKtWA",
           "publishedOn": "2025-04-28T15:48:27.000Z",
           "wordCount": null,
-          "title": "How Flight Attendants Are Trained for Fires, Disasters, and Chaos | Big Business | Business Insider",
+          "title": "All the Secret Training Qatar and Singapore Flight Attendants Go Through | Big Business",
           "imageUrl": null
         },
         {
@@ -2715,46 +2735,6 @@
           "publishedOn": "2025-04-22T18:33:23.000Z",
           "wordCount": null,
           "title": "Here are 6 things to look out for after the Tesla earnings drop. #tesla #earnings #elonmusk",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=a4RxLqT384c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=a4RxLqT384c",
-          "publishedOn": "2025-04-22T16:00:00.000Z",
-          "wordCount": null,
-          "title": "Feel The Pulse Of Houston's Afrobeats Scene With An Emerging Artist | Business Insider",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4UhCFi9G-ig",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4UhCFi9G-ig",
-          "publishedOn": "2025-04-21T22:21:50.000Z",
-          "wordCount": null,
-          "title": "Pope Francis died just over 12 years after assuming the papacy. #popefrancis #pope #vatican",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=m9MYp9UEgOQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=m9MYp9UEgOQ",
-          "publishedOn": "2025-04-21T18:39:31.000Z",
-          "wordCount": null,
-          "title": "This is how #Barbie's diverse looks are made from scratch. #mattel #doll",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wqMF9V_mDVk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wqMF9V_mDVk",
-          "publishedOn": "2025-04-19T23:21:39.000Z",
-          "wordCount": null,
-          "title": "Many #Americans are worried about the #economy. Here's the #psychology behind our financial fears.",
           "imageUrl": null
         }
       ]
