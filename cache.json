@@ -116,6 +116,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=RQWpF2Gb-gU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RQWpF2Gb-gU",
+          "publishedOn": "2025-04-30T12:32:19.000Z",
+          "wordCount": null,
+          "title": "But what is quantum computing?  (Grover's Algorithm)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=XX8mjBXBqz8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XX8mjBXBqz8",
+          "publishedOn": "2025-04-30T12:32:13.000Z",
+          "wordCount": null,
+          "title": "Testing your intuition for quantum computing",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=aQwEJKWATlE",
           "author": null,
           "description": "",
@@ -243,26 +263,6 @@
           "publishedOn": "2025-02-08T13:35:15.000Z",
           "wordCount": null,
           "title": "Terence Tao on how we measure the cosmos | The Distance Ladder Part 1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uT4-WVa-YfU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uT4-WVa-YfU",
-          "publishedOn": "2025-02-08T13:35:06.000Z",
-          "wordCount": null,
-          "title": "Measuring the earth with Terence Tao",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=K-pGGb0f3tc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=K-pGGb0f3tc",
-          "publishedOn": "2025-01-30T15:00:25.000Z",
-          "wordCount": null,
-          "title": "The topology of two-note chords",
           "imageUrl": null
         }
       ]
@@ -407,16 +407,6 @@
           "publishedOn": "2025-02-04T15:00:01.000Z",
           "wordCount": null,
           "title": "What Actual Aliens Might Look Like",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RLEvo3I5C6w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RLEvo3I5C6w",
-          "publishedOn": "2025-01-30T15:00:35.000Z",
-          "wordCount": null,
-          "title": "How Chicken Heads Stopped Rabies",
           "imageUrl": null
         }
       ]
@@ -1001,6 +991,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=yKPo8Ipd_Vg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yKPo8Ipd_Vg",
+          "publishedOn": "2025-04-30T13:01:44.000Z",
+          "wordCount": null,
+          "title": "BETTER Than PETG!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=PFZqWynh9CQ",
           "author": null,
           "description": "",
@@ -1138,16 +1138,6 @@
           "publishedOn": "2025-03-17T19:00:01.000Z",
           "wordCount": null,
           "title": "3D Printing EYEBALLS?!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Wo9F0zqHrG4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Wo9F0zqHrG4",
-          "publishedOn": "2025-03-14T13:00:48.000Z",
-          "wordCount": null,
-          "title": "3D Printing UPSIDE DOWN with Dean Kamen (FIRST Robotics!)",
           "imageUrl": null
         }
       ]
@@ -2431,6 +2421,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ycBqFbmn4RE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ycBqFbmn4RE",
+          "publishedOn": "2025-04-30T14:01:26.000Z",
+          "wordCount": null,
+          "title": "CNC Machining Dice 🎲",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nm3XXdxfRVM",
           "author": null,
           "description": "",
@@ -2569,16 +2569,6 @@
           "wordCount": null,
           "title": "Crystal Clear Grinding Oil",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oVZU6xQA_FA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oVZU6xQA_FA",
-          "publishedOn": "2025-04-19T14:01:24.000Z",
-          "wordCount": null,
-          "title": "Precision Surface Check",
-          "imageUrl": null
         }
       ]
     },
@@ -2587,6 +2577,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=xceKOUqNXAU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xceKOUqNXAU",
+          "publishedOn": "2025-04-30T22:19:38.000Z",
+          "wordCount": null,
+          "title": "#Trump targeted elite #law firms with executive orders and now faces #lawsuits.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=baWA78Rt21U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=baWA78Rt21U",
+          "publishedOn": "2025-04-30T16:05:12.000Z",
+          "wordCount": null,
+          "title": "Watch Donald Trump's speech commemorating 100 days in office. #donaldtrump #trump #politics",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Gnz7KlYHQz0",
           "author": null,
@@ -2715,26 +2725,6 @@
           "publishedOn": "2025-04-23T20:30:09.000Z",
           "wordCount": null,
           "title": "#LEGO rebuilt it's success by reconnecting with #fans of all ages. #toy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MlqStGTO7Og",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MlqStGTO7Og",
-          "publishedOn": "2025-04-23T20:06:19.000Z",
-          "wordCount": null,
-          "title": "#Tesla reported a 9% revenue drop in its Q1 earnings report. #earnings #elonmusk",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9oFoAN0-8P8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9oFoAN0-8P8",
-          "publishedOn": "2025-04-22T18:33:23.000Z",
-          "wordCount": null,
-          "title": "Here are 6 things to look out for after the Tesla earnings drop. #tesla #earnings #elonmusk",
           "imageUrl": null
         }
       ]
