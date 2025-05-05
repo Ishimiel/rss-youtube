@@ -95,6 +95,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Dlsa9EBKDGI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Dlsa9EBKDGI",
+          "publishedOn": "2025-05-04T11:45:24.000Z",
+          "wordCount": null,
+          "title": "Where my explanation of Grover’s algorithm failed",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=RQWpF2Gb-gU",
           "author": null,
           "description": "",
@@ -232,16 +242,6 @@
           "publishedOn": "2025-02-12T15:00:17.000Z",
           "wordCount": null,
           "title": "How Earth's size was computed by Eratosthenes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YdOXS_9_P4U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YdOXS_9_P4U",
-          "publishedOn": "2025-02-08T13:35:15.000Z",
-          "wordCount": null,
-          "title": "Terence Tao on how we measure the cosmos | The Distance Ladder Part 1",
           "imageUrl": null
         }
       ]
@@ -494,16 +494,6 @@
           "wordCount": null,
           "title": "The Normal Distribution: The Limit of Binomial Distribution for Large \"n\"",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AH2_Aq9_4R8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AH2_Aq9_4R8",
-          "publishedOn": "2025-02-03T14:00:16.000Z",
-          "wordCount": null,
-          "title": "TOTEM: TOkenized Time Series EMbeddings for General Time Series Analysis",
-          "imageUrl": null
         }
       ]
     },
@@ -518,6 +508,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGDanWUzNMbIV11lcNi-yBg",
       "siteUrl": "https://www.youtube.com/channel/UCGDanWUzNMbIV11lcNi-yBg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=YRabAgnHW4g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YRabAgnHW4g",
+          "publishedOn": "2025-05-04T20:01:44.000Z",
+          "wordCount": null,
+          "title": "The Fractional Derivative Product Rule isn't what you think it is...",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=W2-EbTdxJe8",
           "author": null,
@@ -1811,16 +1811,6 @@
           "wordCount": null,
           "title": "Pure uranium is dangerous",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hL9j6CEnVnc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hL9j6CEnVnc",
-          "publishedOn": "2025-02-03T17:32:18.000Z",
-          "wordCount": null,
-          "title": "Cesium is scary",
-          "imageUrl": null
         }
       ]
     },
@@ -1934,16 +1924,6 @@
           "publishedOn": "2025-02-18T23:07:45.000Z",
           "wordCount": null,
           "title": "We found MUD VOLCANOS!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-4e__1PtOhE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-4e__1PtOhE",
-          "publishedOn": "2025-02-04T00:07:52.000Z",
-          "wordCount": null,
-          "title": "World's most secret mystery EXPLAINED",
           "imageUrl": null
         }
       ]
@@ -2370,6 +2350,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCc2lUKVOTXKlQR7Fm7h1JfQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=0NlU0KZy4UA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0NlU0KZy4UA",
+          "publishedOn": "2025-05-04T18:00:44.000Z",
+          "wordCount": null,
+          "title": "CNC Machining an Arrowhead!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=c0oJH90bFBY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=c0oJH90bFBY",
+          "publishedOn": "2025-05-04T14:00:54.000Z",
+          "wordCount": null,
+          "title": "Quality Control Checks Tolerances on Difficult Part",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yJTqcIEhtAY",
           "author": null,
           "description": "",
@@ -2498,26 +2498,6 @@
           "wordCount": null,
           "title": "Genius Tool Design to Evacuate Chips",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pPl8bqNZkfM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pPl8bqNZkfM",
-          "publishedOn": "2025-04-24T15:01:22.000Z",
-          "wordCount": null,
-          "title": "CNC Machining a Part Ejector for a Swiss Machine",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=t8coS4cduTY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=t8coS4cduTY",
-          "publishedOn": "2025-04-24T14:01:20.000Z",
-          "wordCount": null,
-          "title": "Legendary Drummer Plays World's First 1-Piece Machined Snare Drum",
-          "imageUrl": null
         }
       ]
     },
@@ -2526,6 +2506,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=TNp8FTCA-LQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TNp8FTCA-LQ",
+          "publishedOn": "2025-05-04T15:00:45.000Z",
+          "wordCount": null,
+          "title": "Why Indonesia's Mud Crab Industry Could Go Extinct | Still Standing | Business Insider",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=S-ks3JHQP84",
           "author": null,
@@ -2665,16 +2655,6 @@
           "wordCount": null,
           "title": "Why Most \"Biodegradable\" Products Are Probably Fake | World Wide Waste | Business Insider",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=584Qvyv6WuA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=584Qvyv6WuA",
-          "publishedOn": "2025-04-25T19:39:52.000Z",
-          "wordCount": null,
-          "title": "These #drones can cost from a few hundred to tens of thousands of dollars. #ukraine #military",
-          "imageUrl": null
         }
       ]
     },
@@ -2811,7 +2791,7 @@
           "link": "https://www.youtube.com/watch?v=VWECCe0-HQo",
           "publishedOn": "2025-04-25T14:36:07.000Z",
           "wordCount": null,
-          "title": "Luigi is so hot, his body makes pizza 🥵",
+          "title": "I made a Luigi so hot, his body makes pizza",
           "imageUrl": null
         }
       ]
