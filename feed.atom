@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-07T00:47:10.256Z</id>
+    <id>urn:2025-05-08T00:47:56.353Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-07T00:47:10.256Z</updated>
+    <updated>2025-05-08T00:47:56.353Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What if the Earth Stopped Spinning?]]></title>
+        <id>https://www.youtube.com/watch?v=K8qAwOC7oxE</id>
+        <link href="https://www.youtube.com/watch?v=K8qAwOC7oxE"/>
+        <updated>2025-05-07T21:00:20.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creality K2 Plus - LIVE!]]></title>
+        <id>https://www.youtube.com/watch?v=B4y8tQ3WGDg</id>
+        <link href="https://www.youtube.com/watch?v=B4y8tQ3WGDg"/>
+        <updated>2025-05-07T20:55:49.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is the worst #clash between the #neighbors in more than two #decades.]]></title>
+        <id>https://www.youtube.com/watch?v=KxrAnZCIzMU</id>
+        <link href="https://www.youtube.com/watch?v=KxrAnZCIzMU"/>
+        <updated>2025-05-07T20:53:03.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Functions of a Random Variable]]></title>
+        <id>https://www.youtube.com/watch?v=hC2idx2-GME</id>
+        <link href="https://www.youtube.com/watch?v=hC2idx2-GME"/>
+        <updated>2025-05-07T16:45:03.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POV Machinist Builds Precision Cutting Tool]]></title>
+        <id>https://www.youtube.com/watch?v=CWY9wBaUKqM</id>
+        <link href="https://www.youtube.com/watch?v=CWY9wBaUKqM"/>
+        <updated>2025-05-07T14:00:17.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Algorithm Of Biological Networks]]></title>
+        <id>https://www.youtube.com/watch?v=l-OLgbdZ3kk</id>
+        <link href="https://www.youtube.com/watch?v=l-OLgbdZ3kk"/>
+        <updated>2025-05-07T02:43:40.000Z</updated>
+        <author>
+            <name>Artem Kirsanov</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Watch this BMX Robot Do Some Sick Flips]]></title>
         <id>https://www.youtube.com/watch?v=ZiIzoulJV9w</id>
@@ -51,7 +105,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What If It Rains Bananas For A Day?]]></title>
+        <title type="html"><![CDATA[We Finally Answered The MOST Important Question]]></title>
         <id>https://www.youtube.com/watch?v=tRXy-b6_lBc</id>
         <link href="https://www.youtube.com/watch?v=tRXy-b6_lBc"/>
         <updated>2025-05-06T14:00:01.000Z</updated>
@@ -411,15 +465,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Here’s why rising premium frozen pizza sales worry economists. #frozenpizza #pizza #recession]]></title>
-        <id>https://www.youtube.com/watch?v=LphR3ITSHAg</id>
-        <link href="https://www.youtube.com/watch?v=LphR3ITSHAg"/>
-        <updated>2025-04-29T20:34:33.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Gamma Distribution]]></title>
         <id>https://www.youtube.com/watch?v=9IIcHAJlcWc</id>
         <link href="https://www.youtube.com/watch?v=9IIcHAJlcWc"/>
@@ -471,15 +516,6 @@
         <updated>2025-04-27T14:25:14.000Z</updated>
         <author>
             <name>NinjaCakeAssassin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The BEAST Has 12 Axis]]></title>
-        <id>https://www.youtube.com/watch?v=1X_di6oxERc</id>
-        <link href="https://www.youtube.com/watch?v=1X_di6oxERc"/>
-        <updated>2025-04-27T14:00:02.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -969,15 +1005,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Touching A 3D Hologram]]></title>
-        <id>https://www.youtube.com/watch?v=fB5lU3DP1wQ</id>
-        <link href="https://www.youtube.com/watch?v=fB5lU3DP1wQ"/>
-        <updated>2025-04-10T21:00:46.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Australian Electricity Better than UK?!]]></title>
         <id>https://www.youtube.com/watch?v=bsfBxs53vBo</id>
         <link href="https://www.youtube.com/watch?v=bsfBxs53vBo"/>
@@ -1434,15 +1461,6 @@
         <updated>2025-03-21T20:00:07.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Printed Metal Toys! // Dummy 13!]]></title>
-        <id>https://www.youtube.com/watch?v=YlY0SsfZkuo</id>
-        <link href="https://www.youtube.com/watch?v=YlY0SsfZkuo"/>
-        <updated>2025-03-21T13:00:55.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
         </author>
     </entry>
     <entry>
@@ -2388,24 +2406,6 @@
         <updated>2025-02-07T20:11:25.000Z</updated>
         <author>
             <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is the Multiverse real? #multiverse #science #cosmology #space #briangreene]]></title>
-        <id>https://www.youtube.com/watch?v=X8CSiDydRps</id>
-        <link href="https://www.youtube.com/watch?v=X8CSiDydRps"/>
-        <updated>2025-02-06T20:40:29.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why This V-22 Osprey Crashed]]></title>
-        <id>https://www.youtube.com/watch?v=9Wd1faJcZ2M</id>
-        <link href="https://www.youtube.com/watch?v=9Wd1faJcZ2M"/>
-        <updated>2025-02-06T14:19:11.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
         </author>
     </entry>
 </feed>
