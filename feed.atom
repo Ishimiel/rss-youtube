@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-11T00:51:33.128Z</id>
+    <id>urn:2025-05-12T00:50:54.649Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-11T00:51:33.128Z</updated>
+    <updated>2025-05-12T00:50:54.649Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Computer that Could Cure Death: Quantum Explained]]></title>
+        <id>https://www.youtube.com/watch?v=To4ls2mUC04</id>
+        <link href="https://www.youtube.com/watch?v=To4ls2mUC04"/>
+        <updated>2025-05-11T15:00:43.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Ultra Spicy Peppers Revolutionized The Multi-Billion Dollar Hot Sauce Industry | Big Business]]></title>
+        <id>https://www.youtube.com/watch?v=IVI5L18mmzQ</id>
+        <link href="https://www.youtube.com/watch?v=IVI5L18mmzQ"/>
+        <updated>2025-05-11T15:00:35.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Friction Drilling?]]></title>
+        <id>https://www.youtube.com/watch?v=kqXFwt9rawQ</id>
+        <link href="https://www.youtube.com/watch?v=kqXFwt9rawQ"/>
+        <updated>2025-05-11T14:00:57.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Computer that Could Cure Death: Quantum Explained]]></title>
+        <id>https://www.youtube.com/watch?v=qdv4DSlFOeo</id>
+        <link href="https://www.youtube.com/watch?v=qdv4DSlFOeo"/>
+        <updated>2025-05-11T08:00:55.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Life Lessons From 100-Year-Old Americans Who Didn't Expect To Live So Long | Business Insider]]></title>
         <id>https://www.youtube.com/watch?v=QzQhtsTdHhM</id>
@@ -105,7 +141,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This is how you screw a BONE!?]]></title>
+        <title type="html"><![CDATA[Dr Joel?]]></title>
         <id>https://www.youtube.com/watch?v=t-hzrYNh_I4</id>
         <link href="https://www.youtube.com/watch?v=t-hzrYNh_I4"/>
         <updated>2025-05-09T13:01:36.000Z</updated>
@@ -465,15 +501,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Savings Rates: High-Yield Savings & CD Options Explained | Business Insider]]></title>
-        <id>https://www.youtube.com/watch?v=0nf080m9uEw</id>
-        <link href="https://www.youtube.com/watch?v=0nf080m9uEw"/>
-        <updated>2025-05-02T15:00:03.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Multi-Vise Setup on Our New Mill]]></title>
         <id>https://www.youtube.com/watch?v=A6TxJc7E3eg</id>
         <link href="https://www.youtube.com/watch?v=A6TxJc7E3eg"/>
@@ -525,15 +552,6 @@
         <updated>2025-05-01T14:00:28.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CNC Machining Dice 🎲]]></title>
-        <id>https://www.youtube.com/watch?v=ycBqFbmn4RE</id>
-        <link href="https://www.youtube.com/watch?v=ycBqFbmn4RE"/>
-        <updated>2025-04-30T14:01:26.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -921,24 +939,6 @@
         <updated>2025-04-17T14:00:44.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Three Other Fathers of The Telephone]]></title>
-        <id>https://www.youtube.com/watch?v=L40wWwUENzk</id>
-        <link href="https://www.youtube.com/watch?v=L40wWwUENzk"/>
-        <updated>2025-04-16T21:00:18.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Katy Perry Under Fire For Rocket Trip]]></title>
-        <id>https://www.youtube.com/watch?v=J0yS5ClhuW0</id>
-        <link href="https://www.youtube.com/watch?v=J0yS5ClhuW0"/>
-        <updated>2025-04-16T15:00:44.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -2325,42 +2325,6 @@
         <updated>2025-02-11T17:30:13.000Z</updated>
         <author>
             <name>NileRed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceX VP of Starship Engineering, Bill Riley’s description of catching the Super Heavy Booster!]]></title>
-        <id>https://www.youtube.com/watch?v=FfvKpevnLng</id>
-        <link href="https://www.youtube.com/watch?v=FfvKpevnLng"/>
-        <updated>2025-02-10T19:13:29.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Normal Distribution: The Limit of Binomial Distribution for Large "n"]]></title>
-        <id>https://www.youtube.com/watch?v=8n1n0OM4gLk</id>
-        <link href="https://www.youtube.com/watch?v=8n1n0OM4gLk"/>
-        <updated>2025-02-10T18:00:06.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What mission won the biggest Astro Awards for 2024?]]></title>
-        <id>https://www.youtube.com/watch?v=d56cDbEXr1k</id>
-        <link href="https://www.youtube.com/watch?v=d56cDbEXr1k"/>
-        <updated>2025-02-10T16:00:01.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Most Useful Thing AI Has Ever Done]]></title>
-        <id>https://www.youtube.com/watch?v=P_fHJIYENdI</id>
-        <link href="https://www.youtube.com/watch?v=P_fHJIYENdI"/>
-        <updated>2025-02-10T14:03:41.000Z</updated>
-        <author>
-            <name>Veritasium</name>
         </author>
     </entry>
 </feed>
