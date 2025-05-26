@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-25T00:53:42.674Z</id>
+    <id>urn:2025-05-26T00:50:33.000Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-25T00:53:42.674Z</updated>
+    <updated>2025-05-26T00:50:33.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Risking Death For A Special Ceviche In Peru | Risky Business | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=_MgeSTzbbLI</id>
+        <link href="https://www.youtube.com/watch?v=_MgeSTzbbLI"/>
+        <updated>2025-05-25T15:00:56.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machinist Crashes CNC Machines]]></title>
+        <id>https://www.youtube.com/watch?v=T_5_TQdgDWk</id>
+        <link href="https://www.youtube.com/watch?v=T_5_TQdgDWk"/>
+        <updated>2025-05-25T14:00:42.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$5bn and 400 Years - Is There Finally an Alternative to the Panama Canal?]]></title>
+        <id>https://www.youtube.com/watch?v=rN8UniRv9kc</id>
+        <link href="https://www.youtube.com/watch?v=rN8UniRv9kc"/>
+        <updated>2025-05-25T08:00:53.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How I Survived 14 Days In The Grueling Army Mountain School | Boot Camp Podcast | Business Insider]]></title>
         <id>https://www.youtube.com/watch?v=fHcSuHNRWk0</id>
@@ -438,15 +465,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We tried two self-driving cars to find the differences between them. #tesla #waymo #fsd]]></title>
-        <id>https://www.youtube.com/watch?v=WQJtSC7AIXM</id>
-        <link href="https://www.youtube.com/watch?v=WQJtSC7AIXM"/>
-        <updated>2025-05-17T08:00:30.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[54 filaments I should NOT own - Every Filament Part 5: Business Filaments]]></title>
         <id>https://www.youtube.com/watch?v=7zIKTzEVW_k</id>
         <link href="https://www.youtube.com/watch?v=7zIKTzEVW_k"/>
@@ -669,15 +687,6 @@
         <updated>2025-05-13T15:01:19.000Z</updated>
         <author>
             <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Baddest Tool Crib on the Planet]]></title>
-        <id>https://www.youtube.com/watch?v=8WSjx_fVhK4</id>
-        <link href="https://www.youtube.com/watch?v=8WSjx_fVhK4"/>
-        <updated>2025-05-13T15:00:25.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -969,15 +978,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is Unitree Getting Ready To Mass Produce Robots?]]></title>
-        <id>https://www.youtube.com/watch?v=hEDPQ4uBUVU</id>
-        <link href="https://www.youtube.com/watch?v=hEDPQ4uBUVU"/>
-        <updated>2025-04-29T21:00:52.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Gamma Distribution]]></title>
         <id>https://www.youtube.com/watch?v=9IIcHAJlcWc</id>
         <link href="https://www.youtube.com/watch?v=9IIcHAJlcWc"/>
@@ -1257,7 +1257,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Biggest Misconception in Physics]]></title>
+        <title type="html"><![CDATA[The Hole In Relativity Einstein Didn’t Predict]]></title>
         <id>https://www.youtube.com/watch?v=lcjdwSY2AzM</id>
         <link href="https://www.youtube.com/watch?v=lcjdwSY2AzM"/>
         <updated>2025-04-14T16:31:04.000Z</updated>
@@ -2226,15 +2226,6 @@
         <updated>2025-02-25T15:00:01.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[History of pasta shapes                         #pasta]]></title>
-        <id>https://www.youtube.com/watch?v=xYwQgUm7MJQ</id>
-        <link href="https://www.youtube.com/watch?v=xYwQgUm7MJQ"/>
-        <updated>2025-02-24T20:45:01.000Z</updated>
-        <author>
-            <name>You Suck At Cooking</name>
         </author>
     </entry>
 </feed>
