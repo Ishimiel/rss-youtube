@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-26T00:50:33.000Z</id>
+    <id>urn:2025-05-27T00:46:49.771Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-26T00:50:33.000Z</updated>
+    <updated>2025-05-27T00:46:49.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Our #1 Machining Question]]></title>
+        <id>https://www.youtube.com/watch?v=nU--v37vrx0</id>
+        <link href="https://www.youtube.com/watch?v=nU--v37vrx0"/>
+        <updated>2025-05-26T14:01:13.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Risking Death For A Special Ceviche In Peru | Risky Business | Business Insider]]></title>
         <id>https://www.youtube.com/watch?v=_MgeSTzbbLI</id>
@@ -24,7 +33,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[$5bn and 400 Years - Is There Finally an Alternative to the Panama Canal?]]></title>
+        <title type="html"><![CDATA[Mexico's Massive $5bn Coast to Coast Railway, Rivalling the Panama Canal?]]></title>
         <id>https://www.youtube.com/watch?v=rN8UniRv9kc</id>
         <link href="https://www.youtube.com/watch?v=rN8UniRv9kc"/>
         <updated>2025-05-25T08:00:53.000Z</updated>
@@ -606,15 +615,6 @@
         <updated>2025-05-14T14:07:28.000Z</updated>
         <author>
             <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polishing Carbide to a CRAZY Finish]]></title>
-        <id>https://www.youtube.com/watch?v=60d6P-BIXVs</id>
-        <link href="https://www.youtube.com/watch?v=60d6P-BIXVs"/>
-        <updated>2025-05-14T14:00:14.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2181,51 +2181,6 @@
         <updated>2025-02-26T15:01:03.000Z</updated>
         <author>
             <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Fastest Way To Lose]]></title>
-        <id>https://www.youtube.com/watch?v=HdX6dNIlCQI</id>
-        <link href="https://www.youtube.com/watch?v=HdX6dNIlCQI"/>
-        <updated>2025-02-26T00:28:30.000Z</updated>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flat to Folded: The Science of Shape-Shifting 3D Prints]]></title>
-        <id>https://www.youtube.com/watch?v=5rnD4DyFmNs</id>
-        <link href="https://www.youtube.com/watch?v=5rnD4DyFmNs"/>
-        <updated>2025-02-25T16:39:47.000Z</updated>
-        <author>
-            <name>CNC Kitchen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Made a New Material to Science]]></title>
-        <id>https://www.youtube.com/watch?v=YvPMw6Hu5sg</id>
-        <link href="https://www.youtube.com/watch?v=YvPMw6Hu5sg"/>
-        <updated>2025-02-25T16:00:36.000Z</updated>
-        <author>
-            <name>Domain of Science</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Aristarchus deduced the distance to the moon]]></title>
-        <id>https://www.youtube.com/watch?v=drmphB3rdHY</id>
-        <link href="https://www.youtube.com/watch?v=drmphB3rdHY"/>
-        <updated>2025-02-25T15:00:57.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If You Eat Meat You Should Know This]]></title>
-        <id>https://www.youtube.com/watch?v=5sVfTPaxRwk</id>
-        <link href="https://www.youtube.com/watch?v=5sVfTPaxRwk"/>
-        <updated>2025-02-25T15:00:01.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>
