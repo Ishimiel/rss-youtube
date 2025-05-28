@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-27T00:46:49.771Z</id>
+    <id>urn:2025-05-28T00:48:19.396Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-27T00:46:49.771Z</updated>
+    <updated>2025-05-28T00:48:19.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Polymaker HT-PLA First Print!]]></title>
+        <id>https://www.youtube.com/watch?v=hxgD-by9x6k</id>
+        <link href="https://www.youtube.com/watch?v=hxgD-by9x6k"/>
+        <updated>2025-05-27T23:20:45.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#AI #DarthVader debuts in #Fortnite and it's raising safety concerns.]]></title>
+        <id>https://www.youtube.com/watch?v=-7vetwzLgKs</id>
+        <link href="https://www.youtube.com/watch?v=-7vetwzLgKs"/>
+        <updated>2025-05-27T17:25:11.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BEST Shop Vac on the Market]]></title>
+        <id>https://www.youtube.com/watch?v=qP2yffVp0BY</id>
+        <link href="https://www.youtube.com/watch?v=qP2yffVp0BY"/>
+        <updated>2025-05-27T15:01:20.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[South Korea To Get EV Robot Chargers]]></title>
+        <id>https://www.youtube.com/watch?v=C-G0vQfQchU</id>
+        <link href="https://www.youtube.com/watch?v=C-G0vQfQchU"/>
+        <updated>2025-05-27T15:00:18.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pain. Divorce. CNC Redemption: His First Parts Ever Made]]></title>
+        <id>https://www.youtube.com/watch?v=5W4Bzm7nfQk</id>
+        <link href="https://www.youtube.com/watch?v=5W4Bzm7nfQk"/>
+        <updated>2025-05-27T14:00:07.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printed Watering Can! Thanks @PCBWay]]></title>
+        <id>https://www.youtube.com/watch?v=SHC7CbG6Z2s</id>
+        <link href="https://www.youtube.com/watch?v=SHC7CbG6Z2s"/>
+        <updated>2025-05-27T03:24:21.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Our #1 Machining Question]]></title>
         <id>https://www.youtube.com/watch?v=nU--v37vrx0</id>
@@ -411,15 +465,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The early warning signs of prostate #cancer following former President #Biden's diagnosis. #health]]></title>
-        <id>https://www.youtube.com/watch?v=NhT8qTSEAMw</id>
-        <link href="https://www.youtube.com/watch?v=NhT8qTSEAMw"/>
-        <updated>2025-05-19T18:46:03.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Manufacturing Hero Teaches High-Tech Machining]]></title>
         <id>https://www.youtube.com/watch?v=dHiFV3wWGwU</id>
         <link href="https://www.youtube.com/watch?v=dHiFV3wWGwU"/>
@@ -573,15 +618,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Incredible Features on the EMCO Hyperturn 65 Powermill]]></title>
-        <id>https://www.youtube.com/watch?v=yKa_q4M7Sjw</id>
-        <link href="https://www.youtube.com/watch?v=yKa_q4M7Sjw"/>
-        <updated>2025-05-15T15:01:39.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Erin Durant: ‘Frozen’ | Live at Pioneer Works Second Sundays]]></title>
         <id>https://www.youtube.com/watch?v=m2NF9ybzdaE</id>
         <link href="https://www.youtube.com/watch?v=m2NF9ybzdaE"/>
@@ -597,15 +633,6 @@
         <updated>2025-05-15T14:01:09.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using SolidCAM for the first time]]></title>
-        <id>https://www.youtube.com/watch?v=N2YVO35NwCI</id>
-        <link href="https://www.youtube.com/watch?v=N2YVO35NwCI"/>
-        <updated>2025-05-15T14:00:37.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -930,15 +957,6 @@
         <updated>2025-05-02T13:01:42.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Drone Defeats World Champion Drone Pilots]]></title>
-        <id>https://www.youtube.com/watch?v=dgz8oHogMNE</id>
-        <link href="https://www.youtube.com/watch?v=dgz8oHogMNE"/>
-        <updated>2025-05-01T15:01:03.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -1419,15 +1437,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Magigoo and Drywise LIVE!]]></title>
-        <id>https://www.youtube.com/watch?v=hur1tWEnRzI</id>
-        <link href="https://www.youtube.com/watch?v=hur1tWEnRzI"/>
-        <updated>2025-04-04T20:06:40.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hobby Cooking]]></title>
         <id>https://www.youtube.com/watch?v=M26uz0BayDw</id>
         <link href="https://www.youtube.com/watch?v=M26uz0BayDw"/>
@@ -1452,15 +1461,6 @@
         <updated>2025-04-03T11:41:44.000Z</updated>
         <author>
             <name>NinjaCakeAssassin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PioCreat3D Halot-X1 LIVE!]]></title>
-        <id>https://www.youtube.com/watch?v=i6qeeZ0ATTA</id>
-        <link href="https://www.youtube.com/watch?v=i6qeeZ0ATTA"/>
-        <updated>2025-04-03T06:16:14.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
         </author>
     </entry>
     <entry>
@@ -2143,42 +2143,6 @@
         <id>https://www.youtube.com/watch?v=YP1mMXRCnaI</id>
         <link href="https://www.youtube.com/watch?v=YP1mMXRCnaI"/>
         <updated>2025-02-27T15:00:48.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deriving the Christoffel Symbols for a Diagonal Metric | Schwarzschild Metric Example]]></title>
-        <id>https://www.youtube.com/watch?v=WypC3SJKSVk</id>
-        <link href="https://www.youtube.com/watch?v=WypC3SJKSVk"/>
-        <updated>2025-02-27T01:40:49.000Z</updated>
-        <author>
-            <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turning lead into gold (lead iodide)]]></title>
-        <id>https://www.youtube.com/watch?v=F8VYpIJjkoI</id>
-        <link href="https://www.youtube.com/watch?v=F8VYpIJjkoI"/>
-        <updated>2025-02-26T18:18:30.000Z</updated>
-        <author>
-            <name>NileRed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Microsoft's Exotic New Material is Made]]></title>
-        <id>https://www.youtube.com/watch?v=GPgRfe_riFI</id>
-        <link href="https://www.youtube.com/watch?v=GPgRfe_riFI"/>
-        <updated>2025-02-26T15:15:01.000Z</updated>
-        <author>
-            <name>Domain of Science</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to estimate the distance to the sun]]></title>
-        <id>https://www.youtube.com/watch?v=gzbFNnTCkqQ</id>
-        <link href="https://www.youtube.com/watch?v=gzbFNnTCkqQ"/>
-        <updated>2025-02-26T15:01:03.000Z</updated>
         <author>
             <name>3Blue1Brown</name>
         </author>
