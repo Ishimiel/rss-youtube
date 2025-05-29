@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-28T00:48:19.396Z</id>
+    <id>urn:2025-05-29T00:49:02.014Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-28T00:48:19.396Z</updated>
+    <updated>2025-05-29T00:49:02.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Flood of Sugar That Swallowed Boston]]></title>
+        <id>https://www.youtube.com/watch?v=aHw1i8BLpM4</id>
+        <link href="https://www.youtube.com/watch?v=aHw1i8BLpM4"/>
+        <updated>2025-05-29T00:30:00.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Diddy's former #assistant describes death threats and abuse in sex trafficking #trial testimony.]]></title>
+        <id>https://www.youtube.com/watch?v=w52wB-2hwwc</id>
+        <link href="https://www.youtube.com/watch?v=w52wB-2hwwc"/>
+        <updated>2025-05-28T21:20:46.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The source of shots fired at an #aid distribution center in #Gaza is unclear. #war]]></title>
+        <id>https://www.youtube.com/watch?v=5WWtqIWJqqM</id>
+        <link href="https://www.youtube.com/watch?v=5WWtqIWJqqM"/>
+        <updated>2025-05-28T20:09:07.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Physicists Created Quantum Tornadoes #physics]]></title>
+        <id>https://www.youtube.com/watch?v=ybIe5Rq0OFM</id>
+        <link href="https://www.youtube.com/watch?v=ybIe5Rq0OFM"/>
+        <updated>2025-05-28T18:22:06.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using a cabbage to do some chemistry]]></title>
+        <id>https://www.youtube.com/watch?v=EB9VT3hcETE</id>
+        <link href="https://www.youtube.com/watch?v=EB9VT3hcETE"/>
+        <updated>2025-05-28T16:08:41.000Z</updated>
+        <author>
+            <name>NileRed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSANE Feature on Our Wire EDM]]></title>
+        <id>https://www.youtube.com/watch?v=4NVojsgR3dA</id>
+        <link href="https://www.youtube.com/watch?v=4NVojsgR3dA"/>
+        <updated>2025-05-28T14:00:08.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Tesla sales dropped almost 50% in April, despite booming #electricvehicle #market.]]></title>
+        <id>https://www.youtube.com/watch?v=mzJevEfsIc4</id>
+        <link href="https://www.youtube.com/watch?v=mzJevEfsIc4"/>
+        <updated>2025-05-28T13:47:10.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Transform a Contravariant and Covariant Tensor under a change of coordinates]]></title>
+        <id>https://www.youtube.com/watch?v=QfdNuYFUx3I</id>
+        <link href="https://www.youtube.com/watch?v=QfdNuYFUx3I"/>
+        <updated>2025-05-28T13:01:45.000Z</updated>
+        <author>
+            <name>Faculty of Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[4K] Watch the FIRST Booster Re-Flight for Starship Flight 9!]]></title>
+        <id>https://www.youtube.com/watch?v=T6tP0il4z64</id>
+        <link href="https://www.youtube.com/watch?v=T6tP0il4z64"/>
+        <updated>2025-05-28T01:01:33.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polymaker HT-PLA First Print!]]></title>
         <id>https://www.youtube.com/watch?v=hxgD-by9x6k</id>
@@ -33,7 +114,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[South Korea To Get EV Robot Chargers]]></title>
+        <title type="html"><![CDATA[This Robot Charger is Insane!]]></title>
         <id>https://www.youtube.com/watch?v=C-G0vQfQchU</id>
         <link href="https://www.youtube.com/watch?v=C-G0vQfQchU"/>
         <updated>2025-05-27T15:00:18.000Z</updated>
@@ -138,15 +219,6 @@
         <updated>2025-05-23T20:00:07.000Z</updated>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4K] Watch the FIRST Booster Re-Flight for Starship Flight 9!]]></title>
-        <id>https://www.youtube.com/watch?v=T6tP0il4z64</id>
-        <link href="https://www.youtube.com/watch?v=T6tP0il4z64"/>
-        <updated>2025-05-23T19:22:35.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
         </author>
     </entry>
     <entry>
@@ -384,15 +456,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Most new #yuzu trees, even in #Japan, are created through #grafting.]]></title>
-        <id>https://www.youtube.com/watch?v=pUmzqF4_UZU</id>
-        <link href="https://www.youtube.com/watch?v=pUmzqF4_UZU"/>
-        <updated>2025-05-20T18:00:53.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ionizing Radiation #science #debunk #skincare]]></title>
         <id>https://www.youtube.com/watch?v=WnNVgRyWUi8</id>
         <link href="https://www.youtube.com/watch?v=WnNVgRyWUi8"/>
@@ -420,15 +483,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#Tech giants are eliminating middle #managers with the "great flattening" strategy. #jobs]]></title>
-        <id>https://www.youtube.com/watch?v=E43513OZYU4</id>
-        <link href="https://www.youtube.com/watch?v=E43513OZYU4"/>
-        <updated>2025-05-20T14:14:09.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Turning Challenges into Triumph: An Autistic Machinist’s Inspiring Startup Story]]></title>
         <id>https://www.youtube.com/watch?v=rAKkmE9LXds</id>
         <link href="https://www.youtube.com/watch?v=rAKkmE9LXds"/>
@@ -453,15 +507,6 @@
         <updated>2025-05-19T22:12:38.000Z</updated>
         <author>
             <name>Physics Girl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Tariffs Are Driving Up Mortgage Rates | Business Insider]]></title>
-        <id>https://www.youtube.com/watch?v=kc0JTS9Mshs</id>
-        <link href="https://www.youtube.com/watch?v=kc0JTS9Mshs"/>
-        <updated>2025-05-19T19:39:16.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -570,15 +615,6 @@
         <updated>2025-05-16T15:00:07.000Z</updated>
         <author>
             <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Satisfying Tool Build - Custom 3 Wheel Pack]]></title>
-        <id>https://www.youtube.com/watch?v=-Q-VA2rzAwc</id>
-        <link href="https://www.youtube.com/watch?v=-Q-VA2rzAwc"/>
-        <updated>2025-05-16T14:00:01.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -921,15 +957,6 @@
         <updated>2025-05-03T16:00:04.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who Invented the Stethoscope?]]></title>
-        <id>https://www.youtube.com/watch?v=FnmHBkyzHbk</id>
-        <link href="https://www.youtube.com/watch?v=FnmHBkyzHbk"/>
-        <updated>2025-05-02T21:00:30.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -2118,33 +2145,6 @@
         <updated>2025-02-28T14:30:06.000Z</updated>
         <author>
             <name>minutephysics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Truth About The Moon Landings]]></title>
-        <id>https://www.youtube.com/watch?v=fMHLvoWZfqQ</id>
-        <link href="https://www.youtube.com/watch?v=fMHLvoWZfqQ"/>
-        <updated>2025-02-27T17:00:57.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Violent iPhone Repair]]></title>
-        <id>https://www.youtube.com/watch?v=fyWiYxOP-xM</id>
-        <link href="https://www.youtube.com/watch?v=fyWiYxOP-xM"/>
-        <updated>2025-02-27T17:00:02.000Z</updated>
-        <author>
-            <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why the ancient Greeks rejected heliocentrism]]></title>
-        <id>https://www.youtube.com/watch?v=YP1mMXRCnaI</id>
-        <link href="https://www.youtube.com/watch?v=YP1mMXRCnaI"/>
-        <updated>2025-02-27T15:00:48.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
         </author>
     </entry>
 </feed>
