@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-29T00:49:02.014Z</id>
+    <id>urn:2025-05-30T00:48:05.221Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-29T00:49:02.014Z</updated>
+    <updated>2025-05-30T00:48:05.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[World's First Ever Robot Boxing Championship]]></title>
+        <id>https://www.youtube.com/watch?v=NMoHWzE7DC8</id>
+        <link href="https://www.youtube.com/watch?v=NMoHWzE7DC8"/>
+        <updated>2025-05-29T17:00:26.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printed Custom Tool Adapter]]></title>
+        <id>https://www.youtube.com/watch?v=Wltk17bw6E4</id>
+        <link href="https://www.youtube.com/watch?v=Wltk17bw6E4"/>
+        <updated>2025-05-29T15:01:02.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dozens of Nukes Are Missing. Why? HOW?]]></title>
+        <id>https://www.youtube.com/watch?v=o7aXV_PV4ss</id>
+        <link href="https://www.youtube.com/watch?v=o7aXV_PV4ss"/>
+        <updated>2025-05-29T14:01:14.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Expert Machinist Tackles Complex Machining Set-Up]]></title>
+        <id>https://www.youtube.com/watch?v=MfGb5VS1klU</id>
+        <link href="https://www.youtube.com/watch?v=MfGb5VS1klU"/>
+        <updated>2025-05-29T14:00:27.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This farm in #NewJersey grows #yuzu using a #greenhouse.]]></title>
+        <id>https://www.youtube.com/watch?v=1UF1xmi7rM0</id>
+        <link href="https://www.youtube.com/watch?v=1UF1xmi7rM0"/>
+        <updated>2025-05-29T14:00:04.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Flood of Sugar That Swallowed Boston]]></title>
         <id>https://www.youtube.com/watch?v=aHw1i8BLpM4</id>
@@ -447,15 +492,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We tested an #AI voice cloning tool to transfer #money between #bank accounts. Here's how it went.]]></title>
-        <id>https://www.youtube.com/watch?v=8sdA5F93xAg</id>
-        <link href="https://www.youtube.com/watch?v=8sdA5F93xAg"/>
-        <updated>2025-05-20T18:43:22.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ionizing Radiation #science #debunk #skincare]]></title>
         <id>https://www.youtube.com/watch?v=WnNVgRyWUi8</id>
         <link href="https://www.youtube.com/watch?v=WnNVgRyWUi8"/>
@@ -528,15 +564,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3 Turrets & 2 Spindles = INSANE Lathe Technology]]></title>
-        <id>https://www.youtube.com/watch?v=eFqRck9uUbA</id>
-        <link href="https://www.youtube.com/watch?v=eFqRck9uUbA"/>
-        <updated>2025-05-18T14:00:55.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Are 3D Printed Shoes Worth It?]]></title>
         <id>https://www.youtube.com/watch?v=4id0-vvu-u0</id>
         <link href="https://www.youtube.com/watch?v=4id0-vvu-u0"/>
@@ -552,15 +579,6 @@
         <updated>2025-05-17T15:01:30.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CNC Machinist HATES Crust 🍞]]></title>
-        <id>https://www.youtube.com/watch?v=-rVaDqJRJps</id>
-        <link href="https://www.youtube.com/watch?v=-rVaDqJRJps"/>
-        <updated>2025-05-17T14:00:03.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -885,15 +903,6 @@
         <updated>2025-05-07T02:43:40.000Z</updated>
         <author>
             <name>Artem Kirsanov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch this BMX Robot Do Some Sick Flips]]></title>
-        <id>https://www.youtube.com/watch?v=ZiIzoulJV9w</id>
-        <link href="https://www.youtube.com/watch?v=ZiIzoulJV9w"/>
-        <updated>2025-05-06T21:00:40.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -2082,69 +2091,6 @@
         <updated>2025-03-01T16:00:38.000Z</updated>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tracing the Abyss: The Spacetime of a Supermassive Black Hole]]></title>
-        <id>https://www.youtube.com/watch?v=I9s5KrAXF9U</id>
-        <link href="https://www.youtube.com/watch?v=I9s5KrAXF9U"/>
-        <updated>2025-02-28T21:00:07.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why don’t we see stars in space? #apollo #moonlanding Full video - https://youtu.be/fMHLvoWZfqQ]]></title>
-        <id>https://www.youtube.com/watch?v=oEVl_TXnRKw</id>
-        <link href="https://www.youtube.com/watch?v=oEVl_TXnRKw"/>
-        <updated>2025-02-28T20:08:36.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Discovery of a Surprising Brain-Body Connection #science  #vagusnerve #brain]]></title>
-        <id>https://www.youtube.com/watch?v=TWAS5Pt8Lrw</id>
-        <link href="https://www.youtube.com/watch?v=TWAS5Pt8Lrw"/>
-        <updated>2025-02-28T19:30:49.000Z</updated>
-        <author>
-            <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why is the Hubble Tension so important? #cosmology #space #science]]></title>
-        <id>https://www.youtube.com/watch?v=ATYRYzemRIg</id>
-        <link href="https://www.youtube.com/watch?v=ATYRYzemRIg"/>
-        <updated>2025-02-28T16:32:54.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I made a massive Space Ork / Warhammer 40k]]></title>
-        <id>https://www.youtube.com/watch?v=OsyfB5LIOwg</id>
-        <link href="https://www.youtube.com/watch?v=OsyfB5LIOwg"/>
-        <updated>2025-02-28T16:00:32.000Z</updated>
-        <author>
-            <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When being beautifully wrong leads to discovery]]></title>
-        <id>https://www.youtube.com/watch?v=TZAC0WFemvE</id>
-        <link href="https://www.youtube.com/watch?v=TZAC0WFemvE"/>
-        <updated>2025-02-28T15:00:44.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Teleprompter Paradox]]></title>
-        <id>https://www.youtube.com/watch?v=8LkRMtWfhn4</id>
-        <link href="https://www.youtube.com/watch?v=8LkRMtWfhn4"/>
-        <updated>2025-02-28T14:30:06.000Z</updated>
-        <author>
-            <name>minutephysics</name>
         </author>
     </entry>
 </feed>
