@@ -1,12 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-01T00:59:32.051Z</id>
+    <id>urn:2025-06-02T00:51:43.668Z</id>
     <title>osmos::feed</title>
-    <updated>2025-06-01T00:59:32.051Z</updated>
+    <updated>2025-06-02T00:51:43.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[The Last Great Thing Boeing Made?]]></title>
+        <title type="html"><![CDATA[Machining Something Unexpected - Can You Name It?]]></title>
+        <id>https://www.youtube.com/watch?v=q5uoD2usOgI</id>
+        <link href="https://www.youtube.com/watch?v=q5uoD2usOgI"/>
+        <updated>2025-06-01T14:01:13.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Everyone Gets Wrong About Football (ft. Tom Brady)]]></title>
+        <id>https://www.youtube.com/watch?v=J3i3F2e4IYs</id>
+        <link href="https://www.youtube.com/watch?v=J3i3F2e4IYs"/>
+        <updated>2025-06-01T05:31:02.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Last Great Thing Boeing Made? | Full Documentary]]></title>
         <id>https://www.youtube.com/watch?v=z_PlyQAWT4g</id>
         <link href="https://www.youtube.com/watch?v=z_PlyQAWT4g"/>
         <updated>2025-05-31T16:01:12.000Z</updated>
@@ -42,7 +60,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why You Remember Jet Set Radio]]></title>
+        <title type="html"><![CDATA[The Most 2000s Game Ever]]></title>
         <id>https://www.youtube.com/watch?v=GUZG252kBB4</id>
         <link href="https://www.youtube.com/watch?v=GUZG252kBB4"/>
         <updated>2025-05-31T00:56:15.000Z</updated>
@@ -615,15 +633,6 @@
         <updated>2025-05-20T15:01:42.000Z</updated>
         <author>
             <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Printing HUGE Aviation Parts]]></title>
-        <id>https://www.youtube.com/watch?v=rXI7_ahge4A</id>
-        <link href="https://www.youtube.com/watch?v=rXI7_ahge4A"/>
-        <updated>2025-05-20T15:01:24.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1797,7 +1806,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Did The Mars Helicopter Disappear?]]></title>
+        <title type="html"><![CDATA[How this helicopter survived 1004 days on Mars, then disappeared...]]></title>
         <id>https://www.youtube.com/watch?v=20vUNgRdB4o</id>
         <link href="https://www.youtube.com/watch?v=20vUNgRdB4o"/>
         <updated>2025-03-20T22:41:55.000Z</updated>
@@ -2118,24 +2127,6 @@
         <updated>2025-03-04T16:37:23.000Z</updated>
         <author>
             <name>NileRed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I really thought this would fly well]]></title>
-        <id>https://www.youtube.com/watch?v=BO_YGcSzJdA</id>
-        <link href="https://www.youtube.com/watch?v=BO_YGcSzJdA"/>
-        <updated>2025-03-04T01:05:20.000Z</updated>
-        <author>
-            <name>Stuff Made Here</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SCRUBBED] [4K] Watch Starship Flight 8, booster catch and Starship 2 test.]]></title>
-        <id>https://www.youtube.com/watch?v=L_4gAtrfi6w</id>
-        <link href="https://www.youtube.com/watch?v=L_4gAtrfi6w"/>
-        <updated>2025-03-04T00:29:20.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
         </author>
     </entry>
 </feed>
