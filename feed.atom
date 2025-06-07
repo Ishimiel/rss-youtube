@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-06T00:48:19.371Z</id>
+    <id>urn:2025-06-07T00:48:05.672Z</id>
     <title>osmos::feed</title>
-    <updated>2025-06-06T00:48:19.371Z</updated>
+    <updated>2025-06-07T00:48:05.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Can You Trust Your Memories?]]></title>
+        <id>https://www.youtube.com/watch?v=vdss3c5TJzw</id>
+        <link href="https://www.youtube.com/watch?v=vdss3c5TJzw"/>
+        <updated>2025-06-06T20:00:06.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lightning Fast Programming with CAM Assist]]></title>
+        <id>https://www.youtube.com/watch?v=of7o9VU1Ras</id>
+        <link href="https://www.youtube.com/watch?v=of7o9VU1Ras"/>
+        <updated>2025-06-06T14:01:17.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My 10 Years On YouTube]]></title>
+        <id>https://www.youtube.com/watch?v=mTiHK3fGmTU</id>
+        <link href="https://www.youtube.com/watch?v=mTiHK3fGmTU"/>
+        <updated>2025-06-06T13:53:45.000Z</updated>
+        <author>
+            <name>The Engineering Mindset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#ElonMusk and #DonaldTrump’s once-friendly relationship has imploded in a very public way. #tesla]]></title>
+        <id>https://www.youtube.com/watch?v=3mugGf0Ruus</id>
+        <link href="https://www.youtube.com/watch?v=3mugGf0Ruus"/>
+        <updated>2025-06-06T13:41:23.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Expected Value (Mean) of a Probability Distribution]]></title>
+        <id>https://www.youtube.com/watch?v=CBgCR1kHSUI</id>
+        <link href="https://www.youtube.com/watch?v=CBgCR1kHSUI"/>
+        <updated>2025-06-06T13:30:18.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Small Town 3D Printer UPGRADES!]]></title>
+        <id>https://www.youtube.com/watch?v=GsAL2Brmny8</id>
+        <link href="https://www.youtube.com/watch?v=GsAL2Brmny8"/>
+        <updated>2025-06-06T13:00:36.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The CERN Robot Workforce]]></title>
+        <id>https://www.youtube.com/watch?v=l9a_iXTPWeE</id>
+        <link href="https://www.youtube.com/watch?v=l9a_iXTPWeE"/>
+        <updated>2025-06-06T11:00:01.000Z</updated>
+        <author>
+            <name>Domain of Science</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Different Neuron Parts Learn Differently?]]></title>
+        <id>https://www.youtube.com/watch?v=9StHNcGs-JM</id>
+        <link href="https://www.youtube.com/watch?v=9StHNcGs-JM"/>
+        <updated>2025-06-06T01:30:47.000Z</updated>
+        <author>
+            <name>Artem Kirsanov</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Major #retailers like #Walmart cut thousands of mid-level #jobs as "great flattening" spreads.]]></title>
         <id>https://www.youtube.com/watch?v=jufzkBBSgp4</id>
@@ -30,6 +102,15 @@
         <updated>2025-06-05T15:01:14.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is an Electric Moondozer!!]]></title>
+        <id>https://www.youtube.com/watch?v=SlinT8oZWiE</id>
+        <link href="https://www.youtube.com/watch?v=SlinT8oZWiE"/>
+        <updated>2025-06-05T15:00:50.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -204,7 +285,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Biggest Misconception in Football]]></title>
+        <title type="html"><![CDATA[The Biggest Misconception in Football (ft. Tom Brady)]]></title>
         <id>https://www.youtube.com/watch?v=J3i3F2e4IYs</id>
         <link href="https://www.youtube.com/watch?v=J3i3F2e4IYs"/>
         <updated>2025-06-01T05:31:02.000Z</updated>
@@ -213,7 +294,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Last Great Thing Boeing Made? | Full Documentary]]></title>
+        <title type="html"><![CDATA[How the Boeing 787 Works | Full Documentary]]></title>
         <id>https://www.youtube.com/watch?v=z_PlyQAWT4g</id>
         <link href="https://www.youtube.com/watch?v=z_PlyQAWT4g"/>
         <updated>2025-05-31T16:01:12.000Z</updated>
@@ -303,7 +384,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I made a big three headed wolf]]></title>
+        <title type="html"><![CDATA[I made a big three headed fire breathing wolf]]></title>
         <id>https://www.youtube.com/watch?v=zhJJCi33Kiw</id>
         <link href="https://www.youtube.com/watch?v=zhJJCi33Kiw"/>
         <updated>2025-05-30T15:01:51.000Z</updated>
@@ -519,15 +600,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Our #1 Machining Question]]></title>
-        <id>https://www.youtube.com/watch?v=nU--v37vrx0</id>
-        <link href="https://www.youtube.com/watch?v=nU--v37vrx0"/>
-        <updated>2025-05-26T14:01:13.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Risking Death For A Special Ceviche In Peru | Risky Business | Business Insider]]></title>
         <id>https://www.youtube.com/watch?v=_MgeSTzbbLI</id>
         <link href="https://www.youtube.com/watch?v=_MgeSTzbbLI"/>
@@ -543,15 +615,6 @@
         <updated>2025-05-25T08:00:53.000Z</updated>
         <author>
             <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Survived 14 Days In The Grueling Army Mountain School | Boot Camp Podcast | Business Insider]]></title>
-        <id>https://www.youtube.com/watch?v=fHcSuHNRWk0</id>
-        <link href="https://www.youtube.com/watch?v=fHcSuHNRWk0"/>
-        <updated>2025-05-24T15:01:00.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -964,15 +1027,6 @@
         <id>https://www.youtube.com/watch?v=qdv4DSlFOeo</id>
         <link href="https://www.youtube.com/watch?v=qdv4DSlFOeo"/>
         <updated>2025-05-11T08:00:55.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are You a Time Traveller?]]></title>
-        <id>https://www.youtube.com/watch?v=_uyaAGnTpz8</id>
-        <link href="https://www.youtube.com/watch?v=_uyaAGnTpz8"/>
-        <updated>2025-05-10T00:30:23.000Z</updated>
         <author>
             <name>Interesting Engineering</name>
         </author>
@@ -1416,15 +1470,6 @@
         <updated>2025-04-17T14:00:44.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Printing Silicone FAST!]]></title>
-        <id>https://www.youtube.com/watch?v=Xm8aFZZLdN4</id>
-        <link href="https://www.youtube.com/watch?v=Xm8aFZZLdN4"/>
-        <updated>2025-04-16T13:00:58.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
         </author>
     </entry>
     <entry>
