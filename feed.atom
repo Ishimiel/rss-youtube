@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-08T00:54:40.438Z</id>
+    <id>urn:2025-06-09T00:52:51.735Z</id>
     <title>osmos::feed</title>
-    <updated>2025-06-08T00:54:40.438Z</updated>
+    <updated>2025-06-09T00:52:51.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[I Tried To Make Something In America (The Smarter Scrubber Experiment) - Smarter Every Day 308]]></title>
+        <id>https://www.youtube.com/watch?v=3ZTGwcHQfLY</id>
+        <link href="https://www.youtube.com/watch?v=3ZTGwcHQfLY"/>
+        <updated>2025-06-08T19:52:05.000Z</updated>
+        <author>
+            <name>SmarterEveryDay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Of The Most Faked Luxury Products In The World | Big Business | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=pBzrd4-qBY0</id>
+        <link href="https://www.youtube.com/watch?v=pBzrd4-qBY0"/>
+        <updated>2025-06-08T15:01:13.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machining an Aston Martin in Acrylic]]></title>
+        <id>https://www.youtube.com/watch?v=ECZxKzOOEgc</id>
+        <link href="https://www.youtube.com/watch?v=ECZxKzOOEgc"/>
+        <updated>2025-06-08T14:00:18.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA's NEW X-59 Supersonic Jet]]></title>
+        <id>https://www.youtube.com/watch?v=iUD9kUcRFJw</id>
+        <link href="https://www.youtube.com/watch?v=iUD9kUcRFJw"/>
+        <updated>2025-06-08T11:01:06.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silencing the Sonic Boom]]></title>
+        <id>https://www.youtube.com/watch?v=gD7wMZL1eZ4</id>
+        <link href="https://www.youtube.com/watch?v=gD7wMZL1eZ4"/>
+        <updated>2025-06-08T08:00:53.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This is no ordinary wood]]></title>
         <id>https://www.youtube.com/watch?v=v1eAj2SR6rI</id>
@@ -591,24 +636,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#AI #DarthVader debuts in #Fortnite and it's raising safety concerns.]]></title>
-        <id>https://www.youtube.com/watch?v=-7vetwzLgKs</id>
-        <link href="https://www.youtube.com/watch?v=-7vetwzLgKs"/>
-        <updated>2025-05-27T17:25:11.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BEST Shop Vac on the Market]]></title>
-        <id>https://www.youtube.com/watch?v=qP2yffVp0BY</id>
-        <link href="https://www.youtube.com/watch?v=qP2yffVp0BY"/>
-        <updated>2025-05-27T15:01:20.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This Robot Charger is Insane!]]></title>
         <id>https://www.youtube.com/watch?v=C-G0vQfQchU</id>
         <link href="https://www.youtube.com/watch?v=C-G0vQfQchU"/>
@@ -1029,24 +1056,6 @@
         <updated>2025-05-13T13:30:43.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Computer that Could Cure Death: Quantum Explained]]></title>
-        <id>https://www.youtube.com/watch?v=To4ls2mUC04</id>
-        <link href="https://www.youtube.com/watch?v=To4ls2mUC04"/>
-        <updated>2025-05-11T15:00:43.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Quantum Computing Works & Why it Will Change Everything]]></title>
-        <id>https://www.youtube.com/watch?v=qdv4DSlFOeo</id>
-        <link href="https://www.youtube.com/watch?v=qdv4DSlFOeo"/>
-        <updated>2025-05-11T08:00:55.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -1977,7 +1986,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flying playing cards are weird]]></title>
+        <title type="html"><![CDATA[Flying playing cards are awesome]]></title>
         <id>https://www.youtube.com/watch?v=zp-Fk_ZiV8Y</id>
         <link href="https://www.youtube.com/watch?v=zp-Fk_ZiV8Y"/>
         <updated>2025-03-18T11:01:23.000Z</updated>
@@ -2091,15 +2100,6 @@
         <updated>2025-03-13T15:01:01.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making chemical fireflies]]></title>
-        <id>https://www.youtube.com/watch?v=89Qlyy-wf68</id>
-        <link href="https://www.youtube.com/watch?v=89Qlyy-wf68"/>
-        <updated>2025-03-10T16:48:38.000Z</updated>
-        <author>
-            <name>NileRed</name>
         </author>
     </entry>
 </feed>
