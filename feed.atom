@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-15T00:55:29.472Z</id>
+    <id>urn:2025-06-16T00:52:10.126Z</id>
     <title>osmos::feed</title>
-    <updated>2025-06-15T00:55:29.472Z</updated>
+    <updated>2025-06-16T00:52:10.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Inside America's Only Giant Gun Barrel Factory Arming Ukraine | Big Business | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=xWOCxtfN4js</id>
+        <link href="https://www.youtube.com/watch?v=xWOCxtfN4js"/>
+        <updated>2025-06-15T15:01:29.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Properties of the Expected Value]]></title>
+        <id>https://www.youtube.com/watch?v=8rnzHE2UtoM</id>
+        <link href="https://www.youtube.com/watch?v=8rnzHE2UtoM"/>
+        <updated>2025-06-15T15:00:16.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machining the MOST Dangerous Material]]></title>
+        <id>https://www.youtube.com/shorts/3PFKIC5qFXU</id>
+        <link href="https://www.youtube.com/shorts/3PFKIC5qFXU"/>
+        <updated>2025-06-15T14:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Satellite Images Show How Fires Are Changing LA For Good | View From Above | Business Insider]]></title>
         <id>https://www.youtube.com/watch?v=WJhqu5_HzBU</id>
@@ -487,16 +515,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Major #retailers like #Walmart cut thousands of mid-level #jobs as "great flattening" spreads.]]></title>
-        <id>https://www.youtube.com/shorts/jufzkBBSgp4</id>
-        <link href="https://www.youtube.com/shorts/jufzkBBSgp4"/>
-        <updated>2025-06-05T20:29:01.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[We Are About to COMPLETELY Change the Industry]]></title>
         <id>https://www.youtube.com/shorts/idr7RT_VPZM</id>
         <link href="https://www.youtube.com/shorts/idr7RT_VPZM"/>
@@ -569,16 +587,6 @@
         <updated>2025-06-03T15:41:23.000Z</updated>
         <author>
             <name>NileRed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Precision Grinding Wheel Build]]></title>
-        <id>https://www.youtube.com/shorts/z5EtPCcL21c</id>
-        <link href="https://www.youtube.com/shorts/z5EtPCcL21c"/>
-        <updated>2025-06-03T15:01:43.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2107,15 +2115,6 @@
         <updated>2025-03-18T15:00:01.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flying playing cards are awesome]]></title>
-        <id>https://www.youtube.com/watch?v=zp-Fk_ZiV8Y</id>
-        <link href="https://www.youtube.com/watch?v=zp-Fk_ZiV8Y"/>
-        <updated>2025-03-18T11:01:23.000Z</updated>
-        <author>
-            <name>AlphaPhoenix</name>
         </author>
     </entry>
 </feed>
