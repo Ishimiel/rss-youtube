@@ -1,10 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-17T00:49:45.131Z</id>
+    <id>urn:2025-06-18T00:50:09.733Z</id>
     <title>osmos::feed</title>
-    <updated>2025-06-17T00:49:45.131Z</updated>
+    <updated>2025-06-18T00:50:09.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A simple equation that behaves weirdly - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=a7BVL1MOCl4</id>
+        <link href="https://www.youtube.com/watch?v=a7BVL1MOCl4"/>
+        <updated>2025-06-17T21:48:38.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump Mobile will be available later this fall and cost around $47 a month #trump #trumpmobile #tech]]></title>
+        <id>https://www.youtube.com/watch?v=0FWy-Q7IPco</id>
+        <link href="https://www.youtube.com/watch?v=0FWy-Q7IPco"/>
+        <updated>2025-06-17T21:10:44.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Example of Computing the Expectation and Variance of an Exponential Distribution]]></title>
+        <id>https://www.youtube.com/watch?v=Fz9_yqdEt-I</id>
+        <link href="https://www.youtube.com/watch?v=Fz9_yqdEt-I"/>
+        <updated>2025-06-17T15:30:15.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WATER Instantly Destroys MAGNESIUM Machined Parts]]></title>
+        <id>https://www.youtube.com/shorts/7cB4hjS6Wp4</id>
+        <link href="https://www.youtube.com/shorts/7cB4hjS6Wp4"/>
+        <updated>2025-06-17T15:00:23.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I’ve Never Seen a Mill-Turn Like This in My Life…]]></title>
+        <id>https://www.youtube.com/watch?v=2moQoP2-UPM</id>
+        <link href="https://www.youtube.com/watch?v=2moQoP2-UPM"/>
+        <updated>2025-06-17T14:00:03.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I weighed an airplane... while it was flying!]]></title>
+        <id>https://www.youtube.com/watch?v=hnvtstq3ztI</id>
+        <link href="https://www.youtube.com/watch?v=hnvtstq3ztI"/>
+        <updated>2025-06-17T10:01:13.000Z</updated>
+        <author>
+            <name>AlphaPhoenix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weighing a paper airplane WHILE IT'S FLYING. #physics #slowmo]]></title>
+        <id>https://www.youtube.com/shorts/_Krzug8Blgs</id>
+        <link href="https://www.youtube.com/shorts/_Krzug8Blgs"/>
+        <updated>2025-06-17T10:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>AlphaPhoenix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spacetime Embedding Diagrams: Flamm's Paraboloid | General Relativity]]></title>
+        <id>https://www.youtube.com/watch?v=qbU6WcWrHO4</id>
+        <link href="https://www.youtube.com/watch?v=qbU6WcWrHO4"/>
+        <updated>2025-06-17T05:54:50.000Z</updated>
+        <author>
+            <name>Faculty of Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Helix Puzzle]]></title>
+        <id>https://www.youtube.com/watch?v=I21BSP_LgRg</id>
+        <link href="https://www.youtube.com/watch?v=I21BSP_LgRg"/>
+        <updated>2025-06-17T01:46:03.000Z</updated>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Researchers are developing 'e-tattoo' that monitors brain activity. #tech #wearables #tattoo]]></title>
         <id>https://www.youtube.com/shorts/PxTEt6_MnFk</id>
@@ -219,7 +302,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How The Smithsonian Mines 148 Million Specimens For Hidden Secrets | AI in Action | Business Insider]]></title>
+        <title type="html"><![CDATA[How The Smithsonian Decodes 148 Million Specimens | AI in Action | Business Insider]]></title>
         <id>https://www.youtube.com/watch?v=KqSBoFXee2M</id>
         <link href="https://www.youtube.com/watch?v=KqSBoFXee2M"/>
         <updated>2025-06-12T15:00:29.000Z</updated>
@@ -415,15 +498,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Fake Luxury Goods Became A $1.4 Trillion Business | Big Business | Business Insider]]></title>
-        <id>https://www.youtube.com/watch?v=pBzrd4-qBY0</id>
-        <link href="https://www.youtube.com/watch?v=pBzrd4-qBY0"/>
-        <updated>2025-06-08T15:01:13.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Machining an Aston Martin in Acrylic]]></title>
         <id>https://www.youtube.com/shorts/ECZxKzOOEgc</id>
         <link href="https://www.youtube.com/shorts/ECZxKzOOEgc"/>
@@ -544,31 +618,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We Are About to COMPLETELY Change the Industry]]></title>
-        <id>https://www.youtube.com/shorts/idr7RT_VPZM</id>
-        <link href="https://www.youtube.com/shorts/idr7RT_VPZM"/>
-        <updated>2025-06-05T15:01:14.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This is an Electric Moondozer!!]]></title>
         <id>https://www.youtube.com/watch?v=SlinT8oZWiE</id>
         <link href="https://www.youtube.com/watch?v=SlinT8oZWiE"/>
         <updated>2025-06-05T15:00:50.000Z</updated>
         <author>
             <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Machine a PERFECT Sphere]]></title>
-        <id>https://www.youtube.com/watch?v=1dchGJNoze0</id>
-        <link href="https://www.youtube.com/watch?v=1dchGJNoze0"/>
-        <updated>2025-06-05T14:00:03.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
