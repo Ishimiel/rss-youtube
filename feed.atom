@@ -1,10 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-22T00:55:28.657Z</id>
+    <id>urn:2025-06-23T00:54:00.107Z</id>
     <title>osmos::feed</title>
-    <updated>2025-06-22T00:55:28.657Z</updated>
+    <updated>2025-06-23T00:54:00.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The HiPhi Z is Crazy]]></title>
+        <id>https://www.youtube.com/shorts/aSVT2qk3MJg</id>
+        <link href="https://www.youtube.com/shorts/aSVT2qk3MJg"/>
+        <updated>2025-06-22T15:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mind Blowing CNC Cut]]></title>
+        <id>https://www.youtube.com/shorts/6ORnwF9kmrs</id>
+        <link href="https://www.youtube.com/shorts/6ORnwF9kmrs"/>
+        <updated>2025-06-22T14:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 9-sided Enneahedron - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=3X2aQIMx5bs</id>
+        <link href="https://www.youtube.com/watch?v=3X2aQIMx5bs"/>
+        <updated>2025-06-22T13:17:39.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cars Design is Getting Crazy]]></title>
+        <id>https://www.youtube.com/watch?v=B334W8psku0</id>
+        <link href="https://www.youtube.com/watch?v=B334W8psku0"/>
+        <updated>2025-06-22T08:00:20.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mnemonics]]></title>
+        <id>https://www.youtube.com/shorts/d9PKYi0l1oo</id>
+        <link href="https://www.youtube.com/shorts/d9PKYi0l1oo"/>
+        <updated>2025-06-22T00:56:04.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Balancing Grinding Wheels for Ultimate Precision]]></title>
         <id>https://www.youtube.com/shorts/-H5F9m8IHTw</id>
@@ -121,7 +169,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Simplest Unsolved Problem in Math]]></title>
+        <title type="html"><![CDATA[The Obviously True Theorem No One Can Prove]]></title>
         <id>https://www.youtube.com/watch?v=x32Zq-XvID4</id>
         <link href="https://www.youtube.com/watch?v=x32Zq-XvID4"/>
         <updated>2025-06-20T13:01:46.000Z</updated>
@@ -642,16 +690,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Milling vs Polygonal Turning | Which is Faster?]]></title>
-        <id>https://www.youtube.com/shorts/EqhFMyjbB1U</id>
-        <link href="https://www.youtube.com/shorts/EqhFMyjbB1U"/>
-        <updated>2025-06-10T15:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Birkhoff's Theorem and Proof | General Relativity]]></title>
         <id>https://www.youtube.com/watch?v=twza_6dxmHU</id>
         <link href="https://www.youtube.com/watch?v=twza_6dxmHU"/>
@@ -999,16 +1037,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Flood of Sugar That Swallowed Boston]]></title>
-        <id>https://www.youtube.com/shorts/aHw1i8BLpM4</id>
-        <link href="https://www.youtube.com/shorts/aHw1i8BLpM4"/>
-        <updated>2025-05-29T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Physicists Created Quantum Tornadoes #physics]]></title>
         <id>https://www.youtube.com/shorts/ybIe5Rq0OFM</id>
         <link href="https://www.youtube.com/shorts/ybIe5Rq0OFM"/>
@@ -1054,16 +1082,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Robot Charger is Insane!]]></title>
-        <id>https://www.youtube.com/shorts/C-G0vQfQchU</id>
-        <link href="https://www.youtube.com/shorts/C-G0vQfQchU"/>
-        <updated>2025-05-27T15:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -2010,7 +2028,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Man Who Almost Broke Math (And Himself...)]]></title>
+        <title type="html"><![CDATA[The Man Who Almost Broke Math (And Himself...) - Axiom of Choice]]></title>
         <id>https://www.youtube.com/watch?v=_cr46G2K5Fo</id>
         <link href="https://www.youtube.com/watch?v=_cr46G2K5Fo"/>
         <updated>2025-04-02T10:31:01.000Z</updated>
@@ -2176,35 +2194,6 @@
         <updated>2025-03-25T14:21:13.000Z</updated>
         <author>
             <name>CNC Kitchen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything is in 4/4 if you try hard enough]]></title>
-        <id>https://www.youtube.com/shorts/SZ2Q_skcBn0</id>
-        <link href="https://www.youtube.com/shorts/SZ2Q_skcBn0"/>
-        <updated>2025-03-25T00:24:21.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Adam Neely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CONSPIRACY | contrapoints]]></title>
-        <id>https://www.youtube.com/watch?v=teqkK0RLNkI</id>
-        <link href="https://www.youtube.com/watch?v=teqkK0RLNkI"/>
-        <updated>2025-03-24T18:34:09.000Z</updated>
-        <author>
-            <name>ContraPoints</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can you solve the prisoner's riddle?]]></title>
-        <id>https://www.youtube.com/shorts/DCiPrr-dQyw</id>
-        <link href="https://www.youtube.com/shorts/DCiPrr-dQyw"/>
-        <updated>2025-03-24T15:46:32.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Veritasium</name>
         </author>
     </entry>
 </feed>
