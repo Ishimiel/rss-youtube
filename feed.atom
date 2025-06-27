@@ -1,10 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-26T00:50:40.162Z</id>
+    <id>urn:2025-06-27T00:51:13.541Z</id>
     <title>osmos::feed</title>
-    <updated>2025-06-26T00:50:40.163Z</updated>
+    <updated>2025-06-27T00:51:13.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The #Bezos-Sanchez wedding will have 200 guests including #Kardashians and the #Trump family.]]></title>
+        <id>https://www.youtube.com/shorts/RRWDH91p0Ng</id>
+        <link href="https://www.youtube.com/shorts/RRWDH91p0Ng"/>
+        <updated>2025-06-26T20:14:58.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Universe Might End]]></title>
+        <id>https://www.youtube.com/shorts/EJoJzLaIcEc</id>
+        <link href="https://www.youtube.com/shorts/EJoJzLaIcEc"/>
+        <updated>2025-06-26T16:14:41.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complete Vise Install | SYIL X7]]></title>
+        <id>https://www.youtube.com/shorts/83TzMuWErZU</id>
+        <link href="https://www.youtube.com/shorts/83TzMuWErZU"/>
+        <updated>2025-06-26T15:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Millions of bottles of #Chile de arbol #hotsauce are produced each year, made with #PepperX.]]></title>
+        <id>https://www.youtube.com/shorts/zL1AVDcacyI</id>
+        <link href="https://www.youtube.com/shorts/zL1AVDcacyI"/>
+        <updated>2025-06-26T14:01:29.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Is The BIGGEST Thing We Have EVER Done!]]></title>
+        <id>https://www.youtube.com/watch?v=BIKG6WEZi74</id>
+        <link href="https://www.youtube.com/watch?v=BIKG6WEZi74"/>
+        <updated>2025-06-26T14:00:15.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What YouTube gets wrong about Spacetime Curvature | Animated General Relativity]]></title>
+        <id>https://www.youtube.com/watch?v=vjEP3i-oWE0</id>
+        <link href="https://www.youtube.com/watch?v=vjEP3i-oWE0"/>
+        <updated>2025-06-26T13:35:40.000Z</updated>
+        <author>
+            <name>Faculty of Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Markov's Inequality in Probability: First Order Estimates]]></title>
+        <id>https://www.youtube.com/watch?v=onZSWfbTeho</id>
+        <link href="https://www.youtube.com/watch?v=onZSWfbTeho"/>
+        <updated>2025-06-26T13:30:47.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Magnetic Shadow Effect]]></title>
+        <id>https://www.youtube.com/watch?v=MuvuxHXLzls</id>
+        <link href="https://www.youtube.com/watch?v=MuvuxHXLzls"/>
+        <updated>2025-06-26T13:00:47.000Z</updated>
+        <author>
+            <name>minutephysics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does Hand-Fanning Actually Work?]]></title>
+        <id>https://www.youtube.com/shorts/ufe55fG5zVA</id>
+        <link href="https://www.youtube.com/shorts/ufe55fG5zVA"/>
+        <updated>2025-06-26T02:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This Hotel Uses the Sun to Stay Frozen]]></title>
         <id>https://www.youtube.com/shorts/2cdHPneHlGg</id>
@@ -86,7 +172,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Made My Own Custom 3D Printer Build Plates!]]></title>
+        <title type="html"><![CDATA[This Plate Embosses Your Logo Into Every 3D Print]]></title>
         <id>https://www.youtube.com/watch?v=hgOzJW-heT8</id>
         <link href="https://www.youtube.com/watch?v=hgOzJW-heT8"/>
         <updated>2025-06-24T15:00:30.000Z</updated>
@@ -346,7 +432,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Simplest Unsolved Problem in Math]]></title>
+        <title type="html"><![CDATA[The Obviously True Theorem No One Can Prove]]></title>
         <id>https://www.youtube.com/watch?v=x32Zq-XvID4</id>
         <link href="https://www.youtube.com/watch?v=x32Zq-XvID4"/>
         <updated>2025-06-20T13:01:46.000Z</updated>
@@ -624,35 +710,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Machining the MOST Dangerous Material]]></title>
-        <id>https://www.youtube.com/shorts/3PFKIC5qFXU</id>
-        <link href="https://www.youtube.com/shorts/3PFKIC5qFXU"/>
-        <updated>2025-06-15T14:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Maps Show Why LA Should Not Rebuild As Before | View From Above | Business Insider]]></title>
-        <id>https://www.youtube.com/watch?v=WJhqu5_HzBU</id>
-        <link href="https://www.youtube.com/watch?v=WJhqu5_HzBU"/>
-        <updated>2025-06-14T15:00:50.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grinding a Tool for More Clearance]]></title>
-        <id>https://www.youtube.com/shorts/grTe1G6zQzQ</id>
-        <link href="https://www.youtube.com/shorts/grTe1G6zQzQ"/>
-        <updated>2025-06-14T14:01:04.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Craters Of Eternal Darkness]]></title>
         <id>https://www.youtube.com/shorts/m8KIGvOcEEo</id>
         <link href="https://www.youtube.com/shorts/m8KIGvOcEEo"/>
@@ -660,16 +717,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#Israel strikes #Iran's nuclear sites with 200 #warplanes and Iran retaliates with 100 drones.]]></title>
-        <id>https://www.youtube.com/shorts/_zxtNOUKc3E</id>
-        <link href="https://www.youtube.com/shorts/_zxtNOUKc3E"/>
-        <updated>2025-06-13T20:55:50.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -1747,7 +1794,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I made a Luigi so hot, his body makes pizza]]></title>
+        <title type="html"><![CDATA[The Luigi Pizza Oven]]></title>
         <id>https://www.youtube.com/watch?v=VWECCe0-HQo</id>
         <link href="https://www.youtube.com/watch?v=VWECCe0-HQo"/>
         <updated>2025-04-25T14:36:07.000Z</updated>
@@ -2107,7 +2154,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Man Who Almost Broke Math (And Himself...)]]></title>
+        <title type="html"><![CDATA[The Man Who Almost Broke Math (And Himself...) - Axiom of Choice]]></title>
         <id>https://www.youtube.com/watch?v=_cr46G2K5Fo</id>
         <link href="https://www.youtube.com/watch?v=_cr46G2K5Fo"/>
         <updated>2025-04-02T10:31:01.000Z</updated>
@@ -2187,24 +2234,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are Space and Time Created by Quantum Error Correction?]]></title>
-        <id>https://www.youtube.com/watch?v=XbL64sz8dQI</id>
-        <link href="https://www.youtube.com/watch?v=XbL64sz8dQI"/>
-        <updated>2025-03-28T20:00:06.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I made a realistic Minecraft Steve (but it's Jack Black)]]></title>
-        <id>https://www.youtube.com/watch?v=WBVwHezg-cg</id>
-        <link href="https://www.youtube.com/watch?v=WBVwHezg-cg"/>
-        <updated>2025-03-28T16:00:39.000Z</updated>
-        <author>
-            <name>North of the Border</name>
         </author>
     </entry>
 </feed>
