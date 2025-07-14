@@ -1,12 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-13T00:57:41.225Z</id>
+    <id>urn:2025-07-14T00:55:21.873Z</id>
     <title>osmos::feed</title>
-    <updated>2025-07-13T00:57:41.225Z</updated>
+    <updated>2025-07-14T00:55:21.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Making 3D Printing Filament with POOP]]></title>
+        <title type="html"><![CDATA[Living by Power Lines #science #electrical #cancer]]></title>
+        <id>https://www.youtube.com/shorts/rlyU9AMaq9g</id>
+        <link href="https://www.youtube.com/shorts/rlyU9AMaq9g"/>
+        <updated>2025-07-13T16:15:54.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Think About Radiation (Entering a Nuclear Power Plant) - Smarter Every Day 309]]></title>
+        <id>https://www.youtube.com/watch?v=cRaKMTK7ea0</id>
+        <link href="https://www.youtube.com/watch?v=cRaKMTK7ea0"/>
+        <updated>2025-07-13T14:00:11.000Z</updated>
+        <author>
+            <name>SmarterEveryDay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Custom Fixture for More Efficient Machining]]></title>
+        <id>https://www.youtube.com/shorts/48tq89YEoDo</id>
+        <link href="https://www.youtube.com/shorts/48tq89YEoDo"/>
+        <updated>2025-07-13T14:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Lebesque Measure in Probability]]></title>
+        <id>https://www.youtube.com/watch?v=j6AD6Dm9sSs</id>
+        <link href="https://www.youtube.com/watch?v=j6AD6Dm9sSs"/>
+        <updated>2025-07-13T13:01:25.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making the most Unusual 3D Printing Filament EVER!]]></title>
         <id>https://www.youtube.com/watch?v=GmUPN2Nww6Q</id>
         <link href="https://www.youtube.com/watch?v=GmUPN2Nww6Q"/>
         <updated>2025-07-12T15:22:41.000Z</updated>
@@ -15,7 +53,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Missile Shield for America: A Trillion Dollar Fantasy?]]></title>
+        <title type="html"><![CDATA[How Will the Golden Dome Work?]]></title>
         <id>https://www.youtube.com/watch?v=h3sbDTl2MSU</id>
         <link href="https://www.youtube.com/watch?v=h3sbDTl2MSU"/>
         <updated>2025-07-12T15:01:16.000Z</updated>
@@ -33,7 +71,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why still care about Newtonian gravity? | Hidden gems #1]]></title>
+        <title type="html"><![CDATA[Little-known properties of Newtonian gravity | Hidden gems #1]]></title>
         <id>https://www.youtube.com/watch?v=C8woZdYisEc</id>
         <link href="https://www.youtube.com/watch?v=C8woZdYisEc"/>
         <updated>2025-07-12T14:00:16.000Z</updated>
@@ -702,15 +740,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Do You Machine Parts This Fragile?]]></title>
-        <id>https://www.youtube.com/watch?v=EOjgPJEICHU</id>
-        <link href="https://www.youtube.com/watch?v=EOjgPJEICHU"/>
-        <updated>2025-07-01T14:00:25.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[When Your Body Attacks Itself – Autoimmune]]></title>
         <id>https://www.youtube.com/watch?v=efOW5NUTYB8</id>
         <link href="https://www.youtube.com/watch?v=efOW5NUTYB8"/>
@@ -1055,7 +1084,7 @@
         <id>https://www.youtube.com/shorts/O82PgBwJygQ</id>
         <link href="https://www.youtube.com/shorts/O82PgBwJygQ"/>
         <updated>2025-06-20T16:43:42.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <summary type="html"><![CDATA[There may be more planets in the Milky Way galaxy than there are stars, some hundreds of billions. So where are all the aliens?PW Founding Director of Scienc...]]></summary>
         <author>
             <name>Pioneer Works</name>
         </author>
@@ -1553,15 +1582,6 @@
         <updated>2025-05-30T20:49:53.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Chi Squared Distribution: The Square of the Normal Distribution]]></title>
-        <id>https://www.youtube.com/watch?v=h9j849vAsAA</id>
-        <link href="https://www.youtube.com/watch?v=h9j849vAsAA"/>
-        <updated>2025-05-30T17:30:20.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
@@ -2257,33 +2277,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>NileRed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Tea Lady Experiment - Numberphile]]></title>
-        <id>https://www.youtube.com/watch?v=8ERFV7rV0vg</id>
-        <link href="https://www.youtube.com/watch?v=8ERFV7rV0vg"/>
-        <updated>2025-04-15T10:46:09.000Z</updated>
-        <author>
-            <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to ACTUALLY Use an Oscilloscope (Beginner-Friendly Guide!)]]></title>
-        <id>https://www.youtube.com/watch?v=LaY47Qrfs0c</id>
-        <link href="https://www.youtube.com/watch?v=LaY47Qrfs0c"/>
-        <updated>2025-04-14T17:00:19.000Z</updated>
-        <author>
-            <name>The Engineering Mindset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Hole In Relativity Einstein Didn’t Predict]]></title>
-        <id>https://www.youtube.com/watch?v=lcjdwSY2AzM</id>
-        <link href="https://www.youtube.com/watch?v=lcjdwSY2AzM"/>
-        <updated>2025-04-14T16:31:04.000Z</updated>
-        <author>
-            <name>Veritasium</name>
         </author>
     </entry>
 </feed>
