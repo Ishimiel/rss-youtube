@@ -1,10 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-25T00:53:19.302Z</id>
+    <id>urn:2025-07-26T00:51:54.594Z</id>
     <title>osmos::feed</title>
-    <updated>2025-07-25T00:53:19.302Z</updated>
+    <updated>2025-07-26T00:51:54.594Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Russian Math Feud Behind Google's Trillion Dollar Algorithm]]></title>
+        <id>https://www.youtube.com/watch?v=KZeIEiBrT_w</id>
+        <link href="https://www.youtube.com/watch?v=KZeIEiBrT_w"/>
+        <updated>2025-07-25T22:07:23.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redesigning The Molecules of Life]]></title>
+        <id>https://www.youtube.com/watch?v=tQNc-LEyXGA</id>
+        <link href="https://www.youtube.com/watch?v=tQNc-LEyXGA"/>
+        <updated>2025-07-25T20:00:07.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Could we help throw rockets to orbit? #rockets #spacex #starship]]></title>
+        <id>https://www.youtube.com/shorts/-GUNK8OzEIg</id>
+        <link href="https://www.youtube.com/shorts/-GUNK8OzEIg"/>
+        <updated>2025-07-25T19:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Soy Sauce Is Made]]></title>
+        <id>https://www.youtube.com/shorts/7QTH-T98cIU</id>
+        <link href="https://www.youtube.com/shorts/7QTH-T98cIU"/>
+        <updated>2025-07-25T18:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why #LosAngeles is a #hotspot for #fires. #urbansprawl]]></title>
+        <id>https://www.youtube.com/shorts/UNyY8owMCeE</id>
+        <link href="https://www.youtube.com/shorts/UNyY8owMCeE"/>
+        <updated>2025-07-25T16:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I made a realistic Trogdor the Burninator]]></title>
+        <id>https://www.youtube.com/watch?v=jIn_J1cJkNw</id>
+        <link href="https://www.youtube.com/watch?v=jIn_J1cJkNw"/>
+        <updated>2025-07-25T15:01:31.000Z</updated>
+        <author>
+            <name>North of the Border</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swiss Nano - Bar Feeder Explained]]></title>
+        <id>https://www.youtube.com/shorts/hpnp6t1k_ps</id>
+        <link href="https://www.youtube.com/shorts/hpnp6t1k_ps"/>
+        <updated>2025-07-25T14:01:10.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[These FUNCTIONAL THINGS are ALL 3D Printed!]]></title>
+        <id>https://www.youtube.com/watch?v=CqakrcwSZoM</id>
+        <link href="https://www.youtube.com/watch?v=CqakrcwSZoM"/>
+        <updated>2025-07-25T13:00:32.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[But how do AI videos actually work? | Guest video by @WelchLabsVideo]]></title>
+        <id>https://www.youtube.com/watch?v=iv-5mZ_9CPY</id>
+        <link href="https://www.youtube.com/watch?v=iv-5mZ_9CPY"/>
+        <updated>2025-07-25T12:14:11.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What substance breaks surface tension?]]></title>
         <id>https://www.youtube.com/shorts/5773TjUqPyg</id>
@@ -26,7 +111,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Man Builds 8Bit Computer Made of Kids Toys]]></title>
+        <title type="html"><![CDATA[Making a Computer From a Kids Toy]]></title>
         <id>https://www.youtube.com/shorts/JK2jnYtUPRM</id>
         <link href="https://www.youtube.com/shorts/JK2jnYtUPRM"/>
         <updated>2025-07-24T18:00:26.000Z</updated>
@@ -94,7 +179,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Different forces, same elliptical orbits: coincidence? | Hidden gems #2]]></title>
+        <title type="html"><![CDATA[Different forces, same (elliptical) orbits: coincidence? | Hidden gems #2]]></title>
         <id>https://www.youtube.com/watch?v=1ubTR3HzAI4</id>
         <link href="https://www.youtube.com/watch?v=1ubTR3HzAI4"/>
         <updated>2025-07-24T14:00:03.000Z</updated>
@@ -280,7 +365,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How GPUs Became the Most Valuable Industry on the Planet]]></title>
+        <title type="html"><![CDATA[How GPUs Overtook Apple: The $4 Trillion Chip Revolution]]></title>
         <id>https://www.youtube.com/watch?v=6olBqKA8GpQ</id>
         <link href="https://www.youtube.com/watch?v=6olBqKA8GpQ"/>
         <updated>2025-07-20T08:00:11.000Z</updated>
@@ -501,16 +586,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Would you eat at this #restaurant run by an #AI chef in #Dubai?]]></title>
-        <id>https://www.youtube.com/shorts/48JVq4g_lEg</id>
-        <link href="https://www.youtube.com/shorts/48JVq4g_lEg"/>
-        <updated>2025-07-15T21:14:12.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Making a bouncy egg by dissolving its shell]]></title>
         <id>https://www.youtube.com/shorts/0msK5m7rbQE</id>
         <link href="https://www.youtube.com/shorts/0msK5m7rbQE"/>
@@ -566,16 +641,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Most Efficient Way to Cut Splines?]]></title>
-        <id>https://www.youtube.com/shorts/VuWLu9ZR25o</id>
-        <link href="https://www.youtube.com/shorts/VuWLu9ZR25o"/>
-        <updated>2025-07-14T14:00:57.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -819,16 +884,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>NileRed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Tesla LFP Cell Factory In Nevada]]></title>
-        <id>https://www.youtube.com/shorts/zK1MzokOCdY</id>
-        <link href="https://www.youtube.com/shorts/zK1MzokOCdY"/>
-        <updated>2025-07-08T15:01:54.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -1764,15 +1819,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D Printing METAL AT HOME!]]></title>
-        <id>https://www.youtube.com/watch?v=fmUZj3mxNmQ</id>
-        <link href="https://www.youtube.com/watch?v=fmUZj3mxNmQ"/>
-        <updated>2025-05-30T13:01:17.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dozens of Nukes Are Missing. Why? HOW?]]></title>
         <id>https://www.youtube.com/shorts/o7aXV_PV4ss</id>
         <link href="https://www.youtube.com/shorts/o7aXV_PV4ss"/>
@@ -2235,24 +2281,6 @@
         <id>https://www.youtube.com/watch?v=5srMXqrccV4</id>
         <link href="https://www.youtube.com/watch?v=5srMXqrccV4"/>
         <updated>2025-04-27T14:25:14.000Z</updated>
-        <author>
-            <name>NinjaCakeAssassin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Most Dangerous Building in Manhattan]]></title>
-        <id>https://www.youtube.com/watch?v=Q56PMJbCFXQ</id>
-        <link href="https://www.youtube.com/watch?v=Q56PMJbCFXQ"/>
-        <updated>2025-04-26T20:07:58.000Z</updated>
-        <author>
-            <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Παίζω Dark Souls 3 για να νιώσω κάτι]]></title>
-        <id>https://www.youtube.com/watch?v=11xUpAmrLf0</id>
-        <link href="https://www.youtube.com/watch?v=11xUpAmrLf0"/>
-        <updated>2025-04-26T15:46:57.000Z</updated>
         <author>
             <name>NinjaCakeAssassin</name>
         </author>
