@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-03T00:59:48.515Z</id>
+    <id>urn:2025-08-04T00:59:01.819Z</id>
     <title>osmos::feed</title>
-    <updated>2025-08-03T00:59:48.515Z</updated>
+    <updated>2025-08-04T00:59:01.819Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Manufacturing the BEST Blades in America 🇺🇸]]></title>
+        <id>https://www.youtube.com/shorts/lDye1pjI95s</id>
+        <link href="https://www.youtube.com/shorts/lDye1pjI95s"/>
+        <updated>2025-08-03T14:01:05.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Crashes That Made Flying Safer]]></title>
+        <id>https://www.youtube.com/watch?v=1iF0vHUxL3s</id>
+        <link href="https://www.youtube.com/watch?v=1iF0vHUxL3s"/>
+        <updated>2025-08-03T08:00:02.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brilliant Old School Technology on a Modern Machine]]></title>
         <id>https://www.youtube.com/shorts/izwiwEKfnYE</id>
@@ -65,7 +84,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is Information a Fundamental Force of Physics?]]></title>
+        <title type="html"><![CDATA[Is Information a Fundamental Force of the Universe?]]></title>
         <id>https://www.youtube.com/watch?v=WqYRMmlZmhM</id>
         <link href="https://www.youtube.com/watch?v=WqYRMmlZmhM"/>
         <updated>2025-08-01T16:58:04.000Z</updated>
@@ -709,16 +728,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Accidental Discovery of the Pacemaker]]></title>
-        <id>https://www.youtube.com/shorts/clkAMdpTeQw</id>
-        <link href="https://www.youtube.com/shorts/clkAMdpTeQw"/>
-        <updated>2025-07-23T15:01:08.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Machining a Custom Multi-Functional Machinist Hammer]]></title>
         <id>https://www.youtube.com/shorts/_YF2tLMePXQ</id>
         <link href="https://www.youtube.com/shorts/_YF2tLMePXQ"/>
@@ -735,16 +744,6 @@
         <updated>2025-07-22T15:22:46.000Z</updated>
         <author>
             <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CNC Grinding a Custom Circle Segment Cutter]]></title>
-        <id>https://www.youtube.com/shorts/UhD43rHUQok</id>
-        <link href="https://www.youtube.com/shorts/UhD43rHUQok"/>
-        <updated>2025-07-22T15:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2312,25 +2311,6 @@
         <updated>2025-05-06T14:00:01.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is this mystery liquid?]]></title>
-        <id>https://www.youtube.com/shorts/IQQqXEztxZE</id>
-        <link href="https://www.youtube.com/shorts/IQQqXEztxZE"/>
-        <updated>2025-05-05T20:48:09.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Physics Girl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer of Math Exposition #4 | Teachers, I'd love to hear from you]]></title>
-        <id>https://www.youtube.com/watch?v=3foYyPDp0Ho</id>
-        <link href="https://www.youtube.com/watch?v=3foYyPDp0Ho"/>
-        <updated>2025-05-05T15:00:08.000Z</updated>
-        <author>
-            <name>3Blue1Brown</name>
         </author>
     </entry>
 </feed>
