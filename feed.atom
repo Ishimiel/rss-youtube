@@ -1,10 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-20T00:46:01.128Z</id>
+    <id>urn:2025-08-21T00:45:06.463Z</id>
     <title>osmos::feed</title>
-    <updated>2025-08-20T00:46:01.128Z</updated>
+    <updated>2025-08-21T00:45:06.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Science Brain Teaser]]></title>
+        <id>https://www.youtube.com/shorts/BSaWa4tFUGI</id>
+        <link href="https://www.youtube.com/shorts/BSaWa4tFUGI"/>
+        <updated>2025-08-20T23:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is #beeftallow healthier than #seedoils? #cookingoils]]></title>
+        <id>https://www.youtube.com/shorts/8d5p0_HQ41E</id>
+        <link href="https://www.youtube.com/shorts/8d5p0_HQ41E"/>
+        <updated>2025-08-20T21:08:19.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What it's like to train as an #army #drone #pilot]]></title>
+        <id>https://www.youtube.com/shorts/h1k3mLhhMmA</id>
+        <link href="https://www.youtube.com/shorts/h1k3mLhhMmA"/>
+        <updated>2025-08-20T18:41:13.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building MONSTER Tools]]></title>
+        <id>https://www.youtube.com/shorts/v8Nh0a6e-xg</id>
+        <link href="https://www.youtube.com/shorts/v8Nh0a6e-xg"/>
+        <updated>2025-08-20T14:01:33.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Random Sampling Without Replacement (Finite "n" Correction)]]></title>
+        <id>https://www.youtube.com/watch?v=IDvp3pMm16k</id>
+        <link href="https://www.youtube.com/watch?v=IDvp3pMm16k"/>
+        <updated>2025-08-20T14:00:34.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WIRobotics Releases 0.3mm Precision Robot]]></title>
         <id>https://www.youtube.com/shorts/MIe8QWolkcU</id>
@@ -94,7 +143,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Drug That Works TOO Well?]]></title>
+        <title type="html"><![CDATA[The Drug To Master Reality]]></title>
         <id>https://www.youtube.com/watch?v=u4LUix-BU0s</id>
         <link href="https://www.youtube.com/watch?v=u4LUix-BU0s"/>
         <updated>2025-08-19T14:00:01.000Z</updated>
@@ -492,16 +541,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nvidia's New Robot Trainer]]></title>
-        <id>https://www.youtube.com/shorts/rrSk_PZKH7c</id>
-        <link href="https://www.youtube.com/shorts/rrSk_PZKH7c"/>
-        <updated>2025-08-13T07:39:04.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The 3 main ideas of quantum mechanics. #quantum #quantummechanics #quantumphysics #briangreene]]></title>
         <id>https://www.youtube.com/shorts/o94r3IW1aRs</id>
         <link href="https://www.youtube.com/shorts/o94r3IW1aRs"/>
@@ -665,16 +704,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Satisfying Internal Keyway Broaching]]></title>
-        <id>https://www.youtube.com/shorts/Uwkhmfs_ELQ</id>
-        <link href="https://www.youtube.com/shorts/Uwkhmfs_ELQ"/>
-        <updated>2025-08-08T14:01:01.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Can We Talk to Whales? Experts Weigh in.]]></title>
         <id>https://www.youtube.com/watch?v=ZfBptSzJgOs</id>
         <link href="https://www.youtube.com/watch?v=ZfBptSzJgOs"/>
@@ -700,15 +729,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>NileRed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why The US Military Is Training A Drone Army 400 Miles From Ukraine | Business Insider]]></title>
-        <id>https://www.youtube.com/watch?v=mh9RtpZPpVo</id>
-        <link href="https://www.youtube.com/watch?v=mh9RtpZPpVo"/>
-        <updated>2025-08-07T16:10:58.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -747,16 +767,6 @@
         <updated>2025-08-06T21:41:07.000Z</updated>
         <author>
             <name>Adam Neely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A look inside KPMG's $450 million training facility. #bigfour #corporate #officeculture]]></title>
-        <id>https://www.youtube.com/shorts/MZWAmty3toQ</id>
-        <link href="https://www.youtube.com/shorts/MZWAmty3toQ"/>
-        <updated>2025-08-06T18:23:25.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -1052,7 +1062,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why are these orbits both elliptical? Coincidence?]]></title>
+        <title type="html"><![CDATA[Why are both orbits elliptical? Coincidence?]]></title>
         <id>https://www.youtube.com/watch?v=1ubTR3HzAI4</id>
         <link href="https://www.youtube.com/watch?v=1ubTR3HzAI4"/>
         <updated>2025-07-24T14:00:03.000Z</updated>
@@ -1688,15 +1698,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Markov's Inequality in Probability: First Order Estimates]]></title>
-        <id>https://www.youtube.com/watch?v=onZSWfbTeho</id>
-        <link href="https://www.youtube.com/watch?v=onZSWfbTeho"/>
-        <updated>2025-06-26T13:30:47.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Magnetic Shadow Effect]]></title>
         <id>https://www.youtube.com/watch?v=MuvuxHXLzls</id>
         <link href="https://www.youtube.com/watch?v=MuvuxHXLzls"/>
@@ -2298,15 +2299,6 @@
         <updated>2025-05-23T16:40:00.000Z</updated>
         <author>
             <name>NinjaCakeAssassin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Update From Dianna (Physics Girl)]]></title>
-        <id>https://www.youtube.com/watch?v=vqeIeIcDHD0</id>
-        <link href="https://www.youtube.com/watch?v=vqeIeIcDHD0"/>
-        <updated>2025-05-22T13:01:43.000Z</updated>
-        <author>
-            <name>Physics Girl</name>
         </author>
     </entry>
 </feed>
