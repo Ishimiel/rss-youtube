@@ -1,10 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-24T00:53:19.075Z</id>
+    <id>urn:2025-08-25T00:49:57.486Z</id>
     <title>osmos::feed</title>
-    <updated>2025-08-24T00:53:19.075Z</updated>
+    <updated>2025-08-25T00:49:57.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[[SCRUBBED] Watch the largest and most powerful rocket launch live! Starship Flight 10]]></title>
+        <id>https://www.youtube.com/watch?v=Xv97hecvwfI</id>
+        <link href="https://www.youtube.com/watch?v=Xv97hecvwfI"/>
+        <updated>2025-08-24T23:52:52.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You're Being Lied To About Private Equity]]></title>
+        <id>https://www.youtube.com/watch?v=6pzLhWCxH_g</id>
+        <link href="https://www.youtube.com/watch?v=6pzLhWCxH_g"/>
+        <updated>2025-08-24T16:00:08.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EASY Lathe Fix]]></title>
+        <id>https://www.youtube.com/shorts/VQKmMumAzwE</id>
+        <link href="https://www.youtube.com/shorts/VQKmMumAzwE"/>
+        <updated>2025-08-24T14:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Every power-law force has a conformal dual]]></title>
+        <id>https://www.youtube.com/watch?v=8XmktRwSGYQ</id>
+        <link href="https://www.youtube.com/watch?v=8XmktRwSGYQ"/>
+        <updated>2025-08-24T14:00:21.000Z</updated>
+        <author>
+            <name>Mathemaniac</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elden Ring, scrolling textures, swirling tornadoes.]]></title>
+        <id>https://www.youtube.com/watch?v=g2dA8FhdmGM</id>
+        <link href="https://www.youtube.com/watch?v=g2dA8FhdmGM"/>
+        <updated>2025-08-24T10:30:32.000Z</updated>
+        <author>
+            <name>Martin Donald</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inside The Billion-Dollar Hot Wheels Boom Fueled By Adults]]></title>
         <id>https://www.youtube.com/watch?v=6qGjA4pam7g</id>
@@ -137,15 +183,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4K] Watch the largest and most powerful rocket launch live! Starship Flight 10]]></title>
-        <id>https://www.youtube.com/watch?v=Xv97hecvwfI</id>
-        <link href="https://www.youtube.com/watch?v=Xv97hecvwfI"/>
-        <updated>2025-08-21T21:23:17.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
         </author>
     </entry>
     <entry>
@@ -479,7 +516,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Deep Sea Mining Dilemma]]></title>
+        <title type="html"><![CDATA[Why Aren't We Mining the Deep Sea?]]></title>
         <id>https://www.youtube.com/watch?v=ojAw9-TGhQg</id>
         <link href="https://www.youtube.com/watch?v=ojAw9-TGhQg"/>
         <updated>2025-08-17T08:00:50.000Z</updated>
@@ -681,16 +718,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How much can corporate #employees make at #Uber? #salary]]></title>
-        <id>https://www.youtube.com/shorts/-7BSJ_UmH1g</id>
-        <link href="https://www.youtube.com/shorts/-7BSJ_UmH1g"/>
-        <updated>2025-08-13T19:59:34.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Stone a CNC Mill Table]]></title>
         <id>https://www.youtube.com/shorts/FKAqO8p09g4</id>
         <link href="https://www.youtube.com/shorts/FKAqO8p09g4"/>
@@ -708,16 +735,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EPIC CNC Machining an Aluminum Skateboard]]></title>
-        <id>https://www.youtube.com/shorts/uo-mOou4Yx0</id>
-        <link href="https://www.youtube.com/shorts/uo-mOou4Yx0"/>
-        <updated>2025-08-12T15:01:37.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1144,7 +1161,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why are both orbits elliptical? Coincidence?]]></title>
+        <title type="html"><![CDATA[How Newton deduced gravity obeys inverse square law | Hidden gems #2]]></title>
         <id>https://www.youtube.com/watch?v=1ubTR3HzAI4</id>
         <link href="https://www.youtube.com/watch?v=1ubTR3HzAI4"/>
         <updated>2025-07-24T14:00:03.000Z</updated>
