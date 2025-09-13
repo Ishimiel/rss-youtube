@@ -1,10 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-12T00:43:17.406Z</id>
+    <id>urn:2025-09-13T00:40:59.008Z</id>
     <title>osmos::feed</title>
-    <updated>2025-09-12T00:43:17.406Z</updated>
+    <updated>2025-09-13T00:40:59.008Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[3D Printing PCTG with 3D-Fuel LIVE!]]></title>
+        <id>https://www.youtube.com/watch?v=LYvHP80c0cA</id>
+        <link href="https://www.youtube.com/watch?v=LYvHP80c0cA"/>
+        <updated>2025-09-12T19:30:54.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does Your Phone Take Selfies?]]></title>
+        <id>https://www.youtube.com/shorts/NSAeozka_o4</id>
+        <link href="https://www.youtube.com/shorts/NSAeozka_o4"/>
+        <updated>2025-09-12T18:31:06.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Do Wind Turbines Have Three Blades?]]></title>
+        <id>https://www.youtube.com/watch?v=pgqkti7yePk</id>
+        <link href="https://www.youtube.com/watch?v=pgqkti7yePk"/>
+        <updated>2025-09-12T17:56:38.000Z</updated>
+        <author>
+            <name>minutephysics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Lines at Knee Level? Campfire with AA Battery?! (LATITY-016)]]></title>
+        <id>https://www.youtube.com/watch?v=fwLan9mLJLQ</id>
+        <link href="https://www.youtube.com/watch?v=fwLan9mLJLQ"/>
+        <updated>2025-09-12T16:08:52.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside The Secretive World Of America's AI Data Centers]]></title>
+        <id>https://www.youtube.com/watch?v=t-8TDOFqkQA</id>
+        <link href="https://www.youtube.com/watch?v=t-8TDOFqkQA"/>
+        <updated>2025-09-12T15:16:20.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here's how the US #Army is training soldiers to become #drone #pilots.]]></title>
+        <id>https://www.youtube.com/shorts/lkJcodTB2xc</id>
+        <link href="https://www.youtube.com/shorts/lkJcodTB2xc"/>
+        <updated>2025-09-12T15:01:25.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roughing Test - Slow to FAST]]></title>
+        <id>https://www.youtube.com/shorts/W7zRks6fkas</id>
+        <link href="https://www.youtube.com/shorts/W7zRks6fkas"/>
+        <updated>2025-09-12T14:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printing is a SUPER POWER!]]></title>
+        <id>https://www.youtube.com/watch?v=t_ZssfJKI9Y</id>
+        <link href="https://www.youtube.com/watch?v=t_ZssfJKI9Y"/>
+        <updated>2025-09-12T13:01:54.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The World's ONLY Natural Nuclear Reactor]]></title>
+        <id>https://www.youtube.com/shorts/aU7LmsFkRjs</id>
+        <link href="https://www.youtube.com/shorts/aU7LmsFkRjs"/>
+        <updated>2025-09-12T01:30:49.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uber Ready To Offer Air Taxis]]></title>
         <id>https://www.youtube.com/shorts/UPnIhBDZbYc</id>
@@ -132,15 +217,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D Printing PCTG with 3D-Fuel LIVE!]]></title>
-        <id>https://www.youtube.com/watch?v=LYvHP80c0cA</id>
-        <link href="https://www.youtube.com/watch?v=LYvHP80c0cA"/>
-        <updated>2025-09-10T17:44:32.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This small factory in #FortKnox makes 3,000 #military #nametapes every day. #armedforces]]></title>
         <id>https://www.youtube.com/shorts/aoptVvldIQE</id>
         <link href="https://www.youtube.com/shorts/aoptVvldIQE"/>
@@ -170,7 +246,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Game Took Us Two Years To Make!]]></title>
+        <title type="html"><![CDATA[This Game Took Us Two Years To Make]]></title>
         <id>https://www.youtube.com/watch?v=XunabxHzMuM</id>
         <link href="https://www.youtube.com/watch?v=XunabxHzMuM"/>
         <updated>2025-09-10T15:00:45.000Z</updated>
@@ -511,16 +587,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How #ThredUp is using #AI to resell 17 million pieces of used clothing every year. #fashion]]></title>
-        <id>https://www.youtube.com/shorts/XZfYXdOUQBc</id>
-        <link href="https://www.youtube.com/shorts/XZfYXdOUQBc"/>
-        <updated>2025-09-05T16:23:32.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What is a Turing Machine? #computerscience #science]]></title>
         <id>https://www.youtube.com/shorts/Wcg06obKCrw</id>
         <link href="https://www.youtube.com/shorts/Wcg06obKCrw"/>
@@ -585,16 +651,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How are #fitness influencers getting the most powerful new #weightloss drug before #FDA approval?]]></title>
-        <id>https://www.youtube.com/shorts/Bba-ojcGPK4</id>
-        <link href="https://www.youtube.com/shorts/Bba-ojcGPK4"/>
-        <updated>2025-09-04T20:43:39.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -666,16 +722,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Science of Dried Food]]></title>
-        <id>https://www.youtube.com/shorts/bUWJuePdNBU</id>
-        <link href="https://www.youtube.com/shorts/bUWJuePdNBU"/>
-        <updated>2025-09-04T00:30:54.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The P-38 has a weird engine design]]></title>
         <id>https://www.youtube.com/shorts/Uua_--aHuFk</id>
         <link href="https://www.youtube.com/shorts/Uua_--aHuFk"/>
@@ -683,16 +729,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entering an AI-powered Vineyard]]></title>
-        <id>https://www.youtube.com/shorts/flLtNuKIr0o</id>
-        <link href="https://www.youtube.com/shorts/flLtNuKIr0o"/>
-        <updated>2025-09-03T21:30:35.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -835,16 +871,6 @@
         <updated>2025-08-30T15:31:55.000Z</updated>
         <author>
             <name>CNC Kitchen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can you guess what we're machining?]]></title>
-        <id>https://www.youtube.com/shorts/Bjt-DBcRExI</id>
-        <link href="https://www.youtube.com/shorts/Bjt-DBcRExI"/>
-        <updated>2025-08-30T14:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1763,15 +1789,6 @@
         <updated>2025-07-18T13:01:41.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[*FINALLY* Printed This for the Elegoo Centauri Carbon!]]></title>
-        <id>https://www.youtube.com/watch?v=VklTXBn4Aa4</id>
-        <link href="https://www.youtube.com/watch?v=VklTXBn4Aa4"/>
-        <updated>2025-07-18T13:01:05.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
         </author>
     </entry>
     <entry>
