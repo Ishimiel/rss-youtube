@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-14T00:48:04.237Z</id>
+    <id>urn:2025-09-15T00:48:43.043Z</id>
     <title>osmos::feed</title>
-    <updated>2025-09-14T00:48:04.237Z</updated>
+    <updated>2025-09-15T00:48:43.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why Would You Do This?]]></title>
+        <id>https://www.youtube.com/shorts/dUWuN0jXl3Y</id>
+        <link href="https://www.youtube.com/shorts/dUWuN0jXl3Y"/>
+        <updated>2025-09-14T14:01:05.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why do we spin a football when throwing it?]]></title>
+        <id>https://www.youtube.com/shorts/b8XVCsXyIZs</id>
+        <link href="https://www.youtube.com/shorts/b8XVCsXyIZs"/>
+        <updated>2025-09-14T13:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Need These Trains]]></title>
+        <id>https://www.youtube.com/watch?v=2K1npWgtbWo</id>
+        <link href="https://www.youtube.com/watch?v=2K1npWgtbWo"/>
+        <updated>2025-09-14T08:00:04.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wave Function Collapse Teaser]]></title>
         <id>https://www.youtube.com/shorts/RpcWI1eabGo</id>
@@ -608,16 +637,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How 3D Printing Works]]></title>
-        <id>https://www.youtube.com/shorts/RSwLbs_nkC0</id>
-        <link href="https://www.youtube.com/shorts/RSwLbs_nkC0"/>
-        <updated>2025-09-05T21:31:04.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hypothesis Testing in Statistics]]></title>
         <id>https://www.youtube.com/watch?v=vVDahuv1bq8</id>
         <link href="https://www.youtube.com/watch?v=vVDahuv1bq8"/>
@@ -835,16 +854,6 @@
         <updated>2025-09-01T16:00:59.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Pyramid Fixture for a 5 Axis CNC Machine]]></title>
-        <id>https://www.youtube.com/shorts/B4O88hGyjcc</id>
-        <link href="https://www.youtube.com/shorts/B4O88hGyjcc"/>
-        <updated>2025-09-01T14:00:28.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2445,15 +2454,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Obviously True Theorem No One Can Prove]]></title>
-        <id>https://www.youtube.com/watch?v=x32Zq-XvID4</id>
-        <link href="https://www.youtube.com/watch?v=x32Zq-XvID4"/>
-        <updated>2025-06-20T13:01:46.000Z</updated>
-        <author>
-            <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[They Dropped the Most Expensive Material In The World]]></title>
         <id>https://www.youtube.com/shorts/L9P_Yzxx7a8</id>
         <link href="https://www.youtube.com/shorts/L9P_Yzxx7a8"/>
@@ -2470,63 +2470,6 @@
         <updated>2025-06-17T21:48:38.000Z</updated>
         <author>
             <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I weighed an airplane... while it was flying!]]></title>
-        <id>https://www.youtube.com/watch?v=hnvtstq3ztI</id>
-        <link href="https://www.youtube.com/watch?v=hnvtstq3ztI"/>
-        <updated>2025-06-17T10:01:13.000Z</updated>
-        <author>
-            <name>AlphaPhoenix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weighing a paper airplane WHILE IT'S FLYING. #physics #slowmo]]></title>
-        <id>https://www.youtube.com/shorts/_Krzug8Blgs</id>
-        <link href="https://www.youtube.com/shorts/_Krzug8Blgs"/>
-        <updated>2025-06-17T10:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>AlphaPhoenix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spacetime Embedding Diagrams: Flamm's Paraboloid | General Relativity]]></title>
-        <id>https://www.youtube.com/watch?v=qbU6WcWrHO4</id>
-        <link href="https://www.youtube.com/watch?v=qbU6WcWrHO4"/>
-        <updated>2025-06-17T05:54:50.000Z</updated>
-        <author>
-            <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Helix Puzzle]]></title>
-        <id>https://www.youtube.com/shorts/I21BSP_LgRg</id>
-        <link href="https://www.youtube.com/shorts/I21BSP_LgRg"/>
-        <updated>2025-06-17T01:46:03.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is what gallium does to aluminum]]></title>
-        <id>https://www.youtube.com/shorts/BmH6Rr4hwRI</id>
-        <link href="https://www.youtube.com/shorts/BmH6Rr4hwRI"/>
-        <updated>2025-06-16T18:20:25.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NileRed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Broke a 3D-Printed Car at RMRRF 2025!]]></title>
-        <id>https://www.youtube.com/watch?v=r7bhnKgjgJ0</id>
-        <link href="https://www.youtube.com/watch?v=r7bhnKgjgJ0"/>
-        <updated>2025-06-16T15:01:19.000Z</updated>
-        <author>
-            <name>Zack Freedman</name>
         </author>
     </entry>
 </feed>
