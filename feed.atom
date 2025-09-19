@@ -1,10 +1,97 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-18T00:42:43.787Z</id>
+    <id>urn:2025-09-19T00:44:50.990Z</id>
     <title>osmos::feed</title>
-    <updated>2025-09-18T00:42:43.787Z</updated>
+    <updated>2025-09-19T00:44:50.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why Ben & Jerry’s Founder Just Quit]]></title>
+        <id>https://www.youtube.com/watch?v=m7BdbqoRUCw</id>
+        <link href="https://www.youtube.com/watch?v=m7BdbqoRUCw"/>
+        <updated>2025-09-18T22:24:58.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#ABC said #Kimmel would be off the air indefinitely.]]></title>
+        <id>https://www.youtube.com/shorts/55dMN4IIJ0g</id>
+        <link href="https://www.youtube.com/shorts/55dMN4IIJ0g"/>
+        <updated>2025-09-18T19:58:14.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From a young talent to one of #ballet's top stars, Tiler reflects on her rise to principal #dancer.]]></title>
+        <id>https://www.youtube.com/shorts/l_TbfGEPtsQ</id>
+        <link href="https://www.youtube.com/shorts/l_TbfGEPtsQ"/>
+        <updated>2025-09-18T15:28:19.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heat Shrink Magic]]></title>
+        <id>https://www.youtube.com/shorts/SyaL_A_DowA</id>
+        <link href="https://www.youtube.com/shorts/SyaL_A_DowA"/>
+        <updated>2025-09-18T15:00:49.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What was Euclid really doing? | Guest video by ⁨@bensyversen⁩]]></title>
+        <id>https://www.youtube.com/watch?v=M-MgQC6z3VU</id>
+        <link href="https://www.youtube.com/watch?v=M-MgQC6z3VU"/>
+        <updated>2025-09-18T14:13:05.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What They Don't Want You to Know...]]></title>
+        <id>https://www.youtube.com/watch?v=o14IWEDqIe0</id>
+        <link href="https://www.youtube.com/watch?v=o14IWEDqIe0"/>
+        <updated>2025-09-18T14:01:26.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can We Run on Renewables?]]></title>
+        <id>https://www.youtube.com/shorts/ByD__-ECSeI</id>
+        <link href="https://www.youtube.com/shorts/ByD__-ECSeI"/>
+        <updated>2025-09-18T14:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to solve any maze]]></title>
+        <id>https://www.youtube.com/shorts/q6WlXhtVvkg</id>
+        <link href="https://www.youtube.com/shorts/q6WlXhtVvkg"/>
+        <updated>2025-09-18T13:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Did The TV Come To Be?]]></title>
+        <id>https://www.youtube.com/shorts/Q221hPSIiwY</id>
+        <link href="https://www.youtube.com/shorts/Q221hPSIiwY"/>
+        <updated>2025-09-18T01:31:22.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lamborghini Pregunta On Auction]]></title>
         <id>https://www.youtube.com/shorts/LScrxE3XaG0</id>
@@ -482,26 +569,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The #JetsonOne flies up to 20 minutes, reaches 63 mph, and doesn't require a pilot's license to fly]]></title>
-        <id>https://www.youtube.com/shorts/2qbQHWsm7Do</id>
-        <link href="https://www.youtube.com/shorts/2qbQHWsm7Do"/>
-        <updated>2025-09-10T19:09:29.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This small factory in #FortKnox makes 3,000 #military #nametapes every day. #armedforces]]></title>
-        <id>https://www.youtube.com/shorts/aoptVvldIQE</id>
-        <link href="https://www.youtube.com/shorts/aoptVvldIQE"/>
-        <updated>2025-09-10T16:41:42.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Peak Γκεκ - Σήκωσε με]]></title>
         <id>https://www.youtube.com/watch?v=PGV_vXfP_Ow</id>
         <link href="https://www.youtube.com/watch?v=PGV_vXfP_Ow"/>
@@ -530,16 +597,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Brand New iPhone 17 Air, And More!]]></title>
-        <id>https://www.youtube.com/shorts/H2zlO0hHV_A</id>
-        <link href="https://www.youtube.com/shorts/H2zlO0hHV_A"/>
-        <updated>2025-09-10T14:01:17.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CNC Grinding a PERFECT Taper]]></title>
         <id>https://www.youtube.com/shorts/0jdvqrfZc0A</id>
         <link href="https://www.youtube.com/shorts/0jdvqrfZc0A"/>
@@ -556,16 +613,6 @@
         <updated>2025-09-10T13:10:56.000Z</updated>
         <author>
             <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving your #posture is one of the latest trends in #beauty and #anti-aging. #longevity]]></title>
-        <id>https://www.youtube.com/shorts/EQvJ0hUXpGQ</id>
-        <link href="https://www.youtube.com/shorts/EQvJ0hUXpGQ"/>
-        <updated>2025-09-09T20:35:04.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -686,16 +733,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FASTEST Way to Create Strong Threads?]]></title>
-        <id>https://www.youtube.com/shorts/rIXgZ5NuBvM</id>
-        <link href="https://www.youtube.com/shorts/rIXgZ5NuBvM"/>
-        <updated>2025-09-06T14:01:19.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hypothesis Testing in Statistics]]></title>
         <id>https://www.youtube.com/watch?v=vVDahuv1bq8</id>
         <link href="https://www.youtube.com/watch?v=vVDahuv1bq8"/>
@@ -740,16 +777,6 @@
         <updated>2025-09-05T15:00:56.000Z</updated>
         <author>
             <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Class Sinker EDM Burns Subgates]]></title>
-        <id>https://www.youtube.com/shorts/pZLBLXwykjM</id>
-        <link href="https://www.youtube.com/shorts/pZLBLXwykjM"/>
-        <updated>2025-09-05T14:01:32.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2028,16 +2055,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Invisible Extinction From Space – Gamma Ray Bursts]]></title>
-        <id>https://www.youtube.com/shorts/rHQeg5EtqDQ</id>
-        <link href="https://www.youtube.com/shorts/rHQeg5EtqDQ"/>
-        <updated>2025-07-10T14:01:31.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Fundamental Unit Of Intelligence]]></title>
         <id>https://www.youtube.com/watch?v=Dykkubb-Qus</id>
         <link href="https://www.youtube.com/watch?v=Dykkubb-Qus"/>
@@ -2303,16 +2320,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[There are 96 million black balls on this lake]]></title>
-        <id>https://www.youtube.com/shorts/Jqz_YuyXKJI</id>
-        <link href="https://www.youtube.com/shorts/Jqz_YuyXKJI"/>
-        <updated>2025-06-24T16:40:05.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Turning coke clear]]></title>
         <id>https://www.youtube.com/shorts/vfmifdya3dA</id>
         <link href="https://www.youtube.com/shorts/vfmifdya3dA"/>
@@ -2377,81 +2384,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can space and time emerge from simple rules? Wolfram thinks so.]]></title>
-        <id>https://www.youtube.com/watch?v=yAJTctpzp5w</id>
-        <link href="https://www.youtube.com/watch?v=yAJTctpzp5w"/>
-        <updated>2025-06-20T20:00:32.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are UFOs a Myth? Aliens at Pioneer Works #aliens #roswellnm #ufo #davidkipping #adamfrank]]></title>
-        <id>https://www.youtube.com/shorts/jzF-Xp303Aw</id>
-        <link href="https://www.youtube.com/shorts/jzF-Xp303Aw"/>
-        <updated>2025-06-20T16:43:52.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do Aliens Have AI, Too? #aliens #adamfrank #davidkipping #extraterrestrial]]></title>
-        <id>https://www.youtube.com/shorts/O82PgBwJygQ</id>
-        <link href="https://www.youtube.com/shorts/O82PgBwJygQ"/>
-        <updated>2025-06-20T16:43:42.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are Humans Proof of Aliens?  #aliens #davidkipping #adamfrank]]></title>
-        <id>https://www.youtube.com/shorts/_mRxyk3XsPw</id>
-        <link href="https://www.youtube.com/shorts/_mRxyk3XsPw"/>
-        <updated>2025-06-20T16:43:37.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experts Say Alien Life May Be Repulsive. Adam Frank and David Kipping Weigh In.]]></title>
-        <id>https://www.youtube.com/watch?v=8hvVwDIhw6I</id>
-        <link href="https://www.youtube.com/watch?v=8hvVwDIhw6I"/>
-        <updated>2025-06-20T16:29:50.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Does Life Form on Other Planets?]]></title>
-        <id>https://www.youtube.com/watch?v=_W7_yDjiDZo</id>
-        <link href="https://www.youtube.com/watch?v=_W7_yDjiDZo"/>
-        <updated>2025-06-20T16:29:47.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is a Climate Crisis Inevitable for Aliens, Too?]]></title>
-        <id>https://www.youtube.com/watch?v=UoF60yUp7hM</id>
-        <link href="https://www.youtube.com/watch?v=UoF60yUp7hM"/>
-        <updated>2025-06-20T16:29:43.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where Are All the Aliens?]]></title>
-        <id>https://www.youtube.com/watch?v=CLlKQZkafBo</id>
-        <link href="https://www.youtube.com/watch?v=CLlKQZkafBo"/>
-        <updated>2025-06-20T16:29:39.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
         </author>
     </entry>
 </feed>
