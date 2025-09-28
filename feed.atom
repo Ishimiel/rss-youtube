@@ -1,10 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-27T00:42:35.846Z</id>
+    <id>urn:2025-09-28T00:50:31.960Z</id>
     <title>osmos::feed</title>
-    <updated>2025-09-27T00:42:35.846Z</updated>
+    <updated>2025-09-28T00:50:31.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Simulating a single brain cell]]></title>
+        <id>https://www.youtube.com/watch?v=GkiITbgu0V0</id>
+        <link href="https://www.youtube.com/watch?v=GkiITbgu0V0"/>
+        <updated>2025-09-27T15:09:03.000Z</updated>
+        <author>
+            <name>Primer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Dirty Supply Chain Behind Indonesia’s Poisoned Tofu]]></title>
+        <id>https://www.youtube.com/watch?v=zV9v0RIE-iI</id>
+        <link href="https://www.youtube.com/watch?v=zV9v0RIE-iI"/>
+        <updated>2025-09-27T15:01:56.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Worst Best 3D Printer (that I paid $270,000 for)]]></title>
+        <id>https://www.youtube.com/watch?v=KgwFTv9J7ik</id>
+        <link href="https://www.youtube.com/watch?v=KgwFTv9J7ik"/>
+        <updated>2025-09-27T14:00:27.000Z</updated>
+        <author>
+            <name>Zack Freedman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSANE Tool for Our Swiss Machine]]></title>
+        <id>https://www.youtube.com/shorts/5toRmqrHqi0</id>
+        <link href="https://www.youtube.com/shorts/5toRmqrHqi0"/>
+        <updated>2025-09-27T14:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Does Milk Turn Into Cheese?]]></title>
         <id>https://www.youtube.com/shorts/wswAlEtWhmc</id>
@@ -45,7 +82,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Γυναίκα Σώουλς - Παγώνι]]></title>
+        <title type="html"><![CDATA[Γυναίκα Σώουλς]]></title>
         <id>https://www.youtube.com/watch?v=RqLieWq4S58</id>
         <link href="https://www.youtube.com/watch?v=RqLieWq4S58"/>
         <updated>2025-09-26T11:47:38.000Z</updated>
@@ -451,16 +488,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tiler Peck has been a principal dancer with #NYCB for 16 years. #dancer #nyc #ballet]]></title>
-        <id>https://www.youtube.com/shorts/pe9t6sAWFXo</id>
-        <link href="https://www.youtube.com/shorts/pe9t6sAWFXo"/>
-        <updated>2025-09-19T14:32:07.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New career in 3D Printing unlocked!]]></title>
         <id>https://www.youtube.com/watch?v=lluxvL5WlRo</id>
         <link href="https://www.youtube.com/watch?v=lluxvL5WlRo"/>
@@ -615,15 +642,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Have you ever seen this CNC Machine?]]></title>
-        <id>https://www.youtube.com/watch?v=UoLNExrQ5r8</id>
-        <link href="https://www.youtube.com/watch?v=UoLNExrQ5r8"/>
-        <updated>2025-09-16T14:00:48.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1112,7 +1130,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When Zelda Is Lowkey Terrifying]]></title>
+        <title type="html"><![CDATA[Why Zelda SHOULD Be Unsettling]]></title>
         <id>https://www.youtube.com/watch?v=g6wc53DgH18</id>
         <link href="https://www.youtube.com/watch?v=g6wc53DgH18"/>
         <updated>2025-08-30T18:04:42.000Z</updated>
@@ -2297,26 +2315,6 @@
         <updated>2025-06-30T19:01:57.000Z</updated>
         <author>
             <name>Adam Neely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Bezold Effect]]></title>
-        <id>https://www.youtube.com/shorts/3Yqu30QHkro</id>
-        <link href="https://www.youtube.com/shorts/3Yqu30QHkro"/>
-        <updated>2025-06-30T04:05:50.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welding with Salt Water #experiment #fake #funny]]></title>
-        <id>https://www.youtube.com/shorts/qRc9W2ss-GE</id>
-        <link href="https://www.youtube.com/shorts/qRc9W2ss-GE"/>
-        <updated>2025-06-29T16:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ElectroBOOM</name>
         </author>
     </entry>
 </feed>
