@@ -1,10 +1,104 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-03T00:43:35.532Z</id>
+    <id>urn:2025-10-04T00:41:38.042Z</id>
     <title>osmos::feed</title>
-    <updated>2025-10-03T00:43:35.532Z</updated>
+    <updated>2025-10-04T00:41:38.042Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Many Americans Have No Friends?]]></title>
+        <id>https://www.youtube.com/shorts/C4-uK6OTR8g</id>
+        <link href="https://www.youtube.com/shorts/C4-uK6OTR8g"/>
+        <updated>2025-10-03T23:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are We Rewiring Our Minds? | Brian Greene & Jonathan Haidt]]></title>
+        <id>https://www.youtube.com/watch?v=a6tzK8RvbkU</id>
+        <link href="https://www.youtube.com/watch?v=a6tzK8RvbkU"/>
+        <updated>2025-10-03T20:00:06.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Above: How Food In Gaza Got So Expensive — And So Deadly | View From Above | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=XoTZItCldn4</id>
+        <link href="https://www.youtube.com/watch?v=XoTZItCldn4"/>
+        <updated>2025-10-03T19:04:49.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Most Common Moon Mistakes]]></title>
+        <id>https://www.youtube.com/watch?v=yY7ZUIbWTyc</id>
+        <link href="https://www.youtube.com/watch?v=yY7ZUIbWTyc"/>
+        <updated>2025-10-03T16:16:08.000Z</updated>
+        <author>
+            <name>minutephysics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hypothesis Testing Example: Salk Vaccine Trial]]></title>
+        <id>https://www.youtube.com/watch?v=V3aYG8mLmkI</id>
+        <link href="https://www.youtube.com/watch?v=V3aYG8mLmkI"/>
+        <updated>2025-10-03T16:00:54.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Sora2 makes creating fake but realistic videos way too easy #AI]]></title>
+        <id>https://www.youtube.com/shorts/BJnBBBnFKGg</id>
+        <link href="https://www.youtube.com/shorts/BJnBBBnFKGg"/>
+        <updated>2025-10-03T15:53:37.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What would Magikarp look like with a Robot Body?]]></title>
+        <id>https://www.youtube.com/watch?v=mvSr7qabeog</id>
+        <link href="https://www.youtube.com/watch?v=mvSr7qabeog"/>
+        <updated>2025-10-03T15:01:35.000Z</updated>
+        <author>
+            <name>North of the Border</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doing More in LESS TIME]]></title>
+        <id>https://www.youtube.com/shorts/VyvSRxvXMto</id>
+        <link href="https://www.youtube.com/shorts/VyvSRxvXMto"/>
+        <updated>2025-10-03T14:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unboxing the PRUSA CORE One!]]></title>
+        <id>https://www.youtube.com/watch?v=qSVq2EkwGjk</id>
+        <link href="https://www.youtube.com/watch?v=qSVq2EkwGjk"/>
+        <updated>2025-10-03T13:01:42.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nature’s greatest hunter intercepts lunch at 1500 FPS]]></title>
+        <id>https://www.youtube.com/shorts/y-PFd0FKTE4</id>
+        <link href="https://www.youtube.com/shorts/y-PFd0FKTE4"/>
+        <updated>2025-10-03T01:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>AlphaPhoenix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spindles Gone Wild - Machinist Reacts]]></title>
         <id>https://www.youtube.com/shorts/eFMXWWOK6kU</id>
@@ -468,15 +562,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tornos MultiSwiss: Most Complicated Made Easy]]></title>
-        <id>https://www.youtube.com/watch?v=XkHoq7ZzRpE</id>
-        <link href="https://www.youtube.com/watch?v=XkHoq7ZzRpE"/>
-        <updated>2025-09-23T14:00:58.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pregnancy is Insane]]></title>
         <id>https://www.youtube.com/watch?v=Zpq1GbPqhy4</id>
         <link href="https://www.youtube.com/watch?v=Zpq1GbPqhy4"/>
@@ -506,16 +591,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#Trump's $100K #H1B #visa fee rocks Silicon Valley's hiring machine]]></title>
-        <id>https://www.youtube.com/shorts/bn2DXdxlgvg</id>
-        <link href="https://www.youtube.com/shorts/bn2DXdxlgvg"/>
-        <updated>2025-09-22T20:44:32.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What is inside of a black hole? #blackhole #science #space #briangreene]]></title>
         <id>https://www.youtube.com/shorts/fl__mUMJr40</id>
         <link href="https://www.youtube.com/shorts/fl__mUMJr40"/>
@@ -523,16 +598,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Could #Trump's gift from #Qatar replace #AirForceOne?]]></title>
-        <id>https://www.youtube.com/shorts/sBBhLjOQL5k</id>
-        <link href="https://www.youtube.com/shorts/sBBhLjOQL5k"/>
-        <updated>2025-09-22T15:56:26.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -1888,15 +1953,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D Printing FAST for Open Sauce!]]></title>
-        <id>https://www.youtube.com/watch?v=csBoh1NBNUM</id>
-        <link href="https://www.youtube.com/watch?v=csBoh1NBNUM"/>
-        <updated>2025-08-01T13:01:09.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The clear ice myth]]></title>
         <id>https://www.youtube.com/shorts/3Kv82RM2tic</id>
         <link href="https://www.youtube.com/shorts/3Kv82RM2tic"/>
@@ -1948,16 +2004,6 @@
         <id>https://www.youtube.com/shorts/i2olts74u0E</id>
         <link href="https://www.youtube.com/shorts/i2olts74u0E"/>
         <updated>2025-07-28T12:25:11.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How is society impacting science today? #science #worldsciencefestival #briangreene #stem]]></title>
-        <id>https://www.youtube.com/shorts/V0Se0jMEMkI</id>
-        <link href="https://www.youtube.com/shorts/V0Se0jMEMkI"/>
-        <updated>2025-07-28T12:00:07.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>World Science Festival</name>
@@ -2155,15 +2201,6 @@
         <id>https://www.youtube.com/watch?v=upPn685IU_Q</id>
         <link href="https://www.youtube.com/watch?v=upPn685IU_Q"/>
         <updated>2025-07-15T13:01:51.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Covariance and Correlation in Probability]]></title>
-        <id>https://www.youtube.com/watch?v=QKPdk57y7Ck</id>
-        <link href="https://www.youtube.com/watch?v=QKPdk57y7Ck"/>
-        <updated>2025-07-14T13:00:46.000Z</updated>
         <author>
             <name>Steve Brunton</name>
         </author>
