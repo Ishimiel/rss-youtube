@@ -1,10 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-07T00:43:48.725Z</id>
+    <id>urn:2025-10-08T00:43:41.520Z</id>
     <title>osmos::feed</title>
-    <updated>2025-10-07T00:43:48.725Z</updated>
+    <updated>2025-10-08T00:43:41.520Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Irish 🇮🇪 + East African inspired groove]]></title>
+        <id>https://www.youtube.com/shorts/8pCxciWMYu8</id>
+        <link href="https://www.youtube.com/shorts/8pCxciWMYu8"/>
+        <updated>2025-10-08T00:37:10.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Adam Neely</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sungazer - Whisky and Mes [Bass Playthrough]]]></title>
+        <id>https://www.youtube.com/watch?v=jtMfl3K92qE</id>
+        <link href="https://www.youtube.com/watch?v=jtMfl3K92qE"/>
+        <updated>2025-10-07T23:58:56.000Z</updated>
+        <author>
+            <name>Adam Neely</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machining Deep Pockets with Sharp Corners]]></title>
+        <id>https://www.youtube.com/shorts/JezufXK0fRY</id>
+        <link href="https://www.youtube.com/shorts/JezufXK0fRY"/>
+        <updated>2025-10-07T15:00:37.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You’ve Never Seen a Cut Like THIS Before 🤯]]></title>
+        <id>https://www.youtube.com/watch?v=seaIzA6byGA</id>
+        <link href="https://www.youtube.com/watch?v=seaIzA6byGA"/>
+        <updated>2025-10-07T14:01:20.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Slop Is Killing Our Channel]]></title>
+        <id>https://www.youtube.com/watch?v=_zfN9wnPvU0</id>
+        <link href="https://www.youtube.com/watch?v=_zfN9wnPvU0"/>
+        <updated>2025-10-07T14:00:17.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Could Tobacco be Good for you?  Two Sided Rejection Regions in Hypothesis Testing]]></title>
+        <id>https://www.youtube.com/watch?v=znnim8MTl0c</id>
+        <link href="https://www.youtube.com/watch?v=znnim8MTl0c"/>
+        <updated>2025-10-07T13:01:52.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This business went from selling #cinnamonbuns from a U-Haul to making $1M in a year]]></title>
         <id>https://www.youtube.com/shorts/e6R1KlxIHTo</id>
@@ -74,7 +130,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Economics of Doomsday Bunkers]]></title>
+        <title type="html"><![CDATA[How Doomsday Bunkers Became Luxury Status Symbols]]></title>
         <id>https://www.youtube.com/watch?v=Y6doBVxZVAs</id>
         <link href="https://www.youtube.com/watch?v=Y6doBVxZVAs"/>
         <updated>2025-10-05T15:00:53.000Z</updated>
@@ -93,7 +149,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why complex exponents matter | Laplace Transform Prelude]]></title>
+        <title type="html"><![CDATA[The Atoms of Calculus | Laplace Transform Prelude]]></title>
         <id>https://www.youtube.com/watch?v=-j8PzkZ70Lg</id>
         <link href="https://www.youtube.com/watch?v=-j8PzkZ70Lg"/>
         <updated>2025-10-05T13:53:28.000Z</updated>
@@ -312,7 +368,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can you really reach anyone in 6 steps?]]></title>
+        <title type="html"><![CDATA[We simulated if you can really reach anyone in 6 steps]]></title>
         <id>https://www.youtube.com/watch?v=CYlon2tvywA</id>
         <link href="https://www.youtube.com/watch?v=CYlon2tvywA"/>
         <updated>2025-09-30T22:00:54.000Z</updated>
@@ -503,16 +559,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CNC Grinding Beautiful Finishes]]></title>
-        <id>https://www.youtube.com/shorts/GxDcGwslkww</id>
-        <link href="https://www.youtube.com/shorts/GxDcGwslkww"/>
-        <updated>2025-09-26T14:00:35.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PRUSA’s Factory in PRINTED SOLID!]]></title>
         <id>https://www.youtube.com/watch?v=GDSnozU47GI</id>
         <link href="https://www.youtube.com/watch?v=GDSnozU47GI"/>
@@ -557,16 +603,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Installing Mist Collectors on New Machines]]></title>
-        <id>https://www.youtube.com/shorts/I9y9KNIM2Ak</id>
-        <link href="https://www.youtube.com/shorts/I9y9KNIM2Ak"/>
-        <updated>2025-09-25T15:00:38.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -687,7 +723,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[World's Most Explosive Liquid]]></title>
+        <title type="html"><![CDATA[This liquid is too dangerous to transport]]></title>
         <id>https://www.youtube.com/watch?v=onr80iOoEXs</id>
         <link href="https://www.youtube.com/watch?v=onr80iOoEXs"/>
         <updated>2025-09-21T14:13:30.000Z</updated>
@@ -1915,16 +1951,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[POV: A Nuclear War Just Started]]></title>
-        <id>https://www.youtube.com/shorts/x7IrzHMxEMM</id>
-        <link href="https://www.youtube.com/shorts/x7IrzHMxEMM"/>
-        <updated>2025-08-07T14:47:59.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why does this ice NOT float or sink?]]></title>
         <id>https://www.youtube.com/shorts/CAsSpcitNF4</id>
         <link href="https://www.youtube.com/shorts/CAsSpcitNF4"/>
@@ -2206,15 +2232,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Tail Sum Formula in Probability]]></title>
-        <id>https://www.youtube.com/watch?v=XQYkD_fct1A</id>
-        <link href="https://www.youtube.com/watch?v=XQYkD_fct1A"/>
-        <updated>2025-07-16T13:01:02.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[All The Ghosts You Will Be]]></title>
         <id>https://www.youtube.com/watch?v=xHd4zsIbXJ0</id>
         <link href="https://www.youtube.com/watch?v=xHd4zsIbXJ0"/>
@@ -2305,24 +2322,6 @@
         <updated>2025-07-11T15:00:11.000Z</updated>
         <author>
             <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Fundamental Unit Of Intelligence]]></title>
-        <id>https://www.youtube.com/watch?v=Dykkubb-Qus</id>
-        <link href="https://www.youtube.com/watch?v=Dykkubb-Qus"/>
-        <updated>2025-07-10T02:14:44.000Z</updated>
-        <author>
-            <name>Artem Kirsanov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Big Daddy of Infinite Integrals - Numberphile]]></title>
-        <id>https://www.youtube.com/watch?v=WiO2Ku7V1rw</id>
-        <link href="https://www.youtube.com/watch?v=WiO2Ku7V1rw"/>
-        <updated>2025-07-09T17:58:43.000Z</updated>
-        <author>
-            <name>Numberphile</name>
         </author>
     </entry>
 </feed>
