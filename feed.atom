@@ -1,12 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-11T00:42:11.865Z</id>
+    <id>urn:2025-10-12T00:46:57.726Z</id>
     <title>osmos::feed</title>
-    <updated>2025-10-11T00:42:11.865Z</updated>
+    <updated>2025-10-12T00:46:57.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[You're Being Lied To About Nuclear Waste]]></title>
+        <title type="html"><![CDATA[Jake Chudnow x Vsauce Rehappening]]></title>
+        <id>https://www.youtube.com/shorts/kZAbaAfkluc</id>
+        <link href="https://www.youtube.com/shorts/kZAbaAfkluc"/>
+        <updated>2025-10-12T00:22:30.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The dynamics of e^(πi)]]></title>
+        <id>https://www.youtube.com/shorts/8Qi_a9rGNtk</id>
+        <link href="https://www.youtube.com/shorts/8Qi_a9rGNtk"/>
+        <updated>2025-10-11T21:28:30.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stud's Son's Studio! New baby, new workshop, help me clear some space]]></title>
+        <id>https://www.youtube.com/watch?v=KOTTMiYde_8</id>
+        <link href="https://www.youtube.com/watch?v=KOTTMiYde_8"/>
+        <updated>2025-10-11T16:47:43.000Z</updated>
+        <author>
+            <name>Studson Studio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next Level Sinker EDM Automation]]></title>
+        <id>https://www.youtube.com/shorts/xX97aPtXkR8</id>
+        <link href="https://www.youtube.com/shorts/xX97aPtXkR8"/>
+        <updated>2025-10-11T14:01:35.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Δεν είναι άνθρωποι (horror)]]></title>
+        <id>https://www.youtube.com/watch?v=KySg8GkQcKw</id>
+        <link href="https://www.youtube.com/watch?v=KySg8GkQcKw"/>
+        <updated>2025-10-11T12:39:54.000Z</updated>
+        <author>
+            <name>NinjaCakeAssassin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why 15 Foods Are More Expensive Than Ever]]></title>
+        <id>https://www.youtube.com/watch?v=5JRf5CrGB5I</id>
+        <link href="https://www.youtube.com/watch?v=5JRf5CrGB5I"/>
+        <updated>2025-10-11T12:00:08.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You're Being Lied To About Nuclear Waste | Truth Complex | Business Insider]]></title>
         <id>https://www.youtube.com/watch?v=2RgzOYNdnLE</id>
         <link href="https://www.youtube.com/watch?v=2RgzOYNdnLE"/>
         <updated>2025-10-10T21:31:59.000Z</updated>
@@ -591,16 +648,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Secret to Ultimate Precision]]></title>
-        <id>https://www.youtube.com/shorts/JF2q1N0TsZo</id>
-        <link href="https://www.youtube.com/shorts/JF2q1N0TsZo"/>
-        <updated>2025-09-30T15:00:40.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[We Found a Loophole to Survive the End of the Universe]]></title>
         <id>https://www.youtube.com/watch?v=VMm-U2pHrXE</id>
         <link href="https://www.youtube.com/watch?v=VMm-U2pHrXE"/>
@@ -617,16 +664,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>AlphaPhoenix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Traditional diners are vanishing, and #NewJersey has lost 150 in the last decade. #diner #restaurant]]></title>
-        <id>https://www.youtube.com/shorts/S4lqW3audrQ</id>
-        <link href="https://www.youtube.com/shorts/S4lqW3audrQ"/>
-        <updated>2025-09-29T15:37:22.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -2270,34 +2307,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>NileRed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analyzing Fixed Points and Phase Portraits of a 2-D Dynamical System | Nonlinear Dynamics]]></title>
-        <id>https://www.youtube.com/watch?v=ExYWWLmxlVg</id>
-        <link href="https://www.youtube.com/watch?v=ExYWWLmxlVg"/>
-        <updated>2025-07-14T02:36:04.000Z</updated>
-        <author>
-            <name>Faculty of Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Living by Power Lines #science #electrical #cancer]]></title>
-        <id>https://www.youtube.com/shorts/rlyU9AMaq9g</id>
-        <link href="https://www.youtube.com/shorts/rlyU9AMaq9g"/>
-        <updated>2025-07-13T16:15:54.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Went Into a Nuclear Plant and It Changed How I Think About Radiation - Smarter Every Day 309]]></title>
-        <id>https://www.youtube.com/watch?v=cRaKMTK7ea0</id>
-        <link href="https://www.youtube.com/watch?v=cRaKMTK7ea0"/>
-        <updated>2025-07-13T14:00:11.000Z</updated>
-        <author>
-            <name>SmarterEveryDay</name>
         </author>
     </entry>
 </feed>
