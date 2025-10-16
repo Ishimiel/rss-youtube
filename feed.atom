@@ -1,17 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-15T00:45:44.192Z</id>
+    <id>urn:2025-10-16T00:45:42.997Z</id>
     <title>osmos::feed</title>
-    <updated>2025-10-15T00:45:44.192Z</updated>
+    <updated>2025-10-16T00:45:42.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[[SCRUBBED] Watch SpaceX launch Tranche 1 Transport Layer C for Space Force!]]></title>
+        <title type="html"><![CDATA[Watch SpaceX launch Tranche 1 Transport Layer C for Space Force!]]></title>
         <id>https://www.youtube.com/watch?v=_7GJG4i5y5U</id>
         <link href="https://www.youtube.com/watch?v=_7GJG4i5y5U"/>
-        <updated>2025-10-14T22:58:13.000Z</updated>
+        <updated>2025-10-16T00:05:39.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indonesia's #food is being poisoned by #plastic. Here's why. #microplastics #environment]]></title>
+        <id>https://www.youtube.com/shorts/8Fhzz4c-a4I</id>
+        <link href="https://www.youtube.com/shorts/8Fhzz4c-a4I"/>
+        <updated>2025-10-15T19:55:34.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TPU on the Bambu P2S!  #3dprinting]]></title>
+        <id>https://www.youtube.com/shorts/bv2Wgnko5Yg</id>
+        <link href="https://www.youtube.com/shorts/bv2Wgnko5Yg"/>
+        <updated>2025-10-15T19:53:07.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's Special About a Black Hole's Edge?]]></title>
+        <id>https://www.youtube.com/watch?v=6LC1-yxSC8o</id>
+        <link href="https://www.youtube.com/watch?v=6LC1-yxSC8o"/>
+        <updated>2025-10-15T18:00:06.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Anti-Knight Killer Sudoku - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=eB0-vG6rSM4</id>
+        <link href="https://www.youtube.com/watch?v=eB0-vG6rSM4"/>
+        <updated>2025-10-15T17:29:19.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside Self-Driving: The AI-Driven Evolution of Autonomous Vehicles]]></title>
+        <id>https://www.youtube.com/watch?v=8F4SdkJWUmc</id>
+        <link href="https://www.youtube.com/watch?v=8F4SdkJWUmc"/>
+        <updated>2025-10-15T15:54:09.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#JamieDimon warns that the #US relies too much on unreliable sources]]></title>
+        <id>https://www.youtube.com/shorts/9gED4RFMOZM</id>
+        <link href="https://www.youtube.com/shorts/9gED4RFMOZM"/>
+        <updated>2025-10-15T14:02:51.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is this the GREATEST CNC machine??]]></title>
+        <id>https://www.youtube.com/shorts/eu87MEHrRtM</id>
+        <link href="https://www.youtube.com/shorts/eu87MEHrRtM"/>
+        <updated>2025-10-15T14:01:15.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Army ROTC Cadets Are Trained At Fort Knox]]></title>
+        <id>https://www.youtube.com/watch?v=SNGiWla9cIE</id>
+        <link href="https://www.youtube.com/watch?v=SNGiWla9cIE"/>
+        <updated>2025-10-15T13:01:07.000Z</updated>
+        <author>
+            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -44,7 +120,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Machining a Custom Tool]]></title>
+        <title type="html"><![CDATA[Machining a Custom Porting Tool]]></title>
         <id>https://www.youtube.com/shorts/aAr-UOoFvNw</id>
         <link href="https://www.youtube.com/shorts/aAr-UOoFvNw"/>
         <updated>2025-10-14T15:00:01.000Z</updated>
@@ -82,7 +158,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Bambu Lab P2S makes the X1 Carbon Obsolete!]]></title>
+        <title type="html"><![CDATA[The P2S Is the Upgrade No One Expected – But Everyone Wanted!]]></title>
         <id>https://www.youtube.com/watch?v=a1p7p1ATP9Q</id>
         <link href="https://www.youtube.com/watch?v=a1p7p1ATP9Q"/>
         <updated>2025-10-14T13:00:02.000Z</updated>
@@ -571,15 +647,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Risks Behind Finding The World's Rarest Delicacies | Risky Business | Business Insider]]></title>
-        <id>https://www.youtube.com/watch?v=YTUGNBU7IaI</id>
-        <link href="https://www.youtube.com/watch?v=YTUGNBU7IaI"/>
-        <updated>2025-10-04T15:00:57.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Creative Quick Change Fixturing]]></title>
         <id>https://www.youtube.com/shorts/zBud8OScnQQ</id>
         <link href="https://www.youtube.com/shorts/zBud8OScnQQ"/>
@@ -609,15 +676,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Inside Gaza’s Deadly Food Economy | View From Above | Business Insider]]></title>
-        <id>https://www.youtube.com/watch?v=XoTZItCldn4</id>
-        <link href="https://www.youtube.com/watch?v=XoTZItCldn4"/>
-        <updated>2025-10-03T19:04:49.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Common Moon Mistakes]]></title>
         <id>https://www.youtube.com/watch?v=yY7ZUIbWTyc</id>
         <link href="https://www.youtube.com/watch?v=yY7ZUIbWTyc"/>
@@ -636,32 +694,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#Sora2 makes creating fake but realistic videos way too easy #AI]]></title>
-        <id>https://www.youtube.com/shorts/BJnBBBnFKGg</id>
-        <link href="https://www.youtube.com/shorts/BJnBBBnFKGg"/>
-        <updated>2025-10-03T15:53:37.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I built a Battlesuit for Magikarp]]></title>
         <id>https://www.youtube.com/watch?v=mvSr7qabeog</id>
         <link href="https://www.youtube.com/watch?v=mvSr7qabeog"/>
         <updated>2025-10-03T15:01:35.000Z</updated>
         <author>
             <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doing More in LESS TIME]]></title>
-        <id>https://www.youtube.com/shorts/VyvSRxvXMto</id>
-        <link href="https://www.youtube.com/shorts/VyvSRxvXMto"/>
-        <updated>2025-10-03T14:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -720,16 +758,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Find out where #datacenters are in your state, and what they mean for your bills and water #ai]]></title>
-        <id>https://www.youtube.com/shorts/z9OicXWc20U</id>
-        <link href="https://www.youtube.com/shorts/z9OicXWc20U"/>
-        <updated>2025-10-01T20:23:36.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -1766,15 +1794,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask Brian Greene LIVE Q&A]]></title>
-        <id>https://www.youtube.com/watch?v=I3_me7RqteE</id>
-        <link href="https://www.youtube.com/watch?v=I3_me7RqteE"/>
-        <updated>2025-08-22T19:36:44.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This is the natural disaster to worry about]]></title>
         <id>https://www.youtube.com/watch?v=AFXLZ7FEJc4</id>
         <link href="https://www.youtube.com/watch?v=AFXLZ7FEJc4"/>
@@ -1958,15 +1977,6 @@
         <updated>2025-08-15T15:01:01.000Z</updated>
         <author>
             <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fix ANYTHING with 3D Printing – How To Design]]></title>
-        <id>https://www.youtube.com/watch?v=bfU5BtQxQ4U</id>
-        <link href="https://www.youtube.com/watch?v=bfU5BtQxQ4U"/>
-        <updated>2025-08-15T13:01:13.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
         </author>
     </entry>
     <entry>
