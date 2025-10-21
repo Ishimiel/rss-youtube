@@ -1,10 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-20T00:50:46.770Z</id>
+    <id>urn:2025-10-21T00:46:41.084Z</id>
     <title>osmos::feed</title>
-    <updated>2025-10-20T00:50:46.770Z</updated>
+    <updated>2025-10-21T00:46:41.084Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What $50 Billion Of US Science Really Looks Like]]></title>
+        <id>https://www.youtube.com/watch?v=bVuQfXje8KQ</id>
+        <link href="https://www.youtube.com/watch?v=bVuQfXje8KQ"/>
+        <updated>2025-10-20T20:56:09.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Bunkers are growing in popularity among the ultra-rich. Check out the "Fatboy" shelter worth $300K.]]></title>
+        <id>https://www.youtube.com/shorts/HhsZ0s3KXAQ</id>
+        <link href="https://www.youtube.com/shorts/HhsZ0s3KXAQ"/>
+        <updated>2025-10-20T20:18:23.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turning regular sand into an explosive gas]]></title>
+        <id>https://www.youtube.com/shorts/VoHsFiwtxVc</id>
+        <link href="https://www.youtube.com/shorts/VoHsFiwtxVc"/>
+        <updated>2025-10-20T16:23:40.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NileRed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creative Workholding for Grinding Pins]]></title>
+        <id>https://www.youtube.com/shorts/_se4gI6Iacc</id>
+        <link href="https://www.youtube.com/shorts/_se4gI6Iacc"/>
+        <updated>2025-10-20T14:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Impossible 3D Printing Quiz! Solve five bizarre mysteries!]]></title>
+        <id>https://www.youtube.com/watch?v=S6_xnzt9YPU</id>
+        <link href="https://www.youtube.com/watch?v=S6_xnzt9YPU"/>
+        <updated>2025-10-20T14:00:50.000Z</updated>
+        <author>
+            <name>Zack Freedman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parameter Estimation and Fitting Distributions]]></title>
+        <id>https://www.youtube.com/watch?v=7XVA2JRzYoE</id>
+        <link href="https://www.youtube.com/watch?v=7XVA2JRzYoE"/>
+        <updated>2025-10-20T11:00:15.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printing Marble Magic on the Bambu P2S!  #3dprinting #marblerace]]></title>
+        <id>https://www.youtube.com/shorts/LhvhsJ-NLjM</id>
+        <link href="https://www.youtube.com/shorts/LhvhsJ-NLjM"/>
+        <updated>2025-10-20T08:01:37.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introduction to Thermodynamics and Statistical Mechanics]]></title>
         <id>https://www.youtube.com/watch?v=r_mxD_iVtQA</id>
@@ -454,7 +521,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Beautiful Dead World of Hollow Knight]]></title>
+        <title type="html"><![CDATA[The Haunting Vibes Of Hollow Knight]]></title>
         <id>https://www.youtube.com/watch?v=33d1rLnBKvk</id>
         <link href="https://www.youtube.com/watch?v=33d1rLnBKvk"/>
         <updated>2025-10-13T22:33:42.000Z</updated>
@@ -578,15 +645,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You're Being Lied To About Nuclear Waste | Truth Complex]]></title>
-        <id>https://www.youtube.com/watch?v=2RgzOYNdnLE</id>
-        <link href="https://www.youtube.com/watch?v=2RgzOYNdnLE"/>
-        <updated>2025-10-10T21:31:59.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why Pluto Isn’t a Planet]]></title>
         <id>https://www.youtube.com/shorts/SxROGnWbkuU</id>
         <link href="https://www.youtube.com/shorts/SxROGnWbkuU"/>
@@ -604,16 +662,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Traditional #diners are disappearing, thanks to #fastfood and franchising. #dining]]></title>
-        <id>https://www.youtube.com/shorts/fv_dx-lz8N8</id>
-        <link href="https://www.youtube.com/shorts/fv_dx-lz8N8"/>
-        <updated>2025-10-10T14:41:34.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -711,16 +759,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ultimate Grinding Wheel Build]]></title>
-        <id>https://www.youtube.com/shorts/TcVd8oYG8jE</id>
-        <link href="https://www.youtube.com/shorts/TcVd8oYG8jE"/>
-        <updated>2025-10-08T14:01:25.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1367,15 +1405,6 @@
         <updated>2025-09-12T16:08:52.000Z</updated>
         <author>
             <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Printing is a SUPER POWER!]]></title>
-        <id>https://www.youtube.com/watch?v=t_ZssfJKI9Y</id>
-        <link href="https://www.youtube.com/watch?v=t_ZssfJKI9Y"/>
-        <updated>2025-09-12T13:01:54.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
         </author>
     </entry>
     <entry>
@@ -2381,15 +2410,6 @@
         <updated>2025-07-24T14:00:03.000Z</updated>
         <author>
             <name>Mathemaniac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conway's Base 13 Function - Numberphile]]></title>
-        <id>https://www.youtube.com/watch?v=zsBaApyf_Ns</id>
-        <link href="https://www.youtube.com/watch?v=zsBaApyf_Ns"/>
-        <updated>2025-07-22T15:22:46.000Z</updated>
-        <author>
-            <name>Numberphile</name>
         </author>
     </entry>
 </feed>
