@@ -1,10 +1,98 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-05T00:49:56.018Z</id>
+    <id>urn:2025-11-06T00:48:25.460Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-05T00:49:56.018Z</updated>
+    <updated>2025-11-06T00:48:25.460Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Bright Is Earthshine?]]></title>
+        <id>https://www.youtube.com/shorts/u11hmGy-eP8</id>
+        <link href="https://www.youtube.com/shorts/u11hmGy-eP8"/>
+        <updated>2025-11-05T22:56:18.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is GPT5 conscious? #chatgpt #gpt5 #psychology]]></title>
+        <id>https://www.youtube.com/shorts/USu3q4w_6Mg</id>
+        <link href="https://www.youtube.com/shorts/USu3q4w_6Mg"/>
+        <updated>2025-11-05T22:01:53.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The search for harmony in the modern world starts here]]></title>
+        <id>https://www.youtube.com/shorts/5iBPuchwb4E</id>
+        <link href="https://www.youtube.com/shorts/5iBPuchwb4E"/>
+        <updated>2025-11-05T21:13:08.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How enterprise data becomes an innovation accelerant]]></title>
+        <id>https://www.youtube.com/watch?v=U-X8w2q6YqI</id>
+        <link href="https://www.youtube.com/watch?v=U-X8w2q6YqI"/>
+        <updated>2025-11-05T19:59:50.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a pole vaulter found #strength in #powerlifting]]></title>
+        <id>https://www.youtube.com/shorts/_XvnvCeiozo</id>
+        <link href="https://www.youtube.com/shorts/_XvnvCeiozo"/>
+        <updated>2025-11-05T18:55:15.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machining an Aerospace Blisk - Full Process]]></title>
+        <id>https://www.youtube.com/shorts/zy1iSBKk0gs</id>
+        <link href="https://www.youtube.com/shorts/zy1iSBKk0gs"/>
+        <updated>2025-11-05T15:02:03.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Laplace transforms are so useful]]></title>
+        <id>https://www.youtube.com/watch?v=FE-hM1kRK4Y</id>
+        <link href="https://www.youtube.com/watch?v=FE-hM1kRK4Y"/>
+        <updated>2025-11-05T13:09:45.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will future astronomers believe in galaxies they can no longer view for themselves? #astronomy]]></title>
+        <id>https://www.youtube.com/shorts/rnii6fnYLT0</id>
+        <link href="https://www.youtube.com/shorts/rnii6fnYLT0"/>
+        <updated>2025-11-05T02:06:11.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If the sun disappeared, when would we know? #isaacnewton #briangreene #thesun #physics #astronomy]]></title>
+        <id>https://www.youtube.com/shorts/w4cG5Z7j2go</id>
+        <link href="https://www.youtube.com/shorts/w4cG5Z7j2go"/>
+        <updated>2025-11-05T02:01:43.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MASSIVE GALACTUS - To Be Assembled in ORLANDO!]]></title>
         <id>https://www.youtube.com/shorts/6gr9Q19mc9c</id>
@@ -55,7 +143,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[INSANE Swiss Machining Toolpaths Compilation]]></title>
+        <title type="html"><![CDATA[INSANE Swiss Machining]]></title>
         <id>https://www.youtube.com/shorts/CmFX8xEiP5U</id>
         <link href="https://www.youtube.com/shorts/CmFX8xEiP5U"/>
         <updated>2025-11-04T16:00:31.000Z</updated>
@@ -247,7 +335,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Surprising Truth About 4 Billion Years of Evolution]]></title>
+        <title type="html"><![CDATA[If you don't understand this, you don't understand evolution]]></title>
         <id>https://www.youtube.com/watch?v=XX7PdJIGiCw</id>
         <link href="https://www.youtube.com/watch?v=XX7PdJIGiCw"/>
         <updated>2025-10-31T22:42:09.000Z</updated>
@@ -387,15 +475,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What It Takes To Guard The Tomb Of The Unknown Soldier | Boot Camp | Business Insider]]></title>
-        <id>https://www.youtube.com/watch?v=5Vn6OxMX0o8</id>
-        <link href="https://www.youtube.com/watch?v=5Vn6OxMX0o8"/>
-        <updated>2025-10-31T12:00:09.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SO HOT! Drying at 100C! @VisionMiner 22IDEXv3 to the rescue!]]></title>
         <id>https://www.youtube.com/shorts/CZ_trgJpnGQ</id>
         <link href="https://www.youtube.com/shorts/CZ_trgJpnGQ"/>
@@ -412,25 +491,6 @@
         <updated>2025-10-30T21:56:36.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trick-or-treat? More like trick-or-spend — #candy costs are up nearly 10% this year.]]></title>
-        <id>https://www.youtube.com/shorts/YXeeKOYn6sM</id>
-        <link href="https://www.youtube.com/shorts/YXeeKOYn6sM"/>
-        <updated>2025-10-30T20:26:23.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Layoffs And What It Means For Your Career]]></title>
-        <id>https://www.youtube.com/watch?v=pP-TQwDOGko</id>
-        <link href="https://www.youtube.com/watch?v=pP-TQwDOGko"/>
-        <updated>2025-10-30T18:26:40.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -748,16 +808,6 @@
         <updated>2025-10-23T23:11:47.000Z</updated>
         <author>
             <name>NileRed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Programming a Part for a World Champion Golfer]]></title>
-        <id>https://www.youtube.com/shorts/69ChZwwyisw</id>
-        <link href="https://www.youtube.com/shorts/69ChZwwyisw"/>
-        <updated>2025-10-23T15:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1089,7 +1139,7 @@
         <id>https://www.youtube.com/shorts/BRxvK9m6d6I</id>
         <link href="https://www.youtube.com/shorts/BRxvK9m6d6I"/>
         <updated>2025-10-14T19:23:28.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <summary type="html"><![CDATA[How is it possible for galaxies and objects in space to move away from us faster than the speed of light? Will we ever see those objects?Full video - https:/...]]></summary>
         <author>
             <name>Physics Girl</name>
         </author>
@@ -1607,26 +1657,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What answers wait for us at the moment of death? #mortality #consciousness #briangreene #danbrown]]></title>
-        <id>https://www.youtube.com/shorts/ShyR1e_eGgY</id>
-        <link href="https://www.youtube.com/shorts/ShyR1e_eGgY"/>
-        <updated>2025-09-22T22:28:46.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is inside of a black hole? #blackhole #science #space #briangreene]]></title>
-        <id>https://www.youtube.com/shorts/fl__mUMJr40</id>
-        <link href="https://www.youtube.com/shorts/fl__mUMJr40"/>
-        <updated>2025-09-22T16:46:20.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Project Orion: A Nuclear Pulse Rocket]]></title>
         <id>https://www.youtube.com/shorts/ERI8zTmBYWk</id>
         <link href="https://www.youtube.com/shorts/ERI8zTmBYWk"/>
@@ -1634,16 +1664,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The questions and answers of science vs religion. #science #danbrown #briangreene #religion]]></title>
-        <id>https://www.youtube.com/shorts/43jpWYFkNiA</id>
-        <link href="https://www.youtube.com/shorts/43jpWYFkNiA"/>
-        <updated>2025-09-21T21:09:34.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>World Science Festival</name>
         </author>
     </entry>
     <entry>
@@ -2491,16 +2511,6 @@
         <updated>2025-08-08T13:01:14.000Z</updated>
         <author>
             <name>Pioneer Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Potassium metal is like weird butter]]></title>
-        <id>https://www.youtube.com/shorts/E37B-7OizLs</id>
-        <link href="https://www.youtube.com/shorts/E37B-7OizLs"/>
-        <updated>2025-08-07T17:07:02.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NileRed</name>
         </author>
     </entry>
 </feed>
