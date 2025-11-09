@@ -1,10 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-08T00:44:28.935Z</id>
+    <id>urn:2025-11-09T00:51:43.546Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-08T00:44:28.935Z</updated>
+    <updated>2025-11-09T00:51:43.546Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Watch Blue Origin Launch New Glenn to Mars!]]></title>
+        <id>https://www.youtube.com/watch?v=WUuH9fwoQrc</id>
+        <link href="https://www.youtube.com/watch?v=WUuH9fwoQrc"/>
+        <updated>2025-11-08T21:34:13.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prusa CORE One L Review: Twice as big & twice as good?]]></title>
+        <id>https://www.youtube.com/watch?v=zR0F1lTVtSI</id>
+        <link href="https://www.youtube.com/watch?v=zR0F1lTVtSI"/>
+        <updated>2025-11-08T17:25:17.000Z</updated>
+        <author>
+            <name>CNC Kitchen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FASTER Machining with Form Tools 😲]]></title>
+        <id>https://www.youtube.com/shorts/TobXhger8wA</id>
+        <link href="https://www.youtube.com/shorts/TobXhger8wA"/>
+        <updated>2025-11-08T15:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Miners Risk Their Lives In One of The World's Saltiest Lakes | Risky Business | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=Yc827HubVjY</id>
+        <link href="https://www.youtube.com/watch?v=Yc827HubVjY"/>
+        <updated>2025-11-08T13:01:09.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Homemade lightspeed camera (mk. 2) #physics #slowmotion #laser]]></title>
+        <id>https://www.youtube.com/shorts/2RNIjlPJZrg</id>
+        <link href="https://www.youtube.com/shorts/2RNIjlPJZrg"/>
+        <updated>2025-11-08T04:43:31.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>AlphaPhoenix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GALACTUS IS DONE at Orlando Maker Faire! #3dprinting]]></title>
+        <id>https://www.youtube.com/shorts/mNbGaKNRPmA</id>
+        <link href="https://www.youtube.com/shorts/mNbGaKNRPmA"/>
+        <updated>2025-11-08T03:20:49.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An "Anisosquaric" Rectangle]]></title>
         <id>https://www.youtube.com/shorts/M7hX6117E6E</id>
@@ -331,15 +388,6 @@
         <link href="https://www.youtube.com/shorts/cBNruRw2zA4"/>
         <updated>2025-11-04T14:56:43.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Life Lessons From Senior Athletes Who Started Competing Late In Life | Life Lessons]]></title>
-        <id>https://www.youtube.com/watch?v=aUjTmYa0xKQ</id>
-        <link href="https://www.youtube.com/watch?v=aUjTmYa0xKQ"/>
-        <updated>2025-11-04T13:00:06.000Z</updated>
         <author>
             <name>Business Insider</name>
         </author>
@@ -726,15 +774,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Machining CRITICAL Drone Parts for Production]]></title>
-        <id>https://www.youtube.com/watch?v=oI4w2nP5vBM</id>
-        <link href="https://www.youtube.com/watch?v=oI4w2nP5vBM"/>
-        <updated>2025-10-28T14:01:36.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CUT BIG PRINTS! WATCH TO THE END! #3dprinting @Prusa3D]]></title>
         <id>https://www.youtube.com/shorts/-RE2NbMg3vk</id>
         <link href="https://www.youtube.com/shorts/-RE2NbMg3vk"/>
@@ -975,16 +1014,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D Printed Shoes ARE COOL]]></title>
-        <id>https://www.youtube.com/shorts/OSaKHFlEtNg</id>
-        <link href="https://www.youtube.com/shorts/OSaKHFlEtNg"/>
-        <updated>2025-10-21T02:43:11.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Turning regular sand into an explosive gas]]></title>
         <id>https://www.youtube.com/shorts/VoHsFiwtxVc</id>
         <link href="https://www.youtube.com/shorts/VoHsFiwtxVc"/>
@@ -1045,7 +1074,7 @@
         <id>https://www.youtube.com/shorts/m51SX5cz9ow</id>
         <link href="https://www.youtube.com/shorts/m51SX5cz9ow"/>
         <updated>2025-10-17T18:50:39.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <summary type="html"><![CDATA[Watch the full video in my channel on modifying a device into a SHOCKINGLY more fun Trivia Game Buzzer]]></summary>
         <author>
             <name>ElectroBOOM</name>
         </author>
