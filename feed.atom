@@ -1,17 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-09T00:51:43.546Z</id>
+    <id>urn:2025-11-10T00:51:40.019Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-09T00:51:43.546Z</updated>
+    <updated>2025-11-10T00:51:40.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Watch Blue Origin Launch New Glenn to Mars!]]></title>
+        <title type="html"><![CDATA[[SCRUBBED] Watch Blue Origin Launch New Glenn to Mars!]]></title>
         <id>https://www.youtube.com/watch?v=WUuH9fwoQrc</id>
         <link href="https://www.youtube.com/watch?v=WUuH9fwoQrc"/>
-        <updated>2025-11-08T21:34:13.000Z</updated>
+        <updated>2025-11-09T21:35:41.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wire EDM vs Carbide Boring Bar]]></title>
+        <id>https://www.youtube.com/shorts/MeBvJ52P3Kg</id>
+        <link href="https://www.youtube.com/shorts/MeBvJ52P3Kg"/>
+        <updated>2025-11-09T15:00:39.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Old Cars, Ships, And Clothes Are Piling Up In Developing Countries]]></title>
+        <id>https://www.youtube.com/watch?v=J5ICLh_TkWM</id>
+        <link href="https://www.youtube.com/watch?v=J5ICLh_TkWM"/>
+        <updated>2025-11-09T13:00:37.000Z</updated>
+        <author>
+            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -34,7 +53,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Miners Risk Their Lives In One of The World's Saltiest Lakes | Risky Business | Business Insider]]></title>
+        <title type="html"><![CDATA[Mining 60,000 Metric Tons Of Salt In A Dangerous Pink Lake That's Saltier Than The Dead Sea]]></title>
         <id>https://www.youtube.com/watch?v=Yc827HubVjY</id>
         <link href="https://www.youtube.com/watch?v=Yc827HubVjY"/>
         <updated>2025-11-08T13:01:09.000Z</updated>
@@ -383,16 +402,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#ChatGPT generated a #GameofThrones sequel, sparking a copyright infringement case. #AI #fanfiction]]></title>
-        <id>https://www.youtube.com/shorts/cBNruRw2zA4</id>
-        <link href="https://www.youtube.com/shorts/cBNruRw2zA4"/>
-        <updated>2025-11-04T14:56:43.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Straw That Sucks Itself]]></title>
         <id>https://www.youtube.com/shorts/fLmdtn8w7fk</id>
         <link href="https://www.youtube.com/shorts/fLmdtn8w7fk"/>
@@ -500,7 +509,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[If you don't understand this, you don't understand evolution]]></title>
+        <title type="html"><![CDATA[The Most Controversial Idea in Biology]]></title>
         <id>https://www.youtube.com/watch?v=XX7PdJIGiCw</id>
         <link href="https://www.youtube.com/watch?v=XX7PdJIGiCw"/>
         <updated>2025-10-31T22:42:09.000Z</updated>
@@ -761,16 +770,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bi Directional CNC Machining Technique is 2X Faster]]></title>
-        <id>https://www.youtube.com/shorts/ss_8JeyYOcc</id>
-        <link href="https://www.youtube.com/shorts/ss_8JeyYOcc"/>
-        <updated>2025-10-28T15:01:59.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
