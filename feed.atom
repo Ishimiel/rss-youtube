@@ -1,10 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-12T00:49:39.312Z</id>
+    <id>urn:2025-11-13T00:49:14.314Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-12T00:49:39.312Z</updated>
+    <updated>2025-11-13T00:49:14.314Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Most Dangerous Cognitive Bias]]></title>
+        <id>https://www.youtube.com/watch?v=9M_QK4stCJU</id>
+        <link href="https://www.youtube.com/watch?v=9M_QK4stCJU"/>
+        <updated>2025-11-12T23:24:30.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Invest As AI Bubble Fears Build]]></title>
+        <id>https://www.youtube.com/watch?v=UA7Ho0rcABo</id>
+        <link href="https://www.youtube.com/watch?v=UA7Ho0rcABo"/>
+        <updated>2025-11-12T19:17:43.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safe Firecracker #diy #experiment #funny]]></title>
+        <id>https://www.youtube.com/shorts/mqt_FdmDq4k</id>
+        <link href="https://www.youtube.com/shorts/mqt_FdmDq4k"/>
+        <updated>2025-11-12T16:58:58.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How The Wonderful Company made #pistachios a US powerhouse]]></title>
+        <id>https://www.youtube.com/shorts/XaDdUIg-mCk</id>
+        <link href="https://www.youtube.com/shorts/XaDdUIg-mCk"/>
+        <updated>2025-11-12T15:07:17.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNC Machining a Cast Iron Brake Rotor]]></title>
+        <id>https://www.youtube.com/shorts/YVTQNFYPuuk</id>
+        <link href="https://www.youtube.com/shorts/YVTQNFYPuuk"/>
+        <updated>2025-11-12T15:01:14.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Nuclear Powers Space Exploration]]></title>
+        <id>https://www.youtube.com/watch?v=g0AwtpgD-pE</id>
+        <link href="https://www.youtube.com/watch?v=g0AwtpgD-pE"/>
+        <updated>2025-11-12T14:01:10.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How This Special Forces Combat Cameraman Survived An IED In Afghanistan | War Journal]]></title>
+        <id>https://www.youtube.com/watch?v=v-82Lg1rTMs</id>
+        <link href="https://www.youtube.com/watch?v=v-82Lg1rTMs"/>
+        <updated>2025-11-12T13:01:57.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How The Next Wave Of Hiring Innovation Is Changing The Job Market]]></title>
         <id>https://www.youtube.com/watch?v=h7HfKejfqcE</id>
@@ -63,15 +129,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Invest As AI Bubble Fears Build]]></title>
-        <id>https://www.youtube.com/watch?v=UA7Ho0rcABo</id>
-        <link href="https://www.youtube.com/watch?v=UA7Ho0rcABo"/>
-        <updated>2025-11-11T16:00:42.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Grinding a PERFECT Surface on a Magnetic Chuck]]></title>
         <id>https://www.youtube.com/shorts/GXH_OS6aCuU</id>
         <link href="https://www.youtube.com/shorts/GXH_OS6aCuU"/>
@@ -107,15 +164,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch Blue Origin Launch New Glenn to Mars!]]></title>
-        <id>https://www.youtube.com/watch?v=q8Fi-0lqjcc</id>
-        <link href="https://www.youtube.com/watch?v=q8Fi-0lqjcc"/>
-        <updated>2025-11-10T23:32:08.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
         </author>
     </entry>
     <entry>
@@ -199,7 +247,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Science of Going to Mars]]></title>
+        <title type="html"><![CDATA[Why it's So Difficult to Get to Mars]]></title>
         <id>https://www.youtube.com/watch?v=tfcTThHMJXI</id>
         <link href="https://www.youtube.com/watch?v=tfcTThHMJXI"/>
         <updated>2025-11-10T14:01:27.000Z</updated>
@@ -386,26 +434,6 @@
         <updated>2025-11-07T14:26:53.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#Musk is poised to become the world’s first #trillionaire. #Tesla]]></title>
-        <id>https://www.youtube.com/shorts/h9nVYFLr-JM</id>
-        <link href="https://www.youtube.com/shorts/h9nVYFLr-JM"/>
-        <updated>2025-11-07T12:01:27.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet the Army’s #TombGuards — an elite group preserving one of the nation’s most sacred #traditions.]]></title>
-        <id>https://www.youtube.com/shorts/Qq-Guy0qOPg</id>
-        <link href="https://www.youtube.com/shorts/Qq-Guy0qOPg"/>
-        <updated>2025-11-06T20:33:40.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -760,16 +788,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High Efficiency Collet Chuck Install]]></title>
-        <id>https://www.youtube.com/shorts/XpLNp80Yhmk</id>
-        <link href="https://www.youtube.com/shorts/XpLNp80Yhmk"/>
-        <updated>2025-10-31T14:01:03.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1443,16 +1461,6 @@
         <updated>2025-10-11T12:39:54.000Z</updated>
         <author>
             <name>NinjaCakeAssassin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Pluto Isn’t a Planet]]></title>
-        <id>https://www.youtube.com/shorts/SxROGnWbkuU</id>
-        <link href="https://www.youtube.com/shorts/SxROGnWbkuU"/>
-        <updated>2025-10-10T20:31:21.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -2473,16 +2481,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can you swim in shade balls?]]></title>
-        <id>https://www.youtube.com/shorts/zQ2ZJuUJeyo</id>
-        <link href="https://www.youtube.com/shorts/zQ2ZJuUJeyo"/>
-        <updated>2025-08-19T08:35:20.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The AI that solved IMO Geometry Problems | Guest video by @Aleph0]]></title>
         <id>https://www.youtube.com/watch?v=4NlrfOl0l8U</id>
         <link href="https://www.youtube.com/watch?v=4NlrfOl0l8U"/>
@@ -2526,25 +2524,6 @@
         <updated>2025-08-15T15:01:01.000Z</updated>
         <author>
             <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is the True Promise of Quantum Computing? | PODCAST: The Joy of Why]]></title>
-        <id>https://www.youtube.com/watch?v=sFINadglmjg</id>
-        <link href="https://www.youtube.com/watch?v=sFINadglmjg"/>
-        <updated>2025-08-14T20:45:19.000Z</updated>
-        <author>
-            <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making a squishy rubber bouncy ball from scratch]]></title>
-        <id>https://www.youtube.com/shorts/tERigvFwLrM</id>
-        <link href="https://www.youtube.com/shorts/tERigvFwLrM"/>
-        <updated>2025-08-14T17:09:32.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NileRed</name>
         </author>
     </entry>
 </feed>
