@@ -1,12 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-27T00:48:00.364Z</id>
+    <id>urn:2025-11-28T00:46:43.521Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-27T00:48:00.364Z</updated>
+    <updated>2025-11-28T00:46:43.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[This Graph Changes The Way You View The World]]></title>
+        <title type="html"><![CDATA[I turned my phone into a microscope]]></title>
+        <id>https://www.youtube.com/shorts/Bb0uDpvitoE</id>
+        <link href="https://www.youtube.com/shorts/Bb0uDpvitoE"/>
+        <updated>2025-11-27T15:04:19.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will Fungi Infect Us All?]]></title>
+        <id>https://www.youtube.com/shorts/omNvSHfIv7s</id>
+        <link href="https://www.youtube.com/shorts/omNvSHfIv7s"/>
+        <updated>2025-11-27T15:01:45.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Secret to Machining this Nasty Material]]></title>
+        <id>https://www.youtube.com/shorts/XpmljzepL-c</id>
+        <link href="https://www.youtube.com/shorts/XpmljzepL-c"/>
+        <updated>2025-11-27T15:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Graph Reconstruction Conjecture - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=dWVCl4p-Zyc</id>
+        <link href="https://www.youtube.com/watch?v=dWVCl4p-Zyc"/>
+        <updated>2025-11-27T14:31:23.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The benefits of #exercise for #aging, according to #senior athletes. #fitness #athlete]]></title>
+        <id>https://www.youtube.com/shorts/Btq51euV1HM</id>
+        <link href="https://www.youtube.com/shorts/Btq51euV1HM"/>
+        <updated>2025-11-27T14:00:23.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update on My @BambuLab H2C Bed Issues.]]></title>
+        <id>https://www.youtube.com/shorts/1zO9jzD0_mY</id>
+        <link href="https://www.youtube.com/shorts/1zO9jzD0_mY"/>
+        <updated>2025-11-27T11:26:24.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Touchscreens Work]]></title>
+        <id>https://www.youtube.com/shorts/46N0XT6cvKQ</id>
+        <link href="https://www.youtube.com/shorts/46N0XT6cvKQ"/>
+        <updated>2025-11-27T00:56:11.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Physics Girl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This graph will change how you see the world]]></title>
         <id>https://www.youtube.com/watch?v=HBluLfX2F_k</id>
         <link href="https://www.youtube.com/watch?v=HBluLfX2F_k"/>
         <updated>2025-11-26T21:45:00.000Z</updated>
@@ -378,16 +447,6 @@
         <updated>2025-11-21T14:01:44.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How one Texas restaurant built a century of customer loyalty.]]></title>
-        <id>https://www.youtube.com/shorts/wBuOv5Qq_Qk</id>
-        <link href="https://www.youtube.com/shorts/wBuOv5Qq_Qk"/>
-        <updated>2025-11-20T23:02:10.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -850,15 +909,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Turn Spindle OFF - Zero Vibration - Mirror Finish]]></title>
-        <id>https://www.youtube.com/watch?v=zzOBGFD0gtY</id>
-        <link href="https://www.youtube.com/watch?v=zzOBGFD0gtY"/>
-        <updated>2025-11-13T15:01:55.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Most Dangerous Animal]]></title>
         <id>https://www.youtube.com/shorts/OxOx6--oN8I</id>
         <link href="https://www.youtube.com/shorts/OxOx6--oN8I"/>
@@ -1144,16 +1194,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snapmaker U1 Unbox and First Print]]></title>
-        <id>https://www.youtube.com/shorts/CKGDsg4h65o</id>
-        <link href="https://www.youtube.com/shorts/CKGDsg4h65o"/>
-        <updated>2025-11-06T06:43:10.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>3D Printing Nerd</name>
         </author>
     </entry>
     <entry>
@@ -2022,15 +2062,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We Found a Loophole to Survive the End of the Universe]]></title>
-        <id>https://www.youtube.com/watch?v=VMm-U2pHrXE</id>
-        <link href="https://www.youtube.com/watch?v=VMm-U2pHrXE"/>
-        <updated>2025-09-30T14:00:03.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What if you looked UP for a whole day and night?]]></title>
         <id>https://www.youtube.com/shorts/0QFta__0Uxw</id>
         <link href="https://www.youtube.com/shorts/0QFta__0Uxw"/>
@@ -2245,15 +2276,6 @@
         <updated>2025-09-11T16:01:03.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Most Dangerous Escalator in Europe]]></title>
-        <id>https://www.youtube.com/watch?v=tZ8ehplVFp4</id>
-        <link href="https://www.youtube.com/watch?v=tZ8ehplVFp4"/>
-        <updated>2025-09-11T14:22:52.000Z</updated>
-        <author>
-            <name>Veritasium</name>
         </author>
     </entry>
     <entry>
@@ -2538,25 +2560,6 @@
         <updated>2025-08-30T15:31:55.000Z</updated>
         <author>
             <name>CNC Kitchen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The World's Deepest Hole is Under This Cover]]></title>
-        <id>https://www.youtube.com/shorts/-CISqa73298</id>
-        <link href="https://www.youtube.com/shorts/-CISqa73298"/>
-        <updated>2025-08-29T18:38:58.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Confidence Intervals]]></title>
-        <id>https://www.youtube.com/watch?v=qTVdV8ITZfk</id>
-        <link href="https://www.youtube.com/watch?v=qTVdV8ITZfk"/>
-        <updated>2025-08-29T16:45:10.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
 </feed>
