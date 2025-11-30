@@ -1,10 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-29T00:46:58.960Z</id>
+    <id>urn:2025-11-30T00:55:52.351Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-29T00:46:58.960Z</updated>
+    <updated>2025-11-30T00:55:52.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coding Bevels for Half-Edge (my 3D modeling app!)]]></title>
+        <id>https://www.youtube.com/watch?v=nv0J5BYZLAg</id>
+        <link href="https://www.youtube.com/watch?v=nv0J5BYZLAg"/>
+        <updated>2025-11-29T23:17:52.000Z</updated>
+        <author>
+            <name>Freya Holmér</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snapmaker U1 Functional Print! @Snapmaker @Cookiecad @gazzaladra]]></title>
+        <id>https://www.youtube.com/shorts/vMs5_w3zIZ4</id>
+        <link href="https://www.youtube.com/shorts/vMs5_w3zIZ4"/>
+        <updated>2025-11-29T19:07:09.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The FibreSeeker 3 brings Continuous Fiber Printing to Consumers!]]></title>
+        <id>https://www.youtube.com/watch?v=dQp7yz6fzH0</id>
+        <link href="https://www.youtube.com/watch?v=dQp7yz6fzH0"/>
+        <updated>2025-11-29T16:30:17.000Z</updated>
+        <author>
+            <name>CNC Kitchen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BEAST MODE CUTS in 304 Stainless]]></title>
+        <id>https://www.youtube.com/shorts/5vX7IsW_WNM</id>
+        <link href="https://www.youtube.com/shorts/5vX7IsW_WNM"/>
+        <updated>2025-11-29T15:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maximum Likelihood Estimation Example: Fitting a Normal Distribution with Data]]></title>
         <id>https://www.youtube.com/watch?v=x5GOUgCTkjM</id>
@@ -831,16 +869,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stalling a MONSTER Drill 😲]]></title>
-        <id>https://www.youtube.com/shorts/YL6E7OyjI7E</id>
-        <link href="https://www.youtube.com/shorts/YL6E7OyjI7E"/>
-        <updated>2025-11-14T15:01:13.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Factory That Prints Furniture]]></title>
         <id>https://www.youtube.com/shorts/QVfTcze_e4s</id>
         <link href="https://www.youtube.com/shorts/QVfTcze_e4s"/>
@@ -1100,7 +1128,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why it's So Difficult to Get to Mars]]></title>
+        <title type="html"><![CDATA[Why We Can't Go to Mars]]></title>
         <id>https://www.youtube.com/watch?v=tfcTThHMJXI</id>
         <link href="https://www.youtube.com/watch?v=tfcTThHMJXI"/>
         <updated>2025-11-10T14:01:27.000Z</updated>
@@ -1163,16 +1191,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>AlphaPhoenix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GALACTUS IS DONE at Orlando Maker Faire! #3dprinting]]></title>
-        <id>https://www.youtube.com/shorts/mNbGaKNRPmA</id>
-        <link href="https://www.youtube.com/shorts/mNbGaKNRPmA"/>
-        <updated>2025-11-08T03:20:49.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>3D Printing Nerd</name>
         </author>
     </entry>
     <entry>
