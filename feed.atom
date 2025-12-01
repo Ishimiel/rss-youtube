@@ -1,10 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-30T00:55:52.351Z</id>
+    <id>urn:2025-12-01T01:00:08.546Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-30T00:55:52.351Z</updated>
+    <updated>2025-12-01T01:00:08.546Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coding Bevels for Half-Edge (my 3D modeling app) for reals this time]]></title>
+        <id>https://www.youtube.com/watch?v=pmmGUt2dIlE</id>
+        <link href="https://www.youtube.com/watch?v=pmmGUt2dIlE"/>
+        <updated>2025-11-30T17:03:00.000Z</updated>
+        <author>
+            <name>Freya Holmér</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roughing 6061 - Speeds & Feeds]]></title>
+        <id>https://www.youtube.com/shorts/h_dDI3TD8OE</id>
+        <link href="https://www.youtube.com/shorts/h_dDI3TD8OE"/>
+        <updated>2025-11-30T15:01:20.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where NYC’s Breakfast Carts Get Ingredients | Big Business | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=Q-8nM3ydZw4</id>
+        <link href="https://www.youtube.com/watch?v=Q-8nM3ydZw4"/>
+        <updated>2025-11-30T14:00:41.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nearly half a million people aged 80+ are still #working in the #UnitedStates. #aging]]></title>
+        <id>https://www.youtube.com/shorts/62GkaZdg6Hw</id>
+        <link href="https://www.youtube.com/shorts/62GkaZdg6Hw"/>
+        <updated>2025-11-30T13:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why did Ivanpah Fail?]]></title>
+        <id>https://www.youtube.com/watch?v=ulp-qoGZMdw</id>
+        <link href="https://www.youtube.com/watch?v=ulp-qoGZMdw"/>
+        <updated>2025-11-30T09:01:25.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coding Bevels for Half-Edge (my 3D modeling app!)]]></title>
         <id>https://www.youtube.com/watch?v=nv0J5BYZLAg</id>
@@ -169,7 +216,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This graph will change how you see the world]]></title>
+        <title type="html"><![CDATA[You've (Likely) Been Playing The Game of Life Wrong - The Power Law]]></title>
         <id>https://www.youtube.com/watch?v=HBluLfX2F_k</id>
         <link href="https://www.youtube.com/watch?v=HBluLfX2F_k"/>
         <updated>2025-11-26T21:45:00.000Z</updated>
@@ -430,15 +477,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Japan Can't Keep Up With America's Matcha Obsession | So Expensive | Business Insider]]></title>
-        <id>https://www.youtube.com/watch?v=CSSg-jYH4L4</id>
-        <link href="https://www.youtube.com/watch?v=CSSg-jYH4L4"/>
-        <updated>2025-11-22T16:00:19.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[5 Axis Machining - Clearance is Clearance]]></title>
         <id>https://www.youtube.com/shorts/fhlG3Xwr0cs</id>
         <link href="https://www.youtube.com/shorts/fhlG3Xwr0cs"/>
@@ -446,15 +484,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's What You'll Find At The Best Airports In The World | Big Business | Business Insider]]></title>
-        <id>https://www.youtube.com/watch?v=yWXnfY_De8M</id>
-        <link href="https://www.youtube.com/watch?v=yWXnfY_De8M"/>
-        <updated>2025-11-22T01:01:08.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -810,16 +839,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BEST Way to Zero Your Tools?]]></title>
-        <id>https://www.youtube.com/shorts/r-y-xtogQ4k</id>
-        <link href="https://www.youtube.com/shorts/r-y-xtogQ4k"/>
-        <updated>2025-11-15T15:01:42.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1560,16 +1579,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making Water Out Of Thin Air]]></title>
-        <id>https://www.youtube.com/shorts/CxoyMBCPugI</id>
-        <link href="https://www.youtube.com/shorts/CxoyMBCPugI"/>
-        <updated>2025-10-27T19:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -2550,25 +2559,6 @@
         <updated>2025-09-02T18:20:10.000Z</updated>
         <author>
             <name>Domain of Science</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sparkly Quintuplets]]></title>
-        <id>https://www.youtube.com/shorts/y4p-OKSiP-0</id>
-        <link href="https://www.youtube.com/shorts/y4p-OKSiP-0"/>
-        <updated>2025-09-01T23:08:51.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Adam Neely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Central Limit Theorem Example & Hypothesis Testing]]></title>
-        <id>https://www.youtube.com/watch?v=bOrihOzYXWA</id>
-        <link href="https://www.youtube.com/watch?v=bOrihOzYXWA"/>
-        <updated>2025-09-01T16:00:59.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
 </feed>
