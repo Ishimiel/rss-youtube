@@ -1,10 +1,105 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-10T00:52:03.763Z</id>
+    <id>urn:2025-12-11T00:52:41.331Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-10T00:52:03.763Z</updated>
+    <updated>2025-12-11T00:52:41.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Implementing Quadrangulated Bevels for Half-Edge - my 3D modeling app]]></title>
+        <id>https://www.youtube.com/watch?v=5epxvUlBRgs</id>
+        <link href="https://www.youtube.com/watch?v=5epxvUlBRgs"/>
+        <updated>2025-12-10T23:38:13.000Z</updated>
+        <author>
+            <name>Freya Holmér</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newly released photos show contents of #LuigiMangione’s #backpack at the time of his #arrest.]]></title>
+        <id>https://www.youtube.com/shorts/popSWtKu33Q</id>
+        <link href="https://www.youtube.com/shorts/popSWtKu33Q"/>
+        <updated>2025-12-10T22:01:05.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Would You Like A TRIPLE Entendre?]]></title>
+        <id>https://www.youtube.com/shorts/UrM6ugyzeC8</id>
+        <link href="https://www.youtube.com/shorts/UrM6ugyzeC8"/>
+        <updated>2025-12-10T21:32:46.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What does #capitalism mean to you? Take our survey in the comments.]]></title>
+        <id>https://www.youtube.com/shorts/jNxiE4zlgLw</id>
+        <link href="https://www.youtube.com/shorts/jNxiE4zlgLw"/>
+        <updated>2025-12-10T20:00:44.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Έχουμε Dark Souls στο σπίτι]]></title>
+        <id>https://www.youtube.com/watch?v=mBlsb9LtBy4</id>
+        <link href="https://www.youtube.com/watch?v=mBlsb9LtBy4"/>
+        <updated>2025-12-10T16:53:13.000Z</updated>
+        <author>
+            <name>NinjaCakeAssassin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machinist Money Making Hack🤑]]></title>
+        <id>https://www.youtube.com/shorts/ctSfey2Y0qw</id>
+        <link href="https://www.youtube.com/shorts/ctSfey2Y0qw"/>
+        <updated>2025-12-10T15:01:28.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Flies Could Fuel the Next Food Revolution]]></title>
+        <id>https://www.youtube.com/shorts/7aCEOkGdq3o</id>
+        <link href="https://www.youtube.com/shorts/7aCEOkGdq3o"/>
+        <updated>2025-12-10T15:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIGHTS OUT METAL 3D Printing from EOS!]]></title>
+        <id>https://www.youtube.com/watch?v=-1WOu43nbYs</id>
+        <link href="https://www.youtube.com/watch?v=-1WOu43nbYs"/>
+        <updated>2025-12-10T14:00:01.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why The US Army Has Spent $21.6 Billion On Stryker Combat Vehicles]]></title>
+        <id>https://www.youtube.com/watch?v=a0nrXBJ0-0k</id>
+        <link href="https://www.youtube.com/watch?v=a0nrXBJ0-0k"/>
+        <updated>2025-12-10T13:00:00.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch Rocket Lab Launch Electron for "Bridging The Swarm"]]></title>
+        <id>https://www.youtube.com/watch?v=IjFB0IdwJK4</id>
+        <link href="https://www.youtube.com/watch?v=IjFB0IdwJK4"/>
+        <updated>2025-12-10T06:02:38.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Universe Expands FAST]]></title>
         <id>https://www.youtube.com/shorts/eo1GGWRGpGM</id>
@@ -54,7 +149,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D Printing for Eye Surgery?]]></title>
+        <title type="html"><![CDATA[3D Printing Flesh! - *Warning: Graphic Content]]></title>
         <id>https://www.youtube.com/watch?v=VDRjroj_7ic</id>
         <link href="https://www.youtube.com/watch?v=VDRjroj_7ic"/>
         <updated>2025-12-09T14:01:03.000Z</updated>
@@ -177,15 +272,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding Bevels/Shape Optimization for Half-Edge - my 3D modeling app]]></title>
-        <id>https://www.youtube.com/watch?v=5epxvUlBRgs</id>
-        <link href="https://www.youtube.com/watch?v=5epxvUlBRgs"/>
-        <updated>2025-12-07T00:11:37.000Z</updated>
-        <author>
-            <name>Freya Holmér</name>
         </author>
     </entry>
     <entry>
@@ -427,16 +513,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Here's how #farmers in #Nepal turn shrubs into Japanese currency. #yen #money]]></title>
-        <id>https://www.youtube.com/shorts/_6WnF4Rbhjw</id>
-        <link href="https://www.youtube.com/shorts/_6WnF4Rbhjw"/>
-        <updated>2025-12-03T20:50:58.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The TROJAN Test]]></title>
         <id>https://www.youtube.com/watch?v=_DYZF-piKKU</id>
         <link href="https://www.youtube.com/watch?v=_DYZF-piKKU"/>
@@ -475,16 +551,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Another perk of #weightloss drugs? Fewer #colon deaths, study finds. #Ozempic #cancer #glp1]]></title>
-        <id>https://www.youtube.com/shorts/nDGD9hmWtiA</id>
-        <link href="https://www.youtube.com/shorts/nDGD9hmWtiA"/>
-        <updated>2025-12-03T12:01:46.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Snapmaker U1 Towel Holder PART 2! @gazzaladra @Snapmaker #3dprinting  #3dprinted #3dprintingnerd]]></title>
         <id>https://www.youtube.com/shorts/kb_aB6MCrs4</id>
         <link href="https://www.youtube.com/shorts/kb_aB6MCrs4"/>
@@ -492,16 +558,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Only a tiny share of Iran's #pistachios make it to the US – and they are incredibly #expensive]]></title>
-        <id>https://www.youtube.com/shorts/ruYCVuq0aCY</id>
-        <link href="https://www.youtube.com/shorts/ruYCVuq0aCY"/>
-        <updated>2025-12-03T01:01:17.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -561,7 +617,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ελληνικό Ragebait γκέιμ]]></title>
+        <title type="html"><![CDATA[Ελληνικό Ragebait γκέιμ (Escape 9 to 5)]]></title>
         <id>https://www.youtube.com/watch?v=sJ3XP0fA9v4</id>
         <link href="https://www.youtube.com/watch?v=sJ3XP0fA9v4"/>
         <updated>2025-12-01T16:19:52.000Z</updated>
@@ -799,16 +855,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Turning a MONSTER Part on a Mill]]></title>
-        <id>https://www.youtube.com/shorts/FTZ4IQLlWJM</id>
-        <link href="https://www.youtube.com/shorts/FTZ4IQLlWJM"/>
-        <updated>2025-11-26T15:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Unicorn Filament! COMPOSITING Tullomer from Z-Polymers!]]></title>
         <id>https://www.youtube.com/watch?v=PQ2NpE6EbPE</id>
         <link href="https://www.youtube.com/watch?v=PQ2NpE6EbPE"/>
@@ -981,16 +1027,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Metal 3D Printing at EOS Formnext 2025!]]></title>
-        <id>https://www.youtube.com/shorts/eNmn3923v5E</id>
-        <link href="https://www.youtube.com/shorts/eNmn3923v5E"/>
-        <updated>2025-11-20T08:26:40.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This is what the FibreSeeker 3 can print! #3dprinting #fibreseeker #ad]]></title>
         <id>https://www.youtube.com/shorts/oj6uFWOuFMM</id>
         <link href="https://www.youtube.com/shorts/oj6uFWOuFMM"/>
@@ -1123,7 +1159,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Don’t Jet Engines Melt?]]></title>
+        <title type="html"><![CDATA[What happens if you throw sand into a jet engine?]]></title>
         <id>https://www.youtube.com/watch?v=QtxVdC7pBQM</id>
         <link href="https://www.youtube.com/watch?v=QtxVdC7pBQM"/>
         <updated>2025-11-17T07:58:31.000Z</updated>
@@ -1445,15 +1481,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why We Can't Go to Mars]]></title>
-        <id>https://www.youtube.com/watch?v=tfcTThHMJXI</id>
-        <link href="https://www.youtube.com/watch?v=tfcTThHMJXI"/>
-        <updated>2025-11-10T14:01:27.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -1782,16 +1809,6 @@
         <updated>2025-10-29T14:16:07.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Children's Books THAT ARE NOT For Kids]]></title>
-        <id>https://www.youtube.com/shorts/vDtqOjpknSU</id>
-        <link href="https://www.youtube.com/shorts/vDtqOjpknSU"/>
-        <updated>2025-10-27T22:54:38.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Vsauce</name>
         </author>
     </entry>
     <entry>
@@ -2436,25 +2453,6 @@
         <updated>2025-09-12T16:08:52.000Z</updated>
         <author>
             <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easy 1 Minute Meal]]></title>
-        <id>https://www.youtube.com/shorts/c5bfZ4LB5Zg</id>
-        <link href="https://www.youtube.com/shorts/c5bfZ4LB5Zg"/>
-        <updated>2025-09-11T23:55:08.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hypothesis Testing Procedure]]></title>
-        <id>https://www.youtube.com/watch?v=WYifBkNg1r8</id>
-        <link href="https://www.youtube.com/watch?v=WYifBkNg1r8"/>
-        <updated>2025-09-11T16:01:03.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
 </feed>
