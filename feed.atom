@@ -1,10 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-16T00:52:45.787Z</id>
+    <id>urn:2025-12-17T00:47:19.968Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-16T00:52:45.787Z</updated>
+    <updated>2025-12-17T00:47:19.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[My Weirdest Dice]]></title>
+        <id>https://www.youtube.com/shorts/cdu6sOgI9Dc</id>
+        <link href="https://www.youtube.com/shorts/cdu6sOgI9Dc"/>
+        <updated>2025-12-16T21:57:29.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The #FBI has launched a #fraud probe into founder Shiloh Luckey.]]></title>
+        <id>https://www.youtube.com/shorts/Y6sEDYZMYec</id>
+        <link href="https://www.youtube.com/shorts/Y6sEDYZMYec"/>
+        <updated>2025-12-16T21:51:42.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Capacitor Over-Pressure Protection #electronics #electrical #technology #funny]]></title>
+        <id>https://www.youtube.com/shorts/HhRgPVNQLww</id>
+        <link href="https://www.youtube.com/shorts/HhRgPVNQLww"/>
+        <updated>2025-12-16T17:07:22.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS AI Agents For Lyft: Getting Drivers Back On The Road Faster]]></title>
+        <id>https://www.youtube.com/watch?v=lfulsZ3flGI</id>
+        <link href="https://www.youtube.com/watch?v=lfulsZ3flGI"/>
+        <updated>2025-12-16T16:17:18.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machining INCONEL 625 😲]]></title>
+        <id>https://www.youtube.com/shorts/S8s1izNlngU</id>
+        <link href="https://www.youtube.com/shorts/S8s1izNlngU"/>
+        <updated>2025-12-16T16:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Many Parts Before a Fixture Pays Off?]]></title>
+        <id>https://www.youtube.com/watch?v=rJiCgM2qRZo</id>
+        <link href="https://www.youtube.com/watch?v=rJiCgM2qRZo"/>
+        <updated>2025-12-16T15:01:41.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silksong vs Game Dev - Act 2, Cogwork Dancers & Trobbio [Live Analysis/2nd Playthrough]]]></title>
+        <id>https://www.youtube.com/watch?v=ewRlJXr5n-8</id>
+        <link href="https://www.youtube.com/watch?v=ewRlJXr5n-8"/>
+        <updated>2025-12-16T01:34:00.000Z</updated>
+        <author>
+            <name>Freya Holmér</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Complete Downfall of Pokemon Regions]]></title>
         <id>https://www.youtube.com/watch?v=AkBjGDCOrfY</id>
@@ -12,15 +79,6 @@
         <updated>2025-12-15T21:21:31.000Z</updated>
         <author>
             <name>Internet Pitstop</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Silksong vs Game Dev - Act 2, Clawline & Cogwork Dancers [Live Analysis/2nd Playthrough]]]></title>
-        <id>https://www.youtube.com/watch?v=ewRlJXr5n-8</id>
-        <link href="https://www.youtube.com/watch?v=ewRlJXr5n-8"/>
-        <updated>2025-12-15T19:34:52.000Z</updated>
-        <author>
-            <name>Freya Holmér</name>
         </author>
     </entry>
     <entry>
@@ -34,7 +92,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Money Lessons From Generational Family Businesses | Life Lessons | Business Insider]]></title>
+        <title type="html"><![CDATA[Life Lessons From People Who Inherited A Family Business]]></title>
         <id>https://www.youtube.com/watch?v=nDzIevSAczY</id>
         <link href="https://www.youtube.com/watch?v=nDzIevSAczY"/>
         <updated>2025-12-15T15:01:35.000Z</updated>
@@ -149,7 +207,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Real Reason Concert Tickets Are So Expensive]]></title>
+        <title type="html"><![CDATA[Why Concert Tickets Are So Expensive — And Who's To Blame]]></title>
         <id>https://www.youtube.com/watch?v=sN1AVSZyFbY</id>
         <link href="https://www.youtube.com/watch?v=sN1AVSZyFbY"/>
         <updated>2025-12-13T14:01:35.000Z</updated>
@@ -518,16 +576,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How AI is driving labor market transformation — and what this means for employers]]></title>
-        <id>https://www.youtube.com/shorts/_qfxaeL76tM</id>
-        <link href="https://www.youtube.com/shorts/_qfxaeL76tM"/>
-        <updated>2025-12-08T22:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Machining TINY Parts from Oversized Material]]></title>
         <id>https://www.youtube.com/shorts/yovDsy3Xtcg</id>
         <link href="https://www.youtube.com/shorts/yovDsy3Xtcg"/>
@@ -624,15 +672,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How The World's Most Expensive Color Is Made]]></title>
-        <id>https://www.youtube.com/watch?v=nBjgngg6_bE</id>
-        <link href="https://www.youtube.com/watch?v=nBjgngg6_bE"/>
-        <updated>2025-12-06T14:01:34.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Drunk Bambu H2S Print]]></title>
         <id>https://www.youtube.com/shorts/qgNVmn09__Y</id>
         <link href="https://www.youtube.com/shorts/qgNVmn09__Y"/>
@@ -708,16 +747,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Precision Grinding Wheels]]></title>
-        <id>https://www.youtube.com/shorts/rqFPgw8IV5s</id>
-        <link href="https://www.youtube.com/shorts/rqFPgw8IV5s"/>
-        <updated>2025-12-04T15:01:49.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Does Legalizing Drugs Help?]]></title>
         <id>https://www.youtube.com/shorts/T6tCY6SOSXo</id>
         <link href="https://www.youtube.com/shorts/T6tCY6SOSXo"/>
@@ -762,16 +791,6 @@
         <updated>2025-12-03T19:14:38.000Z</updated>
         <author>
             <name>minutephysics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machining The World's Most Beautiful Drum]]></title>
-        <id>https://www.youtube.com/shorts/gOto0lczqLs</id>
-        <link href="https://www.youtube.com/shorts/gOto0lczqLs"/>
-        <updated>2025-12-03T15:15:09.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1718,16 +1737,6 @@
         <updated>2025-11-04T16:10:02.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Straw That Sucks Itself]]></title>
-        <id>https://www.youtube.com/shorts/fLmdtn8w7fk</id>
-        <link href="https://www.youtube.com/shorts/fLmdtn8w7fk"/>
-        <updated>2025-11-04T03:48:48.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Vsauce</name>
         </author>
     </entry>
     <entry>
