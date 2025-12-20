@@ -1,10 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-19T00:52:23.256Z</id>
+    <id>urn:2025-12-20T00:48:36.119Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-19T00:52:23.256Z</updated>
+    <updated>2025-12-20T00:48:36.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Silksong vs Game Dev - Clawline & Mount Fay [Live Analysis/2nd Playthrough]]]></title>
+        <id>https://www.youtube.com/watch?v=FmbuDzTMT6E</id>
+        <link href="https://www.youtube.com/watch?v=FmbuDzTMT6E"/>
+        <updated>2025-12-19T22:49:38.000Z</updated>
+        <author>
+            <name>Freya Holmér</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You're Being Lied To About Energy Costs]]></title>
+        <id>https://www.youtube.com/watch?v=pk0Zm_xpk3c</id>
+        <link href="https://www.youtube.com/watch?v=pk0Zm_xpk3c"/>
+        <updated>2025-12-19T21:25:01.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[String Theory in 2037 | Brian Greene & Edward Witten]]></title>
+        <id>https://www.youtube.com/watch?v=sAbP0magTVY</id>
+        <link href="https://www.youtube.com/watch?v=sAbP0magTVY"/>
+        <updated>2025-12-19T21:00:06.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reimagining the Keyboard]]></title>
+        <id>https://www.youtube.com/shorts/q2kTui2cBTs</id>
+        <link href="https://www.youtube.com/shorts/q2kTui2cBTs"/>
+        <updated>2025-12-19T15:01:46.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mirror Finish Machining HACK😲]]></title>
+        <id>https://www.youtube.com/shorts/58pLas_UOcs</id>
+        <link href="https://www.youtube.com/shorts/58pLas_UOcs"/>
+        <updated>2025-12-19T15:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prusa CORE One INDX - 8 HEADS! Formnext 2025]]></title>
+        <id>https://www.youtube.com/watch?v=1P-ZPK7ZTSk</id>
+        <link href="https://www.youtube.com/watch?v=1P-ZPK7ZTSk"/>
+        <updated>2025-12-19T14:00:06.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There Is Something Faster Than Light]]></title>
+        <id>https://www.youtube.com/watch?v=NIk_0AW5hFU</id>
+        <link href="https://www.youtube.com/watch?v=NIk_0AW5hFU"/>
+        <updated>2025-12-19T06:03:02.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Dynamic Ebbinghaus Illusion]]></title>
+        <id>https://www.youtube.com/shorts/PNbgHdDQ1fc</id>
+        <link href="https://www.youtube.com/shorts/PNbgHdDQ1fc"/>
+        <updated>2025-12-19T01:52:30.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#Hospitals just miles apart can have drastically different C-section #rates — here's why.]]></title>
         <id>https://www.youtube.com/shorts/OlFClfAw9hk</id>
@@ -292,7 +367,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How The World’s Biggest Truck Stop Makes 350,000 Meals A Year]]></title>
+        <title type="html"><![CDATA[Inside The World's Biggest Truck Stop]]></title>
         <id>https://www.youtube.com/watch?v=h5CM_5VA2PI</id>
         <link href="https://www.youtube.com/watch?v=h5CM_5VA2PI"/>
         <updated>2025-12-14T14:01:15.000Z</updated>
@@ -576,15 +651,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why The US Army Has Spent $21.6 Billion On Stryker Combat Vehicles]]></title>
-        <id>https://www.youtube.com/watch?v=a0nrXBJ0-0k</id>
-        <link href="https://www.youtube.com/watch?v=a0nrXBJ0-0k"/>
-        <updated>2025-12-10T13:00:00.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Universe Expands FAST]]></title>
         <id>https://www.youtube.com/shorts/eo1GGWRGpGM</id>
         <link href="https://www.youtube.com/shorts/eo1GGWRGpGM"/>
@@ -658,16 +724,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machining TINY Parts from Oversized Material]]></title>
-        <id>https://www.youtube.com/shorts/yovDsy3Xtcg</id>
-        <link href="https://www.youtube.com/shorts/yovDsy3Xtcg"/>
-        <updated>2025-12-08T15:02:03.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -784,7 +840,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Something Weird Happens When E=−mc²]]></title>
+        <title type="html"><![CDATA[The Man Who Accidentally Discovered Antimatter]]></title>
         <id>https://www.youtube.com/watch?v=Y-W-w8yNiKU</id>
         <link href="https://www.youtube.com/watch?v=Y-W-w8yNiKU"/>
         <updated>2025-12-05T09:47:19.000Z</updated>
@@ -1112,15 +1168,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unicorn Filament! COMPOSITING Tullomer from Z-Polymers!]]></title>
-        <id>https://www.youtube.com/watch?v=PQ2NpE6EbPE</id>
-        <link href="https://www.youtube.com/watch?v=PQ2NpE6EbPE"/>
-        <updated>2025-11-26T14:00:45.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Erasure of Pokemon Regions]]></title>
         <id>https://www.youtube.com/watch?v=ZsxLBtNTVJ0</id>
         <link href="https://www.youtube.com/watch?v=ZsxLBtNTVJ0"/>
@@ -1156,16 +1203,6 @@
         <updated>2025-11-25T15:00:10.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The most absurd product I've made]]></title>
-        <id>https://www.youtube.com/shorts/Y0Aqc174FMM</id>
-        <link href="https://www.youtube.com/shorts/Y0Aqc174FMM"/>
-        <updated>2025-11-24T16:30:21.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>3Blue1Brown</name>
         </author>
     </entry>
     <entry>
@@ -1634,16 +1671,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sending Solar Panels to Space]]></title>
-        <id>https://www.youtube.com/shorts/4sp14SD_kAQ</id>
-        <link href="https://www.youtube.com/shorts/4sp14SD_kAQ"/>
-        <updated>2025-11-11T20:01:07.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microscopic Model of an Ideal Gas | Statistical Mechanics]]></title>
         <id>https://www.youtube.com/watch?v=zttsqZ_NXus</id>
         <link href="https://www.youtube.com/watch?v=zttsqZ_NXus"/>
@@ -1666,16 +1693,6 @@
         <id>https://www.youtube.com/shorts/vWz8xoy_S8w</id>
         <link href="https://www.youtube.com/shorts/vWz8xoy_S8w"/>
         <updated>2025-11-10T23:20:14.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is time travel to the past possible? #timetravel #timetravelling #wormhole #physics #briangreene]]></title>
-        <id>https://www.youtube.com/shorts/8XNDtH4brpg</id>
-        <link href="https://www.youtube.com/shorts/8XNDtH4brpg"/>
-        <updated>2025-11-10T23:16:46.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>World Science Festival</name>
@@ -1792,16 +1809,6 @@
         <updated>2025-11-04T16:10:02.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Straw That Sucks Itself]]></title>
-        <id>https://www.youtube.com/shorts/fLmdtn8w7fk</id>
-        <link href="https://www.youtube.com/shorts/fLmdtn8w7fk"/>
-        <updated>2025-11-04T03:48:48.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Vsauce</name>
         </author>
     </entry>
     <entry>
@@ -2479,44 +2486,6 @@
         <link href="https://www.youtube.com/shorts/VKNb6N7e9_o"/>
         <updated>2025-09-21T15:38:06.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alfred Nobel: The Man Who Fooled The World]]></title>
-        <id>https://www.youtube.com/watch?v=onr80iOoEXs</id>
-        <link href="https://www.youtube.com/watch?v=onr80iOoEXs"/>
-        <updated>2025-09-21T14:13:30.000Z</updated>
-        <author>
-            <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hot Ice Is Real — And Easy To Make]]></title>
-        <id>https://www.youtube.com/shorts/7hV4K1-sNmU</id>
-        <link href="https://www.youtube.com/shorts/7hV4K1-sNmU"/>
-        <updated>2025-09-20T19:56:01.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Physics Girl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suspicious Magnet Gun #science #experiment #funny]]></title>
-        <id>https://www.youtube.com/shorts/vlHmd2-PlfE</id>
-        <link href="https://www.youtube.com/shorts/vlHmd2-PlfE"/>
-        <updated>2025-09-20T16:05:27.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Earth to Mars in 10 Days]]></title>
-        <id>https://www.youtube.com/watch?v=EVwlTsa9oMM</id>
-        <link href="https://www.youtube.com/watch?v=EVwlTsa9oMM"/>
-        <updated>2025-09-20T15:30:07.000Z</updated>
         <author>
             <name>Real Engineering</name>
         </author>
