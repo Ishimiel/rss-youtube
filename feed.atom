@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-25T00:52:02.177Z</id>
+    <id>urn:2025-12-26T00:52:23.667Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-25T00:52:02.177Z</updated>
+    <updated>2025-12-26T00:52:23.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Silksong vs Game Dev - Gourmand Quest (Live analysis/2nd full playthrough)]]></title>
+        <id>https://www.youtube.com/watch?v=IbR11bh_U98</id>
+        <link href="https://www.youtube.com/watch?v=IbR11bh_U98"/>
+        <updated>2025-12-25T20:49:19.000Z</updated>
+        <author>
+            <name>Freya Holmér</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machinist Gets Coal for Christmas 🎅🏻]]></title>
+        <id>https://www.youtube.com/shorts/oNc61Z5Dk80</id>
+        <link href="https://www.youtube.com/shorts/oNc61Z5Dk80"/>
+        <updated>2025-12-25T15:01:36.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here's a look inside the factory behind #Turkey’s first industrial #DubaiChocolate]]></title>
+        <id>https://www.youtube.com/shorts/9wlEM7VdRjE</id>
+        <link href="https://www.youtube.com/shorts/9wlEM7VdRjE"/>
+        <updated>2025-12-25T14:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Shrinking Cardboard Sales Could Signal A Recession]]></title>
         <id>https://www.youtube.com/watch?v=8MygYVp9AMI</id>
@@ -44,7 +73,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Absolute Beginner's Guide to 3D Printing]]></title>
+        <title type="html"><![CDATA[Got a 3D Printer for Christmas? Watch This First]]></title>
         <id>https://www.youtube.com/watch?v=B84CgaPdixc</id>
         <link href="https://www.youtube.com/watch?v=B84CgaPdixc"/>
         <updated>2025-12-24T15:53:25.000Z</updated>
@@ -497,15 +526,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How The World Changed In 2025 | View From Above]]></title>
-        <id>https://www.youtube.com/watch?v=xiY3tnyTzpM</id>
-        <link href="https://www.youtube.com/watch?v=xiY3tnyTzpM"/>
-        <updated>2025-12-18T17:09:52.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Properly Set Up a Headstock]]></title>
         <id>https://www.youtube.com/shorts/P1QRhHDXl6Y</id>
         <link href="https://www.youtube.com/shorts/P1QRhHDXl6Y"/>
@@ -742,16 +762,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OBSESSED with Precision]]></title>
-        <id>https://www.youtube.com/shorts/foFcsntjmO4</id>
-        <link href="https://www.youtube.com/shorts/foFcsntjmO4"/>
-        <updated>2025-12-13T15:01:23.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1247,15 +1257,6 @@
         <updated>2025-11-30T09:01:25.000Z</updated>
         <author>
             <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding Bevels for Half-Edge (my 3D modeling app!)]]></title>
-        <id>https://www.youtube.com/watch?v=nv0J5BYZLAg</id>
-        <link href="https://www.youtube.com/watch?v=nv0J5BYZLAg"/>
-        <updated>2025-11-29T23:17:52.000Z</updated>
-        <author>
-            <name>Freya Holmér</name>
         </author>
     </entry>
     <entry>
