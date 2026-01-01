@@ -1,10 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-31T00:54:07.211Z</id>
+    <id>urn:2026-01-01T00:59:08.494Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-31T00:54:07.211Z</updated>
+    <updated>2026-01-01T00:59:08.494Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bayesian Maximum Aposteriori Estimation (MAP): Extending Maximum Likelihood Estimation]]></title>
+        <id>https://www.youtube.com/watch?v=xgfexqYxrDU</id>
+        <link href="https://www.youtube.com/watch?v=xgfexqYxrDU"/>
+        <updated>2025-12-31T19:45:02.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How'd we do predicting 2025's spaceflight milestones?!]]></title>
+        <id>https://www.youtube.com/watch?v=Yn7NU1NlNmA</id>
+        <link href="https://www.youtube.com/watch?v=Yn7NU1NlNmA"/>
+        <updated>2025-12-31T17:57:03.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Strange Hope of Dark Stories]]></title>
+        <id>https://www.youtube.com/watch?v=mvCTPGaYLSU</id>
+        <link href="https://www.youtube.com/watch?v=mvCTPGaYLSU"/>
+        <updated>2025-12-31T17:15:52.000Z</updated>
+        <author>
+            <name>Internet Pitstop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taking AI Doom Seriously For 62 Minutes]]></title>
+        <id>https://www.youtube.com/watch?v=Qg5QXY_qZuI</id>
+        <link href="https://www.youtube.com/watch?v=Qg5QXY_qZuI"/>
+        <updated>2025-12-31T16:03:16.000Z</updated>
+        <author>
+            <name>Primer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ridiculous Engineering Of The World's Most Important Machine]]></title>
+        <id>https://www.youtube.com/watch?v=MiUHjLxm3V0</id>
+        <link href="https://www.youtube.com/watch?v=MiUHjLxm3V0"/>
+        <updated>2025-12-31T15:37:33.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here's how #datacenters are worsening the #watercrisis]]></title>
+        <id>https://www.youtube.com/shorts/nbBNt1UhF6Q</id>
+        <link href="https://www.youtube.com/shorts/nbBNt1UhF6Q"/>
+        <updated>2025-12-31T15:10:19.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I'm changing how this channel is run.]]></title>
+        <id>https://www.youtube.com/watch?v=UATMl9JPbUw</id>
+        <link href="https://www.youtube.com/watch?v=UATMl9JPbUw"/>
+        <updated>2025-12-31T15:01:11.000Z</updated>
+        <author>
+            <name>Mathemaniac</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STUDER S41 Chuck Change]]></title>
+        <id>https://www.youtube.com/shorts/A3af3Fp_1qg</id>
+        <link href="https://www.youtube.com/shorts/A3af3Fp_1qg"/>
+        <updated>2025-12-31T15:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Science Advances of 2025 - Roundup Stream]]></title>
+        <id>https://www.youtube.com/watch?v=yNNTDyThQJ0</id>
+        <link href="https://www.youtube.com/watch?v=yNNTDyThQJ0"/>
+        <updated>2025-12-31T07:26:40.000Z</updated>
+        <author>
+            <name>Domain of Science</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Silver is on track for its best year since 1979. #silver #trade #markets]]></title>
         <id>https://www.youtube.com/shorts/Jb6cWp76Np8</id>
@@ -29,15 +112,6 @@
         <id>https://www.youtube.com/watch?v=QcD0RD1HxJY</id>
         <link href="https://www.youtube.com/watch?v=QcD0RD1HxJY"/>
         <updated>2025-12-30T19:20:08.000Z</updated>
-        <author>
-            <name>Domain of Science</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Science Advances of 2025 - Roundup Stream]]></title>
-        <id>https://www.youtube.com/watch?v=yNNTDyThQJ0</id>
-        <link href="https://www.youtube.com/watch?v=yNNTDyThQJ0"/>
-        <updated>2025-12-30T17:35:37.000Z</updated>
         <author>
             <name>Domain of Science</name>
         </author>
@@ -121,7 +195,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is an Arm CPU?]]></title>
+        <title type="html"><![CDATA[Arm Chips Explained]]></title>
         <id>https://www.youtube.com/watch?v=iTqorvhzCbA</id>
         <link href="https://www.youtube.com/watch?v=iTqorvhzCbA"/>
         <updated>2025-12-28T09:01:09.000Z</updated>
@@ -454,16 +528,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meet Lynne Austin, the first #Hooters Girl]]></title>
-        <id>https://www.youtube.com/shorts/YYxUhhwWbOk</id>
-        <link href="https://www.youtube.com/shorts/YYxUhhwWbOk"/>
-        <updated>2025-12-22T19:44:10.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[An Argument The Moon is a PLANET!]]></title>
         <id>https://www.youtube.com/watch?v=xgFKxFX3IwY</id>
         <link href="https://www.youtube.com/watch?v=xgFKxFX3IwY"/>
@@ -657,15 +721,6 @@
         <link href="https://www.youtube.com/shorts/P1QRhHDXl6Y"/>
         <updated>2025-12-18T16:00:41.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is this the GREATEST Tooling System for Lathes?]]></title>
-        <id>https://www.youtube.com/watch?v=Ub3bSVkFCMY</id>
-        <link href="https://www.youtube.com/watch?v=Ub3bSVkFCMY"/>
-        <updated>2025-12-18T15:00:54.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
         </author>
@@ -1245,7 +1300,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Edison’s Missed Billion Dollar Idea]]></title>
+        <title type="html"><![CDATA[The Invention Edison Missed - That's now worth Billions]]></title>
         <id>https://www.youtube.com/watch?v=DGKTzl9CTXo</id>
         <link href="https://www.youtube.com/watch?v=DGKTzl9CTXo"/>
         <updated>2025-12-02T22:15:00.000Z</updated>
@@ -2453,16 +2508,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Renting A Helicopter To Settle A Physics Debate]]></title>
-        <id>https://www.youtube.com/shorts/S7xvqDUPoJo</id>
-        <link href="https://www.youtube.com/shorts/S7xvqDUPoJo"/>
-        <updated>2025-10-09T14:01:34.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Making Toys More EXCTING! #shock #experiment #toys #funny]]></title>
         <id>https://www.youtube.com/shorts/ZsdV3VEyQxY</id>
         <link href="https://www.youtube.com/shorts/ZsdV3VEyQxY"/>
@@ -2562,25 +2607,6 @@
         <updated>2025-10-03T15:01:35.000Z</updated>
         <author>
             <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nature’s greatest hunter intercepts lunch at 1500 FPS]]></title>
-        <id>https://www.youtube.com/shorts/y-PFd0FKTE4</id>
-        <link href="https://www.youtube.com/shorts/y-PFd0FKTE4"/>
-        <updated>2025-10-03T01:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>AlphaPhoenix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Secret of the Raffle Function (epic proof) - Numberphile]]></title>
-        <id>https://www.youtube.com/watch?v=XhA5U9pFXuU</id>
-        <link href="https://www.youtube.com/watch?v=XhA5U9pFXuU"/>
-        <updated>2025-10-02T13:42:28.000Z</updated>
-        <author>
-            <name>Numberphile</name>
         </author>
     </entry>
 </feed>
