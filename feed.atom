@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-01T00:59:08.494Z</id>
+    <id>urn:2026-01-02T00:53:49.931Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-01T00:59:08.494Z</updated>
+    <updated>2026-01-02T00:53:49.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How'd we do predicting 2025's spaceflight milestones?!]]></title>
+        <id>https://www.youtube.com/watch?v=Yn7NU1NlNmA</id>
+        <link href="https://www.youtube.com/watch?v=Yn7NU1NlNmA"/>
+        <updated>2026-01-01T20:20:25.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Change Vise Install on Linear Pallet System]]></title>
+        <id>https://www.youtube.com/shorts/m4bcmcKIE3U</id>
+        <link href="https://www.youtube.com/shorts/m4bcmcKIE3U"/>
+        <updated>2026-01-01T15:01:31.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I made auto-aim for mini golf]]></title>
+        <id>https://www.youtube.com/watch?v=JQB8aNKyeao</id>
+        <link href="https://www.youtube.com/watch?v=JQB8aNKyeao"/>
+        <updated>2026-01-01T04:51:16.000Z</updated>
+        <author>
+            <name>Stuff Made Here</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bayesian Maximum Aposteriori Estimation (MAP): Extending Maximum Likelihood Estimation]]></title>
         <id>https://www.youtube.com/watch?v=xgfexqYxrDU</id>
@@ -12,15 +40,6 @@
         <updated>2025-12-31T19:45:02.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How'd we do predicting 2025's spaceflight milestones?!]]></title>
-        <id>https://www.youtube.com/watch?v=Yn7NU1NlNmA</id>
-        <link href="https://www.youtube.com/watch?v=Yn7NU1NlNmA"/>
-        <updated>2025-12-31T17:57:03.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
         </author>
     </entry>
     <entry>
@@ -713,16 +732,6 @@
         <updated>2025-12-18T20:14:32.000Z</updated>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Properly Set Up a Headstock]]></title>
-        <id>https://www.youtube.com/shorts/P1QRhHDXl6Y</id>
-        <link href="https://www.youtube.com/shorts/P1QRhHDXl6Y"/>
-        <updated>2025-12-18T16:00:41.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2580,33 +2589,6 @@
         <updated>2025-10-05T13:53:28.000Z</updated>
         <author>
             <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Common Moon Mistakes]]></title>
-        <id>https://www.youtube.com/watch?v=yY7ZUIbWTyc</id>
-        <link href="https://www.youtube.com/watch?v=yY7ZUIbWTyc"/>
-        <updated>2025-10-03T16:16:08.000Z</updated>
-        <author>
-            <name>minutephysics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hypothesis Testing Example: Salk Vaccine Trial]]></title>
-        <id>https://www.youtube.com/watch?v=V3aYG8mLmkI</id>
-        <link href="https://www.youtube.com/watch?v=V3aYG8mLmkI"/>
-        <updated>2025-10-03T16:00:54.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I built a Battlesuit for Magikarp]]></title>
-        <id>https://www.youtube.com/watch?v=mvSr7qabeog</id>
-        <link href="https://www.youtube.com/watch?v=mvSr7qabeog"/>
-        <updated>2025-10-03T15:01:35.000Z</updated>
-        <author>
-            <name>North of the Border</name>
         </author>
     </entry>
 </feed>
