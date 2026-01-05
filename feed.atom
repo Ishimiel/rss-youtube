@@ -1,10 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-04T00:59:15.917Z</id>
+    <id>urn:2026-01-05T00:58:28.667Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-04T00:59:15.917Z</updated>
+    <updated>2026-01-05T00:58:28.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[VOTE NOW! Biggest mission of 2025!]]></title>
+        <id>https://www.youtube.com/watch?v=lQq1sboTD6I</id>
+        <link href="https://www.youtube.com/watch?v=lQq1sboTD6I"/>
+        <updated>2026-01-04T22:20:54.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coding a replay recorder for Silksong [C#/Unity]]]></title>
+        <id>https://www.youtube.com/watch?v=TbUmbk0ZDBs</id>
+        <link href="https://www.youtube.com/watch?v=TbUmbk0ZDBs"/>
+        <updated>2026-01-04T20:20:13.000Z</updated>
+        <author>
+            <name>Freya Holmér</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trying to not pass out in Jared Isaacman’s MIG-29 #fighterjet]]></title>
+        <id>https://www.youtube.com/shorts/AB8uFmYpQwc</id>
+        <link href="https://www.youtube.com/shorts/AB8uFmYpQwc"/>
+        <updated>2026-01-04T19:09:04.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hidden Companies Behind Trader Joe’s $13 Billion Empire]]></title>
+        <id>https://www.youtube.com/watch?v=zOd01sLlDj4</id>
+        <link href="https://www.youtube.com/watch?v=zOd01sLlDj4"/>
+        <updated>2026-01-04T15:01:52.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creative Fixturing   2 Ops 1 Cycle]]></title>
+        <id>https://www.youtube.com/shorts/CjqvR6I9ErY</id>
+        <link href="https://www.youtube.com/shorts/CjqvR6I9ErY"/>
+        <updated>2026-01-04T15:00:23.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Videos show Venezuelan President Nicolás Maduro arriving in New York. #Venezuela #US]]></title>
+        <id>https://www.youtube.com/shorts/YmdoYptHGyk</id>
+        <link href="https://www.youtube.com/shorts/YmdoYptHGyk"/>
+        <updated>2026-01-04T14:42:07.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coding a replay recorder for Silksong [C#/Unity]]]></title>
+        <id>https://www.youtube.com/watch?v=z5nb1ptHDf0</id>
+        <link href="https://www.youtube.com/watch?v=z5nb1ptHDf0"/>
+        <updated>2026-01-04T12:26:11.000Z</updated>
+        <author>
+            <name>Freya Holmér</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[January 3, 2026]]></title>
         <id>https://www.youtube.com/shorts/QXcr0qoBXQM</id>
@@ -32,15 +98,6 @@
         <updated>2026-01-03T22:31:37.000Z</updated>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding a replay recorder for Silksong [C#/Unity]]]></title>
-        <id>https://www.youtube.com/watch?v=z5nb1ptHDf0</id>
-        <link href="https://www.youtube.com/watch?v=z5nb1ptHDf0"/>
-        <updated>2026-01-03T18:24:32.000Z</updated>
-        <author>
-            <name>Freya Holmér</name>
         </author>
     </entry>
     <entry>
@@ -83,7 +140,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Fixes the Prusa CORE One .. FEET!]]></title>
+        <title type="html"><![CDATA[Prusa CORE One NOW Stands Better!]]></title>
         <id>https://www.youtube.com/watch?v=hWi4miB7sWU</id>
         <link href="https://www.youtube.com/watch?v=hWi4miB7sWU"/>
         <updated>2026-01-02T14:01:10.000Z</updated>
@@ -471,15 +528,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What It Takes To Survive Navy Officer Candidate School | Boot Camp]]></title>
-        <id>https://www.youtube.com/watch?v=LBqeiB7jx-I</id>
-        <link href="https://www.youtube.com/watch?v=LBqeiB7jx-I"/>
-        <updated>2025-12-24T13:00:46.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Game Dev vs Silksong any% NMG cloakless fleas route (with cloak)]]></title>
         <id>https://www.youtube.com/watch?v=9-qvIGPPVmo</id>
         <link href="https://www.youtube.com/watch?v=9-qvIGPPVmo"/>
@@ -515,16 +563,6 @@
         <updated>2025-12-24T00:56:33.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's what surprised me most about the 'Disney World' for #truckers. #Iowa80 #truckstops]]></title>
-        <id>https://www.youtube.com/shorts/suyfDsM8YOY</id>
-        <link href="https://www.youtube.com/shorts/suyfDsM8YOY"/>
-        <updated>2025-12-23T22:25:23.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -647,16 +685,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Physics Girl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machining 100% Stepover in Steel👀]]></title>
-        <id>https://www.youtube.com/shorts/XolbhTiQAa4</id>
-        <link href="https://www.youtube.com/shorts/XolbhTiQAa4"/>
-        <updated>2025-12-21T15:01:06.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1350,15 +1378,6 @@
         <updated>2025-12-02T15:00:05.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding Bevels for Half-Edge (my 3D modeling app) _final_v3_fix.mp4]]></title>
-        <id>https://www.youtube.com/watch?v=EGiY_Q5mu64</id>
-        <link href="https://www.youtube.com/watch?v=EGiY_Q5mu64"/>
-        <updated>2025-12-02T03:52:29.000Z</updated>
-        <author>
-            <name>Freya Holmér</name>
         </author>
     </entry>
     <entry>
@@ -2404,15 +2423,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Watch SpaceX launch Tranche 1 Transport Layer C for Space Force!]]></title>
-        <id>https://www.youtube.com/watch?v=_7GJG4i5y5U</id>
-        <link href="https://www.youtube.com/watch?v=_7GJG4i5y5U"/>
-        <updated>2025-10-16T00:05:39.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Anti-Knight Killer Sudoku - Numberphile]]></title>
         <id>https://www.youtube.com/watch?v=eB0-vG6rSM4</id>
         <link href="https://www.youtube.com/watch?v=eB0-vG6rSM4"/>
@@ -2447,15 +2457,6 @@
         <updated>2025-10-14T13:00:02.000Z</updated>
         <author>
             <name>CNC Kitchen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4K] Watch the last Starship Version 2 launch // #Flight11]]></title>
-        <id>https://www.youtube.com/watch?v=VMD-Wo8jz90</id>
-        <link href="https://www.youtube.com/watch?v=VMD-Wo8jz90"/>
-        <updated>2025-10-14T01:38:49.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
         </author>
     </entry>
     <entry>
@@ -2540,34 +2541,6 @@
         <updated>2025-10-07T13:01:52.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hypothesis Testing: Type I and Type II Errors]]></title>
-        <id>https://www.youtube.com/watch?v=129NuU3A7rM</id>
-        <link href="https://www.youtube.com/watch?v=129NuU3A7rM"/>
-        <updated>2025-10-06T20:15:01.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cool East African (Tigray) pop groove]]></title>
-        <id>https://www.youtube.com/shorts/IyrX5rBjpTo</id>
-        <link href="https://www.youtube.com/shorts/IyrX5rBjpTo"/>
-        <updated>2025-10-06T18:40:14.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Adam Neely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Once-in-a-Century Proof: The Kakeya Conjecture]]></title>
-        <id>https://www.youtube.com/watch?v=5J3tYU_-IZI</id>
-        <link href="https://www.youtube.com/watch?v=5J3tYU_-IZI"/>
-        <updated>2025-10-06T16:27:51.000Z</updated>
-        <author>
-            <name>Quanta Magazine</name>
         </author>
     </entry>
 </feed>
