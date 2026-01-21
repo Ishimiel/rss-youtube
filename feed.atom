@@ -1,10 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-20T00:53:21.126Z</id>
+    <id>urn:2026-01-21T00:55:31.888Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-20T00:53:21.126Z</updated>
+    <updated>2026-01-21T00:55:31.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coding a replay mod for Silksong [C#/Unity]]]></title>
+        <id>https://www.youtube.com/watch?v=borW_J-y3U0</id>
+        <link href="https://www.youtube.com/watch?v=borW_J-y3U0"/>
+        <updated>2026-01-20T20:16:01.000Z</updated>
+        <author>
+            <name>Freya Holmér</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robotic firefighter dogs enter the blaze to save lives]]></title>
+        <id>https://www.youtube.com/shorts/_r5suYyUrtA</id>
+        <link href="https://www.youtube.com/shorts/_r5suYyUrtA"/>
+        <updated>2026-01-20T16:27:22.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clueless Manager vs Skilled Machinist]]></title>
+        <id>https://www.youtube.com/shorts/zwT0wUlwGA0</id>
+        <link href="https://www.youtube.com/shorts/zwT0wUlwGA0"/>
+        <updated>2026-01-20T16:01:35.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Autonomous snowplow robots built by students are battling snow]]></title>
+        <id>https://www.youtube.com/shorts/Xt7sgi928Iw</id>
+        <link href="https://www.youtube.com/shorts/Xt7sgi928Iw"/>
+        <updated>2026-01-20T15:06:14.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Have You Ever Seen 200lbs of Steel Move Like This?]]></title>
+        <id>https://www.youtube.com/watch?v=lC4Y9UmHt4I</id>
+        <link href="https://www.youtube.com/watch?v=lC4Y9UmHt4I"/>
+        <updated>2026-01-20T15:01:23.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-vehicle crash amid snowstorm in Michigan]]></title>
+        <id>https://www.youtube.com/shorts/wjmntC6GU_c</id>
+        <link href="https://www.youtube.com/shorts/wjmntC6GU_c"/>
+        <updated>2026-01-20T11:10:10.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s the deepest unsolved problem of quantum physics? #quantummechanics #quantum #quantumphysics]]></title>
+        <id>https://www.youtube.com/shorts/I4M1h6vdztI</id>
+        <link href="https://www.youtube.com/shorts/I4M1h6vdztI"/>
+        <updated>2026-01-20T01:23:10.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What If You Keep Slowing Down?]]></title>
         <id>https://www.youtube.com/watch?v=P-4pbFcERnk</id>
@@ -522,16 +590,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unleashing Human Potential Through Collaborative Robotics]]></title>
-        <id>https://www.youtube.com/shorts/e5mz-RHTUsM</id>
-        <link href="https://www.youtube.com/shorts/e5mz-RHTUsM"/>
-        <updated>2026-01-11T18:30:30.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Unboxing the BEST Micrometers in the World 🤯]]></title>
         <id>https://www.youtube.com/shorts/L6FULkJtr1Q</id>
         <link href="https://www.youtube.com/shorts/L6FULkJtr1Q"/>
@@ -548,25 +606,6 @@
         <updated>2026-01-11T15:00:10.000Z</updated>
         <author>
             <name>SmarterEveryDay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agilex Robotics PiPER Arm at CES 2026]]></title>
-        <id>https://www.youtube.com/shorts/uxmd64F7A8s</id>
-        <link href="https://www.youtube.com/shorts/uxmd64F7A8s"/>
-        <updated>2026-01-11T14:30:37.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Egypt is Building a New Delta]]></title>
-        <id>https://www.youtube.com/watch?v=PjIAqkZth-g</id>
-        <link href="https://www.youtube.com/watch?v=PjIAqkZth-g"/>
-        <updated>2026-01-11T09:00:40.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -627,16 +666,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CNC Machining with TINY Drill]]></title>
-        <id>https://www.youtube.com/shorts/FhgVaO-Abok</id>
-        <link href="https://www.youtube.com/shorts/FhgVaO-Abok"/>
-        <updated>2026-01-09T15:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[You're Only 6 Steps Away From Anyone On Earth]]></title>
         <id>https://www.youtube.com/shorts/fkxoaD47-Vo</id>
         <link href="https://www.youtube.com/shorts/fkxoaD47-Vo"/>
@@ -682,16 +711,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magic CNC Grinder Feature 👀]]></title>
-        <id>https://www.youtube.com/shorts/RXeJ6GvCVcg</id>
-        <link href="https://www.youtube.com/shorts/RXeJ6GvCVcg"/>
-        <updated>2026-01-08T16:00:44.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1478,15 +1497,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Implementing Quadrangulated Bevels for Half-Edge - my 3D modeling app]]></title>
-        <id>https://www.youtube.com/watch?v=5epxvUlBRgs</id>
-        <link href="https://www.youtube.com/watch?v=5epxvUlBRgs"/>
-        <updated>2025-12-10T23:38:13.000Z</updated>
-        <author>
-            <name>Freya Holmér</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Would You Like A TRIPLE Entendre?]]></title>
         <id>https://www.youtube.com/shorts/UrM6ugyzeC8</id>
         <link href="https://www.youtube.com/shorts/UrM6ugyzeC8"/>
@@ -1558,16 +1568,6 @@
         <id>https://www.youtube.com/shorts/NBWkx8wI70w</id>
         <link href="https://www.youtube.com/shorts/NBWkx8wI70w"/>
         <updated>2025-12-08T14:09:48.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kip Thorne and Brian Green on when science and film intersect. #interstellar #christophernolan]]></title>
-        <id>https://www.youtube.com/shorts/Lwd5CePowrE</id>
-        <link href="https://www.youtube.com/shorts/Lwd5CePowrE"/>
-        <updated>2025-12-07T22:43:53.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>World Science Festival</name>
@@ -2409,24 +2409,6 @@
         <updated>2025-10-23T23:11:47.000Z</updated>
         <author>
             <name>NileRed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Method of Moments to Fit Distributions from Data]]></title>
-        <id>https://www.youtube.com/watch?v=IZk0Iq2hI3c</id>
-        <link href="https://www.youtube.com/watch?v=IZk0Iq2hI3c"/>
-        <updated>2025-10-22T16:30:08.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ordinal Numbers - Numberphile]]></title>
-        <id>https://www.youtube.com/watch?v=47qEMTMKRdA</id>
-        <link href="https://www.youtube.com/watch?v=47qEMTMKRdA"/>
-        <updated>2025-10-22T14:03:45.000Z</updated>
-        <author>
-            <name>Numberphile</name>
         </author>
     </entry>
 </feed>
