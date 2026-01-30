@@ -1,10 +1,97 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-29T01:02:13.415Z</id>
+    <id>urn:2026-01-30T01:02:11.932Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-29T01:02:13.415Z</updated>
+    <updated>2026-01-30T01:02:11.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[When a math trick turns out to be real]]></title>
+        <id>https://www.youtube.com/watch?v=XKSjCOKDtpk</id>
+        <link href="https://www.youtube.com/watch?v=XKSjCOKDtpk"/>
+        <updated>2026-01-29T22:20:55.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why everything is a #subscription now]]></title>
+        <id>https://www.youtube.com/shorts/GDuq-A0djqU</id>
+        <link href="https://www.youtube.com/shorts/GDuq-A0djqU"/>
+        <updated>2026-01-29T20:21:21.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Weird Orbit of the ISS]]></title>
+        <id>https://www.youtube.com/shorts/gEYRIpIfnQc</id>
+        <link href="https://www.youtube.com/shorts/gEYRIpIfnQc"/>
+        <updated>2026-01-29T18:16:40.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zombie Proteins in Your Brain!]]></title>
+        <id>https://www.youtube.com/shorts/bRkxPsuVEeU</id>
+        <link href="https://www.youtube.com/shorts/bRkxPsuVEeU"/>
+        <updated>2026-01-29T17:41:55.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine Shop Humor - Renaming CNC Tools 😆]]></title>
+        <id>https://www.youtube.com/shorts/1S32XuJI9OQ</id>
+        <link href="https://www.youtube.com/shorts/1S32XuJI9OQ"/>
+        <updated>2026-01-29T16:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Colombia Electrocutes Burglars]]></title>
+        <id>https://www.youtube.com/watch?v=vY0-eZ-GGEg</id>
+        <link href="https://www.youtube.com/watch?v=vY0-eZ-GGEg"/>
+        <updated>2026-01-29T16:00:01.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This $50,000 humanoid robot has eyebrows]]></title>
+        <id>https://www.youtube.com/shorts/AsKPdQji0vw</id>
+        <link href="https://www.youtube.com/shorts/AsKPdQji0vw"/>
+        <updated>2026-01-29T15:31:06.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hyperturn 50 vs 316 Stainless… Full Breakdown]]></title>
+        <id>https://www.youtube.com/watch?v=-RJVHMTylNI</id>
+        <link href="https://www.youtube.com/watch?v=-RJVHMTylNI"/>
+        <updated>2026-01-29T15:00:00.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Another fire at luxury lodge: Courchevel hotel]]></title>
+        <id>https://www.youtube.com/shorts/9UNUkRUUAWs</id>
+        <link href="https://www.youtube.com/shorts/9UNUkRUUAWs"/>
+        <updated>2026-01-29T09:11:05.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CES Editing and CAD Powered by my RyzenAI AMD Laptop #ad]]></title>
         <id>https://www.youtube.com/shorts/oqNE0cKCSOQ</id>
@@ -66,7 +153,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Helix 02 unified brain announced]]></title>
+        <title type="html"><![CDATA[Helix 02: The AI brain that can do dishes]]></title>
         <id>https://www.youtube.com/shorts/4gMN3iJjNWw</id>
         <link href="https://www.youtube.com/shorts/4gMN3iJjNWw"/>
         <updated>2026-01-28T15:27:14.000Z</updated>
@@ -86,7 +173,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What It Takes To Be A US Marine | Boot Camp]]></title>
+        <title type="html"><![CDATA[What It Takes To Be A Real US Marine]]></title>
         <id>https://www.youtube.com/watch?v=yptrdzTTDSk</id>
         <link href="https://www.youtube.com/watch?v=yptrdzTTDSk"/>
         <updated>2026-01-28T13:00:00.000Z</updated>
@@ -302,32 +389,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Could a solar storm knock out Earth’s power and communications?]]></title>
-        <id>https://www.youtube.com/shorts/ou9GmXPR_UQ</id>
-        <link href="https://www.youtube.com/shorts/ou9GmXPR_UQ"/>
-        <updated>2026-01-25T17:01:25.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Properties of Chi-Squared and Student's t Distributions]]></title>
         <id>https://www.youtube.com/watch?v=so04ygeccwk</id>
         <link href="https://www.youtube.com/watch?v=so04ygeccwk"/>
         <updated>2026-01-25T15:01:25.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI deepfakes of celebrities blur the line between reality and fiction]]></title>
-        <id>https://www.youtube.com/shorts/m4k01bpC-M8</id>
-        <link href="https://www.youtube.com/shorts/m4k01bpC-M8"/>
-        <updated>2026-01-25T15:01:15.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -493,16 +560,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How leaders can futureproof their workforce]]></title>
-        <id>https://www.youtube.com/shorts/ZyRmGNCZd5A</id>
-        <link href="https://www.youtube.com/shorts/ZyRmGNCZd5A"/>
-        <updated>2026-01-22T18:08:04.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Build a Machine Shop People Beg to Work At]]></title>
         <id>https://www.youtube.com/shorts/dNDpg6JmZ8k</id>
         <link href="https://www.youtube.com/shorts/dNDpg6JmZ8k"/>
@@ -646,16 +703,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Perfect Grinds Start Right Here]]></title>
-        <id>https://www.youtube.com/shorts/56uWx87KPoY</id>
-        <link href="https://www.youtube.com/shorts/56uWx87KPoY"/>
-        <updated>2026-01-19T15:00:17.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Chi-Squared Test : Are Two Distributions the Same?  (with Python Example)]]></title>
         <id>https://www.youtube.com/watch?v=63S3FLISKMs</id>
         <link href="https://www.youtube.com/watch?v=63S3FLISKMs"/>
@@ -681,16 +728,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>NileRed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machinist POV Building Precision Tools]]></title>
-        <id>https://www.youtube.com/shorts/ez1lqq7_FI0</id>
-        <link href="https://www.youtube.com/shorts/ez1lqq7_FI0"/>
-        <updated>2026-01-18T15:01:18.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1940,15 +1977,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trees Are So Weird]]></title>
-        <id>https://www.youtube.com/watch?v=ZSch_NgZpQs</id>
-        <link href="https://www.youtube.com/watch?v=ZSch_NgZpQs"/>
-        <updated>2025-11-25T15:00:10.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tour Kennedy Space Center Visitor's Complex w/ guests!]]></title>
         <id>https://www.youtube.com/watch?v=GceWg6PQMTU</id>
         <link href="https://www.youtube.com/watch?v=GceWg6PQMTU"/>
@@ -2277,16 +2305,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Seeing Inside A Thermite Reaction]]></title>
-        <id>https://www.youtube.com/shorts/HVySQLuxLkI</id>
-        <link href="https://www.youtube.com/shorts/HVySQLuxLkI"/>
-        <updated>2025-11-10T14:07:17.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Real Story of Calculus - Numberphile]]></title>
         <id>https://www.youtube.com/watch?v=G23Jx0kPCSI</id>
         <link href="https://www.youtube.com/watch?v=G23Jx0kPCSI"/>
@@ -2385,34 +2403,6 @@
         <updated>2025-11-03T15:00:12.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SCE to AUX from Apollo changed how we launched rockets.]]></title>
-        <id>https://www.youtube.com/shorts/-wZqkMZPyL8</id>
-        <link href="https://www.youtube.com/shorts/-wZqkMZPyL8"/>
-        <updated>2025-10-31T17:07:32.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tried to make the Headless Horseman. Got confused.]]></title>
-        <id>https://www.youtube.com/watch?v=UXz_gqsRzAQ</id>
-        <link href="https://www.youtube.com/watch?v=UXz_gqsRzAQ"/>
-        <updated>2025-10-31T16:00:55.000Z</updated>
-        <author>
-            <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CORE One L, RFID & Silicone: FIVE Big Reveals from Prusa Day 2025!]]></title>
-        <id>https://www.youtube.com/watch?v=dXPF_QrMdxU</id>
-        <link href="https://www.youtube.com/watch?v=dXPF_QrMdxU"/>
-        <updated>2025-10-31T14:00:49.000Z</updated>
-        <author>
-            <name>CNC Kitchen</name>
         </author>
     </entry>
 </feed>
