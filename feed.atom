@@ -1,10 +1,106 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-31T00:59:41.616Z</id>
+    <id>urn:2026-02-01T01:13:32.599Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-31T00:59:41.616Z</updated>
+    <updated>2026-02-01T01:13:32.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dude where’s my space station?]]></title>
+        <id>https://www.youtube.com/shorts/dIWKhUnqa5s</id>
+        <link href="https://www.youtube.com/shorts/dIWKhUnqa5s"/>
+        <updated>2026-01-31T22:32:53.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Mining In Greenland Is So Hard | Business Insider]]></title>
+        <id>https://www.youtube.com/watch?v=xUzIqdEPC-k</id>
+        <link href="https://www.youtube.com/watch?v=xUzIqdEPC-k"/>
+        <updated>2026-01-31T17:34:44.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA’s Artemis II mission animation]]></title>
+        <id>https://www.youtube.com/shorts/uzZDT0-yT8k</id>
+        <link href="https://www.youtube.com/shorts/uzZDT0-yT8k"/>
+        <updated>2026-01-31T17:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[60% Stepover in Steel 🔥]]></title>
+        <id>https://www.youtube.com/shorts/pxmHOMj416I</id>
+        <link href="https://www.youtube.com/shorts/pxmHOMj416I"/>
+        <updated>2026-01-31T15:01:34.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Julian Brave NoiseCat and Sky Hopinka on We Survived the Night]]></title>
+        <id>https://www.youtube.com/watch?v=Ymk1J3-TlpU</id>
+        <link href="https://www.youtube.com/watch?v=Ymk1J3-TlpU"/>
+        <updated>2026-01-31T15:01:07.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hairy Ball Theorem]]></title>
+        <id>https://www.youtube.com/watch?v=BHdbsHFs2P0</id>
+        <link href="https://www.youtube.com/watch?v=BHdbsHFs2P0"/>
+        <updated>2026-01-31T14:57:42.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Humanity inches closer to global catastrophe]]></title>
+        <id>https://www.youtube.com/shorts/11_WeIyXFYs</id>
+        <link href="https://www.youtube.com/shorts/11_WeIyXFYs"/>
+        <updated>2026-01-31T14:30:36.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla puts basic autosteer behind a paywall]]></title>
+        <id>https://www.youtube.com/shorts/E3jKUIg09RQ</id>
+        <link href="https://www.youtube.com/shorts/E3jKUIg09RQ"/>
+        <updated>2026-01-31T09:30:41.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As part of a nationwide #strike, dozens of NYC businesses closed January 30. We visited two of them.]]></title>
+        <id>https://www.youtube.com/shorts/dGRLAYW1QHQ</id>
+        <link href="https://www.youtube.com/shorts/dGRLAYW1QHQ"/>
+        <updated>2026-01-31T02:57:38.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Practical 3D Printing FIX for a Rally Car!]]></title>
+        <id>https://www.youtube.com/watch?v=YOuAgA3GO80</id>
+        <link href="https://www.youtube.com/watch?v=YOuAgA3GO80"/>
+        <updated>2026-01-31T01:18:28.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meet The Young Founder Turned Biggest Glass Recycler In Louisiana | Big Business | Business Insider]]></title>
         <id>https://www.youtube.com/watch?v=pwFUrE2YWjo</id>
@@ -92,15 +188,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can 3D Printing Handle RALLY RACING?]]></title>
-        <id>https://www.youtube.com/watch?v=b_kApy_xHlw</id>
-        <link href="https://www.youtube.com/watch?v=b_kApy_xHlw"/>
-        <updated>2026-01-30T14:01:04.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Waymo robotaxi hits a child, sparking safety debates]]></title>
         <id>https://www.youtube.com/shorts/KeCDRBUZklM</id>
         <link href="https://www.youtube.com/shorts/KeCDRBUZklM"/>
@@ -111,7 +198,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When a math trick turns out to be real]]></title>
+        <title type="html"><![CDATA[What we learned from the 3-body problem]]></title>
         <id>https://www.youtube.com/watch?v=XKSjCOKDtpk</id>
         <link href="https://www.youtube.com/watch?v=XKSjCOKDtpk"/>
         <updated>2026-01-29T22:20:55.000Z</updated>
@@ -386,16 +473,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LEGO turns its iconic bricks into wearable crocs]]></title>
-        <id>https://www.youtube.com/shorts/KQdH2RoCA-c</id>
-        <link href="https://www.youtube.com/shorts/KQdH2RoCA-c"/>
-        <updated>2026-01-27T09:33:20.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[My DaVinci Resolve Workflow on the RyzenAI AMD Laptop #ad]]></title>
         <id>https://www.youtube.com/shorts/epp-YXTv4wU</id>
         <link href="https://www.youtube.com/shorts/epp-YXTv4wU"/>
@@ -422,26 +499,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bombardier Global 8000 redefines private jet speed and range]]></title>
-        <id>https://www.youtube.com/shorts/8-PvKKwO9SI</id>
-        <link href="https://www.youtube.com/shorts/8-PvKKwO9SI"/>
-        <updated>2026-01-26T17:01:34.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyundai’s humanoid robot plan sparks union standoff]]></title>
-        <id>https://www.youtube.com/shorts/oPhrBh_qI7c</id>
-        <link href="https://www.youtube.com/shorts/oPhrBh_qI7c"/>
-        <updated>2026-01-26T16:11:45.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -528,25 +585,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Riskiest Underwater Jobs In The World]]></title>
-        <id>https://www.youtube.com/watch?v=NZXfXmRYbQY</id>
-        <link href="https://www.youtube.com/watch?v=NZXfXmRYbQY"/>
-        <updated>2026-01-24T01:10:29.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#Greenland's harsh Arctic landscape poses challenges for #mining. #Trump]]></title>
-        <id>https://www.youtube.com/shorts/ufnAA6KG4_k</id>
-        <link href="https://www.youtube.com/shorts/ufnAA6KG4_k"/>
-        <updated>2026-01-23T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -679,16 +717,6 @@
         <updated>2026-01-21T15:01:31.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machinist Trick for a Mirror Finish 😲]]></title>
-        <id>https://www.youtube.com/shorts/6xgJ73Lqt1k</id>
-        <link href="https://www.youtube.com/shorts/6xgJ73Lqt1k"/>
-        <updated>2026-01-21T15:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2356,15 +2384,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>AlphaPhoenix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Living in the Age of Heat | Dr. Ayana Elizabeth Johnson, Jeff Goodell, and Jainey Bavishi]]></title>
-        <id>https://www.youtube.com/watch?v=NwxuJuSTLyQ</id>
-        <link href="https://www.youtube.com/watch?v=NwxuJuSTLyQ"/>
-        <updated>2025-11-07T17:18:19.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
         </author>
     </entry>
     <entry>
