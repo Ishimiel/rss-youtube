@@ -1,10 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-13T01:03:53.813Z</id>
+    <id>urn:2026-03-14T01:03:46.069Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-13T01:03:53.813Z</updated>
+    <updated>2026-03-14T01:03:46.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[I Found A Wild Ambigram!]]></title>
+        <id>https://www.youtube.com/shorts/-UgtKlbzers</id>
+        <link href="https://www.youtube.com/shorts/-UgtKlbzers"/>
+        <updated>2026-03-13T22:59:19.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to check #TSA wait times before your #flight amid the shutdown]]></title>
+        <id>https://www.youtube.com/shorts/kSUjDfNAiuU</id>
+        <link href="https://www.youtube.com/shorts/kSUjDfNAiuU"/>
+        <updated>2026-03-13T20:51:55.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Crisis at the Edge of a Black Hole | World Science Festival]]></title>
+        <id>https://www.youtube.com/watch?v=YoIIiPa-NvQ</id>
+        <link href="https://www.youtube.com/watch?v=YoIIiPa-NvQ"/>
+        <updated>2026-03-13T20:00:06.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why the #Iranwar could fuel higher #food prices]]></title>
+        <id>https://www.youtube.com/shorts/jUH94mP3Yas</id>
+        <link href="https://www.youtube.com/shorts/jUH94mP3Yas"/>
+        <updated>2026-03-13T17:03:03.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Post Apocalyptic Mario and Luigi]]></title>
+        <id>https://www.youtube.com/watch?v=N0UrJQ0UrgU</id>
+        <link href="https://www.youtube.com/watch?v=N0UrJQ0UrgU"/>
+        <updated>2026-03-13T16:00:41.000Z</updated>
+        <author>
+            <name>North of the Border</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real Precision Happens on the Grinder]]></title>
+        <id>https://www.youtube.com/shorts/yrTA52idThM</id>
+        <link href="https://www.youtube.com/shorts/yrTA52idThM"/>
+        <updated>2026-03-13T15:01:44.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here's how #fungi is turned into #deli #meat by a #company called Prime Roots.]]></title>
+        <id>https://www.youtube.com/shorts/eo06Z1Vea9c</id>
+        <link href="https://www.youtube.com/shorts/eo06Z1Vea9c"/>
+        <updated>2026-03-13T14:50:55.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to Machining Where One Mistake Costs $50,000]]></title>
+        <id>https://www.youtube.com/watch?v=uoauzFIbG5Y</id>
+        <link href="https://www.youtube.com/watch?v=uoauzFIbG5Y"/>
+        <updated>2026-03-13T14:01:37.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Print FAST and UPSIDE DOWN! Muon3D!]]></title>
+        <id>https://www.youtube.com/watch?v=jBatFQpTM6g</id>
+        <link href="https://www.youtube.com/watch?v=jBatFQpTM6g"/>
+        <updated>2026-03-13T13:01:31.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Here's how #Indian #shrimp took over #American markets. #seafood #India #fishing]]></title>
         <id>https://www.youtube.com/shorts/Af72fKffNs0</id>
@@ -65,7 +151,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[China Is Fueling A Caviar Boom — So Why Is It Still So Expensive?]]></title>
+        <title type="html"><![CDATA[Why Caviar Is Still So Expensive]]></title>
         <id>https://www.youtube.com/watch?v=5Y_5MozNiZk</id>
         <link href="https://www.youtube.com/watch?v=5Y_5MozNiZk"/>
         <updated>2026-03-12T12:00:00.000Z</updated>
@@ -250,16 +336,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The government shutdown has caused a #TSA shortfall, resulting in long waits at #airport security.]]></title>
-        <id>https://www.youtube.com/shorts/O5pxmhXbGME</id>
-        <link href="https://www.youtube.com/shorts/O5pxmhXbGME"/>
-        <updated>2026-03-09T19:23:30.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Saw | ContraPoints]]></title>
         <id>https://www.youtube.com/watch?v=uiGIbdrQjbI</id>
         <link href="https://www.youtube.com/watch?v=uiGIbdrQjbI"/>
@@ -294,16 +370,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US #AirForce airmen train to #survive at #sea indefinitely. Here's how. #military #USmilitary]]></title>
-        <id>https://www.youtube.com/shorts/c6lryBSrSAQ</id>
-        <link href="https://www.youtube.com/shorts/c6lryBSrSAQ"/>
-        <updated>2026-03-09T14:53:57.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -354,15 +420,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Cocaine To Gold: The Cartels' New Billion-Dollar Trade]]></title>
-        <id>https://www.youtube.com/watch?v=bkTrtv5nVmc</id>
-        <link href="https://www.youtube.com/watch?v=bkTrtv5nVmc"/>
-        <updated>2026-03-07T14:00:00.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -461,25 +518,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PERFECT Threads in 1 Pass 😲]]></title>
-        <id>https://www.youtube.com/shorts/Rk1eNHxavRc</id>
-        <link href="https://www.youtube.com/shorts/Rk1eNHxavRc"/>
-        <updated>2026-03-03T16:00:41.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Eliminated 6 Setups on This Complex Part]]></title>
-        <id>https://www.youtube.com/watch?v=CbipVFQsP3w</id>
-        <link href="https://www.youtube.com/watch?v=CbipVFQsP3w"/>
-        <updated>2026-03-03T15:00:17.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[My first science video in 3 years]]></title>
         <id>https://www.youtube.com/watch?v=B3m3AMRlYfc</id>
         <link href="https://www.youtube.com/watch?v=B3m3AMRlYfc"/>
@@ -489,7 +527,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An alternative view of integration | Differential forms #2]]></title>
+        <title type="html"><![CDATA[Doing integrals by counting | Differential forms #2]]></title>
         <id>https://www.youtube.com/watch?v=j79ihqK0-gE</id>
         <link href="https://www.youtube.com/watch?v=j79ihqK0-gE"/>
         <updated>2026-03-03T03:00:44.000Z</updated>
@@ -1479,16 +1517,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D Printing is a Crime?! WA House Bills 2320 and 2321 may make that a reality]]></title>
-        <id>https://www.youtube.com/shorts/85YozMLilJQ</id>
-        <link href="https://www.youtube.com/shorts/85YozMLilJQ"/>
-        <updated>2026-01-24T07:20:04.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[EMEL Live at Pioneer Works]]></title>
         <id>https://www.youtube.com/watch?v=pmAjXBlWnW0</id>
         <link href="https://www.youtube.com/watch?v=pmAjXBlWnW0"/>
@@ -1880,16 +1908,6 @@
         <id>https://www.youtube.com/shorts/QXcr0qoBXQM</id>
         <link href="https://www.youtube.com/shorts/QXcr0qoBXQM"/>
         <updated>2026-01-03T23:31:35.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is special about string theory? #physics #stringtheory #briangreene #edwardwitten]]></title>
-        <id>https://www.youtube.com/shorts/fgQa5zih5l8</id>
-        <link href="https://www.youtube.com/shorts/fgQa5zih5l8"/>
-        <updated>2026-01-03T23:28:41.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>World Science Festival</name>
