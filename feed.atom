@@ -1,10 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-31T01:15:05.236Z</id>
+    <id>urn:2026-04-01T01:21:47.970Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-31T01:15:05.236Z</updated>
+    <updated>2026-04-01T01:21:47.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Artemis II Pre-launch PARTY!!!]]></title>
+        <id>https://www.youtube.com/watch?v=kflx2ICFHuM</id>
+        <link href="https://www.youtube.com/watch?v=kflx2ICFHuM"/>
+        <updated>2026-03-31T23:35:14.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamic #pricing is rising—with #digital price tags shifting costs for #consumers at #retailers.]]></title>
+        <id>https://www.youtube.com/shorts/GbliZCntNXU</id>
+        <link href="https://www.youtube.com/shorts/GbliZCntNXU"/>
+        <updated>2026-03-31T21:01:07.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Original Biggest Numbers - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=sJqceEImtew</id>
+        <link href="https://www.youtube.com/watch?v=sJqceEImtew"/>
+        <updated>2026-03-31T15:09:29.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Precision Groove Grinding]]></title>
+        <id>https://www.youtube.com/shorts/W1q_qpl9gfU</id>
+        <link href="https://www.youtube.com/shorts/W1q_qpl9gfU"/>
+        <updated>2026-03-31T15:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Catastrophic Tap Failure... Solved.]]></title>
+        <id>https://www.youtube.com/watch?v=jVCoagSeWv0</id>
+        <link href="https://www.youtube.com/watch?v=jVCoagSeWv0"/>
+        <updated>2026-03-31T14:00:45.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[United is rolling out beds in economy #flights #airplanes]]></title>
         <id>https://www.youtube.com/shorts/HF-pV_7XRyE</id>
@@ -143,15 +190,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Artemis II Pre-launch PARTY!!!]]></title>
-        <id>https://www.youtube.com/watch?v=kflx2ICFHuM</id>
-        <link href="https://www.youtube.com/watch?v=kflx2ICFHuM"/>
-        <updated>2026-03-29T01:22:56.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[4K] Watch NASA Send Humans To The Moon LIVE!!! #Artemis2]]></title>
         <id>https://www.youtube.com/watch?v=QOsSRRBMNoc</id>
         <link href="https://www.youtube.com/watch?v=QOsSRRBMNoc"/>
@@ -180,7 +218,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I'm Done Hiding My AI Boyfriend]]></title>
+        <title type="html"><![CDATA[Him: Life With My AI Boyfriend]]></title>
         <id>https://www.youtube.com/watch?v=sKQbArT36AU</id>
         <link href="https://www.youtube.com/watch?v=sKQbArT36AU"/>
         <updated>2026-03-28T13:00:06.000Z</updated>
@@ -370,16 +408,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is how dirty #Colombian #gold becomes untraceable. #Colombia #mine #mining #industry #cartel]]></title>
-        <id>https://www.youtube.com/shorts/ebx7JyeTxYc</id>
-        <link href="https://www.youtube.com/shorts/ebx7JyeTxYc"/>
-        <updated>2026-03-25T19:50:30.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -662,16 +690,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Grinding Custom Carbide Tools]]></title>
-        <id>https://www.youtube.com/shorts/AzXNruo2RAE</id>
-        <link href="https://www.youtube.com/shorts/AzXNruo2RAE"/>
-        <updated>2026-03-19T14:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Onion DNA]]></title>
         <id>https://www.youtube.com/shorts/BA81fFoHVI8</id>
         <link href="https://www.youtube.com/shorts/BA81fFoHVI8"/>
@@ -688,16 +706,6 @@
         <updated>2026-03-18T16:01:49.000Z</updated>
         <author>
             <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Satisfying Swiss Machining 😁]]></title>
-        <id>https://www.youtube.com/shorts/TYq_RBhPNHI</id>
-        <link href="https://www.youtube.com/shorts/TYq_RBhPNHI"/>
-        <updated>2026-03-18T14:00:58.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2223,42 +2231,6 @@
         <updated>2026-01-01T20:20:25.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My robotic club won't let you miss]]></title>
-        <id>https://www.youtube.com/watch?v=JQB8aNKyeao</id>
-        <link href="https://www.youtube.com/watch?v=JQB8aNKyeao"/>
-        <updated>2026-01-01T04:51:16.000Z</updated>
-        <author>
-            <name>Stuff Made Here</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bayesian Maximum Aposteriori Estimation (MAP): Extending Maximum Likelihood Estimation]]></title>
-        <id>https://www.youtube.com/watch?v=xgfexqYxrDU</id>
-        <link href="https://www.youtube.com/watch?v=xgfexqYxrDU"/>
-        <updated>2025-12-31T19:45:02.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Hidden Hope of Dark Souls & Berserk]]></title>
-        <id>https://www.youtube.com/watch?v=mvCTPGaYLSU</id>
-        <link href="https://www.youtube.com/watch?v=mvCTPGaYLSU"/>
-        <updated>2025-12-31T17:15:52.000Z</updated>
-        <author>
-            <name>Internet Pitstop</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taking AI Doom Seriously For 62 Minutes]]></title>
-        <id>https://www.youtube.com/watch?v=Qg5QXY_qZuI</id>
-        <link href="https://www.youtube.com/watch?v=Qg5QXY_qZuI"/>
-        <updated>2025-12-31T16:03:16.000Z</updated>
-        <author>
-            <name>Primer</name>
         </author>
     </entry>
 </feed>
