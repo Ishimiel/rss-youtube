@@ -1,189 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-20T01:24:05.914Z</id>
+    <id>urn:2026-04-21T01:21:05.046Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-20T01:24:05.914Z</updated>
+    <updated>2026-04-21T01:21:05.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[EGG DICE]]></title>
-        <id>https://www.youtube.com/shorts/pd3r93I5DNw</id>
-        <link href="https://www.youtube.com/shorts/pd3r93I5DNw"/>
-        <updated>2026-04-17T17:55:59.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <title type="html"><![CDATA[Mathematician Attempts Art - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=UfP83M07s24</id>
+        <link href="https://www.youtube.com/watch?v=UfP83M07s24"/>
+        <updated>2026-04-14T14:27:17.000Z</updated>
         <author>
-            <name>Vsauce</name>
+            <name>Numberphile</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re-Moving! (ElectroVLOG-009)]]></title>
-        <id>https://www.youtube.com/watch?v=CwKt65WEdOA</id>
-        <link href="https://www.youtube.com/watch?v=CwKt65WEdOA"/>
-        <updated>2026-04-16T15:01:27.000Z</updated>
+        <title type="html"><![CDATA[Awkward Primes - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=VFoIPlUalRY</id>
+        <link href="https://www.youtube.com/watch?v=VFoIPlUalRY"/>
+        <updated>2026-04-07T13:47:26.000Z</updated>
         <author>
-            <name>ElectroBOOM</name>
+            <name>Numberphile</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Being Poor Is Expensive]]></title>
-        <id>https://www.youtube.com/shorts/VYhUa3WC4nU</id>
-        <link href="https://www.youtube.com/shorts/VYhUa3WC4nU"/>
-        <updated>2026-04-16T14:00:55.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <title type="html"><![CDATA[The Original Biggest Numbers - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=sJqceEImtew</id>
+        <link href="https://www.youtube.com/watch?v=sJqceEImtew"/>
+        <updated>2026-03-31T15:09:29.000Z</updated>
         <author>
-            <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Screw the Rules, I Have Every 3D Filament!]]></title>
-        <id>https://www.youtube.com/watch?v=i10rxmsKHts</id>
-        <link href="https://www.youtube.com/watch?v=i10rxmsKHts"/>
-        <updated>2026-04-16T02:42:24.000Z</updated>
-        <author>
-            <name>Zack Freedman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robot golf vs holes that keep getting harder]]></title>
-        <id>https://www.youtube.com/watch?v=2OfjZ3ORJfc</id>
-        <link href="https://www.youtube.com/watch?v=2OfjZ3ORJfc"/>
-        <updated>2026-04-15T20:01:57.000Z</updated>
-        <author>
-            <name>Stuff Made Here</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Problem with Newcomb's Paradox]]></title>
-        <id>https://www.youtube.com/watch?v=8wDha-G35KA</id>
-        <link href="https://www.youtube.com/watch?v=8wDha-G35KA"/>
-        <updated>2026-04-15T17:59:07.000Z</updated>
-        <author>
-            <name>minutephysics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Caffeine Works]]></title>
-        <id>https://www.youtube.com/shorts/lRvN5SJR2LQ</id>
-        <link href="https://www.youtube.com/shorts/lRvN5SJR2LQ"/>
-        <updated>2026-04-13T14:01:13.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the farthest on earth you can get from ANYTHING]]></title>
-        <id>https://www.youtube.com/shorts/qKMVnR4U33U</id>
-        <link href="https://www.youtube.com/shorts/qKMVnR4U33U"/>
-        <updated>2026-04-11T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>minutephysics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Everyone Sees... But I Don't (The Johari Window) - Smarter Every Day 314]]></title>
-        <id>https://www.youtube.com/watch?v=WtQ64nSbdY4</id>
-        <link href="https://www.youtube.com/watch?v=WtQ64nSbdY4"/>
-        <updated>2026-04-11T14:16:34.000Z</updated>
-        <author>
-            <name>SmarterEveryDay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The World’s Deadliest Diseases]]></title>
-        <id>https://www.youtube.com/shorts/onFj_RD75nA</id>
-        <link href="https://www.youtube.com/shorts/onFj_RD75nA"/>
-        <updated>2026-04-09T14:01:19.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Components Giving Birth?! (LATITY-018)]]></title>
-        <id>https://www.youtube.com/watch?v=EBgxa8OzjB8</id>
-        <link href="https://www.youtube.com/watch?v=EBgxa8OzjB8"/>
-        <updated>2026-04-03T16:28:20.000Z</updated>
-        <author>
-            <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How American Tanks are being Destroyed in Ukraine]]></title>
-        <id>https://www.youtube.com/shorts/NujewcM8Ebw</id>
-        <link href="https://www.youtube.com/shorts/NujewcM8Ebw"/>
-        <updated>2026-03-30T20:18:16.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Most Insane Megaproject You Never Heard About]]></title>
-        <id>https://www.youtube.com/watch?v=h3DCdWyb0cc</id>
-        <link href="https://www.youtube.com/watch?v=h3DCdWyb0cc"/>
-        <updated>2026-03-30T14:00:12.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tank Engines are Weird]]></title>
-        <id>https://www.youtube.com/shorts/leRkyaveMLE</id>
-        <link href="https://www.youtube.com/shorts/leRkyaveMLE"/>
-        <updated>2026-03-29T18:55:52.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spaceships Powered by Nukes]]></title>
-        <id>https://www.youtube.com/shorts/MX_r0KsMpho</id>
-        <link href="https://www.youtube.com/shorts/MX_r0KsMpho"/>
-        <updated>2026-03-23T15:00:38.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Schrödinger’s Cat (from the cat's perspective)]]></title>
-        <id>https://www.youtube.com/shorts/i45dfK7wYvA</id>
-        <link href="https://www.youtube.com/shorts/i45dfK7wYvA"/>
-        <updated>2026-03-21T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>minutephysics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How NASA Discovered a Military Base under Greenland]]></title>
-        <id>https://www.youtube.com/watch?v=wKP6tYA6ds4</id>
-        <link href="https://www.youtube.com/watch?v=wKP6tYA6ds4"/>
-        <updated>2026-03-21T15:01:37.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Many People Lived Before History?]]></title>
-        <id>https://www.youtube.com/shorts/vPwGmFUAr88</id>
-        <link href="https://www.youtube.com/shorts/vPwGmFUAr88"/>
-        <updated>2026-03-20T19:38:05.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DON'T Screw into MY FLOOR!]]></title>
-        <id>https://www.youtube.com/watch?v=F-CFdCp0xaw</id>
-        <link href="https://www.youtube.com/watch?v=F-CFdCp0xaw"/>
-        <updated>2026-03-20T16:04:08.000Z</updated>
-        <author>
-            <name>ElectroBOOM</name>
+            <name>Numberphile</name>
         </author>
     </entry>
     <entry>
@@ -197,185 +43,39 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Queen Ant Clones Another Species]]></title>
-        <id>https://www.youtube.com/shorts/NXhKuMQRAZ4</id>
-        <link href="https://www.youtube.com/shorts/NXhKuMQRAZ4"/>
-        <updated>2026-03-16T15:00:43.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <title type="html"><![CDATA[The Weather Equation - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=YmZiq00CO60</id>
+        <link href="https://www.youtube.com/watch?v=YmZiq00CO60"/>
+        <updated>2026-03-18T16:01:49.000Z</updated>
         <author>
-            <name>Kurzgesagt – In a Nutshell</name>
+            <name>Numberphile</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When You Sleep In Socks And Imagine An Icositetrachoron]]></title>
-        <id>https://www.youtube.com/shorts/hqSL5V9yXBM</id>
-        <link href="https://www.youtube.com/shorts/hqSL5V9yXBM"/>
-        <updated>2026-03-15T21:16:32.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <title type="html"><![CDATA[Calculating Pi with Skittles (and census data!?) - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=7O6ej9OSW2w</id>
+        <link href="https://www.youtube.com/watch?v=7O6ej9OSW2w"/>
+        <updated>2026-03-14T15:14:00.000Z</updated>
         <author>
-            <name>Vsauce</name>
+            <name>Numberphile</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Found A Wild Ambigram!]]></title>
-        <id>https://www.youtube.com/shorts/-UgtKlbzers</id>
-        <link href="https://www.youtube.com/shorts/-UgtKlbzers"/>
-        <updated>2026-03-13T22:59:19.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <title type="html"><![CDATA[Feeling Grumpy about Pi Day - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=TLV6e41-uxc</id>
+        <link href="https://www.youtube.com/watch?v=TLV6e41-uxc"/>
+        <updated>2026-03-14T03:14:00.000Z</updated>
         <author>
-            <name>Vsauce</name>
+            <name>Numberphile</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Do *you* understand ISO?]]></title>
-        <id>https://www.youtube.com/watch?v=ZWSvHBG7X0w</id>
-        <link href="https://www.youtube.com/watch?v=ZWSvHBG7X0w"/>
-        <updated>2026-03-11T19:03:33.000Z</updated>
+        <title type="html"><![CDATA[Monte Carlo Sampling and Bootstrapping in Bayesian Inference]]></title>
+        <id>https://www.youtube.com/watch?v=f1Vcc-bPfnU</id>
+        <link href="https://www.youtube.com/watch?v=f1Vcc-bPfnU"/>
+        <updated>2026-02-23T15:01:07.000Z</updated>
         <author>
-            <name>minutephysics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Is the Scariest Place in The Universe]]></title>
-        <id>https://www.youtube.com/watch?v=yDAAlojz8NU</id>
-        <link href="https://www.youtube.com/watch?v=yDAAlojz8NU"/>
-        <updated>2026-03-10T15:00:01.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You can copy and print perfect spare parts! (Legally) (Probably)]]></title>
-        <id>https://www.youtube.com/watch?v=OcMvTfUfNXo</id>
-        <link href="https://www.youtube.com/watch?v=OcMvTfUfNXo"/>
-        <updated>2026-03-10T13:00:47.000Z</updated>
-        <author>
-            <name>Zack Freedman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Illusion You Can Hug]]></title>
-        <id>https://www.youtube.com/shorts/_Nr4mvdkEVw</id>
-        <link href="https://www.youtube.com/shorts/_Nr4mvdkEVw"/>
-        <updated>2026-03-09T23:03:52.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saw | ContraPoints]]></title>
-        <id>https://www.youtube.com/watch?v=uiGIbdrQjbI</id>
-        <link href="https://www.youtube.com/watch?v=uiGIbdrQjbI"/>
-        <updated>2026-03-09T18:33:26.000Z</updated>
-        <author>
-            <name>ContraPoints</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why This Doesn’t Keep You Safe]]></title>
-        <id>https://www.youtube.com/watch?v=TUno2IT-KZY</id>
-        <link href="https://www.youtube.com/watch?v=TUno2IT-KZY"/>
-        <updated>2026-03-09T16:00:45.000Z</updated>
-        <author>
-            <name>The Engineering Mindset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Injection That Stops HIV]]></title>
-        <id>https://www.youtube.com/shorts/iZ9ImJQy9V4</id>
-        <link href="https://www.youtube.com/shorts/iZ9ImJQy9V4"/>
-        <updated>2026-03-09T15:01:12.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let’s Tie All Planets Together]]></title>
-        <id>https://www.youtube.com/shorts/5Xd38M9zTjM</id>
-        <link href="https://www.youtube.com/shorts/5Xd38M9zTjM"/>
-        <updated>2026-03-07T15:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything About Disc Golf Aerodynamics - Smarter Every Day 313]]></title>
-        <id>https://www.youtube.com/watch?v=-0JKHuzJ67A</id>
-        <link href="https://www.youtube.com/watch?v=-0JKHuzJ67A"/>
-        <updated>2026-03-06T20:30:16.000Z</updated>
-        <author>
-            <name>SmarterEveryDay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who Owns Your Drinking Water?]]></title>
-        <id>https://www.youtube.com/shorts/YHlqwkdVda8</id>
-        <link href="https://www.youtube.com/shorts/YHlqwkdVda8"/>
-        <updated>2026-03-05T15:01:05.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Change the Outlet #electrical #diy #funny]]></title>
-        <id>https://www.youtube.com/shorts/lt07jcPvG2Y</id>
-        <link href="https://www.youtube.com/shorts/lt07jcPvG2Y"/>
-        <updated>2026-03-02T16:03:22.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When 2 + 2 = 3.999999999…]]></title>
-        <id>https://www.youtube.com/shorts/0fV8kYoGDNM</id>
-        <link href="https://www.youtube.com/shorts/0fV8kYoGDNM"/>
-        <updated>2026-02-28T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>minutephysics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Science Mutilation by History Channel]]></title>
-        <id>https://www.youtube.com/watch?v=dy0WZVpyiTM</id>
-        <link href="https://www.youtube.com/watch?v=dy0WZVpyiTM"/>
-        <updated>2026-02-27T17:01:23.000Z</updated>
-        <author>
-            <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Parasite Won’t Die]]></title>
-        <id>https://www.youtube.com/shorts/MP4RUzRnobg</id>
-        <link href="https://www.youtube.com/shorts/MP4RUzRnobg"/>
-        <updated>2026-02-26T15:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why America’s Tank Failed in Ukraine]]></title>
-        <id>https://www.youtube.com/watch?v=n7Q1vubN4w8</id>
-        <link href="https://www.youtube.com/watch?v=n7Q1vubN4w8"/>
-        <updated>2026-02-21T16:01:08.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breaking the speed of light from your backyard]]></title>
-        <id>https://www.youtube.com/shorts/qqWZg4sZNjk</id>
-        <link href="https://www.youtube.com/shorts/qqWZg4sZNjk"/>
-        <updated>2026-02-20T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>minutephysics</name>
+            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
@@ -389,139 +89,102 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Does Cocaine Feel So Good?]]></title>
-        <id>https://www.youtube.com/shorts/KTu2V65Iiho</id>
-        <link href="https://www.youtube.com/shorts/KTu2V65Iiho"/>
-        <updated>2026-02-19T15:00:37.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <title type="html"><![CDATA[Density Estimation with Gaussian Mixture Models (GMM) and Empirical Priors]]></title>
+        <id>https://www.youtube.com/watch?v=a1pvm1QGXYg</id>
+        <link href="https://www.youtube.com/watch?v=a1pvm1QGXYg"/>
+        <updated>2026-02-19T15:00:01.000Z</updated>
         <author>
-            <name>Kurzgesagt – In a Nutshell</name>
+            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Is Polio Back?]]></title>
-        <id>https://www.youtube.com/shorts/qPSxUkssPmc</id>
-        <link href="https://www.youtube.com/shorts/qPSxUkssPmc"/>
-        <updated>2026-02-16T15:02:57.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <title type="html"><![CDATA[3867632931 × 10^10001 +1 - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=6cw9QJw6J60</id>
+        <link href="https://www.youtube.com/watch?v=6cw9QJw6J60"/>
+        <updated>2026-02-16T17:40:54.000Z</updated>
         <author>
-            <name>Kurzgesagt – In a Nutshell</name>
+            <name>Numberphile</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Worm with 4 Nobel Prizes]]></title>
-        <id>https://www.youtube.com/shorts/5EPPBDdhe6o</id>
-        <link href="https://www.youtube.com/shorts/5EPPBDdhe6o"/>
-        <updated>2026-02-14T15:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <title type="html"><![CDATA[Conjugate Priors Example: Normal Distribution and the Exponential Family of Distributions]]></title>
+        <id>https://www.youtube.com/watch?v=q8ypTSQotXQ</id>
+        <link href="https://www.youtube.com/watch?v=q8ypTSQotXQ"/>
+        <updated>2026-02-16T15:01:32.000Z</updated>
         <author>
-            <name>Kurzgesagt – In a Nutshell</name>
+            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is Quantum Mechanics Stopping Aliens From Contacting Us?]]></title>
-        <id>https://www.youtube.com/watch?v=lZGyjR6Y9vw</id>
-        <link href="https://www.youtube.com/watch?v=lZGyjR6Y9vw"/>
-        <updated>2026-02-11T21:50:45.000Z</updated>
+        <title type="html"><![CDATA[Bayesian Updates and Conjugate Priors]]></title>
+        <id>https://www.youtube.com/watch?v=GqSX-8AQL90</id>
+        <link href="https://www.youtube.com/watch?v=GqSX-8AQL90"/>
+        <updated>2026-02-12T15:00:26.000Z</updated>
         <author>
-            <name>minutephysics</name>
+            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Virus We Almost Beat]]></title>
-        <id>https://www.youtube.com/shorts/dwZgy7SNMRc</id>
-        <link href="https://www.youtube.com/shorts/dwZgy7SNMRc"/>
-        <updated>2026-02-11T15:01:13.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <title type="html"><![CDATA[Bayesian Inference: Overview]]></title>
+        <id>https://www.youtube.com/watch?v=XCEpIBqKogo</id>
+        <link href="https://www.youtube.com/watch?v=XCEpIBqKogo"/>
+        <updated>2026-02-09T15:00:55.000Z</updated>
         <author>
-            <name>Kurzgesagt – In a Nutshell</name>
+            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Not a rainbow!]]></title>
-        <id>https://www.youtube.com/shorts/-kwF6M4juiU</id>
-        <link href="https://www.youtube.com/shorts/-kwF6M4juiU"/>
-        <updated>2026-02-04T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <title type="html"><![CDATA[The 15-Game - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=UafhPUOCM1E</id>
+        <link href="https://www.youtube.com/watch?v=UafhPUOCM1E"/>
+        <updated>2026-02-07T15:29:41.000Z</updated>
         <author>
-            <name>minutephysics</name>
+            <name>Numberphile</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The ISS would be uninhabitable without this]]></title>
-        <id>https://www.youtube.com/shorts/ZJuI5fImD3U</id>
-        <link href="https://www.youtube.com/shorts/ZJuI5fImD3U"/>
-        <updated>2026-02-03T17:51:33.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <title type="html"><![CDATA[Tools of the Trade (for infinite sums) - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=sgMqrT8ilyU</id>
+        <link href="https://www.youtube.com/watch?v=sgMqrT8ilyU"/>
+        <updated>2026-02-03T15:46:04.000Z</updated>
         <author>
-            <name>Real Engineering</name>
+            <name>Numberphile</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dude where’s my space station?]]></title>
-        <id>https://www.youtube.com/shorts/dIWKhUnqa5s</id>
-        <link href="https://www.youtube.com/shorts/dIWKhUnqa5s"/>
-        <updated>2026-01-31T22:32:53.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <title type="html"><![CDATA[Properties of Chi-Squared and Student's t Distributions]]></title>
+        <id>https://www.youtube.com/watch?v=so04ygeccwk</id>
+        <link href="https://www.youtube.com/watch?v=so04ygeccwk"/>
+        <updated>2026-01-25T15:01:25.000Z</updated>
         <author>
-            <name>Real Engineering</name>
+            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Cursed-est Server]]></title>
-        <id>https://www.youtube.com/watch?v=n4wDmjEn8Vo</id>
-        <link href="https://www.youtube.com/watch?v=n4wDmjEn8Vo"/>
-        <updated>2026-01-30T14:32:33.000Z</updated>
+        <title type="html"><![CDATA[Hypothesis Testing Revisited: Normal, t, and Chi-Squared Distribution Tests]]></title>
+        <id>https://www.youtube.com/watch?v=u793OrRvZBk</id>
+        <link href="https://www.youtube.com/watch?v=u793OrRvZBk"/>
+        <updated>2026-01-23T15:01:49.000Z</updated>
         <author>
-            <name>Zack Freedman</name>
+            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Weird Orbit of the ISS]]></title>
-        <id>https://www.youtube.com/shorts/gEYRIpIfnQc</id>
-        <link href="https://www.youtube.com/shorts/gEYRIpIfnQc"/>
-        <updated>2026-01-29T18:16:40.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <title type="html"><![CDATA[A Fake Fields Medal - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=JWtD0O-zSWY</id>
+        <link href="https://www.youtube.com/watch?v=JWtD0O-zSWY"/>
+        <updated>2026-01-21T17:13:34.000Z</updated>
         <author>
-            <name>Real Engineering</name>
+            <name>Numberphile</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Colombia Electrocutes Burglars]]></title>
-        <id>https://www.youtube.com/watch?v=vY0-eZ-GGEg</id>
-        <link href="https://www.youtube.com/watch?v=vY0-eZ-GGEg"/>
-        <updated>2026-01-29T16:00:01.000Z</updated>
+        <title type="html"><![CDATA[Student's t-distribution in Statistics]]></title>
+        <id>https://www.youtube.com/watch?v=kQoPUR0hQNo</id>
+        <link href="https://www.youtube.com/watch?v=kQoPUR0hQNo"/>
+        <updated>2026-01-21T15:01:31.000Z</updated>
         <author>
-            <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Most Dangerous Space Walk]]></title>
-        <id>https://www.youtube.com/shorts/7i5aK7NCp-U</id>
-        <link href="https://www.youtube.com/shorts/7i5aK7NCp-U"/>
-        <updated>2026-01-28T19:26:49.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s the source of gravity? (a common physics misconception)]]></title>
-        <id>https://www.youtube.com/shorts/YaGEjPdJycA</id>
-        <link href="https://www.youtube.com/shorts/YaGEjPdJycA"/>
-        <updated>2026-01-28T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>minutephysics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The REAL Reason Asteroids Aren't Planets]]></title>
-        <id>https://www.youtube.com/watch?v=kzfXBenNxeA</id>
-        <link href="https://www.youtube.com/watch?v=kzfXBenNxeA"/>
-        <updated>2026-01-22T18:16:55.000Z</updated>
-        <author>
-            <name>minutephysics</name>
+            <name>Steve Brunton</name>
         </author>
     </entry>
 </feed>
