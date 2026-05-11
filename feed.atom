@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-10T01:48:46.278Z</id>
+    <id>urn:2026-05-11T01:56:15.142Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-10T01:48:46.278Z</updated>
+    <updated>2026-05-11T01:56:15.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building Out PREMIUM Swiss Tooling]]></title>
+        <id>https://www.youtube.com/shorts/FWbEHE1lnXg</id>
+        <link href="https://www.youtube.com/shorts/FWbEHE1lnXg"/>
+        <updated>2026-05-10T14:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Surprising Genius of Sewing Machines]]></title>
+        <id>https://www.youtube.com/shorts/7F4pY8Td9QQ</id>
+        <link href="https://www.youtube.com/shorts/7F4pY8Td9QQ"/>
+        <updated>2026-05-10T13:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Proper Vise Install 🤌]]></title>
         <id>https://www.youtube.com/shorts/gCo1QbY27H8</id>
@@ -16,7 +36,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How 8 Million Bars Of Olive Oil Soap Are Handmade At This Factory In Turkey]]></title>
+        <title type="html"><![CDATA[How Olive Oil Soap Is Still Made By Hand In Turkey]]></title>
         <id>https://www.youtube.com/watch?v=BT7KJp_YNq0</id>
         <link href="https://www.youtube.com/watch?v=BT7KJp_YNq0"/>
         <updated>2026-05-09T13:00:35.000Z</updated>
@@ -35,7 +55,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why self-healing concrete could revolutionise construction]]></title>
+        <title type="html"><![CDATA[This self healing material could cut carbon emissions by 60%]]></title>
         <id>https://www.youtube.com/watch?v=AVloM6CjbZg</id>
         <link href="https://www.youtube.com/watch?v=AVloM6CjbZg"/>
         <updated>2026-05-09T08:00:10.000Z</updated>
@@ -650,16 +670,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ultimate Tool Grinding Setup 😲]]></title>
-        <id>https://www.youtube.com/shorts/jpXxxlcvmNA</id>
-        <link href="https://www.youtube.com/shorts/jpXxxlcvmNA"/>
-        <updated>2026-04-28T15:01:23.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1980,16 +1990,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You Can't Feel Wet]]></title>
-        <id>https://www.youtube.com/shorts/DJ_5_JS9_Rs</id>
-        <link href="https://www.youtube.com/shorts/DJ_5_JS9_Rs"/>
-        <updated>2026-03-02T02:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[These biological computers actually use neurons]]></title>
         <id>https://www.youtube.com/watch?v=5Sd3JlLJn9Q</id>
         <link href="https://www.youtube.com/watch?v=5Sd3JlLJn9Q"/>
@@ -2287,25 +2287,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rockets are just guns, recoil is essentially how they work in the vacuum of space #rocketscience]]></title>
-        <id>https://www.youtube.com/shorts/Lfcex12SyGY</id>
-        <link href="https://www.youtube.com/shorts/Lfcex12SyGY"/>
-        <updated>2026-02-09T21:25:38.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bayesian Inference: Overview]]></title>
-        <id>https://www.youtube.com/watch?v=XCEpIBqKogo</id>
-        <link href="https://www.youtube.com/watch?v=XCEpIBqKogo"/>
-        <updated>2026-02-09T15:00:55.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
 </feed>
