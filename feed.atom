@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-24T02:01:25.280Z</id>
+    <id>urn:2026-05-25T02:08:57.389Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-24T02:01:25.280Z</updated>
+    <updated>2026-05-25T02:08:57.389Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[This Tool is INDESTRUCTIBLE 🤯]]></title>
+        <id>https://www.youtube.com/shorts/CxY0Stk3oBE</id>
+        <link href="https://www.youtube.com/shorts/CxY0Stk3oBE"/>
+        <updated>2026-05-24T14:00:37.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Maine's Blueberry Farmers Are Losing Millions]]></title>
+        <id>https://www.youtube.com/watch?v=w8GIaxQ54mk</id>
+        <link href="https://www.youtube.com/watch?v=w8GIaxQ54mk"/>
+        <updated>2026-05-24T13:00:28.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to fix your sauce                      #garlic #sauce e]]></title>
         <id>https://www.youtube.com/shorts/pdU9UG_mgFQ</id>
@@ -382,16 +401,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ex-OpenAI #researcher warns against the risks of #superintelligence. #AI #FutureTech]]></title>
-        <id>https://www.youtube.com/shorts/72c_czW-ISM</id>
-        <link href="https://www.youtube.com/shorts/72c_czW-ISM"/>
-        <updated>2026-05-18T18:59:32.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Are we overestimating how close AI is to replacing human workers? #worldsciencefestival]]></title>
         <id>https://www.youtube.com/shorts/1zDlWzjFpi8</id>
         <link href="https://www.youtube.com/shorts/1zDlWzjFpi8"/>
@@ -634,16 +643,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Real Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIG CNC Machines in Taiwan]]></title>
-        <id>https://www.youtube.com/shorts/_46gfquff4s</id>
-        <link href="https://www.youtube.com/shorts/_46gfquff4s"/>
-        <updated>2026-05-13T14:00:59.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1089,7 +1088,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This symbol denotes both derivative and boundary: why?]]></title>
+        <title type="html"><![CDATA[This symbol denotes both derivative and boundary: why? | Differential forms #3]]></title>
         <id>https://www.youtube.com/watch?v=6B9eWS1GCR0</id>
         <link href="https://www.youtube.com/watch?v=6B9eWS1GCR0"/>
         <updated>2026-04-28T14:00:20.000Z</updated>
@@ -2285,24 +2284,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Silksong at 150% game speed (challenge run)]]></title>
-        <id>https://www.youtube.com/watch?v=iHmsi4qXG0I</id>
-        <link href="https://www.youtube.com/watch?v=iHmsi4qXG0I"/>
-        <updated>2026-02-24T04:54:33.000Z</updated>
-        <author>
-            <name>Freya Holmér</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monte Carlo Sampling and Bootstrapping in Bayesian Inference]]></title>
-        <id>https://www.youtube.com/watch?v=f1Vcc-bPfnU</id>
-        <link href="https://www.youtube.com/watch?v=f1Vcc-bPfnU"/>
-        <updated>2026-02-23T15:01:07.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
 </feed>
