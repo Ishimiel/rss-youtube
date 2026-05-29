@@ -1,6 +1,18 @@
 {
   "sources": [
     {
+      "title": "Primer",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKzJFdi57J53Vr_BkTfN3uQ",
+      "siteUrl": "https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ",
+      "articles": []
+    },
+    {
+      "title": "Reducible",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK8XIGR5kRidIw2fWqwyHRA",
+      "siteUrl": "https://www.youtube.com/channel/UCK8XIGR5kRidIw2fWqwyHRA",
+      "articles": []
+    },
+    {
       "title": "3Blue1Brown",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw",
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
@@ -11,7 +23,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ZHXt0-_gSj4",
           "publishedOn": "2026-05-21T21:49:47.000Z",
-          "wordCount": 2073,
+          "wordCount": 2060,
           "title": "Tie random ends: How many loops?",
           "imageUrl": null
         },
@@ -21,7 +33,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/QLu_ZsRc_G0",
           "publishedOn": "2026-04-16T16:08:21.000Z",
-          "wordCount": 2082,
+          "wordCount": 2165,
           "title": "Covering 10 points, a surprisingly tricky puzzle.",
           "imageUrl": null
         },
@@ -31,7 +43,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Y7ImxZ_YhJk",
           "publishedOn": "2026-03-27T20:56:02.000Z",
-          "wordCount": 2060,
+          "wordCount": 2126,
           "title": "Escher's most mind-bending piece",
           "imageUrl": null
         },
@@ -41,7 +53,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/4h5BEALuh44",
           "publishedOn": "2026-03-25T20:59:04.000Z",
-          "wordCount": 2116,
+          "wordCount": 2224,
           "title": "The subset sum puzzle",
           "imageUrl": null
         },
@@ -61,18 +73,35 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Qoes9bTJtn0",
           "publishedOn": "2026-03-21T11:42:53.000Z",
-          "wordCount": 2069,
+          "wordCount": 2113,
           "title": "Bacteria Grid Puzzle Solution",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Mathemaniac",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrlZs71h3mTR45FgQNINfrg",
+      "siteUrl": "https://www.youtube.com/channel/UCrlZs71h3mTR45FgQNINfrg",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=6B9eWS1GCR0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6B9eWS1GCR0",
+          "publishedOn": "2026-04-28T14:00:20.000Z",
+          "wordCount": null,
+          "title": "This symbol denotes both derivative and boundary: why? | Differential forms #3",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=fsLh-NYhOoU",
+          "id": "https://www.youtube.com/watch?v=j79ihqK0-gE",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=fsLh-NYhOoU",
-          "publishedOn": "2026-02-27T15:14:23.000Z",
+          "link": "https://www.youtube.com/watch?v=j79ihqK0-gE",
+          "publishedOn": "2026-03-03T03:00:44.000Z",
           "wordCount": null,
-          "title": "The most beautiful formula not enough people understand",
+          "title": "Alternative view of integration | Differential forms #2",
           "imageUrl": null
         }
       ]
@@ -108,7 +137,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/DfB2qYJqAkA",
           "publishedOn": "2026-05-18T14:00:30.000Z",
-          "wordCount": 2159,
+          "wordCount": 2241,
           "title": "Where Did the Antimatter Go?",
           "imageUrl": null
         },
@@ -118,7 +147,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/6Dj5ufzrZ78",
           "publishedOn": "2026-05-14T14:00:16.000Z",
-          "wordCount": 2179,
+          "wordCount": 2184,
           "title": "Could Humans Evolve Flight?",
           "imageUrl": null
         },
@@ -128,7 +157,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/dl4Dw-RlPv4",
           "publishedOn": "2026-05-11T14:01:08.000Z",
-          "wordCount": 2200,
+          "wordCount": 2196,
           "title": "Why Malaria is Winning (For Now)",
           "imageUrl": null
         },
@@ -138,7 +167,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/MK36lyttVLU",
           "publishedOn": "2026-05-08T14:00:42.000Z",
-          "wordCount": 2191,
+          "wordCount": 2514,
           "title": "This Parasite Suffocates You",
           "imageUrl": null
         },
@@ -158,7 +187,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/RniYUmKs93U",
           "publishedOn": "2026-04-30T14:00:48.000Z",
-          "wordCount": 2171,
+          "wordCount": 2220,
           "title": "Pigeons Are GPS Drones",
           "imageUrl": null
         },
@@ -168,7 +197,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/z7Qp9Q_Br88",
           "publishedOn": "2026-04-27T14:01:38.000Z",
-          "wordCount": 2291,
+          "wordCount": 2241,
           "title": "Laughing Gas Is Not So Funny",
           "imageUrl": null
         },
@@ -178,7 +207,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/FZbMPtLRr00",
           "publishedOn": "2026-04-23T14:00:23.000Z",
-          "wordCount": 2200,
+          "wordCount": 2157,
           "title": "Fast-Forward Your Life",
           "imageUrl": null
         },
@@ -198,7 +227,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/VYhUa3WC4nU",
           "publishedOn": "2026-04-16T14:00:55.000Z",
-          "wordCount": 2188,
+          "wordCount": 2178,
           "title": "Why Being Poor Is Expensive",
           "imageUrl": null
         },
@@ -208,7 +237,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/lRvN5SJR2LQ",
           "publishedOn": "2026-04-13T14:01:13.000Z",
-          "wordCount": 2171,
+          "wordCount": 2184,
           "title": "How Caffeine Works",
           "imageUrl": null
         },
@@ -218,7 +247,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/onFj_RD75nA",
           "publishedOn": "2026-04-09T14:01:19.000Z",
-          "wordCount": 2210,
+          "wordCount": 2226,
           "title": "The World’s Deadliest Diseases",
           "imageUrl": null
         },
@@ -235,262 +264,653 @@
       ]
     },
     {
-      "title": "World Science Festival",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCShHFwKyhcDo3g7hr4f1R8A",
-      "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/shorts/1zDlWzjFpi8",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/1zDlWzjFpi8",
-          "publishedOn": "2026-05-18T16:00:05.000Z",
-          "wordCount": 2161,
-          "title": "Are we overestimating how close AI is to replacing human workers? #worldsciencefestival",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/bY8RFbMbI4c",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/bY8RFbMbI4c",
-          "publishedOn": "2026-05-17T16:00:50.000Z",
-          "wordCount": 2100,
-          "title": "Gary Marcus explains the “Eliza Effect.\" #worldsciencefestival #briangreene #garymarcus",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/ZRLXOx8RSok",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/ZRLXOx8RSok",
-          "publishedOn": "2026-05-16T16:00:47.000Z",
-          "wordCount": 2149,
-          "title": "Are we confusing better word prediction with actual intelligence?#worldsciencefestival #briangreene",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iFYF_e1GSGI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iFYF_e1GSGI",
-          "publishedOn": "2026-05-15T23:00:07.000Z",
-          "wordCount": null,
-          "title": "The Uncomfortable Truth About AI “Reasoning” | World Science Festival",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/V4AVOU8YyUM",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/V4AVOU8YyUM",
-          "publishedOn": "2026-05-15T16:46:53.000Z",
-          "wordCount": 2125,
-          "title": "If an AI says it’s anxious does that mean it actually feels anxiety? #briangreene #ai #garymarcus",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/N41ALUrCnEQ",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/N41ALUrCnEQ",
-          "publishedOn": "2026-05-13T01:31:30.000Z",
-          "wordCount": 2195,
-          "title": "How do scientists determine what problems to work on? #briangreene #science #research",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/jajWn21VGac",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/jajWn21VGac",
-          "publishedOn": "2026-05-11T15:14:05.000Z",
-          "wordCount": 2173,
-          "title": "Only humans can cry or blush? #briangreene #psychology #stevenpinker",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/2dLLUfflLFs",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/2dLLUfflLFs",
-          "publishedOn": "2026-05-08T21:18:17.000Z",
-          "wordCount": 2119,
-          "title": "Can there be true justice without free will?#briangreene #freewill #justice",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/fnhKC3ckMkk",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/fnhKC3ckMkk",
-          "publishedOn": "2026-05-07T16:26:18.000Z",
-          "wordCount": 2138,
-          "title": "Are near death experiences proof that consciousness is not created within the brain? #consciousness",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/d14VGTao7yQ",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/d14VGTao7yQ",
-          "publishedOn": "2026-05-05T19:00:37.000Z",
-          "wordCount": 2248,
-          "title": "Is the wave function the most insightful way to formulate quantum mechanics?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/O19aEctFB3E",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/O19aEctFB3E",
-          "publishedOn": "2026-05-04T19:00:16.000Z",
-          "wordCount": 2193,
-          "title": "Why did Niels Bohr give up on reality?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Af5LICjFIBc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Af5LICjFIBc",
-          "publishedOn": "2026-05-01T23:00:06.000Z",
-          "wordCount": null,
-          "title": "What Is Quantum Mechanics Really Telling Us? | World Science Festival",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/1MSfZ0cg2KE",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/1MSfZ0cg2KE",
-          "publishedOn": "2026-04-30T19:00:01.000Z",
-          "wordCount": 2115,
-          "title": "If It Can Happen… It WILL Happen (Somewhere)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/YT_Wf0Yqh5U",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/YT_Wf0Yqh5U",
-          "publishedOn": "2026-04-30T03:25:37.000Z",
-          "wordCount": 2106,
-          "title": "Does your inner voice speak in complete sentences? #innervoice #briangreene #stevenpinker",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/zzRNEKuaa2g",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/zzRNEKuaa2g",
-          "publishedOn": "2026-04-28T19:00:52.000Z",
-          "wordCount": 2230,
-          "title": "The odds you exist are basically zero",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Adam Neely",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnkp4xDOwqqJD7sSM3xdUiQ",
-      "siteUrl": "https://www.youtube.com/channel/UCnkp4xDOwqqJD7sSM3xdUiQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/shorts/TigsWuO457E",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/TigsWuO457E",
-          "publishedOn": "2026-03-30T06:09:57.000Z",
-          "wordCount": 2048,
-          "title": "Alfonsina y El Mar solo bass",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Domain of Science",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxqAWLTk1CmBvZFPzeZMd9A",
-      "siteUrl": "https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=TcUByhu5K4I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TcUByhu5K4I",
-          "publishedOn": "2026-04-17T11:01:00.000Z",
-          "wordCount": null,
-          "title": "Will We EVER Complete Physics?",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Martin Donald",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8bYucAICXmYet8pZ5Ja9Dw",
-      "siteUrl": "https://www.youtube.com/channel/UC8bYucAICXmYet8pZ5Ja9Dw",
+      "title": "Nemean",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtJPeNYnAXhB1-_h8xbIX_Q",
+      "siteUrl": "https://www.youtube.com/channel/UCtJPeNYnAXhB1-_h8xbIX_Q",
       "articles": []
     },
     {
-      "title": "SmarterEveryDay",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6107grRI4m0o2-emgoDnAA",
-      "siteUrl": "https://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA",
+      "title": "CNC Kitchen",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiczXOhGpvoQGhOL16EZiTg",
+      "siteUrl": "https://www.youtube.com/channel/UCiczXOhGpvoQGhOL16EZiTg",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=WtQ64nSbdY4",
+          "id": "https://www.youtube.com/shorts/FuIe2_s2bOs",
           "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WtQ64nSbdY4",
-          "publishedOn": "2026-04-11T14:16:34.000Z",
-          "wordCount": null,
-          "title": "What Everyone Sees... But I Don't (The Johari Window) - Smarter Every Day 314",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/FuIe2_s2bOs",
+          "publishedOn": "2026-05-14T09:06:40.000Z",
+          "wordCount": 2429,
+          "title": "Battery Soldering Iron vs. Heat-Set Inserts #fanttik #FanttikT1Max",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=-0JKHuzJ67A",
+          "id": "https://www.youtube.com/watch?v=NTSp5zFRX0I",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=-0JKHuzJ67A",
-          "publishedOn": "2026-03-06T20:30:16.000Z",
+          "link": "https://www.youtube.com/watch?v=NTSp5zFRX0I",
+          "publishedOn": "2026-04-14T14:00:16.000Z",
           "wordCount": null,
-          "title": "Everything About Disc Golf Aerodynamics - Smarter Every Day 313",
+          "title": "Bambu Lab X2D Review: Affordable Dual-Nozzle Printing, with a Catch",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=rTBkjR7JvzI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rTBkjR7JvzI",
+          "publishedOn": "2026-04-04T17:28:18.000Z",
+          "wordCount": null,
+          "title": "Stop Using Fuzzy Skin - I made something better!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=B5g7R53hcH4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=B5g7R53hcH4",
+          "publishedOn": "2026-03-28T16:31:06.000Z",
+          "wordCount": null,
+          "title": "Are Our Heat-Set Insert Datasheets Wrong?",
           "imageUrl": null
         }
       ]
     },
     {
-      "title": "Zack Freedman",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUW49KGPezggFi0PGyDvcvg",
-      "siteUrl": "https://www.youtube.com/channel/UCUW49KGPezggFi0PGyDvcvg",
+      "title": "Freya Holmér",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7M-Wz4zK8oikt6ATcoTwBA",
+      "siteUrl": "https://www.youtube.com/channel/UC7M-Wz4zK8oikt6ATcoTwBA",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=DyM3Dztu3e8",
+          "id": "https://www.youtube.com/watch?v=BwAV0L9wuUQ",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=DyM3Dztu3e8",
-          "publishedOn": "2026-05-25T13:03:48.000Z",
+          "link": "https://www.youtube.com/watch?v=BwAV0L9wuUQ",
+          "publishedOn": "2026-05-26T21:19:46.000Z",
           "wordCount": null,
-          "title": "How One Bad Filament Destroyed My Project (RMRRF 2026)",
+          "title": "Working on Soft Selection & Rendering for Half-Edge (my 3D modeling app)",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=i10rxmsKHts",
+          "id": "https://www.youtube.com/watch?v=nVA0ASqbBhY",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=i10rxmsKHts",
-          "publishedOn": "2026-04-16T02:42:24.000Z",
+          "link": "https://www.youtube.com/watch?v=nVA0ASqbBhY",
+          "publishedOn": "2026-05-22T22:48:34.000Z",
           "wordCount": null,
-          "title": "Screw the Rules, I Have Every 3D Filament!",
+          "title": "Geodesic Soft Selection for my 3D modeling tool",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=OcMvTfUfNXo",
+          "id": "https://www.youtube.com/watch?v=bIEivGo2Ybw",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=OcMvTfUfNXo",
-          "publishedOn": "2026-03-10T13:00:47.000Z",
+          "link": "https://www.youtube.com/watch?v=bIEivGo2Ybw",
+          "publishedOn": "2026-05-20T21:22:32.000Z",
           "wordCount": null,
-          "title": "You can copy and print perfect spare parts! (Legally) (Probably)",
+          "title": "Adding Soft Selection to my 3D modeling tool",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=dORGO8kTc4U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dORGO8kTc4U",
+          "publishedOn": "2026-05-13T22:37:51.000Z",
+          "wordCount": null,
+          "title": "Studying Differential Geometry & The Heat Method (implementation today maybe!)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=4G8Ov9ZN6Rs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4G8Ov9ZN6Rs",
+          "publishedOn": "2026-05-06T02:01:55.000Z",
+          "wordCount": null,
+          "title": "Studying Differential Geometry & The Heat Method",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Y_ZHGak4U-o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Y_ZHGak4U-o",
+          "publishedOn": "2026-03-02T02:37:50.000Z",
+          "wordCount": null,
+          "title": "Unity/C# animation tool dev",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Interesting Engineering",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEuiOszNd6msGgqsD0f9YAQ",
+      "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/KKlF8qhg3-c",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/KKlF8qhg3-c",
+          "publishedOn": "2026-05-28T19:30:39.000Z",
+          "wordCount": 2217,
+          "title": "Did Ferrari just make a bad decision? Luce faces massive backlash!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/boGCHs2qG98",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/boGCHs2qG98",
+          "publishedOn": "2026-05-26T14:00:34.000Z",
+          "wordCount": 2164,
+          "title": "These missiles are customizable. Why?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/8ktNBkiHAqY",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/8ktNBkiHAqY",
+          "publishedOn": "2026-05-23T08:21:56.000Z",
+          "wordCount": 2190,
+          "title": "Can air batteries really work?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=GoiECSXOvQE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GoiECSXOvQE",
+          "publishedOn": "2026-05-23T07:14:19.000Z",
+          "wordCount": null,
+          "title": "Are air batteries a good solution for energy storage?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/jW1xqolHois",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/jW1xqolHois",
+          "publishedOn": "2026-05-19T14:00:29.000Z",
+          "wordCount": 2226,
+          "title": "The Radar That Rewrites Itself",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/zn148HDKcmk",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/zn148HDKcmk",
+          "publishedOn": "2026-05-14T15:30:29.000Z",
+          "wordCount": 2174,
+          "title": "Figure AI's Humanoid Robots Just Worked a Full 8-Hour Shift... All on Their Own",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/gxhhxLikxDo",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/gxhhxLikxDo",
+          "publishedOn": "2026-05-09T08:01:05.000Z",
+          "wordCount": 2114,
+          "title": "Self-healing concrete: safer, longer lasting, and cheaper?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=AVloM6CjbZg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AVloM6CjbZg",
+          "publishedOn": "2026-05-09T08:00:10.000Z",
+          "wordCount": null,
+          "title": "This self healing material could cut carbon emissions by 60%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/IngHbGqMewg",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/IngHbGqMewg",
+          "publishedOn": "2026-05-08T17:30:23.000Z",
+          "wordCount": 2218,
+          "title": "U.S. Government releases UFO footage",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/jJeKSAaXvZc",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/jJeKSAaXvZc",
+          "publishedOn": "2026-05-06T06:46:00.000Z",
+          "wordCount": 2113,
+          "title": "Atlas in Motion",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YsOF-D5Lyvw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YsOF-D5Lyvw",
+          "publishedOn": "2026-04-25T08:00:37.000Z",
+          "wordCount": null,
+          "title": "Fusion reactors now work, but how close are they to rollout?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/5L2CpH5YKEg",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/5L2CpH5YKEg",
+          "publishedOn": "2026-04-23T09:03:09.000Z",
+          "wordCount": 2161,
+          "title": "LEGO Set Flies to The Edge of Space…Breaks a Guinness World Record!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/2wnoIT3omyo",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/2wnoIT3omyo",
+          "publishedOn": "2026-04-14T15:00:10.000Z",
+          "wordCount": 2599,
+          "title": "Why you can't live longer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=q2GGLRXgoe0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=q2GGLRXgoe0",
+          "publishedOn": "2026-04-11T08:00:51.000Z",
+          "wordCount": null,
+          "title": "The problem with trying to cure aging",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/eBRKlnrDo28",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/eBRKlnrDo28",
+          "publishedOn": "2026-03-22T15:01:57.000Z",
+          "wordCount": 2258,
+          "title": "Why the Grand Paris Express is Europes Biggest Infrastructure Project",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "NileRed",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFhXFikryT4aFcLkLw2LBLA",
+      "siteUrl": "https://www.youtube.com/channel/UCFhXFikryT4aFcLkLw2LBLA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/QNPrHtcn6nM",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/QNPrHtcn6nM",
+          "publishedOn": "2026-03-19T18:42:09.000Z",
+          "wordCount": 2164,
+          "title": "These metals melt when pushed together",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Numberphile",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoxcjq-8xIDTYp3uz647V5A",
+      "siteUrl": "https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=v8e-tYey7ts",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=v8e-tYey7ts",
+          "publishedOn": "2026-05-27T14:00:26.000Z",
+          "wordCount": null,
+          "title": "The Unsolved Lollipop Problem - Numberphile",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=UiX4CFIiegM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UiX4CFIiegM",
+          "publishedOn": "2026-05-12T13:05:01.000Z",
+          "wordCount": null,
+          "title": "Red & Black Knights (extraordinary result) - Numberphile",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=SAtFZPtbMpI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SAtFZPtbMpI",
+          "publishedOn": "2026-05-04T13:12:05.000Z",
+          "wordCount": null,
+          "title": "Entirely Ridiculously Big Numbers - Numberphile",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=UfP83M07s24",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UfP83M07s24",
+          "publishedOn": "2026-04-14T14:27:17.000Z",
+          "wordCount": null,
+          "title": "Mathematician Attempts Art - Numberphile",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=VFoIPlUalRY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VFoIPlUalRY",
+          "publishedOn": "2026-04-07T13:47:26.000Z",
+          "wordCount": null,
+          "title": "Awkward Primes - Numberphile",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=sJqceEImtew",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sJqceEImtew",
+          "publishedOn": "2026-03-31T15:09:29.000Z",
+          "wordCount": null,
+          "title": "The Original Biggest Numbers - Numberphile",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YmZiq00CO60",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YmZiq00CO60",
+          "publishedOn": "2026-03-18T16:01:49.000Z",
+          "wordCount": null,
+          "title": "The Weather Equation - Numberphile",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7O6ej9OSW2w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7O6ej9OSW2w",
+          "publishedOn": "2026-03-14T15:14:00.000Z",
+          "wordCount": null,
+          "title": "Calculating Pi with Skittles (and census data!?) - Numberphile",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TLV6e41-uxc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TLV6e41-uxc",
+          "publishedOn": "2026-03-14T03:14:00.000Z",
+          "wordCount": null,
+          "title": "Feeling Grumpy about Pi Day - Numberphile",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Real Engineering",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg",
+      "siteUrl": "https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/9IYRd5TnC5M",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/9IYRd5TnC5M",
+          "publishedOn": "2026-05-13T21:12:35.000Z",
+          "wordCount": 2559,
+          "title": "The V-22’s prototype was even more dangerous",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/jAaw0vn7eLs",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/jAaw0vn7eLs",
+          "publishedOn": "2026-04-29T14:01:48.000Z",
+          "wordCount": 2382,
+          "title": "Why the Nokia 3310 was so Durable",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=FYMdllTCrc0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FYMdllTCrc0",
+          "publishedOn": "2026-04-25T15:00:32.000Z",
+          "wordCount": null,
+          "title": "The Insane Engineering of the V-22 Osprey",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/NujewcM8Ebw",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/NujewcM8Ebw",
+          "publishedOn": "2026-03-30T20:18:16.000Z",
+          "wordCount": 2213,
+          "title": "How American Tanks are being Destroyed in Ukraine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/leRkyaveMLE",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/leRkyaveMLE",
+          "publishedOn": "2026-03-29T18:55:52.000Z",
+          "wordCount": 2120,
+          "title": "Tank Engines are Weird",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wKP6tYA6ds4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wKP6tYA6ds4",
+          "publishedOn": "2026-03-21T15:01:37.000Z",
+          "wordCount": null,
+          "title": "How NASA Discovered a Military Base under Greenland",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "The Engineering Mindset",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCk0fGHsCEzGig-rSzkfCjMw",
+      "siteUrl": "https://www.youtube.com/channel/UCk0fGHsCEzGig-rSzkfCjMw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/2fHSnsMihKM",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/2fHSnsMihKM",
+          "publishedOn": "2026-05-15T14:01:40.000Z",
+          "wordCount": 2105,
+          "title": "Can you answer? #electrical #engineer #electrician",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/MWT3MWjEYL0",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/MWT3MWjEYL0",
+          "publishedOn": "2026-04-24T14:17:45.000Z",
+          "wordCount": 2088,
+          "title": "What two things trip a circuit breaker? (MCB) #electrical #electrician #electricalwork #mcb",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TUno2IT-KZY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TUno2IT-KZY",
+          "publishedOn": "2026-03-09T16:00:45.000Z",
+          "wordCount": null,
+          "title": "Why This Doesn’t Keep You Safe",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Veritasium",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
+      "siteUrl": "https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/OgFf_J1CP0g",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/OgFf_J1CP0g",
+          "publishedOn": "2026-05-28T13:00:55.000Z",
+          "wordCount": 2101,
+          "title": "How An Infinite Hotel Ran Out Of Room",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/fF32B_sOVHA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/fF32B_sOVHA",
+          "publishedOn": "2026-05-23T13:00:28.000Z",
+          "wordCount": 2135,
+          "title": "Can you solve the hat riddle?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/Xr2yp8JA9LU",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/Xr2yp8JA9LU",
+          "publishedOn": "2026-05-20T15:04:02.000Z",
+          "wordCount": 2082,
+          "title": "How many batteries would it take to power a human?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/zXvygWE3Ess",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/zXvygWE3Ess",
+          "publishedOn": "2026-05-15T13:01:53.000Z",
+          "wordCount": 2103,
+          "title": "How Alpha Particles Can Break Computer Chips",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/7F4pY8Td9QQ",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/7F4pY8Td9QQ",
+          "publishedOn": "2026-05-10T13:00:20.000Z",
+          "wordCount": 2057,
+          "title": "The Surprising Genius Of Sewing Machines",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=SVTPv4sI_Jc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SVTPv4sI_Jc",
+          "publishedOn": "2026-05-03T19:26:56.000Z",
+          "wordCount": null,
+          "title": "The CIA's new tech doesn't make sense",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ksn5yrsC3Wg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ksn5yrsC3Wg",
+          "publishedOn": "2026-04-29T20:30:53.000Z",
+          "wordCount": null,
+          "title": "The Crystal That Could Destroy All Medicine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/iRach9lpIlg",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/iRach9lpIlg",
+          "publishedOn": "2026-04-27T13:18:46.000Z",
+          "wordCount": 2041,
+          "title": "Wombats Poop Cubes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/MVFd0qFB9TE",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/MVFd0qFB9TE",
+          "publishedOn": "2026-04-24T13:00:42.000Z",
+          "wordCount": 2113,
+          "title": "Why don't trains make *that* sound anymore?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/h2KFNdLqAiU",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/h2KFNdLqAiU",
+          "publishedOn": "2026-04-19T13:01:12.000Z",
+          "wordCount": 2131,
+          "title": "The Most Radioactive Place On Earth",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=PPJ6NJkmDAo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PPJ6NJkmDAo",
+          "publishedOn": "2026-04-15T16:40:38.000Z",
+          "wordCount": null,
+          "title": "How easy is it to steal $10,000 from a locked phone?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/2GUah9xHVto",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/2GUah9xHVto",
+          "publishedOn": "2026-04-09T11:00:03.000Z",
+          "wordCount": 2090,
+          "title": "Can something go faster than it’s pushed?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jjp3WC8Unj8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jjp3WC8Unj8",
+          "publishedOn": "2026-04-05T20:07:08.000Z",
+          "wordCount": null,
+          "title": "What happens if you drop 0.125 grams of antimatter?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/BU5HwNyE4mk",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/BU5HwNyE4mk",
+          "publishedOn": "2026-04-02T11:59:21.000Z",
+          "wordCount": 2274,
+          "title": "The Bizarre Behaviour Of Rotating Bodies",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YSJY3DvnybE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YSJY3DvnybE",
+          "publishedOn": "2026-03-26T17:47:09.000Z",
+          "wordCount": null,
+          "title": "The Secret Spy Tech Inside Every Credit Card",
           "imageUrl": null
         }
       ]
@@ -501,12 +921,52 @@
       "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/S7WlMDp0Yus",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/S7WlMDp0Yus",
+          "publishedOn": "2026-05-28T20:47:22.000Z",
+          "wordCount": 2260,
+          "title": "Should the #A10Warthog be replaced? #USMilitary #combat #futureofwarfare #AGI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=U0bZ_REOAik",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=U0bZ_REOAik",
+          "publishedOn": "2026-05-28T19:25:36.000Z",
+          "wordCount": null,
+          "title": "How A Special Ops Veteran And His Military Spouse Built A Bakery Rooted In Grit And Giving Back",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/8iPy7KdtIZQ",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/8iPy7KdtIZQ",
+          "publishedOn": "2026-05-28T17:21:25.000Z",
+          "wordCount": 2258,
+          "title": "How 8 million olive oil #soap bars are #handmade in #Turkey",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/2SW0dfh6mWI",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/2SW0dfh6mWI",
+          "publishedOn": "2026-05-28T14:00:12.000Z",
+          "wordCount": 2222,
+          "title": "Why unplugging #AI in the future might prove impossible. #artificialintelligence #AGI #tech",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/GipqfbQib_8",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/GipqfbQib_8",
           "publishedOn": "2026-05-27T18:22:43.000Z",
-          "wordCount": 2245,
+          "wordCount": 2328,
           "title": "What does an #AI arms race look like in the future? #tech #superintelligence",
           "imageUrl": null
         },
@@ -516,7 +976,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/VuMNhGq-m8k",
           "publishedOn": "2026-05-27T15:47:53.000Z",
-          "wordCount": 2210,
+          "wordCount": 2290,
           "title": "#AI could replace millions of #jobs. Experts share 6 ways to stay ahead. #futureofwork",
           "imageUrl": null
         },
@@ -526,7 +986,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/KnKgubfadJ0",
           "publishedOn": "2026-05-27T14:00:10.000Z",
-          "wordCount": 2207,
+          "wordCount": 2253,
           "title": "Here’s how much #organicfarming really costs. #farm #businessowner #agriculture",
           "imageUrl": null
         },
@@ -536,7 +996,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/UT3kJWP_8n4",
           "publishedOn": "2026-05-26T19:00:00.000Z",
-          "wordCount": 2270,
+          "wordCount": 2322,
           "title": "This is the deepest #hole ever drilled in an effort to reach #Earth's mantle.",
           "imageUrl": null
         },
@@ -546,7 +1006,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/_SoOvo3u-nI",
           "publishedOn": "2026-05-26T16:56:20.000Z",
-          "wordCount": 2300,
+          "wordCount": 2619,
           "title": "#AI needs to be disarmed, #PopeLeo warns. #artificialintelligence",
           "imageUrl": null
         },
@@ -576,7 +1036,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/ztgIGTnIpU0",
           "publishedOn": "2026-05-22T20:57:37.000Z",
-          "wordCount": 2248,
+          "wordCount": 2203,
           "title": "US #Marines are deploying #FPV #drones from #helicopters. #military #warfare",
           "imageUrl": null
         },
@@ -596,7 +1056,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/SShkU-d5HrQ",
           "publishedOn": "2026-05-22T19:22:28.000Z",
-          "wordCount": 2333,
+          "wordCount": 2243,
           "title": "Is AI poised to become conscious? A former #OpenAI researcher explains. #AIagents #superintelligence",
           "imageUrl": null
         },
@@ -606,48 +1066,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/0PWM8eACeGI",
           "publishedOn": "2026-05-22T15:46:01.000Z",
-          "wordCount": 2174,
+          "wordCount": 2247,
           "title": "Do renters finally have leverage in 2026? #rentalmarket #renting #apartmentboom",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/UK4fj-elRMM",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/UK4fj-elRMM",
-          "publishedOn": "2026-05-21T21:47:27.000Z",
-          "wordCount": 2238,
-          "title": "Why #SpaceX could soon be worth $2 trillion #ElonMusk #stocks #IPO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/OA_pDNPR6DM",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/OA_pDNPR6DM",
-          "publishedOn": "2026-05-21T17:53:02.000Z",
-          "wordCount": 2242,
-          "title": "A former #OpenAI researcher sounds the alarm on the global race toward #superintelligence. #tech",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/e3DQyUeDEAQ",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/e3DQyUeDEAQ",
-          "publishedOn": "2026-05-21T15:57:41.000Z",
-          "wordCount": 2221,
-          "title": "Some small #farms can't afford to keep their #organic certification. #organicfood #organicfarming",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/O_jY2S3fpcM",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/O_jY2S3fpcM",
-          "publishedOn": "2026-05-20T21:47:57.000Z",
-          "wordCount": 2245,
-          "title": "Here is the #severance package 8,000 laid-off #Meta employees are getting. #layoffs #tech",
           "imageUrl": null
         }
       ]
@@ -715,33 +1135,6 @@
           "publishedOn": "2026-03-13T16:00:41.000Z",
           "wordCount": null,
           "title": "I made Post Apocalyptic Mario and Luigi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ET17j9JqA2c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ET17j9JqA2c",
-          "publishedOn": "2026-02-27T16:00:30.000Z",
-          "wordCount": null,
-          "title": "I made a cat riding a dinosaur - Dungeon Crawler Carl",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Studson Studio",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6u6uY4VbvuNtU0BU7F9olw",
-      "siteUrl": "https://www.youtube.com/channel/UC6u6uY4VbvuNtU0BU7F9olw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=PujBNIfmSP0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PujBNIfmSP0",
-          "publishedOn": "2026-03-19T14:50:26.000Z",
-          "wordCount": null,
-          "title": "I made a Mastodon that morphs into Megazord arms",
           "imageUrl": null
         }
       ]
