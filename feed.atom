@@ -1,10 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-06T01:58:56.681Z</id>
+    <id>urn:2026-06-07T02:15:03.320Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-06T01:58:56.681Z</updated>
+    <updated>2026-06-07T02:15:03.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Dark Side of the World’s Lightest Structural Metal]]></title>
+        <id>https://www.youtube.com/watch?v=ZewlcJsfbn8</id>
+        <link href="https://www.youtube.com/watch?v=ZewlcJsfbn8"/>
+        <updated>2026-06-06T15:00:07.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How much space is there in space?]]></title>
+        <id>https://www.youtube.com/watch?v=msK9_dSTJ2A</id>
+        <link href="https://www.youtube.com/watch?v=msK9_dSTJ2A"/>
+        <updated>2026-06-06T14:00:11.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HAIMER Power Clamp Nano Unboxing]]></title>
+        <id>https://www.youtube.com/shorts/HISvhYhsqDM</id>
+        <link href="https://www.youtube.com/shorts/HISvhYhsqDM"/>
+        <updated>2026-06-06T14:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here's why #FIFA #WorldCup2026 tickets are selling for thousands of dollars.]]></title>
+        <id>https://www.youtube.com/shorts/7FN29gS-LBo</id>
+        <link href="https://www.youtube.com/shorts/7FN29gS-LBo"/>
+        <updated>2026-06-06T13:00:39.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How America Made The World Cup Unaffordable]]></title>
+        <id>https://www.youtube.com/watch?v=dlkgv-rYE4o</id>
+        <link href="https://www.youtube.com/watch?v=dlkgv-rYE4o"/>
+        <updated>2026-06-06T13:00:12.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is this camera "faster than light"?]]></title>
+        <id>https://www.youtube.com/shorts/F4zN9cFEM-Y</id>
+        <link href="https://www.youtube.com/shorts/F4zN9cFEM-Y"/>
+        <updated>2026-06-06T04:22:41.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>AlphaPhoenix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Here's why some companies are choosing #AI spending over employee raises. #Teradata]]></title>
         <id>https://www.youtube.com/shorts/2aDorP1xi1Y</id>
@@ -100,6 +157,16 @@
         <updated>2026-06-05T13:00:38.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AD - How do cities control traffic? We partnered with Anker to find out…]]></title>
+        <id>https://www.youtube.com/shorts/b_SZC8oIsBw</id>
+        <link href="https://www.youtube.com/shorts/b_SZC8oIsBw"/>
+        <updated>2026-06-05T12:36:51.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Veritasium</name>
         </author>
     </entry>
     <entry>
@@ -480,26 +547,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#BlueOrigin rocket explosion causes space #stocks to plunge. #JeffBezos #SpaceX]]></title>
-        <id>https://www.youtube.com/shorts/aaaCdDRP6YM</id>
-        <link href="https://www.youtube.com/shorts/aaaCdDRP6YM"/>
-        <updated>2026-05-29T21:47:42.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How this factory in #Turkey produces 8 tons of handmade #oliveoil #soap daily]]></title>
-        <id>https://www.youtube.com/shorts/Wtp36gCUwVQ</id>
-        <link href="https://www.youtube.com/shorts/Wtp36gCUwVQ"/>
-        <updated>2026-05-29T17:11:52.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CNC Machining Simple Dovetails]]></title>
         <id>https://www.youtube.com/shorts/SgdS5A4KfIY</id>
         <link href="https://www.youtube.com/shorts/SgdS5A4KfIY"/>
@@ -668,16 +715,6 @@
         <updated>2026-05-26T14:00:08.000Z</updated>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INSANE Precision EDM]]></title>
-        <id>https://www.youtube.com/shorts/8kIV2YVjb2Q</id>
-        <link href="https://www.youtube.com/shorts/8kIV2YVjb2Q"/>
-        <updated>2026-05-25T14:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1806,15 +1843,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The problem with trying to cure aging]]></title>
-        <id>https://www.youtube.com/watch?v=q2GGLRXgoe0</id>
-        <link href="https://www.youtube.com/watch?v=q2GGLRXgoe0"/>
-        <updated>2026-04-11T08:00:51.000Z</updated>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Watch the Artemis II crew come home!!! Re-entry and Splashdown! #artemis2]]></title>
         <id>https://www.youtube.com/watch?v=-lSg8J8ZSrs</id>
         <link href="https://www.youtube.com/watch?v=-lSg8J8ZSrs"/>
@@ -1905,15 +1933,6 @@
         <updated>2026-04-07T00:13:15.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What happens if you drop 0.125 grams of antimatter?]]></title>
-        <id>https://www.youtube.com/watch?v=jjp3WC8Unj8</id>
-        <link href="https://www.youtube.com/watch?v=jjp3WC8Unj8"/>
-        <updated>2026-04-05T20:07:08.000Z</updated>
-        <author>
-            <name>Veritasium</name>
         </author>
     </entry>
     <entry>
