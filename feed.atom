@@ -1,10 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-07T02:15:03.320Z</id>
+    <id>urn:2026-06-08T02:31:22.130Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-07T02:15:03.320Z</updated>
+    <updated>2026-06-08T02:31:22.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Machine Shop Safety 101]]></title>
+        <id>https://www.youtube.com/shorts/WYn2T6zCsKs</id>
+        <link href="https://www.youtube.com/shorts/WYn2T6zCsKs"/>
+        <updated>2026-06-07T14:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here's how wild #blueberries are harvested and frozen in #Maine. #bigbusiness]]></title>
+        <id>https://www.youtube.com/shorts/v0JmP5JwCnk</id>
+        <link href="https://www.youtube.com/shorts/v0JmP5JwCnk"/>
+        <updated>2026-06-07T14:00:24.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can America Make The Chip That Rules The World? | Made In America]]></title>
+        <id>https://www.youtube.com/watch?v=IJSbWTpnYSQ</id>
+        <link href="https://www.youtube.com/watch?v=IJSbWTpnYSQ"/>
+        <updated>2026-06-07T13:00:08.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reinventing Entropy | Compression & Intelligence Part 1]]></title>
+        <id>https://www.youtube.com/watch?v=l6DKRf-fAAM</id>
+        <link href="https://www.youtube.com/watch?v=l6DKRf-fAAM"/>
+        <updated>2026-06-07T11:49:51.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robert Macfarlane Speaks Up for Anthropomorphism]]></title>
+        <id>https://www.youtube.com/shorts/0c4WTQ9h78g</id>
+        <link href="https://www.youtube.com/shorts/0c4WTQ9h78g"/>
+        <updated>2026-06-07T04:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Dark Side of the World’s Lightest Structural Metal]]></title>
         <id>https://www.youtube.com/watch?v=ZewlcJsfbn8</id>
@@ -385,16 +433,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why workers stack thousands of #oliveoil #soap bars in towering formations. #Turkey #stillstanding]]></title>
-        <id>https://www.youtube.com/shorts/wg1-OHBrqnQ</id>
-        <link href="https://www.youtube.com/shorts/wg1-OHBrqnQ"/>
-        <updated>2026-06-01T17:07:57.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The 1.25V Trick That Gives You Any Voltage You Want]]></title>
         <id>https://www.youtube.com/watch?v=9pvNuptmzyQ</id>
         <link href="https://www.youtube.com/watch?v=9pvNuptmzyQ"/>
@@ -517,15 +555,6 @@
         <updated>2026-05-30T13:46:57.000Z</updated>
         <author>
             <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Real Reason Beef Prices Are So Expensive]]></title>
-        <id>https://www.youtube.com/watch?v=Aoc-s-_84Ig</id>
-        <link href="https://www.youtube.com/watch?v=Aoc-s-_84Ig"/>
-        <updated>2026-05-30T13:00:17.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -686,16 +715,6 @@
         <summary type="html"><![CDATA[Low voltage is not dangerous, no matter how much current it can potentially deliver if it is shorter, and how much sparks in can create!Also never assume a h...]]></summary>
         <author>
             <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TEARING Through 4140 With The GoMill PRO]]></title>
-        <id>https://www.youtube.com/shorts/Pso2RD74VQE</id>
-        <link href="https://www.youtube.com/shorts/Pso2RD74VQE"/>
-        <updated>2026-05-26T14:15:35.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2331,43 +2350,6 @@
         <updated>2026-03-11T19:03:33.000Z</updated>
         <author>
             <name>minutephysics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You can copy and print perfect spare parts! (Legally) (Probably)]]></title>
-        <id>https://www.youtube.com/watch?v=OcMvTfUfNXo</id>
-        <link href="https://www.youtube.com/watch?v=OcMvTfUfNXo"/>
-        <updated>2026-03-10T13:00:47.000Z</updated>
-        <author>
-            <name>Zack Freedman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Illusion You Can Hug]]></title>
-        <id>https://www.youtube.com/shorts/_Nr4mvdkEVw</id>
-        <link href="https://www.youtube.com/shorts/_Nr4mvdkEVw"/>
-        <updated>2026-03-09T23:03:52.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saw | ContraPoints]]></title>
-        <id>https://www.youtube.com/watch?v=uiGIbdrQjbI</id>
-        <link href="https://www.youtube.com/watch?v=uiGIbdrQjbI"/>
-        <updated>2026-03-09T18:33:26.000Z</updated>
-        <author>
-            <name>ContraPoints</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why This Doesn’t Keep You Safe]]></title>
-        <id>https://www.youtube.com/watch?v=TUno2IT-KZY</id>
-        <link href="https://www.youtube.com/watch?v=TUno2IT-KZY"/>
-        <updated>2026-03-09T16:00:45.000Z</updated>
-        <author>
-            <name>The Engineering Mindset</name>
         </author>
     </entry>
 </feed>
