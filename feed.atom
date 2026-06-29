@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-28T02:11:53.125Z</id>
+    <id>urn:2026-06-29T02:11:31.053Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-28T02:11:53.125Z</updated>
+    <updated>2026-06-29T02:11:31.053Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Are AI outputs better when prompted with a pep talk? #ai #artificialintelligence #chatgpt #claude]]></title>
+        <id>https://www.youtube.com/shorts/n_wnx569SNQ</id>
+        <link href="https://www.youtube.com/shorts/n_wnx569SNQ"/>
+        <updated>2026-06-29T01:29:13.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Major Machinist Problems 😢]]></title>
+        <id>https://www.youtube.com/shorts/XeUv62-V6-k</id>
+        <link href="https://www.youtube.com/shorts/XeUv62-V6-k"/>
+        <updated>2026-06-28T14:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Truth about Space Data Centers]]></title>
         <id>https://www.youtube.com/watch?v=_qpdUNMt2yg</id>
@@ -446,7 +466,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Intelligence May Be Everywhere]]></title>
+        <title type="html"><![CDATA[Intelligence Without Brains: A Radical New Idea]]></title>
         <id>https://www.youtube.com/watch?v=J-HDHwEJ2z8</id>
         <link href="https://www.youtube.com/watch?v=J-HDHwEJ2z8"/>
         <updated>2026-06-20T22:09:48.000Z</updated>
@@ -645,15 +665,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The MOST Challenging Problems in CNC Machining]]></title>
-        <id>https://www.youtube.com/watch?v=KRNMoTi4aD0</id>
-        <link href="https://www.youtube.com/watch?v=KRNMoTi4aD0"/>
-        <updated>2026-06-16T14:00:32.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1161,15 +1172,6 @@
         <updated>2026-05-30T03:05:58.000Z</updated>
         <author>
             <name>Freya Holmér</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Hardest Questions in Physics | World Science Festival]]></title>
-        <id>https://www.youtube.com/watch?v=0Ji1UFPT--M</id>
-        <link href="https://www.youtube.com/watch?v=0Ji1UFPT--M"/>
-        <updated>2026-05-29T23:00:06.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
         </author>
     </entry>
     <entry>
@@ -2351,16 +2353,6 @@
         <updated>2026-03-31T15:09:29.000Z</updated>
         <author>
             <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How American Tanks are being Destroyed in Ukraine]]></title>
-        <id>https://www.youtube.com/shorts/NujewcM8Ebw</id>
-        <link href="https://www.youtube.com/shorts/NujewcM8Ebw"/>
-        <updated>2026-03-30T20:18:16.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Real Engineering</name>
         </author>
     </entry>
 </feed>
