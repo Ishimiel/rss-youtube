@@ -1,10 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-18T01:18:14.244Z</id>
+    <id>urn:2026-07-19T01:24:47.706Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-18T01:18:14.244Z</updated>
+    <updated>2026-07-19T01:24:47.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[I Automated Pressure Advance Using a Bed-Leveling Sensor]]></title>
+        <id>https://www.youtube.com/watch?v=sHLGrTBLxLg</id>
+        <link href="https://www.youtube.com/watch?v=sHLGrTBLxLg"/>
+        <updated>2026-07-18T15:30:21.000Z</updated>
+        <author>
+            <name>CNC Kitchen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Sound Does an End Mill Make?]]></title>
+        <id>https://www.youtube.com/shorts/OEUbQOhmG3Y</id>
+        <link href="https://www.youtube.com/shorts/OEUbQOhmG3Y"/>
+        <updated>2026-07-18T14:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1³+2³+3³+4³+5³+6³+7³+8³+9³+10³+11³+12³+13³+14³+15³+16³+17³+18³+19³+20³+21³+22³+23³+24³+25³+26³+...]]></title>
+        <id>https://www.youtube.com/watch?v=cOTf_YEmSOU</id>
+        <link href="https://www.youtube.com/watch?v=cOTf_YEmSOU"/>
+        <updated>2026-07-18T13:18:40.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Stadiums Can Charge Whatever They Want for Food]]></title>
+        <id>https://www.youtube.com/watch?v=j6G91ryji5s</id>
+        <link href="https://www.youtube.com/watch?v=j6G91ryji5s"/>
+        <updated>2026-07-18T13:00:29.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The reason wildfires are getting worse is probably not what you think]]></title>
+        <id>https://www.youtube.com/watch?v=cQo6mTAzfdE</id>
+        <link href="https://www.youtube.com/watch?v=cQo6mTAzfdE"/>
+        <updated>2026-07-18T11:14:39.000Z</updated>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4 takeaways from #WarrenBuffett's latest interview. #alphabet #investing #stocks #berkshirehathaway]]></title>
         <id>https://www.youtube.com/shorts/oUsqMQMjy_4</id>
@@ -189,7 +235,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How a High School Student Overturned a Famous Conjecture]]></title>
+        <title type="html"><![CDATA[The 17-Year-Old Student Who Solved a Major Math Mystery]]></title>
         <id>https://www.youtube.com/watch?v=0SNQ4HEOhSI</id>
         <link href="https://www.youtube.com/watch?v=0SNQ4HEOhSI"/>
         <updated>2026-07-16T11:00:29.000Z</updated>
@@ -326,16 +372,6 @@
         <id>https://www.youtube.com/shorts/Qis92VWYAjU</id>
         <link href="https://www.youtube.com/shorts/Qis92VWYAjU"/>
         <updated>2026-07-13T22:05:30.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why #billionaires are giving millions to Trump Accounts. #Trump #investing #wealth #business]]></title>
-        <id>https://www.youtube.com/shorts/Nm6LDm4HG5w</id>
-        <link href="https://www.youtube.com/shorts/Nm6LDm4HG5w"/>
-        <updated>2026-07-13T20:00:14.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Business Insider</name>
@@ -551,16 +587,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Precision Grinding Wheel]]></title>
-        <id>https://www.youtube.com/shorts/bBIIOE8AGQ4</id>
-        <link href="https://www.youtube.com/shorts/bBIIOE8AGQ4"/>
-        <updated>2026-07-06T14:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2047,16 +2073,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Government releases UFO footage]]></title>
-        <id>https://www.youtube.com/shorts/IngHbGqMewg</id>
-        <link href="https://www.youtube.com/shorts/IngHbGqMewg"/>
-        <updated>2026-05-08T17:30:23.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
