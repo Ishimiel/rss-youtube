@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-19T01:24:47.706Z</id>
+    <id>urn:2026-07-20T01:29:35.954Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-19T01:24:47.706Z</updated>
+    <updated>2026-07-20T01:29:35.954Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Machinist Fakes Resume 😳]]></title>
+        <id>https://www.youtube.com/shorts/F6IkzBHqrZE</id>
+        <link href="https://www.youtube.com/shorts/F6IkzBHqrZE"/>
+        <updated>2026-07-19T14:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I Automated Pressure Advance Using a Bed-Leveling Sensor]]></title>
         <id>https://www.youtube.com/watch?v=sHLGrTBLxLg</id>
@@ -535,16 +545,6 @@
         <id>https://www.youtube.com/shorts/YKGlzTxTMkY</id>
         <link href="https://www.youtube.com/shorts/YKGlzTxTMkY"/>
         <updated>2026-07-08T14:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inspecting with Tiny Gauge Pins]]></title>
-        <id>https://www.youtube.com/shorts/EOTaRN8P144</id>
-        <link href="https://www.youtube.com/shorts/EOTaRN8P144"/>
-        <updated>2026-07-07T14:00:24.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>TITANS of CNC MACHINING</name>
@@ -2357,15 +2357,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bayesian Linear Regression and Maximum Likelihood Estimates]]></title>
-        <id>https://www.youtube.com/watch?v=qTRgdhgmFyc</id>
-        <link href="https://www.youtube.com/watch?v=qTRgdhgmFyc"/>
-        <updated>2026-04-21T13:01:29.000Z</updated>
-        <author>
-            <name>Steve Brunton</name>
         </author>
     </entry>
 </feed>
