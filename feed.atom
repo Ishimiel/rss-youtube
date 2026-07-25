@@ -1,10 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-24T01:27:19.652Z</id>
+    <id>urn:2026-07-25T01:26:57.148Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-24T01:27:19.652Z</updated>
+    <updated>2026-07-25T01:26:57.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[[4K] Watch SpaceX Launch Starship Flight 13!!]]></title>
+        <id>https://www.youtube.com/watch?v=-pR0eOj9hK0</id>
+        <link href="https://www.youtube.com/watch?v=-pR0eOj9hK0"/>
+        <updated>2026-07-25T00:38:54.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring the Deep Mysteries of Physics | World Science Festival]]></title>
+        <id>https://www.youtube.com/watch?v=-U-OLazb3eU</id>
+        <link href="https://www.youtube.com/watch?v=-U-OLazb3eU"/>
+        <updated>2026-07-24T23:00:06.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEVER do this when chopping                  #chopping #knifeskills]]></title>
+        <id>https://www.youtube.com/shorts/UzCqO-Hwe9Q</id>
+        <link href="https://www.youtube.com/shorts/UzCqO-Hwe9Q"/>
+        <updated>2026-07-24T21:16:15.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>You Suck At Cooking</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why humans living longer could break the US #retirement system. #superagers #longevity]]></title>
+        <id>https://www.youtube.com/shorts/eV34WnQvlwo</id>
+        <link href="https://www.youtube.com/shorts/eV34WnQvlwo"/>
+        <updated>2026-07-24T15:49:15.000Z</updated>
+        <summary type="html"><![CDATA[------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 64 sugar cubes puzzle]]></title>
+        <id>https://www.youtube.com/shorts/6XPlmCDNLNc</id>
+        <link href="https://www.youtube.com/shorts/6XPlmCDNLNc"/>
+        <updated>2026-07-24T15:05:39.000Z</updated>
+        <summary type="html"><![CDATA[See all monthly puzzles: https://momath.org/mindbenders/]]></summary>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wuji Hand 2: The Next Gen of Robotic Dexterity]]></title>
+        <id>https://www.youtube.com/shorts/Yz2VL_pZA2Q</id>
+        <link href="https://www.youtube.com/shorts/Yz2VL_pZA2Q"/>
+        <updated>2026-07-24T14:00:39.000Z</updated>
+        <summary type="html"><![CDATA[Meet the Wuji Hand 2, Wuji Tech's next-generation dexterous hand designed for robot learning, teleoperation, and Physical AI research. With humanlike complia...]]></summary>
+        <author>
+            <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tool Saved Me Hundreds of Hours 😲]]></title>
+        <id>https://www.youtube.com/shorts/EfbY8fL_uYs</id>
+        <link href="https://www.youtube.com/shorts/EfbY8fL_uYs"/>
+        <updated>2026-07-24T14:00:34.000Z</updated>
+        <summary type="html"><![CDATA[#Machining #Manufacturing #Engineering #MachineShop]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A BIGGER Bambu for YOU]]></title>
+        <id>https://www.youtube.com/watch?v=Ikj4CHtdIQ4</id>
+        <link href="https://www.youtube.com/watch?v=Ikj4CHtdIQ4"/>
+        <updated>2026-07-24T13:00:38.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I Just Committed NOT A Crime]]></title>
         <id>https://www.youtube.com/shorts/QbbYXZHwTdw</id>
@@ -91,15 +168,6 @@
         <summary type="html"><![CDATA[Sugar, salt, cinnamon, saffron... which common kitchen ingredient is the deadliest?#kurzgesagt#inanutshell #kurzgesagt_inanutshell #learnwithshorts #science ...]]></summary>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch SpaceX Launch Starship Flight 13!!]]></title>
-        <id>https://www.youtube.com/watch?v=-pR0eOj9hK0</id>
-        <link href="https://www.youtube.com/watch?v=-pR0eOj9hK0"/>
-        <updated>2026-07-23T12:28:30.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
         </author>
     </entry>
     <entry>
@@ -355,7 +423,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D Printing for my Bar! MyBar Smart Drink & Cocktail Maker Machine]]></title>
+        <title type="html"><![CDATA[14 Years Later ...]]></title>
         <id>https://www.youtube.com/watch?v=3aWicLApQ9c</id>
         <link href="https://www.youtube.com/watch?v=3aWicLApQ9c"/>
         <updated>2026-07-17T13:00:05.000Z</updated>
@@ -488,16 +556,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nearly 80 people help make a single official #WorldCup replica #jersey. #football #soexpensive]]></title>
-        <id>https://www.youtube.com/shorts/_siIhX2XA6s</id>
-        <link href="https://www.youtube.com/shorts/_siIhX2XA6s"/>
-        <updated>2026-07-15T14:19:49.000Z</updated>
-        <summary type="html"><![CDATA[------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...]]></summary>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Most Advanced Tool Presetter 🔥]]></title>
         <id>https://www.youtube.com/shorts/5w9hD5OpC7g</id>
         <link href="https://www.youtube.com/shorts/5w9hD5OpC7g"/>
@@ -560,16 +618,6 @@
         <updated>2026-07-13T14:48:18.000Z</updated>
         <author>
             <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inspecting Parts with Mitutoyo]]></title>
-        <id>https://www.youtube.com/shorts/iplg2w9K8eQ</id>
-        <link href="https://www.youtube.com/shorts/iplg2w9K8eQ"/>
-        <updated>2026-07-13T14:00:21.000Z</updated>
-        <summary type="html"><![CDATA[#Machining #Manufacturing #Engineering #MachineShop]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -1374,16 +1422,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What keeps astronomer David Kipping up at night? #habitablemoons #astronomy #briangreene #alienlife]]></title>
-        <id>https://www.youtube.com/shorts/4b_6ylPGXd8</id>
-        <link href="https://www.youtube.com/shorts/4b_6ylPGXd8"/>
-        <updated>2026-06-12T01:48:32.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Seeing in Thermal #experiment #fluke #funny]]></title>
         <id>https://www.youtube.com/shorts/P4351ixgP4M</id>
         <link href="https://www.youtube.com/shorts/P4351ixgP4M"/>
@@ -1999,15 +2037,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[8 Years Later: Is 3D Printing Better for Car Repairs?]]></title>
-        <id>https://www.youtube.com/watch?v=CJ0v7tvA1bg</id>
-        <link href="https://www.youtube.com/watch?v=CJ0v7tvA1bg"/>
-        <updated>2026-05-15T13:00:28.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Figure AI's Humanoid Robots Just Worked a Full 8-Hour Shift... All on Their Own]]></title>
         <id>https://www.youtube.com/shorts/zn148HDKcmk</id>
         <link href="https://www.youtube.com/shorts/zn148HDKcmk"/>
@@ -2131,16 +2160,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>You Suck At Cooking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Government releases UFO footage]]></title>
-        <id>https://www.youtube.com/shorts/IngHbGqMewg</id>
-        <link href="https://www.youtube.com/shorts/IngHbGqMewg"/>
-        <updated>2026-05-08T17:30:23.000Z</updated>
-        <summary type="html"><![CDATA[The Trump administration has released the first batch of declassified UAP files under a new program called PURSUE. Among the most stunning: Apollo 17 mission...]]></summary>
-        <author>
-            <name>Interesting Engineering</name>
         </author>
     </entry>
     <entry>
@@ -2330,25 +2349,6 @@
         <updated>2026-04-27T13:00:28.000Z</updated>
         <author>
             <name>Steve Brunton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What happened to my face]]></title>
-        <id>https://www.youtube.com/shorts/Ycdklm6W1_o</id>
-        <link href="https://www.youtube.com/shorts/Ycdklm6W1_o"/>
-        <updated>2026-04-26T13:00:50.000Z</updated>
-        <summary type="html"><![CDATA[Support Physics Girl videos! We make them rain or shiner → patreon.com/physicsgirlIf you liked this video check out these:   Just kidding, we don't have any ...]]></summary>
-        <author>
-            <name>Physics Girl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Insane Engineering of the V-22 Osprey]]></title>
-        <id>https://www.youtube.com/watch?v=FYMdllTCrc0</id>
-        <link href="https://www.youtube.com/watch?v=FYMdllTCrc0"/>
-        <updated>2026-04-25T15:00:32.000Z</updated>
-        <author>
-            <name>Real Engineering</name>
         </author>
     </entry>
 </feed>
