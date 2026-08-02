@@ -1,10 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-01T01:43:56.355Z</id>
+    <id>urn:2026-08-02T01:29:11.781Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-01T01:43:56.355Z</updated>
+    <updated>2026-08-02T01:29:11.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Could our brains lack the power to fully explain the universe?]]></title>
+        <id>https://www.youtube.com/shorts/ToFF_B1vXEs</id>
+        <link href="https://www.youtube.com/shorts/ToFF_B1vXEs"/>
+        <updated>2026-08-01T16:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The SMALLEST Part I've Ever Machined]]></title>
+        <id>https://www.youtube.com/shorts/jUZX1S_zIH0</id>
+        <link href="https://www.youtube.com/shorts/jUZX1S_zIH0"/>
+        <updated>2026-08-01T14:00:24.000Z</updated>
+        <summary type="html"><![CDATA[#Machining #Manufacturing #Engineering #MachineShop]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9 Ways Everyday Life Is Becoming More Expensive]]></title>
+        <id>https://www.youtube.com/watch?v=wjkeJ6sEYfc</id>
+        <link href="https://www.youtube.com/watch?v=wjkeJ6sEYfc"/>
+        <updated>2026-08-01T13:00:13.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Kurzgesagt Situation is Insane]]></title>
+        <id>https://www.youtube.com/watch?v=OX1yHmeLPy8</id>
+        <link href="https://www.youtube.com/watch?v=OX1yHmeLPy8"/>
+        <updated>2026-08-01T02:02:04.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Incredible footage of Starship S40 in space shot from a Starlink V3 satellite!]]></title>
         <id>https://www.youtube.com/shorts/6kGURSJn9fI</id>
@@ -26,7 +64,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Inside Goodwill: The World's Biggest Thrift Machine]]></title>
+        <title type="html"><![CDATA[Can Goodwill Still Make You Rich?]]></title>
         <id>https://www.youtube.com/watch?v=UKypOcYjjkI</id>
         <link href="https://www.youtube.com/watch?v=UKypOcYjjkI"/>
         <updated>2026-07-31T15:07:11.000Z</updated>
@@ -421,16 +459,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why humans living longer could break the US #retirement system. #superagers #longevity]]></title>
-        <id>https://www.youtube.com/shorts/eV34WnQvlwo</id>
-        <link href="https://www.youtube.com/shorts/eV34WnQvlwo"/>
-        <updated>2026-07-24T15:49:15.000Z</updated>
-        <summary type="html"><![CDATA[------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...]]></summary>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The 64 sugar cubes puzzle]]></title>
         <id>https://www.youtube.com/shorts/6XPlmCDNLNc</id>
         <link href="https://www.youtube.com/shorts/6XPlmCDNLNc"/>
@@ -612,15 +640,6 @@
         <link href="https://www.youtube.com/shorts/h9eM3nSKiRU"/>
         <updated>2026-07-21T15:00:30.000Z</updated>
         <summary type="html"><![CDATA[#Machining #Manufacturing #Engineering #MachineShop]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving Complex Problems to Machine a Monster Blisk]]></title>
-        <id>https://www.youtube.com/watch?v=ufQGknkHrg8</id>
-        <link href="https://www.youtube.com/watch?v=ufQGknkHrg8"/>
-        <updated>2026-07-21T14:00:10.000Z</updated>
         <author>
             <name>TITANS of CNC MACHINING</name>
         </author>
@@ -1416,16 +1435,6 @@
         <id>https://www.youtube.com/shorts/DBZgZIp6UxY</id>
         <link href="https://www.youtube.com/shorts/DBZgZIp6UxY"/>
         <updated>2026-06-17T19:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>World Science Festival</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does science point towards God?]]></title>
-        <id>https://www.youtube.com/shorts/T4cniIgCMZo</id>
-        <link href="https://www.youtube.com/shorts/T4cniIgCMZo"/>
-        <updated>2026-06-16T19:00:04.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>World Science Festival</name>
@@ -2322,25 +2331,6 @@
         <updated>2026-05-05T00:59:42.000Z</updated>
         <author>
             <name>Artem Kirsanov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entirely Ridiculously Big Numbers - Numberphile]]></title>
-        <id>https://www.youtube.com/watch?v=SAtFZPtbMpI</id>
-        <link href="https://www.youtube.com/watch?v=SAtFZPtbMpI"/>
-        <updated>2026-05-04T13:12:05.000Z</updated>
-        <author>
-            <name>Numberphile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[That time Ariana Grande dm’d me.       #arianagrande #bananabread]]></title>
-        <id>https://www.youtube.com/shorts/xIR5uKXyAQo</id>
-        <link href="https://www.youtube.com/shorts/xIR5uKXyAQo"/>
-        <updated>2026-05-03T21:10:21.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>You Suck At Cooking</name>
         </author>
     </entry>
 </feed>
