@@ -1,10 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-05T01:23:50.696Z</id>
+    <id>urn:2026-08-06T01:21:16.416Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-05T01:23:50.696Z</updated>
+    <updated>2026-08-06T01:21:16.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[One Dimensional Balls]]></title>
+        <id>https://www.youtube.com/shorts/4DaETxhoAxg</id>
+        <link href="https://www.youtube.com/shorts/4DaETxhoAxg"/>
+        <updated>2026-08-05T23:42:31.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I made an apple peel itself]]></title>
+        <id>https://www.youtube.com/watch?v=RpslsMqPFWA</id>
+        <link href="https://www.youtube.com/watch?v=RpslsMqPFWA"/>
+        <updated>2026-08-05T22:30:42.000Z</updated>
+        <author>
+            <name>Stuff Made Here</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turning air into alcohol]]></title>
+        <id>https://www.youtube.com/watch?v=ID-K64Jk6JM</id>
+        <link href="https://www.youtube.com/watch?v=ID-K64Jk6JM"/>
+        <updated>2026-08-05T18:28:30.000Z</updated>
+        <author>
+            <name>NileRed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#AI is making one consulting skill more valuable than ever. #careers #business]]></title>
+        <id>https://www.youtube.com/shorts/EcY1akH8dMU</id>
+        <link href="https://www.youtube.com/shorts/EcY1akH8dMU"/>
+        <updated>2026-08-05T15:58:21.000Z</updated>
+        <summary type="html"><![CDATA[------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Have You Ever Machined Blue Delrin?]]></title>
+        <id>https://www.youtube.com/shorts/JRGVSV7IFWw</id>
+        <link href="https://www.youtube.com/shorts/JRGVSV7IFWw"/>
+        <updated>2026-08-05T14:00:39.000Z</updated>
+        <summary type="html"><![CDATA[#Machining #Manufacturing #Engineering #MachineShop]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cutting Moons  - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=oYGBRhS1Ujo</id>
+        <link href="https://www.youtube.com/watch?v=oYGBRhS1Ujo"/>
+        <updated>2026-08-05T13:38:04.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The dangerous job of harvesting toxic #mussels in polluted waters. #JakartaBay #Indonesia #riskyjobs]]></title>
+        <id>https://www.youtube.com/shorts/zqTd7_Y_M0k</id>
+        <link href="https://www.youtube.com/shorts/zqTd7_Y_M0k"/>
+        <updated>2026-08-05T13:00:37.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Could getting married young actually help your career? #marriage #money #career]]></title>
         <id>https://www.youtube.com/shorts/rNSdf3LumNA</id>
@@ -260,25 +327,6 @@
         <id>https://www.youtube.com/shorts/vFSTwrAIhDA</id>
         <link href="https://www.youtube.com/shorts/vFSTwrAIhDA"/>
         <updated>2026-07-30T19:07:58.000Z</updated>
-        <summary type="html"><![CDATA[------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...]]></summary>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Manage Token Costs While Keeping Agentic Goals On Track]]></title>
-        <id>https://www.youtube.com/watch?v=3foE4sXKVHc</id>
-        <link href="https://www.youtube.com/watch?v=3foE4sXKVHc"/>
-        <updated>2026-07-30T17:24:07.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#Stadium food is pricey — would you pay over $100 on #gameday? #soexpensive]]></title>
-        <id>https://www.youtube.com/shorts/G_lkUapxScE</id>
-        <link href="https://www.youtube.com/shorts/G_lkUapxScE"/>
-        <updated>2026-07-30T16:09:17.000Z</updated>
         <summary type="html"><![CDATA[------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...]]></summary>
         <author>
             <name>Business Insider</name>
@@ -610,16 +658,6 @@
         <summary type="html"><![CDATA[The mathematicians Yu Deng, Zaher Hani, and Xiao Ma solved a major piece of David Hilbert's Sixth Problem, a 125-year-old challenge to place physics on a rig...]]></summary>
         <author>
             <name>Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Entire Shop Depends on This]]></title>
-        <id>https://www.youtube.com/shorts/HTz-kHdeGAg</id>
-        <link href="https://www.youtube.com/shorts/HTz-kHdeGAg"/>
-        <updated>2026-07-23T15:00:14.000Z</updated>
-        <summary type="html"><![CDATA[#Machining #Manufacturing #Engineering #MachineShop]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2311,15 +2349,6 @@
         <updated>2026-05-08T15:01:13.000Z</updated>
         <author>
             <name>North of the Border</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ben Lerner and Alexandra Schwartz on Parents, Ghosts, and Transcription]]></title>
-        <id>https://www.youtube.com/watch?v=yHGBZctK_xw</id>
-        <link href="https://www.youtube.com/watch?v=yHGBZctK_xw"/>
-        <updated>2026-05-07T16:47:21.000Z</updated>
-        <author>
-            <name>Pioneer Works</name>
         </author>
     </entry>
 </feed>
