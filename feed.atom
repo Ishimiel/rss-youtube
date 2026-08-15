@@ -1,10 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-14T00:57:09.071Z</id>
+    <id>urn:2026-08-15T00:33:35.635Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-14T00:57:09.071Z</updated>
+    <updated>2026-08-15T00:33:35.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[I Built A "Swing Thing"]]></title>
+        <id>https://www.youtube.com/shorts/moKQ4klRARw</id>
+        <link href="https://www.youtube.com/shorts/moKQ4klRARw"/>
+        <updated>2026-08-14T20:56:53.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What happens when you remind a judge they're going to die?]]></title>
+        <id>https://www.youtube.com/shorts/LTXeEFXYuGQ</id>
+        <link href="https://www.youtube.com/shorts/LTXeEFXYuGQ"/>
+        <updated>2026-08-14T19:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside Starlab, The Biggest Commercial Space Station!]]></title>
+        <id>https://www.youtube.com/watch?v=FQpSAWGgL7k</id>
+        <link href="https://www.youtube.com/watch?v=FQpSAWGgL7k"/>
+        <updated>2026-08-14T16:59:57.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I made a bathroom but it's... unsettling]]></title>
+        <id>https://www.youtube.com/watch?v=Ehk9BXpAmak</id>
+        <link href="https://www.youtube.com/watch?v=Ehk9BXpAmak"/>
+        <updated>2026-08-14T15:00:10.000Z</updated>
+        <author>
+            <name>North of the Border</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Incredible Swiss Machining Tool Paths]]></title>
+        <id>https://www.youtube.com/shorts/0RuFi5pZXH8</id>
+        <link href="https://www.youtube.com/shorts/0RuFi5pZXH8"/>
+        <updated>2026-08-14T14:00:04.000Z</updated>
+        <summary type="html"><![CDATA[#Machining #Manufacturing #Engineering #MachineShop]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Creator Behind Outdoor Anthony Has a Workday Unlike Most People’s]]></title>
         <id>https://www.youtube.com/watch?v=CmOButWKtt4</id>
@@ -577,16 +625,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Punch a Coworker 👊]]></title>
-        <id>https://www.youtube.com/shorts/Z7XMXrtucNM</id>
-        <link href="https://www.youtube.com/shorts/Z7XMXrtucNM"/>
-        <updated>2026-08-02T14:00:05.000Z</updated>
-        <summary type="html"><![CDATA[#Machining #Manufacturing #Engineering #MachineShop]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Is spider web really stronger than steel?]]></title>
         <id>https://www.youtube.com/watch?v=wt4p2oalmRY</id>
         <link href="https://www.youtube.com/watch?v=wt4p2oalmRY"/>
@@ -1115,15 +1153,6 @@
         <updated>2026-07-11T15:30:05.000Z</updated>
         <author>
             <name>CNC Kitchen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does Einstein Need an Upgrade? | World Science Festival]]></title>
-        <id>https://www.youtube.com/watch?v=ypRYKVI4VUc</id>
-        <link href="https://www.youtube.com/watch?v=ypRYKVI4VUc"/>
-        <updated>2026-07-10T23:00:06.000Z</updated>
-        <author>
-            <name>World Science Festival</name>
         </author>
     </entry>
     <entry>
@@ -2329,25 +2358,6 @@
         <summary type="html"><![CDATA[Pigeons can pinpoint their location hundreds of kilometers from their roosts and navigate home autonomously, only using smell, the sun, and even Earth’s magn...]]></summary>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does Starship REALLY require 15+ launches to land one lunar Starship?!]]></title>
-        <id>https://www.youtube.com/watch?v=T-jf6tTKt3Y</id>
-        <link href="https://www.youtube.com/watch?v=T-jf6tTKt3Y"/>
-        <updated>2026-05-16T19:30:00.000Z</updated>
-        <author>
-            <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Connecting Power Lines #science #experiment #funny #electrical]]></title>
-        <id>https://www.youtube.com/shorts/GEhwXAIjDls</id>
-        <link href="https://www.youtube.com/shorts/GEhwXAIjDls"/>
-        <updated>2026-05-16T15:39:57.000Z</updated>
-        <summary type="html"><![CDATA[Network Power Management and Power Switching are very challenging tasks. You can't just connect stuff together!!]]></summary>
-        <author>
-            <name>ElectroBOOM</name>
         </author>
     </entry>
 </feed>
