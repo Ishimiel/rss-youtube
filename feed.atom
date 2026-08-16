@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-15T00:33:35.635Z</id>
+    <id>urn:2026-08-16T00:34:41.416Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-15T00:33:35.635Z</updated>
+    <updated>2026-08-16T00:34:41.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Machinist Reacts 😲]]></title>
+        <id>https://www.youtube.com/shorts/9YEgVwYgxAo</id>
+        <link href="https://www.youtube.com/shorts/9YEgVwYgxAo"/>
+        <updated>2026-08-15T14:00:10.000Z</updated>
+        <summary type="html"><![CDATA[#Machining #Manufacturing #Engineering #MachineShop]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bambu vs Prusa MK2S MMU1?]]></title>
+        <id>https://www.youtube.com/watch?v=VQhZSSoj6nI</id>
+        <link href="https://www.youtube.com/watch?v=VQhZSSoj6nI"/>
+        <updated>2026-08-15T13:00:26.000Z</updated>
+        <author>
+            <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Ferrero Makes Millions Of Chocolates In America]]></title>
+        <id>https://www.youtube.com/watch?v=TNl9diGdyPo</id>
+        <link href="https://www.youtube.com/watch?v=TNl9diGdyPo"/>
+        <updated>2026-08-15T13:00:05.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I Built A "Swing Thing"]]></title>
         <id>https://www.youtube.com/shorts/moKQ4klRARw</id>
@@ -26,7 +54,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Inside Starlab, The Biggest Commercial Space Station!]]></title>
+        <title type="html"><![CDATA[Inside Starlab, a MASSIVE commercial Space Station!]]></title>
         <id>https://www.youtube.com/watch?v=FQpSAWGgL7k</id>
         <link href="https://www.youtube.com/watch?v=FQpSAWGgL7k"/>
         <updated>2026-08-14T16:59:57.000Z</updated>
@@ -568,15 +596,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meet The Professional Mermaid Inspiring Adults To Play Again]]></title>
-        <id>https://www.youtube.com/watch?v=qmPXAra9sIY</id>
-        <link href="https://www.youtube.com/watch?v=qmPXAra9sIY"/>
-        <updated>2026-08-04T15:45:05.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Better Than a Robot? 😲]]></title>
         <id>https://www.youtube.com/shorts/Q2lZBJn_5cg</id>
         <link href="https://www.youtube.com/shorts/Q2lZBJn_5cg"/>
@@ -603,16 +622,6 @@
         <summary type="html"><![CDATA[manual & unchanging white balance, ISO, and shutter speed.]]></summary>
         <author>
             <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a CMM?]]></title>
-        <id>https://www.youtube.com/shorts/JQZVHm7POfU</id>
-        <link href="https://www.youtube.com/shorts/JQZVHm7POfU"/>
-        <updated>2026-08-03T14:00:20.000Z</updated>
-        <summary type="html"><![CDATA[#Machining #Manufacturing #Engineering #MachineShop]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2095,15 +2104,6 @@
         <updated>2026-05-30T03:05:58.000Z</updated>
         <author>
             <name>Freya Holmér</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 3D Print That Changes Lives!]]></title>
-        <id>https://www.youtube.com/watch?v=BL_gFDwOOew</id>
-        <link href="https://www.youtube.com/watch?v=BL_gFDwOOew"/>
-        <updated>2026-05-29T13:00:32.000Z</updated>
-        <author>
-            <name>3D Printing Nerd</name>
         </author>
     </entry>
     <entry>
