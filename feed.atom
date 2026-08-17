@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-16T00:34:41.416Z</id>
+    <id>urn:2026-08-17T00:32:58.764Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-16T00:34:41.416Z</updated>
+    <updated>2026-08-17T00:32:58.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Not Your Average Shop Vac 😳]]></title>
+        <id>https://www.youtube.com/shorts/V_q9auBhuzw</id>
+        <link href="https://www.youtube.com/shorts/V_q9auBhuzw"/>
+        <updated>2026-08-16T14:00:01.000Z</updated>
+        <summary type="html"><![CDATA[#Machining #Manufacturing #Engineering #MachineShop]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Machinist Reacts 😲]]></title>
         <id>https://www.youtube.com/shorts/9YEgVwYgxAo</id>
@@ -16,7 +26,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bambu vs Prusa MK2S MMU1?]]></title>
+        <title type="html"><![CDATA[Is THIS 3D Printer Still Relevant?]]></title>
         <id>https://www.youtube.com/watch?v=VQhZSSoj6nI</id>
         <link href="https://www.youtube.com/watch?v=VQhZSSoj6nI"/>
         <updated>2026-08-15T13:00:26.000Z</updated>
@@ -593,16 +603,6 @@
         <summary type="html"><![CDATA[Sponsored by the Dell AI Factory with NVIDIATokenomics 101 with Dell’s Bharat Patel is in session. Learn what agentic means for your P&L.--------------------...]]></summary>
         <author>
             <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Better Than a Robot? 😲]]></title>
-        <id>https://www.youtube.com/shorts/Q2lZBJn_5cg</id>
-        <link href="https://www.youtube.com/shorts/Q2lZBJn_5cg"/>
-        <updated>2026-08-04T14:00:17.000Z</updated>
-        <summary type="html"><![CDATA[#Machining #Manufacturing #Engineering #MachineShop]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2336,26 +2336,6 @@
         <id>https://www.youtube.com/watch?v=TYhNHX372ek</id>
         <link href="https://www.youtube.com/watch?v=TYhNHX372ek"/>
         <updated>2026-05-19T14:00:15.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why does #Starship require 12+ launches to get to the moon when the Saturn V could do it in 1?]]></title>
-        <id>https://www.youtube.com/shorts/eNo7W01ifVg</id>
-        <link href="https://www.youtube.com/shorts/eNo7W01ifVg"/>
-        <updated>2026-05-18T15:57:52.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where Did the Antimatter Go?]]></title>
-        <id>https://www.youtube.com/shorts/DfB2qYJqAkA</id>
-        <link href="https://www.youtube.com/shorts/DfB2qYJqAkA"/>
-        <updated>2026-05-18T14:00:30.000Z</updated>
-        <summary type="html"><![CDATA[Pigeons can pinpoint their location hundreds of kilometers from their roosts and navigate home autonomously, only using smell, the sun, and even Earth’s magn...]]></summary>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
         </author>
