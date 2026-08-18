@@ -1,10 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-17T00:32:58.764Z</id>
+    <id>urn:2026-08-18T00:32:56.811Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-17T00:32:58.764Z</updated>
+    <updated>2026-08-18T00:32:56.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[My Favorite Obscure Sorrows]]></title>
+        <id>https://www.youtube.com/shorts/axILrr1GgMs</id>
+        <link href="https://www.youtube.com/shorts/axILrr1GgMs"/>
+        <updated>2026-08-17T22:44:35.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI’s next big data grab: your workday. #techindustry #AI #workplace #futureofwork]]></title>
+        <id>https://www.youtube.com/shorts/kaYc8y72Cug</id>
+        <link href="https://www.youtube.com/shorts/kaYc8y72Cug"/>
+        <updated>2026-08-17T20:22:09.000Z</updated>
+        <summary type="html"><![CDATA[------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Javits Center CEO Joyce Leveston shares the #career advice she swears by. #leadership #workplace]]></title>
+        <id>https://www.youtube.com/shorts/KJD2Hcnh71s</id>
+        <link href="https://www.youtube.com/shorts/KJD2Hcnh71s"/>
+        <updated>2026-08-17T17:19:19.000Z</updated>
+        <summary type="html"><![CDATA[------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Total Solar Eclipse From Space]]></title>
+        <id>https://www.youtube.com/watch?v=J1WoNuemKOg</id>
+        <link href="https://www.youtube.com/watch?v=J1WoNuemKOg"/>
+        <updated>2026-08-17T14:30:16.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What the Flu Does to Your Body]]></title>
+        <id>https://www.youtube.com/shorts/U5-dE2nCzjM</id>
+        <link href="https://www.youtube.com/shorts/U5-dE2nCzjM"/>
+        <updated>2026-08-17T14:00:07.000Z</updated>
+        <summary type="html"><![CDATA[The flu is often dismissed as just a bad cold, yet it still kills hundreds of thousands of people every year. Here's how influenza damages your body, why it ...]]></summary>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Double Negative Inserts Plunge Milling?]]></title>
+        <id>https://www.youtube.com/shorts/OvCSdQ5kRNc</id>
+        <link href="https://www.youtube.com/shorts/OvCSdQ5kRNc"/>
+        <updated>2026-08-17T14:00:03.000Z</updated>
+        <summary type="html"><![CDATA[#Machining #Manufacturing #Engineering #MachineShop]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Not Your Average Shop Vac 😳]]></title>
         <id>https://www.youtube.com/shorts/V_q9auBhuzw</id>
@@ -130,7 +189,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[32 CHAOTIC FILAMENTS for PSYCHOS - Every 3D Filament Part 7]]></title>
+        <title type="html"><![CDATA[INSANE 3D FILAMENTS for PSYCHOS - Every 3D Filament Part 7]]></title>
         <id>https://www.youtube.com/watch?v=vBdqbnfvj_A</id>
         <link href="https://www.youtube.com/watch?v=vBdqbnfvj_A"/>
         <updated>2026-08-13T14:00:10.000Z</updated>
@@ -547,16 +606,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Have You Ever Machined Blue Delrin?]]></title>
-        <id>https://www.youtube.com/shorts/JRGVSV7IFWw</id>
-        <link href="https://www.youtube.com/shorts/JRGVSV7IFWw"/>
-        <updated>2026-08-05T14:00:39.000Z</updated>
-        <summary type="html"><![CDATA[#Machining #Manufacturing #Engineering #MachineShop]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cutting Moons  - Numberphile]]></title>
         <id>https://www.youtube.com/watch?v=oYGBRhS1Ujo</id>
         <link href="https://www.youtube.com/watch?v=oYGBRhS1Ujo"/>
@@ -581,26 +630,6 @@
         <link href="https://www.youtube.com/shorts/rNSdf3LumNA"/>
         <updated>2026-08-04T22:05:10.000Z</updated>
         <summary type="html"><![CDATA[------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...]]></summary>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pollution is forcing Jakarta's fishermen farther out to sea]]></title>
-        <id>https://www.youtube.com/shorts/7Hw5HRqGHxU</id>
-        <link href="https://www.youtube.com/shorts/7Hw5HRqGHxU"/>
-        <updated>2026-08-04T21:11:24.000Z</updated>
-        <summary type="html"><![CDATA[------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...]]></summary>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tokenomics 101 with Dell’s Bharat Patel is in session. Learn what agentic means for your P&L.]]></title>
-        <id>https://www.youtube.com/shorts/CyzltYk-drE</id>
-        <link href="https://www.youtube.com/shorts/CyzltYk-drE"/>
-        <updated>2026-08-04T19:11:19.000Z</updated>
-        <summary type="html"><![CDATA[Sponsored by the Dell AI Factory with NVIDIATokenomics 101 with Dell’s Bharat Patel is in session. Learn what agentic means for your P&L.--------------------...]]></summary>
         <author>
             <name>Business Insider</name>
         </author>
@@ -1774,15 +1803,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We're 99.9% sure this pattern is true, but no one can prove it]]></title>
-        <id>https://www.youtube.com/watch?v=8HBDE-msUjw</id>
-        <link href="https://www.youtube.com/watch?v=8HBDE-msUjw"/>
-        <updated>2026-06-14T15:18:45.000Z</updated>
-        <author>
-            <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I Forgot One Tiny Detail… #fanttik #FanttikT1Max]]></title>
         <id>https://www.youtube.com/shorts/5AV77Zu263o</id>
         <link href="https://www.youtube.com/shorts/5AV77Zu263o"/>
@@ -2319,25 +2339,6 @@
         <updated>2026-05-20T17:37:18.000Z</updated>
         <author>
             <name>Everyday Astronaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Radar That Rewrites Itself]]></title>
-        <id>https://www.youtube.com/shorts/jW1xqolHois</id>
-        <link href="https://www.youtube.com/shorts/jW1xqolHois"/>
-        <updated>2026-05-19T14:00:29.000Z</updated>
-        <summary type="html"><![CDATA[For decades, radar systems were largely defined by fixed hardware: fixed antennas, fixed waveforms, and fixed missions. But modern threats evolve quickly, an...]]></summary>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Uncomfortable Truth About Ozempic (Updated Version)]]></title>
-        <id>https://www.youtube.com/watch?v=TYhNHX372ek</id>
-        <link href="https://www.youtube.com/watch?v=TYhNHX372ek"/>
-        <updated>2026-05-19T14:00:15.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
 </feed>
