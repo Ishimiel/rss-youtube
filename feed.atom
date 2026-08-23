@@ -1,10 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-22T00:32:48.406Z</id>
+    <id>urn:2026-08-23T00:35:43.846Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-22T00:32:48.406Z</updated>
+    <updated>2026-08-23T00:35:43.846Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Singularity Disc]]></title>
+        <id>https://www.youtube.com/shorts/i0mqdRGYgbU</id>
+        <link href="https://www.youtube.com/shorts/i0mqdRGYgbU"/>
+        <updated>2026-08-22T21:51:23.000Z</updated>
+        <summary type="html"><![CDATA[Watch @SteveMould  talk about the design of the Singularity Disc: https://www.youtube.com/watch?v=ti2qiU_JTUQGet your own: https://www.metmo.co.uk/collection...]]></summary>
+        <author>
+            <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How We Could Reach Proxima Centauri B in 20 Years]]></title>
+        <id>https://www.youtube.com/watch?v=iGZsPFJuxc0</id>
+        <link href="https://www.youtube.com/watch?v=iGZsPFJuxc0"/>
+        <updated>2026-08-22T15:00:00.000Z</updated>
+        <author>
+            <name>Real Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Science & Society: Do Forests Feel?]]></title>
+        <id>https://www.youtube.com/watch?v=Ir5bavpEU-c</id>
+        <link href="https://www.youtube.com/watch?v=Ir5bavpEU-c"/>
+        <updated>2026-08-22T14:26:23.000Z</updated>
+        <author>
+            <name>Pioneer Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2.685 is (almost) everywhere - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=-mXaU3N9e8Y</id>
+        <link href="https://www.youtube.com/watch?v=-mXaU3N9e8Y"/>
+        <updated>2026-08-22T14:09:57.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swiss Machinist Tooling Tip 🤌]]></title>
+        <id>https://www.youtube.com/shorts/Ng0cyNEm2jU</id>
+        <link href="https://www.youtube.com/shorts/Ng0cyNEm2jU"/>
+        <updated>2026-08-22T14:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Register for Boombastic 2026:https://boombastic.titansofcnc.com/boom26Join The #1 Manufacturing Social App:https://mfgconnect.com/Get the MFG Connect app her...]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Stress Changes Your Brain]]></title>
+        <id>https://www.youtube.com/shorts/IvtsVHzMLwY</id>
+        <link href="https://www.youtube.com/shorts/IvtsVHzMLwY"/>
+        <updated>2026-08-22T14:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Stress can sharpen your focus, but only up to a point. Beyond that, it starts to impair memory, decision-making, and even your eating habits. Here's where th...]]></summary>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Uber Uses AI To Charge You More]]></title>
+        <id>https://www.youtube.com/watch?v=gnjVqeBoaqs</id>
+        <link href="https://www.youtube.com/watch?v=gnjVqeBoaqs"/>
+        <updated>2026-08-22T13:00:13.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Are There Limits To What Physics Can Explain? | World Science Festival]]></title>
         <id>https://www.youtube.com/watch?v=6as2S-ixusE</id>
@@ -528,15 +594,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We Tested Two Grinding Wheels on Seriously Hard Steel]]></title>
-        <id>https://www.youtube.com/watch?v=tmsxjIvua9w</id>
-        <link href="https://www.youtube.com/watch?v=tmsxjIvua9w"/>
-        <updated>2026-08-11T14:00:32.000Z</updated>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What You See When You Look Away]]></title>
         <id>https://www.youtube.com/shorts/nAA_4TxqWTE</id>
         <link href="https://www.youtube.com/shorts/nAA_4TxqWTE"/>
@@ -622,15 +679,6 @@
         <updated>2026-08-09T16:06:22.000Z</updated>
         <author>
             <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Real Feta Cheese Is Disappearing | Big Business]]></title>
-        <id>https://www.youtube.com/watch?v=JZ9KC0WRLlg</id>
-        <link href="https://www.youtube.com/watch?v=JZ9KC0WRLlg"/>
-        <updated>2026-08-09T13:00:28.000Z</updated>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -1506,16 +1554,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My Dad Ranking]]></title>
-        <id>https://www.youtube.com/shorts/jIwsHATFc9M</id>
-        <link href="https://www.youtube.com/shorts/jIwsHATFc9M"/>
-        <updated>2026-07-01T02:31:50.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Vsauce</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This Orbit is the WORST]]></title>
         <id>https://www.youtube.com/watch?v=R2G8Xy6hiyg</id>
         <link href="https://www.youtube.com/watch?v=R2G8Xy6hiyg"/>
@@ -1563,7 +1601,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Space Data Center Situation is Insane - Starcloud]]></title>
+        <title type="html"><![CDATA[Reading StarCloud’s Whitepaper So You Don’t Have To]]></title>
         <id>https://www.youtube.com/watch?v=_qpdUNMt2yg</id>
         <link href="https://www.youtube.com/watch?v=_qpdUNMt2yg"/>
         <updated>2026-06-27T16:00:16.000Z</updated>
@@ -2283,15 +2321,6 @@
         <summary type="html"><![CDATA[As the battlefield evolves, new capabilities need to move faster. Weapons are having a modular moment: new defense systems are being designed to adapt, evolv...]]></summary>
         <author>
             <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Earth Sucks Compared to the Planet Hestia]]></title>
-        <id>https://www.youtube.com/watch?v=8qQW4LTWgtc</id>
-        <link href="https://www.youtube.com/watch?v=8qQW4LTWgtc"/>
-        <updated>2026-05-26T14:00:08.000Z</updated>
-        <author>
-            <name>Kurzgesagt – In a Nutshell</name>
         </author>
     </entry>
     <entry>
