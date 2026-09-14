@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-13T01:48:48.462Z</id>
+    <id>urn:2026-09-14T02:06:13.988Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-13T01:48:48.462Z</updated>
+    <updated>2026-09-14T02:06:13.988Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Small Tool Huge Accuracy]]></title>
+        <id>https://www.youtube.com/shorts/FAEsXA_4SDM</id>
+        <link href="https://www.youtube.com/shorts/FAEsXA_4SDM"/>
+        <updated>2026-09-13T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Register for Boombastic 2026:https://boombastic.titansofcnc.com/boom26Join The #1 Manufacturing Social App:https://mfgconnect.com/Get the MFG Connect app her...]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside Turkey's $2 Billion Marble And Stone Industry | Big Business]]></title>
+        <id>https://www.youtube.com/watch?v=KIBJAEZMxwo</id>
+        <link href="https://www.youtube.com/watch?v=KIBJAEZMxwo"/>
+        <updated>2026-09-13T13:00:23.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Companies are now drilling for hydrogen, but is this a better and greener option?]]></title>
         <id>https://www.youtube.com/watch?v=prMM07vjPvM</id>
@@ -308,16 +327,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Inside China's #shopping mall built for #livestreaming. #China #AItools #bigbusiness]]></title>
-        <id>https://www.youtube.com/shorts/hXNksKMYZlk</id>
-        <link href="https://www.youtube.com/shorts/hXNksKMYZlk"/>
-        <updated>2026-09-07T12:00:27.000Z</updated>
-        <summary type="html"><![CDATA[------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...]]></summary>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This Camera Sees Minutes Into the Past]]></title>
         <id>https://www.youtube.com/shorts/p7YSGK_V2vM</id>
         <link href="https://www.youtube.com/shorts/p7YSGK_V2vM"/>
@@ -558,16 +567,6 @@
         <summary type="html"><![CDATA[Everything with electricity can be hazardous when the universe gets creative! Plasma Globe is one of them! Checkout the full video for all sort of its dangers!]]></summary>
         <author>
             <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CNC Machining Carbon Fiber]]></title>
-        <id>https://www.youtube.com/shorts/CLaFP_-0Bkc</id>
-        <link href="https://www.youtube.com/shorts/CLaFP_-0Bkc"/>
-        <updated>2026-09-01T15:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Register for Boombastic 2026:https://boombastic.titansofcnc.com/boom26Join The #1 Manufacturing Social App:https://mfgconnect.com/Get the MFG Connect app her...]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2137,7 +2136,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Solar Plant Doesn’t Use Solar Panels]]></title>
+        <title type="html"><![CDATA[I found miles of mirrors in the desert]]></title>
         <id>https://www.youtube.com/shorts/S5kffZWjSlE</id>
         <link href="https://www.youtube.com/shorts/S5kffZWjSlE"/>
         <updated>2026-06-18T16:46:26.000Z</updated>
@@ -2163,34 +2162,6 @@
         <summary type="html"><![CDATA[Part of a series of monthly puzzles done in collaboration with MoMath.]]></summary>
         <author>
             <name>3Blue1Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B-52 Bomber Crashes at Edwards Air Force Base, 8 Lost Their Lives on Board]]></title>
-        <id>https://www.youtube.com/shorts/_eXRA3VF2SE</id>
-        <link href="https://www.youtube.com/shorts/_eXRA3VF2SE"/>
-        <updated>2026-06-16T08:48:37.000Z</updated>
-        <summary type="html"><![CDATA[A B-52 Stratofortress crashed shortly after takeoff during a routine test mission at Edwards Air Force Base in California's Mojave Desert on Monday, bursting...]]></summary>
-        <author>
-            <name>Interesting Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MOSFET vs Transistor vs Relay: Most People Get This Wrong]]></title>
-        <id>https://www.youtube.com/watch?v=DKYguNg1vmk</id>
-        <link href="https://www.youtube.com/watch?v=DKYguNg1vmk"/>
-        <updated>2026-06-15T18:41:01.000Z</updated>
-        <author>
-            <name>The Engineering Mindset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Palindrome Ages - Numberphile]]></title>
-        <id>https://www.youtube.com/watch?v=fwLsCgibGw4</id>
-        <link href="https://www.youtube.com/watch?v=fwLsCgibGw4"/>
-        <updated>2026-06-15T15:02:15.000Z</updated>
-        <author>
-            <name>Numberphile</name>
         </author>
     </entry>
 </feed>
