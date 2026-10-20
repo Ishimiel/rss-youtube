@@ -1,10 +1,141 @@
 {
   "sources": [
     {
-      "title": "Primer",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKzJFdi57J53Vr_BkTfN3uQ",
-      "siteUrl": "https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ",
-      "articles": []
+      "title": "Quanta Magazine",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTpmmkp1E4nmZqWPS-dl5bg",
+      "siteUrl": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=kCh0ynBTyCg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kCh0ynBTyCg",
+          "publishedOn": "2026-10-15T20:57:55.000Z",
+          "wordCount": null,
+          "title": "What Does the Fourth Dimension Actually Look Like? | PODCAST: The Joy of Why",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/A7rcskyIXqk",
+          "author": null,
+          "description": "A group of international studies comparing brain development in birds and mammals suggests that vertebrate intelligence evolved independently, multiple times...",
+          "link": "https://www.youtube.com/shorts/A7rcskyIXqk",
+          "publishedOn": "2026-10-01T21:01:27.000Z",
+          "wordCount": 3623,
+          "title": "Did Intelligence Evolve Twice?",
+          "imageUrl": "https://i.ytimg.com/vi/A7rcskyIXqk/sardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuAL3GA==&rs=AOn4CLBM2tRVYf6myw9IonXAghzJNstvNg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1rqpS2WAb0o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1rqpS2WAb0o",
+          "publishedOn": "2026-09-21T20:53:27.000Z",
+          "wordCount": null,
+          "title": "Where Does the Quantum World End and Ours Begin? | PODCAST: The Joy of Why",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=PsWR1rQEWYo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PsWR1rQEWYo",
+          "publishedOn": "2026-09-17T19:30:46.000Z",
+          "wordCount": null,
+          "title": "Why Navier-Stokes Pushes Math and Physics to the Edge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=IXwrLMtuv4Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IXwrLMtuv4Q",
+          "publishedOn": "2026-09-04T22:59:35.000Z",
+          "wordCount": null,
+          "title": "What Is Math For in the Age of AI? - Live from ICM 2026 | PODCAST: The Joy of Why",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/ACBc7fxmIlM",
+          "author": null,
+          "description": "A powerful new proof extends the late Maryam Mirzakhani’s work on hyperbolic surfaces, showing that most of them have an important geometric property. The re...",
+          "link": "https://www.youtube.com/shorts/ACBc7fxmIlM",
+          "publishedOn": "2026-09-03T19:52:37.000Z",
+          "wordCount": 4021,
+          "title": "The Strange Geometry of Hyperbolic Surfaces",
+          "imageUrl": "https://i.ytimg.com/vi/ACBc7fxmIlM/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLByEKEgJGQCpodbGrYxHr3E4A4OPQ"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/6L__oKL8Q8w",
+          "author": null,
+          "description": "A host of recent research suggests that traits from a father’s lifestyle - such as diet, stress, and nicotine use - can be passed to his children via sperm. ...",
+          "link": "https://www.youtube.com/shorts/6L__oKL8Q8w",
+          "publishedOn": "2026-08-21T17:14:10.000Z",
+          "wordCount": 4119,
+          "title": "Sperm’s Secret Messages: Beyond DNA",
+          "imageUrl": "https://i.ytimg.com/vi/6L__oKL8Q8w/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD0Br0Cb759Ybz-kpMqlGZJV9OSpQ"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=cSZo8GZIUYI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cSZo8GZIUYI",
+          "publishedOn": "2026-08-20T14:29:22.000Z",
+          "wordCount": null,
+          "title": "Are We Thinking Correctly About AI Intelligence? | PODCAST: The Joy of Why",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/nDcAo0cXl3g",
+          "author": null,
+          "description": "What would it actually take to find intelligent life in the universe — and how would we know when we saw it? Columbia University astronomer David Kipping wei...",
+          "link": "https://www.youtube.com/shorts/nDcAo0cXl3g",
+          "publishedOn": "2026-08-13T15:09:45.000Z",
+          "wordCount": 4002,
+          "title": "Are UFOs Proof of Alien Life?",
+          "imageUrl": "https://i.ytimg.com/vi/nDcAo0cXl3g/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLDOQlEhQUlkShY9136bJBQLCgZNZw"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=RyXzgj7b7xQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RyXzgj7b7xQ",
+          "publishedOn": "2026-08-07T16:54:15.000Z",
+          "wordCount": null,
+          "title": "How Does Touch Lead To Pain Or Pleasure? | PODCAST: The Joy of Why",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/kt3783nSJWs",
+          "author": null,
+          "description": "Strong new evidence suggests that primordial material from the planet’s center is somehow making its way out. Continent-size entities anchored to the core-ma...",
+          "link": "https://www.youtube.com/shorts/kt3783nSJWs",
+          "publishedOn": "2026-08-07T14:54:14.000Z",
+          "wordCount": 3692,
+          "title": "Earth’s Core Is Leaking: Here's the Evidence",
+          "imageUrl": "https://i.ytimg.com/vi/kt3783nSJWs/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCAoxApi9mCDvzK22tpBm-5ZeHkFg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Srcz66KUDbY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Srcz66KUDbY",
+          "publishedOn": "2026-07-23T19:46:37.000Z",
+          "wordCount": null,
+          "title": "How Fast Is the Universe Really Expanding? | PODCAST: The Joy of Why",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/lqOsxjV0UEI",
+          "author": null,
+          "description": "The mathematicians Yu Deng, Zaher Hani, and Xiao Ma solved a major piece of David Hilbert's Sixth Problem, a 125-year-old challenge to place physics on a rig...",
+          "link": "https://www.youtube.com/shorts/lqOsxjV0UEI",
+          "publishedOn": "2026-07-23T15:10:54.000Z",
+          "wordCount": 3718,
+          "title": "The Math That Connects Three Levels of Reality",
+          "imageUrl": "https://i.ytimg.com/vi/lqOsxjV0UEI/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuAL3GA==&rs=AOn4CLAzE1GMG9ByYhSZCkspTP-JAGuTxw"
+        }
+      ]
     },
     {
       "title": "3Blue1Brown",
@@ -27,9 +158,9 @@
           "description": "Part of a monthly series of puzzles: https://momath.org/mindbenders/",
           "link": "https://www.youtube.com/shorts/ausLKMojXaY",
           "publishedOn": "2026-09-25T13:35:02.000Z",
-          "wordCount": 3021,
+          "wordCount": 3363,
           "title": "The Phone Number puzzle",
-          "imageUrl": "https://i.ytimg.com/vi/ausLKMojXaY/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAH95GjJadTSAzkd0rDwAq7B0aohQ"
+          "imageUrl": "https://i.ytimg.com/vi/ausLKMojXaY/sardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLCOcu5xiKZ5hGmZF8M8aHMJo2JOoQ"
         },
         {
           "id": "https://www.youtube.com/shorts/bRQEWPA832A",
@@ -37,7 +168,7 @@
           "description": "Full video: https://youtu.be/Nbwv5wHQoj0",
           "link": "https://www.youtube.com/shorts/bRQEWPA832A",
           "publishedOn": "2026-09-18T17:14:08.000Z",
-          "wordCount": 3334,
+          "wordCount": 3269,
           "title": "The last IMO problem AI could not solve",
           "imageUrl": "https://i.ytimg.com/vi/bRQEWPA832A/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAlhPkP0oc2o0ZizWk3wVCJRFaYqA"
         },
@@ -57,7 +188,7 @@
           "description": "Part of a series of monthly puzzles with MoMath.",
           "link": "https://www.youtube.com/shorts/rYyJm1tD3d0",
           "publishedOn": "2026-08-18T14:54:17.000Z",
-          "wordCount": 3089,
+          "wordCount": 3078,
           "title": "The jumping pegs puzzle",
           "imageUrl": "https://i.ytimg.com/vi/rYyJm1tD3d0/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBG7WSa9pyTAT0FLteUBY9Ptr3QSA"
         },
@@ -67,168 +198,174 @@
           "description": "See all monthly puzzles: https://momath.org/mindbenders/",
           "link": "https://www.youtube.com/shorts/6XPlmCDNLNc",
           "publishedOn": "2026-07-24T15:05:39.000Z",
-          "wordCount": 3201,
+          "wordCount": 3087,
           "title": "The 64 sugar cubes puzzle",
           "imageUrl": "https://i.ytimg.com/vi/6XPlmCDNLNc/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDnlXqvW4BUeJBymR54siUVMevSgQ"
         }
       ]
     },
     {
-      "title": "3D Printing Nerd",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_7aK9PpYTqt08ERh1MewlQ",
-      "siteUrl": "https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ",
+      "title": "Kurzgesagt – In a Nutshell",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
+      "siteUrl": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=f1b-t-Mbrcs",
+          "id": "https://www.youtube.com/watch?v=_y9JuojAIg0",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=f1b-t-Mbrcs",
-          "publishedOn": "2026-10-16T13:00:16.000Z",
+          "link": "https://www.youtube.com/watch?v=_y9JuojAIg0",
+          "publishedOn": "2026-10-08T14:07:00.000Z",
           "wordCount": null,
-          "title": "Scan, Plan, Print: AUTONOMOUS 3D Printing!",
+          "title": "We Finally Know More About Humanity’s First Civilization",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=XS3--jZqQ2g",
+          "id": "https://www.youtube.com/watch?v=ujkD4SxPKOI",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=XS3--jZqQ2g",
-          "publishedOn": "2026-10-09T13:00:21.000Z",
+          "link": "https://www.youtube.com/watch?v=ujkD4SxPKOI",
+          "publishedOn": "2026-10-05T14:58:58.000Z",
           "wordCount": null,
-          "title": "Partial Spools NO LONGER A PROBLEM",
+          "title": "AI Just Crossed the Terrifying Line - Now What?",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=b5MujmmU1NI",
+          "id": "https://www.youtube.com/shorts/b1EMX3wyqCY",
+          "author": null,
+          "description": "Magic mushrooms temporarily change how different parts of your brain communicate, loosening the filters that construct your everyday reality. The result can ...",
+          "link": "https://www.youtube.com/shorts/b1EMX3wyqCY",
+          "publishedOn": "2026-09-28T14:00:34.000Z",
+          "wordCount": 3554,
+          "title": "Your Brain on Magic Mushrooms",
+          "imageUrl": "https://i.ytimg.com/vi/b1EMX3wyqCY/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDj5QQzqiZU7LuT5IWpfYgBdsLlDg"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/oNTaHYXQ4MM",
+          "author": null,
+          "description": "Every month, the uterus builds an entire new layer of tissue, prepares it for a possible pregnancy, then starts all over again. Billions of people experience...",
+          "link": "https://www.youtube.com/shorts/oNTaHYXQ4MM",
+          "publishedOn": "2026-09-26T14:00:11.000Z",
+          "wordCount": 3476,
+          "title": "Humans Can Regrow an Organ",
+          "imageUrl": "https://i.ytimg.com/vi/oNTaHYXQ4MM/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAcNZDQiQDnLBBLXGSoo9X8NG7r2g"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/RQprZZJIb6Y",
+          "author": null,
+          "description": "Every step you take creates tiny electrical signals inside your bones. You’ll never charge your phone with them, but they may help tell your skeleton where i...",
+          "link": "https://www.youtube.com/shorts/RQprZZJIb6Y",
+          "publishedOn": "2026-09-24T17:30:19.000Z",
+          "wordCount": 3804,
+          "title": "Your Skeleton Is Electric",
+          "imageUrl": "https://i.ytimg.com/vi/RQprZZJIb6Y/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAyTrKyg4p9yDu3pykcFAsqq1Y8jg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=QW_jlUn4gA8",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=b5MujmmU1NI",
-          "publishedOn": "2026-10-02T13:00:32.000Z",
+          "link": "https://www.youtube.com/watch?v=QW_jlUn4gA8",
+          "publishedOn": "2026-09-22T14:00:01.000Z",
           "wordCount": null,
-          "title": "ULTRA BRIGHT FILAMENT!",
+          "title": "This Is What a Godlike Civilization Would Look Like",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/shorts/FsSPcLcVUHE",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/FsSPcLcVUHE",
-          "publishedOn": "2026-09-30T19:26:03.000Z",
-          "wordCount": 4497,
-          "title": "PETG FARM REPAIR #3dprinting #prusa #printfarm",
-          "imageUrl": "https://i.ytimg.com/vi/FsSPcLcVUHE/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCb9IqAZh-Ni56ZHXfYnNnipXREvA&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=s_0F2Jner5E",
+          "id": "https://www.youtube.com/watch?v=0NY2gAftzJE",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=s_0F2Jner5E",
-          "publishedOn": "2026-09-25T13:00:12.000Z",
+          "link": "https://www.youtube.com/watch?v=0NY2gAftzJE",
+          "publishedOn": "2026-09-15T14:00:02.000Z",
           "wordCount": null,
-          "title": "3D Printing LIQUID METAL!",
+          "title": "This Woman Cured Her Cancer with an Insane Method",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=xVScUM54CXU",
+          "id": "https://www.youtube.com/shorts/NIifnIP_NnQ",
           "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xVScUM54CXU",
-          "publishedOn": "2026-09-18T13:00:14.000Z",
-          "wordCount": null,
-          "title": "3D Printing ROCKET FUEL!",
-          "imageUrl": null
+          "description": "ADHD medication doesn’t simply give your brain more dopamine. It changes how dopamine signals are processed, making it easier to resist immediate distraction...",
+          "link": "https://www.youtube.com/shorts/NIifnIP_NnQ",
+          "publishedOn": "2026-09-05T14:00:06.000Z",
+          "wordCount": 3468,
+          "title": "How ADHD Medication Works",
+          "imageUrl": "https://i.ytimg.com/vi/NIifnIP_NnQ/sardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLBgzHhjZhDjSt3Mjuov4hjBS6YJrw"
         },
         {
-          "id": "https://www.youtube.com/watch?v=yZ156ysiizc",
+          "id": "https://www.youtube.com/shorts/hiIIGMeMEuE",
           "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yZ156ysiizc",
-          "publishedOn": "2026-09-11T13:00:38.000Z",
-          "wordCount": null,
-          "title": "3D Print Your Own Bluetooth Speaker!",
-          "imageUrl": null
+          "description": "Imagine never having to sleep again. To make it work, we’d need to reset and change a few things and in the end, you might not be human anymore.#kurzgesagt#i...",
+          "link": "https://www.youtube.com/shorts/hiIIGMeMEuE",
+          "publishedOn": "2026-09-03T14:00:25.000Z",
+          "wordCount": 3452,
+          "title": "What If You Never Slept?",
+          "imageUrl": "https://i.ytimg.com/vi/hiIIGMeMEuE/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCESK3gfTvFpqCDaBDOkprgjTr1jw"
         },
         {
-          "id": "https://www.youtube.com/shorts/wXAe-nCngHg",
+          "id": "https://www.youtube.com/shorts/tZ8i1RxGSYM",
           "author": null,
-          "description": "Wekster’s 8 color Hellboy on the Prusa CORE One+ with 8 too Bondtech INDX.",
-          "link": "https://www.youtube.com/shorts/wXAe-nCngHg",
-          "publishedOn": "2026-09-08T20:00:01.000Z",
-          "wordCount": 3759,
-          "title": "INDX HELLBOY! #3dprinting #3dprinted",
-          "imageUrl": "https://i.ytimg.com/vi/wXAe-nCngHg/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCQn_Kt_HWxdjk_IaiOQkdVo5jD_Q&usqp=CCk"
+          "description": "We’re using freshwater faster than nature can replace it, draining some sources beyond recovery. But avoiding water bankruptcy may be surprisingly affordable...",
+          "link": "https://www.youtube.com/shorts/tZ8i1RxGSYM",
+          "publishedOn": "2026-08-31T14:00:04.000Z",
+          "wordCount": 3452,
+          "title": "Can Earth Run Out of Water?",
+          "imageUrl": "https://i.ytimg.com/vi/tZ8i1RxGSYM/sardefault.jpg"
         },
         {
-          "id": "https://www.youtube.com/watch?v=KFVqHUvp-0w",
+          "id": "https://www.youtube.com/shorts/EqkRVbaBxtg",
           "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KFVqHUvp-0w",
-          "publishedOn": "2026-09-04T13:00:32.000Z",
-          "wordCount": null,
-          "title": "I FINALLY Fixed My Master Sword!",
-          "imageUrl": null
+          "description": "Just 10% more gravity doesn’t sound too bad. Until satellites fall from the sky, bridges collapse, planes struggle to fly and earthquakes shake the planet. O...",
+          "link": "https://www.youtube.com/shorts/EqkRVbaBxtg",
+          "publishedOn": "2026-08-29T14:00:15.000Z",
+          "wordCount": 3585,
+          "title": "What If Gravity Was 10% Stronger?",
+          "imageUrl": "https://i.ytimg.com/vi/EqkRVbaBxtg/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCBG0vBLFfvDTiFyTQMKOtZjSs83Q"
         },
         {
-          "id": "https://www.youtube.com/shorts/rxiEUzBFoLM",
+          "id": "https://www.youtube.com/shorts/YqAI0oqtt7w",
           "author": null,
-          "description": "Hey Lenovo, thanks again for the rap laptop to slice things for 3d printing! You all go give @Lenovo a big ol' high five please.3D Printing Nerd Studios POWE...",
-          "link": "https://www.youtube.com/shorts/rxiEUzBFoLM",
-          "publishedOn": "2026-09-03T23:48:29.000Z",
-          "wordCount": 3911,
-          "title": "HOW IS MY THROWING ARM?",
-          "imageUrl": "https://i.ytimg.com/vi/rxiEUzBFoLM/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLBR_dTdQyLI4lMcAJGHoVI1CYwK6g"
+          "description": "Dust is everywhere, but it's not what most people think. Some of it can make you sick, some of it helps rain forests survive, and a tiny fraction is older th...",
+          "link": "https://www.youtube.com/shorts/YqAI0oqtt7w",
+          "publishedOn": "2026-08-27T14:00:06.000Z",
+          "wordCount": 3825,
+          "title": "Dust Is Not What You Think",
+          "imageUrl": "https://i.ytimg.com/vi/YqAI0oqtt7w/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCC6B6Kc6aNpdxoPIDP4V61XjMEqg"
         },
         {
-          "id": "https://www.youtube.com/shorts/dYDZ6jcN7Tk",
+          "id": "https://www.youtube.com/shorts/OKsWuqNjomQ",
           "author": null,
-          "description": "3d printing IS AWESOME",
-          "link": "https://www.youtube.com/shorts/dYDZ6jcN7Tk",
-          "publishedOn": "2026-09-01T20:13:48.000Z",
-          "wordCount": 3587,
-          "title": "3D Printing FOR THE WIN",
-          "imageUrl": "https://i.ytimg.com/vi/dYDZ6jcN7Tk/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuAL3GA==&rs=AOn4CLBXlZLHp6AhMzbRzAcsoijL4plFzQ&usqp=CCk"
+          "description": "Ebola outbreaks can be contained, but ending them is another story. Conflict, fragile healthcare systems, and limited access to vaccines give the virus new c...",
+          "link": "https://www.youtube.com/shorts/OKsWuqNjomQ",
+          "publishedOn": "2026-08-24T14:00:33.000Z",
+          "wordCount": 3737,
+          "title": "Why Ebola Keeps Coming Back",
+          "imageUrl": "https://i.ytimg.com/vi/OKsWuqNjomQ/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuAL3GA==&rs=AOn4CLBp-hcQIcqh48KvORLqricHOPp19A"
         },
         {
-          "id": "https://www.youtube.com/watch?v=AH6fyxOAPxg",
+          "id": "https://www.youtube.com/shorts/IvtsVHzMLwY",
           "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AH6fyxOAPxg",
-          "publishedOn": "2026-08-28T13:00:24.000Z",
-          "wordCount": null,
-          "title": "3D Printing INSIDE a Tormach CNC?",
-          "imageUrl": null
+          "description": "Stress can sharpen your focus, but only up to a point. Beyond that, it starts to impair memory, decision-making, and even your eating habits. Here's where th...",
+          "link": "https://www.youtube.com/shorts/IvtsVHzMLwY",
+          "publishedOn": "2026-08-22T14:00:02.000Z",
+          "wordCount": 3519,
+          "title": "How Stress Changes Your Brain",
+          "imageUrl": "https://i.ytimg.com/vi/IvtsVHzMLwY/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLC26nYD7tjZ43Qq7LgORIPG9gJFeA"
         },
         {
-          "id": "https://www.youtube.com/watch?v=Sg2rR3haohU",
+          "id": "https://www.youtube.com/shorts/w5RZfxQHxyY",
           "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Sg2rR3haohU",
-          "publishedOn": "2026-08-28T02:24:10.000Z",
-          "wordCount": null,
-          "title": "INDX! 8 Tool Prusa CORE One+ (Gen 2)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5yc9OF3yYjk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5yc9OF3yYjk",
-          "publishedOn": "2026-08-21T13:00:28.000Z",
-          "wordCount": null,
-          "title": "AFSD - LARGE METAL 3D PRINTING!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VQhZSSoj6nI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VQhZSSoj6nI",
-          "publishedOn": "2026-08-15T13:00:26.000Z",
-          "wordCount": null,
-          "title": "Is THIS 3D Printer Still Relevant?",
-          "imageUrl": null
+          "description": "Antidepressants don't make people happy overnight. Instead, they slowly change how brain cells communicate, helping worn-down neural circuits recover over ti...",
+          "link": "https://www.youtube.com/shorts/w5RZfxQHxyY",
+          "publishedOn": "2026-08-20T14:00:18.000Z",
+          "wordCount": 3511,
+          "title": "How Antidepressants Work",
+          "imageUrl": "https://i.ytimg.com/vi/w5RZfxQHxyY/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLA0ZLnj8dLH5FRBa8krX2QDZC8d_Q"
         }
       ]
+    },
+    {
+      "title": "Faculty of Khan",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGDanWUzNMbIV11lcNi-yBg",
+      "siteUrl": "https://www.youtube.com/channel/UCGDanWUzNMbIV11lcNi-yBg",
+      "articles": []
     },
     {
       "title": "Adam Neely",
@@ -241,9 +378,9 @@
           "description": "Shredding a 180bpm unison with Button Masher on his latest collab with Sungazer, “Tallinn Massage Chair 🪑 “",
           "link": "https://www.youtube.com/shorts/zNf6_6liDbg",
           "publishedOn": "2026-08-06T18:39:18.000Z",
-          "wordCount": 3168,
+          "wordCount": 3078,
           "title": "180bpm shred",
-          "imageUrl": "https://i.ytimg.com/vi/zNf6_6liDbg/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCSGUe6Gf9J_zakymX2fO8b8Ojhcg&usqp=CCk"
+          "imageUrl": "https://i.ytimg.com/vi/zNf6_6liDbg/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCSGUe6Gf9J_zakymX2fO8b8Ojhcg"
         }
       ]
     },
@@ -285,7 +422,7 @@
           "description": "Last year, I secretly brought a 3D printer on vacation to prove to my wife just how useful 3D printing can be. Unfortunately, my 3D-printed beach hooks broke...",
           "link": "https://www.youtube.com/shorts/w0t_XR9DODQ",
           "publishedOn": "2026-10-13T15:35:58.000Z",
-          "wordCount": 4162,
+          "wordCount": 4662,
           "title": "I Snuck a 3D Printer on Vacation!  #3dprinting #positron",
           "imageUrl": "https://i.ytimg.com/vi/w0t_XR9DODQ/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBlcWFj2X5zBw8deSrJR04LgNAWeQ"
         },
@@ -295,7 +432,7 @@
           "description": "Our neighbors smoke right next to our fresh-air intake, and our ventilation system distributes the smell throughout the entire studio! So I 3D-printed a mass...",
           "link": "https://www.youtube.com/shorts/awt3fLF7HNc",
           "publishedOn": "2026-10-12T14:46:17.000Z",
-          "wordCount": 4181,
+          "wordCount": 4128,
           "title": "I've Got a Smell Problem! #3dprinting  #diy",
           "imageUrl": "https://i.ytimg.com/vi/awt3fLF7HNc/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAKhVFPRUEVD4pzUxBpg9lVMCl_7w"
         },
@@ -322,51 +459,184 @@
       ]
     },
     {
-      "title": "minutephysics",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUHW94eEFW7hkUMVaZz4eDg",
-      "siteUrl": "https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg",
+      "title": "Domain of Science",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxqAWLTk1CmBvZFPzeZMd9A",
+      "siteUrl": "https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A",
       "articles": [
         {
-          "id": "https://www.youtube.com/shorts/31kyER-8dak",
+          "id": "https://www.youtube.com/shorts/K97b2CMjp7M",
           "author": null,
-          "description": "Full Video: https://www.youtube.com/watch?v=zDAE9A_1NA4What if you try to sandwich a cube between two portals?Does the cube disappear?Do the portals bounce o...",
-          "link": "https://www.youtube.com/shorts/31kyER-8dak",
-          "publishedOn": "2026-10-10T19:00:33.000Z",
-          "wordCount": 4239,
-          "title": "What if you try to sandwich a cube between two portals?",
-          "imageUrl": "https://i.ytimg.com/vi/31kyER-8dak/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLDJ31nHM2u5pY78qqEagYHocxWmXA"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4YvnVJRlQQs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4YvnVJRlQQs",
-          "publishedOn": "2026-08-19T14:45:49.000Z",
-          "wordCount": null,
-          "title": "The Wavy Window Paradox",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/bU9xvXyWrdk",
-          "author": null,
-          "description": "How long is a day on the sun? At first might seem like a stupid question.A day is how long it takes the sun to come back overhead.Doesn’t happen on the sun, ...",
-          "link": "https://www.youtube.com/shorts/bU9xvXyWrdk",
-          "publishedOn": "2026-08-11T17:00:01.000Z",
-          "wordCount": 3530,
-          "title": "How long is a day on the sun?",
-          "imageUrl": "https://i.ytimg.com/vi/bU9xvXyWrdk/hq720.jpg?sqp=-oaymwEoCJUDENAFSFryq4qpAxoIARUAAAAAJQAAyEI9AICiQ3gB0AEBuAL3GA==&rs=AOn4CLB3M2aNX3j8meueMKj1WX1HVXW0jw"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sYdXa_yp0fc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sYdXa_yp0fc",
-          "publishedOn": "2026-07-29T17:15:42.000Z",
-          "wordCount": null,
-          "title": "Strings Don't Vibrate The Way You Think",
-          "imageUrl": null
+          "description": "Here's how to draw a cross section of mitochondria.This is how to draw a cross-section of a mitochondria. The first thing you need to know is mitochondria li...",
+          "link": "https://www.youtube.com/shorts/K97b2CMjp7M",
+          "publishedOn": "2026-07-23T18:28:08.000Z",
+          "wordCount": 4202,
+          "title": "how to draw mitochondria  #cellbiology",
+          "imageUrl": "https://i.ytimg.com/vi/K97b2CMjp7M/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLC2s6a9BnJuq8V0JPUYGR9LB2ascQ"
         }
       ]
+    },
+    {
+      "title": "Interesting Engineering",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEuiOszNd6msGgqsD0f9YAQ",
+      "siteUrl": "https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/wnbbmI6JI-Q",
+          "author": null,
+          "description": "Canadian company Planar Motor builds XBots, stainless steel movers that levitate a few millimetres above modular tiles called Flyways and carry products thro...",
+          "link": "https://www.youtube.com/shorts/wnbbmI6JI-Q",
+          "publishedOn": "2026-10-19T16:30:00.000Z",
+          "wordCount": 3809,
+          "title": "How Planar Motor's factory bots float, tilt and rotate on magnets",
+          "imageUrl": "https://i.ytimg.com/vi/wnbbmI6JI-Q/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBCvt058pncalOuDdekfro9UGSMtA"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/GNd304C-B0w",
+          "author": null,
+          "description": "One machine for construction sites, warehouses, and last-mile delivery. How versatile can a robot get?Galileo X may have the answer!Chinese robotics company ...",
+          "link": "https://www.youtube.com/shorts/GNd304C-B0w",
+          "publishedOn": "2026-10-19T14:00:22.000Z",
+          "wordCount": 3985,
+          "title": "What makes Galileo X capable of all-terrain mobility?",
+          "imageUrl": "https://i.ytimg.com/vi/GNd304C-B0w/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBqUKzKBo5V3dnFlD5gGId8nxL98Q"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/m957FBCEVFA",
+          "author": null,
+          "description": "MIT researchers have built SANDO, a flight planner that steers drones through unmapped spaces around moving obstacles it can't predict, backed by a mathemati...",
+          "link": "https://www.youtube.com/shorts/m957FBCEVFA",
+          "publishedOn": "2026-10-16T15:45:09.000Z",
+          "wordCount": 4007,
+          "title": "MIT's new drone planner can dodge moving obstacles",
+          "imageUrl": "https://i.ytimg.com/vi/m957FBCEVFA/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBFoP6xI6qCzgiMLzfg8_QtgX0gFA"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/yhVbXpSeLOE",
+          "author": null,
+          "description": "China has put its first intelligent grain-leveling robot to work at a Sinograin depot in Beijing, taking over one of the dustiest, most exhausting jobs in gr...",
+          "link": "https://www.youtube.com/shorts/yhVbXpSeLOE",
+          "publishedOn": "2026-10-15T18:30:26.000Z",
+          "wordCount": 3796,
+          "title": "China Deploys Grain-Leveling Robots That Do a Three-Day Granary Job in Under a Day",
+          "imageUrl": "https://i.ytimg.com/vi/yhVbXpSeLOE/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBU6ZFmNjU13Z-mL7ObcbBNJ9DWdw"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/eyszzudjU5I",
+          "author": null,
+          "description": "US defence firm Powerus has unveiled Guardian-3, the third generation of its Guardian counter-drone interceptor, at the AUSA 2026 exhibition in Washington, D...",
+          "link": "https://www.youtube.com/shorts/eyszzudjU5I",
+          "publishedOn": "2026-10-14T21:30:31.000Z",
+          "wordCount": 3696,
+          "title": "Powerus Guardian-3: This Drone Interceptor Takes Off Like a Quadcopter",
+          "imageUrl": "https://i.ytimg.com/vi/eyszzudjU5I/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDZjFOEwQQui-Sgwa6U_TDAzLjYFg"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/G5QHRFnApDA",
+          "author": null,
+          "description": "What if everything you thought you knew about wind energy was wrong?Modern offshore turbines stand 260 metres tall, with blades longer than a Boeing 747’s wi...",
+          "link": "https://www.youtube.com/shorts/G5QHRFnApDA",
+          "publishedOn": "2026-10-11T08:07:26.000Z",
+          "wordCount": 4724,
+          "title": "Forget giant turbines: Here are 3 radical new ways we're harvesting wind",
+          "imageUrl": "https://i.ytimg.com/vi/G5QHRFnApDA/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAupeOIyN2Hg2kbJ_BjeG5k-7Gfxw"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YhU0nSWDBcQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YhU0nSWDBcQ",
+          "publishedOn": "2026-10-11T08:00:03.000Z",
+          "wordCount": null,
+          "title": "Alternative wind energy: the most interesting projects right now",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=u41wrkEyHfc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=u41wrkEyHfc",
+          "publishedOn": "2026-09-27T09:00:22.000Z",
+          "wordCount": null,
+          "title": "Could high altitude wind be the answer to consistent energy?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/mgs1GNZ0Blk",
+          "author": null,
+          "description": "Four hundred metres above us, the wind never stops, and almost nobody is using it. 🪁In this video, we look at high-altitude wind power: tethered kites and f...",
+          "link": "https://www.youtube.com/shorts/mgs1GNZ0Blk",
+          "publishedOn": "2026-09-27T09:00:08.000Z",
+          "wordCount": 3976,
+          "title": "Could high altitude wind be the answer to consistent energy?",
+          "imageUrl": "https://i.ytimg.com/vi/mgs1GNZ0Blk/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAgruStgU-bUR_rSquDRvL0Vxd1Hg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Q9ryBuA1oU4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Q9ryBuA1oU4",
+          "publishedOn": "2026-09-22T15:00:23.000Z",
+          "wordCount": null,
+          "title": "Why this company is putting underwater living pods in the Florida Keys",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=p7bJVx1LMk4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=p7bJVx1LMk4",
+          "publishedOn": "2026-09-14T15:00:12.000Z",
+          "wordCount": null,
+          "title": "One Pilot, Six Aircraft: How Fighter Formations Are Changing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=prMM07vjPvM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=prMM07vjPvM",
+          "publishedOn": "2026-09-12T21:07:22.000Z",
+          "wordCount": null,
+          "title": "Why this Canadian company is now drilling for Hydrogen",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=_Wx8LSRLVSI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_Wx8LSRLVSI",
+          "publishedOn": "2026-08-31T15:00:37.000Z",
+          "wordCount": null,
+          "title": "How General Atomics Is Building the Future of Flight",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=UKiAuWgNhH0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UKiAuWgNhH0",
+          "publishedOn": "2026-08-30T10:54:00.000Z",
+          "wordCount": null,
+          "title": "How Australia is turning abandoned gold mines into giant batteries",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/Yz2VL_pZA2Q",
+          "author": null,
+          "description": "Meet the Wuji Hand 2, Wuji Tech's next-generation dexterous hand designed for robot learning, teleoperation, and Physical AI research. With humanlike complia...",
+          "link": "https://www.youtube.com/shorts/Yz2VL_pZA2Q",
+          "publishedOn": "2026-07-24T14:00:39.000Z",
+          "wordCount": 3877,
+          "title": "Wuji Hand 2: The Next Gen of Robotic Dexterity",
+          "imageUrl": "https://i.ytimg.com/vi/Yz2VL_pZA2Q/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAT2TAacXx5n-Ka8kdf3QyRxQkzfQ"
+        }
+      ]
+    },
+    {
+      "title": "Martin Donald",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8bYucAICXmYet8pZ5Ja9Dw",
+      "siteUrl": "https://www.youtube.com/channel/UC8bYucAICXmYet8pZ5Ja9Dw",
+      "articles": []
     },
     {
       "title": "NileRed",
@@ -379,9 +649,9 @@
           "description": "This is one of the machines that I need to make neodymium magnets, and it's actually kind of scary.This is because it can use a ridiculous amount of power to...",
           "link": "https://www.youtube.com/shorts/TVpMka43TFk",
           "publishedOn": "2026-10-16T22:02:57.000Z",
-          "wordCount": 3709,
+          "wordCount": 3521,
           "title": "This magnet machine is scary",
-          "imageUrl": "https://i.ytimg.com/vi/TVpMka43TFk/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCn5hFeFBb9ameJ6HEyroGW01H8Jw"
+          "imageUrl": "https://i.ytimg.com/vi/TVpMka43TFk/sardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLDIKMFkOjlzUKJj4QGR_j893YmD6Q"
         },
         {
           "id": "https://www.youtube.com/shorts/5OcnO7U0VeA",
@@ -389,7 +659,7 @@
           "description": "What I have here is just a bunch of drain cleaner and I'm gonna use it to make some nasty soap. And by nasty, I mean that I'll be using things like celery, O...",
           "link": "https://www.youtube.com/shorts/5OcnO7U0VeA",
           "publishedOn": "2026-08-19T16:34:22.000Z",
-          "wordCount": 3289,
+          "wordCount": 3118,
           "title": "Making nasty soap",
           "imageUrl": "https://i.ytimg.com/vi/5OcnO7U0VeA/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCjQP1Eyn2JH2su4TXy8XJEGMYMNg"
         },
@@ -399,7 +669,7 @@
           "description": "Today I have some nice and shiny mercury metal, and I'm gonna do something that I think is kind of magical.More specifically, I want to make color changing m...",
           "link": "https://www.youtube.com/shorts/K56LuXCQ0ik",
           "publishedOn": "2026-08-10T17:11:42.000Z",
-          "wordCount": 3611,
+          "wordCount": 3236,
           "title": "Making color changing mercury",
           "imageUrl": "https://i.ytimg.com/vi/K56LuXCQ0ik/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA_z8xhUVJqYryBxSDlRqfuItA0eA"
         },
@@ -416,163 +686,6 @@
       ]
     },
     {
-      "title": "Numberphile",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoxcjq-8xIDTYp3uz647V5A",
-      "siteUrl": "https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=Uvy5Cs9FDLg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Uvy5Cs9FDLg",
-          "publishedOn": "2026-10-18T11:00:24.000Z",
-          "wordCount": null,
-          "title": "A New Math Meme - Numberphile",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bAnwMdfcMVw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bAnwMdfcMVw",
-          "publishedOn": "2026-10-15T13:58:59.000Z",
-          "wordCount": null,
-          "title": "No More Heroes - Terence Tao Talks to Numberphile About AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Zh86i_azaQw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Zh86i_azaQw",
-          "publishedOn": "2026-10-14T14:58:55.000Z",
-          "wordCount": null,
-          "title": "The End of Mathematical Mountain Climbing - Numberphile",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/g9Exz_tR-nU",
-          "author": null,
-          "description": "Matt Parker blind ranks five numbers and constants. More links & stuff in full description below ↓↓↓Related videosThe Parker Square (featuring 3051) - https:...",
-          "link": "https://www.youtube.com/shorts/g9Exz_tR-nU",
-          "publishedOn": "2026-10-06T17:08:47.000Z",
-          "wordCount": 3575,
-          "title": "Blind Ranking Numbers (Matt Parker)",
-          "imageUrl": "https://i.ytimg.com/vi/g9Exz_tR-nU/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA0RR9yloZspYxgIe2Mi3C2Id-H0g"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/VydHKLBXdVQ",
-          "author": null,
-          "description": "Catch the full Numberphile video about all this at https://youtu.be/95335U-cUh8 or just check out Numberphile on YouTube",
-          "link": "https://www.youtube.com/shorts/VydHKLBXdVQ",
-          "publishedOn": "2026-10-03T10:24:53.000Z",
-          "wordCount": 3379,
-          "title": "All the Noble Polyhedra #maths #math #animation",
-          "imageUrl": "https://i.ytimg.com/vi/VydHKLBXdVQ/sardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuAL3GA==&rs=AOn4CLBbIXmhpWUbQz87cpiIeeic9DsxCQ"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=95335U-cUh8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=95335U-cUh8",
-          "publishedOn": "2026-10-02T10:41:06.000Z",
-          "wordCount": null,
-          "title": "Big News in Polyhedra - Numberphile",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Mzbtj5nkMXI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Mzbtj5nkMXI",
-          "publishedOn": "2026-09-29T20:05:39.000Z",
-          "wordCount": null,
-          "title": "The Buckmaster Interview (Navier-Stokes) - Numberphile",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9HlIuxnuTKQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9HlIuxnuTKQ",
-          "publishedOn": "2026-09-28T15:42:59.000Z",
-          "wordCount": null,
-          "title": "What now for Mathematics (with 3Blue1Brown) - Numberphile",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/UmuMgA_RxnU",
-          "author": null,
-          "description": "James Grime blind ranks five numbers and constants. More links & stuff in full description below ↓↓↓Related videos1 is not prime: https://youtu.be/IQofiPqhJ_...",
-          "link": "https://www.youtube.com/shorts/UmuMgA_RxnU",
-          "publishedOn": "2026-09-22T12:34:02.000Z",
-          "wordCount": 3401,
-          "title": "Blind Ranking Numbers (James Grime)",
-          "imageUrl": "https://i.ytimg.com/vi/UmuMgA_RxnU/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLC7rAEy--0MfqdPM6FNu0Pntza47Q"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3geDF-DAwpg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3geDF-DAwpg",
-          "publishedOn": "2026-09-18T15:33:48.000Z",
-          "wordCount": null,
-          "title": "SOLVED: Navier-Stokes cracked by AI - Numberphile",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oax6t6Of2WY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oax6t6Of2WY",
-          "publishedOn": "2026-09-16T09:44:00.000Z",
-          "wordCount": null,
-          "title": "The Biggest Gaps Between Primes - Numberphile",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=A020pGO5MBs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=A020pGO5MBs",
-          "publishedOn": "2026-09-04T13:06:35.000Z",
-          "wordCount": null,
-          "title": "The Immortal Kangaroo Sequence - Numberphile",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-mXaU3N9e8Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-mXaU3N9e8Y",
-          "publishedOn": "2026-08-22T14:09:57.000Z",
-          "wordCount": null,
-          "title": "2.685 is (almost) everywhere - Numberphile",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0aTUTxOiRgU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0aTUTxOiRgU",
-          "publishedOn": "2026-08-10T11:59:00.000Z",
-          "wordCount": null,
-          "title": "291 Holes - Numberphile",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oYGBRhS1Ujo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oYGBRhS1Ujo",
-          "publishedOn": "2026-08-05T13:38:04.000Z",
-          "wordCount": null,
-          "title": "Cutting Moons  - Numberphile",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
       "title": "Physics Girl",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7DdEm33SyaTDtWYGO2CwdA",
       "siteUrl": "https://www.youtube.com/channel/UC7DdEm33SyaTDtWYGO2CwdA",
@@ -583,7 +696,7 @@
           "description": "Dianna finally tries the famous lemon battery experiment! You can easily try this at home WITH ADULT SUPERVISION!Support Dianna during her recovery at patreo...",
           "link": "https://www.youtube.com/shorts/mVwSYBMDH_0",
           "publishedOn": "2026-10-18T23:56:47.000Z",
-          "wordCount": 3346,
+          "wordCount": 3349,
           "title": "I Turned a Lemon Into a Battery",
           "imageUrl": "https://i.ytimg.com/vi/mVwSYBMDH_0/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD9FBPWCg3AjFIw7oQ9VsgfQrgdzQ"
         },
@@ -593,7 +706,7 @@
           "description": "Hi everyone,Here is some behind-the-scenes footage of Dianna back when we first moved into her dream office. This video shows how much Dianna's life has chan...",
           "link": "https://www.youtube.com/shorts/Z-qxCB0t6-4",
           "publishedOn": "2026-10-10T22:59:33.000Z",
-          "wordCount": 3628,
+          "wordCount": 3826,
           "title": "I Had No Idea I'd Lose Everything...",
           "imageUrl": "https://i.ytimg.com/vi/Z-qxCB0t6-4/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCrBLABOkCQxZYmb1VWXIpfqqcgRg"
         },
@@ -603,7 +716,7 @@
           "description": "To reach our global goal of being net zero carbon emissions by 2050, we must solve one problem - energy storage. Thank you to Toyota for lending us the #Mira...",
           "link": "https://www.youtube.com/shorts/mQBopx9Cjmc",
           "publishedOn": "2026-09-21T22:14:23.000Z",
-          "wordCount": 3604,
+          "wordCount": 4126,
           "title": "The World’s Biggest “Battery” Isn’t a Battery",
           "imageUrl": "https://i.ytimg.com/vi/mQBopx9Cjmc/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCXHLdzgjXtWpw--UIFvVBOA_PAJQ"
         },
@@ -613,7 +726,7 @@
           "description": "What are time crystals? How do scientists make one on a quantum computer?Support Physics Girl videos → https://www.patreon.com/physicsgirlStock footage provi...",
           "link": "https://www.youtube.com/shorts/AGLE47oRZUk",
           "publishedOn": "2026-09-14T01:56:26.000Z",
-          "wordCount": 3398,
+          "wordCount": 3448,
           "title": "BREAKING: A New Phase of Matter",
           "imageUrl": "https://i.ytimg.com/vi/AGLE47oRZUk/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLAqaPhHn8gctkQXxSsJhpKzR67vgA"
         },
@@ -623,9 +736,9 @@
           "description": "How can you use an infrared camera to see through walls? To inspect the scene of a crime? To catch a thief in hiding?! This cool device attaches to your smar...",
           "link": "https://www.youtube.com/shorts/p7YSGK_V2vM",
           "publishedOn": "2026-09-06T16:23:38.000Z",
-          "wordCount": 3539,
+          "wordCount": 3393,
           "title": "This Camera Sees Minutes Into the Past",
-          "imageUrl": "https://i.ytimg.com/vi/p7YSGK_V2vM/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBQVjx-uuwSd5l_19SdrSucdqhKDw&usqp=CCk"
+          "imageUrl": "https://i.ytimg.com/vi/p7YSGK_V2vM/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBQVjx-uuwSd5l_19SdrSucdqhKDw"
         },
         {
           "id": "https://www.youtube.com/shorts/AKt1O4YpZEs",
@@ -633,9 +746,9 @@
           "description": "This is the winning entry for the 2014 Flame Challenge put on by Alan Alda and the Center for Communicating Science. http://flamechallenge.org Support Physic...",
           "link": "https://www.youtube.com/shorts/AKt1O4YpZEs",
           "publishedOn": "2026-08-23T19:10:36.000Z",
-          "wordCount": 3355,
+          "wordCount": 3559,
           "title": "How Does Light Turn Into Color?",
-          "imageUrl": "https://i.ytimg.com/vi/AKt1O4YpZEs/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCL8jUEHypEH_roAFQcQ3ZVJiUivw&usqp=CCk"
+          "imageUrl": "https://i.ytimg.com/vi/AKt1O4YpZEs/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCL8jUEHypEH_roAFQcQ3ZVJiUivw"
         }
       ]
     },
@@ -724,23 +837,6 @@
       ]
     },
     {
-      "title": "Stuff Made Here",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj1VqrHhDte54oLgPG4xpuQ",
-      "siteUrl": "https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=RpslsMqPFWA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RpslsMqPFWA",
-          "publishedOn": "2026-08-05T22:30:42.000Z",
-          "wordCount": null,
-          "title": "I made an apple peel itself",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
       "title": "Veritasium",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
       "siteUrl": "https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA",
@@ -751,9 +847,9 @@
           "description": "What does it mean to lose weight? When you work out or eat less your overall size decreases. So where does this mass go?",
           "link": "https://www.youtube.com/shorts/6U6Z6pb6ewI",
           "publishedOn": "2026-10-15T13:00:26.000Z",
-          "wordCount": 4171,
+          "wordCount": 3957,
           "title": "When you lose weight where does it go?",
-          "imageUrl": "https://i.ytimg.com/vi/6U6Z6pb6ewI/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCsc3svEgaYCC1gTS664dotCQE_sQ&usqp=CCk"
+          "imageUrl": "https://i.ytimg.com/vi/6U6Z6pb6ewI/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCsc3svEgaYCC1gTS664dotCQE_sQ"
         },
         {
           "id": "https://www.youtube.com/watch?v=NiCgcUTL9_Q",
@@ -771,7 +867,7 @@
           "description": "We demonstrated a crystal lattice of atoms using bubbles.",
           "link": "https://www.youtube.com/shorts/j9p3Sn8ROL4",
           "publishedOn": "2026-10-09T13:00:03.000Z",
-          "wordCount": 3071,
+          "wordCount": 3451,
           "title": "What is edge dislocation?",
           "imageUrl": "https://i.ytimg.com/vi/j9p3Sn8ROL4/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCUtLpbMN2aKqMu1j9tdq0n-SGRxw"
         },
@@ -781,7 +877,7 @@
           "description": "What happens to your body if you eat Teflon from a non-stick pan?#pfas #foreverchemicals",
           "link": "https://www.youtube.com/shorts/IHkp5Kq72ro",
           "publishedOn": "2026-10-01T18:26:42.000Z",
-          "wordCount": 3207,
+          "wordCount": 3201,
           "title": "How Dangerous Are Non-Stick Pans?",
           "imageUrl": "https://i.ytimg.com/vi/IHkp5Kq72ro/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD8Rd7pS15wxdfyh1cZogvR9qBiUg"
         },
@@ -801,9 +897,9 @@
           "description": "Take a balloon and fill it with lots of air. Take another one and fill it with less air. Now connect the two via a valve. What do you think will happen when ...",
           "link": "https://www.youtube.com/shorts/VKlulHwMxgU",
           "publishedOn": "2026-09-24T13:00:24.000Z",
-          "wordCount": 3292,
+          "wordCount": 3297,
           "title": "What happens to these balloons when you open the valve?",
-          "imageUrl": "https://i.ytimg.com/vi/VKlulHwMxgU/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAXhdhYgCgRSoFH22Fc3Xi-5UxWFA"
+          "imageUrl": "https://i.ytimg.com/vi/VKlulHwMxgU/sardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLArzy6EXu3_Hb8BfRCAx4tWGuWxrA"
         },
         {
           "id": "https://www.youtube.com/watch?v=JsBZOcqZerk",
@@ -821,7 +917,7 @@
           "description": "How Jupiter heats its moon, just be stretching and squeezing it.",
           "link": "https://www.youtube.com/shorts/hPoJWjJ9Ao8",
           "publishedOn": "2026-09-18T13:00:00.000Z",
-          "wordCount": 3185,
+          "wordCount": 3222,
           "title": "Heating A Ball Just By Squeezing It",
           "imageUrl": "https://i.ytimg.com/vi/hPoJWjJ9Ao8/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBU4tlR6avnaQYGqmisrfiVuitzDA"
         },
@@ -831,7 +927,7 @@
           "description": "Why is the Smith Chart one of the scariest charts in electrical engineering?We printed the largest one in the world to explain how it works and why it's so t...",
           "link": "https://www.youtube.com/shorts/O3a99HNskNk",
           "publishedOn": "2026-09-10T13:00:12.000Z",
-          "wordCount": 3599,
+          "wordCount": 3295,
           "title": "The Scariest Chart In Engineering",
           "imageUrl": "https://i.ytimg.com/vi/O3a99HNskNk/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCrECWoy6YzTkfpuzpaURzK3RoSkg"
         },
@@ -841,7 +937,7 @@
           "description": "In 2018 football fans were leaving a stadium in Rome. They boarded an escalator down to the metro. Suddenly the machine sprung a fault.Multiple safety system...",
           "link": "https://www.youtube.com/shorts/oR94cicO7xM",
           "publishedOn": "2026-09-06T13:00:26.000Z",
-          "wordCount": 3286,
+          "wordCount": 3994,
           "title": "The Most Dangerous Escalator In Europe",
           "imageUrl": "https://i.ytimg.com/vi/oR94cicO7xM/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDnIImJBDyLUXw9LeeWzEabSW5prA"
         },
@@ -851,9 +947,9 @@
           "description": "A UCLA Physics Professor bet me $10,000 that my video (https://youtu.be/jyQwgBAaBag) about going downwind faster than the wind was wrong.Here's how we proved...",
           "link": "https://www.youtube.com/shorts/F5_G0AHfYhI",
           "publishedOn": "2026-09-02T13:00:04.000Z",
-          "wordCount": 3197,
+          "wordCount": 3270,
           "title": "A Physics Professor Bet Me $10,000 I'm Wrong...",
-          "imageUrl": "https://i.ytimg.com/vi/F5_G0AHfYhI/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA3NrQgdsHUxrhDGsnqyqrISEAN8Q&usqp=CBQ"
+          "imageUrl": "https://i.ytimg.com/vi/F5_G0AHfYhI/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA3NrQgdsHUxrhDGsnqyqrISEAN8Q"
         },
         {
           "id": "https://www.youtube.com/shorts/b3KpFdb1pW8",
@@ -861,9 +957,9 @@
           "description": "There's a flaw in some virtual wallets.We exploited this flaw to steal $10,000 from @mkbhd.Watch the full video to find out how we did it...",
           "link": "https://www.youtube.com/shorts/b3KpFdb1pW8",
           "publishedOn": "2026-08-26T15:00:02.000Z",
-          "wordCount": 3146,
+          "wordCount": 3287,
           "title": "We Took $10,000 From @mkbhd's Locked iPhone",
-          "imageUrl": "https://i.ytimg.com/vi/b3KpFdb1pW8/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCnuWpvdm1CWPWnmcd6Kj4EzFLyNQ"
+          "imageUrl": "https://i.ytimg.com/vi/b3KpFdb1pW8/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCnuWpvdm1CWPWnmcd6Kj4EzFLyNQ&usqp=CCk"
         },
         {
           "id": "https://www.youtube.com/shorts/5U-V0y-fkSw",
@@ -871,9 +967,9 @@
           "description": "In math you can't truly pick things at random because formulas always give the same result.So if we can't pick randomly, how do we select anything in math?",
           "link": "https://www.youtube.com/shorts/5U-V0y-fkSw",
           "publishedOn": "2026-08-24T13:08:34.000Z",
-          "wordCount": 3378,
+          "wordCount": 3120,
           "title": "It's impossible to choose a number at random",
-          "imageUrl": "https://i.ytimg.com/vi/5U-V0y-fkSw/sardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLDeQMw5UtbwmFAK907X5fAYlwrh1Q"
+          "imageUrl": "https://i.ytimg.com/vi/5U-V0y-fkSw/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA-Njf6NCas0IijWyfoNSsS-vezEg"
         },
         {
           "id": "https://www.youtube.com/shorts/nHAFnH3xRl4",
@@ -881,9 +977,9 @@
           "description": "The DNA in twins is (almost) exactly the same. So how could a team of forensic scientists tell which twin committed the crime?There is a way but it has some ...",
           "link": "https://www.youtube.com/shorts/nHAFnH3xRl4",
           "publishedOn": "2026-08-18T11:33:08.000Z",
-          "wordCount": 3642,
+          "wordCount": 3247,
           "title": "Could identical twins commit the perfect crime?",
-          "imageUrl": "https://i.ytimg.com/vi/nHAFnH3xRl4/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBJKwc1VYQub_SkejdvWrgPNwxmrg"
+          "imageUrl": "https://i.ytimg.com/vi/nHAFnH3xRl4/sardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLDqY8rIQOnAc_FoRguQpJybXF1smw"
         },
         {
           "id": "https://www.youtube.com/watch?v=J1WoNuemKOg",
@@ -898,29 +994,159 @@
       ]
     },
     {
-      "title": "Zack Freedman",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUW49KGPezggFi0PGyDvcvg",
-      "siteUrl": "https://www.youtube.com/channel/UCUW49KGPezggFi0PGyDvcvg",
+      "title": "Vsauce",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6nSFpj9HTCZ5t-N3Rm3-HA",
+      "siteUrl": "https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=LfxmMKMc52Q",
+          "id": "https://www.youtube.com/shorts/2McJ8QpzSWo",
           "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LfxmMKMc52Q",
-          "publishedOn": "2026-09-24T13:00:18.000Z",
-          "wordCount": null,
-          "title": "Turn 3D Printing Waste into FREE PROJECTS!",
-          "imageUrl": null
+          "description": "the audio is played at 28:18 here: https://www.c-span.org/program/senate-committee/texas-cult-standoff-day-2/52898source of artist's recreation of waco: http...",
+          "link": "https://www.youtube.com/shorts/2McJ8QpzSWo",
+          "publishedOn": "2026-10-19T23:51:08.000Z",
+          "wordCount": 3341,
+          "title": "The Disturbing Sound The FBI Used At Waco",
+          "imageUrl": "https://i.ytimg.com/vi/2McJ8QpzSWo/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCxLa481Auc4RyB0MllvUNiI_z8Nw"
         },
         {
-          "id": "https://www.youtube.com/watch?v=vBdqbnfvj_A",
+          "id": "https://www.youtube.com/shorts/YIrFd4uVwd4",
           "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vBdqbnfvj_A",
-          "publishedOn": "2026-08-13T14:00:10.000Z",
-          "wordCount": null,
-          "title": "These 3D filaments SHOULD NOT EXIST! Every 3D Filament Part 7",
-          "imageUrl": null
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/YIrFd4uVwd4",
+          "publishedOn": "2026-10-16T20:10:16.000Z",
+          "wordCount": 3206,
+          "title": "POV: I'm Your Trip Sitter",
+          "imageUrl": "https://i.ytimg.com/vi/YIrFd4uVwd4/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLB7oTIvqMumo9pZbkq5JCWGoJqvPg&usqp=CCk"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/Gf_5iqKPbxY",
+          "author": null,
+          "description": "some of my favorite Curiosity Box items (and one NEW one!) are now available individually in our shop 👉 https://www.curiositybox.com/collections/all",
+          "link": "https://www.youtube.com/shorts/Gf_5iqKPbxY",
+          "publishedOn": "2026-10-10T16:56:51.000Z",
+          "wordCount": 3354,
+          "title": "A Spooky Mathematical Coincidence",
+          "imageUrl": "https://i.ytimg.com/vi/Gf_5iqKPbxY/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDVVi5_j-mofyC-I7VRSmEwKe61Mg&usqp=CCk"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/C45inxl6U10",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/C45inxl6U10",
+          "publishedOn": "2026-10-08T00:03:35.000Z",
+          "wordCount": 3261,
+          "title": "The Biggest Hug",
+          "imageUrl": "https://i.ytimg.com/vi/C45inxl6U10/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuAL3GA==&rs=AOn4CLBPZoeY9ei468ZENTb0Yle3olzXtA"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/Pnwuw5UyU0s",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/Pnwuw5UyU0s",
+          "publishedOn": "2026-10-02T23:18:58.000Z",
+          "wordCount": 3387,
+          "title": "Making My Perfect Pencil",
+          "imageUrl": "https://i.ytimg.com/vi/Pnwuw5UyU0s/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCqq_ixMo96dzFpoo0lkgnSWkkeFg"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/kO1ASsAuc1Y",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/kO1ASsAuc1Y",
+          "publishedOn": "2026-09-29T23:17:37.000Z",
+          "wordCount": 3252,
+          "title": "The Ruler Of The Universe",
+          "imageUrl": "https://i.ytimg.com/vi/kO1ASsAuc1Y/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gBovOX_wMOCMqJ8dUGGODqBCDgqAE=&rs=AOn4CLDRuUvnhJYnyQUay8vadtPheXgvmA&usqp=CBU"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/V6HRAcwFyec",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/V6HRAcwFyec",
+          "publishedOn": "2026-09-22T21:42:44.000Z",
+          "wordCount": 3351,
+          "title": "How To Fix ROCK HARD Brown Sugar",
+          "imageUrl": "https://i.ytimg.com/vi/V6HRAcwFyec/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLASeycOe4mxapqZJ0u07mN4gVPjWA"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/Fob38Jo9F_k",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/Fob38Jo9F_k",
+          "publishedOn": "2026-09-20T16:14:03.000Z",
+          "wordCount": 3284,
+          "title": "The Ontological Status of Phenylalanine In Sugar Free Sodas",
+          "imageUrl": "https://i.ytimg.com/vi/Fob38Jo9F_k/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLArTIsA2QY6y19DBPGCpy3CcpCzRw&usqp=CCk"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/4SKpHDjf6_Q",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/4SKpHDjf6_Q",
+          "publishedOn": "2026-09-16T18:43:12.000Z",
+          "wordCount": 3590,
+          "title": "Who Said The First Bad Word On The Moon?",
+          "imageUrl": "https://i.ytimg.com/vi/4SKpHDjf6_Q/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDBhXzWCMz2dfsoTM6sJbyVTAjcsQ"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/Yhg-DtVUO4A",
+          "author": null,
+          "description": "https://www.curiositybox.com/",
+          "link": "https://www.youtube.com/shorts/Yhg-DtVUO4A",
+          "publishedOn": "2026-08-27T23:02:45.000Z",
+          "wordCount": 3245,
+          "title": "The Ambitrope Coin",
+          "imageUrl": "https://i.ytimg.com/vi/Yhg-DtVUO4A/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDr6wMb1NibeS3FE9BBzeTosjbqmw"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/J9Y8TG7luec",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/J9Y8TG7luec",
+          "publishedOn": "2026-08-26T01:03:39.000Z",
+          "wordCount": 3179,
+          "title": "Audio Palindromes",
+          "imageUrl": "https://i.ytimg.com/vi/J9Y8TG7luec/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAzF423wQAEv9extbEmNdicznyBMg"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/i0mqdRGYgbU",
+          "author": null,
+          "description": "Watch @SteveMould  talk about the design of the Singularity Disc: https://www.youtube.com/watch?v=ti2qiU_JTUQGet your own: https://www.metmo.co.uk/collection...",
+          "link": "https://www.youtube.com/shorts/i0mqdRGYgbU",
+          "publishedOn": "2026-08-22T21:51:23.000Z",
+          "wordCount": 3097,
+          "title": "The Singularity Disc",
+          "imageUrl": "https://i.ytimg.com/vi/i0mqdRGYgbU/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBrVWHf5nYP5sLpZw-aRhm3YJAmXw"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/dG7pemDgwmc",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/dG7pemDgwmc",
+          "publishedOn": "2026-08-21T00:44:31.000Z",
+          "wordCount": 3384,
+          "title": "How Many Letters Are In The Answer?",
+          "imageUrl": "https://i.ytimg.com/vi/dG7pemDgwmc/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA7uZlmKl3InjcADQc_LMoLgqZHzA"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/axILrr1GgMs",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/axILrr1GgMs",
+          "publishedOn": "2026-08-17T22:44:35.000Z",
+          "wordCount": 3341,
+          "title": "Some Obscure Sorrows",
+          "imageUrl": "https://i.ytimg.com/vi/axILrr1GgMs/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA6BF872U-B6600nrKvxUlvpvhEcQ&usqp=CCk"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/moKQ4klRARw",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/moKQ4klRARw",
+          "publishedOn": "2026-08-14T20:56:53.000Z",
+          "wordCount": 3082,
+          "title": "I Built A \"Swing Thing\"",
+          "imageUrl": "https://i.ytimg.com/vi/moKQ4klRARw/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuAL3GA==&rs=AOn4CLCtJw4ull7vFVpN_0YhDFOpBJXOmg"
         }
       ]
     },
@@ -935,7 +1161,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/imtpfFn8a0w",
           "publishedOn": "2026-10-18T15:45:15.000Z",
-          "wordCount": 3228,
+          "wordCount": 3698,
           "title": "Episode 182 Alpha Male Cupcakes #recipe #cupcakes #alpha",
           "imageUrl": "https://i.ytimg.com/vi/imtpfFn8a0w/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA-27EeqQF0CI0krtsT36iCHPgiaQ"
         },
@@ -955,9 +1181,9 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/q80Q8bp9Ix8",
           "publishedOn": "2026-08-10T17:31:31.000Z",
-          "wordCount": 3354,
+          "wordCount": 3249,
           "title": "Stop chopping mangos. Do this instead   #mango #chop",
-          "imageUrl": "https://i.ytimg.com/vi/q80Q8bp9Ix8/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuAL3GA==&rs=AOn4CLDW2ae1SyGt7DW45kddrHB1n5v4aA&usqp=CCk"
+          "imageUrl": "https://i.ytimg.com/vi/q80Q8bp9Ix8/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCdo5qapYIlLKdnS10-euGZbviXhQ"
         },
         {
           "id": "https://www.youtube.com/shorts/oEoyLEvepnQ",
@@ -965,9 +1191,9 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/oEoyLEvepnQ",
           "publishedOn": "2026-08-06T16:59:04.000Z",
-          "wordCount": 3157,
+          "wordCount": 3353,
           "title": "How to rehydrate raisins                           #grapes #dehydration",
-          "imageUrl": "https://i.ytimg.com/vi/oEoyLEvepnQ/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLArX2As7xWGpAX0r-Wdn3zWivcX_Q"
+          "imageUrl": "https://i.ytimg.com/vi/oEoyLEvepnQ/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLArX2As7xWGpAX0r-Wdn3zWivcX_Q&usqp=CCk"
         },
         {
           "id": "https://www.youtube.com/shorts/UzCqO-Hwe9Q",
@@ -975,9 +1201,166 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/UzCqO-Hwe9Q",
           "publishedOn": "2026-07-24T21:16:15.000Z",
-          "wordCount": 3396,
+          "wordCount": 3067,
           "title": "NEVER do this when chopping                  #chopping #knifeskills",
           "imageUrl": "https://i.ytimg.com/vi/UzCqO-Hwe9Q/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDek45BYNk8ht8djEZBgELOSB3V_w"
+        }
+      ]
+    },
+    {
+      "title": "Business Insider",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
+      "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/mZwMU7MxG54",
+          "author": null,
+          "description": "------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...",
+          "link": "https://www.youtube.com/shorts/mZwMU7MxG54",
+          "publishedOn": "2026-10-19T23:00:17.000Z",
+          "wordCount": 3652,
+          "title": "This US Army vet was wrongly jailed for 12 days after his car was misidentified on a #Flock camera.",
+          "imageUrl": "https://i.ytimg.com/vi/mZwMU7MxG54/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBi_wp9fqkz3N_eodLchGnoBdNmOQ"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/qPyoIsiYFPM",
+          "author": null,
+          "description": "------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...",
+          "link": "https://www.youtube.com/shorts/qPyoIsiYFPM",
+          "publishedOn": "2026-10-19T19:01:14.000Z",
+          "wordCount": 3582,
+          "title": "Jeff Bezos has a strategy for handling disagreements at work. Here's how it works. #careeradvice",
+          "imageUrl": "https://i.ytimg.com/vi/qPyoIsiYFPM/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDqMJi_girbzT6E3WCISvoTCVhoMQ"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/DJhKrEcwO4s",
+          "author": null,
+          "description": "------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...",
+          "link": "https://www.youtube.com/shorts/DJhKrEcwO4s",
+          "publishedOn": "2026-10-19T12:00:47.000Z",
+          "wordCount": 3401,
+          "title": "Why did #American #driveins disappear? #food #restaurants #bigbusiness",
+          "imageUrl": "https://i.ytimg.com/vi/DJhKrEcwO4s/sardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLCUWczJgg6us3JAvJE0jXQYUPQiTQ"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=inIYXrNOyos",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=inIYXrNOyos",
+          "publishedOn": "2026-10-17T13:00:31.000Z",
+          "wordCount": null,
+          "title": "How A Cruise Ship Operates At The Edge Of The World | Risky Business",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/lbYseMauscw",
+          "author": null,
+          "description": "------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...",
+          "link": "https://www.youtube.com/shorts/lbYseMauscw",
+          "publishedOn": "2026-10-16T22:55:32.000Z",
+          "wordCount": 4810,
+          "title": "Why is Apple's latest ad dividing the #internet? #advertising #tech #marketing",
+          "imageUrl": "https://i.ytimg.com/vi/lbYseMauscw/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDL9mO1q5f6BecMlNPa2ECpWTOzsQ"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ks3zxPg3Cno",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ks3zxPg3Cno",
+          "publishedOn": "2026-10-16T21:29:48.000Z",
+          "wordCount": null,
+          "title": "How Far Can A Human Run In One Day? | Pushing Limits",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/btMTjKpWfTY",
+          "author": null,
+          "description": "------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...",
+          "link": "https://www.youtube.com/shorts/btMTjKpWfTY",
+          "publishedOn": "2026-10-16T20:02:39.000Z",
+          "wordCount": 3879,
+          "title": "Tesla's new flying #Roadster got people talking. But what does the fine print say? #electricvehicles",
+          "imageUrl": "https://i.ytimg.com/vi/btMTjKpWfTY/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBpHsVGbQe0qYkowH7XomcMx7GhsQ"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/Tkd163wdDu0",
+          "author": null,
+          "description": "------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...",
+          "link": "https://www.youtube.com/shorts/Tkd163wdDu0",
+          "publishedOn": "2026-10-16T16:08:51.000Z",
+          "wordCount": 3395,
+          "title": "Families watch as Merchant #Marine Academy candidates take the #oath to become #plebes. #bootcamp",
+          "imageUrl": "https://i.ytimg.com/vi/Tkd163wdDu0/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBgb9xLEc1MR5CWoJsuofV5uHM45Q"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/QyvWmdyM_Jk",
+          "author": null,
+          "description": "------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...",
+          "link": "https://www.youtube.com/shorts/QyvWmdyM_Jk",
+          "publishedOn": "2026-10-16T12:00:21.000Z",
+          "wordCount": 3305,
+          "title": "We flew in a battery-powered #plane. Here's what it felt like. #electricplanes #aviation",
+          "imageUrl": "https://i.ytimg.com/vi/QyvWmdyM_Jk/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBjUGQobH5HB3PxcBTowPTfOXNzag"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/-YWQXMohiM8",
+          "author": null,
+          "description": "------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...",
+          "link": "https://www.youtube.com/shorts/-YWQXMohiM8",
+          "publishedOn": "2026-10-16T03:40:15.000Z",
+          "wordCount": 3545,
+          "title": "#Tesla reveals #Roadster able to drive upside down, launch in air, hit 60 mph in less than 1 second",
+          "imageUrl": "https://i.ytimg.com/vi/-YWQXMohiM8/sardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLAShrrLy3MOtbKHJMbPEYMhj7SjPA"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/VX-gJUvaEAU",
+          "author": null,
+          "description": "------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...",
+          "link": "https://www.youtube.com/shorts/VX-gJUvaEAU",
+          "publishedOn": "2026-10-15T23:00:16.000Z",
+          "wordCount": 3275,
+          "title": "Could #Starbucks and #Chipotle end up under the same corporate roof? #business #stocks #firsttrade",
+          "imageUrl": "https://i.ytimg.com/vi/VX-gJUvaEAU/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCKeYO5hezA9klyXwwDsXFuS5Q7bw"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/RjlmncmhCWs",
+          "author": null,
+          "description": "------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...",
+          "link": "https://www.youtube.com/shorts/RjlmncmhCWs",
+          "publishedOn": "2026-10-15T20:21:31.000Z",
+          "wordCount": 3980,
+          "title": "The intense first hours for candidates at the US Merchant #Marine Academy. #DayZero #bootcamp",
+          "imageUrl": "https://i.ytimg.com/vi/RjlmncmhCWs/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDwm1CPvUi0zXsR6Ey72WNgyOZgiA"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/0DlNvn3sGpQ",
+          "author": null,
+          "description": "------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...",
+          "link": "https://www.youtube.com/shorts/0DlNvn3sGpQ",
+          "publishedOn": "2026-10-15T18:09:02.000Z",
+          "wordCount": 3403,
+          "title": "From one #CEO to another: Why it's important to speak up, even if you are wrong. #Uber #GoDaddy",
+          "imageUrl": "https://i.ytimg.com/vi/0DlNvn3sGpQ/sardefault.jpg?sqp=-oaymwEkCJQDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDhvw4PdXAc98VbZjUeaBpBKW_1lA"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/g5uwHjAjFBc",
+          "author": null,
+          "description": "------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...",
+          "link": "https://www.youtube.com/shorts/g5uwHjAjFBc",
+          "publishedOn": "2026-10-15T16:00:01.000Z",
+          "wordCount": 3302,
+          "title": "What does it mean to be workplace-ready in the age of #AI? #GenZ #workforce #futureofwork",
+          "imageUrl": "https://i.ytimg.com/vi/g5uwHjAjFBc/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBFtt9f8fsTS-iYZA-ak9BRZ3vfHw"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/7Km3Ckm4NG4",
+          "author": null,
+          "description": "------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...",
+          "link": "https://www.youtube.com/shorts/7Km3Ckm4NG4",
+          "publishedOn": "2026-10-14T21:05:08.000Z",
+          "wordCount": 4816,
+          "title": "How did a migrating bird inspire this #electricplane? #travel #aviation #pushinglimits",
+          "imageUrl": "https://i.ytimg.com/vi/7Km3Ckm4NG4/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDFOlICpMwgpcv2fUIT0rfvxaOI-A"
         }
       ]
     },
@@ -1049,10 +1432,128 @@
       ]
     },
     {
-      "title": "Studson Studio",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6u6uY4VbvuNtU0BU7F9olw",
-      "siteUrl": "https://www.youtube.com/channel/UC6u6uY4VbvuNtU0BU7F9olw",
-      "articles": []
+      "title": "ContraPoints",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvsIonJdJ5E4EXMa65VYpA",
+      "siteUrl": "https://www.youtube.com/channel/UCNvsIonJdJ5E4EXMa65VYpA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/g5o-OpVUHF0",
+          "author": null,
+          "description": "My new Tangent \"Liberalism\" is about how discussing politics online is immoral and bad. Also, why I'm such a lib, the immortal science of Marxism-Leninism, t...",
+          "link": "https://www.youtube.com/shorts/g5o-OpVUHF0",
+          "publishedOn": "2026-08-19T15:00:57.000Z",
+          "wordCount": 3469,
+          "title": "Tangent: Liberalism",
+          "imageUrl": "https://i.ytimg.com/vi/g5o-OpVUHF0/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDl9fUbtFWTcqEO6TBBMtmyxUTANg"
+        }
+      ]
+    },
+    {
+      "title": "ElectroBOOM",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ0-OtVpF0wOKEqT2Z1HEtA",
+      "siteUrl": "https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/sjTCGkq7PRk",
+          "author": null,
+          "description": "In the full video there are MANY AI generated crappy posts reviewed on facebook. We need to get this regulated! PUT YOUR NAME ON OUUR PETITION at https://tea...",
+          "link": "https://www.youtube.com/shorts/sjTCGkq7PRk",
+          "publishedOn": "2026-10-10T19:33:29.000Z",
+          "wordCount": 4000,
+          "title": "Never Trust Facebook AI Posts! #lithiumbattery #experiment #test #charger #funnyreels #teamhuman",
+          "imageUrl": "https://i.ytimg.com/vi/sjTCGkq7PRk/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLAFxwHes1s15zCH0EM3ZJHxY3F9gw"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6Uv94zhK9M0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6Uv94zhK9M0",
+          "publishedOn": "2026-10-10T16:00:03.000Z",
+          "wordCount": null,
+          "title": "Facebook is FULL of It 🤬",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Tuxgh8SrzbQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Tuxgh8SrzbQ",
+          "publishedOn": "2026-09-21T16:04:44.000Z",
+          "wordCount": null,
+          "title": "Rage-Fixing the Power Washer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/DWAMwfM2DrM",
+          "author": null,
+          "description": "High frequency electrical energy passes through everything and can cook you!",
+          "link": "https://www.youtube.com/shorts/DWAMwfM2DrM",
+          "publishedOn": "2026-09-05T17:47:30.000Z",
+          "wordCount": 3170,
+          "title": "Electricity Can Pass Through Glass #experiment #science #electrical #funny",
+          "imageUrl": "https://i.ytimg.com/vi/DWAMwfM2DrM/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCJC_HAn49VxEU95eP8ttkMVjtB8w"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/-TvOCDbhCWk",
+          "author": null,
+          "description": "Everything with electricity can be hazardous when the universe gets creative! Plasma Globe is one of them! Checkout the full video for all sort of its dangers!",
+          "link": "https://www.youtube.com/shorts/-TvOCDbhCWk",
+          "publishedOn": "2026-09-01T16:05:09.000Z",
+          "wordCount": 3304,
+          "title": "Plasma Globe Can Be a Fire Hazard #experiment #technology #science #funny",
+          "imageUrl": "https://i.ytimg.com/vi/-TvOCDbhCWk/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLByumziZlFdx5s3pIZWDksHoNrGHg"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/WAeTROAfSTs",
+          "author": null,
+          "description": "Plasma Globe is cool but can be a fire hazard! BEWARE!",
+          "link": "https://www.youtube.com/shorts/WAeTROAfSTs",
+          "publishedOn": "2026-08-30T07:39:10.000Z",
+          "wordCount": 3905,
+          "title": "Why Plasma Runs in the Globe #technology #electrical #science",
+          "imageUrl": "https://i.ytimg.com/vi/WAeTROAfSTs/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDyWir-OYVFrT-mcUQyP6gLf6ax_Q"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=nhbeaHuZMQ0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nhbeaHuZMQ0",
+          "publishedOn": "2026-08-27T16:01:40.000Z",
+          "wordCount": null,
+          "title": "Plasma Globe is a ⚡Shocking⚡🔥Fire Hazard🔥",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Se1NPlfUCss",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Se1NPlfUCss",
+          "publishedOn": "2026-08-09T16:06:22.000Z",
+          "wordCount": null,
+          "title": "Taser Knife Fighting at Open Sauce 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kSPrY4NHqow",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kSPrY4NHqow",
+          "publishedOn": "2026-07-30T16:01:06.000Z",
+          "wordCount": null,
+          "title": "The Sketchiness in GREECE",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/dpNfJm2Ql90",
+          "author": null,
+          "description": "Some techniques make your life easy, just unplug it first.",
+          "link": "https://www.youtube.com/shorts/dpNfJm2Ql90",
+          "publishedOn": "2026-07-26T00:25:38.000Z",
+          "wordCount": 3130,
+          "title": "Mounting a Power Bar #diy #lifehacks #funny #electrical",
+          "imageUrl": "https://i.ytimg.com/vi/dpNfJm2Ql90/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCZjUuCq41BgZwqpwWg_cAa1SiOZA"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
