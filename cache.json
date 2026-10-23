@@ -1,4 +1,409 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "Steve Brunton",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm5mt-A4w61lknZ9lCsZtBw",
+      "siteUrl": "https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=GWuAGTjfRs8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GWuAGTjfRs8",
+          "publishedOn": "2026-10-21T12:00:29.000Z",
+          "wordCount": null,
+          "title": "Jensen's Inequality",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=D-Qy9QfJgQg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=D-Qy9QfJgQg",
+          "publishedOn": "2026-10-16T12:00:09.000Z",
+          "wordCount": null,
+          "title": "Convexity Implies that Local Minima are Global Minima",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=OCXigVQ6r9o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OCXigVQ6r9o",
+          "publishedOn": "2026-10-13T13:00:36.000Z",
+          "wordCount": null,
+          "title": "Activation Functions in Machine Learning",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=41SnCWFtTnU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=41SnCWFtTnU",
+          "publishedOn": "2026-10-05T15:45:34.000Z",
+          "wordCount": null,
+          "title": "Norms are Convex",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=VrdkzCiLe0s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VrdkzCiLe0s",
+          "publishedOn": "2026-09-22T12:30:07.000Z",
+          "wordCount": null,
+          "title": "Dual Space of Supporting Hyperplanes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=l5OUNaVdxqs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=l5OUNaVdxqs",
+          "publishedOn": "2026-09-18T16:15:03.000Z",
+          "wordCount": null,
+          "title": "Convex Functions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=MCE2D6atrzE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MCE2D6atrzE",
+          "publishedOn": "2026-09-15T11:45:13.000Z",
+          "wordCount": null,
+          "title": "Affine Transformations and Convexity",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=npVcj7AJRcg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=npVcj7AJRcg",
+          "publishedOn": "2026-09-08T15:15:15.000Z",
+          "wordCount": null,
+          "title": "Intersections of Convex Sets are Convex",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=SQrPBk6f0GY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SQrPBk6f0GY",
+          "publishedOn": "2026-08-20T13:30:30.000Z",
+          "wordCount": null,
+          "title": "HydroGym: A Reinforcement Learning Platform for Fluid Dynamics",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=eUhnyZ--kGY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eUhnyZ--kGY",
+          "publishedOn": "2026-08-12T14:00:19.000Z",
+          "wordCount": null,
+          "title": "Convex Sets",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Faculty of Khan",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGDanWUzNMbIV11lcNi-yBg",
+      "siteUrl": "https://www.youtube.com/channel/UCGDanWUzNMbIV11lcNi-yBg",
+      "articles": []
+    },
+    {
+      "title": "World Science Festival",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCShHFwKyhcDo3g7hr4f1R8A",
+      "siteUrl": "https://www.youtube.com/channel/UCShHFwKyhcDo3g7hr4f1R8A",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/eDCwZsI9Gs4",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/eDCwZsI9Gs4",
+          "publishedOn": "2026-10-22T14:00:07.000Z",
+          "wordCount": 3390,
+          "title": "Does space mean emptiness? How do you describe it?",
+          "imageUrl": "https://i.ytimg.com/vi/eDCwZsI9Gs4/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBYPNogM3nfRkbvcEbp_7stg1hC_g"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/0qfdVZqQTrs",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/0qfdVZqQTrs",
+          "publishedOn": "2026-10-19T01:48:52.000Z",
+          "wordCount": 4349,
+          "title": "Could special relativity be wrong?",
+          "imageUrl": "https://i.ytimg.com/es/vi/0qfdVZqQTrs/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDXn8bQVEbkfN2YoZV6YHQ2boGLrw&usqp=CCE"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=rf-oSpAJ1PM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rf-oSpAJ1PM",
+          "publishedOn": "2026-10-16T23:00:09.000Z",
+          "wordCount": null,
+          "title": "The Gamble That's Revolutionizing Astronomy | World Science Festival",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=4Go39b2Vq9I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4Go39b2Vq9I",
+          "publishedOn": "2026-10-15T20:00:06.000Z",
+          "wordCount": null,
+          "title": "Will AI Destroy Mathematics? | World Science Festival",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/4nubt6S2Ndk",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/4nubt6S2Ndk",
+          "publishedOn": "2026-10-12T19:00:21.000Z",
+          "wordCount": 3631,
+          "title": "What changed in the 100 years between these equations?",
+          "imageUrl": "https://i.ytimg.com/vi/4nubt6S2Ndk/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLB1KHaC4nWrDCqTSqhFq3cLasAjNg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=HkyAt6gbgVc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HkyAt6gbgVc",
+          "publishedOn": "2026-10-07T16:30:40.000Z",
+          "wordCount": null,
+          "title": "The 2026 Nobel Prize in Physics Explained | World Science Festival",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=PQYFRuZ5phs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PQYFRuZ5phs",
+          "publishedOn": "2026-10-02T23:00:08.000Z",
+          "wordCount": null,
+          "title": "AI Just Changed Mathematics Forever | World Science Festival",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/Kws1jI07E_0",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/Kws1jI07E_0",
+          "publishedOn": "2026-10-02T21:00:36.000Z",
+          "wordCount": 4365,
+          "title": "How did Antarctic ice lead to a math breakthrough?",
+          "imageUrl": "https://i.ytimg.com/vi/Kws1jI07E_0/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCukiZwjjqdgCt9PP1lvcPvSCSJTQ"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/E4qV7qHSGQM",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/E4qV7qHSGQM",
+          "publishedOn": "2026-09-30T01:49:31.000Z",
+          "wordCount": 3286,
+          "title": "Does the universe have any “purpose” or directionality, or is purpose a strictly human construct?",
+          "imageUrl": "https://i.ytimg.com/vi/E4qV7qHSGQM/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAS2CTc2dqrh7wA9BW2R8yM-DpJaQ"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/5aHZ17UBzw8",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/5aHZ17UBzw8",
+          "publishedOn": "2026-09-25T03:06:30.000Z",
+          "wordCount": 3552,
+          "title": "How are physicists rethinking black holes? #briangreene #blackholes #physics",
+          "imageUrl": "https://i.ytimg.com/vi/5aHZ17UBzw8/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDhNELWTwoWvO9CYzBiSPza7siO4Q"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/ETkZNRUHd1A",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/ETkZNRUHd1A",
+          "publishedOn": "2026-09-21T00:36:37.000Z",
+          "wordCount": 3591,
+          "title": "What do religion and conspiracy have in common? #religion #conspiracy #danbrown #briangreene",
+          "imageUrl": "https://i.ytimg.com/vi/ETkZNRUHd1A/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLC9bddUNIdY1Kv7448V4IzMKB4XUg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=FMI74gXa84Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FMI74gXa84Y",
+          "publishedOn": "2026-09-18T21:52:23.000Z",
+          "wordCount": null,
+          "title": "Ask Brian Greene LIVE Q&A | World Science Festival",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/2H1Yv5YVNXA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/2H1Yv5YVNXA",
+          "publishedOn": "2026-09-14T02:15:01.000Z",
+          "wordCount": 3281,
+          "title": "What happens when a famous “impossibility” turns out to be possible?",
+          "imageUrl": "https://i.ytimg.com/vi/2H1Yv5YVNXA/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLALw1v9JqVe63RFJVuVm5f-j7n5SA"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/hSZDDOZMsWA",
+          "author": null,
+          "description": "The first brain cells to die from Alzheimer's sit in the exact region that builds your internal map of the world. Nobel laureate Edvard Moser explains why ge...",
+          "link": "https://www.youtube.com/shorts/hSZDDOZMsWA",
+          "publishedOn": "2026-09-09T19:00:12.000Z",
+          "wordCount": 4688,
+          "title": "Why do Alzheimer's patients get lost so early on?",
+          "imageUrl": "https://i.ytimg.com/vi/hSZDDOZMsWA/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBmBo3nyC9ebGoW4YZI1NzmSOREww"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/j04Zjm-PYTo",
+          "author": null,
+          "description": "What if the brain's internal map is the foundation for far more than navigation? Brian Greene and Edvard Moser explore how the same machinery might underlie ...",
+          "link": "https://www.youtube.com/shorts/j04Zjm-PYTo",
+          "publishedOn": "2026-09-07T19:00:09.000Z",
+          "wordCount": 3318,
+          "title": "Is our sense of space something the brain invents?",
+          "imageUrl": "https://i.ytimg.com/vi/j04Zjm-PYTo/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDp6kDJQjNy8CM9pzvH3YEsRTxQjQ"
+        }
+      ]
+    },
+    {
+      "title": "SmarterEveryDay",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6107grRI4m0o2-emgoDnAA",
+      "siteUrl": "https://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=pXypQ6d_iDg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pXypQ6d_iDg",
+          "publishedOn": "2026-09-26T14:34:03.000Z",
+          "wordCount": null,
+          "title": "INSIDE a Nuclear Reactor Core - Smarter Every Day 317",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vS6HEes8daw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vS6HEes8daw",
+          "publishedOn": "2026-07-26T14:00:36.000Z",
+          "wordCount": null,
+          "title": "The PROBLEM with Capitalism - Smarter Every Day 316",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "ElectroBOOM",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ0-OtVpF0wOKEqT2Z1HEtA",
+      "siteUrl": "https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/sjTCGkq7PRk",
+          "author": null,
+          "description": "In the full video there are MANY AI generated crappy posts reviewed on facebook. We need to get this regulated! PUT YOUR NAME ON OUUR PETITION at https://tea...",
+          "link": "https://www.youtube.com/shorts/sjTCGkq7PRk",
+          "publishedOn": "2026-10-10T19:33:29.000Z",
+          "wordCount": 3180,
+          "title": "Never Trust Facebook AI Posts! #lithiumbattery #experiment #test #charger #funnyreels #teamhuman",
+          "imageUrl": "https://i.ytimg.com/vi/sjTCGkq7PRk/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLAFxwHes1s15zCH0EM3ZJHxY3F9gw"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6Uv94zhK9M0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6Uv94zhK9M0",
+          "publishedOn": "2026-10-10T16:00:03.000Z",
+          "wordCount": null,
+          "title": "Facebook is FULL of It 🤬",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Tuxgh8SrzbQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Tuxgh8SrzbQ",
+          "publishedOn": "2026-09-21T16:04:44.000Z",
+          "wordCount": null,
+          "title": "Rage-Fixing the Power Washer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/DWAMwfM2DrM",
+          "author": null,
+          "description": "High frequency electrical energy passes through everything and can cook you!",
+          "link": "https://www.youtube.com/shorts/DWAMwfM2DrM",
+          "publishedOn": "2026-09-05T17:47:30.000Z",
+          "wordCount": 3222,
+          "title": "Electricity Can Pass Through Glass #experiment #science #electrical #funny",
+          "imageUrl": "https://i.ytimg.com/vi/DWAMwfM2DrM/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCJC_HAn49VxEU95eP8ttkMVjtB8w"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/-TvOCDbhCWk",
+          "author": null,
+          "description": "Everything with electricity can be hazardous when the universe gets creative! Plasma Globe is one of them! Checkout the full video for all sort of its dangers!",
+          "link": "https://www.youtube.com/shorts/-TvOCDbhCWk",
+          "publishedOn": "2026-09-01T16:05:09.000Z",
+          "wordCount": 3189,
+          "title": "Plasma Globe Can Be a Fire Hazard #experiment #technology #science #funny",
+          "imageUrl": "https://i.ytimg.com/vi/-TvOCDbhCWk/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLByumziZlFdx5s3pIZWDksHoNrGHg"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/WAeTROAfSTs",
+          "author": null,
+          "description": "Plasma Globe is cool but can be a fire hazard! BEWARE!",
+          "link": "https://www.youtube.com/shorts/WAeTROAfSTs",
+          "publishedOn": "2026-08-30T07:39:10.000Z",
+          "wordCount": 3222,
+          "title": "Why Plasma Runs in the Globe #technology #electrical #science",
+          "imageUrl": "https://i.ytimg.com/vi/WAeTROAfSTs/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDyWir-OYVFrT-mcUQyP6gLf6ax_Q"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=nhbeaHuZMQ0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nhbeaHuZMQ0",
+          "publishedOn": "2026-08-27T16:01:40.000Z",
+          "wordCount": null,
+          "title": "Plasma Globe is a ⚡Shocking⚡🔥Fire Hazard🔥",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Se1NPlfUCss",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Se1NPlfUCss",
+          "publishedOn": "2026-08-09T16:06:22.000Z",
+          "wordCount": null,
+          "title": "Taser Knife Fighting at Open Sauce 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kSPrY4NHqow",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kSPrY4NHqow",
+          "publishedOn": "2026-07-30T16:01:06.000Z",
+          "wordCount": null,
+          "title": "The Sketchiness in GREECE",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/dpNfJm2Ql90",
+          "author": null,
+          "description": "Some techniques make your life easy, just unplug it first.",
+          "link": "https://www.youtube.com/shorts/dpNfJm2Ql90",
+          "publishedOn": "2026-07-26T00:25:38.000Z",
+          "wordCount": 3054,
+          "title": "Mounting a Power Bar #diy #lifehacks #funny #electrical",
+          "imageUrl": "https://i.ytimg.com/vi/dpNfJm2Ql90/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCZjUuCq41BgZwqpwWg_cAa1SiOZA"
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
