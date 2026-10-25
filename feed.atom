@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-24T02:17:45.977Z</id>
+    <id>urn:2026-10-25T02:05:16.789Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-24T02:17:45.977Z</updated>
+    <updated>2026-10-25T02:05:16.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[My easiest trick to TRY AT HOME!]]></title>
+        <id>https://www.youtube.com/shorts/6KadJS7DbcE</id>
+        <link href="https://www.youtube.com/shorts/6KadJS7DbcE"/>
+        <updated>2026-10-24T21:46:42.000Z</updated>
+        <summary type="html"><![CDATA[This demo comes from Dianna's video "5 weird ways to put out a candle. Do it at home! All you need is a candle, a glass, a soccer ball, and a box.Watch the f...]]></summary>
+        <author>
+            <name>Physics Girl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why do hot objects glow?]]></title>
+        <id>https://www.youtube.com/shorts/YBKuWCA5pug</id>
+        <link href="https://www.youtube.com/shorts/YBKuWCA5pug"/>
+        <updated>2026-10-24T16:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Full video: https://www.youtube.com/watch?v=1pfqIcSydgEA process called "blackbody radiation" makes all objects glow with light of a color depending on their...]]></summary>
+        <author>
+            <name>minutephysics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What If We Cool Down the Sun?]]></title>
+        <id>https://www.youtube.com/shorts/35No369rmq0</id>
+        <link href="https://www.youtube.com/shorts/35No369rmq0"/>
+        <updated>2026-10-24T14:00:15.000Z</updated>
+        <summary type="html"><![CDATA[The sunlight and the heat coming from Sun are essential for nearly all of life on Earth. So, what would happen if we cool down our star by 30%?#kurzgesagt#in...]]></summary>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can you throw this in the tool box?]]></title>
+        <id>https://www.youtube.com/shorts/MMZ0xG7bo3A</id>
+        <link href="https://www.youtube.com/shorts/MMZ0xG7bo3A"/>
+        <updated>2026-10-24T14:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Register for Boombastic 2026:https://boombastic.titansofcnc.com/boom26Join The #1 Manufacturing Social App:https://mfgconnect.com/Get the MFG Connect app her...]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How do ships prepare thousands of miles of #internet #cable before heading out to sea? #bigbusiness]]></title>
+        <id>https://www.youtube.com/shorts/LBSpr4ECVpI</id>
+        <link href="https://www.youtube.com/shorts/LBSpr4ECVpI"/>
+        <updated>2026-10-24T12:00:20.000Z</updated>
+        <summary type="html"><![CDATA[------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Lemon Party                   #lemons #party #nature]]></title>
         <id>https://www.youtube.com/shorts/IarUQl3EOdA</id>
@@ -55,12 +105,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Building a Precision Grinding Wheel]]></title>
+        <id>https://www.youtube.com/shorts/8tFS5ykozW4</id>
+        <link href="https://www.youtube.com/shorts/8tFS5ykozW4"/>
+        <updated>2026-10-23T14:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Register for Boombastic 2026:https://boombastic.titansofcnc.com/boom26Join The #1 Manufacturing Social App:https://mfgconnect.com/Get the MFG Connect app her...]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[3D Printing Animatronic Eyes!]]></title>
         <id>https://www.youtube.com/watch?v=0pM-Vey59PA</id>
         <link href="https://www.youtube.com/watch?v=0pM-Vey59PA"/>
         <updated>2026-10-23T13:00:18.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Properties of Convex Functions]]></title>
+        <id>https://www.youtube.com/watch?v=Ab4WatONh9E</id>
+        <link href="https://www.youtube.com/watch?v=Ab4WatONh9E"/>
+        <updated>2026-10-23T12:00:06.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
@@ -187,6 +256,35 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Lathe Part Programmed FAST]]></title>
+        <id>https://www.youtube.com/shorts/MZCJQiMMi_c</id>
+        <link href="https://www.youtube.com/shorts/MZCJQiMMi_c"/>
+        <updated>2026-10-22T15:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Register for Boombastic 2026:https://boombastic.titansofcnc.com/boom26Join The #1 Manufacturing Social App:https://mfgconnect.com/Get the MFG Connect app her...]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trillion-Dollar Technology Needs High Paid Workers]]></title>
+        <id>https://www.youtube.com/watch?v=A5lkr7z_bxU</id>
+        <link href="https://www.youtube.com/watch?v=A5lkr7z_bxU"/>
+        <updated>2026-10-22T14:00:28.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does space mean emptiness? How do you describe it?]]></title>
+        <id>https://www.youtube.com/shorts/eDCwZsI9Gs4</id>
+        <link href="https://www.youtube.com/shorts/eDCwZsI9Gs4"/>
+        <updated>2026-10-22T14:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Gabriel Akhmad Marin Qalb Ensemble | Ragas Live Fesival 2026]]></title>
         <id>https://www.youtube.com/watch?v=fk_tUiGnC2g</id>
         <link href="https://www.youtube.com/watch?v=fk_tUiGnC2g"/>
@@ -263,6 +361,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Crashing Our Machine On Purpose 😲]]></title>
+        <id>https://www.youtube.com/shorts/VRVbzFHKDaY</id>
+        <link href="https://www.youtube.com/shorts/VRVbzFHKDaY"/>
+        <updated>2026-10-21T14:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Register for Boombastic 2026:https://boombastic.titansofcnc.com/boom26Join The #1 Manufacturing Social App:https://mfgconnect.com/Get the MFG Connect app her...]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AI companies want your work data. Who profits? #AI #workplace #dataprivacy #technology #AIinsider]]></title>
         <id>https://www.youtube.com/shorts/dvg12e4HoUI</id>
         <link href="https://www.youtube.com/shorts/dvg12e4HoUI"/>
@@ -270,6 +378,15 @@
         <summary type="html"><![CDATA[------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...]]></summary>
         <author>
             <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jensen's Inequality]]></title>
+        <id>https://www.youtube.com/watch?v=GWuAGTjfRs8</id>
+        <link href="https://www.youtube.com/watch?v=GWuAGTjfRs8"/>
+        <updated>2026-10-21T12:00:29.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
@@ -313,6 +430,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Wire EDM Running Parts Unattended 👀]]></title>
+        <id>https://www.youtube.com/shorts/1ivM6ftRk1A</id>
+        <link href="https://www.youtube.com/shorts/1ivM6ftRk1A"/>
+        <updated>2026-10-20T15:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Register for Boombastic 2026:https://boombastic.titansofcnc.com/boom26Join The #1 Manufacturing Social App:https://mfgconnect.com/Get the MFG Connect app her...]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Why Build a Digital Twin in the Amazon?]]></title>
         <id>https://www.youtube.com/shorts/0fLanY6WT8A</id>
         <link href="https://www.youtube.com/shorts/0fLanY6WT8A"/>
@@ -320,6 +447,15 @@
         <summary type="html"><![CDATA[How do you see what happens inside a vat of plants and steam? In Brazil's Amazon, Siemens engineers are working with Natura and the Campo Limpo Cooperative t...]]></summary>
         <author>
             <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Secret Behind Mill-Turn CNC Machines]]></title>
+        <id>https://www.youtube.com/watch?v=1M0CKJrzcTI</id>
+        <link href="https://www.youtube.com/watch?v=1M0CKJrzcTI"/>
+        <updated>2026-10-20T14:00:21.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -371,16 +507,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jeff Bezos has a strategy for handling disagreements at work. Here's how it works. #careeradvice]]></title>
-        <id>https://www.youtube.com/shorts/qPyoIsiYFPM</id>
-        <link href="https://www.youtube.com/shorts/qPyoIsiYFPM"/>
-        <updated>2026-10-19T19:01:14.000Z</updated>
-        <summary type="html"><![CDATA[------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...]]></summary>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Planar Motor's factory bots float, tilt and rotate on magnets]]></title>
         <id>https://www.youtube.com/shorts/wnbbmI6JI-Q</id>
         <link href="https://www.youtube.com/shorts/wnbbmI6JI-Q"/>
@@ -398,6 +524,26 @@
         <summary type="html"><![CDATA[One machine for construction sites, warehouses, and last-mile delivery. How versatile can a robot get?Galileo X may have the answer!Chinese robotics company ...]]></summary>
         <author>
             <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machining CRISIS Avoided 😲]]></title>
+        <id>https://www.youtube.com/shorts/ayyUy7Dsqu8</id>
+        <link href="https://www.youtube.com/shorts/ayyUy7Dsqu8"/>
+        <updated>2026-10-19T14:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Register for Boombastic 2026:https://boombastic.titansofcnc.com/boom26Join The #1 Manufacturing Social App:https://mfgconnect.com/Get the MFG Connect app her...]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Could special relativity be wrong?]]></title>
+        <id>https://www.youtube.com/shorts/0qfdVZqQTrs</id>
+        <link href="https://www.youtube.com/shorts/0qfdVZqQTrs"/>
+        <updated>2026-10-19T01:48:52.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>World Science Festival</name>
         </author>
     </entry>
     <entry>
@@ -457,6 +603,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CloudNC Launches Quote Agent 😳]]></title>
+        <id>https://www.youtube.com/shorts/ZNhtd-ZbmYc</id>
+        <link href="https://www.youtube.com/shorts/ZNhtd-ZbmYc"/>
+        <updated>2026-10-18T14:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Learn more about Quote Agent: https://www.cloudnc.com/quote-agentRegister for Boombastic 2026:https://boombastic.titansofcnc.com/boom26Join The #1 Manufactur...]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A New Math Meme - Numberphile]]></title>
         <id>https://www.youtube.com/watch?v=Uvy5Cs9FDLg</id>
         <link href="https://www.youtube.com/watch?v=Uvy5Cs9FDLg"/>
@@ -466,12 +622,41 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How would you machine this part?]]></title>
+        <id>https://www.youtube.com/shorts/DWqSMtrhmeE</id>
+        <link href="https://www.youtube.com/shorts/DWqSMtrhmeE"/>
+        <updated>2026-10-17T14:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Register for Boombastic 2026:https://boombastic.titansofcnc.com/boom26Join The #1 Manufacturing Social App:https://mfgconnect.com/Get the MFG Connect app her...]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["Programming is hard" - Epic Games | reviewing an AI debate w. PRSEK]]></title>
         <id>https://www.youtube.com/watch?v=FPGwrnsl8ss</id>
         <link href="https://www.youtube.com/watch?v=FPGwrnsl8ss"/>
         <updated>2026-10-16T23:38:23.000Z</updated>
         <author>
             <name>Freya Holmér</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Gamble That's Revolutionizing Astronomy | World Science Festival]]></title>
+        <id>https://www.youtube.com/watch?v=rf-oSpAJ1PM</id>
+        <link href="https://www.youtube.com/watch?v=rf-oSpAJ1PM"/>
+        <updated>2026-10-16T23:00:09.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This magnet machine is scary]]></title>
+        <id>https://www.youtube.com/shorts/TVpMka43TFk</id>
+        <link href="https://www.youtube.com/shorts/TVpMka43TFk"/>
+        <updated>2026-10-16T22:02:57.000Z</updated>
+        <summary type="html"><![CDATA[This is one of the machines that I need to make neodymium magnets, and it's actually kind of scary.This is because it can use a ridiculous amount of power to...]]></summary>
+        <author>
+            <name>NileRed</name>
         </author>
     </entry>
     <entry>
@@ -504,12 +689,67 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[I turned a Magikarp card into an amazing sculpture]]></title>
+        <id>https://www.youtube.com/watch?v=FgXl_JHcAvM</id>
+        <link href="https://www.youtube.com/watch?v=FgXl_JHcAvM"/>
+        <updated>2026-10-16T15:00:20.000Z</updated>
+        <author>
+            <name>North of the Border</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Resin 3D Printer Changed My Mind!]]></title>
+        <id>https://www.youtube.com/watch?v=KNnA05QYKB0</id>
+        <link href="https://www.youtube.com/watch?v=KNnA05QYKB0"/>
+        <updated>2026-10-16T14:05:07.000Z</updated>
+        <author>
+            <name>CNC Kitchen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Something I've NEVER Done on a CNC Mill]]></title>
+        <id>https://www.youtube.com/shorts/AQRYU1CCmfU</id>
+        <link href="https://www.youtube.com/shorts/AQRYU1CCmfU"/>
+        <updated>2026-10-16T14:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Register for Boombastic 2026:https://boombastic.titansofcnc.com/boom26Join The #1 Manufacturing Social App:https://mfgconnect.com/Get the MFG Connect app her...]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Can a Robot Arm 3D Print Over Broken Parts?]]></title>
         <id>https://www.youtube.com/watch?v=f1b-t-Mbrcs</id>
         <link href="https://www.youtube.com/watch?v=f1b-t-Mbrcs"/>
         <updated>2026-10-16T13:00:16.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Convexity Implies that Local Minima are Global Minima]]></title>
+        <id>https://www.youtube.com/watch?v=D-Qy9QfJgQg</id>
+        <link href="https://www.youtube.com/watch?v=D-Qy9QfJgQg"/>
+        <updated>2026-10-16T12:00:09.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Does the Fourth Dimension Actually Look Like? | PODCAST: The Joy of Why]]></title>
+        <id>https://www.youtube.com/watch?v=kCh0ynBTyCg</id>
+        <link href="https://www.youtube.com/watch?v=kCh0ynBTyCg"/>
+        <updated>2026-10-15T20:57:55.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will AI Destroy Mathematics? | World Science Festival]]></title>
+        <id>https://www.youtube.com/watch?v=4Go39b2Vq9I</id>
+        <link href="https://www.youtube.com/watch?v=4Go39b2Vq9I"/>
+        <updated>2026-10-15T20:00:06.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
         </author>
     </entry>
     <entry>
@@ -520,6 +760,25 @@
         <summary type="html"><![CDATA[China has put its first intelligent grain-leveling robot to work at a Sinograin depot in Beijing, taking over one of the dustiest, most exhausting jobs in gr...]]></summary>
         <author>
             <name>Interesting Engineering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Peel Grinding?]]></title>
+        <id>https://www.youtube.com/shorts/9QzF1oJX4Yk</id>
+        <link href="https://www.youtube.com/shorts/9QzF1oJX4Yk"/>
+        <updated>2026-10-15T15:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Register for Boombastic 2026:https://boombastic.titansofcnc.com/boom26Join The #1 Manufacturing Social App:https://mfgconnect.com/Get the MFG Connect app her...]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I’ve never seen a Thread Mill that could do this]]></title>
+        <id>https://www.youtube.com/watch?v=9y4W9gfkFo4</id>
+        <link href="https://www.youtube.com/watch?v=9y4W9gfkFo4"/>
+        <updated>2026-10-15T14:00:13.000Z</updated>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -561,12 +820,51 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[End Mill Cuts Like Butter 😲]]></title>
+        <id>https://www.youtube.com/shorts/nYTtOmWt6rM</id>
+        <link href="https://www.youtube.com/shorts/nYTtOmWt6rM"/>
+        <updated>2026-10-14T14:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Register for Boombastic 2026:https://boombastic.titansofcnc.com/boom26Join The #1 Manufacturing Social App:https://mfgconnect.com/Get the MFG Connect app her...]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Snuck a 3D Printer on Vacation!  #3dprinting #positron]]></title>
+        <id>https://www.youtube.com/shorts/w0t_XR9DODQ</id>
+        <link href="https://www.youtube.com/shorts/w0t_XR9DODQ"/>
+        <updated>2026-10-13T15:35:58.000Z</updated>
+        <summary type="html"><![CDATA[Last year, I secretly brought a 3D printer on vacation to prove to my wife just how useful 3D printing can be. Unfortunately, my 3D-printed beach hooks broke...]]></summary>
+        <author>
+            <name>CNC Kitchen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Alpha Male Cupcakes - You Suck at Cooking (episode 182)]]></title>
         <id>https://www.youtube.com/watch?v=mXUG-m6QgKs</id>
         <link href="https://www.youtube.com/watch?v=mXUG-m6QgKs"/>
         <updated>2026-10-13T15:26:04.000Z</updated>
         <author>
             <name>You Suck At Cooking</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The #1 Skill in Machining]]></title>
+        <id>https://www.youtube.com/shorts/1BoPQcCLrfs</id>
+        <link href="https://www.youtube.com/shorts/1BoPQcCLrfs"/>
+        <updated>2026-10-13T15:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Learn more about Quote Agent: https://www.cloudnc.com/quote-agentRegister for Boombastic 2026:https://boombastic.titansofcnc.com/boom26Join The #1 Manufactur...]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Activation Functions in Machine Learning]]></title>
+        <id>https://www.youtube.com/watch?v=OCXigVQ6r9o</id>
+        <link href="https://www.youtube.com/watch?v=OCXigVQ6r9o"/>
+        <updated>2026-10-13T13:00:36.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
@@ -579,12 +877,32 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What changed in the 100 years between these equations?]]></title>
+        <id>https://www.youtube.com/shorts/4nubt6S2Ndk</id>
+        <link href="https://www.youtube.com/shorts/4nubt6S2Ndk"/>
+        <updated>2026-10-12T19:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Insane Engineering of Fiber Optics]]></title>
         <id>https://www.youtube.com/watch?v=NiCgcUTL9_Q</id>
         <link href="https://www.youtube.com/watch?v=NiCgcUTL9_Q"/>
         <updated>2026-10-12T17:11:45.000Z</updated>
         <author>
             <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I've Got a Smell Problem! #3dprinting  #diy]]></title>
+        <id>https://www.youtube.com/shorts/awt3fLF7HNc</id>
+        <link href="https://www.youtube.com/shorts/awt3fLF7HNc"/>
+        <updated>2026-10-12T14:46:17.000Z</updated>
+        <summary type="html"><![CDATA[Our neighbors smoke right next to our fresh-air intake, and our ventilation system distributes the smell throughout the entire studio! So I 3D-printed a mass...]]></summary>
+        <author>
+            <name>CNC Kitchen</name>
         </author>
     </entry>
     <entry>
@@ -614,6 +932,16 @@
         <summary type="html"><![CDATA[Hi everyone,Here is some behind-the-scenes footage of Dianna back when we first moved into her dream office. This video shows how much Dianna's life has chan...]]></summary>
         <author>
             <name>Physics Girl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Never Trust Facebook AI Posts! #lithiumbattery #experiment #test #charger #funnyreels #teamhuman]]></title>
+        <id>https://www.youtube.com/shorts/sjTCGkq7PRk</id>
+        <link href="https://www.youtube.com/shorts/sjTCGkq7PRk"/>
+        <updated>2026-10-10T19:33:29.000Z</updated>
+        <summary type="html"><![CDATA[In the full video there are MANY AI generated crappy posts reviewed on facebook. We need to get this regulated! PUT YOUR NAME ON OUUR PETITION at https://tea...]]></summary>
+        <author>
+            <name>ElectroBOOM</name>
         </author>
     </entry>
     <entry>
@@ -654,6 +982,15 @@
         <summary type="html"><![CDATA[some of my favorite Curiosity Box items (and one NEW one!) are now available individually in our shop 👉 https://www.curiositybox.com/collections/all]]></summary>
         <author>
             <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook is FULL of It 🤬]]></title>
+        <id>https://www.youtube.com/watch?v=6Uv94zhK9M0</id>
+        <link href="https://www.youtube.com/watch?v=6Uv94zhK9M0"/>
+        <updated>2026-10-10T16:00:03.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
         </author>
     </entry>
     <entry>
@@ -723,6 +1060,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The 2026 Nobel Prize in Physics Explained | World Science Festival]]></title>
+        <id>https://www.youtube.com/watch?v=HkyAt6gbgVc</id>
+        <link href="https://www.youtube.com/watch?v=HkyAt6gbgVc"/>
+        <updated>2026-10-07T16:30:40.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Blind Ranking Numbers (Matt Parker)]]></title>
         <id>https://www.youtube.com/shorts/g9Exz_tR-nU</id>
         <link href="https://www.youtube.com/shorts/g9Exz_tR-nU"/>
@@ -730,6 +1076,15 @@
         <summary type="html"><![CDATA[Matt Parker blind ranks five numbers and constants. More links & stuff in full description below ↓↓↓Related videosThe Parker Square (featuring 3051) - https:...]]></summary>
         <author>
             <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slow-motion frogs are goofier than I expected]]></title>
+        <id>https://www.youtube.com/watch?v=FR6z3y3d8Ag</id>
+        <link href="https://www.youtube.com/watch?v=FR6z3y3d8Ag"/>
+        <updated>2026-10-06T10:00:17.000Z</updated>
+        <author>
+            <name>AlphaPhoenix</name>
         </author>
     </entry>
     <entry>
@@ -749,6 +1104,15 @@
         <summary type="html"><![CDATA[Full conversation: https://www.youtube.com/live/yqU_f7deBwc?si=60g-T8DQU7a5o50p💖 Patreon ❱ https://www.patreon.com/acegikmo🐦 Twitter ❱ https://twitter.com/...]]></summary>
         <author>
             <name>Freya Holmér</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Norms are Convex]]></title>
+        <id>https://www.youtube.com/watch?v=41SnCWFtTnU</id>
+        <link href="https://www.youtube.com/watch?v=41SnCWFtTnU"/>
+        <updated>2026-10-05T15:45:34.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
@@ -799,6 +1163,34 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AI Just Changed Mathematics Forever | World Science Festival]]></title>
+        <id>https://www.youtube.com/watch?v=PQYFRuZ5phs</id>
+        <link href="https://www.youtube.com/watch?v=PQYFRuZ5phs"/>
+        <updated>2026-10-02T23:00:08.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How did Antarctic ice lead to a math breakthrough?]]></title>
+        <id>https://www.youtube.com/shorts/Kws1jI07E_0</id>
+        <link href="https://www.youtube.com/shorts/Kws1jI07E_0"/>
+        <updated>2026-10-02T21:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I made a realistic Skulltula]]></title>
+        <id>https://www.youtube.com/watch?v=_c6ofafyIS8</id>
+        <link href="https://www.youtube.com/watch?v=_c6ofafyIS8"/>
+        <updated>2026-10-02T15:00:13.000Z</updated>
+        <author>
+            <name>North of the Border</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ULTRA BRIGHT FILAMENT!]]></title>
         <id>https://www.youtube.com/watch?v=b5MujmmU1NI</id>
         <link href="https://www.youtube.com/watch?v=b5MujmmU1NI"/>
@@ -814,6 +1206,16 @@
         <updated>2026-10-02T10:41:06.000Z</updated>
         <author>
             <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did Intelligence Evolve Twice?]]></title>
+        <id>https://www.youtube.com/shorts/A7rcskyIXqk</id>
+        <link href="https://www.youtube.com/shorts/A7rcskyIXqk"/>
+        <updated>2026-10-01T21:01:27.000Z</updated>
+        <summary type="html"><![CDATA[A group of international studies comparing brain development in birds and mammals suggests that vertebrate intelligence evolved independently, multiple times...]]></summary>
+        <author>
+            <name>Quanta Magazine</name>
         </author>
     </entry>
     <entry>
@@ -846,6 +1248,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Does the universe have any “purpose” or directionality, or is purpose a strictly human construct?]]></title>
+        <id>https://www.youtube.com/shorts/E4qV7qHSGQM</id>
+        <link href="https://www.youtube.com/shorts/E4qV7qHSGQM"/>
+        <updated>2026-09-30T01:49:31.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Ruler Of The Universe]]></title>
         <id>https://www.youtube.com/shorts/kO1ASsAuc1Y</id>
         <link href="https://www.youtube.com/shorts/kO1ASsAuc1Y"/>
@@ -871,6 +1283,15 @@
         <updated>2026-09-29T02:59:58.000Z</updated>
         <author>
             <name>Freya Holmér</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[4K] Watch the FIRST Orbital Starship Mission!!!]]></title>
+        <id>https://www.youtube.com/watch?v=LeKY53pwArw</id>
+        <link href="https://www.youtube.com/watch?v=LeKY53pwArw"/>
+        <updated>2026-09-28T16:48:34.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
         </author>
     </entry>
     <entry>
@@ -940,6 +1361,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Genius Reason Why SpaceX Deleted A Grid Fin]]></title>
+        <id>https://www.youtube.com/watch?v=suZNTDISXKw</id>
+        <link href="https://www.youtube.com/watch?v=suZNTDISXKw"/>
+        <updated>2026-09-25T16:59:57.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Phone Number puzzle]]></title>
         <id>https://www.youtube.com/shorts/ausLKMojXaY</id>
         <link href="https://www.youtube.com/shorts/ausLKMojXaY"/>
@@ -956,6 +1386,16 @@
         <updated>2026-09-25T13:00:12.000Z</updated>
         <author>
             <name>3D Printing Nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How are physicists rethinking black holes? #briangreene #blackholes #physics]]></title>
+        <id>https://www.youtube.com/shorts/5aHZ17UBzw8</id>
+        <link href="https://www.youtube.com/shorts/5aHZ17UBzw8"/>
+        <updated>2026-09-25T03:06:30.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>World Science Festival</name>
         </author>
     </entry>
     <entry>
@@ -1026,6 +1466,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dual Space of Supporting Hyperplanes]]></title>
+        <id>https://www.youtube.com/watch?v=VrdkzCiLe0s</id>
+        <link href="https://www.youtube.com/watch?v=VrdkzCiLe0s"/>
+        <updated>2026-09-22T12:30:07.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The World’s Biggest “Battery” Isn’t a Battery]]></title>
         <id>https://www.youtube.com/shorts/mQBopx9Cjmc</id>
         <link href="https://www.youtube.com/shorts/mQBopx9Cjmc"/>
@@ -1036,12 +1485,40 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Where Does the Quantum World End and Ours Begin? | PODCAST: The Joy of Why]]></title>
+        <id>https://www.youtube.com/watch?v=1rqpS2WAb0o</id>
+        <link href="https://www.youtube.com/watch?v=1rqpS2WAb0o"/>
+        <updated>2026-09-21T20:53:27.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Insane Real Engineering of the Nazi Enigma Machine]]></title>
         <id>https://www.youtube.com/watch?v=JsBZOcqZerk</id>
         <link href="https://www.youtube.com/watch?v=JsBZOcqZerk"/>
         <updated>2026-09-21T17:49:57.000Z</updated>
         <author>
             <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rage-Fixing the Power Washer]]></title>
+        <id>https://www.youtube.com/watch?v=Tuxgh8SrzbQ</id>
+        <link href="https://www.youtube.com/watch?v=Tuxgh8SrzbQ"/>
+        <updated>2026-09-21T16:04:44.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What do religion and conspiracy have in common? #religion #conspiracy #danbrown #briangreene]]></title>
+        <id>https://www.youtube.com/shorts/ETkZNRUHd1A</id>
+        <link href="https://www.youtube.com/shorts/ETkZNRUHd1A"/>
+        <updated>2026-09-21T00:36:37.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>World Science Festival</name>
         </author>
     </entry>
     <entry>
@@ -1064,6 +1541,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ask Brian Greene LIVE Q&A | World Science Festival]]></title>
+        <id>https://www.youtube.com/watch?v=FMI74gXa84Y</id>
+        <link href="https://www.youtube.com/watch?v=FMI74gXa84Y"/>
+        <updated>2026-09-18T21:52:23.000Z</updated>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The last IMO problem AI could not solve]]></title>
         <id>https://www.youtube.com/shorts/bRQEWPA832A</id>
         <link href="https://www.youtube.com/shorts/bRQEWPA832A"/>
@@ -1083,12 +1569,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Convex Functions]]></title>
+        <id>https://www.youtube.com/watch?v=l5OUNaVdxqs</id>
+        <link href="https://www.youtube.com/watch?v=l5OUNaVdxqs"/>
+        <updated>2026-09-18T16:15:03.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SOLVED: Navier-Stokes cracked by AI - Numberphile]]></title>
         <id>https://www.youtube.com/watch?v=3geDF-DAwpg</id>
         <link href="https://www.youtube.com/watch?v=3geDF-DAwpg"/>
         <updated>2026-09-18T15:33:48.000Z</updated>
         <author>
             <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I made a totally normal Living Room]]></title>
+        <id>https://www.youtube.com/watch?v=zlEtNtozHVQ</id>
+        <link href="https://www.youtube.com/watch?v=zlEtNtozHVQ"/>
+        <updated>2026-09-18T15:00:13.000Z</updated>
+        <author>
+            <name>North of the Border</name>
         </author>
     </entry>
     <entry>
@@ -1108,6 +1612,15 @@
         <summary type="html"><![CDATA[How Jupiter heats its moon, just be stretching and squeezing it.]]></summary>
         <author>
             <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Navier-Stokes Pushes Math and Physics to the Edge]]></title>
+        <id>https://www.youtube.com/watch?v=PsWR1rQEWYo</id>
+        <link href="https://www.youtube.com/watch?v=PsWR1rQEWYo"/>
+        <updated>2026-09-17T19:30:46.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
         </author>
     </entry>
     <entry>
@@ -1148,6 +1661,34 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Affine Transformations and Convexity]]></title>
+        <id>https://www.youtube.com/watch?v=MCE2D6atrzE</id>
+        <link href="https://www.youtube.com/watch?v=MCE2D6atrzE"/>
+        <updated>2026-09-15T11:45:13.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Does Majoras Mask Feel Like That?]]></title>
+        <id>https://www.youtube.com/watch?v=LAW67ibikSA</id>
+        <link href="https://www.youtube.com/watch?v=LAW67ibikSA"/>
+        <updated>2026-09-14T17:52:50.000Z</updated>
+        <author>
+            <name>Internet Pitstop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What happens when a famous “impossibility” turns out to be possible?]]></title>
+        <id>https://www.youtube.com/shorts/2H1Yv5YVNXA</id>
+        <link href="https://www.youtube.com/shorts/2H1Yv5YVNXA"/>
+        <updated>2026-09-14T02:15:01.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[BREAKING: A New Phase of Matter]]></title>
         <id>https://www.youtube.com/shorts/AGLE47oRZUk</id>
         <link href="https://www.youtube.com/shorts/AGLE47oRZUk"/>
@@ -1155,6 +1696,15 @@
         <summary type="html"><![CDATA[What are time crystals? How do scientists make one on a quantum computer?Support Physics Girl videos → https://www.patreon.com/physicsgirlStock footage provi...]]></summary>
         <author>
             <name>Physics Girl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why did Nobody Make this Before? SUNLU i10 Dry Cabinet]]></title>
+        <id>https://www.youtube.com/watch?v=bYWatIh1LzQ</id>
+        <link href="https://www.youtube.com/watch?v=bYWatIh1LzQ"/>
+        <updated>2026-09-12T16:10:20.000Z</updated>
+        <author>
+            <name>CNC Kitchen</name>
         </author>
     </entry>
     <entry>
@@ -1186,6 +1736,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Why do Alzheimer's patients get lost so early on?]]></title>
+        <id>https://www.youtube.com/shorts/hSZDDOZMsWA</id>
+        <link href="https://www.youtube.com/shorts/hSZDDOZMsWA"/>
+        <updated>2026-09-09T19:00:12.000Z</updated>
+        <summary type="html"><![CDATA[The first brain cells to die from Alzheimer's sit in the exact region that builds your internal map of the world. Nobel laureate Edvard Moser explains why ge...]]></summary>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[INDX HELLBOY! #3dprinting #3dprinted]]></title>
         <id>https://www.youtube.com/shorts/wXAe-nCngHg</id>
         <link href="https://www.youtube.com/shorts/wXAe-nCngHg"/>
@@ -1196,6 +1756,25 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Intersections of Convex Sets are Convex]]></title>
+        <id>https://www.youtube.com/watch?v=npVcj7AJRcg</id>
+        <link href="https://www.youtube.com/watch?v=npVcj7AJRcg"/>
+        <updated>2026-09-08T15:15:15.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is our sense of space something the brain invents?]]></title>
+        <id>https://www.youtube.com/shorts/j04Zjm-PYTo</id>
+        <link href="https://www.youtube.com/shorts/j04Zjm-PYTo"/>
+        <updated>2026-09-07T19:00:09.000Z</updated>
+        <summary type="html"><![CDATA[What if the brain's internal map is the foundation for far more than navigation? Brian Greene and Edvard Moser explore how the same machinery might underlie ...]]></summary>
+        <author>
+            <name>World Science Festival</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[This Camera Sees Minutes Into the Past]]></title>
         <id>https://www.youtube.com/shorts/p7YSGK_V2vM</id>
         <link href="https://www.youtube.com/shorts/p7YSGK_V2vM"/>
@@ -1203,6 +1782,15 @@
         <summary type="html"><![CDATA[How can you use an infrared camera to see through walls? To inspect the scene of a crime? To catch a thief in hiding?! This cool device attaches to your smar...]]></summary>
         <author>
             <name>Physics Girl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Tested Two 3D Scanners: One Is Simply Better!]]></title>
+        <id>https://www.youtube.com/watch?v=6Pe7mMFp9Go</id>
+        <link href="https://www.youtube.com/watch?v=6Pe7mMFp9Go"/>
+        <updated>2026-09-06T15:33:38.000Z</updated>
+        <author>
+            <name>CNC Kitchen</name>
         </author>
     </entry>
     <entry>
@@ -1225,6 +1813,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Electricity Can Pass Through Glass #experiment #science #electrical #funny]]></title>
+        <id>https://www.youtube.com/shorts/DWAMwfM2DrM</id>
+        <link href="https://www.youtube.com/shorts/DWAMwfM2DrM"/>
+        <updated>2026-09-05T17:47:30.000Z</updated>
+        <summary type="html"><![CDATA[High frequency electrical energy passes through everything and can cook you!]]></summary>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How ADHD Medication Works]]></title>
         <id>https://www.youtube.com/shorts/NIifnIP_NnQ</id>
         <link href="https://www.youtube.com/shorts/NIifnIP_NnQ"/>
@@ -1232,6 +1830,15 @@
         <summary type="html"><![CDATA[ADHD medication doesn’t simply give your brain more dopamine. It changes how dopamine signals are processed, making it easier to resist immediate distraction...]]></summary>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Math For in the Age of AI? - Live from ICM 2026 | PODCAST: The Joy of Why]]></title>
+        <id>https://www.youtube.com/watch?v=IXwrLMtuv4Q</id>
+        <link href="https://www.youtube.com/watch?v=IXwrLMtuv4Q"/>
+        <updated>2026-09-04T22:59:35.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
         </author>
     </entry>
     <entry>
@@ -1273,6 +1880,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Strange Geometry of Hyperbolic Surfaces]]></title>
+        <id>https://www.youtube.com/shorts/ACBc7fxmIlM</id>
+        <link href="https://www.youtube.com/shorts/ACBc7fxmIlM"/>
+        <updated>2026-09-03T19:52:37.000Z</updated>
+        <summary type="html"><![CDATA[A powerful new proof extends the late Maryam Mirzakhani’s work on hyperbolic surfaces, showing that most of them have an important geometric property. The re...]]></summary>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What If You Never Slept?]]></title>
         <id>https://www.youtube.com/shorts/hiIIGMeMEuE</id>
         <link href="https://www.youtube.com/shorts/hiIIGMeMEuE"/>
@@ -1303,6 +1920,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Plasma Globe Can Be a Fire Hazard #experiment #technology #science #funny]]></title>
+        <id>https://www.youtube.com/shorts/-TvOCDbhCWk</id>
+        <link href="https://www.youtube.com/shorts/-TvOCDbhCWk"/>
+        <updated>2026-09-01T16:05:09.000Z</updated>
+        <summary type="html"><![CDATA[Everything with electricity can be hazardous when the universe gets creative! Plasma Globe is one of them! Checkout the full video for all sort of its dangers!]]></summary>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Hidden Dimensions Behind Every Move You Make]]></title>
         <id>https://www.youtube.com/watch?v=gAm5Athct6Y</id>
         <link href="https://www.youtube.com/watch?v=gAm5Athct6Y"/>
@@ -1322,6 +1949,25 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Watch SpaceX launch NASA's flagship Nancy Grace Roman Space Telescope on a Falcon Heavy!]]></title>
+        <id>https://www.youtube.com/watch?v=J6Ww6kQN4Qw</id>
+        <link href="https://www.youtube.com/watch?v=J6Ww6kQN4Qw"/>
+        <updated>2026-08-30T12:25:17.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Plasma Runs in the Globe #technology #electrical #science]]></title>
+        <id>https://www.youtube.com/shorts/WAeTROAfSTs</id>
+        <link href="https://www.youtube.com/shorts/WAeTROAfSTs"/>
+        <updated>2026-08-30T07:39:10.000Z</updated>
+        <summary type="html"><![CDATA[Plasma Globe is cool but can be a fire hazard! BEWARE!]]></summary>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NASA’s Next Monster Telescope]]></title>
         <id>https://www.youtube.com/watch?v=rCM6dvK2Hjg</id>
         <link href="https://www.youtube.com/watch?v=rCM6dvK2Hjg"/>
@@ -1338,6 +1984,24 @@
         <summary type="html"><![CDATA[Just 10% more gravity doesn’t sound too bad. Until satellites fall from the sky, bridges collapse, planes struggle to fly and earthquakes shake the planet. O...]]></summary>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why NASA's new Roman Space Telescope is a huge deal]]></title>
+        <id>https://www.youtube.com/watch?v=nUlUa2zJXh4</id>
+        <link href="https://www.youtube.com/watch?v=nUlUa2zJXh4"/>
+        <updated>2026-08-28T18:01:14.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turning a block of clay into a massive Space Marine]]></title>
+        <id>https://www.youtube.com/watch?v=cX-oghduwzA</id>
+        <link href="https://www.youtube.com/watch?v=cX-oghduwzA"/>
+        <updated>2026-08-28T15:00:36.000Z</updated>
+        <author>
+            <name>North of the Border</name>
         </author>
     </entry>
     <entry>
@@ -1366,6 +2030,15 @@
         <summary type="html"><![CDATA[https://www.curiositybox.com/]]></summary>
         <author>
             <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plasma Globe is a ⚡Shocking⚡🔥Fire Hazard🔥]]></title>
+        <id>https://www.youtube.com/watch?v=nhbeaHuZMQ0</id>
+        <link href="https://www.youtube.com/watch?v=nhbeaHuZMQ0"/>
+        <updated>2026-08-27T16:01:40.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
         </author>
     </entry>
     <entry>
@@ -1457,13 +2130,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Stress Changes Your Brain]]></title>
-        <id>https://www.youtube.com/shorts/IvtsVHzMLwY</id>
-        <link href="https://www.youtube.com/shorts/IvtsVHzMLwY"/>
-        <updated>2026-08-22T14:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Stress can sharpen your focus, but only up to a point. Beyond that, it starts to impair memory, decision-making, and even your eating habits. Here's where th...]]></summary>
+        <title type="html"><![CDATA[Sperm’s Secret Messages: Beyond DNA]]></title>
+        <id>https://www.youtube.com/shorts/6L__oKL8Q8w</id>
+        <link href="https://www.youtube.com/shorts/6L__oKL8Q8w"/>
+        <updated>2026-08-21T17:14:10.000Z</updated>
+        <summary type="html"><![CDATA[A host of recent research suggests that traits from a father’s lifestyle - such as diet, stress, and nicotine use - can be passed to his children via sperm. ...]]></summary>
         <author>
-            <name>Kurzgesagt – In a Nutshell</name>
+            <name>Quanta Magazine</name>
         </author>
     </entry>
     <entry>
@@ -1483,6 +2156,34 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Vsauce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are We Thinking Correctly About AI Intelligence? | PODCAST: The Joy of Why]]></title>
+        <id>https://www.youtube.com/watch?v=cSZo8GZIUYI</id>
+        <link href="https://www.youtube.com/watch?v=cSZo8GZIUYI"/>
+        <updated>2026-08-20T14:29:22.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HydroGym: A Reinforcement Learning Platform for Fluid Dynamics]]></title>
+        <id>https://www.youtube.com/watch?v=SQrPBk6f0GY</id>
+        <link href="https://www.youtube.com/watch?v=SQrPBk6f0GY"/>
+        <updated>2026-08-20T13:30:30.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making nasty soap]]></title>
+        <id>https://www.youtube.com/shorts/5OcnO7U0VeA</id>
+        <link href="https://www.youtube.com/shorts/5OcnO7U0VeA"/>
+        <updated>2026-08-19T16:34:22.000Z</updated>
+        <summary type="html"><![CDATA[What I have here is just a bunch of drain cleaner and I'm gonna use it to make some nasty soap. And by nasty, I mean that I'll be using things like celery, O...]]></summary>
+        <author>
+            <name>NileRed</name>
         </author>
     </entry>
     <entry>
@@ -1525,12 +2226,49 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Inside Starlab, a MASSIVE commercial Space Station!]]></title>
+        <id>https://www.youtube.com/watch?v=FQpSAWGgL7k</id>
+        <link href="https://www.youtube.com/watch?v=FQpSAWGgL7k"/>
+        <updated>2026-08-14T16:59:57.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I made a bathroom but it's... unsettling]]></title>
+        <id>https://www.youtube.com/watch?v=Ehk9BXpAmak</id>
+        <link href="https://www.youtube.com/watch?v=Ehk9BXpAmak"/>
+        <updated>2026-08-14T15:00:10.000Z</updated>
+        <author>
+            <name>North of the Border</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are UFOs Proof of Alien Life?]]></title>
+        <id>https://www.youtube.com/shorts/nDcAo0cXl3g</id>
+        <link href="https://www.youtube.com/shorts/nDcAo0cXl3g"/>
+        <updated>2026-08-13T15:09:45.000Z</updated>
+        <summary type="html"><![CDATA[What would it actually take to find intelligent life in the universe — and how would we know when we saw it? Columbia University astronomer David Kipping wei...]]></summary>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[These 3D filaments SHOULD NOT EXIST! Every 3D Filament Part 7]]></title>
         <id>https://www.youtube.com/watch?v=vBdqbnfvj_A</id>
         <link href="https://www.youtube.com/watch?v=vBdqbnfvj_A"/>
         <updated>2026-08-13T14:00:10.000Z</updated>
         <author>
             <name>Zack Freedman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Convex Sets]]></title>
+        <id>https://www.youtube.com/watch?v=eUhnyZ--kGY</id>
+        <link href="https://www.youtube.com/watch?v=eUhnyZ--kGY"/>
+        <updated>2026-08-12T14:00:19.000Z</updated>
+        <author>
+            <name>Steve Brunton</name>
         </author>
     </entry>
     <entry>
@@ -1554,12 +2292,60 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Making color changing mercury]]></title>
+        <id>https://www.youtube.com/shorts/K56LuXCQ0ik</id>
+        <link href="https://www.youtube.com/shorts/K56LuXCQ0ik"/>
+        <updated>2026-08-10T17:11:42.000Z</updated>
+        <summary type="html"><![CDATA[Today I have some nice and shiny mercury metal, and I'm gonna do something that I think is kind of magical.More specifically, I want to make color changing m...]]></summary>
+        <author>
+            <name>NileRed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[291 Holes - Numberphile]]></title>
         <id>https://www.youtube.com/watch?v=0aTUTxOiRgU</id>
         <link href="https://www.youtube.com/watch?v=0aTUTxOiRgU"/>
         <updated>2026-08-10T11:59:00.000Z</updated>
         <author>
             <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taser Knife Fighting at Open Sauce 2026]]></title>
+        <id>https://www.youtube.com/watch?v=Se1NPlfUCss</id>
+        <link href="https://www.youtube.com/watch?v=Se1NPlfUCss"/>
+        <updated>2026-08-09T16:06:22.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does Touch Lead To Pain Or Pleasure? | PODCAST: The Joy of Why]]></title>
+        <id>https://www.youtube.com/watch?v=RyXzgj7b7xQ</id>
+        <link href="https://www.youtube.com/watch?v=RyXzgj7b7xQ"/>
+        <updated>2026-08-07T16:54:15.000Z</updated>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Earth’s Core Is Leaking: Here's the Evidence]]></title>
+        <id>https://www.youtube.com/shorts/kt3783nSJWs</id>
+        <link href="https://www.youtube.com/shorts/kt3783nSJWs"/>
+        <updated>2026-08-07T14:54:14.000Z</updated>
+        <summary type="html"><![CDATA[Strong new evidence suggests that primordial material from the planet’s center is somehow making its way out. Continent-size entities anchored to the core-ma...]]></summary>
+        <author>
+            <name>Quanta Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[180bpm shred]]></title>
+        <id>https://www.youtube.com/shorts/zNf6_6liDbg</id>
+        <link href="https://www.youtube.com/shorts/zNf6_6liDbg"/>
+        <updated>2026-08-06T18:39:18.000Z</updated>
+        <summary type="html"><![CDATA[Shredding a 180bpm unison with Button Masher on his latest collab with Sungazer, “Tallinn Massage Chair 🪑 “]]></summary>
+        <author>
+            <name>Adam Neely</name>
         </author>
     </entry>
     <entry>
@@ -1579,6 +2365,15 @@
         <updated>2026-08-05T22:30:42.000Z</updated>
         <author>
             <name>Stuff Made Here</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turning air into alcohol]]></title>
+        <id>https://www.youtube.com/watch?v=ID-K64Jk6JM</id>
+        <link href="https://www.youtube.com/watch?v=ID-K64Jk6JM"/>
+        <updated>2026-08-05T18:28:30.000Z</updated>
+        <author>
+            <name>NileRed</name>
         </author>
     </entry>
     <entry>
@@ -1609,12 +2404,50 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Incredible footage of Starship S40 in space shot from a Starlink V3 satellite!]]></title>
+        <id>https://www.youtube.com/shorts/6kGURSJn9fI</id>
+        <link href="https://www.youtube.com/shorts/6kGURSJn9fI"/>
+        <updated>2026-07-31T21:40:05.000Z</updated>
+        <summary type="html"><![CDATA[Video source: SpaceX - Flight 13Song: “Liquid Cargo” by Everyday Astronaut]]></summary>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I made evil sentient pasta]]></title>
+        <id>https://www.youtube.com/watch?v=50HN8ITDFj4</id>
+        <link href="https://www.youtube.com/watch?v=50HN8ITDFj4"/>
+        <updated>2026-07-31T15:00:40.000Z</updated>
+        <author>
+            <name>North of the Border</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sketchiness in GREECE]]></title>
+        <id>https://www.youtube.com/watch?v=kSPrY4NHqow</id>
+        <link href="https://www.youtube.com/watch?v=kSPrY4NHqow"/>
+        <updated>2026-07-30T16:01:06.000Z</updated>
+        <author>
+            <name>ElectroBOOM</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Strings Don't Vibrate The Way You Think]]></title>
         <id>https://www.youtube.com/watch?v=sYdXa_yp0fc</id>
         <link href="https://www.youtube.com/watch?v=sYdXa_yp0fc"/>
         <updated>2026-07-29T17:15:42.000Z</updated>
         <author>
             <name>minutephysics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Incredible #Starship Flight 13 Splashdown drone footage!!!]]></title>
+        <id>https://www.youtube.com/shorts/oU3INfcqQ2g</id>
+        <link href="https://www.youtube.com/shorts/oU3INfcqQ2g"/>
+        <updated>2026-07-28T19:55:23.000Z</updated>
+        <summary type="html"><![CDATA[Watch #SpaceX’s #Starship S40 softly splashdown in the Indian Ocean on Flight 13! This is official footage from SpaceX.]]></summary>
+        <author>
+            <name>Everyday Astronaut</name>
         </author>
     </entry>
     <entry>
