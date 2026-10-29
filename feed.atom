@@ -1,8 +1,455 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-28T02:51:46.705Z</id>
+    <id>urn:2026-10-29T03:14:55.655Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-28T02:51:46.705Z</updated>
+    <updated>2026-10-29T03:14:55.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How I Survived Late-Stage Cancer (A Fun Story)]]></title>
+        <id>https://www.youtube.com/watch?v=5_Fayfx2NUM</id>
+        <link href="https://www.youtube.com/watch?v=5_Fayfx2NUM"/>
+        <updated>2026-10-27T15:00:01.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blind Ranking Numbers (Terence Tao)]]></title>
+        <id>https://www.youtube.com/shorts/33_jJ4kIxfc</id>
+        <link href="https://www.youtube.com/shorts/33_jJ4kIxfc"/>
+        <updated>2026-10-27T09:00:23.000Z</updated>
+        <summary type="html"><![CDATA[Possibly the world's greatest mathematician. Terence Tao is a Fields Medalist, Breakthrough Prize winner, and now a Numberphile Blind Ranker of Numbers!Teren...]]></summary>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Squaring the Triangle - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=EgnAN0ZUl08</id>
+        <link href="https://www.youtube.com/watch?v=EgnAN0ZUl08"/>
+        <updated>2026-10-25T14:44:43.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sphere Intersection Puzzle]]></title>
+        <id>https://www.youtube.com/shorts/V_uq3v6xK-4</id>
+        <link href="https://www.youtube.com/shorts/V_uq3v6xK-4"/>
+        <updated>2026-10-25T14:30:46.000Z</updated>
+        <summary type="html"><![CDATA[Part of a series of monthly puzzlesEarly view of some other solutions:https://members.3blue1brown.com/posts/solution-to-10-158885046https://members.3blue1bro...]]></summary>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why do hot objects glow?]]></title>
+        <id>https://www.youtube.com/shorts/YBKuWCA5pug</id>
+        <link href="https://www.youtube.com/shorts/YBKuWCA5pug"/>
+        <updated>2026-10-24T16:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Full video: https://www.youtube.com/watch?v=1pfqIcSydgEA process called "blackbody radiation" makes all objects glow with light of a color depending on their...]]></summary>
+        <author>
+            <name>minutephysics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What If We Cool Down the Sun?]]></title>
+        <id>https://www.youtube.com/shorts/35No369rmq0</id>
+        <link href="https://www.youtube.com/shorts/35No369rmq0"/>
+        <updated>2026-10-24T14:00:15.000Z</updated>
+        <summary type="html"><![CDATA[The sunlight and the heat coming from Sun are essential for nearly all of life on Earth. So, what would happen if we cool down our star by 30%?#kurzgesagt#in...]]></summary>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Will Only Like Half of This Video]]></title>
+        <id>https://www.youtube.com/watch?v=PXbVn-f_wuM</id>
+        <link href="https://www.youtube.com/watch?v=PXbVn-f_wuM"/>
+        <updated>2026-10-20T14:00:11.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Math Meme - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=Uvy5Cs9FDLg</id>
+        <link href="https://www.youtube.com/watch?v=Uvy5Cs9FDLg"/>
+        <updated>2026-10-18T11:00:24.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This magnet machine is scary]]></title>
+        <id>https://www.youtube.com/shorts/TVpMka43TFk</id>
+        <link href="https://www.youtube.com/shorts/TVpMka43TFk"/>
+        <updated>2026-10-16T22:02:57.000Z</updated>
+        <summary type="html"><![CDATA[This is one of the machines that I need to make neodymium magnets, and it's actually kind of scary.This is because it can use a ridiculous amount of power to...]]></summary>
+        <author>
+            <name>NileRed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There's never been a better time to go into math]]></title>
+        <id>https://www.youtube.com/watch?v=LKrwhjOI8Nc</id>
+        <link href="https://www.youtube.com/watch?v=LKrwhjOI8Nc"/>
+        <updated>2026-10-16T16:15:20.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No More Heroes - Terence Tao Talks to Numberphile About AI]]></title>
+        <id>https://www.youtube.com/watch?v=bAnwMdfcMVw</id>
+        <link href="https://www.youtube.com/watch?v=bAnwMdfcMVw"/>
+        <updated>2026-10-15T13:58:59.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The End of Mathematical Mountain Climbing - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=Zh86i_azaQw</id>
+        <link href="https://www.youtube.com/watch?v=Zh86i_azaQw"/>
+        <updated>2026-10-14T14:58:55.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What if you try to sandwich a cube between two portals?]]></title>
+        <id>https://www.youtube.com/shorts/31kyER-8dak</id>
+        <link href="https://www.youtube.com/shorts/31kyER-8dak"/>
+        <updated>2026-10-10T19:00:33.000Z</updated>
+        <summary type="html"><![CDATA[Full Video: https://www.youtube.com/watch?v=zDAE9A_1NA4What if you try to sandwich a cube between two portals?Does the cube disappear?Do the portals bounce o...]]></summary>
+        <author>
+            <name>minutephysics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Finally Know More About Humanity’s First Civilization]]></title>
+        <id>https://www.youtube.com/watch?v=_y9JuojAIg0</id>
+        <link href="https://www.youtube.com/watch?v=_y9JuojAIg0"/>
+        <updated>2026-10-08T14:07:00.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blind Ranking Numbers (Matt Parker)]]></title>
+        <id>https://www.youtube.com/shorts/g9Exz_tR-nU</id>
+        <link href="https://www.youtube.com/shorts/g9Exz_tR-nU"/>
+        <updated>2026-10-06T17:08:47.000Z</updated>
+        <summary type="html"><![CDATA[Matt Parker blind ranks five numbers and constants. More links & stuff in full description below ↓↓↓Related videosThe Parker Square (featuring 3051) - https:...]]></summary>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Just Crossed the Terrifying Line - Now What?]]></title>
+        <id>https://www.youtube.com/watch?v=ujkD4SxPKOI</id>
+        <link href="https://www.youtube.com/watch?v=ujkD4SxPKOI"/>
+        <updated>2026-10-05T14:58:58.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All the Noble Polyhedra #maths #math #animation]]></title>
+        <id>https://www.youtube.com/shorts/VydHKLBXdVQ</id>
+        <link href="https://www.youtube.com/shorts/VydHKLBXdVQ"/>
+        <updated>2026-10-03T10:24:53.000Z</updated>
+        <summary type="html"><![CDATA[Catch the full Numberphile video about all this at https://youtu.be/95335U-cUh8 or just check out Numberphile on YouTube]]></summary>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big News in Polyhedra - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=95335U-cUh8</id>
+        <link href="https://www.youtube.com/watch?v=95335U-cUh8"/>
+        <updated>2026-10-02T10:41:06.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Buckmaster Interview (Navier-Stokes) - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=Mzbtj5nkMXI</id>
+        <link href="https://www.youtube.com/watch?v=Mzbtj5nkMXI"/>
+        <updated>2026-09-29T20:05:39.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What now for Mathematics (with 3Blue1Brown) - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=9HlIuxnuTKQ</id>
+        <link href="https://www.youtube.com/watch?v=9HlIuxnuTKQ"/>
+        <updated>2026-09-28T15:42:59.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Brain on Magic Mushrooms]]></title>
+        <id>https://www.youtube.com/shorts/b1EMX3wyqCY</id>
+        <link href="https://www.youtube.com/shorts/b1EMX3wyqCY"/>
+        <updated>2026-09-28T14:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Magic mushrooms temporarily change how different parts of your brain communicate, loosening the filters that construct your everyday reality. The result can ...]]></summary>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIDE a Nuclear Reactor Core - Smarter Every Day 317]]></title>
+        <id>https://www.youtube.com/watch?v=pXypQ6d_iDg</id>
+        <link href="https://www.youtube.com/watch?v=pXypQ6d_iDg"/>
+        <updated>2026-09-26T14:34:03.000Z</updated>
+        <author>
+            <name>SmarterEveryDay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Humans Can Regrow an Organ]]></title>
+        <id>https://www.youtube.com/shorts/oNTaHYXQ4MM</id>
+        <link href="https://www.youtube.com/shorts/oNTaHYXQ4MM"/>
+        <updated>2026-09-26T14:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Every month, the uterus builds an entire new layer of tissue, prepares it for a possible pregnancy, then starts all over again. Billions of people experience...]]></summary>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Phone Number puzzle]]></title>
+        <id>https://www.youtube.com/shorts/ausLKMojXaY</id>
+        <link href="https://www.youtube.com/shorts/ausLKMojXaY"/>
+        <updated>2026-09-25T13:35:02.000Z</updated>
+        <summary type="html"><![CDATA[Part of a monthly series of puzzles: https://momath.org/mindbenders/]]></summary>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Skeleton Is Electric]]></title>
+        <id>https://www.youtube.com/shorts/RQprZZJIb6Y</id>
+        <link href="https://www.youtube.com/shorts/RQprZZJIb6Y"/>
+        <updated>2026-09-24T17:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Every step you take creates tiny electrical signals inside your bones. You’ll never charge your phone with them, but they may help tell your skeleton where i...]]></summary>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Is What a Godlike Civilization Would Look Like]]></title>
+        <id>https://www.youtube.com/watch?v=QW_jlUn4gA8</id>
+        <link href="https://www.youtube.com/watch?v=QW_jlUn4gA8"/>
+        <updated>2026-09-22T14:00:01.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blind Ranking Numbers (James Grime)]]></title>
+        <id>https://www.youtube.com/shorts/UmuMgA_RxnU</id>
+        <link href="https://www.youtube.com/shorts/UmuMgA_RxnU"/>
+        <updated>2026-09-22T12:34:02.000Z</updated>
+        <summary type="html"><![CDATA[James Grime blind ranks five numbers and constants. More links & stuff in full description below ↓↓↓Related videos1 is not prime: https://youtu.be/IQofiPqhJ_...]]></summary>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The last IMO problem AI could not solve]]></title>
+        <id>https://www.youtube.com/shorts/bRQEWPA832A</id>
+        <link href="https://www.youtube.com/shorts/bRQEWPA832A"/>
+        <updated>2026-09-18T17:14:08.000Z</updated>
+        <summary type="html"><![CDATA[Full video: https://youtu.be/Nbwv5wHQoj0]]></summary>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The last IMO problem AI could not solve]]></title>
+        <id>https://www.youtube.com/watch?v=Nbwv5wHQoj0</id>
+        <link href="https://www.youtube.com/watch?v=Nbwv5wHQoj0"/>
+        <updated>2026-09-18T17:12:53.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SOLVED: Navier-Stokes cracked by AI - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=3geDF-DAwpg</id>
+        <link href="https://www.youtube.com/watch?v=3geDF-DAwpg"/>
+        <updated>2026-09-18T15:33:48.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Biggest Gaps Between Primes - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=oax6t6Of2WY</id>
+        <link href="https://www.youtube.com/watch?v=oax6t6Of2WY"/>
+        <updated>2026-09-16T09:44:00.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Woman Cured Her Cancer with an Insane Method]]></title>
+        <id>https://www.youtube.com/watch?v=0NY2gAftzJE</id>
+        <link href="https://www.youtube.com/watch?v=0NY2gAftzJE"/>
+        <updated>2026-09-15T14:00:02.000Z</updated>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How ADHD Medication Works]]></title>
+        <id>https://www.youtube.com/shorts/NIifnIP_NnQ</id>
+        <link href="https://www.youtube.com/shorts/NIifnIP_NnQ"/>
+        <updated>2026-09-05T14:00:06.000Z</updated>
+        <summary type="html"><![CDATA[ADHD medication doesn’t simply give your brain more dopamine. It changes how dopamine signals are processed, making it easier to resist immediate distraction...]]></summary>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Immortal Kangaroo Sequence - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=A020pGO5MBs</id>
+        <link href="https://www.youtube.com/watch?v=A020pGO5MBs"/>
+        <updated>2026-09-04T13:06:35.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What If You Never Slept?]]></title>
+        <id>https://www.youtube.com/shorts/hiIIGMeMEuE</id>
+        <link href="https://www.youtube.com/shorts/hiIIGMeMEuE"/>
+        <updated>2026-09-03T14:00:25.000Z</updated>
+        <summary type="html"><![CDATA[Imagine never having to sleep again. To make it work, we’d need to reset and change a few things and in the end, you might not be human anymore.#kurzgesagt#i...]]></summary>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Earth Run Out of Water?]]></title>
+        <id>https://www.youtube.com/shorts/tZ8i1RxGSYM</id>
+        <link href="https://www.youtube.com/shorts/tZ8i1RxGSYM"/>
+        <updated>2026-08-31T14:00:04.000Z</updated>
+        <summary type="html"><![CDATA[We’re using freshwater faster than nature can replace it, draining some sources beyond recovery. But avoiding water bankruptcy may be surprisingly affordable...]]></summary>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What If Gravity Was 10% Stronger?]]></title>
+        <id>https://www.youtube.com/shorts/EqkRVbaBxtg</id>
+        <link href="https://www.youtube.com/shorts/EqkRVbaBxtg"/>
+        <updated>2026-08-29T14:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Just 10% more gravity doesn’t sound too bad. Until satellites fall from the sky, bridges collapse, planes struggle to fly and earthquakes shake the planet. O...]]></summary>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dust Is Not What You Think]]></title>
+        <id>https://www.youtube.com/shorts/YqAI0oqtt7w</id>
+        <link href="https://www.youtube.com/shorts/YqAI0oqtt7w"/>
+        <updated>2026-08-27T14:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Dust is everywhere, but it's not what most people think. Some of it can make you sick, some of it helps rain forests survive, and a tiny fraction is older th...]]></summary>
+        <author>
+            <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2.685 is (almost) everywhere - Numberphile]]></title>
+        <id>https://www.youtube.com/watch?v=-mXaU3N9e8Y</id>
+        <link href="https://www.youtube.com/watch?v=-mXaU3N9e8Y"/>
+        <updated>2026-08-22T14:09:57.000Z</updated>
+        <author>
+            <name>Numberphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making nasty soap]]></title>
+        <id>https://www.youtube.com/shorts/5OcnO7U0VeA</id>
+        <link href="https://www.youtube.com/shorts/5OcnO7U0VeA"/>
+        <updated>2026-08-19T16:34:22.000Z</updated>
+        <summary type="html"><![CDATA[What I have here is just a bunch of drain cleaner and I'm gonna use it to make some nasty soap. And by nasty, I mean that I'll be using things like celery, O...]]></summary>
+        <author>
+            <name>NileRed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tangent: Liberalism]]></title>
+        <id>https://www.youtube.com/shorts/g5o-OpVUHF0</id>
+        <link href="https://www.youtube.com/shorts/g5o-OpVUHF0"/>
+        <updated>2026-08-19T15:00:57.000Z</updated>
+        <summary type="html"><![CDATA[My new Tangent "Liberalism" is about how discussing politics online is immoral and bad. Also, why I'm such a lib, the immortal science of Marxism-Leninism, t...]]></summary>
+        <author>
+            <name>ContraPoints</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Wavy Window Paradox]]></title>
+        <id>https://www.youtube.com/watch?v=4YvnVJRlQQs</id>
+        <link href="https://www.youtube.com/watch?v=4YvnVJRlQQs"/>
+        <updated>2026-08-19T14:45:49.000Z</updated>
+        <author>
+            <name>minutephysics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The jumping pegs puzzle]]></title>
+        <id>https://www.youtube.com/shorts/rYyJm1tD3d0</id>
+        <link href="https://www.youtube.com/shorts/rYyJm1tD3d0"/>
+        <updated>2026-08-18T14:54:17.000Z</updated>
+        <summary type="html"><![CDATA[Part of a series of monthly puzzles with MoMath.]]></summary>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How long is a day on the sun?]]></title>
+        <id>https://www.youtube.com/shorts/bU9xvXyWrdk</id>
+        <link href="https://www.youtube.com/shorts/bU9xvXyWrdk"/>
+        <updated>2026-08-11T17:00:01.000Z</updated>
+        <summary type="html"><![CDATA[How long is a day on the sun? At first might seem like a stupid question.A day is how long it takes the sun to come back overhead.Doesn’t happen on the sun, ...]]></summary>
+        <author>
+            <name>minutephysics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making color changing mercury]]></title>
+        <id>https://www.youtube.com/shorts/K56LuXCQ0ik</id>
+        <link href="https://www.youtube.com/shorts/K56LuXCQ0ik"/>
+        <updated>2026-08-10T17:11:42.000Z</updated>
+        <summary type="html"><![CDATA[Today I have some nice and shiny mercury metal, and I'm gonna do something that I think is kind of magical.More specifically, I want to make color changing m...]]></summary>
+        <author>
+            <name>NileRed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I made an apple peel itself]]></title>
+        <id>https://www.youtube.com/watch?v=RpslsMqPFWA</id>
+        <link href="https://www.youtube.com/watch?v=RpslsMqPFWA"/>
+        <updated>2026-08-05T22:30:42.000Z</updated>
+        <author>
+            <name>Stuff Made Here</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turning air into alcohol]]></title>
+        <id>https://www.youtube.com/watch?v=ID-K64Jk6JM</id>
+        <link href="https://www.youtube.com/watch?v=ID-K64Jk6JM"/>
+        <updated>2026-08-05T18:28:30.000Z</updated>
+        <author>
+            <name>NileRed</name>
+        </author>
+    </entry>
 </feed>
