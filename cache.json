@@ -1,10 +1,21 @@
 {
   "sources": [
     {
-      "title": "Primer",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKzJFdi57J53Vr_BkTfN3uQ",
-      "siteUrl": "https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ",
-      "articles": []
+      "title": "AlphaPhoenix",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCWeRTgd79JL0ilH0ZywSJA",
+      "siteUrl": "https://www.youtube.com/channel/UCCWeRTgd79JL0ilH0ZywSJA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=FR6z3y3d8Ag",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FR6z3y3d8Ag",
+          "publishedOn": "2026-10-06T10:00:17.000Z",
+          "wordCount": null,
+          "title": "Slow-motion frogs are goofier than I expected",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Numberphile",
@@ -27,9 +38,9 @@
           "description": "Daniel Litt, an assistant Professor of mathematics at the University of Toronto, takes on our Blind Ranking challenge.Daniel: https://www.daniellitt.com/Numb...",
           "link": "https://www.youtube.com/shorts/iJU6csQs_no",
           "publishedOn": "2026-10-29T17:35:33.000Z",
-          "wordCount": 3475,
+          "wordCount": 3553,
           "title": "Blind Ranking Numbers (Daniel Litt)",
-          "imageUrl": "https://i.ytimg.com/vi/iJU6csQs_no/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCTQUsAJbumBOAoB4WvAOyglG4_aQ&usqp=CBQ"
+          "imageUrl": "https://i.ytimg.com/vi/iJU6csQs_no/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gBovOX_wMOCIiDjtcGGODqBCDgqAE=&rs=AOn4CLD8TVkoWTEiyOQ0ZaTqJgdrZWhLyw&usqp=CBU"
         },
         {
           "id": "https://www.youtube.com/shorts/33_jJ4kIxfc",
@@ -37,7 +48,7 @@
           "description": "Possibly the world's greatest mathematician. Terence Tao is a Fields Medalist, Breakthrough Prize winner, and now a Numberphile Blind Ranker of Numbers!Teren...",
           "link": "https://www.youtube.com/shorts/33_jJ4kIxfc",
           "publishedOn": "2026-10-27T09:00:23.000Z",
-          "wordCount": 3390,
+          "wordCount": 3467,
           "title": "Blind Ranking Numbers (Terence Tao)",
           "imageUrl": "https://i.ytimg.com/vi/33_jJ4kIxfc/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCxLydk7bvi1ATbewkYjUSETAsYJA"
         },
@@ -87,7 +98,7 @@
           "description": "Matt Parker blind ranks five numbers and constants. More links & stuff in full description below ↓↓↓Related videosThe Parker Square (featuring 3051) - https:...",
           "link": "https://www.youtube.com/shorts/g9Exz_tR-nU",
           "publishedOn": "2026-10-06T17:08:47.000Z",
-          "wordCount": 3600,
+          "wordCount": 3544,
           "title": "Blind Ranking Numbers (Matt Parker)",
           "imageUrl": "https://i.ytimg.com/vi/g9Exz_tR-nU/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA0RR9yloZspYxgIe2Mi3C2Id-H0g"
         },
@@ -97,9 +108,9 @@
           "description": "Catch the full Numberphile video about all this at https://youtu.be/95335U-cUh8 or just check out Numberphile on YouTube",
           "link": "https://www.youtube.com/shorts/VydHKLBXdVQ",
           "publishedOn": "2026-10-03T10:24:53.000Z",
-          "wordCount": 3332,
+          "wordCount": 3395,
           "title": "All the Noble Polyhedra #maths #math #animation",
-          "imageUrl": "https://i.ytimg.com/vi/VydHKLBXdVQ/sardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLD7kUgWAM9CfWvbTcquoTfhb4v5JA"
+          "imageUrl": "https://i.ytimg.com/vi/VydHKLBXdVQ/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBatHMi5mmVApNzM9FxSERYEW4yXg"
         },
         {
           "id": "https://www.youtube.com/watch?v=95335U-cUh8",
@@ -137,7 +148,7 @@
           "description": "James Grime blind ranks five numbers and constants. More links & stuff in full description below ↓↓↓Related videos1 is not prime: https://youtu.be/IQofiPqhJ_...",
           "link": "https://www.youtube.com/shorts/UmuMgA_RxnU",
           "publishedOn": "2026-09-22T12:34:02.000Z",
-          "wordCount": 3397,
+          "wordCount": 3447,
           "title": "Blind Ranking Numbers (James Grime)",
           "imageUrl": "https://i.ytimg.com/vi/UmuMgA_RxnU/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLC7rAEy--0MfqdPM6FNu0Pntza47Q"
         },
@@ -169,14 +180,24 @@
       "siteUrl": "https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/xlNKNnXdtN4",
+          "author": null,
+          "description": "What are these electric blue ponds in the middle of the Utah desert? And why do they keep changing color?",
+          "link": "https://www.youtube.com/shorts/xlNKNnXdtN4",
+          "publishedOn": "2026-11-02T14:00:05.000Z",
+          "wordCount": 3201,
+          "title": "These ponds help support half the people on Earth",
+          "imageUrl": "https://i.ytimg.com/vi/xlNKNnXdtN4/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAhbuT-PbZt-QtXlKy47TOpQX5eCA"
+        },
+        {
           "id": "https://www.youtube.com/shorts/zEmabFZvdqA",
           "author": null,
           "description": "Will the weighing scale underneath go up, down or stay the same?",
           "link": "https://www.youtube.com/shorts/zEmabFZvdqA",
           "publishedOn": "2026-10-30T14:00:38.000Z",
-          "wordCount": 3502,
+          "wordCount": 3028,
           "title": "What happens if I lower this weight into the water?",
-          "imageUrl": "https://i.ytimg.com/vi/zEmabFZvdqA/sardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuAL3GA==&rs=AOn4CLCNFTju8t-2p2gMJ9b9bixCe9mJww"
+          "imageUrl": "https://i.ytimg.com/vi/zEmabFZvdqA/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDqFazVvDbrluYgfCiqGP_k3SeCqQ"
         },
         {
           "id": "https://www.youtube.com/shorts/Kap7mRzr13w",
@@ -184,9 +205,9 @@
           "description": "The secret to why your heart never gets tired...",
           "link": "https://www.youtube.com/shorts/Kap7mRzr13w",
           "publishedOn": "2026-10-27T14:00:11.000Z",
-          "wordCount": 3278,
+          "wordCount": 3223,
           "title": "Why doesn't your heart get tired like other muscles do?",
-          "imageUrl": "https://i.ytimg.com/vi/Kap7mRzr13w/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCkzD_KB_KEZeTDFACWem8_MC60Zw"
+          "imageUrl": "https://i.ytimg.com/vi/Kap7mRzr13w/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCkzD_KB_KEZeTDFACWem8_MC60Zw&usqp=CBQ"
         },
         {
           "id": "https://www.youtube.com/watch?v=eyZEqSPeMwg",
@@ -204,7 +225,7 @@
           "description": "The experiment that broke relativity.How an argument between Einstein and Bohr changed quantum mechanics forever.",
           "link": "https://www.youtube.com/shorts/wxLc-gFORPQ",
           "publishedOn": "2026-10-22T13:00:17.000Z",
-          "wordCount": 3274,
+          "wordCount": 3512,
           "title": "Is there something faster than light?",
           "imageUrl": "https://i.ytimg.com/vi/wxLc-gFORPQ/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAiJM_ldXAfn-bRRtMUUs9QfF7Hsw"
         },
@@ -214,7 +235,7 @@
           "description": "What does it mean to lose weight? When you work out or eat less your overall size decreases. So where does this mass go?",
           "link": "https://www.youtube.com/shorts/6U6Z6pb6ewI",
           "publishedOn": "2026-10-15T13:00:26.000Z",
-          "wordCount": 3954,
+          "wordCount": 4886,
           "title": "When you lose weight where does it go?",
           "imageUrl": "https://i.ytimg.com/vi/6U6Z6pb6ewI/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCsc3svEgaYCC1gTS664dotCQE_sQ"
         },
@@ -234,9 +255,9 @@
           "description": "We demonstrated a crystal lattice of atoms using bubbles.",
           "link": "https://www.youtube.com/shorts/j9p3Sn8ROL4",
           "publishedOn": "2026-10-09T13:00:03.000Z",
-          "wordCount": 4026,
+          "wordCount": 3192,
           "title": "What is edge dislocation?",
-          "imageUrl": "https://i.ytimg.com/vi/j9p3Sn8ROL4/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCUtLpbMN2aKqMu1j9tdq0n-SGRxw&usqp=CBQ"
+          "imageUrl": "https://i.ytimg.com/vi/j9p3Sn8ROL4/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCUtLpbMN2aKqMu1j9tdq0n-SGRxw"
         },
         {
           "id": "https://www.youtube.com/shorts/IHkp5Kq72ro",
@@ -244,9 +265,9 @@
           "description": "What happens to your body if you eat Teflon from a non-stick pan?#pfas #foreverchemicals",
           "link": "https://www.youtube.com/shorts/IHkp5Kq72ro",
           "publishedOn": "2026-10-01T18:26:42.000Z",
-          "wordCount": 3223,
+          "wordCount": 3207,
           "title": "How Dangerous Are Non-Stick Pans?",
-          "imageUrl": "https://i.ytimg.com/vi/IHkp5Kq72ro/sardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLD3gNPF0Fvo0-UCpXRbw04VwRGfMg"
+          "imageUrl": "https://i.ytimg.com/vi/IHkp5Kq72ro/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD8Rd7pS15wxdfyh1cZogvR9qBiUg"
         },
         {
           "id": "https://www.youtube.com/watch?v=ONAuUyml0yI",
@@ -264,7 +285,7 @@
           "description": "Take a balloon and fill it with lots of air. Take another one and fill it with less air. Now connect the two via a valve. What do you think will happen when ...",
           "link": "https://www.youtube.com/shorts/VKlulHwMxgU",
           "publishedOn": "2026-09-24T13:00:24.000Z",
-          "wordCount": 3341,
+          "wordCount": 3248,
           "title": "What happens to these balloons when you open the valve?",
           "imageUrl": "https://i.ytimg.com/vi/VKlulHwMxgU/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAXhdhYgCgRSoFH22Fc3Xi-5UxWFA"
         },
@@ -284,7 +305,7 @@
           "description": "How Jupiter heats its moon, just be stretching and squeezing it.",
           "link": "https://www.youtube.com/shorts/hPoJWjJ9Ao8",
           "publishedOn": "2026-09-18T13:00:00.000Z",
-          "wordCount": 3277,
+          "wordCount": 3282,
           "title": "Heating A Ball Just By Squeezing It",
           "imageUrl": "https://i.ytimg.com/vi/hPoJWjJ9Ao8/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBU4tlR6avnaQYGqmisrfiVuitzDA"
         },
@@ -294,7 +315,7 @@
           "description": "Why is the Smith Chart one of the scariest charts in electrical engineering?We printed the largest one in the world to explain how it works and why it's so t...",
           "link": "https://www.youtube.com/shorts/O3a99HNskNk",
           "publishedOn": "2026-09-10T13:00:12.000Z",
-          "wordCount": 3549,
+          "wordCount": 3299,
           "title": "The Scariest Chart In Engineering",
           "imageUrl": "https://i.ytimg.com/vi/O3a99HNskNk/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCrECWoy6YzTkfpuzpaURzK3RoSkg"
         },
@@ -304,27 +325,11 @@
           "description": "In 2018 football fans were leaving a stadium in Rome. They boarded an escalator down to the metro. Suddenly the machine sprung a fault.Multiple safety system...",
           "link": "https://www.youtube.com/shorts/oR94cicO7xM",
           "publishedOn": "2026-09-06T13:00:26.000Z",
-          "wordCount": 3312,
+          "wordCount": 3299,
           "title": "The Most Dangerous Escalator In Europe",
           "imageUrl": "https://i.ytimg.com/vi/oR94cicO7xM/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDnIImJBDyLUXw9LeeWzEabSW5prA"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/F5_G0AHfYhI",
-          "author": null,
-          "description": "A UCLA Physics Professor bet me $10,000 that my video (https://youtu.be/jyQwgBAaBag) about going downwind faster than the wind was wrong.Here's how we proved...",
-          "link": "https://www.youtube.com/shorts/F5_G0AHfYhI",
-          "publishedOn": "2026-09-02T13:00:04.000Z",
-          "wordCount": 3301,
-          "title": "A Physics Professor Bet Me $10,000 I'm Wrong...",
-          "imageUrl": "https://i.ytimg.com/vi/F5_G0AHfYhI/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA3NrQgdsHUxrhDGsnqyqrISEAN8Q"
         }
       ]
-    },
-    {
-      "title": "Studson Studio",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6u6uY4VbvuNtU0BU7F9olw",
-      "siteUrl": "https://www.youtube.com/channel/UC6u6uY4VbvuNtU0BU7F9olw",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"

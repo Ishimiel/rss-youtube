@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-02T03:04:35.732Z</id>
+    <id>urn:2026-11-03T04:22:15.914Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-02T03:04:35.732Z</updated>
+    <updated>2026-11-03T04:22:15.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[These ponds help support half the people on Earth]]></title>
+        <id>https://www.youtube.com/shorts/xlNKNnXdtN4</id>
+        <link href="https://www.youtube.com/shorts/xlNKNnXdtN4"/>
+        <updated>2026-11-02T14:00:05.000Z</updated>
+        <summary type="html"><![CDATA[What are these electric blue ponds in the middle of the Utah desert? And why do they keep changing color?]]></summary>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Who's Richer, Mario or Sonic? - Numberphile]]></title>
         <id>https://www.youtube.com/watch?v=vCAD3W43lIk</id>
@@ -149,6 +159,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Slow-motion frogs are goofier than I expected]]></title>
+        <id>https://www.youtube.com/watch?v=FR6z3y3d8Ag</id>
+        <link href="https://www.youtube.com/watch?v=FR6z3y3d8Ag"/>
+        <updated>2026-10-06T10:00:17.000Z</updated>
+        <author>
+            <name>AlphaPhoenix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[All the Noble Polyhedra #maths #math #animation]]></title>
         <id>https://www.youtube.com/shorts/VydHKLBXdVQ</id>
         <link href="https://www.youtube.com/shorts/VydHKLBXdVQ"/>
@@ -277,16 +296,6 @@
         <link href="https://www.youtube.com/shorts/oR94cicO7xM"/>
         <updated>2026-09-06T13:00:26.000Z</updated>
         <summary type="html"><![CDATA[In 2018 football fans were leaving a stadium in Rome. They boarded an escalator down to the metro. Suddenly the machine sprung a fault.Multiple safety system...]]></summary>
-        <author>
-            <name>Veritasium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Physics Professor Bet Me $10,000 I'm Wrong...]]></title>
-        <id>https://www.youtube.com/shorts/F5_G0AHfYhI</id>
-        <link href="https://www.youtube.com/shorts/F5_G0AHfYhI"/>
-        <updated>2026-09-02T13:00:04.000Z</updated>
-        <summary type="html"><![CDATA[A UCLA Physics Professor bet me $10,000 that my video (https://youtu.be/jyQwgBAaBag) about going downwind faster than the wind was wrong.Here's how we proved...]]></summary>
         <author>
             <name>Veritasium</name>
         </author>
