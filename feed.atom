@@ -1,10 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-06T03:57:46.842Z</id>
+    <id>urn:2026-11-07T03:32:30.653Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-06T03:57:46.842Z</updated>
+    <updated>2026-11-07T03:32:30.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why do deserts get cold at night?]]></title>
+        <id>https://www.youtube.com/shorts/rL0qEmTRI-I</id>
+        <link href="https://www.youtube.com/shorts/rL0qEmTRI-I"/>
+        <updated>2026-11-06T14:00:17.000Z</updated>
+        <summary type="html"><![CDATA[The desert ground is blistering hot in the day but just a few hours after nightfall, it's freezing.Why does this happen?]]></summary>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I finally saw quantum physics with my own eyes...]]></title>
+        <id>https://www.youtube.com/watch?v=KfODG5REyss</id>
+        <link href="https://www.youtube.com/watch?v=KfODG5REyss"/>
+        <updated>2026-11-04T15:52:59.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[These ponds help support half the people on Earth]]></title>
+        <id>https://www.youtube.com/shorts/xlNKNnXdtN4</id>
+        <link href="https://www.youtube.com/shorts/xlNKNnXdtN4"/>
+        <updated>2026-11-02T14:00:05.000Z</updated>
+        <summary type="html"><![CDATA[What are these electric blue ponds in the middle of the Utah desert? And why do they keep changing color?]]></summary>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Does Bloodborne Feel Like That?]]></title>
+        <id>https://www.youtube.com/watch?v=p9pQUq-S43o</id>
+        <link href="https://www.youtube.com/watch?v=p9pQUq-S43o"/>
+        <updated>2026-11-01T19:33:05.000Z</updated>
+        <author>
+            <name>Internet Pitstop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My dog won't stay out of mud so I made this...]]></title>
+        <id>https://www.youtube.com/watch?v=BuRyQYf03xA</id>
+        <link href="https://www.youtube.com/watch?v=BuRyQYf03xA"/>
+        <updated>2026-11-01T03:58:22.000Z</updated>
+        <author>
+            <name>Stuff Made Here</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What happens if I lower this weight into the water?]]></title>
+        <id>https://www.youtube.com/shorts/zEmabFZvdqA</id>
+        <link href="https://www.youtube.com/shorts/zEmabFZvdqA"/>
+        <updated>2026-10-30T14:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Will the weighing scale underneath go up, down or stay the same?]]></summary>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Does Ketamine Work?]]></title>
         <id>https://www.youtube.com/shorts/KBfIo9sZbC4</id>
@@ -13,16 +70,6 @@
         <summary type="html"><![CDATA[Ketamine is often used in medicine as one of medicine's safest painkillers, but without safeguards, it can be very dangerous. So, what exactly is ketamine, a...]]></summary>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Tried to Film a Video. I Still Haven't Recovered.]]></title>
-        <id>https://www.youtube.com/shorts/iye_tnZ_fhs</id>
-        <link href="https://www.youtube.com/shorts/iye_tnZ_fhs"/>
-        <updated>2026-10-27T23:30:37.000Z</updated>
-        <summary type="html"><![CDATA[Quick Health Update on Dianna (Levi typing)Hey everyone,A few weeks ago, Dianna, Kyle, and I tried to film a health update. Unfortunately, Dianna only made i...]]></summary>
-        <author>
-            <name>Physics Girl</name>
         </author>
     </entry>
     <entry>
@@ -35,13 +82,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My easiest trick to TRY AT HOME!]]></title>
-        <id>https://www.youtube.com/shorts/6KadJS7DbcE</id>
-        <link href="https://www.youtube.com/shorts/6KadJS7DbcE"/>
-        <updated>2026-10-24T21:46:42.000Z</updated>
-        <summary type="html"><![CDATA[This demo comes from Dianna's video "5 weird ways to put out a candle. Do it at home! All you need is a candle, a glass, a soccer ball, and a box.Watch the f...]]></summary>
+        <title type="html"><![CDATA[Why doesn't your heart get tired like other muscles do?]]></title>
+        <id>https://www.youtube.com/shorts/Kap7mRzr13w</id>
+        <link href="https://www.youtube.com/shorts/Kap7mRzr13w"/>
+        <updated>2026-10-27T14:00:11.000Z</updated>
+        <summary type="html"><![CDATA[The secret to why your heart never gets tired...]]></summary>
         <author>
-            <name>Physics Girl</name>
+            <name>Veritasium</name>
         </author>
     </entry>
     <entry>
@@ -55,6 +102,25 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[No device could prove Einstein wrong... until now]]></title>
+        <id>https://www.youtube.com/watch?v=eyZEqSPeMwg</id>
+        <link href="https://www.youtube.com/watch?v=eyZEqSPeMwg"/>
+        <updated>2026-10-23T18:46:44.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is there something faster than light?]]></title>
+        <id>https://www.youtube.com/shorts/wxLc-gFORPQ</id>
+        <link href="https://www.youtube.com/shorts/wxLc-gFORPQ"/>
+        <updated>2026-10-22T13:00:17.000Z</updated>
+        <summary type="html"><![CDATA[The experiment that broke relativity.How an argument between Einstein and Bohr changed quantum mechanics forever.]]></summary>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[You Will Only Like Half of This Video]]></title>
         <id>https://www.youtube.com/watch?v=PXbVn-f_wuM</id>
         <link href="https://www.youtube.com/watch?v=PXbVn-f_wuM"/>
@@ -64,23 +130,32 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Turned a Lemon Into a Battery]]></title>
-        <id>https://www.youtube.com/shorts/mVwSYBMDH_0</id>
-        <link href="https://www.youtube.com/shorts/mVwSYBMDH_0"/>
-        <updated>2026-10-18T23:56:47.000Z</updated>
-        <summary type="html"><![CDATA[Dianna finally tries the famous lemon battery experiment! You can easily try this at home WITH ADULT SUPERVISION!Support Dianna during her recovery at patreo...]]></summary>
+        <title type="html"><![CDATA[When you lose weight where does it go?]]></title>
+        <id>https://www.youtube.com/shorts/6U6Z6pb6ewI</id>
+        <link href="https://www.youtube.com/shorts/6U6Z6pb6ewI"/>
+        <updated>2026-10-15T13:00:26.000Z</updated>
+        <summary type="html"><![CDATA[What does it mean to lose weight? When you work out or eat less your overall size decreases. So where does this mass go?]]></summary>
         <author>
-            <name>Physics Girl</name>
+            <name>Veritasium</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Had No Idea I'd Lose Everything...]]></title>
-        <id>https://www.youtube.com/shorts/Z-qxCB0t6-4</id>
-        <link href="https://www.youtube.com/shorts/Z-qxCB0t6-4"/>
-        <updated>2026-10-10T22:59:33.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone,Here is some behind-the-scenes footage of Dianna back when we first moved into her dream office. This video shows how much Dianna's life has chan...]]></summary>
+        <title type="html"><![CDATA[Fiber Optics are so much cooler than I thought]]></title>
+        <id>https://www.youtube.com/watch?v=NiCgcUTL9_Q</id>
+        <link href="https://www.youtube.com/watch?v=NiCgcUTL9_Q"/>
+        <updated>2026-10-12T17:11:45.000Z</updated>
         <author>
-            <name>Physics Girl</name>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is edge dislocation?]]></title>
+        <id>https://www.youtube.com/shorts/j9p3Sn8ROL4</id>
+        <link href="https://www.youtube.com/shorts/j9p3Sn8ROL4"/>
+        <updated>2026-10-09T13:00:03.000Z</updated>
+        <summary type="html"><![CDATA[We demonstrated a crystal lattice of atoms using bubbles.]]></summary>
+        <author>
+            <name>Veritasium</name>
         </author>
     </entry>
     <entry>
@@ -102,6 +177,34 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How Dangerous Are Non-Stick Pans?]]></title>
+        <id>https://www.youtube.com/shorts/IHkp5Kq72ro</id>
+        <link href="https://www.youtube.com/shorts/IHkp5Kq72ro"/>
+        <updated>2026-10-01T18:26:42.000Z</updated>
+        <summary type="html"><![CDATA[What happens to your body if you eat Teflon from a non-stick pan?#pfas #foreverchemicals]]></summary>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We're trying something new...]]></title>
+        <id>https://www.youtube.com/watch?v=ONAuUyml0yI</id>
+        <link href="https://www.youtube.com/watch?v=ONAuUyml0yI"/>
+        <updated>2026-09-30T19:19:10.000Z</updated>
+        <author>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[4K] Watch the FIRST Orbital Starship Mission!!!]]></title>
+        <id>https://www.youtube.com/watch?v=LeKY53pwArw</id>
+        <link href="https://www.youtube.com/watch?v=LeKY53pwArw"/>
+        <updated>2026-09-28T16:48:34.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Your Brain on Magic Mushrooms]]></title>
         <id>https://www.youtube.com/shorts/b1EMX3wyqCY</id>
         <link href="https://www.youtube.com/shorts/b1EMX3wyqCY"/>
@@ -109,15 +212,6 @@
         <summary type="html"><![CDATA[Magic mushrooms temporarily change how different parts of your brain communicate, loosening the filters that construct your everyday reality. The result can ...]]></summary>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INSIDE a Nuclear Reactor Core - Smarter Every Day 317]]></title>
-        <id>https://www.youtube.com/watch?v=pXypQ6d_iDg</id>
-        <link href="https://www.youtube.com/watch?v=pXypQ6d_iDg"/>
-        <updated>2026-09-26T14:34:03.000Z</updated>
-        <author>
-            <name>SmarterEveryDay</name>
         </author>
     </entry>
     <entry>
@@ -131,6 +225,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Genius Reason Why SpaceX Deleted A Grid Fin]]></title>
+        <id>https://www.youtube.com/watch?v=suZNTDISXKw</id>
+        <link href="https://www.youtube.com/watch?v=suZNTDISXKw"/>
+        <updated>2026-09-25T16:59:57.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Your Skeleton Is Electric]]></title>
         <id>https://www.youtube.com/shorts/RQprZZJIb6Y</id>
         <link href="https://www.youtube.com/shorts/RQprZZJIb6Y"/>
@@ -138,6 +241,16 @@
         <summary type="html"><![CDATA[Every step you take creates tiny electrical signals inside your bones. You’ll never charge your phone with them, but they may help tell your skeleton where i...]]></summary>
         <author>
             <name>Kurzgesagt – In a Nutshell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What happens to these balloons when you open the valve?]]></title>
+        <id>https://www.youtube.com/shorts/VKlulHwMxgU</id>
+        <link href="https://www.youtube.com/shorts/VKlulHwMxgU"/>
+        <updated>2026-09-24T13:00:24.000Z</updated>
+        <summary type="html"><![CDATA[Take a balloon and fill it with lots of air. Take another one and fill it with less air. Now connect the two via a valve. What do you think will happen when ...]]></summary>
+        <author>
+            <name>Veritasium</name>
         </author>
     </entry>
     <entry>
@@ -150,13 +263,22 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The World’s Biggest “Battery” Isn’t a Battery]]></title>
-        <id>https://www.youtube.com/shorts/mQBopx9Cjmc</id>
-        <link href="https://www.youtube.com/shorts/mQBopx9Cjmc"/>
-        <updated>2026-09-21T22:14:23.000Z</updated>
-        <summary type="html"><![CDATA[To reach our global goal of being net zero carbon emissions by 2050, we must solve one problem - energy storage. Thank you to Toyota for lending us the #Mira...]]></summary>
+        <title type="html"><![CDATA[The Insane Real Engineering of the Nazi Enigma Machine]]></title>
+        <id>https://www.youtube.com/watch?v=JsBZOcqZerk</id>
+        <link href="https://www.youtube.com/watch?v=JsBZOcqZerk"/>
+        <updated>2026-09-21T17:49:57.000Z</updated>
         <author>
-            <name>Physics Girl</name>
+            <name>Veritasium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heating A Ball Just By Squeezing It]]></title>
+        <id>https://www.youtube.com/shorts/hPoJWjJ9Ao8</id>
+        <link href="https://www.youtube.com/shorts/hPoJWjJ9Ao8"/>
+        <updated>2026-09-18T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How Jupiter heats its moon, just be stretching and squeezing it.]]></summary>
+        <author>
+            <name>Veritasium</name>
         </author>
     </entry>
     <entry>
@@ -169,23 +291,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BREAKING: A New Phase of Matter]]></title>
-        <id>https://www.youtube.com/shorts/AGLE47oRZUk</id>
-        <link href="https://www.youtube.com/shorts/AGLE47oRZUk"/>
-        <updated>2026-09-14T01:56:26.000Z</updated>
-        <summary type="html"><![CDATA[What are time crystals? How do scientists make one on a quantum computer?Support Physics Girl videos → https://www.patreon.com/physicsgirlStock footage provi...]]></summary>
+        <title type="html"><![CDATA[Why Does Majoras Mask Feel Like That?]]></title>
+        <id>https://www.youtube.com/watch?v=LAW67ibikSA</id>
+        <link href="https://www.youtube.com/watch?v=LAW67ibikSA"/>
+        <updated>2026-09-14T17:52:50.000Z</updated>
         <author>
-            <name>Physics Girl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Camera Sees Minutes Into the Past]]></title>
-        <id>https://www.youtube.com/shorts/p7YSGK_V2vM</id>
-        <link href="https://www.youtube.com/shorts/p7YSGK_V2vM"/>
-        <updated>2026-09-06T16:23:38.000Z</updated>
-        <summary type="html"><![CDATA[How can you use an infrared camera to see through walls? To inspect the scene of a crime? To catch a thief in hiding?! This cool device attaches to your smar...]]></summary>
-        <author>
-            <name>Physics Girl</name>
+            <name>Internet Pitstop</name>
         </author>
     </entry>
     <entry>
@@ -219,6 +330,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Watch SpaceX launch NASA's flagship Nancy Grace Roman Space Telescope on a Falcon Heavy!]]></title>
+        <id>https://www.youtube.com/watch?v=J6Ww6kQN4Qw</id>
+        <link href="https://www.youtube.com/watch?v=J6Ww6kQN4Qw"/>
+        <updated>2026-08-30T12:25:17.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What If Gravity Was 10% Stronger?]]></title>
         <id>https://www.youtube.com/shorts/EqkRVbaBxtg</id>
         <link href="https://www.youtube.com/shorts/EqkRVbaBxtg"/>
@@ -229,13 +349,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Does Light Turn Into Color?]]></title>
-        <id>https://www.youtube.com/shorts/AKt1O4YpZEs</id>
-        <link href="https://www.youtube.com/shorts/AKt1O4YpZEs"/>
-        <updated>2026-08-23T19:10:36.000Z</updated>
-        <summary type="html"><![CDATA[This is the winning entry for the 2014 Flame Challenge put on by Alan Alda and the Center for Communicating Science. http://flamechallenge.org Support Physic...]]></summary>
+        <title type="html"><![CDATA[Why NASA's new Roman Space Telescope is a huge deal]]></title>
+        <id>https://www.youtube.com/watch?v=nUlUa2zJXh4</id>
+        <link href="https://www.youtube.com/watch?v=nUlUa2zJXh4"/>
+        <updated>2026-08-28T18:01:14.000Z</updated>
         <author>
-            <name>Physics Girl</name>
+            <name>Everyday Astronaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside Starlab, a MASSIVE commercial Space Station!]]></title>
+        <id>https://www.youtube.com/watch?v=FQpSAWGgL7k</id>
+        <link href="https://www.youtube.com/watch?v=FQpSAWGgL7k"/>
+        <updated>2026-08-14T16:59:57.000Z</updated>
+        <author>
+            <name>Everyday Astronaut</name>
         </author>
     </entry>
 </feed>
