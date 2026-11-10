@@ -1,59 +1,102 @@
 {
   "sources": [
     {
-      "title": "minutephysics",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUHW94eEFW7hkUMVaZz4eDg",
-      "siteUrl": "https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg",
+      "title": "Primer",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKzJFdi57J53Vr_BkTfN3uQ",
+      "siteUrl": "https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ",
+      "articles": []
+    },
+    {
+      "title": "Adam Neely",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnkp4xDOwqqJD7sSM3xdUiQ",
+      "siteUrl": "https://www.youtube.com/channel/UCnkp4xDOwqqJD7sSM3xdUiQ",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=QXXqSh5qAuA",
+          "id": "https://www.youtube.com/watch?v=kIMIlLx4DIc",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=QXXqSh5qAuA",
-          "publishedOn": "2026-10-29T18:52:56.000Z",
+          "link": "https://www.youtube.com/watch?v=kIMIlLx4DIc",
+          "publishedOn": "2026-11-02T18:54:43.000Z",
           "wordCount": null,
-          "title": "What if We Can't Detect Dark Matter?",
+          "title": "Music is Inherently Political",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "CNC Kitchen",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiczXOhGpvoQGhOL16EZiTg",
+      "siteUrl": "https://www.youtube.com/channel/UCiczXOhGpvoQGhOL16EZiTg",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=V3X8Xe5W04g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=V3X8Xe5W04g",
+          "publishedOn": "2026-11-03T14:32:02.000Z",
+          "wordCount": null,
+          "title": "Bambu Lab Finally Built the Toolchanger We Wanted!",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/shorts/YBKuWCA5pug",
-          "author": null,
-          "description": "Full video: https://www.youtube.com/watch?v=1pfqIcSydgEA process called \"blackbody radiation\" makes all objects glow with light of a color depending on their...",
-          "link": "https://www.youtube.com/shorts/YBKuWCA5pug",
-          "publishedOn": "2026-10-24T16:00:02.000Z",
-          "wordCount": 3292,
-          "title": "Why do hot objects glow?",
-          "imageUrl": "https://i.ytimg.com/vi/YBKuWCA5pug/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD54BuZqSSAombLfMgkkLAP0Mohug"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/31kyER-8dak",
-          "author": null,
-          "description": "Full Video: https://www.youtube.com/watch?v=zDAE9A_1NA4What if you try to sandwich a cube between two portals?Does the cube disappear?Do the portals bounce o...",
-          "link": "https://www.youtube.com/shorts/31kyER-8dak",
-          "publishedOn": "2026-10-10T19:00:33.000Z",
-          "wordCount": 4123,
-          "title": "What if you try to sandwich a cube between two portals?",
-          "imageUrl": "https://i.ytimg.com/vi/31kyER-8dak/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLDJ31nHM2u5pY78qqEagYHocxWmXA"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4YvnVJRlQQs",
+          "id": "https://www.youtube.com/watch?v=meBi616y1mg",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=4YvnVJRlQQs",
-          "publishedOn": "2026-08-19T14:45:49.000Z",
+          "link": "https://www.youtube.com/watch?v=meBi616y1mg",
+          "publishedOn": "2026-10-31T16:31:20.000Z",
           "wordCount": null,
-          "title": "The Wavy Window Paradox",
+          "title": "3D Scanning Will Never Be the Same Again! (feat. Elegoo M1 Ultra)",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/shorts/bU9xvXyWrdk",
+          "id": "https://www.youtube.com/watch?v=KNnA05QYKB0",
           "author": null,
-          "description": "How long is a day on the sun? At first might seem like a stupid question.A day is how long it takes the sun to come back overhead.Doesn’t happen on the sun, ...",
-          "link": "https://www.youtube.com/shorts/bU9xvXyWrdk",
-          "publishedOn": "2026-08-11T17:00:01.000Z",
-          "wordCount": 3744,
-          "title": "How long is a day on the sun?",
-          "imageUrl": "https://i.ytimg.com/vi/bU9xvXyWrdk/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLBmoKAAP3gTZUxDjmZsBMt3t7Kd1g"
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KNnA05QYKB0",
+          "publishedOn": "2026-10-16T14:05:07.000Z",
+          "wordCount": null,
+          "title": "This Resin 3D Printer Changed My Mind!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/w0t_XR9DODQ",
+          "author": null,
+          "description": "Last year, I secretly brought a 3D printer on vacation to prove to my wife just how useful 3D printing can be. Unfortunately, my 3D-printed beach hooks broke...",
+          "link": "https://www.youtube.com/shorts/w0t_XR9DODQ",
+          "publishedOn": "2026-10-13T15:35:58.000Z",
+          "wordCount": 4237,
+          "title": "I Snuck a 3D Printer on Vacation!  #3dprinting #positron",
+          "imageUrl": "https://i.ytimg.com/vi/w0t_XR9DODQ/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBlcWFj2X5zBw8deSrJR04LgNAWeQ"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/awt3fLF7HNc",
+          "author": null,
+          "description": "Our neighbors smoke right next to our fresh-air intake, and our ventilation system distributes the smell throughout the entire studio! So I 3D-printed a mass...",
+          "link": "https://www.youtube.com/shorts/awt3fLF7HNc",
+          "publishedOn": "2026-10-12T14:46:17.000Z",
+          "wordCount": 5091,
+          "title": "I've Got a Smell Problem! #3dprinting  #diy",
+          "imageUrl": "https://i.ytimg.com/vi/awt3fLF7HNc/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAKhVFPRUEVD4pzUxBpg9lVMCl_7w"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bYWatIh1LzQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bYWatIh1LzQ",
+          "publishedOn": "2026-09-12T16:10:20.000Z",
+          "wordCount": null,
+          "title": "Why did Nobody Make this Before? SUNLU i10 Dry Cabinet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6Pe7mMFp9Go",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6Pe7mMFp9Go",
+          "publishedOn": "2026-09-06T15:33:38.000Z",
+          "wordCount": null,
+          "title": "I Tested Two 3D Scanners: One Is Simply Better!",
+          "imageUrl": null
         }
       ]
     },
@@ -70,6 +113,240 @@
           "publishedOn": "2026-11-01T03:58:22.000Z",
           "wordCount": null,
           "title": "My dog won't stay out of mud so I made this...",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "You Suck At Cooking",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCekQr9znsk2vWxBo3YiLq2w",
+      "siteUrl": "https://www.youtube.com/channel/UCekQr9znsk2vWxBo3YiLq2w",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/jHyxSnOSQgE",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/jHyxSnOSQgE",
+          "publishedOn": "2026-11-06T19:23:33.000Z",
+          "wordCount": 3238,
+          "title": "Preparing for Fall  #apple #fall #leaves",
+          "imageUrl": "https://i.ytimg.com/vi/jHyxSnOSQgE/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBzbYVCZzLj92FihYqMmEB5HA1vxQ"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/mjf8i_qZ3u4",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/mjf8i_qZ3u4",
+          "publishedOn": "2026-10-31T15:28:10.000Z",
+          "wordCount": 3091,
+          "title": "Jack it Up         #halloween #pumpkin #jackolantern",
+          "imageUrl": "https://i.ytimg.com/vi/mjf8i_qZ3u4/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLASTiEAIwepb-XY5gJ-pzfc2lXRpQ"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/7zvheC0F_Yk",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/7zvheC0F_Yk",
+          "publishedOn": "2026-10-27T20:03:07.000Z",
+          "wordCount": 3983,
+          "title": "History of Jack-O-Lanterns.  #pumpkin #halloween #jackolantern",
+          "imageUrl": "https://i.ytimg.com/vi/7zvheC0F_Yk/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDrEJwJxlUQWg78w1IgUzp8OLo02Q"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/IarUQl3EOdA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/IarUQl3EOdA",
+          "publishedOn": "2026-10-23T22:17:40.000Z",
+          "wordCount": 3087,
+          "title": "The Lemon Party                   #lemons #party #nature",
+          "imageUrl": "https://i.ytimg.com/vi/IarUQl3EOdA/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCREy7sNCiACT_n80xZXzKaiAW1og&usqp=CBQ"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/WBuxw41gWhI",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/WBuxw41gWhI",
+          "publishedOn": "2026-10-22T17:03:51.000Z",
+          "wordCount": 3347,
+          "title": "Secrets of the avocado pit: true then, true now",
+          "imageUrl": "https://i.ytimg.com/vi/WBuxw41gWhI/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAR5zCa2ZdLYkYy-qHOM0CbGGZNzA"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/imtpfFn8a0w",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/imtpfFn8a0w",
+          "publishedOn": "2026-10-18T15:45:15.000Z",
+          "wordCount": 3440,
+          "title": "Episode 182 Alpha Male Cupcakes #recipe #cupcakes #alpha",
+          "imageUrl": "https://i.ytimg.com/vi/imtpfFn8a0w/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA-27EeqQF0CI0krtsT36iCHPgiaQ"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=mXUG-m6QgKs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mXUG-m6QgKs",
+          "publishedOn": "2026-10-13T15:26:04.000Z",
+          "wordCount": null,
+          "title": "Alpha Male Cupcakes - You Suck at Cooking (episode 182)",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Business Insider",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA",
+      "siteUrl": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/e4ks_XWBfYU",
+          "author": null,
+          "description": "------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...",
+          "link": "https://www.youtube.com/shorts/e4ks_XWBfYU",
+          "publishedOn": "2026-11-09T23:02:13.000Z",
+          "wordCount": 3418,
+          "title": "What's happening behind the scenes at #Nvidia? #JensenHuang #AI #tech",
+          "imageUrl": "https://i.ytimg.com/vi/e4ks_XWBfYU/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCCWTuSGUL_rSN6Os98ceWR4ZMwmg"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/FcGzC1UiUuA",
+          "author": null,
+          "description": "------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...",
+          "link": "https://www.youtube.com/shorts/FcGzC1UiUuA",
+          "publishedOn": "2026-11-09T17:03:31.000Z",
+          "wordCount": 3495,
+          "title": "Watch patrons at this Route 66 restaurant take on a 72-ounce steak challenge in an hour #bigbusiness",
+          "imageUrl": "https://i.ytimg.com/vi/FcGzC1UiUuA/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBeChjWLUWQGalwJCDR4E2kNfHsgw"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=AQ13d8dJMy0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AQ13d8dJMy0",
+          "publishedOn": "2026-11-09T14:00:31.000Z",
+          "wordCount": null,
+          "title": "How I Live Alone in Oslo, Norway on $78,000 A Year | The Pay Check",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/KSGcIrVEXd0",
+          "author": null,
+          "description": "------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...",
+          "link": "https://www.youtube.com/shorts/KSGcIrVEXd0",
+          "publishedOn": "2026-11-09T13:00:31.000Z",
+          "wordCount": 3657,
+          "title": "#Amazon sellers say they're being pressured to raise prices elsewhere. Here's how. #ecommerce",
+          "imageUrl": "https://i.ytimg.com/vi/KSGcIrVEXd0/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCODh0zDz9pgpy_aKQTHiuObaRG8Q"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/n_HJDjxxrj8",
+          "author": null,
+          "description": "------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...",
+          "link": "https://www.youtube.com/shorts/n_HJDjxxrj8",
+          "publishedOn": "2026-11-07T17:28:09.000Z",
+          "wordCount": 4270,
+          "title": "How #Amazon's low prices raises #prices. #soexpensive",
+          "imageUrl": "https://i.ytimg.com/vi/n_HJDjxxrj8/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLC2jk58Dt_cCvasUbndDnZzVupOuA"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/QA-H14pCI9M",
+          "author": null,
+          "description": "------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...",
+          "link": "https://www.youtube.com/shorts/QA-H14pCI9M",
+          "publishedOn": "2026-11-06T22:57:44.000Z",
+          "wordCount": 3292,
+          "title": "Even #brands are getting tired of #podcast ads. Here's why. #advertising #marketing",
+          "imageUrl": "https://i.ytimg.com/vi/QA-H14pCI9M/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLC7WJMwN5_iCjjg-jCnFrZdeKpcNA"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/l80OoltpX6c",
+          "author": null,
+          "description": "------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...",
+          "link": "https://www.youtube.com/shorts/l80OoltpX6c",
+          "publishedOn": "2026-11-06T22:00:04.000Z",
+          "wordCount": 3496,
+          "title": "#Greenland is opening up to tourism, but Arctic cruise travel comes with major risks. #riskybusiness",
+          "imageUrl": "https://i.ytimg.com/vi/l80OoltpX6c/sardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLCNTaWHk8GcHrW6D8-5tv08YPdfEQ"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/kWP1whFp3s0",
+          "author": null,
+          "description": "------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...",
+          "link": "https://www.youtube.com/shorts/kWP1whFp3s0",
+          "publishedOn": "2026-11-06T20:59:07.000Z",
+          "wordCount": 3517,
+          "title": "Skydance is offering buyouts to employees who are unhappy with its #RTO plan. Here’s what’s on offer",
+          "imageUrl": "https://i.ytimg.com/vi/kWP1whFp3s0/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDPhZdhZWghlVDeRJXSNdK3VY2jpQ"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wFvBd2C6pHk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wFvBd2C6pHk",
+          "publishedOn": "2026-11-06T14:00:05.000Z",
+          "wordCount": null,
+          "title": "How AI Robots Are Helping The US Make More Honey | AI In Action",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/DWLtSAH802U",
+          "author": null,
+          "description": "------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...",
+          "link": "https://www.youtube.com/shorts/DWLtSAH802U",
+          "publishedOn": "2026-11-05T21:18:55.000Z",
+          "wordCount": 3489,
+          "title": "The #midterm #election results were loud and clear: #Americans are rejecting #AI #datacenters",
+          "imageUrl": "https://i.ytimg.com/vi/DWLtSAH802U/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBVK5rPX43otF1m9LJdffoCR9_lcQ"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/e8F8kmFWprM",
+          "author": null,
+          "description": "------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...",
+          "link": "https://www.youtube.com/shorts/e8F8kmFWprM",
+          "publishedOn": "2026-11-05T19:03:05.000Z",
+          "wordCount": 3803,
+          "title": "What #Lululemon's stock market woes mean for its future. #FirstTrade",
+          "imageUrl": "https://i.ytimg.com/vi/e8F8kmFWprM/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLC1QSHocSGg7b3nyMWpDu6ivjw9cw"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/q3PePJIIWgs",
+          "author": null,
+          "description": "------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...",
+          "link": "https://www.youtube.com/shorts/q3PePJIIWgs",
+          "publishedOn": "2026-11-05T17:31:50.000Z",
+          "wordCount": 3465,
+          "title": "This is how #cruise ships navigate #Greenland's dangerous #icebergs. #riskybusiness",
+          "imageUrl": "https://i.ytimg.com/vi/q3PePJIIWgs/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA7HGc_Jmq3WNW0PC1iv26ISQUcjA"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/5caVBNe7hAQ",
+          "author": null,
+          "description": "------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...",
+          "link": "https://www.youtube.com/shorts/5caVBNe7hAQ",
+          "publishedOn": "2026-11-04T22:59:12.000Z",
+          "wordCount": 3381,
+          "title": "Inside #Amazon's robot-powered warehouse. Are #robots coming for our jobs? #AI #AIInsider #robotics",
+          "imageUrl": "https://i.ytimg.com/vi/5caVBNe7hAQ/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA7qugdCznwUSKgjy34mrAmA94Qxw"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/xenBhIdSHeo",
+          "author": null,
+          "description": "------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...",
+          "link": "https://www.youtube.com/shorts/xenBhIdSHeo",
+          "publishedOn": "2026-11-04T22:05:55.000Z",
+          "wordCount": 3555,
+          "title": "Who were the biggest winners and losers of the 2026 #midterms? #elonmusk #politics #election2026",
+          "imageUrl": "https://i.ytimg.com/vi/xenBhIdSHeo/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCu_vlMhGVLgLzuuHvIgyF4LEjCbg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=2IHqDUY3ZVc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2IHqDUY3ZVc",
+          "publishedOn": "2026-11-04T16:59:44.000Z",
+          "wordCount": null,
+          "title": "The Dark Side Of India's $740 Million Firecracker Industry",
           "imageUrl": null
         }
       ]
