@@ -1,12 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-21T04:36:41.712Z</id>
+    <id>urn:2026-11-22T03:51:14.015Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-21T04:36:41.712Z</updated>
+    <updated>2026-11-22T03:51:14.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Scientific Unit Charms]]></title>
+        <title type="html"><![CDATA[Since last year, we asked: “What if AI solved the Riemann Hypothesis?”]]></title>
+        <id>https://www.youtube.com/watch?v=zqzk43bSdDI</id>
+        <link href="https://www.youtube.com/watch?v=zqzk43bSdDI"/>
+        <updated>2026-11-22T02:02:12.000Z</updated>
+        <author>
+            <name>3Blue1Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why does Delhi's air get so polluted after #Diwali? #riskybusiness #fireworks]]></title>
+        <id>https://www.youtube.com/shorts/gLRkU94LeUo</id>
+        <link href="https://www.youtube.com/shorts/gLRkU94LeUo"/>
+        <updated>2026-11-21T20:00:15.000Z</updated>
+        <summary type="html"><![CDATA[------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...]]></summary>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grand Theft Machining]]></title>
+        <id>https://www.youtube.com/shorts/dWzv6bIWPrs</id>
+        <link href="https://www.youtube.com/shorts/dWzv6bIWPrs"/>
+        <updated>2026-11-21T15:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Register for Boombastic 2026:https://boombastic.titansofcnc.com/boom26Join The #1 Manufacturing Social App:https://mfgconnect.com/Get the MFG Connect app her...]]></summary>
+        <author>
+            <name>TITANS of CNC MACHINING</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Workers In India Risk Their Lives To Recycle Your Old Clothes]]></title>
+        <id>https://www.youtube.com/watch?v=l-Qm2FvOXa8</id>
+        <link href="https://www.youtube.com/watch?v=l-Qm2FvOXa8"/>
+        <updated>2026-11-21T14:00:23.000Z</updated>
+        <author>
+            <name>Business Insider</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trophies From The Hunt For Knowledge]]></title>
         <id>https://www.youtube.com/shorts/e2f8Pe0vIXM</id>
         <link href="https://www.youtube.com/shorts/e2f8Pe0vIXM"/>
         <updated>2026-11-21T00:30:52.000Z</updated>
@@ -102,7 +140,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Map of Philosophy - Part 1: Ancient and Medieval]]></title>
+        <title type="html"><![CDATA[The Map of Ancient Philosophy]]></title>
         <id>https://www.youtube.com/watch?v=I0rkpF49Deo</id>
         <link href="https://www.youtube.com/watch?v=I0rkpF49Deo"/>
         <updated>2026-11-20T13:00:14.000Z</updated>
@@ -458,25 +496,6 @@
         <updated>2026-11-16T16:00:02.000Z</updated>
         <author>
             <name>The Engineering Mindset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breaking Down My $90,000 Salary In Tokyo, Japan | The Pay Check]]></title>
-        <id>https://www.youtube.com/watch?v=j-kr9ntjT-s</id>
-        <link href="https://www.youtube.com/watch?v=j-kr9ntjT-s"/>
-        <updated>2026-11-16T15:52:32.000Z</updated>
-        <author>
-            <name>Business Insider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why the Naked Cowboy spends about $120 a day on food. #budget #costofliving #thepaycheck]]></title>
-        <id>https://www.youtube.com/shorts/fb0y05b5NR4</id>
-        <link href="https://www.youtube.com/shorts/fb0y05b5NR4"/>
-        <updated>2026-11-16T15:15:57.000Z</updated>
-        <summary type="html"><![CDATA[------------------------------------------------------Business Insider is a global newsroom covering business, technology, innovation, and the economy.Visit ...]]></summary>
-        <author>
-            <name>Business Insider</name>
         </author>
     </entry>
     <entry>
@@ -989,16 +1008,6 @@
         <summary type="html"><![CDATA[Don't believe and try things you see on the internet, especially the dangerous ones!]]></summary>
         <author>
             <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lights Out Machining With Confidence]]></title>
-        <id>https://www.youtube.com/shorts/2UnFVU7MTHc</id>
-        <link href="https://www.youtube.com/shorts/2UnFVU7MTHc"/>
-        <updated>2026-11-06T15:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Register for Boombastic 2026:https://boombastic.titansofcnc.com/boom26Join The #1 Manufacturing Social App:https://mfgconnect.com/Get the MFG Connect app her...]]></summary>
-        <author>
-            <name>TITANS of CNC MACHINING</name>
         </author>
     </entry>
     <entry>
@@ -2606,16 +2615,6 @@
         <updated>2026-08-27T16:01:40.000Z</updated>
         <author>
             <name>ElectroBOOM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Does Light Turn Into Color?]]></title>
-        <id>https://www.youtube.com/shorts/AKt1O4YpZEs</id>
-        <link href="https://www.youtube.com/shorts/AKt1O4YpZEs"/>
-        <updated>2026-08-23T19:10:36.000Z</updated>
-        <summary type="html"><![CDATA[This is the winning entry for the 2014 Flame Challenge put on by Alan Alda and the Center for Communicating Science. http://flamechallenge.org Support Physic...]]></summary>
-        <author>
-            <name>Physics Girl</name>
         </author>
     </entry>
 </feed>
